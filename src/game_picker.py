@@ -4,7 +4,7 @@ import asyncio
 import copy
 import datetime
 import itertools
-import json
+import logging
 import math
 import os
 import statistics
@@ -12,16 +12,16 @@ import random
 import re
 from difflib import SequenceMatcher, unified_diff
 from pathlib import Path
-from typing import Dict, List, Optional, Set, Tuple
+from typing import Callable, Dict, List, Optional, Set, Tuple
 
+import jsonpickle
 import numpy as np
-import unidecode
 from spellchecker import SpellChecker
 
 from clients import (
+    AmazonClient,
     BackloggdClient,
     DatePart,
-    GameyeClient,
     GiantBombClient,
     MobyGamesClient,
     RateLimit,
@@ -29,8 +29,10 @@ from clients import (
 
 from excel_game import (
     ExcelGame,
+    ExcelGameBuilder,
     ExcelGenre,
     ExcelOwnedCondition,
+    ExcelOwnedFormat,
     ExcelPlatform,
     ExcelRegion,
     FuzzyDateType,
@@ -39,6 +41,7 @@ from excel_game import (
 )
 
 from excel_loader import ExcelLoader
+from game_match import DataSource, GameMatch
 
 from logging_decorator import LoggingColor, LoggingDecorator
 from match_validator import MatchValidator
@@ -62,7 +65,6 @@ class GamesPicker:
     _played_games: List[ExcelGame]
     _validator: MatchValidator
     _bcclient: BackloggdClient
-    _geclient: GameyeClient
     _gbclient: GiantBombClient
     _mbclient: MobyGamesClient
     _cache: ExcelBackedCache
@@ -95,7 +97,6 @@ class GamesPicker:
         self._cache = ExcelBackedCache()
         self._validator = MatchValidator()
         self._bcclient = BackloggdClient(self._validator)
-        self._geclient = GameyeClient(self._validator)
         self._gbclient = GiantBombClient(self._validator)
         self._mbclient = MobyGamesClient(
             self._validator, rate_limit=RateLimit(1, DatePart.SECOND)
@@ -321,6 +322,38 @@ class GamesPicker:
         self._gbcache[concept_guid] = titles
 
         return titles
+
+    def __get_excel_parser_output(self, source: DataSource) -> Dict[str, GameMatch]:
+        output_root = "D:\\Code\\GameMaster\\output"
+        source_folder = f"{output_root}\\{source.name.lower()}"
+
+        game_match_dict: Dict[str, GameMatch] = {}
+
+        for root, _, files in os.walk(source_folder):
+            for file in files:
+                if not file.startswith("matches-"):
+                    continue
+
+                with open(f"{root}/{file}", "r", encoding="utf-8") as f:
+                    game_match_dict.update(jsonpickle.decode(f.read()))
+
+        return game_match_dict
+
+    def __excel_parser_output_filter(
+        self,
+        games: List[ExcelGame],
+        source: DataSource,
+        match_condition: Callable[[GameMatch], bool],
+    ) -> List[ExcelGame]:
+        parser_output = self.__get_excel_parser_output(source)
+        parser_output = {k: v for k, v in parser_output.items() if match_condition(v)}
+
+        filtered = list(filter(lambda g: g.hash_id in parser_output, games))
+
+        for g in filtered:
+            g.group_metadata = parser_output[g.hash_id].match_info
+
+        return filtered
 
     def __backloggd_top(self, games: List[ExcelGame]) -> List[ExcelGame]:
         pop_iter = self._bcclient.get_popular_games()
@@ -566,56 +599,24 @@ class GamesPicker:
 
         return zeroes
 
-    async def __completed_values(self, games: List[ExcelGame]) -> List[ExcelGame]:
-        priced_games = []
+    def __completed_values(self, games: List[ExcelGame]) -> List[ExcelGame]:
+        gameeye_output = self.__get_excel_parser_output(DataSource.GAMEYE)
+        priced_games: List[ExcelGame] = []
 
-        print(f"Pricing {len(games)} games.")
+        filtered = list(filter(lambda g: g.hash_id in gameeye_output, games))
 
-        for game in games:
-            if self._geclient.should_skip(game):
+        for game in filtered:
+            owned_type = self.CONDIITON_MAPPING[game.owned_condition]
+            if (
+                gameeye_output[game.hash_id].match_info.get("price") is None
+                or owned_type not in gameeye_output[game.hash_id].match_info["price"]
+            ):
                 continue
 
-            if game.owned_condition is None:
-                print(f"Skipped {game.full_name} due to missing condition.")
-                game.group_metadata = None
-                priced_games.append(game)
-                continue
-
-            matches = await self._geclient.match_game(game)
-
-            if matches is not None and len(matches) == 1:
-                if (
-                    not matches[0].match_info
-                    or not matches[0].match_info.get("price")
-                    or not matches[0]
-                    .match_info["price"]
-                    .get(self.CONDIITON_MAPPING[game.owned_condition])
-                ):
-                    print(f"Skipping {game.full_name} due to no price info on Gameye.")
-                    game.group_metadata = None
-                    priced_games.append(game)
-                    continue
-
-                game.group_metadata = float(
-                    matches[0].match_info["price"][
-                        self.CONDIITON_MAPPING[game.owned_condition]
-                    ]
-                )
-
-                if game.copies_owned is not None:
-                    game.group_metadata *= game.copies_owned
-                    game.title += f" ({game.copies_owned} copies owned)"
-
-                print(
-                    f"Found price for {game.full_name} - ${game.group_metadata / 100:,.2f}"
-                )
-                priced_games.append(game)
-                continue
-
-            if matches is not None and len(matches) > 1:
-                print(f"Found multiple prices for {game.full_name}")
-                game.group_metadata = None
-                priced_games.append(game)
+            game.group_metadata = float(
+                gameeye_output[game.hash_id].match_info["price"][owned_type]
+            )
+            priced_games.append(game)
 
         return priced_games
 
@@ -623,6 +624,8 @@ class GamesPicker:
         by_platform = GameGrouping().get_groups(games)
         pattern = r"(\(.*\))|(\[.*\])|([vV]{1}[0-9]{1}\.[0-9]{1})|(_.*)|(, The)"
         non_downloaded = []
+
+        arcade_database_output: Dict[str, GameMatch] = {}
 
         for platform, p_games in by_platform.items():
             folders = []
@@ -738,7 +741,16 @@ class GamesPicker:
             if platform == ExcelPlatform.APPLE_II:
                 folders.append("E:\\Emulation\\Other\\Apple II")
             if platform == ExcelPlatform.ARCADE:
-                folders.append("E:\\Emulation\\Other\\Arcade (Non-MAME)")
+                folders.extend(
+                    [
+                        "E:\\Emulation\\Other\\Arcade (Non-MAME)",
+                        "E:\\Emulation\\Other\\MAME",
+                    ]
+                )
+
+                arcade_database_output = self.__get_excel_parser_output(
+                    DataSource.ARCADE_DATABASE
+                )
             if platform == ExcelPlatform.BBC_MICRO:
                 folders.append("E:\\Emulation\\Other\\BBC Micro")
             if platform == ExcelPlatform.COLECOVISION:
@@ -901,6 +913,17 @@ class GamesPicker:
                     matched = False
 
                     for d_game in downloaded:
+                        if (
+                            game.game.platform == ExcelPlatform.ARCADE
+                            and game.game.hash_id in arcade_database_output
+                        ):
+                            arcade_db_game = arcade_database_output[game.game.hash_id]
+                            mame_name = arcade_db_game.match_info["game_name"]
+
+                            if mame_name == d_game:
+                                matched = True
+                                break
+
                         if self._validator.titles_equal_fuzzy(
                             d_game, game.game.normal_title
                         ):
@@ -963,7 +986,8 @@ class GamesPicker:
             # Owned Physical Games Missing Condition
             if (
                 game.owned
-                and game.owned_format in ("Physical", "Both")
+                and game.owned_format
+                in (ExcelOwnedFormat.PHYSICAL, ExcelOwnedFormat.BOTH)
                 and game.owned_condition is None
             ):
                 g_copy = copy.copy(game)
@@ -1091,7 +1115,9 @@ class GamesPicker:
         def to_percent(num: float) -> int:
             return round(num * 100)
 
-        for game in self._completed_games:
+        for cur, game in enumerate(
+            sorted(self._completed_games, key=lambda g: g.completion_number)
+        ):
             # Collection Title Missing from Main Sheet
             if (
                 game.collection is not None
@@ -1105,6 +1131,12 @@ class GamesPicker:
             # Typo in Notes
             if game.notes is not None and game.notes != "":
                 pass
+
+            # Incorrect Completion Number
+            if game.completion_number != cur + 1:
+                g_copy = copy.copy(game)
+                g_copy.group_metadata = "Completed: Completion Number Incorrect"
+                invalid_games.append(g_copy)
 
             if game.hash_id in games_dict:
                 # Rating Mismatch
@@ -1141,7 +1173,7 @@ class GamesPicker:
             # Estimated Release Passed
             if (
                 game.estimated_release is not None
-                and game.estimated_release < datetime.datetime.now()
+                and game.estimated_release.date() < datetime.datetime.now().date()
             ):
                 g_copy = copy.copy(game)
                 g_copy.group_metadata = "Games on Order: Past Estimated Release"
@@ -1215,24 +1247,72 @@ class GamesPicker:
         return incomplete_collections
 
     def __coop_games(self, games: List[ExcelGame]) -> List[ExcelGame]:
-        game_master_output_folder = "D:\\Code\\GameMaster\\output\\cooptimus"
-        coop_games = {}
-        output = []
-
-        for root, _, files in os.walk(game_master_output_folder):
-            for file in files:
-                if not file.startswith("matches-"):
-                    continue
-
-                with open(f"{root}/{file}", "r", encoding="utf-8") as f:
-                    coop_games.update(json.loads(f.read()))
+        coop_games = self.__get_excel_parser_output(DataSource.COOPTIMUS)
+        output: List[ExcelGame] = []
 
         for game in games:
             if game.hash_id in coop_games:
-                game.group_metadata = coop_games[game.hash_id]["match_info"]
+                game.group_metadata = coop_games[game.hash_id].match_info
                 output.append(game)
 
         return output
+
+    async def __unordered_amazon_games(self, _: List[ExcelGame]) -> List[ExcelGame]:
+        logging.basicConfig(level=logging.DEBUG)
+
+        amazon_client = AmazonClient(
+            self._validator, pages_without_unreleased_threshold=20
+        )
+
+        unordered_games = await amazon_client.get_unordered_games()
+
+        return [
+            ExcelGameBuilder()
+            .with_title(uo.title)
+            .with_platform(p)
+            .with_release_date(uo.release_date)
+            .with_purchase_price(uo.price)
+            .with_order_link(uo.url)
+            .build()
+            for p, p_games in unordered_games.items()
+            for uo in p_games
+        ]
+
+    def __visual_novels(self, games: List[ExcelGame]) -> List[ExcelGame]:
+        vndb_games = self.__get_excel_parser_output(DataSource.VNDB)
+        output: List[ExcelGame] = []
+
+        for game in games:
+            if game.genre == ExcelGenre.VISUAL_NOVEL or game.hash_id in vndb_games:
+                output.append(game)
+
+        return output
+
+    def __one_per_platform_challenge(self, games: List[ExcelGame]) -> List[ExcelGame]:
+        challenge_start = datetime.datetime(2024, 10, 20)
+        remaining_platforms: List[ExcelGame] = []
+
+        by_platform = GameGrouping().get_groups(games)
+
+        completed_platforms = set(
+            cg.platform
+            for cg in filter(
+                lambda cg: cg.date_completed is not None
+                and cg.date_completed.date() > challenge_start.date(),
+                self._completed_games,
+            )
+        )
+
+        for platform, group in by_platform.items():
+            if platform in completed_platforms:
+                continue
+
+            sorted_group = sorted(
+                group, key=lambda g: g.game.combined_rating, reverse=True
+            )
+            remaining_platforms.append(sorted_group[0].game)
+
+        return remaining_platforms
 
     def __cleanup(self):
         files_to_remove = []
@@ -1283,13 +1363,15 @@ class GamesPicker:
                 name="3D Platformers",
             ),
             GameSelector(
-                _filter=lambda g: g.release_year > 2005,
-                name="AAA Games",
-                grouping=GameGrouping(
-                    lambda g: g.publisher,
-                    _filter=lambda kvp: len(kvp[1]) / len(self._games) >= 0.005,
+                lambda games: self.__excel_parser_output_filter(
+                    games,
+                    DataSource.VG_CHARTZ,
+                    lambda gm: (gm.match_info.get("total_shipped") or 0) >= 1_000_000,
                 ),
-                description="Criteria: Publisher has published >= 0.5% of all games.",
+                name="AAA Games",
+                sort=lambda g: g.game.group_metadata["total_shipped"],
+                reverse_sort=True,
+                custom_suffix=lambda g: f' - {int(g.group_metadata["total_shipped"]):,} units',
             ),
             GameSelector(
                 lambda gs: sorted(
@@ -1832,10 +1914,7 @@ class GamesPicker:
                 sort=lambda g: g.game.combined_rating,
                 reverse_sort=True,
             ),
-            GameSelector(
-                _filter=lambda game: game.genre == ExcelGenre.VISUAL_NOVEL,
-                name="Visual Novels",
-            ),
+            GameSelector(self.__visual_novels),
             GameSelector(
                 _filter=lambda _g: _g.vr,
                 name="VR",
@@ -1974,6 +2053,13 @@ class GamesPicker:
                 include_in_picks=False,
                 include_platform=False,
                 run_on_modes=set([PickerMode.ALL]),
+                custom_suffix=lambda g: (
+                    f" - {g.playing_progress:.0%} complete"
+                    if g.playing_progress is not None
+                    else ""
+                ),
+                sort=lambda pg: pg.game.playing_progress or 0,
+                reverse_sort=True,
             ),
             GameSelector(
                 self.__backloggd_top,
@@ -2199,12 +2285,12 @@ class GamesPicker:
                 enabled=False,
             ),
             GameSelector(
-                lambda gs: asyncio.run(self.__completed_values(gs)),
-                name="Completed Values",
+                self.__completed_values,
                 run_on_modes=set([PickerMode.ALL]),
                 games=list(
                     filter(
-                        lambda g: g.owned_format in ("Both", "Physical"),
+                        lambda g: g.owned_format
+                        in (ExcelOwnedFormat.BOTH, ExcelOwnedFormat.PHYSICAL),
                         self._played_games,
                     )
                 ),
@@ -2227,10 +2313,8 @@ class GamesPicker:
                     if g.group_metadata is not None
                     else ""
                 ),
-                sort=lambda g: g.game.group_metadata or g.game.normal_title,
+                sort=lambda g: g.game.group_metadata,
                 reverse_sort=True,
-                skip_unless_specified=True,
-                no_force=True,
             ),
             GameSelector(
                 name="Unplayed Wishlisted",
@@ -2254,6 +2338,7 @@ class GamesPicker:
                 skip_unless_specified=True,
                 no_force=True,
                 grouping=GameGrouping(should_rank=False),
+                include_platform=False,
             ),
             GameSelector(
                 self.__misspellings,
@@ -2314,6 +2399,20 @@ class GamesPicker:
                 ),
                 custom_suffix=lambda g: f" ({', '.join(sorted(g.group_metadata['features']))})",
                 include_platform=True,
+            ),
+            GameSelector(
+                lambda games: asyncio.run(self.__unordered_amazon_games(games)),
+                name="Unordered Amazon Games",
+                run_on_modes=set([PickerMode.ALL]),
+                include_in_picks=False,
+                skip_unless_specified=True,
+                no_force=True,
+                custom_suffix=lambda g: f" - ${g.purchase_price:,.2f} ({g.order_link})",
+            ),
+            GameSelector(
+                self.__one_per_platform_challenge,
+                run_on_modes=set([PickerMode.ALL]),
+                include_in_picks=False,
             ),
         ]
 
@@ -2489,6 +2588,8 @@ class GamesPicker:
                 selector.no_cache = True
 
             if force and not selector.no_force:
+                if selector.skip_unless_specified:
+                    print(f"Forcing selector {selector.name}")
                 should_skip = False
 
             if ((not selector_names or not any(selector_names)) and should_skip) or (

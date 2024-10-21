@@ -260,9 +260,9 @@ async def find_exclusives_missing(platform: str):
         validator.normalize(g.title)
         for g in filter(
             lambda g: (
-                (g.platform.lower() == sheet_platform_name)
+                (g.platform.value.lower() == sheet_platform_name)
                 if isinstance(sheet_platform_name, str)
-                else (g.platform.lower() in sheet_platform_name)
+                else (g.platform.value.lower() in sheet_platform_name)
             ),
             games,
         )
