@@ -13,7 +13,7 @@ class ExcelBackedCache:
     def __get_excel_file_name(self) -> str:
         return f"{self.__BASE_DROPBOX_FOLDER}\\{self.__EXCEL_SHEET_NAME}"
 
-    def load(self, cache_file_name: str) -> Any:
+    def load(self, cache_file_name: str, use_excel_modify_date: bool = True) -> Any:
         if not os.path.exists(cache_file_name):
             return None
 
@@ -25,7 +25,7 @@ class ExcelBackedCache:
                 modify_timestamp_pt, tz=pytz.timezone("America/Los_Angeles")
             ).astimezone(datetime.UTC)
 
-            if modify_time_utc <= cache_time:
+            if not use_excel_modify_date or modify_time_utc <= cache_time:
                 return data
 
             return None

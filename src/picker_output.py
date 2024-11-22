@@ -22,17 +22,19 @@ def get_group_output(
     selector: GameSelector,
     grouping: GameGrouping,
     level: int = 0,
+    markdown: bool = True,
 ):
-    spacer = "    "
+    spacer = "    " if not markdown else ""
+    markdown_heading = f"##{'#' * min(level, 4)} " if markdown else ""
 
-    output += f"{spacer * level}{group_name}:\n\n"
+    output += f"{spacer * level}{markdown_heading}{group_name}:\n\n"
 
     if len(selector.grouping.subgroupings) == level:
         games: List[PickedGame] = sorted(
             group, key=selector.sort, reverse=selector.reverse_sort
         )[: grouping.take]
 
-        if grouping.take is not None:
+        if grouping.take is not None and grouping.should_rank:
             # May need to elect a new highest priority game
             highest: Optional[PickedGame] = None
 
@@ -61,10 +63,16 @@ def get_group_output(
                 selector.custom_prefix(g.game),
                 selector.custom_suffix(g.game),
                 with_year=with_year,
+                markdown=markdown,
             )
 
+        markdown_indent = "- " if markdown else ""
+
         output += (
-            "\n".join(f"{spacer * (level + 1)}{get_game_string(g)}" for g in games)
+            "\n".join(
+                f"{spacer * (level + 1)}{markdown_indent}{get_game_string(g)}"
+                for g in games
+            )
             + "\n\n"
         )
 
@@ -79,6 +87,7 @@ def get_subgrouping_output(
     selector: GameSelector,
     output: str,
     name_collisions: Dict[str, int],
+    markdown: bool,
 ):
     if subgrouping is None:
         return output
@@ -97,6 +106,7 @@ def get_subgrouping_output(
             selector,
             subgrouping,
             level,
+            markdown,
         )
         output = get_subgrouping_output(
             copy.deepcopy(subgroupings),
@@ -106,6 +116,7 @@ def get_subgrouping_output(
             selector,
             output,
             name_collisions,
+            markdown,
         )
 
     return output

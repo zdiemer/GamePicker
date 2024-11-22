@@ -6,4 +6,3 @@ class PickerMode(Enum):
     HANDHELD = 2
     HIGH_PRIORITY = 3
     OWNED = 4
-    STREAMABLE = 5

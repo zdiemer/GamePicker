@@ -47,6 +47,7 @@ MOBY_NAME_TO_SHEET_NAME: Dict[str, Set[str] | str] = {
     "neo geo cd": "neo-geo cd",
     "neo geo pocket color": "neo-geo pocket color",
     "neo geo pocket": "neo-geo pocket",
+    "nintendo dsi": set(["nintendo dsi", "dsiware"]),
     "pc-6001": "nec pc-6001",
     "pc-88": "nec pc-8801",
     "pc-98": "nec pc-9801",

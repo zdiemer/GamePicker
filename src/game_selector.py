@@ -20,7 +20,7 @@ class GameSelector:
     filter: Optional[Callable[[ExcelGame], bool]]
     custom_prefix: Optional[Callable[[ExcelGame], str]]
     custom_suffix: Optional[Callable[[ExcelGame], str]]
-    description: Optional[str]
+    get_description: Optional[Callable[[GameGroups], str]]
     no_cache: bool
     mode: PickerMode
     include_in_picks: bool
@@ -45,7 +45,7 @@ class GameSelector:
         _filter: Optional[Callable[[ExcelGame], bool]] = None,
         custom_prefix: Optional[Callable[[ExcelGame], str]] = None,
         custom_suffix: Optional[Callable[[ExcelGame], str]] = None,
-        description: Optional[str] = None,
+        get_description: Optional[Callable[[GameGroups], str]] = None,
         no_cache: bool = False,
         mode: PickerMode = PickerMode.ALL,
         include_in_picks: bool = True,
@@ -73,7 +73,7 @@ class GameSelector:
         self.filter = _filter
         self.custom_prefix = custom_prefix or self.__default_prefix_suffix
         self.custom_suffix = custom_suffix or self.__default_prefix_suffix
-        self.description = description
+        self.get_description = get_description
         self.no_cache = no_cache
         self.mode = mode
         self.include_in_picks = include_in_picks

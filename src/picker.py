@@ -101,6 +101,22 @@ from game_picker import GamesPicker
     is_flag=True,
     help="Forces running selectors marked as skip_unless_specified",
 )
+@click.option(
+    "--no_markdown",
+    "-nm",
+    type=bool,
+    default=True,
+    is_flag=True,
+    help="Disables Markdown output",
+)
+@click.option(
+    "--completion_owned",
+    "-co",
+    type=bool,
+    default=False,
+    is_flag=True,
+    help="Displays total completion for owned >$0",
+)
 def main(
     mode: str,
     out: bool,
@@ -114,6 +130,8 @@ def main(
     no_diff: bool,
     platform: str,
     force: bool,
+    no_markdown: bool,
+    completion_owned: bool,
 ):
     start = datetime.datetime.now()
     try:
@@ -129,7 +147,7 @@ def main(
     gp = GamesPicker(mode, no_cache)
 
     if completion:
-        gp.completion()
+        gp.completion(completion_owned)
         return
 
     if search:
@@ -143,12 +161,14 @@ def main(
 
     if update_all:
         for p in list(PickerMode):
-            gp.with_mode(p).pick_game(selectors, True, no_diff, force=force)
+            gp.with_mode(p).pick_game(
+                selectors, True, no_diff, force=force, markdown=not no_markdown
+            )
 
         print(f"Took {datetime.datetime.now() - start} to update all outputs.")
         return
 
-    game = gp.pick_game(selectors, out, no_diff, platform, force)
+    game = gp.pick_game(selectors, out, no_diff, platform, force, not no_markdown)
 
     print(f"Picked {game} in {datetime.datetime.now() - start}")
 

@@ -24,12 +24,9 @@ class PickedGame:
         prefix: str = "",
         suffix: str = "",
         with_year: bool = False,
+        markdown: bool = False,
     ) -> str:
-        p_short_name = (
-            (PLATFORM_SHORT_NAMES.get(self.game.platform) or self.game.platform.value)
-            if self.game.platform is not None
-            else "TBD"
-        )
+        p_short_name = PLATFORM_SHORT_NAMES[self.game.platform]
 
         platform_str = f" ({p_short_name})" if with_platform else ""
 
@@ -55,11 +52,26 @@ class PickedGame:
 
         selection_str = f" {{{self.selection_name}}}" if self.selection_name else ""
 
-        return (
-            f"{prefix}{self.game.title}{'*' if self.high_priority else ''}"
-            f"{'^' if self.highest_priority else ''}{year_str}{platform_str}"
+        priority_str = (
+            (
+                f"{'*' if self.high_priority else ''}"
+                f"{'^' if self.highest_priority else ''}"
+            )
+            if not markdown
+            else ""
+        )
+
+        high_pri_wrapper = "**" if self.high_priority else ""
+        highest_pri_wrapper = "*" if self.highest_priority else ""
+
+        wrapper = high_pri_wrapper + highest_pri_wrapper
+
+        game_str = (
+            f"{prefix}{self.game.title}{priority_str}{year_str}{platform_str}"
             f"{playtime_str}{selection_str}{suffix}"
         )
+
+        return game_str if not markdown else f"{wrapper}{game_str}{wrapper}"
 
     def __str__(self) -> str:
         return self.as_str()

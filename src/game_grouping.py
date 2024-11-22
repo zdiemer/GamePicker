@@ -68,6 +68,11 @@ class GameGroups:
 
         self._grouping[i] = v
 
+    def __len__(self) -> int:
+        return (
+            len(self._grouping) if self._aggregation is None else len(self._aggregation)
+        )
+
 
 class GameGrouping:
     grouping: Callable[[ExcelGame], Any]
@@ -155,9 +160,13 @@ class GameGrouping:
                 + (
                     f"{int(total_playtime):,}"
                     if isinstance(total_playtime, int) or total_playtime.is_integer()
-                    else f"{total_playtime:,.2f}"
+                    else (
+                        f"{total_playtime:,.2f}"
+                        if total_playtime >= 1
+                        else f"{int(total_playtime*60)}"
+                    )
                 )
-                + "hr]"
+                + f"{'hr' if total_playtime >= 1 else 'min'}]"
             )
 
         progress = ""
