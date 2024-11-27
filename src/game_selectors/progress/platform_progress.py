@@ -21,9 +21,6 @@ def get_or_set(
 
 
 def get_platform_progress_selector(data_provider: DataProvider) -> GameSelector:
-    played_games = data_provider.get_played_games()
-    unplayed_candidates = data_provider.get_unplayed_candidates()
-
     platform_progress: Dict[ExcelPlatform, int] = {}
     total_platform: Dict[ExcelPlatform, int] = {}
 
@@ -31,6 +28,9 @@ def get_platform_progress_selector(data_provider: DataProvider) -> GameSelector:
         kvp: Tuple[ExcelPlatform, List[PickedGame]]
     ) -> Tuple[float, float]:
         platform, _ = kvp
+        played_games = data_provider.get_played_games()
+        unplayed_candidates = data_provider.get_unplayed_candidates()
+
         return (
             get_or_set(
                 platform_progress,

@@ -1,0 +1,174 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Cromemco Dazzler Games</em> is a compilation of various games on a single 5.25\" or 8\" diskette. All games require the Cromemco TV Dazzler to be displayed on a TV screen.</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/game/110835/chase/\">Chase!</a></li>\n<li>Dazzle-Doodle (not a game)</li>\n<li>Dazzle-Mation (not a game)</li>\n<li><strong>Four-Dimensional Tic Tac Toe</strong> is a <a href=\"https://www.mobygames.com/search/?q=Qubic+translations\">Qubic translation</a>.</li>\n<li><strong>Dogfight</strong> is a two player game. Each player uses a joystick to control their fighter plane. Players must take off from the ground and try to shoot their opponent out of the sky. Players can adjust throttle, do aeleron rolls and fire their guns.</li>\n<li><strong>Gotcha!</strong> is a <a href=\"https://www.mobygames.com/search/?q=Genre:+Light-Cycle\">Light Cycle</a> game for two players. They each start in a corner of the screen and leave behind a trail. The first player to hit a trail loses the round.</li>\n<li>Kaleidoscope (not a game)</li>\n<li><a href=\"https://www.mobygames.com/game/110636/life-in-full-color/\">Life</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Spacewar\">Spacewar</a></li>\n<li><strong>Tank war</strong> is a two player combat game in which both control a tank using joysticks. Tanks can fire missiles and mines are present on the play field. 2 points are scored for a missile hit and 1 point for a mine kill. The game ends when one of the player has 90 points.</li>\n<li><a href=\"https://www.mobygames.com/game/110836/track/\">Track</a></li>\n<li>Xlife</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 19,
+                "name": "Flight / aviation"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 80,
+                "name": "Tank"
+            }
+        ],
+        "id": 113061,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/113061/cromemco-dazzler-games/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 227,
+                    "name": "Zilog Z80"
+                },
+                "1977"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Cromemco Dazzler Games"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>No Strings Attached</em> is a code-guessing game. The computer thinks of a code of four digits and the player must guess. The computer will give a hint after each guess, consisting of the symbols X, I and -. These symbols denote a digit being correct and in the correct position, the symbol to exist but in a different position or for the symbol not to exist in the code. The hints can be misguiding in that a guess of 5555 can result in XIII, but the I's can refer to the correctly placed 5, so the amount of fives in the code is actually one.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 143874,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/143874/no-strings-attached/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 227,
+                    "name": "Zilog Z80"
+                },
+                "1978-05"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "No Strings Attached"
+    }
+]

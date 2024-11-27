@@ -1,0 +1,197 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Weather War</em> is an artillery type game in which players fight not with artillery cannons, but with the ability to control the weather. Depending on the location of a cloud above the playing field and the force and direction of the wind, the player gets to choose between various weather related weapons (hail, cyclone, lightning) which can fire from the cloud. The player must give a charge (positive or negative) to try to make it hit the opponent's building. The first to destroy the other's building wins the game.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 143,
+                "name": "Artillery"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 110635,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/110635/weather-war/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 223,
+                    "name": "Tektronix 4050"
+                },
+                "1976"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Weather War"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>This graphical version of <em>Lunar Lander</em> features two types of lander modules. One which only has one engine, and one with three different engines. The single engine lander module can be rotated with the 6 and 7 keys to ensure it lands straight on flat terrain. The three engine lander module has two horizontal facing jets, the interplay of which determines the horizontal movement and rotation of the the vehicle.</p>\n<p>The goal of the game remains the same as in earlier and later variants: successfully land a lunar landing module on the moon, making sure the angle, terrain and velocity are correct when reaching the surface without running out of fuel.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 158,
+                "name": "Vehicle simulator"
+            }
+        ],
+        "id": 110770,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/110770/lunar-lander/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 223,
+                    "name": "Tektronix 4050"
+                },
+                "1976-02-13"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Lunar Lander"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Mastermind</em> is a computer implementation of the classic board game. The player must guess a code of four randomly chosen numbers. After each guess the player learns the number of \"black\" and \"white\" pegs, respectively numbers in the right position and numbers which are in the code, but on a different position. Numbers can appear multiple times in the same code.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 121475,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/121475/mastermind/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 223,
+                    "name": "Tektronix 4050"
+                },
+                "1977-07-07"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Mastermind"
+    }
+]

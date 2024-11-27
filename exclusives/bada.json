@@ -1,0 +1,136 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Flappy Toucan</em> is a clone of <a href=\"https://www.mobygames.com/search/?q=Flappy+Bird\">Flappy Bird</a>. Like in Flappy Bird the player controls a bird (a toucan in this version) which must avoid obstacles (not Mario Bros's Warps Pipes like in Flappy Bird, just simple tree trunks) by touching the screen. There is no end to the game, the goal is merely to get a high score and based on the total score different types of medals can be earned.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            }
+        ],
+        "id": 64049,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/64049/flappy-toucan/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 99,
+                    "name": "bada"
+                },
+                "2014-02-21"
+            ]
+        ],
+        "sample_cover": {
+            "height": 107,
+            "image_url": "https://cdn.mobygames.com/covers/3389117-flappy-toucan-bada-front-cover.jpg",
+            "platforms": [
+                "bada"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/544d9a18-ab8e-11ed-b6ee-02420a00019d.webp",
+            "width": 107
+        },
+        "sample_screenshots": [],
+        "title": "Flappy Toucan"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>NOM ZERO</em> is the fourth game of the series and acts as a prequel to the previous screen rotating runner games. The game continues to use the 360 degree screen rotating mechanic, as well as the one button gameplay but adds extra elements such as money, passion, memories and care which are buffs that players can upgrade in between the levels for free or via in-app purchases and a 2 player split screen mode. Each level features boss battles which are defeated in a variety of different and unique ways.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 129003,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/129003/nom-zero/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 99,
+                    "name": "bada"
+                },
+                "2010-05-31"
+            ]
+        ],
+        "sample_cover": {
+            "height": 155,
+            "image_url": "https://cdn.mobygames.com/covers/8062565-nom-zero-bada-front-cover.jpg",
+            "platforms": [
+                "bada"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/2952a138-abfb-11ed-a484-02420a000130.webp",
+            "width": 155
+        },
+        "sample_screenshots": [],
+        "title": "NOM ZERO"
+    }
+]

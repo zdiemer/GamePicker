@@ -1,5 +1,6 @@
 from typing import Any, Callable, List, Optional
 import datetime
+import math
 
 from excel_game import ExcelGame, ExcelOwnedFormat, ExcelPlatform, ExcelRegion
 from game_match import DataSource

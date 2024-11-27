@@ -1,0 +1,1005 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Tenis</em> is a variant of a squash game despite its tennis referring name. The goal of the game is to keep the ball on the screen as long as possible. The player starts with five balls and gains one score point after each hit of the ball with the racket. After each scored point the game speed increases (starting with speed of 1 up to 9 which is maximum speed). At the end of the game total time and best score is being displayed. Command keys are only arrow keys which move racket left, right, up or down.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 37,
+                "name": "Tennis"
+            }
+        ],
+        "id": 111402,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111402/tenis/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 236,
+                    "name": "Galaksija"
+                },
+                "1985-03"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Tenis"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Zmija</em> is an adaptation of a <em>Snake</em> game. The player controls a snake using arrow keys to make it move in one of the four directions, left, right, up or down. The goal is to eat all the stars on the screen without bumping into anything else which makes the player loose one life. The game start with 7 lives and clearing each screen and going to next level grants additional life. There are seven different screens in total which vary in difficulty by having more obstacles. The snake itself leaves a zero behind after eating a star which adds one more obstacle on the screen. After beating all new screens, the game starts from the first level again but at an increased speed.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 111403,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111403/zmija/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 236,
+                    "name": "Galaksija"
+                },
+                "1985-04"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Zmija"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Igra Dva Igra\u010da</em> is as its name implies, a game for two players. Both players move on the screen leaving dotted trace. Colliding with a dot or any other obstacle will add a score to the other player. The game ends when one of the players earns 10 scores. There are 10 different speeds at which the game can be played, which is selectable when starting new game.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 111404,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111404/igra-dva-igraca/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 236,
+                    "name": "Galaksija"
+                },
+                "1985-04"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Igra Dva Igra\u010da"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Igra Diskova</em> is an adaptation of <em>Towers of Hanoi</em> where disks from left most stick need to be moved to the right most stick. The easier variant also allows to move disks from left to either of the two remaining empty sticks. The game contains 8 discs which vary in diameter, starting with largest on the bottom and smallest on top, and 3 sticks. When moving between sticks, disc can be carried and placed only on top of disc with larger diameter.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            }
+        ],
+        "id": 111407,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111407/igra-diskova/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 236,
+                    "name": "Galaksija"
+                },
+                "1985-05"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Igra Diskova"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Pamtilice</em> is a multiplayer memory game (up to 4 players) where each player takes turn and tries to pair numbers that hold the same shapes and patterns. At the beginning players enter their names (maximum 7 characters) and then the game start. The game has 20 pairs in total and awards point based on consecutive matching before each new matched pair. Trying to find out what is beneath the same number twice is considered cheating and player looses his turn while the next player gains turn with previously selected number remaining revealed. The game match ends when all 20 shapes have been paired and player with best score wins.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            }
+        ],
+        "id": 111408,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111408/pamtilice/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 236,
+                    "name": "Galaksija"
+                },
+                "1985-06"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Pamtilice"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Poker</em> is a game of cards with the same title where player competes against an AI. The card deck has 32 cards in total, and typical poker card strengths apply (pair, two pairs, three of the same, etc.). At the beginning of the game both the player and the computer start with $10,000. Starting bet is $10 and can be increased by up to $50 per each increase with max to $1,000. After entering player's name, the computer will deal 5 cards to the player. The player can then change up to 4 cards after which the initial bet can be increased. Opponent can then accept the bet after which both players show their cards, or further increase the bet. If the bet is not accepted, the opponent wins without having to reveal cards.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            }
+        ],
+        "id": 111434,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111434/poker/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 236,
+                    "name": "Galaksija"
+                },
+                "1985-08"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Poker"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Slalom II</em> is a game of slalom skiing where the player needs to move between obstacles and gather point along the way. The game features three different tracks and differs in density of placed obstacles and time given to reach the end of the level. At first the player can see all incoming obstacles while later levels include more obstacles and reduce visibility of incoming obstacles so player's reaction to avoid them will have to get faster. The game is meant for more players where each take turn and at the end of the game the top ladder is displayed highlighting the player with highest score.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 15,
+                "name": "Real-time"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 95,
+                "name": "Snowboarding / skiing"
+            }
+        ],
+        "id": 111435,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111435/slalom-ii/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 236,
+                    "name": "Galaksija"
+                },
+                "1985-09"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Slalom II"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Zid</em>, which means \"wall\", is an adaptation of <em>Arkanoid</em> where players uses pad and balls to hit and destroy all wall bricks on each level. The player starts with five ball and loses each ball when the ball goes past the pad. The game also supports tone generator which enriches the experience, but the piece of hardware isn't necessary to play.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 64,
+                "name": "Paddle / Pong"
+            }
+        ],
+        "id": 111436,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111436/zid/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 236,
+                    "name": "Galaksija"
+                },
+                "1985-10"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Zid"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>No\u0107ni Pilot</em>, which means \"night pilot\", is a flight simulation game which offers two gameplay modes; free flight and landing practice. At any point during flying player can check world map which shows all the airfields. The goal is to flight from one airfield to another. The lights on the airstrip will only glow if the player is landing at the right airfield (airfield destination can be changed) and from the right angle. In the bottom half of the screen are navigational controls and other info such as the remaining fuel, gears position, altitude, or current speed. In order to land without crashing the speed mustn't be greater than 60m/s.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 19,
+                "name": "Flight / aviation"
+            }
+        ],
+        "id": 111438,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111438/nocni-pilot/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 236,
+                    "name": "Galaksija"
+                },
+                "1985-12"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "No\u0107ni Pilot"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Blade Alley</em> is simplified version of <a href=\"https://www.mobygames.com/search/?q=Blade+Alley\">Blade Alley</a> game for ZX Spectrum. Unlike in the original game, this version doesn't feature enemy ships doesn't attack you and the player only needs to fly the spaceship through a tunnel filled with obstacles in the allotted time.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 128,
+                "name": "Behind view"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 111442,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111442/blade-alley/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 236,
+                    "name": "Galaksija"
+                },
+                "1986-02"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Blade Alley"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Super Cruiser</em> is a 3rd-person spaceship action game viewed from the side perspective. The game consists of five levels which vary in difficulty and can be selected at will. Player can move spaceship in 8 directions (horizontally, vertically, and diagonally) with arrow keys and the goal is to defeat enemy ships and missiles launched at player's ship. Enemy ships attack from left and right, while missiles are launched from the ground (bottom of the screen) and go up. Occasionally (more frequently on tougher levels), enemy command ship appears. Destroying it grants a bonus life. Initially, the player starts with 5 lives. The game's five levels increase the number of enemy ships and missiles to match the level number. Level 1 has 1 enemy ship and 1 missile launched at player, while level 5 has 5 enemy ships and 5 missiles are being launched at player's ship.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 111444,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111444/super-cruiser/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 236,
+                    "name": "Galaksija"
+                },
+                "1986-04"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Super Cruiser"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Svetle\u0107i Bicikli</em> is a game inspired by \"Tron\" movie, where player controls a bicycle that leaves a light trail behind. The game support player versus CPU or two player match where the goal is to force the opponent to collide with the light trail left by either of the bicycles. The game support five different speeds. This version of the game is specifically written for Galaksija Plus to support hi-res graphics, unlike the regular version of the game which also exists for Galaksija platform and lower resolution.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 111445,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111445/svetleci-bicikli/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 236,
+                    "name": "Galaksija"
+                },
+                "1986-05"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Svetle\u0107i Bicikli"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Inspektor Spiridon</em> is a platformer featuring, in the game, world renown inspector Spiridon as the protagonist. Spiridon finds himself looking for a secret passcode inside the haunted castle. In order to find the secret passcode the player needs to explore five rooms filled with danger. In order to reach the next room the player needs to find and collect an energy source which is often placed on most difficult place to reach. Initially, the player starts with five lives.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 21,
+                "name": "Platform"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 30,
+                "name": "Puzzle elements"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 55,
+                "name": "Detective / mystery"
+            }
+        ],
+        "id": 111446,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111446/inspektor-spiridon/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 236,
+                    "name": "Galaksija"
+                },
+                "1986-06"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Inspektor Spiridon"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Dijamantski Rudnik</em> is adaptation of <a href=\"https://www.mobygames.com/search/?q=Diamond+Mine\">Diamond Mine</a> where you need to collect all the diamond on each level by lowering a pipe (which is limited to 2500 meters) without colliding into walls. To make this more complicated, there are various bugs crawling in the mine which can nibble at your pipe and thus make endeavor or getting those diamonds more difficult. At more difficult levels the bugs will move as fast as the player while at the beginning of the game they move at half the speed.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 111449,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111449/dijamantski-rudnik/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 236,
+                    "name": "Galaksija"
+                },
+                "1986-07"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Dijamantski Rudnik"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Squash</em> is a game of squash but with included obstacles on the course. The player's racket is on the right side of the screen and ball is hit toward the left side of the screen. There are three holes in the wall on the left side and by making the ball pass through the player gets an extra ball. Failing to hit the ball loses one. Each hit of the ball adds a point, and putting a ball through a crack in the wall earns even more points. There are three different game speeds which can be selected at the beginning of the game. Moreover, there is a counter that counts down whenever the player hits the ball and goes up when ball passes the wall. If the counter reaches zero, the game speed increases and counter resets.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 64,
+                "name": "Paddle / Pong"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 111495,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111495/squash/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 236,
+                    "name": "Galaksija"
+                },
+                "1986-12"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Squash"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Svemirski Trgovac</em>, which means \"space merchant\", is a simplified version of <a href=\"https://www.mobygames.com/search/?q=Elite\">Elite</a> for Galaxy computers. The game starts by placing the player immediately in pilot seat of a small spaceship. There are several different ship's controls. Distance meter shows distance to the base where you can land and trade. By approaching the base the player needs to slowly decrease the speed so the distance and speed are both zero, otherwise the ship will simply fly over the base instead of land. Energy meter measures energy consumption. There are various things on the ship that require more or less energy, such as scanner, laser guns (consume more energy when firing), force field, and ship's propulsion. Energy can be acquired by trading or by plundering pirate ships. Ship has 8 different speeds where 0 means the ship is stationary. Scanner can be turned on or off, but when turned on it will constantly scan for threats ahead though also slowly deplete ship's energy reserves. Course board shows the direction of the base and vector of player's ship's movement. Vectors are marked with numbers (i.e. 1 is up, 2 is up and right, 3 is right, 4 is down and right, and so on). The player can land on a base only from course vector indicated by odd number so ship's trajectory needs to be constantly adjusted. Force field can only withstand single shot on each side. It gets renewed by turning it off and back on. Laser gun is the ship's only weapon. When landed, computer will display what is being sold in the base, what merchandise the player possesses, what are the prices and player's bank account. The goal of the game is to amass 150 diamonds which is the debt the player has to pay off back on his home planet. The game also includes sound effects which are emitted through output for cassette player.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 111496,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111496/svemirski-trgovac/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 236,
+                    "name": "Galaksija"
+                },
+                "1987-01"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Svemirski Trgovac"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>The adaptation of <a href=\"https://www.mobygames.com/search/?q=Tetris\">Tetris</a> game for Galaxy computers. The game runs on both Galaxy and Galaxy Plus computers which affects the graphics resolution. The game consists of filling the rows with falling blocks of various shapes. The more rows you fill, the higher the score. The game shows current and top score during gameplay. After every 32 filled lines the game speed increases.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 145,
+                "name": "Falling block puzzle"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 111497,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111497/tetris/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 236,
+                    "name": "Galaksija"
+                },
+                "1988-07-21"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Tetris"
+    }
+]

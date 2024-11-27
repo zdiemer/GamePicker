@@ -1,0 +1,51 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Twisty Color</em> is a colour matching game. The player controls a twister in the middle of the screen that is made up out of three colours: blue, red and yellow. Balls with the same three colours appear from different sides of the screen. They need to be matched by turning the digital crown on the right side of the watch so the twister's colour matches the ball when it collides. A life is lost when there is an incorrect match. Three lives are provided at the start and the goal is to get a high score. The game keeps track of the best score overall. A different type of haptic feedback is provided when a match is made or a life is lost.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            }
+        ],
+        "id": 75776,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/75776/twisty-color/",
+        "num_votes": 0,
+        "official_url": "http://www.twistycolor.com/",
+        "platforms": [
+            [
+                {
+                    "id": 180,
+                    "name": "watchOS"
+                },
+                "2015-09-22"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/883954-twisty-color-watchos-front-cover.jpg",
+            "platforms": [
+                "watchOS"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/a73d68a2-ab70-11ed-b9a3-02420a000197.webp",
+            "width": 800
+        },
+        "sample_screenshots": [],
+        "title": "Twisty Color"
+    }
+]

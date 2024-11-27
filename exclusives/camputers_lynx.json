@@ -1,0 +1,580 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Dam Buster</em> is a side view single screen game where you are a pilot from the 617 Squadron in World War II, where your mission is to destroy various dams using a bouncing bomb. Your plane is flying at the top of the screen moving from left to right and reappears back on the left of the screen when it reaches the right side. One of the dams is on the bottom of the screen with the water on the left and you have to fly low and at the right speed to drop the bomb so it will bounce towards the dam and settle at the base of the dam before exploding. Below the water is a green bar which is the drop zone and the bomb can only be released over this. A flak gun on the top of the dam and the right of the dam fire diagonally upwards and you must avoid the flak and not hit the dam either or you lose one of three lives.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 19,
+                "name": "Flight / aviation"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 215,
+                "name": "World War II"
+            }
+        ],
+        "id": 69789,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/69789/dam-buster/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 154,
+                    "name": "Camputers Lynx"
+                },
+                "1983"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Dam Buster"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Racer</em> is a side scrolling racing game. The player is the driver of a red car which has to be driven from the right to left as far as possible. On the road are numerous other cars that the player has to avoid crashing into. At the same time it's necessary to keep an eye at the car's fuel level since the game ends when the tank is empty. It also ends if the player crashes more than four times. The gas is automatically refuelled when reaching certain distances and signs by the side of the road show how far it is to the next station. The player can control the car up and down, accelerate, brake and use a turbo boost.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 6,
+                "name": "Racing / Driving"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            }
+        ],
+        "id": 70068,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/70068/racer/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 154,
+                    "name": "Camputers Lynx"
+                },
+                "1983"
+            ]
+        ],
+        "sample_cover": {
+            "height": 248,
+            "image_url": "https://cdn.mobygames.com/screenshots/16528464-racer-camputers-lynx-sian-software-presents.png",
+            "platforms": [
+                "Camputers Lynx"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/e1c05964-c234-11ed-ab6b-02420a000194.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Crashing into another car",
+                "height": 248,
+                "image_url": "https://cdn.mobygames.com/screenshots/16528698-racer-camputers-lynx-crashing-into-another-car.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fd6ec844-c234-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Refuelling",
+                "height": 248,
+                "image_url": "https://cdn.mobygames.com/screenshots/16528686-racer-camputers-lynx-refuelling.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fd114d54-c234-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Instructions",
+                "height": 248,
+                "image_url": "https://cdn.mobygames.com/screenshots/16528650-racer-camputers-lynx-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f7207140-c234-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "But at least I got a high score",
+                "height": 248,
+                "image_url": "https://cdn.mobygames.com/screenshots/16528692-racer-camputers-lynx-but-at-least-i-got-a-high-score.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fd41d294-c234-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Countdown",
+                "height": 248,
+                "image_url": "https://cdn.mobygames.com/screenshots/16528458-racer-camputers-lynx-countdown.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e0c0b3ba-c234-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            }
+        ],
+        "title": "Racer"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Gobble De Spook</em> is a Pac-Man variant with the same features as the original. The player's aim is to achieve a high score by controlling a gobbler that has to collect all the dots in the maze without being caught by the four ghosts that guard it. By eating power point pods the gobbler is empowered and can go after the ghosts for a short while. There are also cherries that can be picked up for extra points. The player has three lives and is given an additional one by by clearing the maze of all the dots. The game features eight skill levels. The most notable difference is that the four hardest levels have invisible maze walls which make it harder to navigate. Less notable is the intelligence of the ghosts. In the easiest level there is just one intelligent ghost while in the hardest one all ghosts are intelligent.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            }
+        ],
+        "id": 70070,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/70070/gobble-de-spook/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 154,
+                    "name": "Camputers Lynx"
+                },
+                "1983"
+            ]
+        ],
+        "sample_cover": {
+            "height": 248,
+            "image_url": "https://cdn.mobygames.com/screenshots/16528815-gobble-de-spook-camputers-lynx-title-screen.png",
+            "platforms": [
+                "Camputers Lynx"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/0697cf24-c235-11ed-ab6b-02420a000194.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Cherries appear",
+                "height": 248,
+                "image_url": "https://cdn.mobygames.com/screenshots/16528821-gobble-de-spook-camputers-lynx-cherries-appear.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/07292208-c235-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Instructions",
+                "height": 248,
+                "image_url": "https://cdn.mobygames.com/screenshots/16531345-gobble-de-spook-camputers-lynx-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d3898054-c235-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Invisible walls",
+                "height": 248,
+                "image_url": "https://cdn.mobygames.com/screenshots/16528833-gobble-de-spook-camputers-lynx-invisible-walls.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/08615960-c235-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Grabbing the power pill",
+                "height": 248,
+                "image_url": "https://cdn.mobygames.com/screenshots/16528836-gobble-de-spook-camputers-lynx-grabbing-the-power-pill.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/08793954-c235-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Title screen",
+                "height": 248,
+                "image_url": "https://cdn.mobygames.com/screenshots/16528815-gobble-de-spook-camputers-lynx-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0697cf24-c235-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            }
+        ],
+        "title": "Gobble De Spook"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Lynx Invaders</em> is a clone of <a href=\"https://www.mobygames.com/search/?q=Space+Invaders\">Space Invaders</a>. Like in all other games of its kind the player controls a laser base left and right down the bottom of the screen while blasting away at the aliens above. At the same time the player has to avoid getting hit by the aliens' projectiles by taking cover behind four barriers that offer some protection. One difference from other <em>Space Invaders</em> variants is that each shot launches two projectiles and therefore it's possible to take out two aliens in one go. Once all the aliens have been destroyed the player moves on to the next wave where things get tougher. There are three different alien types (plus the mystery ship) and they are worth different points depending on how far off they are. After all three lives of the player has been used up the game is over.</p>\n<p>You are limited to two bullets on the screen at any one time, but can fire them separately if you tap the space bar quickly. Two extra lives can be won by reaching certain points milestones. The first one is about when you get to 5,000. The hordes of invaders start off lower down with each level. However, if you do really well then you get a new set of invaders (intended to be more fierce looking) and they start back up at the top again.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 71744,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/71744/lynx-invaders/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 154,
+                    "name": "Camputers Lynx"
+                },
+                "1983"
+            ]
+        ],
+        "sample_cover": {
+            "height": 248,
+            "image_url": "https://cdn.mobygames.com/screenshots/16565448-lynx-invaders-camputers-lynx-title-with-controls.png",
+            "platforms": [
+                "Camputers Lynx"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/e4fbc3c8-c240-11ed-ab6b-02420a000194.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Title with controls",
+                "height": 248,
+                "image_url": "https://cdn.mobygames.com/screenshots/16565448-lynx-invaders-camputers-lynx-title-with-controls.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e4fbc3c8-c240-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Mystery ship appears",
+                "height": 248,
+                "image_url": "https://cdn.mobygames.com/screenshots/16565436-lynx-invaders-camputers-lynx-mystery-ship-appears.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e497cb0c-c240-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting out",
+                "height": 248,
+                "image_url": "https://cdn.mobygames.com/screenshots/16565442-lynx-invaders-camputers-lynx-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e4c9f0d2-c240-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Getting myself killed right away",
+                "height": 248,
+                "image_url": "https://cdn.mobygames.com/screenshots/16565619-lynx-invaders-camputers-lynx-getting-myself-killed-right-away.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f85f9c32-c240-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Destroying an alien",
+                "height": 248,
+                "image_url": "https://cdn.mobygames.com/screenshots/16565439-lynx-invaders-camputers-lynx-destroying-an-alien.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e4b23618-c240-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            }
+        ],
+        "title": "Lynx Invaders"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Panik</em> is a clone of the <em>Panic</em> games. Dig holes in the brick levels with your pick and knock the monsters through to kill them. Depending on their ferocity, you have to drop them through 1, 2, or 3 levels to kill them. There are double points for each extra level they drop through. You can also knock them through by jumping on a trapped monster through a hole dug on the level above, but make sure you do so before it starts to climb out of the hole. If you drop one monster onto another, they'll both die. At higher levels, monsters move up to the next level of ferocity if you let them escape from a hole. Don't run out of oxygen, or you'll die (however, do it at least once when you're on the ladders to see what happens!)</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            }
+        ],
+        "id": 72292,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/72292/panik/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 154,
+                    "name": "Camputers Lynx"
+                },
+                "1983"
+            ]
+        ],
+        "sample_cover": {
+            "height": 248,
+            "image_url": "https://cdn.mobygames.com/screenshots/9986332-panik-camputers-lynx-launch-screen.png",
+            "platforms": [
+                "Camputers Lynx"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/fb187cd2-ac0b-11ed-833b-02420a000131.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "In play - Level 1",
+                "height": 248,
+                "image_url": "https://cdn.mobygames.com/screenshots/9986335-panik-camputers-lynx-in-play-level-1.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fb40e690-ac0b-11ed-833b-02420a000131.webp",
+                "width": 256
+            },
+            {
+                "caption": "Keyboard controls",
+                "height": 248,
+                "image_url": "https://cdn.mobygames.com/screenshots/10030454-panik-camputers-lynx-keyboard-controls.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/713d5c8e-ac0c-11ed-a12e-02420a000130.webp",
+                "width": 256
+            },
+            {
+                "caption": "Launch screen",
+                "height": 248,
+                "image_url": "https://cdn.mobygames.com/screenshots/9986332-panik-camputers-lynx-launch-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fb187cd2-ac0b-11ed-833b-02420a000131.webp",
+                "width": 256
+            }
+        ],
+        "title": "Panik"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Treasure Island</em> is a text adventure game with graphics. The player's task is to explore an island and find the treasure chest that has been hidden by the pirate Captain Hook. On each screen the player will asked first what to do and then where to move. There are only four commands that can be used: take, use, drop and do nothing (which is done by hitting space followed by return). Movement commands are the common N, S, E or W. Some monsters (such as a giant and a dragon) exist on the island and they will kill the player if not the right object is used. It is also possible to die by drowning which happens instantly when stepping into the water.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 23,
+                "name": "Interactive fiction / text adventure"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            }
+        ],
+        "id": 79285,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/79285/treasure-island/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 154,
+                    "name": "Camputers Lynx"
+                },
+                "1983"
+            ]
+        ],
+        "sample_cover": {
+            "height": 256,
+            "image_url": "https://cdn.mobygames.com/screenshots/16070920-treasure-island-camputers-lynx-loading-screen.png",
+            "platforms": [
+                "Camputers Lynx"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/56b8400c-bf69-11ed-9521-02420a000152.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Entering cave with torch",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16070176-treasure-island-camputers-lynx-entering-cave-with-torch.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1d4076aa-bf69-11ed-9521-02420a000152.webp",
+                "width": 256
+            },
+            {
+                "caption": "Getting killed by a dragon",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16070155-treasure-island-camputers-lynx-getting-killed-by-a-dragon.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1bebf9fa-bf69-11ed-9521-02420a000152.webp",
+                "width": 256
+            },
+            {
+                "caption": "Loading screen",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16070920-treasure-island-camputers-lynx-loading-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/56b8400c-bf69-11ed-9521-02420a000152.webp",
+                "width": 256
+            },
+            {
+                "caption": "Entering a cave",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16070881-treasure-island-camputers-lynx-entering-a-cave.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/51a769b2-bf69-11ed-9521-02420a000152.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting out",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16070890-treasure-island-camputers-lynx-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/53387bcc-bf69-11ed-9521-02420a000152.webp",
+                "width": 256
+            }
+        ],
+        "title": "Treasure Island"
+    }
+]

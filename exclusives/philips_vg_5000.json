@@ -1,0 +1,642 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Tetris</em> is a <em><a href=\"https://www.mobygames.com/search/?q=Tetris\">Tetris</a></em> clone for the Philips VG5000, which never received a licenced (or even non-licenced) <em>Tetris</em> game in the eighties. The game plays in full colour with all the usual trimmings such as a drop button and modes of turning the falling pieces both clockwise and anticlockwise.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 145,
+                "name": "Falling block puzzle"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 63327,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/63327/tetris/",
+        "num_votes": 2,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 133,
+                    "name": "Philips VG 5000"
+                },
+                "2013-11-12"
+            ]
+        ],
+        "sample_cover": {
+            "height": 250,
+            "image_url": "https://cdn.mobygames.com/screenshots/16168408-tetris-philips-vg-5000-title-screen.png",
+            "platforms": [
+                "Philips VG 5000"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/dde40b70-c1c5-11ed-ab6b-02420a000194.webp",
+            "width": 320
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Playing",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/16168417-tetris-philips-vg-5000-playing.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/de2e1aa8-c1c5-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Playing",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/16168411-tetris-philips-vg-5000-playing.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ddfe43e6-c1c5-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Title screen",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/16168408-tetris-philips-vg-5000-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dde40b70-c1c5-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Game over",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/16168420-tetris-philips-vg-5000-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/de47cb9c-c1c5-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Menu",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/16168414-tetris-philips-vg-5000-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/de1481c4-c1c5-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            }
+        ],
+        "title": "Tetris"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>This is a version of the classic <em><a href=\"https://www.mobygames.com/game/1715/soko-ban/\">Sokoban</a></em>, written in FORTH for the VG5000 home computer. Your job, as a smiley face with sunglasses, is to push all the shopping carts to the parking position. But it's easy to get stuck since you have to shuffle the carts around or you can't move freely, and carts in a corner can't be pulled out. All the graphics are in character intervals, making the playfield a rather small part of the screen. The game also includes a level editor.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 63331,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/63331/sokoban/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 133,
+                    "name": "Philips VG 5000"
+                },
+                "2010-04-26"
+            ]
+        ],
+        "sample_cover": {
+            "height": 250,
+            "image_url": "https://cdn.mobygames.com/screenshots/16169278-sokoban-philips-vg-5000-title-screen.png",
+            "platforms": [
+                "Philips VG 5000"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/27cc146c-c1c6-11ed-ab6b-02420a000194.webp",
+            "width": 320
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Almost done",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/16357742-sokoban-philips-vg-5000-almost-done.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/28b1c7b8-c203-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "I'm stuck!",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/16169287-sokoban-philips-vg-5000-im-stuck.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/28215bf2-c1c6-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Level 3",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/16169281-sokoban-philips-vg-5000-level-3.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/27e76c08-c1c6-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Almost done",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/16169290-sokoban-philips-vg-5000-almost-done.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/283c687a-c1c6-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Level 2",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/16169293-sokoban-philips-vg-5000-level-2.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2916ab7a-c1c6-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            }
+        ],
+        "title": "Sokoban"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>Located on an island somewhere in the Mediterranean Sea is the fortress of the nefarious Andreas \"Scarfinger\" Skarfos, who has in his possession missiles with nuclear warheads. He is threatening to use these missiles unless his demands are met. While the fortress is impervious from outside attack, it does have a vulnerability.\nThere is a tunnel which leads under the island to the reactor which is being using for power. If someone could enter the tunnel and destroy the reactor, Scarfinger's plans would be ruined, So now, it's up to the player, who takes on the role of a special agent, to put a stop to this. To complete this mission, the intelligence agency is supplying a Spycycle, which is a multipurpose vehicle which can be used as a motorcycle on land, a speedboat on water, and a minisub while underwater.</p>\n<p>The gameplay in <em>La Moto Infernale: Scarfinger</em> is divided into three parts. The first part involves players driving a motorcycle along a roadway in order to reach the island. The player has a limited amount of time to complete this task, so they must kick their motorcycle up from the slow first gear all the way up to the blazing fast fifth gear of speed. However, the player may occasionally have to slow down to avoid the barrels and mines clogging up the road. Players also have to be careful not getting to close to either side of the road or risk careening into the mountainside or falling off the road into the water below. Also located on the road are ammo icons which the player should try their best to collect to increase their missile supply. </p>\n<p>The second part involves crossing the sea on the speedboat form of the Spycycle to get to the tunnel entrance. Players will have to dodge mines and mechanical sharks. Also, oil slicks from previously sunken tankers can give the boat engine troubles too. The boat is equipped with a laser rifle and a torpedo launcher to help the player get through this part of the mission. Also, the player will need to collect antimatter bolts from pods which are being dropped from planes. These bolts will be used for destroying the reactor.</p>\n<p>The third part involves entering the tunnel in minisub form. Players will have to dodge neutron bolts being emitted from the reactor and also avoid getting damaged by the shooting gun turrets mounted on the tunnel walls. Finally, when the player reaches the reactor after getting by a gate, they must destroy the core of the reactor.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 6,
+                "name": "Racing / Driving"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 20,
+                "name": "Motorcycle"
+            }
+        ],
+        "id": 65125,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/65125/la-moto-infernale-scarfinger/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 133,
+                    "name": "Philips VG 5000"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": {
+            "height": 270,
+            "image_url": "https://cdn.mobygames.com/screenshots/7003842-la-moto-infernale-scarfinger-philips-vg-5000-loading-screen.png",
+            "platforms": [
+                "Philips VG 5000"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/f295cf7e-abf2-11ed-83f5-02420a000134.webp",
+            "width": 336
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Loading screen",
+                "height": 270,
+                "image_url": "https://cdn.mobygames.com/screenshots/7003842-la-moto-infernale-scarfinger-philips-vg-5000-loading-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f295cf7e-abf2-11ed-83f5-02420a000134.webp",
+                "width": 336
+            },
+            {
+                "caption": "Game mode selection screen",
+                "height": 270,
+                "image_url": "https://cdn.mobygames.com/screenshots/7003845-la-moto-infernale-scarfinger-philips-vg-5000-game-mode-selection.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f2c13524-abf2-11ed-83f5-02420a000134.webp",
+                "width": 336
+            },
+            {
+                "caption": "Gameplay",
+                "height": 270,
+                "image_url": "https://cdn.mobygames.com/screenshots/7002787-la-moto-infernale-scarfinger-philips-vg-5000-gameplay.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/edaf8126-abf2-11ed-9f52-02420a000130.webp",
+                "width": 336
+            }
+        ],
+        "title": "La Moto Infernale: Scarfinger"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>A bee named Spina is being sent by the queen of the colony to bring pollen back to the hive.</p>\n<p>Players take control of Spina as the screen constantly scrolls to the right. Players can move Spina in the four cardinal directions. Moving to far to the left or right will return Spina to the hive and moving Spina to far down will risk getting Spina drowned in water, with all of these outcomes requiring the player to replay the level again. Spina's job is to collect pollen from the flowers found throughout the levels. After collecting enough pollen the level ends and then brings the player to the next level. Spina will have to be careful to avoid obstacles in each level. Obstacles such as flowers with thorns,  raindrops, and spiders can cause Spina to fail in his task.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            }
+        ],
+        "id": 67768,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/67768/labeille/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 133,
+                    "name": "Philips VG 5000"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": {
+            "height": 250,
+            "image_url": "https://cdn.mobygames.com/screenshots/15649057-labeille-philips-vg-5000-loading-screen.png",
+            "platforms": [
+                "Philips VG 5000"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/833c18da-bdf0-11ed-b791-02420a0001bb.webp",
+            "width": 320
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Loading screen",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/15649057-labeille-philips-vg-5000-loading-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/833c18da-bdf0-11ed-b791-02420a0001bb.webp",
+                "width": 320
+            },
+            {
+                "caption": "Gameplay",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/15649204-labeille-philips-vg-5000-gameplay.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8fdb8030-bdf0-11ed-b791-02420a0001bb.webp",
+                "width": 320
+            },
+            {
+                "caption": "Statistic after returning to the hive",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/15671570-labeille-philips-vg-5000-statistic-after-returning-to-the-hive.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/daac59c0-bebf-11ed-9c42-02420a000140.webp",
+                "width": 320
+            }
+        ],
+        "title": "L'Abeille"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>A video game conversion of the board game Backgammon. The game board is displayed from a top down perspective and is laid out horizontally. The game lets the player compete against a computer opponent.  The objective of the game is to be the first player to move all fifteen of their pieces off of the board.</p>\n<p>The typical rules of Backgammon apply. Players roll two dice (if a pair is rolled it becomes four for that turn with the extra two being a copy of the original pair) to move their pieces to an empty slot, a slot occupied by their own pieces, or a slot that contains only one of their opponents pieces. Doing that will send their opponents piece back to their own home base. While it's a players turn, they can take back a move they made.</p>\n<p>The game lets the player choose how many matches they want to play to decide the ultimate victor (from 1 to 99).</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            }
+        ],
+        "id": 68967,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/68967/backgammon/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 133,
+                    "name": "Philips VG 5000"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": {
+            "height": 270,
+            "image_url": "https://cdn.mobygames.com/screenshots/7023391-backgammon-philips-vg-5000-loading-screen.png",
+            "platforms": [
+                "Philips VG 5000"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/1b0b0ee2-abf3-11ed-83c1-02420a000131.webp",
+            "width": 336
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Loading screen",
+                "height": 270,
+                "image_url": "https://cdn.mobygames.com/screenshots/7023391-backgammon-philips-vg-5000-loading-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1b0b0ee2-abf3-11ed-83c1-02420a000131.webp",
+                "width": 336
+            },
+            {
+                "caption": "Gameplay",
+                "height": 270,
+                "image_url": "https://cdn.mobygames.com/screenshots/7023388-backgammon-philips-vg-5000-gameplay.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1adb6250-abf3-11ed-83c1-02420a000131.webp",
+                "width": 336
+            },
+            {
+                "caption": "Typing in my name",
+                "height": 270,
+                "image_url": "https://cdn.mobygames.com/screenshots/7024123-backgammon-philips-vg-5000-typing-in-my-name.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1a75ce22-abf3-11ed-9fde-02420a000132.webp",
+                "width": 336
+            },
+            {
+                "caption": "Game mode selection screen",
+                "height": 270,
+                "image_url": "https://cdn.mobygames.com/screenshots/7023385-backgammon-philips-vg-5000-game-mode-selection-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1aa9edf6-abf3-11ed-83c1-02420a000131.webp",
+                "width": 336
+            }
+        ],
+        "title": "Backgammon"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Divertissements</em> is a compilation of four mini-games:</p>\n<ul>\n<li>\n<p>Jackpot - A slot machine game where the player has to get the three spinning reels to match in order to win. Players can choose to start with one to nine chips to play with. Players can risk from one to twenty chips per spin.</p>\n</li>\n<li>\n<p>Memotest - A game similar to Simon Says. The game will flash the player a sequence of figures quickly and the player will have to recall from their memory the correct order of the sequence. Every correct answer will increase the sequence of figures. Players can select how many different figures will appear from between one and twenty-five and they can select how long of a sequence of figures they want o play to, from between four and forty-one. Players can also select the number of times they can give an incorrect answer per game from between zero and six.</p>\n</li>\n<li>\n<p>Master-mind - Based on the board game Mastermind. The goal is for players to deduce the correct position of colored pawns in as few amount of tries as possible. Players can choose the length of the code (between two and nine) and the number of different colored pawns (between one and nine). If the player is stumped, they can receive the solution and try another puzzle.</p>\n</li>\n<li>\n<p>Casse-Brique - This game is similar to Breakout. Players control a paddle and have to bounce a ball off of it in order to break bricks. If the ball falls off the playing field the player loses a turn. The game ends when the players loses all of their turns.</p>\n</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 68991,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/68991/divertissements/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 133,
+                    "name": "Philips VG 5000"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Divertissements"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "In-game title",
+                "title": "Star-Roc"
+            }
+        ],
+        "description": "<p><em>Staroc</em> is a horizontally scrolling shoot-'em-up. Players control a spaceship that can move up and down and can fire lasers. The players spaceship flies through an asteroid belt and then over hostile territory and has to contend with several flying enemies as well as missiles that are launched from the ground surface. Shooting down enemies earns the player points. The player starts the game with three spaceships. Once they are all lost, the game ends. The player can then enter their name on a high score list if their score is high enough to qualify.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 69125,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/69125/staroc/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 133,
+                    "name": "Philips VG 5000"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": {
+            "height": 270,
+            "image_url": "https://cdn.mobygames.com/screenshots/6546906-staroc-philips-vg-5000-title-screen.png",
+            "platforms": [
+                "Philips VG 5000"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/4de52e50-abef-11ed-9584-02420a000136.webp",
+            "width": 336
+        },
+        "sample_screenshots": [
+            {
+                "caption": "A swarm of enemies are ahead!",
+                "height": 270,
+                "image_url": "https://cdn.mobygames.com/screenshots/6546930-staroc-philips-vg-5000-a-swarm-of-enemies-are-ahead.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/527c498a-abef-11ed-9584-02420a000136.webp",
+                "width": 336
+            },
+            {
+                "caption": "Title screen",
+                "height": 270,
+                "image_url": "https://cdn.mobygames.com/screenshots/6546906-staroc-philips-vg-5000-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4de52e50-abef-11ed-9584-02420a000136.webp",
+                "width": 336
+            },
+            {
+                "caption": "Game Over",
+                "height": 270,
+                "image_url": "https://cdn.mobygames.com/screenshots/6545811-staroc-philips-vg-5000-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4d22c7fc-abef-11ed-9c12-02420a00012f.webp",
+                "width": 336
+            },
+            {
+                "caption": "Enemies, oil tanks, and rockets",
+                "height": 270,
+                "image_url": "https://cdn.mobygames.com/screenshots/6546909-staroc-philips-vg-5000-enemies-oil-tanks-and-rockets.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4e248456-abef-11ed-9584-02420a000136.webp",
+                "width": 336
+            }
+        ],
+        "title": "Staroc"
+    }
+]

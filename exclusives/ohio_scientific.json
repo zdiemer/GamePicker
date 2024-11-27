@@ -1,0 +1,4608 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Seawolfe</em> is based on <a href=\"https://www.mobygames.com/search/?q=Midway\">Midway</a>'s arcade game <a href=\"https://www.mobygames.com/search/?q=Sea+Wolf\">Sea Wolf</a>. Like the arcade game it's a naval shooting game where the player's task is to shoot down enemy ships. The player uses a tube at the bottom of the screen which is used to launch torpedoes towards the surface where ships of different sizes pass by. Aiming is done by tilting the tube left or right and it can shoot two torpedoes at a time. Points are earned for each sunk ship with the small ones being worth more. The objective of the game is to reach the highest score before time runs out.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 78484,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/78484/seawolfe/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": {
+            "height": 256,
+            "image_url": "https://cdn.mobygames.com/screenshots/16004879-seawolfe-ohio-scientific-title-with-instructions.png",
+            "platforms": [
+                "Ohio Scientific"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/9b094638-bf29-11ed-9c42-02420a000140.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Title with instructions",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16004879-seawolfe-ohio-scientific-title-with-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9b094638-bf29-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Getting a score",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16004852-seawolfe-ohio-scientific-getting-a-score.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/97facb74-bf29-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Shooting two torpedoes towards a boat",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16004942-seawolfe-ohio-scientific-shooting-two-torpedoes-towards-a-boat.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a2e23f54-bf29-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting out",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16004867-seawolfe-ohio-scientific-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9a8dd138-bf29-11ed-9c42-02420a000140.webp",
+                "width": 256
+            }
+        ],
+        "title": "Seawolfe"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Invaders</em> is a variant of <a href=\"https://www.mobygames.com/search/?q=Space+Invaders\">Space Invaders</a>. It works like any other game of its kind with the player moving a laser base along the bottom of the screen while shooting at an alien formation made up of five rows of aliens that progressively get closer to the player. Different aliens are worth different point values and when reaching 2000 points an extra base is granted to the player. Like in the arcade game barriers offer some protection and an UFO will at times pass by at the top of the screen. The player has three lives.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 78506,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/78506/invaders/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1981"
+            ]
+        ],
+        "sample_cover": {
+            "height": 256,
+            "image_url": "https://cdn.mobygames.com/screenshots/16006808-invaders-ohio-scientific-title-screen.png",
+            "platforms": [
+                "Ohio Scientific"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/685ef920-bf2a-11ed-9c42-02420a000140.webp",
+            "width": 512
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Title screen",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16006808-invaders-ohio-scientific-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/685ef920-bf2a-11ed-9c42-02420a000140.webp",
+                "width": 512
+            },
+            {
+                "caption": "Controls + score table",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16006799-invaders-ohio-scientific-controls-score-table.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/681337d8-bf2a-11ed-9c42-02420a000140.webp",
+                "width": 512
+            },
+            {
+                "caption": "Starting out",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16006784-invaders-ohio-scientific-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6696b772-bf2a-11ed-9c42-02420a000140.webp",
+                "width": 512
+            },
+            {
+                "caption": "Blasting some aliens",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16006745-invaders-ohio-scientific-blasting-some-aliens.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/631f86dc-bf2a-11ed-9c42-02420a000140.webp",
+                "width": 512
+            },
+            {
+                "caption": "Getting killed",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16006763-invaders-ohio-scientific-getting-killed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6431731e-bf2a-11ed-9c42-02420a000140.webp",
+                "width": 512
+            }
+        ],
+        "title": "Invaders"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Golf Challenger</em> is a golf game for one to four players that contains eighteen holes. The holes are viewed from a top down perspective with one hole taking up the full width of the screen. Shots are taken by entering two commands. First the player has to choose a club by entering a number between one and nine. Then the angle of the shot is chosen by entering a number that corresponds with a compass drawn on the screen. For example 2 causes the ball to go straight upwards while 0 causes it to go right. Once a hole has been completed the game immediately moves on to the next one.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 35,
+                "name": "Golf"
+            }
+        ],
+        "id": 78509,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/78509/golf-challenger/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": {
+            "height": 256,
+            "image_url": "https://cdn.mobygames.com/screenshots/16007861-golf-challenger-ohio-scientific-title-screen.png",
+            "platforms": [
+                "Ohio Scientific"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/c2af2a44-bf2a-11ed-9c42-02420a000140.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Hole 12",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16007981-golf-challenger-ohio-scientific-hole-12.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d0703bfa-bf2a-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Hole 9",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16007663-golf-challenger-ohio-scientific-hole-9.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b33433f2-bf2a-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Hole 6",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16007726-golf-challenger-ohio-scientific-hole-6.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b7dd085c-bf2a-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Title screen",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16007861-golf-challenger-ohio-scientific-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c2af2a44-bf2a-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Hole 4",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16007774-golf-challenger-ohio-scientific-hole-4.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bb158710-bf2a-11ed-9c42-02420a000140.webp",
+                "width": 256
+            }
+        ],
+        "title": "Golf Challenger"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Breakthru</em> is an early computer version of <a href=\"https://www.mobygames.com/search/?q=Breakout\">Breakout</a>. Like in any other version of the game the player controls a bat in an attempt to destroy bricks with a ball. There are five rows of bricks with different point values for each layer. The player has access to as many as ten balls and has to get as high score as possible before using them up. The game has two skill levels (regular and master) and there is also an option to add pinball bumpers to the playing field. The number of bumpers is chosen before starting the game and the player also gets to set the position for each.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 64,
+                "name": "Paddle / Pong"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 81709,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/81709/breakthru/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": {
+            "height": 256,
+            "image_url": "https://cdn.mobygames.com/screenshots/15898161-breakthru-ohio-scientific-title-screen.png",
+            "platforms": [
+                "Ohio Scientific"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/a62deaf8-bf08-11ed-9c42-02420a000140.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Title screen",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/15898161-breakthru-ohio-scientific-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a62deaf8-bf08-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Last ball",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/15898047-breakthru-ohio-scientific-last-ball.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9aff6864-bf08-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting out",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/15898083-breakthru-ohio-scientific-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a02cde48-bf08-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Breaking some bricks",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/15898128-breakthru-ohio-scientific-breaking-some-bricks.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a3cd8e9e-bf08-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "A game with bumpers",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/15898005-breakthru-ohio-scientific-a-game-with-bumpers.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/986489d6-bf08-11ed-9c42-02420a000140.webp",
+                "width": 256
+            }
+        ],
+        "title": "Breakthru"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Tank for Two</em> is an action game played from a top down perspective similar to the arcade game <a href=\"https://www.mobygames.com/search/?q=Tank\">Tank</a> and the Atari 2600 game <a href=\"https://www.mobygames.com/game/8851/combat/\">Combat</a>. As is implied by its title, the game is for two players who each control a tank. The players share the same keyboard and controls the tank with three keys: two for rotating the tank and one for shooting. Holding down both rotation keys causes the tank to move forward. It's possible to steer a shot by holding down a rotation key after firing. Hitting the enemy tank give one point and the one that first reaches a score of 20 wins the game.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 80,
+                "name": "Tank"
+            }
+        ],
+        "id": 92905,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/92905/tank-for-two/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": {
+            "height": 256,
+            "image_url": "https://cdn.mobygames.com/screenshots/16209538-tank-for-two-ohio-scientific-title-screen.png",
+            "platforms": [
+                "Ohio Scientific"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/c6321500-c1d2-11ed-ab6b-02420a000194.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Tank 1 wins!",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16209523-tank-for-two-ohio-scientific-tank-1-wins.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c5c61954-c1d2-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Tank 2 scores the first point",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16209526-tank-for-two-ohio-scientific-tank-2-scores-the-first-point.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c5dacb1a-c1d2-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "One tanks fires at another",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16209529-tank-for-two-ohio-scientific-one-tanks-fires-at-another.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c5f31094-c1d2-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Start of game",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16209532-tank-for-two-ohio-scientific-start-of-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c606b662-c1d2-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Instructions",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16209535-tank-for-two-ohio-scientific-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c61e1f1e-c1d2-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            }
+        ],
+        "title": "Tank for Two"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Backgammon</em> is a computer adaptation of the board game. It's for one player who competes against an AI opponent. The game uses text based graphics with asterisks and pluses representing the checkers. The game is played with the keyboard. First the player enters the letter of the starting point and then the destination point. The player is allowed to cheat which means that the checkers can be moved forward in any way regardless of what the dice show. There are no limits on number of moves or length of each move. Once all moves have been made the space bar is pressed and the AI will make its moves.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 121904,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/121904/backgammon/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979-11"
+            ]
+        ],
+        "sample_cover": {
+            "height": 256,
+            "image_url": "https://cdn.mobygames.com/screenshots/16404269-backgammon-ohio-scientific-launching-the-game.png",
+            "platforms": [
+                "Ohio Scientific"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/1f32a9b0-c211-11ed-ab6b-02420a000194.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "AI makes the first move",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16404296-backgammon-ohio-scientific-ai-makes-the-first-move.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/205c70d2-c211-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Moving from M to P",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16404293-backgammon-ohio-scientific-moving-from-m-to-p.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2045434e-c211-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting out",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16404266-backgammon-ohio-scientific-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1f19a5be-c211-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "End of game",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16404290-backgammon-ohio-scientific-end-of-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/202dd9a2-c211-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Launching the game",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16404269-backgammon-ohio-scientific-launching-the-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1f32a9b0-c211-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            }
+        ],
+        "title": "Backgammon"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>32NIMB</em> is a <a href=\"https://www.mobygames.com/group/9247/nim-variants/\">Nim variant</a>. The player and computer take turns removing either 1, 2 or 3 objects from a variable sized set. Whoever takes the last object loses the game.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 146235,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/146235/32nimb/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1977-07"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "32NIMB"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>OSI Blackjack</em> is am implementation of the card game of the same name for the Ohio Scientific. The player plays against the bank and draws card with the goal of reaching as close a value of 21 without going over.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            }
+        ],
+        "id": 146237,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/146237/osi-blackjack/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1977"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "OSI Blackjack"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Close the Window</em> is a dice rolling game. The player rolls two dice and can close up to three windows (valued one to nine) whose combined value is equal to the value of the roll. The player loses if no options are available for the current roll and wins if all windows are closed.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 146238,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/146238/close-the-window/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1977-09"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Close the Window"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Star Wars</em> is a shooting game inspired by the movie of the same name. The player aims a turret over a field of stars and must fire at incoming enemy ships. When too many enemy ships fly past without being shot down the player is shot down.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 231,
+                "name": "Fangame"
+            }
+        ],
+        "id": 146239,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/146239/star-wars/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1977-10"
+            ]
+        ],
+        "sample_cover": {
+            "height": 768,
+            "image_url": "https://cdn.mobygames.com/screenshots/18160719-star-wars-ohio-scientific-in-game-instructions.png",
+            "platforms": [
+                "Ohio Scientific"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/703adca8-bb8d-11ee-b935-02420a0001bc.webp",
+            "width": 768
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Protagonist's gun shot",
+                "height": 768,
+                "image_url": "https://cdn.mobygames.com/screenshots/18160731-star-wars-ohio-scientific-protagonists-gun-shot.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a177434c-bb8d-11ee-888e-02420a0001bc.webp",
+                "width": 768
+            },
+            {
+                "caption": "The enemy is firing",
+                "height": 768,
+                "image_url": "https://cdn.mobygames.com/screenshots/18160727-star-wars-ohio-scientific-the-enemy-is-firing.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9fec1692-bb8d-11ee-8dd1-02420a0001b9.webp",
+                "width": 768
+            },
+            {
+                "caption": "Loss screen",
+                "height": 768,
+                "image_url": "https://cdn.mobygames.com/screenshots/18160739-star-wars-ohio-scientific-loss-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a3af2c2e-bb8d-11ee-bbbf-02420a0001bc.webp",
+                "width": 768
+            },
+            {
+                "caption": "Win screen",
+                "height": 768,
+                "image_url": "https://cdn.mobygames.com/screenshots/18160743-star-wars-ohio-scientific-win-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a491ea5a-bb8d-11ee-be3f-02420a0001b8.webp",
+                "width": 768
+            },
+            {
+                "caption": "Protagonist's gun explosion",
+                "height": 768,
+                "image_url": "https://cdn.mobygames.com/screenshots/18160735-star-wars-ohio-scientific-protagonists-gun-explosion.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a2ae5b74-bb8d-11ee-be3f-02420a0001b8.webp",
+                "width": 768
+            }
+        ],
+        "title": "Star Wars"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>SAM (Surface-to-Air Missile)</em> is a shooting game where the player can fire missiles at incoming aircraft. The player decides when the missile is launched and can fire at three different angles (63.4, 45, and 26.6 degrees). Only one missile can be in the air at the time.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 146240,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/146240/sam-surface-to-air-missile/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1977-11"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "SAM (Surface-to-Air Missile)"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Bomber</em> places the player in a bomb disposal role. A bomb is hidden somewhere in a parking garage and the player must find it. The player can see the remaining time until detonation and distance to the bomb, but not the direction. The player can mover around on different floors and take the elevator up and down. Using logical deduction the player can find the bomb to disarm it.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 15,
+                "name": "Real-time"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 146242,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/146242/bomber/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1977-10"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Bomber"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Shoot the Gluck</em> is a simple shooting game in which a cannon pans along the bottom of the screen and an object flies over at the top. The player must time his shot to hit the object.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 146243,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/146243/shoot-the-gluck/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1977-12"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Shoot the Gluck"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Hobbit Quiz</em> is a simple short quiz about J.R.R. Tolkien's book The Hobbit written in BASIC.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 29,
+                "name": "Game show / trivia / quiz"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 231,
+                "name": "Fangame"
+            }
+        ],
+        "id": 146251,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/146251/hobbit-quiz/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Hobbit Quiz"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Night of the Living Volkswagens</em> pits the player against other cars coming towards you and firing at you. The player can go straight, left or right to avoid incoming fire and also fire back. The player is scored for each car shot.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 6,
+                "name": "Racing / Driving"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 188,
+                "name": "Automobile"
+            }
+        ],
+        "id": 146252,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/146252/night-of-the-living-volkswagens/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Night of the Living Volkswagens"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Othello</em> is a computer implementation of the board game of the same name. The computer and player take turns placing a marker on the board any surrounded markers of the other player change sides. Whoever has the most markers on the board at the end of the game wins.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 146253,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/146253/othello/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Othello"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Trax</em> is a two-player light-cycle game. Players move around the grid and leave behind a trail. Players are not allowed to hit a trail or the edge of the screen or they lose.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 146273,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/146273/trax/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Trax"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Star Wars</em> puts the player in a turret of a space ship with an enemies on their tail. The player must shoot the enemies and score 2000 points to win.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 231,
+                "name": "Fangame"
+            }
+        ],
+        "id": 146274,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/146274/star-wars/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Star Wars"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Breakout</em> has the player bounce a ball up the screen by controlling a small paddle at the bottom. Bricks at the top are destroyed when hit. The goal is to have the ball hit the top of the screen. If the ball touches the bottom of the screen it is lost. The player has six balls. Each broken brick scores points.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 64,
+                "name": "Paddle / Pong"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 146277,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/146277/breakout/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Breakout"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Torpedo</em> places the player in command of an anti-submarine station. The player must destroy any passing submarine. 25 points are gained for each submarine destroyed. Each torpedo fired costs 5 points and each torpedo that gets away costs 10 points, so the player must make each shot count.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 146278,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/146278/torpedo/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Torpedo"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Stellar Persuit</em> (sic) is a shooting game in which the player is in pursuit of an enemy. The player can aim the turret over the screen and try to hit the enemy ship. The player can use both lasers and rockets to try to hit them and both can run out.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 146315,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/146315/stellar-persuit/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Stellar Persuit"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>New York Taxi</em> is a simple game with the goal to hail a cab in New York. The player can move around the screen and must flag down a cab by standing directly in front of it and pressing the right button, without getting hit by said taxi. Score is deducted when you get hit by a vehicle.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 200,
+                "name": "Contemporary"
+            }
+        ],
+        "id": 146316,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/146316/new-york-taxi/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "New York Taxi"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Blackjack</em> is a computer implementation of the casino card game. This version uses speech synthesis and requires a Votrax speech synthesis unit. The game remains the same with the player trying to beat the bank in getting a card value of 21 without going over.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 146317,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/146317/blackjack/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Blackjack"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Little Guy</em> is a very simple game where a character can be moved around the screen in search for a door. The game mostly shows off the capabilities of the Ohio Scientific computers with color and optionally a tone generator.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 146318,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/146318/little-guy/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Little Guy"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Collide</em> is a top-down racing game using a fixed screen. The player races circles along the track over various lanes and must collect all the dots scattered over the lanes. The challenge is not to collide with the opponent that races around the track in the opposite direction with the intent of crashing into the player. The game is very similar to the Arcade game <a href=\"https://www.mobygames.com/search/?q=Head+On\">Head On</a>.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 6,
+                "name": "Racing / Driving"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 188,
+                "name": "Automobile"
+            }
+        ],
+        "id": 186983,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/186983/collide/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1981-04"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Collide"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Graphic Games-3</em> is a compilation of games for the Ohio Scientific Superboard II and Challenger 1P computers. The games are:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/search/?q=Tank+Attack\">Tank Attack</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Dodgem\">Dodgem</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Free+for+All\">Free for All</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Hidden+Maze\">Hidden Maze</a></li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 186984,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/186984/graphic-games-3/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Graphic Games-3"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Game Disk 1</em> is a compilation of six arcade games for the Ohio Scientific C4P and C8P. The games are:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/search/?q=Starwars\">Starwars</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Hectic\">Hectic</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Bomber\">Bomber</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Torpedo\">Torpedo</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Space+War\">Space War</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Breakout\">Breakout</a></li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 187748,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/187748/game-disk-1/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Game Disk 1"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Game Disk 2</em> is a compilation of seven arcade games for the Ohio Scientific CP4 and CP8. The games are:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/search/?q=Sketch\">Sketch</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Racer\">Racer</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Destroyer\">Destroyer</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Lander\">Lander</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Hide+'n+Seek\">Hide 'n Seek</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Bomber\">Bomber</a></li>\n<li><a href=\"https://www.mobygames.com/game/34552/tiger-tank/\">Tiger Tank</a></li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 187750,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/187750/game-disk-2/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Game Disk 2"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Game Disk 3</em> is a compilation of five games for the Ohio Scientific C4P and C8P. The games are:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/search/?q=Star+Trek\">Star Trek</a></li>\n<li><a href=\"https://www.mobygames.com/game/61014/cryptograms/\">Cryptograms</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Blackjack\">Blackjack</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Hangman\">Hangman</a></li>\n<li><a href=\"https://www.mobygames.com/game/165098/23-matches/\">23 Matches</a></li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 187751,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/187751/game-disk-3/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Game Disk 3"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Game Disk 4</em> is a compilation of five games for the Ohio Scientific C4P and C8P. The games are:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/search/?q=Frustrations\">Frustration</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Battleship\">Battleship</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Tic-Tac-Toe\">Tic-Tac-Toe</a></li>\n<li><a href=\"https://www.mobygames.com/game/8703/civil-war/\">Civil War</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Mastermind\">Mastermind</a></li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 187752,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/187752/game-disk-4/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Game Disk 4"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Game Disk 5</em> is a compilation of four sports games for the Ohio Scientific C4P and C8P. The games are:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/search/?q=Baseball\">Baseball</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Golf\">Golf</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Bowling\">Bowling</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Hockey\">Hockey</a></li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 187754,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/187754/game-disk-5/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Game Disk 5"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Game Disk 6</em> is a compilation of five casino and card games for the Ohio Scientific C4P and C8P. The games are:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/search/?q=Poker\">Poker</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Blackjack\">Blackjack</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Spades\">Spades</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Hearts\">Hearts</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Slot+Machine\">Slot Machine</a></li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 187756,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/187756/game-disk-6/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Game Disk 6"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Game Disk 7</em> is a compilation of five games for the Ohio Scientific C4P and C8P. The games all require the joystick peripheral to be played. The games are:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/search/?q=Joystick+Sketch\">Joystick Sketch</a></li>\n<li><a href=\"https://www.mobygames.com/game/34552/tiger-tank/\">Tiger Tank</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Roadrace\">Roadrace</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Space+Attack\">Space Attack</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Blockade\">Blockade</a></li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 187797,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/187797/game-disk-7/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Game Disk 7"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Game Disk 8</em> is a compilation of five games for the Ohio Scientific C4P and C8P. All games require the joystick peripheral. The games are:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/search/?q=Zulu+9\">Zulu 9</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=High+Noon\">High Noon</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Star+Wars\">Star Wars</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Bomber\">Bomber</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Surround\">Surround</a></li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 187799,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/187799/game-disk-8/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979-11"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Game Disk 8"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Game Disk 9</em> is a compilation of six games for the Ohio Scientific C4P and C8P. The games are:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/search/?q=Othello\">Othello</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Concentration\">Concentration</a></li>\n<li><a href=\"https://www.mobygames.com/game/93698/flip-flop/\">Flip-Flop</a></li>\n<li><a href=\"https://www.mobygames.com/game/36222/illusion/\">Illusion</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Mastermind+2\">Mastermind 2</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Mom\">Mom</a></li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 187800,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/187800/game-disk-9/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Game Disk 9"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Educational Disk 1</em> is an educational package containing educational material for math, spelling and geography. Two games are included, an addition game to practice mathematics and a hangman game in which the player guesses letters until the hidden word is found.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 162,
+                "name": "Word construction"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 71,
+                "name": "Geography"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 43,
+                "name": "Math / logic"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 44,
+                "name": "Reading / writing"
+            }
+        ],
+        "id": 187801,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/187801/educational-disk-1/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Educational Disk 1"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Educational Disk 7</em> is an educational package featuring alphabet and number tutors and quizzes. A memory game is included where matching letters and numbers must be found. The game can be played both in color or in monochrome.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 44,
+                "name": "Reading / writing"
+            }
+        ],
+        "id": 187802,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/187802/educational-disk-7/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979-11"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Educational Disk 7"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Educational Disk 9</em> is an educational package featuring two games:</p>\n<ul>\n<li><em>Hangman</em> is a word guessing game where letters need to be guessed to find the hidden word or otherwise parts of a hanged man are drawn.</li>\n<li><em>Word Search Game</em> is a typical word search game where words are hidden in a grid.</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 162,
+                "name": "Word construction"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 44,
+                "name": "Reading / writing"
+            }
+        ],
+        "id": 187803,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/187803/educational-disk-9/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979-11"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Educational Disk 9"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Fighter Pilot</em> is a shooting game in which the player fires at enemy aircraft. The game can be played with either keyboard or joystick and features ten difficulty levels (determining the amount of time before a target must be shot down). The player must line up enemy craft in their crosshair by moving left or right, and not get shot themselves. An automatic fire option allows firing whenever a target is caught in the crosshair.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 19,
+                "name": "Flight / aviation"
+            }
+        ],
+        "id": 188187,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/188187/fighter-pilot/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Fighter Pilot"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Chess for OSI</em> is a chess game featuring a full graphical board on the screen. There are three difficulties to play against.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 11,
+                "name": "Chess"
+            }
+        ],
+        "id": 188188,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/188188/chess-for-osi/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Chess for OSI"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Ten Tank Blitz</em> is a real-time action game where two players try to destroy each other's base. Each player can control one of their five tanks at a time and fire at will. Shells are guided and can be steered in mid-flight. There are multiple levels ranging from more open levels to more maze-like levels.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 173,
+                "name": "Multiple units/characters control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 80,
+                "name": "Tank"
+            }
+        ],
+        "id": 188189,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/188189/ten-tank-blitz/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Ten Tank Blitz"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Joystick Package</em> is a compilation of four games designed to work with a joystick. The games are:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/search/?q=Tank\">Tank</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Fighter+Pilot\">Fighter Pilot</a></li>\n<li><a href=\"https://www.mobygames.com/game/121984/killerbot/\">Killerbot</a></li>\n<li><a href=\"https://www.mobygames.com/game/188755/barrierball/\">Barrierball</a></li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 188190,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/188190/joystick-package/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Joystick Package"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>This implementation of Conway's game of <em>Life</em> has patterns evolve using the normal rules:</p>\n<ul>\n<li>Any live cell with fewer than two live neighbours dies, as if caused by under-population.</li>\n<li>Any live cell with two or three live neighbours lives on to the next generation.</li>\n<li>Any live cell with more than three live neighbours dies, as if by overcrowding.</li>\n<li>Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.</li>\n</ul>\n<p>The program is easily editable to fit the different formats and memory amounts of the different Ohio Scientific computers by just changing some values.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            }
+        ],
+        "id": 188753,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/188753/put-a-little-life-in-your-system/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979-11"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Put a Little Life in Your System"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Barrierball</em> is a light-cycle game. Players move around the screen and try to box in their opponent. Each player leaves a trail while moving in the four cardinal directions. Whenever a player hits a trail (either their own or the other player's), that player loses the round.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 188755,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/188755/barrierball/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Barrierball"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Bomber</em> is an action game in which the player must bomb moving targets with their airplane. Incoming aircraft need to be fought in dogfights. The game package includes two variants of the game, one for systems capable of graphics and one more simplified version for systems only capable of alpha-numeric characters.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 19,
+                "name": "Flight / aviation"
+            }
+        ],
+        "id": 188756,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/188756/bomber/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Bomber"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Concentration</em> is a card matching game for multiple players. The players take turn picking tiles in a 6x6 grid. Each tile is present twice and if they match the player collects them and gains another turn. Whoever collects most tiles wins the game.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 154,
+                "name": "Tile matching puzzle"
+            }
+        ],
+        "id": 188757,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/188757/concentration/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Concentration"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Awari</em> is traditional African board game for two players. In turns players can pick up seeds in one of the \"houses\" in their control. Seeds that are picked up have to be redistributed by placing one in each adjacent house in counter-clockwise fashion. If the final seed falls in the player's scoring house the player is awarded an additional turn. If the final seed falls into an empty house owned by the player, that seed and any seeds in the opposing house are added to the scoring house of the player. The game ends when one player no longer has any seeds in his houses. The player with the most seeds in his scoring house wins.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            }
+        ],
+        "id": 188758,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/188758/awari/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979-11"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Awari"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Robotank</em> is a tank battle game played either against the computer or against another player. The game can be controlled with either keyboard or joystick. Both players have a number of tanks and the goal is to be the last one with tanks remaining.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 173,
+                "name": "Multiple units/characters control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 80,
+                "name": "Tank"
+            }
+        ],
+        "id": 188759,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/188759/robotank/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979-11"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Robotank"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Lunar Lander</em> is a simulation of placing a lander on the lunar surface. The player controls the thrusters of the lander to influence the descent rate. This version is fully in real-time and features visuals.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 158,
+                "name": "Vehicle simulator"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 200,
+                "name": "Contemporary"
+            }
+        ],
+        "id": 188760,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/188760/lunar-lander/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979-11"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Lunar Lander"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Mastermind and Gleep</em> is a package of two games. A digital version of the code breaking game <em>Mastermind</em> and a searching game for children called <em>Find the Gleep</em>.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            }
+        ],
+        "id": 188761,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/188761/mastermind-and-gleep/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Mastermind and Gleep"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Tankkanna</em> is a racing game with a tank, the player must try not to crash into the walls of the twisting track.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 6,
+                "name": "Racing / Driving"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 80,
+                "name": "Tank"
+            }
+        ],
+        "id": 188762,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/188762/tankkanna/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Tankkanna"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Bowling</em> is a bowling game for up to eight players. The game follows the basic principles of bowling, but also changes some of the rules. Players roll balls down a lane to knock over pins. The game features 15 pins instead of the usual 10 and players only receive five balls per frame.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 88,
+                "name": "Bowling"
+            }
+        ],
+        "id": 188769,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/188769/bowling/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Bowling"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Mastermind II</em> is a code cracking game in which the player must guess a number code. After each guess the player learns the amount of correct numbers in the correct place and correct numbers in the wrong place. The player can use logic reasoning to get to the correct code in as few guesses as possible. The game uses a graphic representation and six difficulty levels.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 188770,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/188770/mastermind-ii/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Mastermind II"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Battlepak</em> is a compilation featuring the following games:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/game/180982/starfighter/\">Starfighter</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Battlefleat\">Battlefleat</a></li>\n<li><a href=\"https://www.mobygames.com/game/78484/seawolfe/\">Seawolfe</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Bomber\">Bomber</a></li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 188771,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/188771/battlepak/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Battlepak"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Thinker'spak</em> is a compilation featuring the following games:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/game/82333/battlefleet/\">Battlefleet</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Mastermind/Gleep\">Mastermind/Gleep</a></li>\n<li><a href=\"https://www.mobygames.com/game/188757/concentration/\">Concentration</a></li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 188772,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/188772/thinkerspak/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Thinker'spak"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>The Budget Library</em> is a large compilation featuring joystick instructions, a line renumber tool, a math drill, a biorhythm tool, a dynamic animation, and the following games:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/game/180982/starfighter/\">Starfighter</a></li>\n<li><a href=\"https://www.mobygames.com/game/78484/seawolfe/\">Seawolfe</a></li>\n<li><a href=\"https://www.mobygames.com/game/92905/tank-for-two/\">Tank for Two</a></li>\n<li><a href=\"https://www.mobygames.com/game/188187/fighter-pilot/\">Fighter Pilot</a></li>\n<li><a href=\"https://www.mobygames.com/game/81709/breakthru/\">Breakthru</a></li>\n<li><a href=\"https://www.mobygames.com/game/82333/battlefleet/\">Battlefleet</a></li>\n<li><a href=\"https://www.mobygames.com/game/188757/concentration/\">Concentration</a></li>\n<li><a href=\"https://www.mobygames.com/game/78504/slashball/\">Slashball</a></li>\n<li><a href=\"https://www.mobygames.com/game/121984/killerbot/\">Killerbot</a></li>\n<li><a href=\"https://www.mobygames.com/game/188755/barrierball/\">Barrierball</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Mastermind/Gleep\">Mastermind</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Mastermind/Gleep\">Find the Gleep</a></li>\n<li><a href=\"https://www.mobygames.com/game/188762/tankkanna/\">Tankkanna</a></li>\n<li><a href=\"https://www.mobygames.com/game/188769/bowling/\">Bowling</a></li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 188773,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/188773/the-budget-library/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "The Budget Library"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>The Library</em> is a large compilation featuring joystick instructions, a line renumber tool, a variable table maker, search functions, a branch finder, a math drill, a biorhythm tool, a dynamic animation, and the following games:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/game/180982/starfighter/\">Starfighter</a></li>\n<li><a href=\"https://www.mobygames.com/game/78484/seawolfe/\">Seawolfe</a></li>\n<li><a href=\"https://www.mobygames.com/game/92905/tank-for-two/\">Tank for Two</a></li>\n<li><a href=\"https://www.mobygames.com/game/188187/fighter-pilot/\">Fighter Pilot</a></li>\n<li><a href=\"https://www.mobygames.com/game/81709/breakthru/\">Breakthru</a></li>\n<li><a href=\"https://www.mobygames.com/game/82333/battlefleet/\">Battlefleet</a></li>\n<li><a href=\"https://www.mobygames.com/game/188757/concentration/\">Concentration</a></li>\n<li><a href=\"https://www.mobygames.com/game/78504/slashball/\">Slashball</a></li>\n<li><a href=\"https://www.mobygames.com/game/121984/killerbot/\">Killerbot</a></li>\n<li><a href=\"https://www.mobygames.com/game/188755/barrierball/\">Barrierball</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Mastermind/Gleep\">Mastermind</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Mastermind/Gleep\">Find the Gleep</a></li>\n<li><a href=\"https://www.mobygames.com/game/188762/tankkanna/\">Tankkanna</a></li>\n<li><a href=\"https://www.mobygames.com/game/188769/bowling/\">Bowling</a></li>\n<li><a href=\"https://www.mobygames.com/game/188189/ten-tank-blitz/\">Ten Tank Blitz</a></li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 188775,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/188775/the-library/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "The Library"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Teenage Driver</em> is a driving game in which the player is awarded points for running over pedestrians on a parking lot.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 6,
+                "name": "Racing / Driving"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 188,
+                "name": "Automobile"
+            }
+        ],
+        "id": 188777,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/188777/teenage-driver/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Teenage Driver"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Battleground</em> gives player control of a tank. The goal is to blow up two enemy bunkers. The player's path is obstructed by houses, mines, trees and barriers making it hard to reach the destination.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 80,
+                "name": "Tank"
+            }
+        ],
+        "id": 188778,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/188778/battleground/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Battleground"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Blackjack</em> is a computer version of the classic gambling card game. The game uses Las Vegas casino rules. The player and bank are dealt cards and must hit or stay in an attempt to get as close to a card value of 21 without going bust.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            }
+        ],
+        "id": 188779,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/188779/blackjack/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979-11"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Blackjack"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Schneiderpak</em> is a compilation featuring the following games by the same author:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/game/188777/teenage-driver/\">Teenage Driver</a></li>\n<li><a href=\"https://www.mobygames.com/game/188778/battleground/\">Battleground</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Blackjack\">Blackjack</a></li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 188780,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/188780/schneiderpak/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979-11"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Schneiderpak"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "Source code title",
+                "title": "Polled Keyboard Lunar Lander"
+            }
+        ],
+        "description": "<p><em>Lunar Lander</em> is a text-based real-time version of Lunar Lander. The player must successfully land a lunar landing module on the moon, by applying counter thrust to prevent it from crashing into the surface with too much velocity. A limited amount of fuel means the player needs to conserve fuel as much as possible.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 15,
+                "name": "Real-time"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 158,
+                "name": "Vehicle simulator"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 200,
+                "name": "Contemporary"
+            }
+        ],
+        "id": 189630,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/189630/lunar-lander/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979-03"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Lunar Lander"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Dogfight II</em> is a two-player game. The players engage in combat in real-time and each control their own vehicle. The vehicles are moved and can fire using just three buttons.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 189635,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/189635/dogfight-ii/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979-03"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Dogfight II"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>A Bombing Run</em> puts the player in control of a bomber plane. The player carries 20 bombs and flies over the targets 10 times. The plane flies automatically and the player must release the bombs at the most opportune times to destroy the tallest buildings.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 19,
+                "name": "Flight / aviation"
+            }
+        ],
+        "id": 190086,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/190086/a-bombing-run/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979-05"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "A Bombing Run"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Blockade</em> is a light cycle game for two players. Both players control a character on the screen that moves continuously. The player can move it in the four cardinal directions. When moving a trail is left behind which blocks both players. The first player that hits a wall or the edge of the level loses the round.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 190089,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/190089/blockade/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Blockade"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Adventure</em> is an adaptation of the classic text adventure game for micro computers. The game is adapted from a version found on an IBM 370 mainframe. The gameplay remains the same with the player exploring a cave system, finding items and solving puzzles to earn points.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 23,
+                "name": "Interactive fiction / text adventure"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            }
+        ],
+        "id": 190090,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/190090/adventure/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Adventure"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Tank Battle</em> is an action game for one or two players. Both players control a tank and must defeat the enemy tank.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 80,
+                "name": "Tank"
+            }
+        ],
+        "id": 190124,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/190124/tank-battle/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Tank Battle"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Sub Hunt</em> is a single player game in which the player must destroy enemy submarines that show up on the sonar screen.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 41,
+                "name": "Naval / watercraft"
+            }
+        ],
+        "id": 190125,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/190125/sub-hunt/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Sub Hunt"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Word Craze</em> is a word game. Players are given randomly generated letters and must try to create different words.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 162,
+                "name": "Word construction"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 190126,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/190126/word-craze/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Word Craze"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>Endless waves of enemy vessels pop up from the sky and try to take out your ground installations. You control an arrow-shaped fighter aircraft and you are assisted by a pair of computer controlled anti-aircraft guns.\n<em>Interceptor</em> is a single screen shooter with just one level, where you try to stay alive while shooting down enemies endlessly. Collision with hostiles or any form of terrain is fatal. Since there is no real ending, players go for the highest score possible.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 15,
+                "name": "Real-time"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 225735,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/225735/interceptor/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 178,
+                    "name": "Ohio Scientific"
+                },
+                "1981"
+            ]
+        ],
+        "sample_cover": {
+            "height": 512,
+            "image_url": "https://cdn.mobygames.com/screenshots/18771043-interceptor-ohio-scientific-the-arrow-shaped-thingy-is-your-figh.jpg",
+            "platforms": [
+                "Ohio Scientific"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/8ce42aae-28e7-11ef-b1d2-02420a0001c6.webp",
+            "width": 512
+        },
+        "sample_screenshots": [
+            {
+                "caption": "The invaders are persistent. Inevitably your ground installations are taken out one by one.",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18771074-interceptor-ohio-scientific-the-invaders-are-persistent-inevitab.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/40dd3cc6-28e8-11ef-859a-02420a0001c3.webp",
+                "width": 512
+            },
+            {
+                "caption": "Your vessel can move towards 8 different directions.",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18771059-interceptor-ohio-scientific-your-vessel-can-move-towards-8-diffe.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0b12e000-28e8-11ef-9cd8-02420a0001c6.webp",
+                "width": 512
+            },
+            {
+                "caption": "The arrow-shaped thingy is your fighter aircraft.",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18771043-interceptor-ohio-scientific-the-arrow-shaped-thingy-is-your-figh.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8ce42aae-28e7-11ef-b1d2-02420a0001c6.webp",
+                "width": 512
+            },
+            {
+                "caption": "Got some bonus points.",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18771063-interceptor-ohio-scientific-got-some-bonus-points.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2c21f7e0-28e8-11ef-87ce-02420a0001c2.webp",
+                "width": 512
+            },
+            {
+                "caption": "There are two computer controlled guns assisting the player, one on the left and one on the right. They automatically shoot at the enemies, but only at a fixed angle.",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18771055-interceptor-ohio-scientific-there-are-two-computer-controlled-gu.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c8876c56-28e7-11ef-a540-02420a0001c3.webp",
+                "width": 512
+            }
+        ],
+        "title": "Interceptor"
+    }
+]

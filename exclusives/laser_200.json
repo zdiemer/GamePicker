@@ -1,0 +1,123 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Galactic Invasion</em> is a fixed screen shoot 'em up. The player moves left and right along the bottom of the screen and has to shoot down the enemies that appear from the top of the screen. Shooting an enemy gives one point and when all have been destroyed the game moves on to another set of enemies with either different appearances or movement patterns. Occasionally enemies that are hit crashes towards the bottom and have to be avoided. A life is lost when hit by an enemy or its projectiles until the game ends.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 121319,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/121319/galactic-invasion/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 264,
+                    "name": "Laser 200"
+                },
+                "1983"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/16317732-galactic-invasion-laser-200-title-screen.png",
+            "platforms": [
+                "Laser 200"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/0f9b973a-c1f5-11ed-ab6b-02420a000194.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "The third screen has a new enemy type",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16317717-galactic-invasion-laser-200-the-third-screen-has-a-new-enemy-typ.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0f2382cc-c1f5-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Getting killed",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16317726-galactic-invasion-laser-200-getting-killed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0f65f062-c1f5-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Title screen",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16317732-galactic-invasion-laser-200-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0f9b973a-c1f5-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "The second screen has the same enemies but they move differently",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16317720-galactic-invasion-laser-200-the-second-screen-has-the-same-enemi.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0f398748-c1f5-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "The game just stops when running out of lives with no message given",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16317714-galactic-invasion-laser-200-the-game-just-stops-when-running-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0f0b04e0-c1f5-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            }
+        ],
+        "title": "Galactic Invasion"
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Super NIM</em> is a variant on <a href=\"https://www.mobygames.com/search/?q=NIM\">NIM</a> written for the 8008 processor.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            }
+        ],
+        "id": 110803,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/110803/super-nim/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 224,
+                    "name": "Intel 8008"
+                },
+                "1976"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Super NIM"
+    }
+]

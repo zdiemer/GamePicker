@@ -1,0 +1,92 @@
+[
+    {
+        "alternate_titles": [
+            {
+                "description": "Hungarian title",
+                "title": "Magic Ball"
+            }
+        ],
+        "description": "<p><em>Out of This World</em> is a ball rolling action game similar to <a href=\"https://www.mobygames.com/search/?q=Trailblazer\">Trailblazer</a>. The game is viewed from a third-person perspective and the ball that the player is in control of rolls forward automatically. In its path various hazards will appear and the player has to avoid these by steering left and right or by jumping over them. Hazards include holes, water and missiles. Although the ball is constantly in motion it is possible to increase or decrease the speed. The game consists of ten different levels with different hazards and each of these has nine roads that the player has to make it through. If all roads of a level are completed the player gets to play a bonus breakout game and if successful with it an extra ball is earned. The player can move directly to any level by entering the right password command. The commands for the first three levels are known from the start, the others have to be discovered by playing the game.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 128,
+                "name": "Behind view"
+            }
+        ],
+        "id": 71716,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/71716/out-of-this-world/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 161,
+                    "name": "Enterprise"
+                },
+                "1987"
+            ]
+        ],
+        "sample_cover": {
+            "height": 256,
+            "image_url": "https://cdn.mobygames.com/screenshots/16562602-out-of-this-world-enterprise-main-menu.png",
+            "platforms": [
+                "Enterprise"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/036b4622-c240-11ed-ab6b-02420a000194.webp",
+            "width": 336
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Level 2 - Sea",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16564505-out-of-this-world-enterprise-level-2-sea.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/94ac50e0-c240-11ed-ab6b-02420a000194.webp",
+                "width": 336
+            },
+            {
+                "caption": "Starting out",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16562596-out-of-this-world-enterprise-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/033083ca-c240-11ed-ab6b-02420a000194.webp",
+                "width": 336
+            },
+            {
+                "caption": "Game over",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16562569-out-of-this-world-enterprise-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/021282f4-c240-11ed-ab6b-02420a000194.webp",
+                "width": 336
+            },
+            {
+                "caption": "A long jump",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16562590-out-of-this-world-enterprise-a-long-jump.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/02f5c334-c240-11ed-ab6b-02420a000194.webp",
+                "width": 336
+            },
+            {
+                "caption": "Main menu",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16562602-out-of-this-world-enterprise-main-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/036b4622-c240-11ed-ab6b-02420a000194.webp",
+                "width": 336
+            }
+        ],
+        "title": "Out of This World"
+    }
+]

@@ -1,0 +1,832 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p><em>6809 Cribbage</em> combines the world's greatest card game with the world's most powerful 8-bit microprocessor. The aim of Cribbage is to be the first person to score 61 or 121 points by achieving various card combinations of runs, pairs, flushes, nobs and 15s. Scoring is calculated automatically and can be seen on the Cribbage board. This version of Cribbage was built from the ground up to take full advantage of the 6809 CPU with super-fast speed, an intelligent AI opponent and even animations.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 112016,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/112016/6809-cribbage/",
+        "num_votes": 0,
+        "official_url": "http://tanrunomad.com/swtpc-flex-games/",
+        "platforms": [
+            [
+                {
+                    "id": 228,
+                    "name": "SWTPC 6800"
+                },
+                "2018-08-01"
+            ]
+        ],
+        "sample_cover": {
+            "height": 318,
+            "image_url": "https://cdn.mobygames.com/screenshots/15921711-6809-cribbage-swtpc-6800-title-screen.png",
+            "platforms": [
+                "SWTPC 6800"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/abe9a6d8-bf0f-11ed-9c42-02420a000140.webp",
+            "width": 642
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Selecting cards for the crib",
+                "height": 318,
+                "image_url": "https://cdn.mobygames.com/screenshots/16415711-6809-cribbage-swtpc-6800-selecting-cards-for-the-crib.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7bef872e-c214-11ed-ab6b-02420a000194.webp",
+                "width": 642
+            },
+            {
+                "caption": "Title Screen",
+                "height": 318,
+                "image_url": "https://cdn.mobygames.com/screenshots/15921711-6809-cribbage-swtpc-6800-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/abe9a6d8-bf0f-11ed-9c42-02420a000140.webp",
+                "width": 642
+            }
+        ],
+        "title": "6809 Cribbage"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Rapier</em> is a chess game. The player can play chess against the computer in four levels of play. It's possible to swap sides. There are 1, 2, 3 and 4 step checkmate puzzles.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 11,
+                "name": "Chess"
+            }
+        ],
+        "id": 112019,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/112019/rapier/",
+        "num_votes": 0,
+        "official_url": "http://www.evenson-consulting.com/swtpc/Downloads.htm",
+        "platforms": [
+            [
+                {
+                    "id": 228,
+                    "name": "SWTPC 6800"
+                },
+                "1981-01-01"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Rapier"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>The Random Number Game</em> is a <a href=\"https://www.mobygames.com/group/9137/mastermind-variants/\">Mastermind variant</a> with numbers. The player determines the length of the code after which the computer thinks of a random number code of that length. The player inputs guess and hears how many of the guessed numbers are in the correct position, and how many numbers are in the code but in a different position. Through logical deduction the player must determine the hidden code.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 121566,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/121566/the-random-number-game/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 228,
+                    "name": "SWTPC 6800"
+                },
+                "1976-12-09"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "The Random Number Game"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>The Time Bomb Game</em> is a multiplayer real-time bomb defusing game written in BASIC. Players can attempt to defuse a bomb by cutting the red, blue or green wire. The game takes input from a port on the computer allowing multiple terminals to be hooked up to the game.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 15,
+                "name": "Real-time"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 121679,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/121679/the-time-bomb-game/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 228,
+                    "name": "SWTPC 6800"
+                },
+                "1977-08"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "The Time Bomb Game"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Crash Landing!</em> is a real-time <a href=\"https://www.mobygames.com/group/6716/lunar-lander-variants/\">Lunar Lander variant</a>. The player must attempt to safely touch down a lunar landing module on the surface of the moon. Unlike most lunar landing games before it, instead of using a turn-based mechanic, the game is real-time and the player thus needs to do all calculations quickly to prevent the lander from smashing into the surface or running out of fuel. The player uses an analog-to-digital converter to input the fuel burn rate.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 15,
+                "name": "Real-time"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 158,
+                "name": "Vehicle simulator"
+            }
+        ],
+        "id": 121681,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/121681/crash-landing/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 228,
+                    "name": "SWTPC 6800"
+                },
+                "1977-12"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Crash Landing!"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>World Power</em> is a war game in which the player takes command of one of two world powers and must conquer all ten regions the world is divided in. On the player's turn there are five possible commands: show country status, transport defenses, show global status, spy mission and attack. Units come in the form of troops, planes, artillery, tanks and missiles. They can be moved between territories and each territory has four quadrants in which they can be placed (north, east, south and west). Units that are placed on enemy territories will battle when the attack command is ordered. When the battle is over the final remaining units of the losing participant are added to the winner's. Spy missions involve sending planes and will inform the player of troop concentration in enemy territories, each mission costs 10 planes and the are lost forever.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 161,
+                "name": "Wargame"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 200,
+                "name": "Contemporary"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 124,
+                "name": "War"
+            }
+        ],
+        "id": 138473,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/138473/world-power/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 228,
+                    "name": "SWTPC 6800"
+                },
+                "1978-02"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "World Power"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Fox and Hounds</em> is a tactical puzzle game in which the player must try to get a fox to safety while being chased by hunting hounds. The puzzle takes place on a checkers board and the fox and four hounds are limited to checkers move (e.g. diagonal moves). The hounds can only move forward, but have a numerical advantage. The fox can move forward and back. The player controls the hounds and the computer the fox.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 138481,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/138481/fox-and-hounds/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 228,
+                    "name": "SWTPC 6800"
+                },
+                "1978-09"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Fox and Hounds"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Gobang</em> is a computer implementation of <em>Gomoku</em>, a board game where players place pieces in an attempt to get 5 in a row. The game normally uses a 19x19 Go board, but this BASIC game is easily adjusted for any size that fits the player's monitor. The player plays against the computer.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 180248,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/180248/gobang/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 228,
+                    "name": "SWTPC 6800"
+                },
+                "1979-11"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Gobang"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Press Ups</em> is a copy of the physical board game by the same name.</p>\n<p>The game uses a 7x7 board filled with pegs. Each turn players can push one peg into the board, but that peg must be adjacent to the previous peg. There are neutral pegs, and pegs belonging to either player. The first player to push down all their pegs wins the game. Another way the game ends is when there are no valid pegs to push (e.g. cornered) in this case the player with the most pegs pushed down wins. The game can be played against the computer or another player.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 180249,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/180249/press-ups/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 228,
+                    "name": "SWTPC 6800"
+                },
+                "1979-10"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Press Ups"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Arena</em> is a dueling game for two to five players. The last man standing wins the game. The game is played in turns, each player can choose between the following options: Move, turn, disengage, attack and stand. The first three options require energy to perform. Energy also serves as hitpoints, so the fewer hitpoints a player has the less movement they can do in a turn. To attack the player must be adjacent to another player and face them. Their combat focus decides how likely it is their attack will inflict damage. The player is free to change their combat focus, by putting it lower their attacks are less likely to hit, but their defensive values go up, making it harder for the other to hit them.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 48,
+                "name": "Fighting"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 180292,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/180292/arena/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 228,
+                    "name": "SWTPC 6800"
+                },
+                "1979-10"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Arena"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Drelbs</em> is loosely inspired by the paper-based game played on a grid of dots, in which players draw lines alternately, with the intention of forming more squares than their opponent. The similarities end there; in <em>Drelbs</em> you represent the only member of the Drelb race who has not been imprisoned by the evil Trolloboars. Members of the Gorgolyte race and Trolloboar tanks are targeting you.</p>\n<p>A set of randomly-arranged lines are already in place, and contact with them pushes them in the direction of contact. Forming a complete square locks it into place, and it turns into either a monster (causing death on contact), a woman (resulting in bonus points on contact) or a barrier. They will randomly change into stairways, which can lead you into a bonus room.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            }
+        ],
+        "id": 207320,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/207320/drelbs/",
+        "num_votes": 0,
+        "official_url": "http://tanrunomad.com/swtpc-flex-games/",
+        "platforms": [
+            [
+                {
+                    "id": 228,
+                    "name": "SWTPC 6800"
+                },
+                "2023-08-12"
+            ]
+        ],
+        "sample_cover": {
+            "height": 396,
+            "image_url": "https://cdn.mobygames.com/screenshots/17511456-drelbs-swtpc-6800-making-squares-on-round-1.jpg",
+            "platforms": [
+                "SWTPC 6800"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/1b799c26-3c40-11ee-b20a-02420a00014a.webp",
+            "width": 804
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Title screen for the game.",
+                "height": 400,
+                "image_url": "https://cdn.mobygames.com/screenshots/17511460-drelbs-swtpc-6800-title-screen-for-the-game.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1bccd9ea-3c40-11ee-bf1a-02420a000149.webp",
+                "width": 802
+            },
+            {
+                "caption": "Making squares on round 1.",
+                "height": 396,
+                "image_url": "https://cdn.mobygames.com/screenshots/17511456-drelbs-swtpc-6800-making-squares-on-round-1.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1b799c26-3c40-11ee-b20a-02420a00014a.webp",
+                "width": 804
+            }
+        ],
+        "title": "Drelbs"
+    }
+]

@@ -19,9 +19,10 @@ from clients import (
     RateLimit,
     Screenshot,
 )
-from excel_backed_cache import ExcelBackedCache
 from excel_loader import ExcelLoader
 from match_validator import MatchValidator
+
+from excel_backed_cache import ExcelBackedCache
 
 MOBY_NAME_TO_SHEET_NAME: Dict[str, Set[str] | str] = {
     "acorn 32-bit": set(["acorn archimedes", "risc pc"]),

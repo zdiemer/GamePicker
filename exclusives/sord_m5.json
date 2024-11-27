@@ -1,0 +1,443 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Wordmaze</em> is a word guessing game where the player has to escape from a maze. The player is presented with a first person view of the maze and a meter showing how far he is from the exit. To move the player has to complete <a href=\"https://www.mobygames.com/search/?q=Hangman\">Hangman</a>-like puzzles where he has to guess words by inputting one letter at a time. For each puzzle there is a bomb that will go off if too many wrong letters are entered. When successful with a puzzle the player is awarded points and automatically moves toward the exit. When failing the player has to choose left or right at the next crossroads which will either lead closer to the exit or further away from it. There is also a time limit as the player has to get to the exit before his oxygen runs out.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 162,
+                "name": "Word construction"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 44,
+                "name": "Reading / writing"
+            }
+        ],
+        "id": 63028,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/63028/wordmaze/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 134,
+                    "name": "Sord M5"
+                },
+                "1983"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/16413092-wordmaze-sord-m5-title-screen.png",
+            "platforms": [
+                "Sord M5"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/b74deeec-c213-11ed-ab6b-02420a000194.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Starting out",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16413098-wordmaze-sord-m5-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b779ff0a-c213-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Left or right",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16413110-wordmaze-sord-m5-left-or-right.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b7db1df8-c213-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Turning a corner",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16413095-wordmaze-sord-m5-turning-a-corner.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b763f124-c213-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Getting this one right",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16413113-wordmaze-sord-m5-getting-this-one-right.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b7f239a2-c213-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "The first word",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16413116-wordmaze-sord-m5-the-first-word.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b8088c70-c213-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            }
+        ],
+        "title": "Wordmaze"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>\"Inspired\" by <a href=\"https://www.mobygames.com/search/?q=Leggit!\">the ZX Spectrum game of the same name</a> (also known as <em>Leggit</em>), <em>Jumping Jack</em> has you jumping upwards on a screen consisting of 8 floors so that you may reach the top of the screen. This may sound easy, but you may time your jumps to the moving holes in the platforms, or you will bump your head in the roof. While waiting for the next hole on the platform above, another one may come on the one you're standing on \u2014 or several at once, from several directions. Falling into a hole drops you to the platform below, knocking you out for a few seconds. If you're unlucky, another hole comes while you lay there. On higher levels, you must also watch out for balls rolling across the platforms.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 21,
+                "name": "Platform"
+            }
+        ],
+        "id": 65821,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/65821/jumping-jack/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 134,
+                    "name": "Sord M5"
+                },
+                "1986"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/16482499-jumping-jack-sord-m5-title-screen.png",
+            "platforms": [
+                "Sord M5"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/9ad93050-c227-11ed-ab6b-02420a000194.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Almost there",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16482484-jumping-jack-sord-m5-almost-there.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/99890a86-c227-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Watch out for the balls",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16482478-jumping-jack-sord-m5-watch-out-for-the-balls.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9959bbd2-c227-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Reached the first platform, but watch out for the hole",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16482994-jumping-jack-sord-m5-reached-the-first-platform-but-watch-out-fo.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bc56b28e-c227-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Loading screen",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16482502-jumping-jack-sord-m5-loading-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9af2bc46-c227-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Game over",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16482487-jumping-jack-sord-m5-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/99a4a30e-c227-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            }
+        ],
+        "title": "Jumping Jack"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Drops</em> is a simple arcade game where you control a bucket, picking up rain drops from a cloud. Only the extra large drops can be picked up, and one of the challenges is to spot these drops in the middle of a heavy rain. As well, the cloud will sometimes release a thunderbolt which must be avoided. When the bucket is filled, the sun shows for a while, and the game progresses to a higher difficulty level.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            }
+        ],
+        "id": 66285,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/66285/drops/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 134,
+                    "name": "Sord M5"
+                },
+                "1986"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/16450126-drops-sord-m5-title-screen.png",
+            "platforms": [
+                "Sord M5"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/9ad2a77a-c21e-11ed-ab6b-02420a000194.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Almost full",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16450108-drops-sord-m5-almost-full.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9a4bec08-c21e-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Round 3",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16450105-drops-sord-m5-round-3.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9a32d2f4-c21e-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Game over",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16450117-drops-sord-m5-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9a8db4c6-c21e-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "The rain comes falling",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16450120-drops-sord-m5-the-rain-comes-falling.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9aa4cf62-c21e-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting out",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16450123-drops-sord-m5-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9abe6aa8-c21e-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            }
+        ],
+        "title": "Drops"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><i>Heavy Boxing</i> is an arcade sports game for one or two players. You control a boxer, and can move around the ring and try to punch your opponent. Landing a successful punch will give you energy, as indicated by a bar at the bottom of the screen. Being hit by your opponent, or ducking a punch will cost you energy. A successful punch will have a chance of knocking down your opponent, after which a timer starts. At any time, there is some likelihood that the boxer gets to their feet and the round continues. But if the boxer does not get back up after 10 seconds, then they lose the game by knock out (KO). A KO will also occur if one of the players loses all of their energy.</p>\n<p>Absent a KO, the game will continue for 12 rounds of 90 seconds each. The players regain some of their energy at the end of each round. After all rounds are completed, the game will be adjudicated by the number of hits landed.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 129,
+                "name": "Diagonal-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 15,
+                "name": "Real-time"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 48,
+                "name": "Fighting"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 36,
+                "name": "Boxing"
+            }
+        ],
+        "id": 225501,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/225501/heavy-boxing/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 57,
+                    "name": "MSX"
+                },
+                "1983"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/18759309-heavy-boxing-msx-title-screen.png",
+            "platforms": [
+                "MSX"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/830634c6-2709-11ef-aac4-02420a0001c2.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Human player wins by knock out!",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/18759321-heavy-boxing-msx-human-player-wins-by-knock-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/846001a8-2709-11ef-a148-02420a0001c5.webp",
+                "width": 256
+            },
+            {
+                "caption": "Round 1 begins.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/18759313-heavy-boxing-msx-round-1-begins.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/836d12ae-2709-11ef-a148-02420a0001c5.webp",
+                "width": 256
+            },
+            {
+                "caption": "Human player has been knocked down.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/18759317-heavy-boxing-msx-human-player-has-been-knocked-down.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/83eb560a-2709-11ef-b287-02420a0001c3.webp",
+                "width": 256
+            },
+            {
+                "caption": "Title screen.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/18759309-heavy-boxing-msx-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/830634c6-2709-11ef-aac4-02420a0001c2.webp",
+                "width": 256
+            }
+        ],
+        "title": "Heavy Boxing"
+    }
+]

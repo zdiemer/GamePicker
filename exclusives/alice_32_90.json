@@ -1,0 +1,477 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Galaxion</em> is a fixed screen shoot 'em up which despite its name is not based in particular on <a href=\"https://www.mobygames.com/search/?q=Galaxian\">Galaxian</a>. It is also different from the <a href=\"https://www.mobygames.com/game/77807/galaxion/\">Oric game</a> with the same title also published by Loriciels. Instead, the game features three different stages with different enemy formations. After the third stage, it is back to the first one again but at a higher difficulty. The first stage is most similar to <a href=\"https://www.mobygames.com/search/?q=Space+Invaders\">Space Invaders</a> and features four rows of invaders that move back and forth while dropping projectiles at the player. The second and third stages are different and have aliens swirling around the screen based on two different movement patterns. The player has three lives and when they are all gone the game ends.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 77788,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/77788/galaxion/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 194,
+                    "name": "Alice 32/90"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": {
+            "height": 250,
+            "image_url": "https://cdn.mobygames.com/screenshots/4048100-galaxion-alice-3290-title-screen.png",
+            "platforms": [
+                "Alice 32/90"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/ff77424e-aba3-11ed-9377-02420a000197.webp",
+            "width": 320
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Third stage",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/4018885-galaxion-alice-3290-third-stage.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ff181dd8-aba2-11ed-9d05-02420a000198.webp",
+                "width": 320
+            },
+            {
+                "caption": "Title screen",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/4048100-galaxion-alice-3290-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ff77424e-aba3-11ed-9377-02420a000197.webp",
+                "width": 320
+            },
+            {
+                "caption": "Sole alien remaining",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/4019305-galaxion-alice-3290-sole-alien-remaining.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0323ddae-aba3-11ed-9d05-02420a000198.webp",
+                "width": 320
+            },
+            {
+                "caption": "Player getting killed",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/4019507-galaxion-alice-3290-player-getting-killed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0510c8fc-aba3-11ed-9d05-02420a000198.webp",
+                "width": 320
+            },
+            {
+                "caption": "Instructions",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/4020194-galaxion-alice-3290-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0a8ae060-aba3-11ed-9d05-02420a000198.webp",
+                "width": 320
+            }
+        ],
+        "title": "Galaxion"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Al*berthe</em> is a variant of the arcade game <a href=\"https://www.mobygames.com/search/?q=Q*bert\">Q*bert</a>. The game plays largely the same as the original albeit here only the top side of each cube is rendered. The player controls a young girl who has to jump from platform to platform so that all of them change colour. In the first level, each platform has to be jumped on once, while in the second two moves over each is needed. In the third one, only one move is required but making a second move will transform it back to its original state. At the same time, the player has to avoid three different enemies since any contact with them will lead to a lost life. There is a ball and a snake jumping between the platforms as well as a bird that flies across the screen.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 129,
+                "name": "Diagonal-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 25,
+                "name": "Isometric"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            }
+        ],
+        "id": 77803,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/77803/alberthe/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 194,
+                    "name": "Alice 32/90"
+                },
+                "1985"
+            ]
+        ],
+        "sample_cover": {
+            "height": 250,
+            "image_url": "https://cdn.mobygames.com/screenshots/4047375-alberthe-alice-3290-title-screen.png",
+            "platforms": [
+                "Alice 32/90"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/f8cff1ca-aba3-11ed-a5ec-02420a00019b.webp",
+            "width": 320
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Title screen",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/4047375-alberthe-alice-3290-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f8cff1ca-aba3-11ed-a5ec-02420a00019b.webp",
+                "width": 320
+            },
+            {
+                "caption": "Options screen",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/4047019-alberthe-alice-3290-options-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f55e5194-aba3-11ed-a5ec-02420a00019b.webp",
+                "width": 320
+            },
+            {
+                "caption": "Enemies appearing",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/4046390-alberthe-alice-3290-enemies-appearing.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f027dfba-aba3-11ed-a5ec-02420a00019b.webp",
+                "width": 320
+            },
+            {
+                "caption": "Second stage - here each platform has to be moved over twice",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/4045961-alberthe-alice-3290-second-stage-here-each-platform-has-to-be-mo.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ec89696e-aba3-11ed-a5ec-02420a00019b.webp",
+                "width": 320
+            },
+            {
+                "caption": "Control setup",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/4046791-alberthe-alice-3290-control-setup.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f38d0ae0-aba3-11ed-a5ec-02420a00019b.webp",
+                "width": 320
+            }
+        ],
+        "title": "Al*berthe"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Galixian</em> is a fixed screen shoot 'em up where the player has to defend the planet Sprites from an alien assault. Like in other shoot 'em ups of its kind the player controls a spaceship left and right along the bottom of the screen and shoot at the enemies above. In this game, the aliens do not appear in formations but move around the screen rather erratically. They do not fire but attempt to crash into the player who has to shoot them all down to progress to the next stage which has another kind of aliens. Before starting out it is possible to choose how many shots can be fired at a single time up to a maximum of five.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 78719,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/78719/galixian/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 194,
+                    "name": "Alice 32/90"
+                },
+                "1985"
+            ]
+        ],
+        "sample_cover": {
+            "height": 270,
+            "image_url": "https://cdn.mobygames.com/screenshots/4825699-galixian-alice-3290-loading-screen.png",
+            "platforms": [
+                "Alice 32/90"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/afc9b406-abc2-11ed-be6f-02420a000197.webp",
+            "width": 504
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Loading screen",
+                "height": 270,
+                "image_url": "https://cdn.mobygames.com/screenshots/4825699-galixian-alice-3290-loading-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/afc9b406-abc2-11ed-be6f-02420a000197.webp",
+                "width": 504
+            },
+            {
+                "caption": "Stage 5",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/4824898-galixian-alice-3290-stage-5.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a76e9196-abc2-11ed-be6f-02420a000197.webp",
+                "width": 320
+            },
+            {
+                "caption": "Stage 3",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/4825170-galixian-alice-3290-stage-3.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a9e824a0-abc2-11ed-be6f-02420a000197.webp",
+                "width": 320
+            },
+            {
+                "caption": "Stage 1",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/4856652-galixian-alice-3290-stage-1.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f7c02e38-abc3-11ed-9ae2-02420a0001a0.webp",
+                "width": 320
+            },
+            {
+                "caption": "Stage 6",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/4856529-galixian-alice-3290-stage-6.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f61f6058-abc3-11ed-9ae2-02420a0001a0.webp",
+                "width": 320
+            }
+        ],
+        "title": "Galixian"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Pillage Cosmique</em> is a variant of the arcade game <a href=\"https://www.mobygames.com/game/63912/cosmic-guerilla/\">Cosmic Guerilla</a>. It is a fixed screen shoot 'em up where the player has to stop the alien invaders that attempt to steal the fuel canisters and space ships located in the centre of the screen. The aliens start from the sides of the screen and move towards the centre where they pick up the objects and return back to where they came from. The player's task is to shoot them down before they are able to escape. If an alien is shot while carrying an object it will return to its original position. If one of the space ships are stolen, the player will lose a life. A life is also lost when hit by the projectiles dropped by the aliens. In addition to the regular aliens, there are also saucers and space monsters to watch out for.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            }
+        ],
+        "id": 79918,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/79918/pillage-cosmique/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 194,
+                    "name": "Alice 32/90"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": {
+            "height": 250,
+            "image_url": "https://cdn.mobygames.com/screenshots/4444609-pillage-cosmique-alice-3290-title-screen.png",
+            "platforms": [
+                "Alice 32/90"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/259c8cb8-abb3-11ed-b6ee-02420a00019d.webp",
+            "width": 320
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Instructions",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/4448952-pillage-cosmique-alice-3290-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/51ec9bbe-abb3-11ed-9e47-02420a00019f.webp",
+                "width": 320
+            },
+            {
+                "caption": "Getting a high score",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/4449952-pillage-cosmique-alice-3290-getting-a-high-score.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5c22506a-abb3-11ed-87d1-02420a000197.webp",
+                "width": 320
+            },
+            {
+                "caption": "Title screen",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/4444609-pillage-cosmique-alice-3290-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/259c8cb8-abb3-11ed-b6ee-02420a00019d.webp",
+                "width": 320
+            },
+            {
+                "caption": "Alien shot down",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/4445447-pillage-cosmique-alice-3290-alien-shot-down.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2e629c20-abb3-11ed-b951-02420a000197.webp",
+                "width": 320
+            },
+            {
+                "caption": "Aliens are getting away with the fuel. Stop them!",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/4448554-pillage-cosmique-alice-3290-aliens-are-getting-away-with-the-fue.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4dbc8a90-abb3-11ed-8048-02420a000198.webp",
+                "width": 320
+            }
+        ],
+        "title": "Pillage Cosmique"
+    }
+]

@@ -1,0 +1,201 @@
+[
+    {
+        "alternate_titles": [
+            {
+                "description": "Included game",
+                "title": "Animated Space War"
+            },
+            {
+                "description": "Included game",
+                "title": "LIFE"
+            }
+        ],
+        "description": "<p>The ECD Micromind computer came with two demonstration games included:</p>\n<p><em>Animated Space War</em> is an conversion of the classic game <a href=\"https://www.mobygames.com/search/?q=Spacewar!\">Spacewar!</a> taking advantage of the multiple processors of the ECD Micromind. Multiple players try to shoot at each other with space ships that move and rotate on a 500x700 display matrix.</p>\n<p><em>LIFE</em> an implementation of Conway's game of life. The player can draw patterns and watch how they evolve based on the simple rules of <em>Conway's Game of Life</em>. </p>\n<ul>\n<li>Any live cell with fewer than two live neighbours dies, as if caused by under-population.</li>\n<li>Any live cell with two or three live neighbours lives on to the next generation.</li>\n<li>Any live cell with more than three live neighbours dies, as if by overcrowding.</li>\n<li>Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 123974,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/123974/ecd-micromind-included-games/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 269,
+                    "name": "ECD Micromind"
+                },
+                "1977"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "ECD Micromind (included games)"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Chess</em> allows the player to play a game of chess on the ECD Micromind. It features a fully graphical display of the game board on the monitor and is controlled with the key board.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 11,
+                "name": "Chess"
+            }
+        ],
+        "id": 123975,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/123975/chess/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 269,
+                    "name": "ECD Micromind"
+                },
+                "1977"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Chess"
+    }
+]

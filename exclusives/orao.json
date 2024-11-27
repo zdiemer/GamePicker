@@ -1,0 +1,116 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Crvi\u0107</em> is a single-player snake variant for Orao computer where player eats glowing orbs which constantly enlarges the snake's tail, while trying to avoid obstacles or bumping into one's own tail.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 127490,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/127490/crvic/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 270,
+                    "name": "Orao"
+                },
+                "1986"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Crvi\u0107"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "included game",
+                "title": "Nevidljivi"
+            }
+        ],
+        "description": "<p><em>Orao No 0</em> is a set of applications and a single game published on a cassette for Orao computers.</p>\n<p>Applications include:</p>\n<ul>\n<li><strong>Podsjetnik</strong> (eng. Reminder) is a reminder table with a list of computer commands and functions.</li>\n<li><strong>Crtanje</strong> (eng. Drawing) is a drawing application for creating simple polygons and options to rotate the screen.</li>\n<li><strong>Graf</strong> (eng. Graph).</li>\n<li><strong>Znakovi</strong> (eng. Characters) is an application for creating and importing user characters.</li>\n<li><strong>Muzika</strong> (eng. Music) is an interactive sound synthesizer.</li>\n<li><strong>Nevidljivi</strong> (eng. Invisible) is a game consisting of levels of different design containing asterisks (representing stars) where player is tasked to collecting all starts on the level before going onto the next level. Collecting stars increases user score which is displayed below the level.</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            }
+        ],
+        "id": 127492,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/127492/orao-no-0-included-game/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 270,
+                    "name": "Orao"
+                },
+                "1985"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Orao No 0 (included game)"
+    }
+]

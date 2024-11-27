@@ -1,0 +1,3328 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Jotto</em> is a word guessing game similar to <em>Mastermind</em>. The player must guess a five-letter word. The player can type in a word each turn after which the computer will tell the number of correct letters in the correct locations (jots). The goal is to guess the mystery word in as few turns as possible.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 162,
+                "name": "Word construction"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 110504,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/110504/jotto/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1975-09"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Jotto"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Diddle</em> is a puzzle game for the Altair 8800. It doesn't use a monitor and is played entirely on the address lights on the computer. A moving light pattern is visible on the LEDs and it's up to the player to find out the switches that need to be turned on and off to make it come to a halt. It can be played at higher speeds for higher difficulty.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 172,
+                "name": "Menu structures"
+            }
+        ],
+        "id": 110521,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/110521/diddle/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1975-10-24"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Diddle"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Life in Full Color</em> is a color graphics version of <em>Conway's Game of Life</em>. Running on an Altair 8800 or IMSAI 8080 requires the TV Dazzler peripheral to run in color graphics on a TV screen.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 69,
+                "name": "Meditative / Zen"
+            }
+        ],
+        "id": 110636,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/110636/life-in-full-color/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1976-02"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Life in Full Color"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "Alternate title",
+                "title": "Kill Rotating Bit"
+            },
+            {
+                "description": "IMSAI version",
+                "title": "Killdot"
+            }
+        ],
+        "description": "<p><em>Kill the Bit</em> is a reflex game for the Altair 8800 that doesn't require a screen. A bit cycles through the upper eight address lights on the machine and players must use their reflexes to \"kill\" it by toggling the switch at its location at just the right moment. Hitting a switch at the wrong moment creates another bit that needs to be destroyed. The player wins when no bits are left.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 110641,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/110641/kill-the-bit/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1975-09-27"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Kill the Bit"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>A Musical Number Guessing Game</em> is a simple number guessing game where the Altair 8800 thinks of a number and the player must guess which. After each guess, the lights on the computer will indicate if the value was too high (all lights go on), or too low (all lights go off). When the correct number is guessed the game will play \"Daisy\", which requires a transistor radio to be hooked up to the Altair 8800.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            }
+        ],
+        "id": 110642,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/110642/a-musical-number-guessing-game/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1976-05"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "A Musical Number Guessing Game"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Tiny Trek</em> is an adaptation of <a href=\"https://www.mobygames.com/search/?q=Star+Trek\">Star Trek</a>, written in TinyBASIC and condensed in a form to work on an 8K Altair 8800. The basics of the game remain the same. Controlling a Federation starship the player must rid the galaxy of Klingons.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 15,
+                "name": "Real-time"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 110787,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/110787/tiny-trek/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1976"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Tiny Trek"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Another Tiny Trek</em> is version of <a href=\"https://www.mobygames.com/search/?q=Star+Trek\">Star Trek</a> written in MITS BASIC. It is based on the FORTRAN program that lived on the Mainframe of the University of Texas. Like other variants the player takes control of a Federation ship and must try to rid the galaxy of Klingons. There are 20 different commands available.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 15,
+                "name": "Real-time"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 110788,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/110788/another-tiny-trek/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1976-09"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Another Tiny Trek"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Chase</em> is a simple action game for one or two players. A bouncing dot moves across the screen and the players are tasked to try and catch it. The game requires a video display.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 110790,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/110790/chase/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1976-11"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Chase"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Dazzler Tic Tac Toe</em> is a simple Tic-Tac-Toe game, but using the Cromemco TV Dazzler displays custom graphics on TV. The game plays as expected, where the player must beat the computer by getting three in a row.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            }
+        ],
+        "id": 110801,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/110801/dazzler-tic-tac-toe/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1976"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Dazzler Tic Tac Toe"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "Alternate title",
+                "title": "Jack Gammon"
+            }
+        ],
+        "description": "<p><em>Backgammon</em> allows players to play the classic board game on an Altair 8800 with TV Dazzler.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            }
+        ],
+        "id": 110802,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/110802/backgammon/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1976"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Backgammon"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>33 Programs and Projects for the Altair 8800</em> is a book with various information for Altair 8800 owners. There are also some games included:</p>\n<ul>\n<li>Pong - Allow playing of a <a href=\"https://www.mobygames.com/group/6734/pong-variants/\">Pong variant</a> using an oscilloscope plotter.</li>\n<li>Tic Tac Toe - a computer implementation of the classic pen and paper game.</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 64,
+                "name": "Paddle / Pong"
+            }
+        ],
+        "id": 110834,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/110834/33-programs-and-projects-for-the-altair-8800/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1976"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "33 Programs and Projects for the Altair 8800"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Chase!</em> is a two-player chasing game that uses the TV Dazzler to show graphics on a TV. One player must chase the other. Vertical bars move downward into the playspace and must be avoided. The players use joysticks to move.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 110835,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/110835/chase/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1976"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Chase!"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Track</em> is a simple game in which a spiral is displayed on the screen and the player must draw a line from the outside of the screen to the center without touching the spiral's line.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 110836,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/110836/track/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1976"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Track"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Card Game</em> is a computer adaptation of Las Vegas-style Blackjack written in BASIC for the Altair 8800.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 110913,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/110913/card-game/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1975-06-30"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Card Game"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Tic-Tac-Toe</em> is a digital version of the classic pen and paper game. The player and computer take turns putting their marks on the grid. This Altair 8800 implementation doesn't use a screen and instead displays all information on the memory LED lights and takes input directly from the switches. The computer is always first and plays a perfect game, so never loses.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 167,
+                "name": "Point and select"
+            }
+        ],
+        "id": 110914,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/110914/tic-tac-toe/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1975-07-21"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Tic-Tac-Toe"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Blackjack</em> is a computer implementation of the classic card game. The game is written in BASIC specifically for the Altair 8800 and comes with full instructions. The player must draw cards and get as close to a value of twenty-one without getting busted. If the computer gets closer he wins the round.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            }
+        ],
+        "id": 110915,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/110915/blackjack/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1975-07-30"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Blackjack"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Roulette</em> is a simulation of the casino gambling game of the same name. The game is written in BASIC. The player can bet on a number and hope the result comes up.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            }
+        ],
+        "id": 110937,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/110937/roulette/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1975-09-12"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Roulette"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Dice Game</em> plays a game of dice on a basic Altair 8800. Little is known about the actual game, most likely it simulates Craps.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            }
+        ],
+        "id": 110938,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/110938/dice-game/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1975-09-16"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Dice Game"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Lunar Lander</em> is a simple text-based variant of <a href=\"https://www.mobygames.com/group/6716/lunar-lander-variants/\">Lunar Lander</a>. The player must try to land a lunar landing module on the moon keeping into account fuel, velocity, and distance to the surface. The game is written in BASIC.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 158,
+                "name": "Vehicle simulator"
+            }
+        ],
+        "id": 110950,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/110950/lunar-lander/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1975"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Lunar Lander"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Number Guessing Routine</em> is a number guessing game played on the front panel of the Altair 8800. The computer has a number in mind and the player uses the switches to guess for a number. The computer will indicate using the led lights if it's correct, high or low.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            }
+        ],
+        "id": 110951,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/110951/number-guessing-routine/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1975-11-25"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Number Guessing Routine"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "Herb Archer version",
+                "title": "Pong"
+            }
+        ],
+        "description": "<p><em>Ping Pong</em> is a very simplistic <a href=\"https://www.mobygames.com/search/?q=Pong+variant\">Pong variant</a> played on the front panel of an Altair 8800. The ball is represented by a lit LED on the front panel and the player must bounce it back by flipping the switch at its location at exactly the right moment. Since there's only one row of LEDs it's a single-dimensional version of Pong.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 64,
+                "name": "Paddle / Pong"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 103,
+                "name": "Ping pong / table tennis"
+            }
+        ],
+        "id": 110952,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/110952/ping-pong/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1975-12-29"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Ping Pong"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Stock Market Simulation</em> allows up to 10 players to compete in a stock market simulation. Players can buy and sell stock in an attempt to make a profit.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 40,
+                "name": "Managerial / business simulation"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 111163,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111163/stock-market-simulation/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1976-01-14"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Stock Market Simulation"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Number Guessing Game</em> has the player guess a number between 0 and 255. Requires a TVT-II (Television Typewriter) as input.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 111203,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111203/number-guessing-game/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1976-01-20"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Number Guessing Game"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Lunar Lander</em> is one of multiple text-based variants of <a href=\"https://www.mobygames.com/group/6716/lunar-lander-variants/\">Lunar Lander</a>. The player must try to land a lunar landing module on the moon keeping into account fuel, velocity, and distance to the surface. The game is written in BASIC.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 158,
+                "name": "Vehicle simulator"
+            }
+        ],
+        "id": 111204,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111204/lunar-lander/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1976-02-02"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Lunar Lander"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Rocket</em> is one of many text-based variants of <a href=\"https://www.mobygames.com/group/6716/lunar-lander-variants/\">Lunar Lander</a> for the Altair 8800. The player must try to land a lunar landing module on the moon keeping into account fuel, velocity, and distance to the surface. The game requires the TVT-II teletype as an input device.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 158,
+                "name": "Vehicle simulator"
+            }
+        ],
+        "id": 111205,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111205/rocket/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1976-03-16"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Rocket"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Lunar Landing Game</em> is a more extended variant of <a href=\"https://www.mobygames.com/group/6716/lunar-lander-variants/\">Lunar Lander</a> for the Altair 8800. The player must try to land a lunar landing module on the moon keeping into account fuel, velocity, and distance to the surface. The game is written in BASIC.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 158,
+                "name": "Vehicle simulator"
+            }
+        ],
+        "id": 111208,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111208/lunar-landing-game/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1976-06-14"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Lunar Landing Game"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>This <em>Tic-Tac-Toe</em> game uses heuristics to let the AI learn to play the game better with every consecutive game. The rules remain the same with the player and AI taking turns to place their mark on a three by three grid in an attempt to get three in a row.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            }
+        ],
+        "id": 111209,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111209/tic-tac-toe/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1976-02-18"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Tic-Tac-Toe"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Star Trek</em> is one of many versions of <a href=\"https://www.mobygames.com/search/?q=Star+Trek\">Star Trek</a> for the Altair 8800. It is written in BASIC. Like other variants the player takes control of a Federation ship and must try to rid the galaxy of Klingons.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 111216,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111216/star-trek/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1976-03-12"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Star Trek"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Numguess</em> is a simple number guessing game written in Altair BASIC.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 111217,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111217/numguess/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1976-03-01"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Numguess"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Catch</em> is a game in which the player must chase the computer on a 5 by 5 board. The game is written in BASIC.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            }
+        ],
+        "id": 111219,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111219/catch/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1976-04-15"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Catch"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Reaction</em> is a simple game to test the player's reaction time. The player must press a terminal key when the computer rings a bell. The time between the bell and the button press is displayed. The game is written in Altair BASIC.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 111247,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111247/reaction/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1976-05-03"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Reaction"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Missle Plane</em> (sic) is a two-player game written in BASIC. One player controls a plane and the other must try to shoot down the plane with a missile.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 19,
+                "name": "Flight / aviation"
+            }
+        ],
+        "id": 111248,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111248/missle-plane/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1976-05-03"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Missle Plane"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Yum</em> is a digital version of Yahtzee for the Altair 8800. The game is written in BASIC and all the prompts and documentation are in French.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 111249,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111249/yum/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1976-05-03"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Yum"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Target</em> is a game of skill in which the player must fire missiles at a moving target. The target moves along the right side of the screen. Missiles take time to travel the screen so the player must lead the target in order to hit. The score displayed on the screen increases for targets hit.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            }
+        ],
+        "id": 111250,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111250/target/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1976-05-03"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Target"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Number Predictor</em> is a number guessing game on the Altair 8800. The game is written in Altair BASIC. The player must try to guess the number chosen by the computer.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 111251,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111251/number-predictor/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1976-05-06"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Number Predictor"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Guess 1</em> is one of two random number guessing games for the Altair 8800 written by <a href=\"https://www.mobygames.com/person/921822/jim-salem/\">Jim Salem</a>.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 111254,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111254/guess-1/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1976-06-28"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Guess 1"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Guess 2</em> is one of two random number guessing games for the Altair 8800 written by <a href=\"https://www.mobygames.com/person/921822/jim-salem/\">Jim Salem</a>.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 111256,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111256/guess-2/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1976-06-28"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Guess 2"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>TTT 3D</em> is a three dimensional version of Tic-Tac-Toe. The game plays identical to normal Tic-Tac-Toe, with the player and computer taking turns to place their mark on a grid, but now there's an additional dimension to the grid. The game is written in BASIC.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 111257,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111257/ttt-3d/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1976-07-26"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "TTT 3D"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Qubic</em> is a digital implementation of the three-dimensional Tic-Tac-Toe variant for the Altair 8800. The player plays against the computer, putting their marks in a 4x4x4 grid with the aim of getting four in a row.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 111273,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111273/qubic/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1976-08-09"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Qubic"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Horse Racing</em> is a horse betting game for the Altair 8800. The game is written in Altair BASIC. The aim of the game is to win virtual money by betting on horse races.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 91,
+                "name": "Horse / derby"
+            }
+        ],
+        "id": 111274,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111274/horse-racing/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1976-08-28"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Horse Racing"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Wampus</em> is a <a href=\"https://www.mobygames.com/group/6124/hunt-the-wumpus-variants/\">Hunt the Wumpus variant</a>. The player must hunt a Wampus which is hiding in a dodecahedron maze of 20 cave-like rooms. The player can be attacked by the Wampus monster, super bats and die from bottomless pits.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 61,
+                "name": "Hunting"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            }
+        ],
+        "id": 112964,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/112964/wampus/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1977-02-16"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Wampus"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Bowl</em> is a bowling simulation for up to four players. 10 frames of bowl are played. There is very little skill involved and most of the game is based purely on luck and random number generation. After each ball is thrown the status of the pins is displayed.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 88,
+                "name": "Bowling"
+            }
+        ],
+        "id": 113329,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/113329/bowl/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1977-07"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Bowl"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Game of Life</em> is an implementation of Conway's Game of Life for the Altair 8800. The player can draw patterns and watch how they evolve based on the simple rules of <em>Conway's Game of Life</em>. </p>\n<ul>\n<li>Any live cell with fewer than two live neighbours dies, as if caused by under-population.</li>\n<li>Any live cell with two or three live neighbours lives on to the next generation.</li>\n<li>Any live cell with more than three live neighbours dies, as if by overcrowding.</li>\n<li>Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            }
+        ],
+        "id": 113369,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/113369/game-of-life/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1977-01-21"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Game of Life"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Hangmath</em> is a <a href=\"https://www.mobygames.com/search/?q=Hangman+games\">Hangman variant</a> with a twist. Instead of guessing for a word, a sum is displayed, but all the numbers are blanked out. To get started the player can reveal all numbers in a single column and make one free guess for another number. After that each incorrect guess counts and when the sum is revealed the player is graded on how well he or she did.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 43,
+                "name": "Math / logic"
+            }
+        ],
+        "id": 113749,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/113749/hangmath/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1977-04"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Hangmath"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Injun Poker</em> is a digital implementation of the Indian Poker card game. Both players have a card but can only see the card of the other player. Each player must bet on whether their own hidden card is higher than the opponents. Each player starts out with 1000 beads. The player plays against the computer. Each turn the player can bet, call, drop or quit. The first player to lose all beads loses the game.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 118490,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/118490/injun-poker/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1977-12"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Injun Poker"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Tic Tac</em> is an implementation of the classic pen and paper game Tic-Tac-Toe. The player plays against the computer. Both take turns placing their mark in a three-by-three grid. The first player to get three in a row wins the game.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 121056,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/121056/tic-tac/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1977-01"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Tic Tac"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Tic-Tac-Toe</em> is an implementation of the classic pen and paper game of the same name. The player plays against the computer. Both take turns placing their mark in a three-by-three grid. The first player to get three in a row wins the game.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 121075,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/121075/tic-tac-toe/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1977-08"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Tic-Tac-Toe"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Audio Star Trek</em> is a typical variant of the seminal Star Trek game. What sets it apart from other implementations is the addition of audio. Sounds are played when firing photon torpedoes, and phasers, when warping, on death, and with general input. The core of the game remains the same as other variants with the player controlling the Star Trek Enterprise and searching sectors and quadrants for Klingon cruisers which must all be destroyed without running out of shields or fuel.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 121076,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/121076/audio-star-trek/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1977-11"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Audio Star Trek"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Game of Life</em> is an implementation of Conway's Game of Life written for the IMSAI 8080 (clone of the Altair 8800) in BASIC E. The player can draw patterns and watch how they evolve based on the simple rules of <em>Conway's Game of Life</em>. </p>\n<ul>\n<li>Any live cell with fewer than two live neighbours dies, as if caused by under-population.</li>\n<li>Any live cell with two or three live neighbours lives on to the next generation.</li>\n<li>Any live cell with more than three live neighbours dies, as if by overcrowding.</li>\n<li>Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.</li>\n</ul>\n<p>The game is designed to play on a teletype, so the player can fill in the paper size at the start.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 135988,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/135988/game-of-life/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Game of Life"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Computer Football</em> is an American football simulation game for one or two players (or a computer vs computer match). Players must select a defensive or offensive play on their turn. When playing with two players the play chosen can be obfuscated so that the other player doesn't know which play was chosen. Different combinations of plays will result in different outcomes which are displayed in text as the current time, ball position, down and yards to go.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 31,
+                "name": "Football (American)"
+            }
+        ],
+        "id": 136126,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/136126/computer-football/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1978-02"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Computer Football"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Zapp the Moon Man</em> is a simple action game in which a moon man moves across the screen. The player must fire a lightning bolt at the right time to zap it. There are limited lightning bolts to fire and the game keeps track of how many moon men have been zapped.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 136273,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/136273/zapp-the-moon-man/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1976-11"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Zapp the Moon Man"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Gomoku in BASIC</em> is a Gomoku program programmed in BASIC. Gomoku is a game of five-in-a-row where players take turn placing pieces on a 19x19 grid, however to fit the screen this implementation uses a smaller grid of 10x10. The first player to manage to get five pieces in a row, horizontally, vertically or diagonally wins the game. Another change to the official rules is that rows of more than five pieces are also considered a win. The player plays against the computer.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 178654,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/178654/gomoku-in-basic/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1979-10"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Gomoku in BASIC"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Star Chase</em> is a Star Trek fan game. The player must defend a micro star from a Klingon vessel. The player cannot allow the Klingon or themselves to get too close to the star in sub-warp velocity as it will trigger its destruction. There are also black holes that must be avoided. The player wins if they can capture the Klingon ship.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 231,
+                "name": "Fangame"
+            }
+        ],
+        "id": 180194,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/180194/star-chase/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 222,
+                    "name": "Altair 8800"
+                },
+                "1979-02"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Star Chase"
+    }
+]

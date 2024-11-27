@@ -1,0 +1,957 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Pok\u00e9mon Pinball mini</em> is the second Pok\u00e9mon Pinball game. The game consists of 90 levels total. Diglett, Pikachu, Clefairy, Wobbuffet, and Poliwag are used as plungers, but the levels restrict which plungers are used. There are three modes: Quest, the main mode, has 70 levels. Capture levels are found only in Quest mode. Each level must be completed to unlock the next, unlike the other two modes. It consists mainly of Fill Hole and High Score levels. In Fill Hole levels the goal is to get a Pok\u00e9 Ball into each hole before the timer runs out. In High Sore levels, the goal is to race against the timer and surpass a minimum score. Getting a Pok\u00e9 Ball into a hole normally earns 1 point, and getting a Pok\u00e9 Ball into a hole with a power shot earns 3 points. Capture levels involve capturing the Pok\u00e9mon walking across the screen. Hitting it with Pok\u00e9 Balls reduces its HP, and when it faints, hitting it again will capture it. The player must shoot the now-heavier Pok\u00e9 Ball into the hole. Time Attack mode features 10 Fill Hole levels, all of which are immediately available. Score Attack mode features 10 High Score levels, all of which are, again, immediately available.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 13,
+                    "name": "Art Style"
+                },
+                "description": null,
+                "id": 57,
+                "name": "Anime / Manga"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 53,
+                "name": "Pinball"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 30,
+                "name": "Puzzle elements"
+            }
+        ],
+        "id": 67828,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/67828/pokemon-pinball-mini/",
+        "num_votes": 0,
+        "official_url": "http://www.nintendo.co.uk/Games/Pokemon-mini/Pokemon-Pinball-Mini-276003.html",
+        "platforms": [
+            [
+                {
+                    "id": 152,
+                    "name": "Pok\u00e9mon Mini"
+                },
+                "2001-11-16"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/7091273-pokemon-pinball-mini-pokemon-mini-front-cover.jpg",
+            "platforms": [
+                "Pok\u00e9mon Mini"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/99d65cb8-abf3-11ed-b013-02420a00012e.webp",
+            "width": 802
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Title screen.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/9357462-pokemon-pinball-mini-pokemon-mini-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/59ba42f8-ac06-11ed-bc39-02420a000131.webp",
+                "width": 96
+            }
+        ],
+        "title": "Pok\u00e9mon Pinball mini"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><i>Pok\u00e9mon Party mini</i> is the Pok\u00e9mon mini's pack-in game in most countries, but sold separately in Japan. It is a minigame collection. In Pikachu's Rocket Start, you play a Pikachu racing against various other Pok\u00e9mon. In Slowking's Judge you control a Slowking refereeing a tennis match and must make the right decisions. In Chansey's Dribble, you are a Chansey kicking a soccer ball, with the goal being to kick it to the finish line as quickly as possible. Bellossom's Dance puts you in control of a Bellossom trying to match the dance moves of two other Bellossom. In Hitmonchan's Boxing you are a Hitmonchan boxing with a Machop. Finally, in the two-player Sneasel's Fake Out, two Sneasel play basketball and try to decide who is offense and who is defense in a game of chance. There are two other functions: Battlefield, in which two to six players choose a one-player game and compete in it for the highest score, and Celebi's Clock, which is simply a clock with date, alarm, and stopwatch functions.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 126,
+                "name": "3rd-person (Other)"
+            },
+            {
+                "category": {
+                    "id": 13,
+                    "name": "Art Style"
+                },
+                "description": null,
+                "id": 57,
+                "name": "Anime / Manga"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 33,
+                "name": "Basketball"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 36,
+                "name": "Boxing"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 49,
+                "name": "Football (European) / Soccer"
+            }
+        ],
+        "id": 67914,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/67914/pokemon-party-mini/",
+        "num_votes": 0,
+        "official_url": "http://www.nintendo.co.uk/Games/Pokemon-mini/Pokemon-Party-Mini-275992.html",
+        "platforms": [
+            [
+                {
+                    "id": 152,
+                    "name": "Pok\u00e9mon Mini"
+                },
+                "2001"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/7090116-pokemon-party-mini-pokemon-mini-front-cover.png",
+            "platforms": [
+                "Pok\u00e9mon Mini"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/9ac88cfe-abf3-11ed-8a97-02420a00012d.webp",
+            "width": 498
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Title screen.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/9372301-pokemon-party-mini-pokemon-mini-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/76056a82-ac06-11ed-ad33-02420a00012d.webp",
+                "width": 96
+            }
+        ],
+        "title": "Pok\u00e9mon Party mini"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "Japanese title",
+                "title": "Pok\u00e9mon Shock Tetris"
+            }
+        ],
+        "description": "<p><em>Pok\u00e9mon Tetris</em> is a Pok\u00e9mon-themed game of <a href=\"https://www.mobygames.com/search/?q=Tetris\">Tetris</a>.\nIt is possible to play in multiplayer mode, and there are some game modes, including classic endless mode.\nIn singleplayer mode, the definitive goal is to collect all Pok\u00e9mon, thus completing the Pok\u00e9dex, for a total of 250. As usually, there are more and less rare Pok\u00e9mon: if common Pok\u00e9mon are collected by clearing four lines at once, rarer ones can be caught clearing the screen from 5 lines with one move, which is possible as five-block pieces start to fall in advanced stages.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 145,
+                "name": "Falling block puzzle"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 67964,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/67964/pokemon-tetris/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 152,
+                    "name": "Pok\u00e9mon Mini"
+                },
+                "2002"
+            ]
+        ],
+        "sample_cover": {
+            "height": 64,
+            "image_url": "https://cdn.mobygames.com/screenshots/9155022-pokemon-tetris-pokemon-mini-title-screen.png",
+            "platforms": [
+                "Pok\u00e9mon Mini"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/bca88b24-ac04-11ed-b7c8-02420a000136.webp",
+            "width": 96
+        },
+        "sample_screenshots": [
+            {
+                "caption": "The pokedex",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/7469847-pokemon-tetris-pokemon-mini-the-pokedex.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/951ac832-abf6-11ed-941d-02420a000132.webp",
+                "width": 96
+            },
+            {
+                "caption": "Game mode selection screen",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/7471835-pokemon-tetris-pokemon-mini-game-mode-selection-screen.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/958085aa-abf6-11ed-a161-02420a000136.webp",
+                "width": 96
+            },
+            {
+                "caption": "Game Over",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/7471201-pokemon-tetris-pokemon-mini-game-over.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/96215192-abf6-11ed-893a-02420a00012f.webp",
+                "width": 96
+            },
+            {
+                "caption": "I completed a row!",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/7469844-pokemon-tetris-pokemon-mini-i-completed-a-row.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/94ec2b08-abf6-11ed-941d-02420a000132.webp",
+                "width": 96
+            },
+            {
+                "caption": "I caught a Pokemon!",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/7471518-pokemon-tetris-pokemon-mini-i-caught-a-pokemon.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/95d83fb6-abf6-11ed-b6e7-02420a000135.webp",
+                "width": 96
+            }
+        ],
+        "title": "Pok\u00e9mon Tetris"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "Japanese title",
+                "title": "Pok\u00e9mon Anime Card Daisakusen"
+            }
+        ],
+        "description": "<p><em>Pok\u00e9mon Zany Cards</em> is a collection of card games based on the Pok\u00e9mon television series and featuring some characters exclusive to it. There are four game modes. Wild Match is for 1 to 5 players. The players must put matching cards down on the table in order to win coins. Whoever has the most coins at the end wins. Pairs aren't the only accepted matches, as there are many different combos that are worth more coins, like putting all three starter Pok\u00e9mon of Johto down. Special Seven is also for 1 to 5 players. Whoever gets rid of all their cards first wins. Players match cards by traditional suit or by Pok\u00e9mon on the table. Some cards also have special abilities to change suit, or other effects. Card Duel can only be played by 2 players via infrared connection. Both players have the same cards, and whoever plays the highest value card wins. Four Kings is 1 player only. It is like Solitaire, but the card piles must be in a specific order and topped off with the Magikarp card.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 13,
+                    "name": "Art Style"
+                },
+                "description": null,
+                "id": 57,
+                "name": "Anime / Manga"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            }
+        ],
+        "id": 68167,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/68167/pokemon-zany-cards/",
+        "num_votes": 0,
+        "official_url": "http://www.nintendo.co.uk/Games/Pokemon-mini/Pokemon-Zany-Cards-276036.html",
+        "platforms": [
+            [
+                {
+                    "id": 152,
+                    "name": "Pok\u00e9mon Mini"
+                },
+                "2001-11-16"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/7090110-pokemon-zany-cards-pokemon-mini-front-cover.jpg",
+            "platforms": [
+                "Pok\u00e9mon Mini"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/986f3a84-abf3-11ed-8a97-02420a00012d.webp",
+            "width": 800
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Title screen",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/6496752-pokemon-zany-cards-pokemon-mini-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ec652392-abee-11ed-a7ec-02420a000134.webp",
+                "width": 96
+            }
+        ],
+        "title": "Pok\u00e9mon Zany Cards"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Pok\u00e9mon Puzzle Collection</em>, as the title suggests, is a collection of Pok\u00e9mon related puzzles. In Motion Puzzle, you must choose two tiles to switch places in order to form a Pok\u00e9mon's image. In Shadow Puzzle, you put shapes together to form the relative silhouette of a Pok\u00e9mon. in Rescue Mission, you must free a Pok\u00e9mon trapped by blocks by moving the blocks out of their way and off of the hole that they must escape through. After completing 30 puzzles, a fourth bonus game is unlocked, called Power On. In this game, you must light up a light bulb by creating a circuit between the light bulb and Pikachu.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 13,
+                    "name": "Art Style"
+                },
+                "description": null,
+                "id": 57,
+                "name": "Anime / Manga"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 167,
+                "name": "Point and select"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            }
+        ],
+        "id": 68183,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/68183/pokemon-puzzle-collection/",
+        "num_votes": 0,
+        "official_url": "http://www.nintendo.co.uk/Games/Pokemon-mini/Pokemon-Puzzle-Collection-276014.html",
+        "platforms": [
+            [
+                {
+                    "id": 152,
+                    "name": "Pok\u00e9mon Mini"
+                },
+                "2001-11-16"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/7091264-pokemon-puzzle-collection-pokemon-mini-front-cover.jpg",
+            "platforms": [
+                "Pok\u00e9mon Mini"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/983b3b12-abf3-11ed-b013-02420a00012e.webp",
+            "width": 805
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Title screen.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/8782678-pokemon-puzzle-collection-pokemon-mini-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ad27fe76-ac01-11ed-8a97-02420a00012d.webp",
+                "width": 96
+            }
+        ],
+        "title": "Pok\u00e9mon Puzzle Collection"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Pok\u00e9mon Puzzle Collection Vol. 2</em> is the Japan only sequel to <a href=\"https://www.mobygames.com/game/68183/pokemon-puzzle-collection/\">Pok\u00e9mon Puzzle Collection</a>. Two puzzles return: Motion Puzzle, where tiles are switch around to form the correct Pok\u00e9mon image, and Shadow Puzzle, where shapes are rotated and placed to form a Pok\u00e9mon's relative silhouette. There are also two new puzzles. In Pick-Up Puzzle, an arrangement of Pok\u00e9 Balls lies on the floor. The player's Pok\u00e9mon must clear them by moving over them in one line without isolating any of them. And in Stretch Puzzle, a grid is shown, with black and white boxes. The white boxes are empty, and the black boxes have numbers on them. The numbers represent bars that can be extended to take up the empty spaces. The goal is to fill up each empty space, meaning the placement of the bars is crucial to success.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 13,
+                    "name": "Art Style"
+                },
+                "description": null,
+                "id": 57,
+                "name": "Anime / Manga"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 167,
+                "name": "Point and select"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            }
+        ],
+        "id": 68220,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/68220/pokemon-puzzle-collection-vol-2/",
+        "num_votes": 0,
+        "official_url": "http://www.jupiter.co.jp/product/game/pokemini/puzzle2.html",
+        "platforms": [
+            [
+                {
+                    "id": 152,
+                    "name": "Pok\u00e9mon Mini"
+                },
+                "2002-04-26"
+            ]
+        ],
+        "sample_cover": {
+            "height": 64,
+            "image_url": "https://cdn.mobygames.com/screenshots/9162635-pokemon-puzzle-collection-vol-2-pokemon-mini-title-screen.png",
+            "platforms": [
+                "Pok\u00e9mon Mini"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/c92dd566-ac04-11ed-9fde-02420a000132.webp",
+            "width": 96
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Title screen.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/9162635-pokemon-puzzle-collection-vol-2-pokemon-mini-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c92dd566-ac04-11ed-9fde-02420a000132.webp",
+                "width": 96
+            }
+        ],
+        "title": "Pok\u00e9mon Puzzle Collection Vol. 2"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Pichu Bros. mini</em> is a collection of minigames similar to the earlier <a href=\"https://www.mobygames.com/game/67914/pokemon-party-mini/\">Pok\u00e9mon Party mini</a>. This game is based on the Pok\u00e9mon anime, focusing on the titular Pichu Bros. and the Pichu Posse (a gang that consists of the Pichu Bros. and their friends that they regularly go on adventures with). The games include a skateboarding game where one of the brothers must avoid obstacles, a game where the player shakes the system to help Teddiursa eat big piles of fruit within a time limit, a whack-a-mole game where Smoochum must kiss a Diglett, and a hot air balloon game with Magby.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 126,
+                "name": "3rd-person (Other)"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 13,
+                    "name": "Art Style"
+                },
+                "description": null,
+                "id": 57,
+                "name": "Anime / Manga"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 52,
+                "name": "Skateboarding"
+            }
+        ],
+        "id": 68238,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/68238/pichu-bros-mini/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 152,
+                    "name": "Pok\u00e9mon Mini"
+                },
+                "2002-08-09"
+            ]
+        ],
+        "sample_cover": {
+            "height": 64,
+            "image_url": "https://cdn.mobygames.com/screenshots/9209352-pichu-bros-mini-pokemon-mini-title-screen.png",
+            "platforms": [
+                "Pok\u00e9mon Mini"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/27a00984-ac05-11ed-b83f-02420a000135.webp",
+            "width": 96
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Title screen.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/9209352-pichu-bros-mini-pokemon-mini-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/27a00984-ac05-11ed-b83f-02420a000135.webp",
+                "width": 96
+            }
+        ],
+        "title": "Pichu Bros. mini"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>In <em>Pok\u00e9mon Race mini</em>, you control a Pikachu who races other Pok\u00e9mon. The game is a combination of racing and platforming elements. The race has three laps. You must jump onto higher and lower platforms, as well as climb walls that are too high, and avoid crashing into walls. Every lap, you are given a power-up. Holding the B button charges this, and releasing lets you rocket forward at high speed.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 6,
+                "name": "Racing / Driving"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 13,
+                    "name": "Art Style"
+                },
+                "description": null,
+                "id": 57,
+                "name": "Anime / Manga"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 21,
+                "name": "Platform"
+            }
+        ],
+        "id": 69023,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/69023/pokemon-race-mini/",
+        "num_votes": 0,
+        "official_url": "https://web.archive.org/web/20090327173455/http://www.jupiter.co.jp/product/game/pokemini/race.html",
+        "platforms": [
+            [
+                {
+                    "id": 152,
+                    "name": "Pok\u00e9mon Mini"
+                },
+                "2002-07-19"
+            ]
+        ],
+        "sample_cover": {
+            "height": 64,
+            "image_url": "https://cdn.mobygames.com/screenshots/9534540-pokemon-race-mini-pokemon-mini-title-screen.png",
+            "platforms": [
+                "Pok\u00e9mon Mini"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/d53e59fe-ac07-11ed-bbce-02420a000133.webp",
+            "width": 96
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Title screen.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/9534540-pokemon-race-mini-pokemon-mini-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d53e59fe-ac07-11ed-bbce-02420a000133.webp",
+                "width": 96
+            }
+        ],
+        "title": "Pok\u00e9mon Race mini"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "English title",
+                "title": "Pok\u00e9mon Breeder mini"
+            }
+        ],
+        "description": "<p>In <em>Pok\u00e9mon Sodate-ya-san mini</em>, a virtual pet game, the player takes on the role of the Day-Care Man. Professor Birch gives the player a choice of one of three eggs. The player's job is to hatch the egg. When it hatches, the player must care for the young Pok\u00e9mon in ways such as feeding it, brushing it, and taking it out.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 13,
+                    "name": "Art Style"
+                },
+                "description": null,
+                "id": 57,
+                "name": "Anime / Manga"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 139,
+                "name": "Life / social simulation"
+            }
+        ],
+        "id": 69094,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/69094/pokemon-sodate-ya-san-mini/",
+        "num_votes": 0,
+        "official_url": "http://www.jupiter.co.jp/product/game/pokemini/sodateya.html",
+        "platforms": [
+            [
+                {
+                    "id": 152,
+                    "name": "Pok\u00e9mon Mini"
+                },
+                "2002-12-14"
+            ]
+        ],
+        "sample_cover": {
+            "height": 64,
+            "image_url": "https://cdn.mobygames.com/screenshots/9587021-pokemon-sodate-ya-san-mini-pokemon-mini-title-screen.png",
+            "platforms": [
+                "Pok\u00e9mon Mini"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/55c30930-ac08-11ed-897b-02420a00012d.webp",
+            "width": 96
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Title screen.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/9587021-pokemon-sodate-ya-san-mini-pokemon-mini-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/55c30930-ac08-11ed-897b-02420a00012d.webp",
+                "width": 96
+            }
+        ],
+        "title": "Pok\u00e9mon Sodate-ya-san mini"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Togepi no Daib\u014dken</em> is an action puzzle game similar to <a href=\"https://www.mobygames.com/game/9082/kirby-tilt-n-tumble/\">Kirby Tilt 'n' Tumble</a> in that the player controls a Togepi who is rolling around like a ball. Traditional controls are used rather than motion controls for movement, though the Pok\u00e9mon mini system's built-in tilt sensor is occasionally used for escaping when Togepi gets stuck in a hole. Togepi was peacefully walking through the forest when a Fearow noticed it. The Fearow grabs Togepi and takes it to its nest on the top of a tower. Togepi tries to escape, but trips on a pebble, and starts rolling around. The player must guide Togepi down the stairs. Many hazards exist, including bottomless pits, cracked floors, bumpers and many more too numerous to list. Sometimes, the stairs are covered by a door, and puzzles must be solved to open them, such as rolling over floor switches or knocking other Pok\u00e9mon into holes. At the end each tower is a boss Pok\u00e9mon, who is fought when they also trip on a pebble and start rolling. Boss arenas are small platforms surrounded by a bottomless pit. They must by rolled into and knocked into the abyss to be defeated.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 13,
+                    "name": "Art Style"
+                },
+                "description": null,
+                "id": 57,
+                "name": "Anime / Manga"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 30,
+                "name": "Puzzle elements"
+            }
+        ],
+        "id": 69298,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/69298/togepi-no-daiboken/",
+        "num_votes": 1,
+        "official_url": "http://www.jupiter.co.jp/product/game/pokemini/togepi.html",
+        "platforms": [
+            [
+                {
+                    "id": 152,
+                    "name": "Pok\u00e9mon Mini"
+                },
+                "2002-10-18"
+            ]
+        ],
+        "sample_cover": {
+            "height": 64,
+            "image_url": "https://cdn.mobygames.com/screenshots/9585565-togepi-no-daiboken-pokemon-mini-title-screen.png",
+            "platforms": [
+                "Pok\u00e9mon Mini"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/4fecbd30-ac08-11ed-a599-02420a000132.webp",
+            "width": 96
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Title screen.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/9585565-togepi-no-daiboken-pokemon-mini-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4fecbd30-ac08-11ed-a599-02420a000132.webp",
+                "width": 96
+            }
+        ],
+        "title": "Togepi no Daib\u014dken"
+    }
+]

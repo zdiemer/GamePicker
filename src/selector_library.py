@@ -1,8 +1,10 @@
-from typing import Dict, List
+from typing import Dict, List, Set
+import math
 
-from excel_game import ExcelGenre, Playability
+from excel_game import ExcelGame, ExcelGenre, Playability, TranslationStatus
 
 from data_provider import DataProvider
+from game_grouping import GameGrouping
 from game_selector import GameSelector
 import game_selectors as gs
 from picker_enums import PickerMode
@@ -72,6 +74,7 @@ class SelectorLibrary:
             gs.Selector.BETWEEN_20_AND_30_HOURS: gs.get_playtime_selector(
                 gs.Selector.BETWEEN_20_AND_30_HOURS.value, gs.PlaytimeBounds(20, 30)
             ),
+            gs.Selector.BIG_GAMES: gs.BIG_GAMES,
             gs.Selector.BIRTHDAY_GAMES: gs.BIRTHDAY_GAMES,
             gs.Selector.BOOMER_SHOOTERS: gs.get_genre_selector(
                 ExcelGenre.FIRST_PERSON_SHOOTER,
@@ -93,6 +96,7 @@ class SelectorLibrary:
             gs.Selector.FIGHTING_GAMES: gs.get_genre_selector(
                 ExcelGenre.FIGHTING, gs.Selector.FIGHTING_GAMES.value
             ),
+            gs.Selector.FIRST_PARTY_GAMES: gs.FIRST_PARTY_GAMES,
             gs.Selector.FRANCHISE_PLAYTHROUGH_CONTENDERS: gs.get_franchise_playthroughs_selector(
                 self._data_provider,
                 self._mode,
@@ -113,6 +117,9 @@ class SelectorLibrary:
             gs.Selector.HACK_AND_SLASH: gs.get_genre_selector(
                 ExcelGenre.HACK_AND_SLASH, gs.Selector.HACK_AND_SLASH.value
             ),
+            gs.Selector.HIGH_CRITIC_RATINGS: gs.HIGH_CRITIC_RATINGS,
+            gs.Selector.HIGH_PRIORITY_RATINGS: gs.HIGH_PRIORITY_RATINGS,
+            gs.Selector.HIGH_USER_RATINGS: gs.HIGH_USER_RATINGS,
             gs.Selector.HORROR_GAMES: gs.get_horror_games_selector(
                 self._data_provider,
             ),
@@ -194,6 +201,54 @@ class SelectorLibrary:
                 games_override=self._data_provider.get_played_games(),
                 completions=True,
             ),
+            gs.Selector.ONE_PER_FAN_TRANSLATION_CHALLENGE: gs.get_one_per_criteria_challenge_selector(
+                "Fan Translation",
+                self._data_provider,
+                gs.get_platform_completion_id,
+                games_override=list(
+                    filter(
+                        lambda g: g.translation == TranslationStatus.COMPLETE
+                        and not g.owned,
+                        self._data_provider.get_games(),
+                    )
+                ),
+            ),
+            gs.Selector.ONE_PER_FAN_TRANSLATION_CHALLENGE_COMPLETIONS: gs.get_one_per_criteria_challenge_selector(
+                "Fan Translation",
+                self._data_provider,
+                gs.get_platform_completion_id,
+                games_override=list(
+                    filter(
+                        lambda g: g.translation == TranslationStatus.COMPLETE
+                        and not g.owned,
+                        self._data_provider.get_played_games(),
+                    )
+                ),
+                completions=True,
+            ),
+            gs.Selector.ONE_PER_FRANCHISE_CONTENDER_CHALLENGE: gs.get_one_per_criteria_challenge_selector(
+                "Franchise Contender",
+                self._data_provider,
+                lambda g: g.franchise,
+                games_override=list(
+                    filter(
+                        lambda g: g.franchise in gs.FRANCHISE_CONTENDERS,
+                        self._data_provider.get_games(),
+                    )
+                ),
+            ),
+            gs.Selector.ONE_PER_FRANCHISE_CONTENDER_CHALLENGE_COMPLETIONS: gs.get_one_per_criteria_challenge_selector(
+                "Franchise Contender",
+                self._data_provider,
+                lambda g: g.franchise,
+                games_override=list(
+                    filter(
+                        lambda g: g.franchise in gs.FRANCHISE_CONTENDERS,
+                        self._data_provider.get_played_games(),
+                    )
+                ),
+                completions=True,
+            ),
             gs.Selector.ONE_PER_GENRE_CHALLENGE: gs.get_one_per_criteria_challenge_selector(
                 "Genre", self._data_provider, lambda g: g.genre
             ),
@@ -201,6 +256,18 @@ class SelectorLibrary:
                 "Genre",
                 self._data_provider,
                 lambda g: g.genre,
+                games_override=self._data_provider.get_played_games(),
+                completions=True,
+            ),
+            gs.Selector.ONE_PER_PERCENTILE_CHALLENGE: gs.get_one_per_criteria_challenge_selector(
+                "Percentile",
+                self._data_provider,
+                lambda g: gs.group_by_percentile(g, self._data_provider),
+            ),
+            gs.Selector.ONE_PER_PERCENTILE_CHALLENGE_COMPLETIONS: gs.get_one_per_criteria_challenge_selector(
+                "Percentile",
+                self._data_provider,
+                lambda g: gs.group_by_percentile(g, self._data_provider),
                 games_override=self._data_provider.get_played_games(),
                 completions=True,
             ),
@@ -228,6 +295,30 @@ class SelectorLibrary:
                     )
                 ),
                 challenge_suffix="Unplayable",
+            ),
+            gs.Selector.ONE_PER_RATING_CHALLENGE: gs.get_one_per_criteria_challenge_selector(
+                "Rating",
+                self._data_provider,
+                lambda g: f"{math.floor(g.combined_rating * 10) * 10}%",
+            ),
+            gs.Selector.ONE_PER_RATING_CHALLENGE_COMPLETIONS: gs.get_one_per_criteria_challenge_selector(
+                "Rating",
+                self._data_provider,
+                lambda g: f"{math.floor(g.combined_rating * 10) * 10}%",
+                games_override=self._data_provider.get_played_games(),
+                completions=True,
+            ),
+            gs.Selector.ONE_PER_REGION_CHALLENGE: gs.get_one_per_criteria_challenge_selector(
+                "Region",
+                self._data_provider,
+                lambda g: g.release_region.name.replace("_", " ").title(),
+            ),
+            gs.Selector.ONE_PER_REGION_CHALLENGE_COMPLETIONS: gs.get_one_per_criteria_challenge_selector(
+                "Region",
+                self._data_provider,
+                lambda g: g.release_region.name.replace("_", " ").title(),
+                games_override=self._data_provider.get_played_games(),
+                completions=True,
             ),
             gs.Selector.ONE_PER_YEAR_CHALLENGE: gs.get_one_per_criteria_challenge_selector(
                 "Year", self._data_provider, lambda g: g.release_year
@@ -286,6 +377,7 @@ class SelectorLibrary:
                     "3015-4654",
                     "3015-5417",
                     "3015-2362",
+                    "3015-4955",
                 ],
                 moby_games_group_ids=[2508, 10842],
             ),
@@ -369,6 +461,68 @@ class SelectorLibrary:
             gs.Selector.ZACH_GAMES: gs.ZACH_GAMES,
             gs.Selector.ZERO_PERCENT: gs.get_zero_percent_selector(self._data_provider),
         }
+
+        self._library[gs.Selector.TOP_BY_SELECTOR] = self.__get_top_by_selector()
+
+    def __get_top_by_selector(self) -> GameSelector:
+        except_selectors: Set[gs.Selector] = set(
+            [
+                gs.Selector.COMPLETED_VALUES,
+                gs.Selector.GAMES_ON_ORDER,
+                gs.Selector.LARGEST_RATING_DIFFERENCES,
+                gs.Selector.MISSPELLINGS,
+                gs.Selector.MOST_PLAYED_FRANCHISES,
+                gs.Selector.MOST_PLAYED_GENRES,
+                gs.Selector.NOW_PLAYING,
+                gs.Selector.ONE_PER_ALPHABET_CHALLENGE,
+                gs.Selector.ONE_PER_ALPHABET_CHALLENGE_COMPLETIONS,
+                gs.Selector.ONE_PER_FAN_TRANSLATION_CHALLENGE,
+                gs.Selector.ONE_PER_FAN_TRANSLATION_CHALLENGE_COMPLETIONS,
+                gs.Selector.ONE_PER_FRANCHISE_CONTENDER_CHALLENGE,
+                gs.Selector.ONE_PER_FRANCHISE_CONTENDER_CHALLENGE_COMPLETIONS,
+                gs.Selector.ONE_PER_GENRE_CHALLENGE,
+                gs.Selector.ONE_PER_GENRE_CHALLENGE_COMPLETIONS,
+                gs.Selector.ONE_PER_PERCENTILE_CHALLENGE,
+                gs.Selector.ONE_PER_PERCENTILE_CHALLENGE_COMPLETIONS,
+                gs.Selector.ONE_PER_PLATFORM_CHALLENGE,
+                gs.Selector.ONE_PER_PLATFORM_CHALLENGE_COMPLETIONS,
+                gs.Selector.ONE_PER_PLATFORM_CHALLENGE_UNPLAYABLE,
+                gs.Selector.ONE_PER_RATING_CHALLENGE,
+                gs.Selector.ONE_PER_RATING_CHALLENGE_COMPLETIONS,
+                gs.Selector.ONE_PER_REGION_CHALLENGE,
+                gs.Selector.ONE_PER_REGION_CHALLENGE_COMPLETIONS,
+                gs.Selector.ONE_PER_YEAR_CHALLENGE,
+                gs.Selector.ONE_PER_YEAR_CHALLENGE_COMPLETIONS,
+                gs.Selector.PLAYED_PURCHASES,
+                gs.Selector.POTENTIAL_DUPLICATES,
+                gs.Selector.PURCHASE_TO_COMPLETION_GAPS,
+                gs.Selector.QUARTERLY_SPEND,
+            ]
+        )
+
+        def get_selections(games: List[ExcelGame]) -> List[ExcelGame]:
+            returned_games: List[ExcelGame] = []
+            for selector_type, selector in self._library.items():
+                if selector.skip_unless_specified or selector_type in except_selectors:
+                    continue
+                selection = selector.select(games)
+                returned_games.extend(
+                    _g.get_copy_with_metadata(selector_type.value)
+                    for _g in sorted(
+                        selection, key=lambda g: (g.combined_rating or 0), reverse=True
+                    )[:5]
+                )
+
+            return returned_games
+
+        return GameSelector(
+            get_selections,
+            name=gs.Selector.TOP_BY_SELECTOR.value,
+            grouping=GameGrouping(lambda g: g.group_metadata),
+            sort=lambda pg: (pg.game.combined_rating or 0),
+            reverse_sort=True,
+            skip_unless_specified=True,
+        )
 
     def update_mode(self, mode: PickerMode):
         self._mode = mode

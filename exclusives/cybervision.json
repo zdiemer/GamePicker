@@ -1,0 +1,656 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Moon Base</em> is a <a href=\"https://www.mobygames.com/group/6716/lunar-lander-variants/\">Lunar Lander variant</a>. The player controls a landing module and must use thrust to land it on the surface of the moon without too much velocity and without running out of fuel. The game features color graphics and shows the module in a side view along with the rugged lunar terrain.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 158,
+                "name": "Vehicle simulator"
+            }
+        ],
+        "id": 171826,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/171826/moon-base/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 301,
+                    "name": "Cybervision"
+                },
+                "1978-02-01"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Moon Base"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Maze</em> is a game in which the player must escape a maze.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 171828,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/171828/maze/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 301,
+                    "name": "Cybervision"
+                },
+                "1978-01-01"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Maze"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Bullfight</em> is a bull fighting game, placing the player in the role of a matador who must please the crowd.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            }
+        ],
+        "id": 171868,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/171868/bullfight/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 301,
+                    "name": "Cybervision"
+                },
+                "1978-01-01"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Bullfight"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Mastermind</em> is a digital version of the code breaking game. a code of a specific length must be cracked and after each guess the number of correct elements is given and the number of elements that exist in the code but on a different position. Using logic deduction the code must be guessed in as little turns as possible.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            }
+        ],
+        "id": 171960,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/171960/mastermind/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 301,
+                    "name": "Cybervision"
+                },
+                "1978-01-01"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Mastermind"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Trivia</em> is a simple quiz game about various trivia topics.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 29,
+                "name": "Game show / trivia / quiz"
+            }
+        ],
+        "id": 171961,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/171961/trivia/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 301,
+                    "name": "Cybervision"
+                },
+                "1978-01-01"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Trivia"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Slot machine</em> simulates a casino slot machines. The player inserts money and the wheels will spin and show random symbols. Different symbols translate to different payouts. The goal is to make a profit in this game purely based on luck.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            }
+        ],
+        "id": 172095,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/172095/slot-machine/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 301,
+                    "name": "Cybervision"
+                },
+                "1978-02-01"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Slot Machine"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "Development title",
+                "title": "Pin Ball"
+            }
+        ],
+        "description": "<p><em>Star Flex</em> is a pinball game is a pinball table with a wizard theme.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 53,
+                "name": "Pinball"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 172096,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/172096/star-flex/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 301,
+                    "name": "Cybervision"
+                },
+                "1978-03-01"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Star Flex"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>The <em>Cybervision 2001</em> TV home computer system, was a console/PC hybrid. It connected to a TV for a display and played software from cassette tapes. Instead of a keyboard, or controller the console came with two keypads with 5x8 buttons. The console was exclusively distributed through Montgomery Wards department stores in the US. At its introduction it came with a single cassette containing eight programs among which there were some games: Sub Chase, <a href=\"https://www.mobygames.com/game/84961/tv-school-house-ii-math-fun/\">Math Fun</a>, and Bulldozer.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 43,
+                "name": "Math / logic"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 222,
+                "name": "Agricultural / industrial"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 41,
+                "name": "Naval / watercraft"
+            }
+        ],
+        "id": 172292,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/172292/cybervision-2001-included-games/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 301,
+                    "name": "Cybervision"
+                },
+                "1978-01-01"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Cybervision 2001 (included games)"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Hangman</em> is a word guessing game. Each turn the player guesses a letter. If the letter exists int he word it is revealed, if it doesn't part of a hanged man is drawn. When the full hanged man is drawn before the word is guessed the player loses.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 162,
+                "name": "Word construction"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 172296,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/172296/hangman/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 301,
+                    "name": "Cybervision"
+                },
+                "1978-03-01"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Hangman"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Battleship</em> is a logical deduction game where players launch attacks on grid positions and learn if their attack was a hit or a miss. Knowing the ships in the enemy fleet and their sizes players can find out where the remaining ships can be found.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 41,
+                "name": "Naval / watercraft"
+            }
+        ],
+        "id": 172387,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/172387/battleship/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 301,
+                    "name": "Cybervision"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Battleship"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Crossword</em> is a digital version of the classic word puzzle where the player must find the correct words based on hints to fill into specific areas of a grid. Words overlap horizontally and vertically giving hints for letters of other words the player hasn't deciphered yet. The game has multiple difficulty levels.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 162,
+                "name": "Word construction"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 172388,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/172388/crossword/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 301,
+                    "name": "Cybervision"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Crossword"
+    }
+]

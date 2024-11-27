@@ -1,0 +1,138 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Sword of Peace</em> puts the player on a quest to prove their worthiness to become monarch. The player is cast into a dungeon and must find four hidden objects on different levels of the dungeon. Each level is a grid of 100x100 points. Each turn the player is told the distance to the treasure (but not the direction) and the player can move up to 10 points in any given direction. While moving the player can encounter monsters. Evil monsters must be fought and good monsters will help you by giving you items. There are a number of spells that can be learned to aid in combat. The player has limited strength which is drained by monster attacks. If the player loses all their strength the game is over.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 50,
+                "name": "Role-playing (RPG)"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            }
+        ],
+        "id": 196305,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/196305/sword-of-peace/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 309,
+                    "name": "Research Machines 380Z"
+                },
+                "1979-11"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Sword of Peace"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Battleships MK II</em> is a <a href=\"https://www.mobygames.com/group/8553/genre-board-game-battleship/\">Battleship variant</a>. The computer hides a number of ships on a grid and the player fires at grid positions to try to sink the ships. Different from most Battleship games, the player fires torpedoes that travel across the grid so they can actually hit other ships. All ships have the same size and appearance and they all sink in a single hit.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 41,
+                "name": "Naval / watercraft"
+            }
+        ],
+        "id": 196417,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/196417/battleships-mk-ii/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 309,
+                    "name": "Research Machines 380Z"
+                },
+                "1979-11"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Battleships MK II"
+    }
+]

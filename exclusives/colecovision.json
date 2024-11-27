@@ -1,0 +1,2232 @@
+[
+    {
+        "alternate_titles": [
+            {
+                "description": "ColecoVision in-game title",
+                "title": "Super-Action Baseball"
+            }
+        ],
+        "description": "<p>Colecovision's only baseball game and first of the Super Action series, <em>Super Action Baseball</em> was specially designed to work with the Super Action controllers.</p>\n<p>Batting is done with an angled view wherein you see your batter in the bottom-left of the screen and the pitcher at center-right. The top part of the screen is reserved for keeping an eye on the bases. As the ball approaches, your player attempts to hit the ball with his bat to send it flying. A successful hit will result in your player having to run around the bases. Running is done with the \"wheel\" on the top of the Super Action Controllers. Stealing is also possible.</p>\n<p>Fielding is simple, using the Super Action controllers, players have 4 buttons to correspond to each base. Thus the ball can be thrown at any of the bases instantly.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 126,
+                "name": "3rd-person (Other)"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 32,
+                "name": "Baseball"
+            }
+        ],
+        "id": 10254,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/10254/super-action-baseball/",
+        "num_votes": 7,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 29,
+                    "name": "ColecoVision"
+                },
+                "1983"
+            ]
+        ],
+        "sample_cover": {
+            "height": 210,
+            "image_url": "https://cdn.mobygames.com/screenshots/463877-super-action-baseball-colecovision-title-screen.png",
+            "platforms": [
+                "ColecoVision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/4b91ca64-ab6d-11ed-837d-02420a00019b.webp",
+            "width": 280
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Title Screen",
+                "height": 210,
+                "image_url": "https://cdn.mobygames.com/screenshots/463877-super-action-baseball-colecovision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4b91ca64-ab6d-11ed-837d-02420a00019b.webp",
+                "width": 280
+            },
+            {
+                "caption": "Fielding",
+                "height": 210,
+                "image_url": "https://cdn.mobygames.com/screenshots/463312-super-action-baseball-colecovision-fielding.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4a69a472-ab6d-11ed-b165-02420a000198.webp",
+                "width": 280
+            },
+            {
+                "caption": "Takes a cut",
+                "height": 210,
+                "image_url": "https://cdn.mobygames.com/screenshots/463765-super-action-baseball-colecovision-takes-a-cut.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4b57e3ee-ab6d-11ed-b165-02420a000198.webp",
+                "width": 280
+            },
+            {
+                "caption": "Pitching",
+                "height": 210,
+                "image_url": "https://cdn.mobygames.com/screenshots/464295-super-action-baseball-colecovision-pitching.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4c70758e-ab6d-11ed-837d-02420a00019b.webp",
+                "width": 280
+            },
+            {
+                "caption": "Strike!",
+                "height": 210,
+                "image_url": "https://cdn.mobygames.com/screenshots/463200-super-action-baseball-colecovision-strike.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4a3280fa-ab6d-11ed-b165-02420a000198.webp",
+                "width": 280
+            }
+        ],
+        "title": "Super Action Baseball"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>This is a game based on the movie, <em>2010: The Year We Made Contact.</em></p>\n<p>You are an astronaut aboard the Discovery and need to repair its systems before it crashes into Jupiter's moon, Io. Time is limited so do not dawdle or the Discovery will be destroyed.</p>\n<p>You move the reticule over a trouble spot and press the A button to begin repairs. You must then select a path for the power to run so it powers all the components on that circuit board then move on. </p>\n<p>If the floating ring touches a component while you are at it or you create a feedback loop, you will damage the component and will need to repair it before you can continue, costing you time.</p>\n<p>Sometimes, you will need to return to a circuit to repair a component then restart it.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 22484,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/22484/2010-the-graphic-action-game/",
+        "num_votes": 6,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 29,
+                    "name": "ColecoVision"
+                },
+                "1985-01"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/2081578-2010-the-graphic-action-game-colecovision-front-cover.jpg",
+            "platforms": [
+                "ColecoVision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/127bf7f0-ab7b-11ed-87d1-02420a000197.webp",
+            "width": 589
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Another circuit to repair",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16044475-2010-the-graphic-action-game-colecovision-another-circuit-to-rep.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/87b35b38-bf37-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "I powered up the circuit",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/15664084-2010-the-graphic-action-game-colecovision-i-powered-up-the-circu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/300a3a48-bebd-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "The Discovery map",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16044448-2010-the-graphic-action-game-colecovision-the-discovery-map.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/867ce3ce-bf37-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Now I can fix the circuit",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/15664541-2010-the-graphic-action-game-colecovision-now-i-can-fix-the-circ.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/609d58d4-bebd-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Title screen",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16044439-2010-the-graphic-action-game-colecovision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/848fb410-bf37-11ed-9c42-02420a000140.webp",
+                "width": 256
+            }
+        ],
+        "title": "2010: The Graphic Action Game"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Kevtris</em> was the first Colecovision game to be developed for almost ten years, and it was a natural choice to start with a game that was simple to implement, yet had been released too late to be officially ported to the Coleco console; namely <a href=\"https://www.mobygames.com/search/?q=Tetris\">Tetris</a>.</p>\n<p>Despite being an early home-brew, Kevtris features both colourful graphics and background music, as well as three different game modes for both one and two players as well as handicaps. Apart from the normal Tetris game mode, there is the <em>zero-out</em> mode, where you have to clear a set number of lines to win a game, and the <em>builder</em> mode, where the blocks don't fall automatically, giving you all the time in the world to plan your moves.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 145,
+                "name": "Falling block puzzle"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 25289,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/25289/kevtris/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 29,
+                    "name": "ColecoVision"
+                },
+                "1996"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/15774027-kevtris-colecovision-funny-startup-screen.png",
+            "platforms": [
+                "ColecoVision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/37a27a0c-bee2-11ed-9c42-02420a000140.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Finished zero-out",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/15774060-kevtris-colecovision-finished-zero-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/397e7e7a-bee2-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Credits",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/15774162-kevtris-colecovision-credits.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3f9f7624-bee2-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Choose players",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/15774171-kevtris-colecovision-choose-players.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3fec56b0-bee2-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "High score",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/15774072-kevtris-colecovision-high-score.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/39fb4446-bee2-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Head to head",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/15774021-kevtris-colecovision-head-to-head.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/376ff492-bee2-11ed-9c42-02420a000140.webp",
+                "width": 256
+            }
+        ],
+        "title": "Kevtris"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "In-game title",
+                "title": "Ken Uston BlackJack-Poker"
+            }
+        ],
+        "description": "<p>Feeling Lucky?  Pull up a chair and play a few hands of Blackjack or Poker.  Minimum bet is $1 and maximum is $499 at the BlackJack table, whereas over on the 5-Card Stud Poker table the sky is the limit.  Up to 4 people can play simultaneously, or if you're a little shy you can always go one-on-one with the dealer.  Speaking of which, don't forget to give Max, your dealer, a nice tip, or you never know what kind of cards he'll deal out in your next hand.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 26502,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/26502/ken-uston-blackjackpoker/",
+        "num_votes": 3,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 29,
+                    "name": "ColecoVision"
+                },
+                "1982-10"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/4760336-ken-uston-blackjackpoker-colecovision-front-cover.jpg",
+            "platforms": [
+                "ColecoVision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/fcb1101e-abbf-11ed-a5ec-02420a00019b.webp",
+            "width": 593
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Place your bets!",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/3013512-ken-uston-blackjackpoker-colecovision-place-your-bets.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c6f8a672-ab87-11ed-81e3-02420a000199.webp",
+                "width": 256
+            },
+            {
+                "caption": "Blackjack.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/3010338-ken-uston-blackjackpoker-colecovision-blackjack.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b984ef50-ab87-11ed-b6ee-02420a00019d.webp",
+                "width": 256
+            },
+            {
+                "caption": "Stud Poker.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/3319439-ken-uston-blackjackpoker-colecovision-stud-poker.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/098aa63e-ab8d-11ed-9201-02420a00019c.webp",
+                "width": 256
+            },
+            {
+                "caption": "Title screen.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/3010504-ken-uston-blackjackpoker-colecovision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ba3509c6-ab87-11ed-b6ee-02420a00019d.webp",
+                "width": 256
+            },
+            {
+                "caption": "Choose Blackjack or Poker.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/3319586-ken-uston-blackjackpoker-colecovision-choose-blackjack-or-poker.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0a30861c-ab8d-11ed-9201-02420a00019c.webp",
+                "width": 256
+            }
+        ],
+        "title": "Ken Uston BlackJack/Poker"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "Canadian (French) title",
+                "title": "Rocky Boxe Super Action"
+            },
+            {
+                "description": "In-game title",
+                "title": "Rocky Super-Action Boxing"
+            }
+        ],
+        "description": "<p>Coleco's foray into the boxing realm is based on the 1982 film Rocky III. Players have the option of playing as either Rocky Balboa or Clubber Lang as one battles the opponent in 10 rounds of boxing action.</p>\n<p>The game utilizes Coleco's Super Action Controller letting players use the buttons to throw various punches and blocks, while using the joystick to move around the ring. The computer opponent can be set at 4 different skill levels, or play head-to-head with a second player. The winner of a match does a victory strut to <em>Eye Of The Tiger</em>, the theme song from the movie.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 36,
+                "name": "Boxing"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 26522,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/26522/rocky-super-action-boxing/",
+        "num_votes": 4,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 29,
+                    "name": "ColecoVision"
+                },
+                "1983"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/4791760-rocky-super-action-boxing-colecovision-front-cover.jpg",
+            "platforms": [
+                "ColecoVision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/4af55acc-abc1-11ed-9b12-02420a00019d.webp",
+            "width": 599
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Title screen.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/3005622-rocky-super-action-boxing-colecovision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a5f187b4-ab87-11ed-ba50-02420a000199.webp",
+                "width": 256
+            },
+            {
+                "caption": "Rocky goes head to head with Clubber Lang.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/3007822-rocky-super-action-boxing-colecovision-rocky-goes-head-to-head-w.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ae74aa60-ab87-11ed-a44e-02420a000199.webp",
+                "width": 256
+            },
+            {
+                "caption": "\"Adrian! Adrian! I did it!\"",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/3006941-rocky-super-action-boxing-colecovision-adrian-adrian-i-did-it.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ab1ddcba-ab87-11ed-9d05-02420a000198.webp",
+                "width": 256
+            },
+            {
+                "caption": "Rocky Balboa.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/3007067-rocky-super-action-boxing-colecovision-rocky-balboa.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ab7c46ba-ab87-11ed-9d05-02420a000198.webp",
+                "width": 256
+            },
+            {
+                "caption": "Choose Rocky or Clubber.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/3004636-rocky-super-action-boxing-colecovision-choose-rocky-or-clubber.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a15c22f4-ab87-11ed-8e21-02420a00019b.webp",
+                "width": 256
+            }
+        ],
+        "title": "Rocky Super Action Boxing"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>Another game in the Super Action series that makes use of Coleco's Super Action Controllers.  Play against the computer or go head-to-head with a friend over 4 quarters of football action.  Step back and throw the long bomb to your wide receiver dancing in the end zone, kick the field goal, or lay down a bone-crunching tackle as you control one of 3 offensive or 3 defensive players.  What victory dance will you do as you dive across the goal line in the final seconds of the game?</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 31,
+                "name": "Football (American)"
+            }
+        ],
+        "id": 26541,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/26541/super-action-football/",
+        "num_votes": 2,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 29,
+                    "name": "ColecoVision"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/4840044-super-action-football-colecovision-front-cover.jpg",
+            "platforms": [
+                "ColecoVision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/48fbce0c-abc3-11ed-8b6f-02420a00019c.webp",
+            "width": 592
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Wait for the snap.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/3008008-super-action-football-colecovision-wait-for-the-snap.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/af02b90e-ab87-11ed-b9a3-02420a000197.webp",
+                "width": 256
+            },
+            {
+                "caption": "Choose your game mode.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/3008192-super-action-football-colecovision-choose-your-game-mode.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/afd17c6c-ab87-11ed-b9a3-02420a000197.webp",
+                "width": 256
+            },
+            {
+                "caption": "Title screen.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/3318290-super-action-football-colecovision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/04558a4e-ab8d-11ed-ba50-02420a000199.webp",
+                "width": 256
+            },
+            {
+                "caption": "Kickoff.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/3009526-super-action-football-colecovision-kickoff.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b622f9b0-ab87-11ed-9d80-02420a00019a.webp",
+                "width": 256
+            }
+        ],
+        "title": "Super Action Football"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>Repair the potholes in the road. If a beach ball gets in the way, pop it! But beware of beach bombs!</p>\n<p>You are driving around a continuously deteriorating road, where potholes are forming. You must drive over these potholes to repair them. Along the way, you can drive over beach balls to pop them for points. Don't let a pothole go too long because if it does, it will become a manhole. If a beach ball falls into a manhole, it will emerge as a beach bomb, that can damage you. In a two player game, knock your opponent into the bombs. In a one player game, avoid the other steamroller as it will kill you except for the last few seconds of the round. In that short time, hitting it will kill it.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 6,
+                "name": "Racing / Driving"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            }
+        ],
+        "id": 28636,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/28636/steamroller/",
+        "num_votes": 2,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 29,
+                    "name": "ColecoVision"
+                },
+                "2000-07-29"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/323631-steamroller-colecovision-front-cover.jpg",
+            "platforms": [
+                "ColecoVision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/327dc16e-ab6c-11ed-b721-02420a00019b.webp",
+            "width": 478
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Level complete",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/3304658-steamroller-colecovision-level-complete.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c5f017a6-ab8c-11ed-a44e-02420a000199.webp",
+                "width": 256
+            },
+            {
+                "caption": "Rolling along...",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/3303775-steamroller-colecovision-rolling-along.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c2655c72-ab8c-11ed-a188-02420a00019a.webp",
+                "width": 256
+            },
+            {
+                "caption": "Title screen",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/3302072-steamroller-colecovision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ba44fd04-ab8c-11ed-8b6f-02420a00019c.webp",
+                "width": 256
+            },
+            {
+                "caption": "Game start",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/3303938-steamroller-colecovision-game-start.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c31b005e-ab8c-11ed-a188-02420a00019a.webp",
+                "width": 256
+            }
+        ],
+        "title": "Steamroller"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>The Astro Invaders are attacking! You must use your laser base to defend the Earth. Beware of the incoming invaders and their impact explosions. Destroy the flying saucers before they land or they will steal your women!</p>\n<p>This is an unofficial conversion of the <a href=\"https://www.mobygames.com/search/?q=Konami\">Konami</a> <a href=\"https://www.mobygames.com/game/63361/astro-invader/\">coin-op game</a>. As invaders come out of the mother ship, they are stored in columns until that column is full, then the aliens in the full column descend one-by-one and attack. Every so often, the hovering flying saucer descends. You move along the bottom, left or right, and must shoot the invaders.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 231,
+                "name": "Fangame"
+            }
+        ],
+        "id": 29544,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/29544/astro-invader/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 29,
+                    "name": "ColecoVision"
+                },
+                "2005-06-05"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/6652097-astro-invader-colecovision-front-cover.jpg",
+            "platforms": [
+                "ColecoVision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/1b0eb82e-abf0-11ed-bdca-02420a000133.webp",
+            "width": 484
+        },
+        "sample_screenshots": [],
+        "title": "Astro Invader"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Cye</em> is a puzzle game, mostly a clone of <a href=\"https://www.mobygames.com/game/15941/kye/\">Kye</a>, similar to <a href=\"https://www.mobygames.com/search/?q=Boulder+Dash\">Boulder Dash</a>, with elements of <a href=\"https://www.mobygames.com/search/?q=Sokoban\">Sokoban</a>, <a href=\"https://www.mobygames.com/game/7320/crystal-mines/\">Crystal Mines</a> and <a href=\"https://www.mobygames.com/search/?q=Pac-Man\">Pac-Man</a>. The goal is to collect all the on-screen diamonds to clear each level. To do so, the player must traverse the maze-like screen, moving rocks and avoiding enemies in order to accomplish this goal. The game contains 28 levels of play, including a two-player, co-op mode.</p>\n<p>Only 52 cartridges were produced. The developer kept two for himself and sold the remaining ones to attendees of the Classic Gaming Expo 2007.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 33808,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/33808/cye/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 29,
+                    "name": "ColecoVision"
+                },
+                "2008-02-29"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Cye"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>DacMan</em> is an attempt to bring a version of <a href=\"https://www.mobygames.com/search/?q=Pac-Man\">Pac-Man</a> to the ColecoVision. The game looks similar to <em>Pac-Man</em> but only has three ghosts. The game play is the same. Move about the maze, eating all the dots and avoiding the ghosts. If you eat a power pellet, the ghosts turn blue then you can eat them for points. Also on the cartridge, starting with version 1.3, is a hidden game called <em>DacPong!</em>. This is just like <a href=\"https://www.mobygames.com/search/?q=Pong\">Pong</a> except the ball is the Pac-Man character.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            }
+        ],
+        "id": 35258,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/35258/dacman/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 29,
+                    "name": "ColecoVision"
+                },
+                "2000-07-29"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/16026062-dacman-colecovision-daniel-bienvenu-presents.png",
+            "platforms": [
+                "ColecoVision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/1b994382-bf31-11ed-9c42-02420a000140.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "The DacPong! game (DacMan v1.3)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16033262-dacman-colecovision-the-dacpong-game-dacman-v13.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/99fc0bd6-bf33-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "I lost my last life. Game over.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16026056-dacman-colecovision-i-lost-my-last-life-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1b5e2d7e-bf31-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Title screen",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16010128-dacman-colecovision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c81e33f2-bf2b-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Get ready",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16033436-dacman-colecovision-get-ready.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a57cd620-bf33-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Daniel Bienvenu presents",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16026062-dacman-colecovision-daniel-bienvenu-presents.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1b994382-bf31-11ed-9c42-02420a000140.webp",
+                "width": 256
+            }
+        ],
+        "title": "DacMan"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>Mankind is under siege by demonic ghosts. Now its up to a heroic man named Bill armed only with his wits and a hammer to repel this invasion.</p>\n<p>In <em>Cosmic Crisis</em>, brick platforms are connected by ladders. Bill must maneuver around these platforms, punching holes in the brick platforms with his hammer in an attempt to trap a ghost. Once a ghost is trapped, Bill must get to the ghost and continue hammering at the hole until the ghost finally drops through the platform and gets hurt upon impact with the platform below it. While falling through one floor will destroy a white ghost, a red ghost will need to fall through two floors, and a blue ghost through three. Landing a ghost on top of another ghost below them is another way to destroy them too. Bill only has a limited amount of time to get rid of all of the ghosts in order to clear a stage. The game has six different stages in all and the player starts with only four lives to get through them.</p>\n<p>The game has four difficulty levels, with each higher difficulty increasing the speed of the ghosts except the last difficulty which simply adds an additional red ghost.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 21,
+                "name": "Platform"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 30,
+                "name": "Puzzle elements"
+            }
+        ],
+        "id": 88999,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/88999/cosmic-crisis/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 29,
+                    "name": "ColecoVision"
+                },
+                "1983"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/12506841-cosmic-crisis-colecovision-title-screen.png",
+            "platforms": [
+                "ColecoVision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/a9af59b8-ac21-11ed-b444-02420a000134.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "The blue demon must fall through three levels to be destroyed. Game over.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12508201-cosmic-crisis-colecovision-the-blue-demon-must-fall-through-thre.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/aae8b194-ac21-11ed-aca6-02420a000132.webp",
+                "width": 256
+            },
+            {
+                "caption": "Dig holes to trap the demons.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12506847-cosmic-crisis-colecovision-dig-holes-to-trap-the-demons.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/aa0815c6-ac21-11ed-b444-02420a000134.webp",
+                "width": 256
+            },
+            {
+                "caption": "Once the demon is trapped, fill in the hole to destroy them and earn points.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12508337-cosmic-crisis-colecovision-once-the-demon-is-trapped-fill-in-the.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a9e25200-ac21-11ed-a484-02420a000130.webp",
+                "width": 256
+            },
+            {
+                "caption": "Caught between two demons on level two.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12507691-cosmic-crisis-colecovision-caught-between-two-demons-on-level-tw.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a8157d1c-ac21-11ed-a631-02420a000135.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting level one.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12506844-cosmic-crisis-colecovision-starting-level-one.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a9db3c9a-ac21-11ed-b444-02420a000134.webp",
+                "width": 256
+            }
+        ],
+        "title": "Cosmic Crisis"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Tank Wars</em> is a game where the player controls a tank in a single-screen environment. The tank needs to protect the radar base and itself from being hit by various enemy tanks in a maze-like environment. In each scene the player has about five tanks to fight about twenty opponents.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 80,
+                "name": "Tank"
+            }
+        ],
+        "id": 102294,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/102294/tank-wars/",
+        "num_votes": 2,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 29,
+                    "name": "ColecoVision"
+                },
+                "1983"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/12506850-tank-wars-colecovision-title-screen.png",
+            "platforms": [
+                "ColecoVision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/aa2ea178-ac21-11ed-b444-02420a000134.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Starting a new game.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12507036-tank-wars-colecovision-starting-a-new-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a525ba36-ac21-11ed-b4f3-02420a000135.webp",
+                "width": 256
+            },
+            {
+                "caption": "Game over.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12506909-tank-wars-colecovision-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a8d4cee2-ac21-11ed-87d3-02420a000134.webp",
+                "width": 256
+            },
+            {
+                "caption": "Title screen.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12506850-tank-wars-colecovision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/aa2ea178-ac21-11ed-b444-02420a000134.webp",
+                "width": 256
+            },
+            {
+                "caption": "In a cute touch, the tank blows up the game title.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12507033-tank-wars-colecovision-in-a-cute-touch-the-tank-blows-up-the-gam.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a4f6749c-ac21-11ed-b4f3-02420a000135.webp",
+                "width": 256
+            },
+            {
+                "caption": "My tank is destroyed!",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12507039-tank-wars-colecovision-my-tank-is-destroyed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a6423bd8-ac21-11ed-b4f3-02420a000135.webp",
+                "width": 256
+            }
+        ],
+        "title": "Tank Wars"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>War Room</em> is a action strategy game set in the Cold War conflict between the United States and Russia, which is escalating into a nuclear showdown. The player controls a satellite hovering above the USA, which are represented in a top down view. By destroying enemy satellites with his own satellite, the player has to prevent the destruction of cities in his territory and is able to score points. To keep his cities defensible, the player also has to collect supplies from those cities and distribute them accordingly. This is done by entering the cities with the satellite and collecting supplies in a action sequence. The game ends once all of the player's cities are destroyed.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 126,
+                "name": "3rd-person (Other)"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 134,
+                "name": "Free camera"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 15,
+                "name": "Real-time"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 199,
+                "name": "Cold War"
+            }
+        ],
+        "id": 126309,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/126309/war-room/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 29,
+                    "name": "ColecoVision"
+                },
+                "1983"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/12514565-war-room-colecovision-title-screen.png",
+            "platforms": [
+                "ColecoVision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/ac11edce-ac21-11ed-b83f-02420a000135.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Not even hamburgers, chicken and an all-American apple can save Phoenix.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12509525-war-room-colecovision-not-even-hamburgers-chicken-and-an-all-ame.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ab7de3b8-ac21-11ed-8ce3-02420a000131.webp",
+                "width": 256
+            },
+            {
+                "caption": "Boston has been lost to the Soviets.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12509516-war-room-colecovision-boston-has-been-lost-to-the-soviets.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/aa713862-ac21-11ed-8ce3-02420a000131.webp",
+                "width": 256
+            },
+            {
+                "caption": "Incoming missiles everywhere. Tampa has been rebuilt.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12509519-war-room-colecovision-incoming-missiles-everywhere-tampa-has-bee.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/aaaff55c-ac21-11ed-8ce3-02420a000131.webp",
+                "width": 256
+            },
+            {
+                "caption": "Mushroom clouds and a barren landscape.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12509522-war-room-colecovision-mushroom-clouds-and-a-barren-landscape.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/aad7ae4e-ac21-11ed-8ce3-02420a000131.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting a new game.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12509513-war-room-colecovision-starting-a-new-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/aa15ef48-ac21-11ed-8ce3-02420a000131.webp",
+                "width": 256
+            }
+        ],
+        "title": "War Room"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Amazing Snake</em> is a homebrew action game similar to early 1980s games such as <a href=\"https://www.mobygames.com/game/42270/snake-byte/\">Snake Byte</a> and <a href=\"https://www.mobygames.com/search/?q=Nibbler\">Nibbler</a>. You guide a snake through 20 screens, trying to eat all of the apples while avoiding crashing into the border, the maze barriers, and yourself. Complicating matters is the fact that every time you eat an apple, your snake grows a new segment, making it more and more difficult to avoid crashing into yourself.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 149188,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/149188/amazing-snake/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 29,
+                    "name": "ColecoVision"
+                },
+                "2000"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/12545801-amazing-snake-colecovision-title-screen.png",
+            "platforms": [
+                "ColecoVision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/f74cd27c-ac21-11ed-833b-02420a000131.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Level four has lots of fruit and is tricky to navigate.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12546873-amazing-snake-colecovision-level-four-has-lots-of-fruit-and-is-t.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f42ee1fc-ac21-11ed-98b0-02420a000130.webp",
+                "width": 256
+            },
+            {
+                "caption": "Game select screen.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12545804-amazing-snake-colecovision-game-select-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f766a120-ac21-11ed-833b-02420a000131.webp",
+                "width": 256
+            },
+            {
+                "caption": "Level two doubles the fruit.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12546047-amazing-snake-colecovision-level-two-doubles-the-fruit.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f82889e8-ac21-11ed-af3d-02420a00012f.webp",
+                "width": 256
+            },
+            {
+                "caption": "The layout gets more complicated as you progress through levels.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12546050-amazing-snake-colecovision-the-layout-gets-more-complicated-as-y.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f84aac08-ac21-11ed-af3d-02420a00012f.webp",
+                "width": 256
+            },
+            {
+                "caption": "Title screen.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12545801-amazing-snake-colecovision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f74cd27c-ac21-11ed-833b-02420a000131.webp",
+                "width": 256
+            }
+        ],
+        "title": "Amazing Snake"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 158349,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/158349/meteoric-shower/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 29,
+                    "name": "ColecoVision"
+                },
+                "1983"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/12498888-meteoric-shower-colecovision-title-screen.png",
+            "platforms": [
+                "ColecoVision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/977190a4-ac21-11ed-b444-02420a000134.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Game over.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12498903-meteoric-shower-colecovision-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9869f9d8-ac21-11ed-b444-02420a000134.webp",
+                "width": 256
+            },
+            {
+                "caption": "Ship destroyed!",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12498894-meteoric-shower-colecovision-ship-destroyed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/97cd3ea4-ac21-11ed-b444-02420a000134.webp",
+                "width": 256
+            },
+            {
+                "caption": "Title screen.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12498888-meteoric-shower-colecovision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/977190a4-ac21-11ed-b444-02420a000134.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting level one.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12498891-meteoric-shower-colecovision-starting-level-one.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/97a0ce78-ac21-11ed-b444-02420a000134.webp",
+                "width": 256
+            },
+            {
+                "caption": "You will have to turn your ship around to fire at enemies below you.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12498897-meteoric-shower-colecovision-you-will-have-to-turn-your-ship-aro.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/97f27c5a-ac21-11ed-b444-02420a000134.webp",
+                "width": 256
+            }
+        ],
+        "title": "Meteoric Shower"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 158353,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/158353/sector-alpha/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 29,
+                    "name": "ColecoVision"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/12541706-sector-alpha-colecovision-title-screen.png",
+            "platforms": [
+                "ColecoVision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/ed2e089c-ac21-11ed-b85a-02420a000135.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Enemy attack!",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12541715-sector-alpha-colecovision-enemy-attack.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/edca53f0-ac21-11ed-b85a-02420a000135.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting level one.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12541709-sector-alpha-colecovision-starting-level-one.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ed5f23fa-ac21-11ed-b85a-02420a000135.webp",
+                "width": 256
+            },
+            {
+                "caption": "A direct hit from a missile.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12541718-sector-alpha-colecovision-a-direct-hit-from-a-missile.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/edeeef4e-ac21-11ed-b85a-02420a000135.webp",
+                "width": 256
+            },
+            {
+                "caption": "Game over.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12541721-sector-alpha-colecovision-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ee1aa6de-ac21-11ed-b85a-02420a000135.webp",
+                "width": 256
+            },
+            {
+                "caption": "All is quiet at first.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12541712-sector-alpha-colecovision-all-is-quiet-at-first.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ed9a018c-ac21-11ed-b85a-02420a000135.webp",
+                "width": 256
+            }
+        ],
+        "title": "Sector Alpha"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Skiing</em> is a basic representation of the alpine sport's downhill and slalom events for the ColecoVision.</p>\n<p>Featuring support for 1-4 players, the game features three levels of difficulty as players compete to complete the courses in the shortest amount of time. Hitting objects such as trees will cause skiers to fall and be stunned for a few seconds. In the slalom, five-second time penalties are assessed for each missed gate, while in downhill, skiers must negotiate between moguls.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 129,
+                "name": "Diagonal-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 95,
+                "name": "Snowboarding / skiing"
+            }
+        ],
+        "id": 158354,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/158354/skiing/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 29,
+                    "name": "ColecoVision"
+                },
+                "1986"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/12543756-skiing-colecovision-title-screen.png",
+            "platforms": [
+                "ColecoVision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/f09f798e-ac21-11ed-a631-02420a000135.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Avoid the rocks.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12543780-skiing-colecovision-avoid-the-rocks.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f1ed848e-ac21-11ed-a631-02420a000135.webp",
+                "width": 256
+            },
+            {
+                "caption": "Crossed the finish line.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12543774-skiing-colecovision-crossed-the-finish-line.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f19e308c-ac21-11ed-a631-02420a000135.webp",
+                "width": 256
+            },
+            {
+                "caption": "Slaloming down the hill.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12543768-skiing-colecovision-slaloming-down-the-hill.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f145836a-ac21-11ed-a631-02420a000135.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting the slalom event.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12543765-skiing-colecovision-starting-the-slalom-event.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f11be9b0-ac21-11ed-a631-02420a000135.webp",
+                "width": 256
+            },
+            {
+                "caption": "Beginning the down hill event.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12543777-skiing-colecovision-beginning-the-down-hill-event.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f1c4ac1c-ac21-11ed-a631-02420a000135.webp",
+                "width": 256
+            }
+        ],
+        "title": "Skiing"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "In-game title",
+                "title": "Super Action Soccer"
+            }
+        ],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 129,
+                "name": "Diagonal-down"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 49,
+                "name": "Football (European) / Soccer"
+            }
+        ],
+        "id": 158358,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/158358/super-action-football/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 29,
+                    "name": "ColecoVision"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Super Action Football"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 162,
+                "name": "Word construction"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 167,
+                "name": "Point and select"
+            }
+        ],
+        "id": 158373,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/158373/word-feud/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 29,
+                    "name": "ColecoVision"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/12547383-word-feud-colecovision-title-screen.png",
+            "platforms": [
+                "ColecoVision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/f88fc644-ac21-11ed-a631-02420a000135.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Game setup screen.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12547389-word-feud-colecovision-game-setup-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f988456c-ac21-11ed-a631-02420a000135.webp",
+                "width": 256
+            },
+            {
+                "caption": "Found the hidden word.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12546201-word-feud-colecovision-found-the-hidden-word.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f787805c-ac21-11ed-8ce3-02420a000131.webp",
+                "width": 256
+            },
+            {
+                "caption": "Find the word in the screen full of letters.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12546038-word-feud-colecovision-find-the-word-in-the-screen-full-of-lette.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f7bd2c7a-ac21-11ed-af3d-02420a00012f.webp",
+                "width": 256
+            },
+            {
+                "caption": "Title screen.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12547383-word-feud-colecovision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f88fc644-ac21-11ed-a631-02420a000135.webp",
+                "width": 256
+            },
+            {
+                "caption": "Picked the wrong letters.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12546204-word-feud-colecovision-picked-the-wrong-letters.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f7a96820-ac21-11ed-8ce3-02420a000131.webp",
+                "width": 256
+            }
+        ],
+        "title": "Word Feud"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>A <a href=\"https://www.mobygames.com/game/9001/breakout/\">Breakout</a> clone for the ColecoVision, <em>Strike It!</em> features six scenes in which the player must use a paddle to break all bricks and hit all animals in order to advance to the next scene.</p>\n<p>Bricks are worth anywhere from 30-80 points, depending on their color, while animals hit are worth either 300 or 500 points. Most scenes also feature a second ball surrounded by bricks, and when freed, the ball enters play as another brick-breaker, though letting it fall past the paddle will also cost the player a life.</p>\n<p>The game includes four difficulty levels and support for one, two, or four players, including both alternating and simultaneous options for the two-player modes.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 64,
+                "name": "Paddle / Pong"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 158518,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/158518/strike-it/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 29,
+                    "name": "ColecoVision"
+                },
+                "1983"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/12508334-strike-it-colecovision-demonstration-mode.png",
+            "platforms": [
+                "ColecoVision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/a9c3c560-ac21-11ed-a484-02420a000130.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "A second ball is freed from the blocks.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12513564-strike-it-colecovision-a-second-ball-is-freed-from-the-blocks.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b6eaeb60-ac21-11ed-82af-02420a000136.webp",
+                "width": 256
+            },
+            {
+                "caption": "Game over.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12513567-strike-it-colecovision-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b72a2528-ac21-11ed-82af-02420a000136.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting a new game. Level one is a pretty basic breakout clone.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12512953-strike-it-colecovision-starting-a-new-game-level-one-is-a-pretty.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ae560f98-ac21-11ed-8949-02420a00012e.webp",
+                "width": 256
+            },
+            {
+                "caption": "Playing level four adds dual paddles, multiple balls and a creature at the top of the screen.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12513561-strike-it-colecovision-playing-level-four-adds-dual-paddles-mult.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b6b19e8c-ac21-11ed-82af-02420a000136.webp",
+                "width": 256
+            },
+            {
+                "caption": "Demonstration mode.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12508334-strike-it-colecovision-demonstration-mode.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a9c3c560-ac21-11ed-a484-02420a000130.webp",
+                "width": 256
+            }
+        ],
+        "title": "Strike It!"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Amazing Bumpman</em> is an educational game for the ColecoVision. Players must maneuver Amazing Bumpman around a playfield of hexagons, attempting to push white digits into their corresponding green hexagons in the center of the playfield while avoiding pincher and whirly enemies. Once two sets of numbers have been successfully filled in, the player must solve the stated arithmetic operation \u2013 either addition or subtraction \u2013 by selecting and pushing the right digits in the third number set.</p>\n<p>The game features four levels of difficulty, which dictate the number of digits that must be pushed, the number of pinchers that appear in the maze and the presence or lack of whirlies.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 43,
+                "name": "Math / logic"
+            }
+        ],
+        "id": 180835,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/180835/amazing-bumpman/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 29,
+                    "name": "ColecoVision"
+                },
+                "1986"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Amazing Bumpman"
+    }
+]

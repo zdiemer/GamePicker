@@ -1,0 +1,3974 @@
+[
+    {
+        "alternate_titles": [
+            {
+                "description": "BBC Micro title (unreleased)",
+                "title": "Alien Destroyers II"
+            }
+        ],
+        "description": "<p><em>Electron Invaders</em> is a <a href=\"https://www.mobygames.com/search/?q=Space+Invaders\">Space Invaders</a> clone with few changes to the gameplay. The player controls his laser base down the bottom of the screen and has to shoot at the aliens moving back and forth above while avoiding their fire. To his help he has three bunkers that offer some protection from fire. In addition to the aliens' regular fire they also drop bombs that explode in mid-air, with shrapnel flying in multiple directions. There are eight different aliens and they differ in points value from ten to eighty. In addition to these there's also a mothership that occasionally passes by at the top of the screen and is worth a larger amount of points. The game can be played by one or two players and each have three lives.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 65837,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/65837/electron-invaders/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 93,
+                    "name": "Electron"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": {
+            "height": 256,
+            "image_url": "https://cdn.mobygames.com/screenshots/16483231-electron-invaders-electron-loading-screen.png",
+            "platforms": [
+                "Electron"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/cbdfd29e-c227-11ed-ab6b-02420a000194.webp",
+            "width": 320
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Getting killed",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16483210-electron-invaders-electron-getting-killed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c9e0e3de-c227-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "A mothership passes by",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16483216-electron-invaders-electron-a-mothership-passes-by.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/caff77bc-c227-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "High score list",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16483204-electron-invaders-electron-high-score-list.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c990243a-c227-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Controls / scoreboard",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16483228-electron-invaders-electron-controls-scoreboard.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cbca7732-c227-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Player 1 starts",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16483222-electron-invaders-electron-player-1-starts.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cb6571ac-c227-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            }
+        ],
+        "title": "Electron Invaders"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>UK PM</em> is a political simulation game where the player gets to become Prime Minister of the United Kingdom and run the country. After selecting a name and one of four parties (Conservative, Labour, S.D.P. and Liberal) the player is presented with several pages of text that shows information about the country's taxes, spending, prices, social benefits etc. The player can then edit these numbers, for example raise the product tax on petrol or spend more money or health services, before progressing. The year will then be played out with graphs showing inflation, popularity and unemployment while messages show if funds are not sufficient in an area. At the start of every new year the player can make further changes.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 172,
+                "name": "Menu structures"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 200,
+                "name": "Contemporary"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 202,
+                "name": "Europe"
+            }
+        ],
+        "id": 91596,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/91596/uk-pm/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 93,
+                    "name": "Electron"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": {
+            "height": 256,
+            "image_url": "https://cdn.mobygames.com/screenshots/16191913-uk-pm-electron-title-screen.png",
+            "platforms": [
+                "Electron"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/2fb060a0-c1cd-11ed-ab6b-02420a000194.webp",
+            "width": 320
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Prices",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16191901-uk-pm-electron-prices.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2f52393a-c1cd-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Changing product taxes",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/15634574-uk-pm-electron-changing-product-taxes.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2bd4e43c-bdeb-11ed-b791-02420a0001bb.webp",
+                "width": 320
+            },
+            {
+                "caption": "Statistics",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16191907-uk-pm-electron-statistics.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2f80b6fc-c1cd-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Social benefits",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16191892-uk-pm-electron-social-benefits.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2efaa29c-c1cd-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Government income",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16191904-uk-pm-electron-government-income.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2f6a5434-c1cd-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            }
+        ],
+        "title": "UK PM"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Pirate Pedro</em> is an educational game that teaches basic mathematics for young children. The game can be played with addition, subtraction or a mixture of both and the difficulty level can be set from 1 to 9. Pirate Pedro has lost all his treasure. It has been taken by naughty green spiders and it's up to the player to get the treasure back. To succeed the player has to answer ten maths questions and if more than seven are correct the spiders will give back the treasure to the poor pirate.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 43,
+                "name": "Math / logic"
+            }
+        ],
+        "id": 93535,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/93535/pirate-pedro/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 93,
+                    "name": "Electron"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": {
+            "height": 256,
+            "image_url": "https://cdn.mobygames.com/screenshots/16219419-pirate-pedro-electron-title-screen.png",
+            "platforms": [
+                "Electron"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/90a2d0e8-c1d5-11ed-ab6b-02420a000194.webp",
+            "width": 320
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Results",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16219180-pirate-pedro-electron-results.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/80112414-c1d5-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Starting out",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16219140-pirate-pedro-electron-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7d29622a-c1d5-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Getting the treasure back",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16219183-pirate-pedro-electron-getting-the-treasure-back.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/802c5b58-c1d5-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Title screen",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16219419-pirate-pedro-electron-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/90a2d0e8-c1d5-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Instructions",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16219146-pirate-pedro-electron-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7d5ef304-c1d5-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            }
+        ],
+        "title": "Pirate Pedro"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Felicity Farm Girl</em> is an educational game that teaches basic mathematics for young children. It's similar to <a href=\"https://www.mobygames.com/game/93535/pirate-pedro/\">Pirate Pedro</a> from the same author but deals with division instead of addition and subtraction. The player has to answer ten division problems given by Daniel Duck. The task is to help Felicity share out bags of oats to her hungry horses. For each question the player enters how many bags each horse should get and if there is a remainder that too needs to be entered. If answering wrong an animation will show Felicity give out the correct amount of oats to the horses.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 43,
+                "name": "Math / logic"
+            }
+        ],
+        "id": 93570,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/93570/felicity-farm-girl/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 93,
+                    "name": "Electron"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": {
+            "height": 256,
+            "image_url": "https://cdn.mobygames.com/screenshots/16219249-felicity-farm-girl-electron-title-screen.png",
+            "platforms": [
+                "Electron"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/84093912-c1d5-11ed-ab6b-02420a000194.webp",
+            "width": 320
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Starting out",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16219243-felicity-farm-girl-electron-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/83d641c4-c1d5-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Instructions",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16219246-felicity-farm-girl-electron-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/83f2885c-c1d5-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Felicity show the correct amount after a wrong answer",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16219300-felicity-farm-girl-electron-felicity-show-the-correct-amount-aft.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/86ef9694-c1d5-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "More and more horses",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16219240-felicity-farm-girl-electron-more-and-more-horses.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/83ba7f66-c1d5-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Results",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16219237-felicity-farm-girl-electron-results.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/83a17c14-c1d5-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            }
+        ],
+        "title": "Felicity Farm Girl"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Play it Again Sam 4</em> is a compilation of three previously released titles for the Electron, and <em>Cosmic Camouflage</em>, which was newly released on this compilation.</p>\n<ul>\n<li><em>Cosmic Camouflage</em></li>\n<li><a href=\"https://www.mobygames.com/game/48639/frak/\">Frak</a></li>\n<li><a href=\"https://www.mobygames.com/game/31706/guardian/\">Guardian</a></li>\n<li><a href=\"https://www.mobygames.com/game/65969/spellbinder/\">Spellbinder</a></li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 212231,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/212231/play-it-again-sam-4/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 93,
+                    "name": "Electron"
+                },
+                "1988"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Play it Again Sam 4"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Play it Again Sam 5</em> is a compilation of previously released Acorn Electron games.</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/game/69445/bug-blaster/\">Bug Blaster</a></li>\n<li><a href=\"https://www.mobygames.com/game/120457/elixir/\">Elixir</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Imogen\">Imogen</a></li>\n<li><a href=\"https://www.mobygames.com/game/150443/moonraider/\">Moonraider</a></li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 212250,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/212250/play-it-again-sam-5/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 93,
+                    "name": "Electron"
+                },
+                "1988"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Play it Again Sam 5"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Video's Revenge</em> is a 1-player vertically-scrolling arcade game for the Acorn Electron.</p>\n<p>The player controls a Federation fighter, the <em>Power Blaster</em>, against invading waves of intergalactic aliens.  The ship can move horizontally, fire vertically upwards, but can also move up and down on the vertically-scrolling screen.  </p>\n<p>A space scanner on the right side of the screen displays the location of enemy vessels.  Alien vessels return fire, and some craft split into smaller pieces when destroyed.  The player can use their available ship energy to fire smart bombs which destroy all enemies on the screen, or engage inviso-flight which temporarily makes the player indestructible.  The player can also engage power blasting by shooting the alien energy balloon 12 times and collecting the energy pack.  </p>\n<p>When time runs out, a number of dangerous alien reinforcements arrive.  The player starts with three lives, and advances to the next level when all aliens are destroyed.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 212256,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/212256/videos-revenge/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 93,
+                    "name": "Electron"
+                },
+                "1985"
+            ]
+        ],
+        "sample_cover": {
+            "height": 512,
+            "image_url": "https://cdn.mobygames.com/screenshots/17875032-videos-revenge-electron-instructions.png",
+            "platforms": [
+                "Electron"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/c641f40c-872a-11ee-b378-02420a000167.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "High Scores",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/17875056-videos-revenge-electron-high-scores.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c923001c-872a-11ee-a8da-02420a000167.webp",
+                "width": 640
+            },
+            {
+                "caption": "High Score Obtained",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/17875080-videos-revenge-electron-high-score-obtained.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cb1cd7ee-872a-11ee-89d6-02420a000166.webp",
+                "width": 640
+            },
+            {
+                "caption": "Title Screen",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/17875048-videos-revenge-electron-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c888c15a-872a-11ee-a89c-02420a000166.webp",
+                "width": 640
+            },
+            {
+                "caption": "Starting Stage 1",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/17875060-videos-revenge-electron-starting-stage-1.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c96ae5f8-872a-11ee-8bf6-02420a000162.webp",
+                "width": 640
+            },
+            {
+                "caption": "Red Enemy Attacks",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/17875076-videos-revenge-electron-red-enemy-attacks.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cad57872-872a-11ee-89d6-02420a000166.webp",
+                "width": 640
+            }
+        ],
+        "title": "Video's Revenge"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Play it Again Sam 6</em> is a compilation for the Acorn Electron containing the following:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/game/187297/galaforce-2/\">Galaforce 2</a></li>\n<li><a href=\"https://www.mobygames.com/game/198690/hopper/\">Hopper</a></li>\n<li><a href=\"https://www.mobygames.com/game/23031/hunchback/\">Hunchback</a></li>\n<li><a href=\"https://www.mobygames.com/game/212256/videos-revenge/\">Video's Revenge</a></li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 212275,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/212275/play-it-again-sam-6/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 93,
+                    "name": "Electron"
+                },
+                "1988"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Play it Again Sam 6"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Action Pack 2</em> is a compilation of four games for the Electron, two of which had not been previously released.</p>\n<ul>\n<li><em>Diamond Pete</em>: A <a href=\"https://www.mobygames.com/search/?q=Boulder+Dash\">Boulder Dash</a> clone</li>\n<li><em>Q-Bix</em>: A <a href=\"https://www.mobygames.com/search/?q=Q*Bert\">Q*Bert</a> clone</li>\n<li><a href=\"https://www.mobygames.com/search/?q=Tarzan\">Tarzan</a>: A side-scrolling action game</li>\n<li><a href=\"https://www.mobygames.com/game/212256/videos-revenge/\">Video's Revenge</a>: A vertically-scrolling space shooter</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 213031,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/213031/action-pack-2/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 93,
+                    "name": "Electron"
+                },
+                "1986"
+            ]
+        ],
+        "sample_cover": {
+            "height": 512,
+            "image_url": "https://cdn.mobygames.com/screenshots/17931381-action-pack-2-electron-qbix-title.png",
+            "platforms": [
+                "Electron"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/c4353856-8fb6-11ee-a3e8-02420a000179.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Q*Bix: Instructions",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/17931385-action-pack-2-electron-qbix-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c480f368-8fb6-11ee-888b-02420a000176.webp",
+                "width": 640
+            },
+            {
+                "caption": "Q*Bix: The Pyramid Changes Mid-Level",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/17931393-action-pack-2-electron-qbix-the-pyramid-changes-mid-level.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c51e34b6-8fb6-11ee-a54b-02420a000176.webp",
+                "width": 640
+            },
+            {
+                "caption": "Q*Bix: Title",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/17931381-action-pack-2-electron-qbix-title.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c4353856-8fb6-11ee-a3e8-02420a000179.webp",
+                "width": 640
+            },
+            {
+                "caption": "Q*Bix: Game Over",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/17931397-action-pack-2-electron-qbix-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c56ac632-8fb6-11ee-a3e8-02420a000179.webp",
+                "width": 640
+            },
+            {
+                "caption": "Diamond Pete: High Score",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/17931421-action-pack-2-electron-diamond-pete-high-score.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fe50519c-8fb6-11ee-bc6a-02420a000179.webp",
+                "width": 640
+            }
+        ],
+        "title": "Action Pack 2"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "In game title",
+                "title": "Sliding Block Puzzle"
+            }
+        ],
+        "description": "<p><em>Shuffle</em> is a 4 x 4 sliding-block puzzle game for the Electron.  There are 10 different pictures to solve.  There are three levels of difficulty that determine the amount of shuffling.  All solutions are timed.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            }
+        ],
+        "id": 213041,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/213041/shuffle/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 93,
+                    "name": "Electron"
+                },
+                "1985"
+            ]
+        ],
+        "sample_cover": {
+            "height": 512,
+            "image_url": "https://cdn.mobygames.com/screenshots/17931771-shuffle-electron-title-screen.png",
+            "platforms": [
+                "Electron"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/297623ea-8fbe-11ee-8590-02420a000174.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Union Jack",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/17931783-shuffle-electron-union-jack.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2b10af9a-8fbe-11ee-a3bc-02420a000176.webp",
+                "width": 640
+            },
+            {
+                "caption": "Shuffled Flag",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/17931787-shuffle-electron-shuffled-flag.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2b6188f2-8fbe-11ee-8590-02420a000174.webp",
+                "width": 640
+            },
+            {
+                "caption": "Choose a Picture",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/17931779-shuffle-electron-choose-a-picture.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2a9a003e-8fbe-11ee-82f1-02420a000179.webp",
+                "width": 640
+            },
+            {
+                "caption": "Title Screen",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/17931771-shuffle-electron-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/297623ea-8fbe-11ee-8590-02420a000174.webp",
+                "width": 640
+            },
+            {
+                "caption": "It's a House",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/17931791-shuffle-electron-its-a-house.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2be685fc-8fbe-11ee-bc6a-02420a000179.webp",
+                "width": 640
+            }
+        ],
+        "title": "Shuffle"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Bumper Bundle</em> is a compilation of four games for the Electron, two of which were not previously released:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/search/?q=Bug+Blaster\">Bug Blaster</a>: A <a href=\"https://www.mobygames.com/search/?q=Centipede\">Centipede</a> clone</li>\n<li><em>Hell-Hole</em>: A <a href=\"https://www.mobygames.com/search/?q=Boulder+Dash\">Boulder Dash</a> clone where the player collects diamonds with a tank while avoiding falling aliens</li>\n<li><a href=\"https://www.mobygames.com/search/?q=Lunar+Rescue\">Lunar Rescue</a>: A clone of the arcade game of the same name</li>\n<li><em>The Crown Jewels</em>: A text adventure where the player explores London to find the stolen Crown Jewels</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 23,
+                "name": "Interactive fiction / text adventure"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 202,
+                "name": "Europe"
+            }
+        ],
+        "id": 213075,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/213075/bumper-bundle/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 93,
+                    "name": "Electron"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": {
+            "height": 512,
+            "image_url": "https://cdn.mobygames.com/screenshots/17934033-bumper-bundle-electron-the-crown-jewels-title-screen.png",
+            "platforms": [
+                "Electron"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/3963d438-9030-11ee-8cdb-02420a000174.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "The Crown Jewels: Title Screen",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/17934033-bumper-bundle-electron-the-crown-jewels-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3963d438-9030-11ee-8cdb-02420a000174.webp",
+                "width": 640
+            },
+            {
+                "caption": "Hell-Hole: High Scores",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/17934163-bumper-bundle-electron-hell-hole-high-scores.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f48a191e-9032-11ee-a54b-02420a000176.webp",
+                "width": 640
+            },
+            {
+                "caption": "The Crown Jewels: Drugs",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/17934065-bumper-bundle-electron-the-crown-jewels-drugs.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3bfdeb98-9030-11ee-888b-02420a000176.webp",
+                "width": 640
+            },
+            {
+                "caption": "The Crown Jewels: Found a Gold Ring",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/17934041-bumper-bundle-electron-the-crown-jewels-found-a-gold-ring.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3a0c92e4-9030-11ee-bfcf-02420a000179.webp",
+                "width": 640
+            },
+            {
+                "caption": "The Crown Jewels: The Jewels are Stolen",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/17934037-bumper-bundle-electron-the-crown-jewels-the-jewels-are-stolen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/39bcc2fa-9030-11ee-a7cc-02420a00017a.webp",
+                "width": 640
+            }
+        ],
+        "title": "Bumper Bundle"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Walk the Plank</em> is a 1-player science fiction version of <a href=\"https://www.mobygames.com/search/?q=Connect+Four\">Connect Four</a>.</p>\n<p>Mistertronic has been sent on a mission of mercy to the planet Grebus.  The planet is devastated, and its inhabitants, the Purple People Eaters and the Martians, are in suspended animation and must be teleported to the nearest suitable planet.  </p>\n<p>The player and computer take turns making an alien walk the plank to fall into one of seven columns.  The player's goal is to get four purple aliens in a row either vertically, horizontally, or on an angle.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            }
+        ],
+        "id": 214653,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/214653/walk-the-plank/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 93,
+                    "name": "Electron"
+                },
+                "1985"
+            ]
+        ],
+        "sample_cover": {
+            "height": 512,
+            "image_url": "https://cdn.mobygames.com/screenshots/18039649-walk-the-plank-electron-title-screen.png",
+            "platforms": [
+                "Electron"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/14d6f654-a56b-11ee-8c2e-02420a000144.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Diving In",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18039657-walk-the-plank-electron-diving-in.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/15a5af76-a56b-11ee-850a-02420a000149.webp",
+                "width": 640
+            },
+            {
+                "caption": "Choosing a Column",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18039653-walk-the-plank-electron-choosing-a-column.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/15329770-a56b-11ee-9a65-02420a000143.webp",
+                "width": 640
+            },
+            {
+                "caption": "Current Game",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18039661-walk-the-plank-electron-current-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/15fd87f0-a56b-11ee-8996-02420a000143.webp",
+                "width": 640
+            },
+            {
+                "caption": "Title Screen",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18039649-walk-the-plank-electron-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/14d6f654-a56b-11ee-8c2e-02420a000144.webp",
+                "width": 640
+            }
+        ],
+        "title": "Walk the Plank"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "In-game title",
+                "title": "Star Maze"
+            },
+            {
+                "description": "In-game title",
+                "title": "Star Maze II"
+            }
+        ],
+        "description": "<p><em>Starmaze 2</em> is a 3D maze game for the Electron.</p>\n<p>Banished to the Star Maze after stealing the Emperor's jewels, the player finds themselves in a 3D maze which is constructed on a platform in space.</p>\n<p>The player can turn left or right, and move backwards or forwards.  The player must navigate the map before all energy is lost.  A map is available at all times, and current coordinates, distance to exit, and energy levels are displayed.  All moves and viewing the map costs energy.  The player can chooses maps from 5 x 5 to 12 x 12 in size.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            }
+        ],
+        "id": 214730,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/214730/starmaze-2/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 93,
+                    "name": "Electron"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": {
+            "height": 512,
+            "image_url": "https://cdn.mobygames.com/screenshots/18042084-starmaze-2-electron-title-screen.png",
+            "platforms": [
+                "Electron"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/877dc8d0-a5ee-11ee-972e-02420a000156.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Title Screen",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18042084-starmaze-2-electron-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/877dc8d0-a5ee-11ee-972e-02420a000156.webp",
+                "width": 640
+            },
+            {
+                "caption": "Found the Exit",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18042104-starmaze-2-electron-found-the-exit.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/892b5eae-a5ee-11ee-aa27-02420a000159.webp",
+                "width": 640
+            },
+            {
+                "caption": "Instructions",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18042088-starmaze-2-electron-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/87deb8e8-a5ee-11ee-9168-02420a000156.webp",
+                "width": 640
+            },
+            {
+                "caption": "Twisting Corridors",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18042100-starmaze-2-electron-twisting-corridors.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/88d880e4-a5ee-11ee-a449-02420a000158.webp",
+                "width": 640
+            },
+            {
+                "caption": "12 x 12 Map",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18042112-starmaze-2-electron-12-x-12-map.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/89fb7d00-a5ee-11ee-9294-02420a000157.webp",
+                "width": 640
+            }
+        ],
+        "title": "Starmaze 2"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Four Great Games: Volume 3</em> is a compilation of three previously released games for the Electron and one new release.</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/search/?q=Goal!\">Goal!</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Space+Caverns\">Space Caverns</a></li>\n<li>\n<p><a href=\"https://www.mobygames.com/search/?q=US+Drag+Race\">US Drag Race</a></p>\n</li>\n<li>\n<p><em>Kastle</em>: A game released only with this collection. The player controls a knight who travels through the Castle of Keldon Forest.  The knight moves along platforms, and can climb up and down ladders and flip switches.  Switches raise gates and lower or raise platforms.  The knight can swing his sword a short distance to defeat flying birds, skeletons, and must avoid dragon fire.  The player starts with three lives, and loses a life if they're hit.</p>\n</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 216774,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/216774/four-great-games-volume-3/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 93,
+                    "name": "Electron"
+                },
+                "1988"
+            ]
+        ],
+        "sample_cover": {
+            "height": 512,
+            "image_url": "https://cdn.mobygames.com/screenshots/18180121-four-great-games-volume-3-electron-title-screen.png",
+            "platforms": [
+                "Electron"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/a18b3822-bfdc-11ee-80f9-02420a0001c6.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Crossing a Platforms",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18180145-four-great-games-volume-3-electron-crossing-a-platforms.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a3eb9cce-bfdc-11ee-af51-02420a0001c9.webp",
+                "width": 640
+            },
+            {
+                "caption": "A Dragon",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18180153-four-great-games-volume-3-electron-a-dragon.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a4a97bfe-bfdc-11ee-b892-02420a0001c9.webp",
+                "width": 640
+            },
+            {
+                "caption": "Instructions",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18180117-four-great-games-volume-3-electron-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a126b938-bfdc-11ee-85a3-02420a0001c6.webp",
+                "width": 640
+            },
+            {
+                "caption": "Climbing a Ladder",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18180141-four-great-games-volume-3-electron-climbing-a-ladder.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a388ab96-bfdc-11ee-b1ab-02420a0001c6.webp",
+                "width": 640
+            },
+            {
+                "caption": "A Closed Gate",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18180137-four-great-games-volume-3-electron-a-closed-gate.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a32bb7f6-bfdc-11ee-9e79-02420a0001c5.webp",
+                "width": 640
+            }
+        ],
+        "title": "Four Great Games: Volume 3"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Four Great Games: Volume 2</em> is a collection of four previously-released games for the Electron.</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/search/?q=Gunsmoke\">Gunsmoke</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Mega+Force\">Mega Force</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Mousetrap\">Mousetrap</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=The+Great+Wall\">The Great Wall</a></li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 216944,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/216944/four-great-games-volume-2/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 93,
+                    "name": "Electron"
+                },
+                "1987"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Four Great Games: Volume 2"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Four Great Games</em> is a compilation of four previously released games for the Electron.</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/search/?q=Alphatron\">Alphatron</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Rig+Attack\">Rig Attack</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Vindaloo\">Vindaloo</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Wet+Zone\">Wet Zone</a></li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 216987,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/216987/four-great-games/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 93,
+                    "name": "Electron"
+                },
+                "1987"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Four Great Games"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>10 Computer Hits 2</em> is a compilation of 10 previously-released games for the Electron.</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/game/29402/circus/\">Circus</a></li>\n<li><a href=\"https://www.mobygames.com/game/57470/frenzy/\">Frenzy</a></li>\n<li><a href=\"https://www.mobygames.com/game/30031/jet-boot-jack/\">Jet Boot Jack</a></li>\n<li><a href=\"https://www.mobygames.com/game/37248/jet-power-jack/\">Jet Power Jack</a></li>\n<li><a href=\"https://www.mobygames.com/game/164827/kissin-kousins/\">Kissin' Kousins</a></li>\n<li><a href=\"https://www.mobygames.com/game/150442/ski-er-64/\">Moonraider</a></li>\n<li><a href=\"https://www.mobygames.com/game/83815/mr-wiz/\">Mr. Wiz</a></li>\n<li><a href=\"https://www.mobygames.com/game/39602/percy-penguin/\">Percy Penguin</a></li>\n<li><a href=\"https://www.mobygames.com/game/212792/smash-and-grab/\">Smash and Grab</a></li>\n<li><a href=\"https://www.mobygames.com/game/212256/videos-revenge/\">Video's Revenge</a></li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 218623,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218623/10-computer-hits-2/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 93,
+                    "name": "Electron"
+                },
+                "1986"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "10 Computer Hits 2"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>10 Computer Hits</em> is a compilation of 10 computer games for the Electron.</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/game/16344/chuckie-egg/\">Chuckie Egg</a></li>\n<li><a href=\"https://www.mobygames.com/game/13008/eddie-kidd-jump-challenge/\">Eddie Kidd Jump Challenge</a></li>\n<li><a href=\"https://www.mobygames.com/game/32926/felix-in-the-factory/\">Felix in the Factory</a></li>\n<li><a href=\"https://www.mobygames.com/game/70005/ghouls/\">Ghouls</a></li>\n<li><a href=\"https://www.mobygames.com/game/219044/gisburnes-castle/\">Gisburne's Castle</a></li>\n<li><a href=\"https://www.mobygames.com/game/31706/guardian/\">Guardian</a></li>\n<li><a href=\"https://www.mobygames.com/game/48980/killer-gorilla/\">Killer Gorilla</a></li>\n<li><a href=\"https://www.mobygames.com/game/213095/night-world/\">Nightworld</a></li>\n<li><a href=\"https://www.mobygames.com/game/147759/gauntlet/\">The Gauntlet</a></li>\n<li><a href=\"https://www.mobygames.com/game/63852/special-operations/\">Special Operations</a></li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 218626,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218626/10-computer-hits/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 93,
+                    "name": "Electron"
+                },
+                "1985"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "10 Computer Hits"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>10 Computer Hits 3</em> is a compilation of 10 previously-released games for the Electron.</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/game/59327/alien-dropout/\">Alien Dropout</a></li>\n<li><a href=\"https://www.mobygames.com/game/61828/brian-jacks-superstar-challenge/\">Brian Jacks Superstar Challenge</a></li>\n<li><a href=\"https://www.mobygames.com/game/195791/centipede/\">Centibug</a></li>\n<li><a href=\"https://www.mobygames.com/game/82330/danger-uxb/\">Danger UXB</a></li>\n<li><a href=\"https://www.mobygames.com/game/32926/felix-in-the-factory/\">Feelix in the Factory</a></li>\n<li><a href=\"https://www.mobygames.com/game/212335/felix-meets-the-evil-weevils/\">Felix Meets the Evil Weevils</a></li>\n<li><a href=\"https://www.mobygames.com/game/213236/tarzan/\">Jungle Boy</a></li>\n<li><a href=\"https://www.mobygames.com/game/218624/mineshaft/\">Mine Shaft</a></li>\n<li><a href=\"https://www.mobygames.com/game/64006/snooker/\">Snooker</a></li>\n<li><a href=\"https://www.mobygames.com/game/164909/stranded/\">Stranded</a></li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 218627,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218627/10-computer-hits-3/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 93,
+                    "name": "Electron"
+                },
+                "1986"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "10 Computer Hits 3"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Lunar Lander</em> is a 1-player arcade game for the Electron.</p>\n<p>The player tries to land their vessel on a flat landing surface by controlling vertical and horizontal thrust, while gravity pulls the craft down.  The player has limited fuel to make a landing, and must land with minimal vertical or horizontal momentum.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 222479,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/222479/lunar-lander/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 93,
+                    "name": "Electron"
+                },
+                "1984-02"
+            ]
+        ],
+        "sample_cover": {
+            "height": 512,
+            "image_url": "https://cdn.mobygames.com/screenshots/18558937-lunar-lander-electron-instructions.png",
+            "platforms": [
+                "Electron"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/7076852c-0035-11ef-bd6d-02420a00012d.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Instructions",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18558937-lunar-lander-electron-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7076852c-0035-11ef-bd6d-02420a00012d.webp",
+                "width": 640
+            },
+            {
+                "caption": "Getting Closer",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18558945-lunar-lander-electron-getting-closer.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/71068be0-0035-11ef-875b-02420a000133.webp",
+                "width": 640
+            },
+            {
+                "caption": "Preparing to Land",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18558941-lunar-lander-electron-preparing-to-land.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/70c0cd30-0035-11ef-b42a-02420a000131.webp",
+                "width": 640
+            },
+            {
+                "caption": "Next Landing",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18558953-lunar-lander-electron-next-landing.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/719740ae-0035-11ef-bd6d-02420a00012d.webp",
+                "width": 640
+            },
+            {
+                "caption": "Successful Landing",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18558949-lunar-lander-electron-successful-landing.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/715295b2-0035-11ef-a114-02420a000133.webp",
+                "width": 640
+            }
+        ],
+        "title": "Lunar Lander"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Fishing</em> is a 1-player fishing game for the Electron.</p>\n<p>The player has just entered the United Kingdom Fishing Contest, and are competing against six top anglers.  The player starts by entering their name and the type of tackle they plan on using: hook size, type of bait, fishing depth, and ounces of lead shot for weight.  There are a total of 600 lbs of fish of varying weights in the stocked lake, as well as several 40 lb pike.  The player is displayed fishing beside the lake.  When a fish takes the line the player must repeatedly press a key to reel them in.  If the fish swims off screen it is lost.  At the end of 5 minutes of fishing the tournament results are displayed.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 18,
+                "name": "Fishing"
+            }
+        ],
+        "id": 222682,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/222682/fishing/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 93,
+                    "name": "Electron"
+                },
+                "1986-06"
+            ]
+        ],
+        "sample_cover": {
+            "height": 512,
+            "image_url": "https://cdn.mobygames.com/screenshots/18569739-fishing-electron-title-screen.png",
+            "platforms": [
+                "Electron"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/66181dc2-02e5-11ef-bf26-02420a00012d.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Choosing Bait",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18569744-fishing-electron-choosing-bait.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/667baa2c-02e5-11ef-b2cf-02420a00012d.webp",
+                "width": 640
+            },
+            {
+                "caption": "Fishing Closer",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18569756-fishing-electron-fishing-closer.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/67a59a3e-02e5-11ef-b087-02420a00012f.webp",
+                "width": 640
+            },
+            {
+                "caption": "Title Screen",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18569739-fishing-electron-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/66181dc2-02e5-11ef-bf26-02420a00012d.webp",
+                "width": 640
+            },
+            {
+                "caption": "Tournament Results",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18569760-fishing-electron-tournament-results.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/68017bc4-02e5-11ef-9288-02420a00012d.webp",
+                "width": 640
+            },
+            {
+                "caption": "Fishing Far Out",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18569752-fishing-electron-fishing-far-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/674c864c-02e5-11ef-ae60-02420a000131.webp",
+                "width": 640
+            }
+        ],
+        "title": "Fishing"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Howzat!</em> is a 2-player arcade game for the Electron.</p>\n<p>Played England versus Australia, the players start by choosing their 6 batters and order from their team roster.  Batter prowess is displayed.  The field is displayed on screen and bowling and batting occur automatically.  When the batter hits, they choose to run or stay at each wicket.  Fielder movement is displayed, and the player must stop running before getting out. Score and batter selection is displayed after each batter.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 73,
+                "name": "Cricket"
+            }
+        ],
+        "id": 222715,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/222715/howzat/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 93,
+                    "name": "Electron"
+                },
+                "1986-08"
+            ]
+        ],
+        "sample_cover": {
+            "height": 512,
+            "image_url": "https://cdn.mobygames.com/screenshots/18572803-howzat-electron-instructions.png",
+            "platforms": [
+                "Electron"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/341cf89a-0369-11ef-80d2-02420a00012f.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Run?",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18572823-howzat-electron-run.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/360608b8-0369-11ef-ae4d-02420a000133.webp",
+                "width": 640
+            },
+            {
+                "caption": "Run Out",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18572827-howzat-electron-run-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3665b3c6-0369-11ef-9288-02420a00012d.webp",
+                "width": 640
+            },
+            {
+                "caption": "Game Statistics",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18572815-howzat-electron-game-statistics.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/351d20a8-0369-11ef-b2cf-02420a00012d.webp",
+                "width": 640
+            },
+            {
+                "caption": "Choose Teams",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18572807-howzat-electron-choose-teams.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3466ab66-0369-11ef-80d2-02420a00012f.webp",
+                "width": 640
+            },
+            {
+                "caption": "Choose Batters",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18572811-howzat-electron-choose-batters.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/34b9da0c-0369-11ef-9288-02420a00012d.webp",
+                "width": 640
+            }
+        ],
+        "title": "Howzat!"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Golf</em> is a 1\u20135 player golf game for the Electron.</p>\n<p>Played from a top-down perspective, each stroke the player chooses from eight directions to hit the ball and a power level from 1\u2013200.  The goal is to reach the hole is randomly generated, has a fairway, and can have bunkers, trees, or lakes.  There is no score for individual holes, and the number of strokes is calculated across nine holes.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 35,
+                "name": "Golf"
+            }
+        ],
+        "id": 222750,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/222750/golf/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 93,
+                    "name": "Electron"
+                },
+                "1984-07"
+            ]
+        ],
+        "sample_cover": {
+            "height": 512,
+            "image_url": "https://cdn.mobygames.com/screenshots/18574511-golf-electron-title-screen.png",
+            "platforms": [
+                "Electron"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/97568d96-03ae-11ef-9ee5-02420a000133.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Title Screen",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18574511-golf-electron-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/97568d96-03ae-11ef-9ee5-02420a000133.webp",
+                "width": 640
+            },
+            {
+                "caption": "4 Strokes",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18574523-golf-electron-4-strokes.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/98a275e8-03ae-11ef-8574-02420a000131.webp",
+                "width": 640
+            },
+            {
+                "caption": "Here's Bunkers",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18574528-golf-electron-heres-bunkers.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/993b284c-03ae-11ef-8d6e-02420a00012f.webp",
+                "width": 640
+            },
+            {
+                "caption": "Dangers",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18574515-golf-electron-dangers.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/97b0d5b2-03ae-11ef-bf26-02420a00012d.webp",
+                "width": 640
+            },
+            {
+                "caption": "Choosing the Direction",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18574519-golf-electron-choosing-the-direction.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/980cd70e-03ae-11ef-b2cf-02420a00012d.webp",
+                "width": 640
+            }
+        ],
+        "title": "Golf"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "In-game title",
+                "title": "Snap-Dragon"
+            }
+        ],
+        "description": "<p><em>Snap Dragon</em> is a 2-player arcade card game for the Electron.</p>\n<p>Cards are automatically played one at a time on the table.  If two cards of the same number are played in sequence, then the first player to press their button gains a point.  There is no detriment to pressing the button at the wrong time.  Score is demonstrated on the edge of the screen as a counter that moves upwards.  The first player to fill their meter releases their dragon, which burns the opposing player.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            }
+        ],
+        "id": 222828,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/222828/snap-dragon/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 93,
+                    "name": "Electron"
+                },
+                "1986-07"
+            ]
+        ],
+        "sample_cover": {
+            "height": 512,
+            "image_url": "https://cdn.mobygames.com/screenshots/18579134-snap-dragon-electron-instructions.png",
+            "platforms": [
+                "Electron"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/5e037e30-043c-11ef-b068-02420a000140.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Game Setup",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18579138-snap-dragon-electron-game-setup.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5e662ae4-043c-11ef-925f-02420a00013f.webp",
+                "width": 640
+            },
+            {
+                "caption": "Instructions",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18579134-snap-dragon-electron-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5e037e30-043c-11ef-b068-02420a000140.webp",
+                "width": 640
+            },
+            {
+                "caption": "Placing Cards",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18579146-snap-dragon-electron-placing-cards.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5f0ed39c-043c-11ef-a805-02420a00013e.webp",
+                "width": 640
+            },
+            {
+                "caption": "Burning the Opponent",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18579154-snap-dragon-electron-burning-the-opponent.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5fd26ae6-043c-11ef-a9f6-02420a00013d.webp",
+                "width": 640
+            },
+            {
+                "caption": "Snap",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18579150-snap-dragon-electron-snap.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5f655744-043c-11ef-9c0d-02420a00013d.webp",
+                "width": 640
+            }
+        ],
+        "title": "Snap Dragon"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Cavern Capers</em> is a 1-player side-scrolling arcade game for the Electron.</p>\n<p>The player's mission to destroy the enemy base deep within planet Zargo has been a success.  The player has now stolen a small enemy fighter from the base, and must fly it through a maze of tunnels back to the surface of the planet.  The player controls a small vessel that can move up and down, thrust forwards, and fire directly forwards.  The player has limited fuel, and must shoot oil drums to recharge.  The player must avoid striking walls or enemy patrol craft that move vertically on the screen.  The player gains points for how long they survive, and starts with 4 lives.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 222830,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/222830/cavern-capers/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 93,
+                    "name": "Electron"
+                },
+                "1986-09"
+            ]
+        ],
+        "sample_cover": {
+            "height": 512,
+            "image_url": "https://cdn.mobygames.com/screenshots/18579198-cavern-capers-electron-instructions.png",
+            "platforms": [
+                "Electron"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/e3f4e23e-043e-11ef-9065-02420a00013f.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "High Score Table",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18579214-cavern-capers-electron-high-score-table.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e5627942-043e-11ef-9943-02420a00013f.webp",
+                "width": 640
+            },
+            {
+                "caption": "Crashed",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18579206-cavern-capers-electron-crashed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e4a9368a-043e-11ef-a9f6-02420a00013d.webp",
+                "width": 640
+            },
+            {
+                "caption": "Instructions",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18579198-cavern-capers-electron-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e3f4e23e-043e-11ef-9065-02420a00013f.webp",
+                "width": 640
+            },
+            {
+                "caption": "High Score",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18579210-cavern-capers-electron-high-score.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e507706a-043e-11ef-b068-02420a000140.webp",
+                "width": 640
+            },
+            {
+                "caption": "Starting my Escape",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18579202-cavern-capers-electron-starting-my-escape.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e4594e18-043e-11ef-9a7a-02420a00013e.webp",
+                "width": 640
+            }
+        ],
+        "title": "Cavern Capers"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Castles of Sand</em> is a 1-player action game for the Electron.</p>\n<p>The player tries to fill in the outline of a sand castle by picking up blocks of sand from the shore and positioning them over the red castle outline at the bottom of the screen.  The player moves in the cardinal directions, and can pick up and drop blocks of sand either above or below the player.</p>\n<p>The water at the top of the screen begins to rise, and will start to eat away at the sand.  If the water eats through the sand it will move in a large line towards the bottom of the screen.  If the player touches water, has their castle destroyed, or runs out of time, it's game over.</p>\n<p>The sand worm moves horizontally across the screen, and can steal the player's sand.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 222841,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/222841/castles-of-sand/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 93,
+                    "name": "Electron"
+                },
+                "1984-08"
+            ]
+        ],
+        "sample_cover": {
+            "height": 512,
+            "image_url": "https://cdn.mobygames.com/screenshots/18580458-castles-of-sand-electron-title-screen.png",
+            "platforms": [
+                "Electron"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/049ff246-0483-11ef-b3bf-02420a00013f.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Sandworm Moves Across the Screen",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18580479-castles-of-sand-electron-sandworm-moves-across-the-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/06403cd2-0483-11ef-84e4-02420a00013d.webp",
+                "width": 640
+            },
+            {
+                "caption": "Level Complete",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18580498-castles-of-sand-electron-level-complete.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/07a7359e-0483-11ef-b3bf-02420a00013f.webp",
+                "width": 640
+            },
+            {
+                "caption": "Water Breaks Through",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18580484-castles-of-sand-electron-water-breaks-through.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/06947252-0483-11ef-9916-02420a00013e.webp",
+                "width": 640
+            },
+            {
+                "caption": "Title Screen",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18580458-castles-of-sand-electron-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/049ff246-0483-11ef-b3bf-02420a00013f.webp",
+                "width": 640
+            },
+            {
+                "caption": "Almost Complete",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18580494-castles-of-sand-electron-almost-complete.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0735d372-0483-11ef-a762-02420a000140.webp",
+                "width": 640
+            }
+        ],
+        "title": "Castles of Sand"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>A Day at the Races</em> is a 1\u20132 player horse race gambling game for the Electron.</p>\n<p>The player starts with \u00a3150, and decides to spend the day at the races.  At the beginning of each round the player chooses from one of five horses, and is given betting odds.  The player chooses the horse and how much to bet, and then watches the horse race take place.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            }
+        ],
+        "id": 222857,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/222857/a-day-at-the-races/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 93,
+                    "name": "Electron"
+                },
+                "1986-11"
+            ]
+        ],
+        "sample_cover": {
+            "height": 512,
+            "image_url": "https://cdn.mobygames.com/screenshots/18581159-a-day-at-the-races-electron-main-menu.png",
+            "platforms": [
+                "Electron"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/337d663c-04ad-11ef-9c0d-02420a00013d.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Set a Bet",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18581171-a-day-at-the-races-electron-set-a-bet.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/34a21666-04ad-11ef-9144-02420a000140.webp",
+                "width": 640
+            },
+            {
+                "caption": "Main Menu",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18581159-a-day-at-the-races-electron-main-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/337d663c-04ad-11ef-9c0d-02420a00013d.webp",
+                "width": 640
+            },
+            {
+                "caption": "I Lose",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18581179-a-day-at-the-races-electron-i-lose.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/357c8a58-04ad-11ef-925f-02420a00013f.webp",
+                "width": 640
+            },
+            {
+                "caption": "Choose a Horse",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18581167-a-day-at-the-races-electron-choose-a-horse.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3446c428-04ad-11ef-925f-02420a00013f.webp",
+                "width": 640
+            },
+            {
+                "caption": "Horse Race",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18581175-a-day-at-the-races-electron-horse-race.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/350363f8-04ad-11ef-a9f6-02420a00013d.webp",
+                "width": 640
+            }
+        ],
+        "title": "A Day at the Races"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Grand Prix</em> is a 1-player top-down racing game for the Electron.</p>\n<p>The player and three computer-controlled cars race around a circular track with chicanes.  The player and computer opponents move at a set rate.  The computer opponents only moves in the cardinal directions, while the computer moves in eight directions.  If the player comes in first in the race, they move to the next race which has two further laps and faster moving vehicles.  There are a total of 11 races.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 192,
+                "name": "Track racing"
+            }
+        ],
+        "id": 222866,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/222866/grand-prix/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 93,
+                    "name": "Electron"
+                },
+                "1986-03"
+            ]
+        ],
+        "sample_cover": {
+            "height": 512,
+            "image_url": "https://cdn.mobygames.com/screenshots/18582769-grand-prix-electron-instructions.png",
+            "platforms": [
+                "Electron"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/09989a36-04d4-11ef-9065-02420a00013f.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "I Lost",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18582785-grand-prix-electron-i-lost.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0baed204-04d4-11ef-9c0d-02420a00013d.webp",
+                "width": 640
+            },
+            {
+                "caption": "Game Over",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18582789-grand-prix-electron-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0c045d32-04d4-11ef-ac2b-02420a00013d.webp",
+                "width": 640
+            },
+            {
+                "caption": "I Won the Race",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18582793-grand-prix-electron-i-won-the-race.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0c4de0b0-04d4-11ef-b068-02420a000140.webp",
+                "width": 640
+            },
+            {
+                "caption": "Chasing the Lead",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18582781-grand-prix-electron-chasing-the-lead.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0b57cc70-04d4-11ef-a6e1-02420a00013f.webp",
+                "width": 640
+            },
+            {
+                "caption": "Instructions",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18582769-grand-prix-electron-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/09989a36-04d4-11ef-9065-02420a00013f.webp",
+                "width": 640
+            }
+        ],
+        "title": "Grand Prix"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Manic Mole!</em> is a 1-player arcade game for the Electron.  </p>\n<p>Martin Mole's girlfriend Mavis Mole has been wrongly arrested for leaking documents to a paper.  Martin must collect 11 jewels for her bail.  Martin can move left, right, and jump between platforms.  On each level, Martin's goal is to reach the diamond, and then exit from the screen before time runs out.  There are 12 levels in total. The player starts with three lives, and loses a life if they fall off the bottom of the screen or run out of time.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 222871,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/222871/manic-mole/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 93,
+                    "name": "Electron"
+                },
+                "1985-07"
+            ]
+        ],
+        "sample_cover": {
+            "height": 512,
+            "image_url": "https://cdn.mobygames.com/screenshots/18583043-manic-mole-electron-title-screen.png",
+            "platforms": [
+                "Electron"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/77f23352-04fc-11ef-8c6c-02420a00013d.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Starting Level 1",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18583051-manic-mole-electron-starting-level-1.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/78a9e5e2-04fc-11ef-a762-02420a000140.webp",
+                "width": 640
+            },
+            {
+                "caption": "Heading for the Exit",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18583059-manic-mole-electron-heading-for-the-exit.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7962d4ee-04fc-11ef-a00c-02420a00013d.webp",
+                "width": 640
+            },
+            {
+                "caption": "Bottomless Pit",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18583063-manic-mole-electron-bottomless-pit.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/79d659e6-04fc-11ef-9065-02420a00013f.webp",
+                "width": 640
+            },
+            {
+                "caption": "Reached the Diamond",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18583055-manic-mole-electron-reached-the-diamond.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/79004de2-04fc-11ef-87cb-02420a00013e.webp",
+                "width": 640
+            },
+            {
+                "caption": "Impossible Screen?",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18583067-manic-mole-electron-impossible-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7a3b580a-04fc-11ef-a198-02420a00013f.webp",
+                "width": 640
+            }
+        ],
+        "title": "Manic Mole!"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Bunny Blitz</em> is a 1-player arcade game for the Electron.</p>\n<p>The player goes hunting for Easter eggs on a screen filled with bunnies and eggs.  The player moves in the cardinal directions, and has limited time to gather all of the eggs.  The character continuously moves, and gains points for collecting eggs, but loses points for running over bunnies.  Difficulty varies from 2\u201340.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 222902,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/222902/bunny-blitz/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 93,
+                    "name": "Electron"
+                },
+                "1984-04"
+            ]
+        ],
+        "sample_cover": {
+            "height": 512,
+            "image_url": "https://cdn.mobygames.com/screenshots/18585036-bunny-blitz-electron-title-screen.png",
+            "platforms": [
+                "Electron"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/7a6c4520-0559-11ef-9c0d-02420a00013d.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Lots of Bunnies",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18585048-bunny-blitz-electron-lots-of-bunnies.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7b175604-0559-11ef-9c0d-02420a00013d.webp",
+                "width": 640
+            },
+            {
+                "caption": "Easy Level",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18585044-bunny-blitz-electron-easy-level.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7abf25ce-0559-11ef-9144-02420a000140.webp",
+                "width": 640
+            },
+            {
+                "caption": "Title Screen",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18585036-bunny-blitz-electron-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7a6c4520-0559-11ef-9c0d-02420a00013d.webp",
+                "width": 640
+            },
+            {
+                "caption": "Out of Time",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18585052-bunny-blitz-electron-out-of-time.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7b77cdcc-0559-11ef-9350-02420a000140.webp",
+                "width": 640
+            }
+        ],
+        "title": "Bunny Blitz"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Money Maze</em> is a 1-player arcade game for the Electron.</p>\n<p>The player tries to collect all the money within a maze, while being chased by three ghosts.  If the player is caught, it's game over.  If the player collects all of the coins, then the maze is refilled and the ghosts move faster.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 222904,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/222904/money-maze/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 93,
+                    "name": "Electron"
+                },
+                "1984-06"
+            ]
+        ],
+        "sample_cover": {
+            "height": 512,
+            "image_url": "https://cdn.mobygames.com/screenshots/18585110-money-maze-electron-title-screen.png",
+            "platforms": [
+                "Electron"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/8d9f995c-055a-11ef-9065-02420a00013f.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Title Screen",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18585110-money-maze-electron-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8d9f995c-055a-11ef-9065-02420a00013f.webp",
+                "width": 640
+            },
+            {
+                "caption": "Caught by a Ghost",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18585122-money-maze-electron-caught-by-a-ghost.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a7961db8-055a-11ef-a198-02420a00013f.webp",
+                "width": 640
+            },
+            {
+                "caption": "Collecting Coins",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18585114-money-maze-electron-collecting-coins.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8df128b2-055a-11ef-a762-02420a000140.webp",
+                "width": 640
+            }
+        ],
+        "title": "Money Maze"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Missile Jammer</em> is a 1-player arcade game for the Electron.</p>\n<p>The player is armed with their rammer craft, <em>Xenon</em>, and must intercept incoming missiles before they reach the player's home planet at the bottom of the screen.  The ship has limited energy, and must refuel by moving to the right side of the screen.  If three missiles get past the player, the planet will be destroyed.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 222939,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/222939/missile-jammer/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 93,
+                    "name": "Electron"
+                },
+                "1986-05"
+            ]
+        ],
+        "sample_cover": {
+            "height": 512,
+            "image_url": "https://cdn.mobygames.com/screenshots/18587651-missile-jammer-electron-title-screen.png",
+            "platforms": [
+                "Electron"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/75e69786-059e-11ef-a309-02420a00013e.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Final Score",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18587671-missile-jammer-electron-final-score.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/77a50e2c-059e-11ef-87cb-02420a00013e.webp",
+                "width": 640
+            },
+            {
+                "caption": "One Got Past",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18587667-missile-jammer-electron-one-got-past.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/774f4320-059e-11ef-a198-02420a00013f.webp",
+                "width": 640
+            },
+            {
+                "caption": "Missile Blocked",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18587663-missile-jammer-electron-missile-blocked.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/76f93f70-059e-11ef-a762-02420a000140.webp",
+                "width": 640
+            },
+            {
+                "caption": "Title Screen",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18587651-missile-jammer-electron-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/75e69786-059e-11ef-a309-02420a00013e.webp",
+                "width": 640
+            },
+            {
+                "caption": "Incoming Missile",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18587659-missile-jammer-electron-incoming-missile.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7697eb6c-059e-11ef-947a-02420a00013d.webp",
+                "width": 640
+            }
+        ],
+        "title": "Missile Jammer"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Code Breaker</em> is a 1-player puzzle game for the BBC Micro.</p>\n<p>The player has 12 turns to solve a five-digit secret code consisting of 4\u20137 different colors depending on difficulty level.  Each turn the player submits five digits, and the player is told how many are correct, and how many are correct <strong>and</strong> in the correct position.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            }
+        ],
+        "id": 223002,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/223002/code-breaker/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 93,
+                    "name": "Electron"
+                },
+                "1984-06"
+            ]
+        ],
+        "sample_cover": {
+            "height": 512,
+            "image_url": "https://cdn.mobygames.com/screenshots/18591580-code-breaker-electron-instructions.png",
+            "platforms": [
+                "Electron"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/6185b6fe-068f-11ef-a805-02420a00013e.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Puzzle Solved",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18591596-code-breaker-electron-puzzle-solved.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/62bb5556-068f-11ef-b068-02420a000140.webp",
+                "width": 640
+            },
+            {
+                "caption": "Choose Difficulty",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18591584-code-breaker-electron-choose-difficulty.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/61ccc29c-068f-11ef-a93a-02420a00013f.webp",
+                "width": 640
+            },
+            {
+                "caption": "Instructions",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18591580-code-breaker-electron-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6185b6fe-068f-11ef-a805-02420a00013e.webp",
+                "width": 640
+            },
+            {
+                "caption": "2 Correct, 2 Correct and Positioned Properly",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18591592-code-breaker-electron-2-correct-2-correct-and-positioned-properl.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/626219b4-068f-11ef-b3a4-02420a00013d.webp",
+                "width": 640
+            },
+            {
+                "caption": "Starting Core",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18591588-code-breaker-electron-starting-core.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/621c9844-068f-11ef-b20a-02420a00013e.webp",
+                "width": 640
+            }
+        ],
+        "title": "Code Breaker"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Breakfree</em> is a 1-player Breakout variant for the Electron.</p>\n<p>The player controls a horizontally moving bat at the bottom of the screen, and bounces a ball to the top to break blocks.  The player starts with 3 lives, and loses a life if the ball goes off the bottom of the screen.  There are 3 speeds of gameplay.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 223010,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/223010/breakfree/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 93,
+                    "name": "Electron"
+                },
+                "1984-10"
+            ]
+        ],
+        "sample_cover": {
+            "height": 512,
+            "image_url": "https://cdn.mobygames.com/screenshots/18592067-breakfree-electron-title-screen.png",
+            "platforms": [
+                "Electron"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/208c1b0e-06d3-11ef-ae32-02420a00013e.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Game Over",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18592083-breakfree-electron-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2200c318-06d3-11ef-8632-02420a00013e.webp",
+                "width": 640
+            },
+            {
+                "caption": "Ready to Bounce",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18592075-breakfree-electron-ready-to-bounce.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/214c93c0-06d3-11ef-a5cf-02420a000140.webp",
+                "width": 640
+            },
+            {
+                "caption": "High Scores",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18592088-breakfree-electron-high-scores.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/225d290a-06d3-11ef-b068-02420a000140.webp",
+                "width": 640
+            },
+            {
+                "caption": "Choose Difficulty",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18592071-breakfree-electron-choose-difficulty.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/20ee4f9a-06d3-11ef-a5cf-02420a000140.webp",
+                "width": 640
+            },
+            {
+                "caption": "Ball in Motion",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18592079-breakfree-electron-ball-in-motion.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/21a24e5a-06d3-11ef-b068-02420a000140.webp",
+                "width": 640
+            }
+        ],
+        "title": "Breakfree"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Mr Freeze</em> is a 1-player arcade game for the Electron.</p>\n<p>Mr. Freeze's frozen food factory has been sabotaged by one of his rivals.  Electric fires have been placed amongst the blocks of ice to melt them.  Mr. Freeze can move in the cardinal directions, but only where ice blocks are present.  He can not cross the same area twice.  The player can also slide the whole row to the left or the right.  The player has 99 time units to reach an activated fire switch, and a new switch turns on when one has been deactivated.  The player must deactivate all fire switches on a level to move to the next challenge.  The player starts with 5 lives, and loses a life if a fire starts or if caught by the roaming monster.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 223173,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/223173/mr-freeze/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 93,
+                    "name": "Electron"
+                },
+                "1985-03"
+            ]
+        ],
+        "sample_cover": {
+            "height": 512,
+            "image_url": "https://cdn.mobygames.com/screenshots/18601978-mr-freeze-electron-title-screen.png",
+            "platforms": [
+                "Electron"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/d4b29f3a-0823-11ef-acbc-02420a00013e.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Title Screen",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18601978-mr-freeze-electron-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d4b29f3a-0823-11ef-acbc-02420a00013e.webp",
+                "width": 640
+            },
+            {
+                "caption": "Activated Timer",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18601982-mr-freeze-electron-activated-timer.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d551e6a8-0823-11ef-ab26-02420a000140.webp",
+                "width": 640
+            },
+            {
+                "caption": "Times Up",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18601986-mr-freeze-electron-times-up.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d5be958c-0823-11ef-9495-02420a00013f.webp",
+                "width": 640
+            },
+            {
+                "caption": "High Scores",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18601990-mr-freeze-electron-high-scores.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d62426a4-0823-11ef-a805-02420a00013e.webp",
+                "width": 640
+            }
+        ],
+        "title": "Mr Freeze"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Invasion Force</em> is a 1-player arcade game for the Electron.</p>\n<p>The evil Zyzaxon Empire has developed a new super breed of high speed assault craft.  This invasion force's mission is to penetrate the Earth's defenses.  The player's job is stop the enemy forces.</p>\n<p>The player controls a small ship at the bottom of the screen that moves laterally and fires vertically.  Enemy ships move as a group across the screen until they reach the edge, go down 1 line, and reverse direction.  An enemy saucer at the top of the screen moves laterally and returns fire towards the player.  Three bases provide protection for the player.  If the player is hit or the enemies reach the bottom of the screen, the player loses a life.  The player starts with 3 lives.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 223183,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/223183/invasion-force/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 93,
+                    "name": "Electron"
+                },
+                "1986-04"
+            ]
+        ],
+        "sample_cover": {
+            "height": 512,
+            "image_url": "https://cdn.mobygames.com/screenshots/18605588-invasion-force-electron-introduction.png",
+            "platforms": [
+                "Electron"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/071f0d6a-08eb-11ef-acbc-02420a00013e.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Next Level",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18605600-invasion-force-electron-next-level.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/08137fda-08eb-11ef-8d1c-02420a000140.webp",
+                "width": 640
+            },
+            {
+                "caption": "I'm Hit",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18605608-invasion-force-electron-im-hit.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/08b4a19e-08eb-11ef-8d1c-02420a000140.webp",
+                "width": 640
+            },
+            {
+                "caption": "Level Complete",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18605604-invasion-force-electron-level-complete.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/086a8a82-08eb-11ef-ae32-02420a00013e.webp",
+                "width": 640
+            },
+            {
+                "caption": "Starting Force",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18605596-invasion-force-electron-starting-force.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/07b930de-08eb-11ef-9dc0-02420a00013d.webp",
+                "width": 640
+            },
+            {
+                "caption": "Introduction",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18605588-invasion-force-electron-introduction.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/071f0d6a-08eb-11ef-acbc-02420a00013e.webp",
+                "width": 640
+            }
+        ],
+        "title": "Invasion Force"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Parachute</em> is a 1-player arcade game for the Electron.</p>\n<p>The player tries to save parachutists as they jump out of a helicopter above an ocean bay.  The player controls a raft that moves left and right, and can only carry one parachutist at a time.  The player must position their raft under a descending parachutist, bring them to the dock at the left or the right of the screen, and then quickly return to catch the next jumper.  The player can afford to miss 3 parachutists before it's game over.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 223229,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/223229/parachute/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 93,
+                    "name": "Electron"
+                },
+                "1984-08"
+            ]
+        ],
+        "sample_cover": {
+            "height": 512,
+            "image_url": "https://cdn.mobygames.com/screenshots/18606025-parachute-electron-instructions.png",
+            "platforms": [
+                "Electron"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/032d6a84-092d-11ef-b4d9-02420a00013d.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Instructions",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18606025-parachute-electron-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/032d6a84-092d-11ef-b4d9-02420a00013d.webp",
+                "width": 640
+            },
+            {
+                "caption": "Parachutists Descending",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18606029-parachute-electron-parachutists-descending.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0382ab20-092d-11ef-a805-02420a00013e.webp",
+                "width": 640
+            },
+            {
+                "caption": "Parachutist on a Raft",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18606033-parachute-electron-parachutist-on-a-raft.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/03e1bd72-092d-11ef-9495-02420a00013f.webp",
+                "width": 640
+            }
+        ],
+        "title": "Parachute"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Haunted House</em> is a 1-player arcade game for the Electron.</p>\n<p>The player has been trapped in a haunted house, moves in the cardinal directions, and can only fire horizontally.  The player has limited time to shoot all the ghosts, collect all the keys, and escape through the exit door.  The player must avoid hitting red cans or ghosts.  The player starts with 3 lives, and gains a life every 4 rooms completed.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 83,
+                "name": "Horror"
+            }
+        ],
+        "id": 223308,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/223308/haunted-house/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 93,
+                    "name": "Electron"
+                },
+                "1984-09"
+            ]
+        ],
+        "sample_cover": {
+            "height": 512,
+            "image_url": "https://cdn.mobygames.com/screenshots/18610050-haunted-house-electron-instructions.png",
+            "platforms": [
+                "Electron"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/5d52756a-0a07-11ef-b5d0-02420a00013d.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "High Scores",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18610070-haunted-house-electron-high-scores.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5f4f5b4e-0a07-11ef-8d28-02420a00013f.webp",
+                "width": 640
+            },
+            {
+                "caption": "Killed by a Ghost",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18610058-haunted-house-electron-killed-by-a-ghost.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5e0e4a74-0a07-11ef-952a-02420a00013e.webp",
+                "width": 640
+            },
+            {
+                "caption": "Dangerous Red Cans",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18610066-haunted-house-electron-dangerous-red-cans.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5edfe304-0a07-11ef-86db-02420a000140.webp",
+                "width": 640
+            },
+            {
+                "caption": "Final Score",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18610062-haunted-house-electron-final-score.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5e875e50-0a07-11ef-9c31-02420a000140.webp",
+                "width": 640
+            },
+            {
+                "caption": "Instructions",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18610050-haunted-house-electron-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5d52756a-0a07-11ef-b5d0-02420a00013d.webp",
+                "width": 640
+            }
+        ],
+        "title": "Haunted House"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Night Strike</em> is a 1-player arcade game for the Electron.</p>\n<p>As leader of the Strike Force, the player's objective is to retrieve the stolen helicopter called <em>Skyhawk</em>.  The player controls a helicopter that moves in the cardinal directions, and must navigate through underground areas filled with hovering air mines, electrified hydrogen filled balloons, and clouds of poisonous gas. The player's helicopter is old and will overheat, giving the player limited time to reach the helicopter pad at the end of each stage.  The player starts with five lives, and loses a life if they touch any obstacle.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 56,
+                "name": "Helicopter"
+            }
+        ],
+        "id": 223389,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/223389/night-strike/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 93,
+                    "name": "Electron"
+                },
+                "1986"
+            ]
+        ],
+        "sample_cover": {
+            "height": 512,
+            "image_url": "https://cdn.mobygames.com/screenshots/18615480-night-strike-electron-title-screen.png",
+            "platforms": [
+                "Electron"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/d6d1571e-0acd-11ef-9e76-02420a00013e.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Game Over",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18615504-night-strike-electron-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d8cc3a34-0acd-11ef-a9db-02420a00013f.webp",
+                "width": 640
+            },
+            {
+                "caption": "Long Corridors",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18615500-night-strike-electron-long-corridors.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d8761af0-0acd-11ef-9b3b-02420a000140.webp",
+                "width": 640
+            },
+            {
+                "caption": "Navigating the Maze",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18615488-night-strike-electron-navigating-the-maze.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d777388c-0acd-11ef-93cb-02420a00013e.webp",
+                "width": 640
+            },
+            {
+                "caption": "Poisonous Clouds",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18615492-night-strike-electron-poisonous-clouds.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d7bb79e8-0acd-11ef-93cb-02420a00013e.webp",
+                "width": 640
+            },
+            {
+                "caption": "Instructions",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18615484-night-strike-electron-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d7267de8-0acd-11ef-9852-02420a00013f.webp",
+                "width": 640
+            }
+        ],
+        "title": "Night Strike"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Reaction Tester</em> is a 1-player arcade game for the Electron.</p>\n<p>A flashing light turns from red, to yellow, and then green.  The player tries to hit a button as soon as the light turns green, and the player's reaction time is determined.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 223397,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/223397/reaction-tester/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 93,
+                    "name": "Electron"
+                },
+                "1984-03"
+            ]
+        ],
+        "sample_cover": {
+            "height": 512,
+            "image_url": "https://cdn.mobygames.com/screenshots/18616192-reaction-tester-electron-instructions.png",
+            "platforms": [
+                "Electron"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/78d0c042-0adb-11ef-9852-02420a00013f.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Instructions",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18616192-reaction-tester-electron-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/78d0c042-0adb-11ef-9852-02420a00013f.webp",
+                "width": 640
+            },
+            {
+                "caption": "Timer Counting Down",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18616200-reaction-tester-electron-timer-counting-down.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7994454e-0adb-11ef-81fb-02420a00013d.webp",
+                "width": 640
+            },
+            {
+                "caption": "Reaction Time",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18616204-reaction-tester-electron-reaction-time.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7a05ae64-0adb-11ef-9b3b-02420a000140.webp",
+                "width": 640
+            },
+            {
+                "caption": "I Was Too Quick",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18616208-reaction-tester-electron-i-was-too-quick.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7a8c6f12-0adb-11ef-9b3b-02420a000140.webp",
+                "width": 640
+            },
+            {
+                "caption": "Red Light",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18616196-reaction-tester-electron-red-light.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7936e2b4-0adb-11ef-96f3-02420a000140.webp",
+                "width": 640
+            }
+        ],
+        "title": "Reaction Tester"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "Electron User title",
+                "title": "Knock Out!"
+            }
+        ],
+        "description": "<p><em>Knockout</em> is a 1-player arcade game for the Electron.</p>\n<p>A ball moves horizontally across the top of screen left and right, and the player can choose to drop it any time.  The ball will then strike the blocks at the bottom of the screen, knocking out several adjacent blocks. The blocks slowly move from the bottom to the top of the screen.  If the blocks reach the top of the screen it's game over.  The game gets progressively more difficult as more rows of blocks approach.  There are the three levels of game difficulty.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            }
+        ],
+        "id": 223398,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/223398/knockout/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 93,
+                    "name": "Electron"
+                },
+                "1984-08"
+            ]
+        ],
+        "sample_cover": {
+            "height": 512,
+            "image_url": "https://cdn.mobygames.com/screenshots/18616278-knockout-electron-instructions.png",
+            "platforms": [
+                "Electron"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/d309aa72-0add-11ef-9852-02420a00013f.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Final Score",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18616298-knockout-electron-final-score.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d4952a38-0add-11ef-81fb-02420a00013d.webp",
+                "width": 640
+            },
+            {
+                "caption": "Knocking Out Pieces",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18616286-knockout-electron-knocking-out-pieces.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d3a58a8c-0add-11ef-9852-02420a00013f.webp",
+                "width": 640
+            },
+            {
+                "caption": "Incoming Blocks",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18616282-knockout-electron-incoming-blocks.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d35cf524-0add-11ef-a401-02420a00013d.webp",
+                "width": 640
+            },
+            {
+                "caption": "Instructions",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18616278-knockout-electron-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d309aa72-0add-11ef-9852-02420a00013f.webp",
+                "width": 640
+            },
+            {
+                "caption": "Game Over",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18616294-knockout-electron-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d4491706-0add-11ef-b5d0-02420a00013d.webp",
+                "width": 640
+            }
+        ],
+        "title": "Knockout"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Skramble</em> is a 1-player arcade game for the Electron.</p>\n<p>The player is on a dangerous mission flying deep into enemy territory with their space plane.  The player can move vertically in a tunnel while more and more alien vessels approach from the right of the screen.  The player's ship fires to the right, and alien ships become fireballs moving towards the player when hit.  The player gains five points for each enemy vessel destroyed.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 223604,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/223604/skramble/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 93,
+                    "name": "Electron"
+                },
+                "1985-05"
+            ]
+        ],
+        "sample_cover": {
+            "height": 512,
+            "image_url": "https://cdn.mobygames.com/screenshots/18627828-skramble-electron-title-screen.png",
+            "platforms": [
+                "Electron"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/e689026c-0da5-11ef-82dd-02420a00013f.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Game Setup",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18627832-skramble-electron-game-setup.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e6efc8da-0da5-11ef-b33b-02420a000140.webp",
+                "width": 640
+            },
+            {
+                "caption": "High Score",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18627852-skramble-electron-high-score.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e885181c-0da5-11ef-8670-02420a00013f.webp",
+                "width": 640
+            },
+            {
+                "caption": "Title Screen",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18627828-skramble-electron-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e689026c-0da5-11ef-82dd-02420a00013f.webp",
+                "width": 640
+            },
+            {
+                "caption": "Incoming Enemies",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18627836-skramble-electron-incoming-enemies.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e74c56a4-0da5-11ef-9c03-02420a00013d.webp",
+                "width": 640
+            },
+            {
+                "caption": "Yellow Saucers",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18627840-skramble-electron-yellow-saucers.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e79af28c-0da5-11ef-a296-02420a00013d.webp",
+                "width": 640
+            }
+        ],
+        "title": "Skramble"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Star Fighter</em> is a 1-player arcade game for the Electron.</p>\n<p>Bandits have been raiding the planet M1101/3, which must be protected at all costs.  The player is on their last mission, a one-way trip to shoot down as many raiders as they can before their ship runs out of power.  Played from a 1st-person perspective, the player moves a crosshair to engage and shoot enemy vessels.  The further an enemy is away the more points awarded when destroyed.  Shooting lasers decreases the player's limited power.  It's game over when all power is lost.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 223617,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/223617/star-fighter/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 93,
+                    "name": "Electron"
+                },
+                "1984-11"
+            ]
+        ],
+        "sample_cover": {
+            "height": 512,
+            "image_url": "https://cdn.mobygames.com/screenshots/18628824-star-fighter-electron-introduction.png",
+            "platforms": [
+                "Electron"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/640d7706-0de5-11ef-9dc3-02420a000140.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "High Scores",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18628845-star-fighter-electron-high-scores.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/65dbf030-0de5-11ef-80d2-02420a00013f.webp",
+                "width": 640
+            },
+            {
+                "caption": "Incoming Enemy",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18628833-star-fighter-electron-incoming-enemy.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/64d05622-0de5-11ef-9e82-02420a000140.webp",
+                "width": 640
+            },
+            {
+                "caption": "I'm Defeated",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18628841-star-fighter-electron-im-defeated.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/65838288-0de5-11ef-919f-02420a00013d.webp",
+                "width": 640
+            },
+            {
+                "caption": "Starting my Flight",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18628829-star-fighter-electron-starting-my-flight.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/646cea92-0de5-11ef-9e82-02420a000140.webp",
+                "width": 640
+            },
+            {
+                "caption": "Introduction",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18628824-star-fighter-electron-introduction.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/640d7706-0de5-11ef-9dc3-02420a000140.webp",
+                "width": 640
+            }
+        ],
+        "title": "Star Fighter"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>The Acornsoft Hits: Volume 2</em> is a compilation of four previously-released games for the Electron.</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/game/68870/arcadians/\">Arcadians</a></li>\n<li><a href=\"https://www.mobygames.com/game/195561/meteors/\">Meteors</a></li>\n<li><a href=\"https://www.mobygames.com/game/225596/snooker/\">Snooker</a></li>\n<li><a href=\"https://www.mobygames.com/game/139435/starship-command/\">Starship Command</a></li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 225598,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/225598/the-acornsoft-hits-volume-2/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 93,
+                    "name": "Electron"
+                },
+                "1986"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "The Acornsoft Hits: Volume 2"
+    }
+]

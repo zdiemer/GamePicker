@@ -1,0 +1,120 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Missile</em> is a basic shooting game. Enemy fighters fly across the screen and the player must shoot them down with missiles before they manage to do so. There are three missile sites that can fire missiles. Enemy fighters can fly at different heights and the player must set the fuse delay for fired missiles to make sure the explode at the correct height.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            }
+        ],
+        "id": 196066,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/196066/missile/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 310,
+                    "name": "Triton"
+                },
+                "1978-12"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Missile"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Submarine Game</em> gives the player 20 depth charges that must be used to destroy a submarine. The submarine moves on a 14x60 grid. If a depth charge explodes close enough to the sub the sub is disabled, on a direct hit it is destroyed. The sub moves randomly each turn unless disabled. If the sub reaches the end of the grid four times the game is over. After each charge explodes the player gets told the distance of the explosion to the sub and the bearing of the sub.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 41,
+                "name": "Naval / watercraft"
+            }
+        ],
+        "id": 196291,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/196291/submarine-game/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 310,
+                    "name": "Triton"
+                },
+                "1979-05"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Submarine Game"
+    }
+]

@@ -1,0 +1,4135 @@
+[
+    {
+        "alternate_titles": [
+            {
+                "description": "Included game",
+                "title": "Life"
+            },
+            {
+                "description": "Included game",
+                "title": "Target"
+            },
+            {
+                "description": "Included game",
+                "title": "Zing"
+            }
+        ],
+        "description": "<p><em>Gamepac 1</em> is a collection of four programs.</p>\n<ul>\n<li>\n<p><em>Target</em> is a shooting game where the player controls a gun on the ground and has to shoot down the various robot spaceships that fly past above it. Controls are limited to tilting the gun barrel left and right and shooting missiles. Missiles can be steered after launch by moving the barrel. There are three different targets with different point values: big cargo ships (100), small scout ships (200) and parachutes (600). Parachutes appear when two ships collide. Points decrease when a ship escapes and when a missile misses its target. The aim is to get the highest score before time runs out and extra time is given when reaching certain scores.</p>\n</li>\n<li>\n<p><em>Life</em> is a conversion of John Conway's <a href=\"https://www.mobygames.com/group/7492/game-of-life-versions/\">Game of Life</a>. There are seven pre-made patterns to run or the player can create a custom one.</p>\n</li>\n<li>\n<p><em>Pattern</em> is a program that generates patterns in a kaleidoscopic format. The player can start an automatic pattern or create one by entering horizontal and vertical values as input data.</p>\n</li>\n<li>\n<p><em>Zing</em> is a paddle game for two players. It is similar to <a href=\"https://www.mobygames.com/search/?q=Pong\">Pong</a> with players moving their paddles up and down but here multiple balls are launched from the centre of the screen with up to five balls in play at the same time. The aim is simply to return them to the centre and if successful the balls will move faster until a ball is missed which causes the initial speed to be restored.</p>\n</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 64,
+                "name": "Paddle / Pong"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 79512,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/79512/gamepac-1/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1976-12"
+            ]
+        ],
+        "sample_cover": {
+            "height": 416,
+            "image_url": "https://cdn.mobygames.com/screenshots/15874731-gamepac-1-sol-20-title-screen-instructions-target.png",
+            "platforms": [
+                "Sol-20"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/9d03e75a-bf00-11ed-9c42-02420a000140.webp",
+            "width": 576
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Options (Life)",
+                "height": 416,
+                "image_url": "https://cdn.mobygames.com/screenshots/15874626-gamepac-1-sol-20-options-life.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/929f590c-bf00-11ed-9c42-02420a000140.webp",
+                "width": 576
+            },
+            {
+                "caption": "Launching a missile (Target)",
+                "height": 416,
+                "image_url": "https://cdn.mobygames.com/screenshots/15874794-gamepac-1-sol-20-launching-a-missile-target.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a1295aa4-bf00-11ed-9c42-02420a000140.webp",
+                "width": 576
+            },
+            {
+                "caption": "Hitting a target (Target)",
+                "height": 416,
+                "image_url": "https://cdn.mobygames.com/screenshots/15874827-gamepac-1-sol-20-hitting-a-target-target.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a4ad76ec-bf00-11ed-9c42-02420a000140.webp",
+                "width": 576
+            },
+            {
+                "caption": "Generation in progress (Life)",
+                "height": 416,
+                "image_url": "https://cdn.mobygames.com/screenshots/15874572-gamepac-1-sol-20-generation-in-progress-life.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8f6df18a-bf00-11ed-9c42-02420a000140.webp",
+                "width": 576
+            },
+            {
+                "caption": "Starting out (Target)",
+                "height": 416,
+                "image_url": "https://cdn.mobygames.com/screenshots/15874767-gamepac-1-sol-20-starting-out-target.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a01e5fa6-bf00-11ed-9c42-02420a000140.webp",
+                "width": 576
+            }
+        ],
+        "title": "Gamepac 1"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "Included game",
+                "title": "Hangman"
+            },
+            {
+                "description": "Included game",
+                "title": "Qubic"
+            }
+        ],
+        "description": "<p><em>Gamepac 2</em> is a collection of two games.</p>\n<ul>\n<li>\n<p><em>Hangman</em> is a version of the pen-and-paper game and works just the same with the player being presented with a hidden word which has to be guessed by entering letters one at a time. It is possible to play with a standard word list or the player can create a custom made one. The difficulty can be selected from one to nine, with the harder levels allowing fewer guesses.</p>\n</li>\n<li>\n<p><em>Qubic</em> is a version of the board game with the same name. It plays like <a href=\"https://www.mobygames.com/search/?q=Tic+Tac+Toe\">Tic Tac Toe</a> but is in three dimensions with four 4x4 grids placed next to each other. The game can be played against an AI or another human and the aim is to get four markers in a row before the opponent does.</p>\n</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 162,
+                "name": "Word construction"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 79531,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/79531/gamepac-2/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": {
+            "height": 416,
+            "image_url": "https://cdn.mobygames.com/screenshots/15875805-gamepac-2-sol-20-title-and-menu-hangman.png",
+            "platforms": [
+                "Sol-20"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/f3f2084e-bf00-11ed-9c42-02420a000140.webp",
+            "width": 576
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Getting hanged (Hangman)",
+                "height": 416,
+                "image_url": "https://cdn.mobygames.com/screenshots/15875706-gamepac-2-sol-20-getting-hanged-hangman.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ea8cf99e-bf00-11ed-9c42-02420a000140.webp",
+                "width": 576
+            },
+            {
+                "caption": "Starting out (Hangman)",
+                "height": 416,
+                "image_url": "https://cdn.mobygames.com/screenshots/15875772-gamepac-2-sol-20-starting-out-hangman.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f195b3a2-bf00-11ed-9c42-02420a000140.webp",
+                "width": 576
+            },
+            {
+                "caption": "Title and menu (Hangman)",
+                "height": 416,
+                "image_url": "https://cdn.mobygames.com/screenshots/15875805-gamepac-2-sol-20-title-and-menu-hangman.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f3f2084e-bf00-11ed-9c42-02420a000140.webp",
+                "width": 576
+            },
+            {
+                "caption": "Start screen (Qubic)",
+                "height": 416,
+                "image_url": "https://cdn.mobygames.com/screenshots/15875769-gamepac-2-sol-20-start-screen-qubic.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f17d84c6-bf00-11ed-9c42-02420a000140.webp",
+                "width": 576
+            },
+            {
+                "caption": "Game in progress (Qubic)",
+                "height": 416,
+                "image_url": "https://cdn.mobygames.com/screenshots/15876081-gamepac-2-sol-20-game-in-progress-qubic.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0fa25c7e-bf01-11ed-9c42-02420a000140.webp",
+                "width": 576
+            }
+        ],
+        "title": "Gamepac 2"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>8080 Chess is a single player chess game created by Robert Arnstein for the S-100 Bus micro computer, based on the Intel 8080, and ported to the SOL-20 terminal. You play against the computer by typing in the moves. There are no graphics, just ASCII representation of the chessboard.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 11,
+                "name": "Chess"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 80013,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/80013/8080-chess/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1977"
+            ]
+        ],
+        "sample_cover": {
+            "height": 208,
+            "image_url": "https://cdn.mobygames.com/screenshots/16003134-8080-chess-sol-20-colour-selection-screen.png",
+            "platforms": [
+                "Sol-20"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/0d044e46-bf29-11ed-9c42-02420a000140.webp",
+            "width": 576
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Colour selection screen.",
+                "height": 208,
+                "image_url": "https://cdn.mobygames.com/screenshots/16003134-8080-chess-sol-20-colour-selection-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0d044e46-bf29-11ed-9c42-02420a000140.webp",
+                "width": 576
+            }
+        ],
+        "title": "8080 Chess"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Mine Field</em> is a single screen action game where the player has to move from the left side of the screen to the right without stepping on a mine. Contact with mines lead to instant death and in addition to mines there are two other dangers that are optional and can be turned on before a game: machine gun fire and mortar attacks. The game can be played by up to five players who take turns crossing the mine field. Each player has five attempts and the aim is to succeed in the shortest possible time. Among the mines there are also trees which when running into renders the player unconscious for a short while.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 124,
+                "name": "War"
+            }
+        ],
+        "id": 82341,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/82341/mine-field/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": {
+            "height": 416,
+            "image_url": "https://cdn.mobygames.com/screenshots/16103204-mine-field-sol-20-title-screen.png",
+            "platforms": [
+                "Sol-20"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/fb153f66-bf72-11ed-9521-02420a000152.webp",
+            "width": 576
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Starting out",
+                "height": 416,
+                "image_url": "https://cdn.mobygames.com/screenshots/16103195-mine-field-sol-20-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/facdefe4-bf72-11ed-9521-02420a000152.webp",
+                "width": 576
+            },
+            {
+                "caption": "A game with machine gun nests and mortars",
+                "height": 416,
+                "image_url": "https://cdn.mobygames.com/screenshots/16103201-mine-field-sol-20-a-game-with-machine-gun-nests-and-mortars.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fb001712-bf72-11ed-9521-02420a000152.webp",
+                "width": 576
+            },
+            {
+                "caption": "Getting killed",
+                "height": 416,
+                "image_url": "https://cdn.mobygames.com/screenshots/16103192-mine-field-sol-20-getting-killed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f9e512f6-bf72-11ed-9521-02420a000152.webp",
+                "width": 576
+            },
+            {
+                "caption": "Making it across",
+                "height": 416,
+                "image_url": "https://cdn.mobygames.com/screenshots/16103186-mine-field-sol-20-making-it-across.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f9b8cbc4-bf72-11ed-9521-02420a000152.webp",
+                "width": 576
+            },
+            {
+                "caption": "End results",
+                "height": 416,
+                "image_url": "https://cdn.mobygames.com/screenshots/16103180-mine-field-sol-20-end-results.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f97e25d2-bf72-11ed-9521-02420a000152.webp",
+                "width": 576
+            }
+        ],
+        "title": "Mine Field"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Dots and Pluses Number Game</em> is a <a href=\"https://www.mobygames.com/group/9137/mastermind-variants/\">Mastermind variant</a>. The computer thinks of a number and after each guess from the player will give dots (correct digit in wrong position) and pluses (correct digit) or a goose egg (nothing correct). The player can choose if a digit can be in the code more than once and the size of the code (three to five digits).</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 111304,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111304/dots-and-pluses-number-game/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1977-04-15"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Dots and Pluses Number Game"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Hurkle</em> is an expanded version of the <a href=\"https://www.mobygames.com/search/?q=Hurkle\">original</a>. The core of the game is still the same with the player tasked to find a Hurkle creature in a grid. The player can choose between a horizontal line, a vertical line, a 10 by 10 grid and a -10 to 10 grid.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 111305,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111305/hurkle/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1976-08"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Hurkle"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "Alternate title",
+                "title": "Buzz-Bomb"
+            }
+        ],
+        "description": "<p><em>Luftwaffe</em> is a simulation in game in which the player commands two squadrons on a bombing raid over France during World War II. The player must deliver a bomb or rocket to at least one target. The German Luftwaffe will try to prevent the player from reaching this goal. In essence this game is a <a href=\"https://www.mobygames.com/group/7548/star-trek-variants/\">Star Trek variant</a>. Commands available to the player are: Move planes, scan, fire rocket and bomb. Planes move through quadrants, but unlike most Star Trek games there's no warp speed so movement is much slower.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 173,
+                "name": "Multiple units/characters control"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 19,
+                "name": "Flight / aviation"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 215,
+                "name": "World War II"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 124,
+                "name": "War"
+            }
+        ],
+        "id": 113293,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/113293/luftwaffe/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1977-01-01"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Luftwaffe"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Darts</em> is a darts throwing simulation. Up to twenty people can play on a board with areas marked, 10, 20, 30, and 40 points. The first person to get to 200 points wins the game. There are three different throws the player can choose from and each have their own odds at various outcomes.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 172,
+                "name": "Menu structures"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 119,
+                "name": "Darts / target shooting"
+            }
+        ],
+        "id": 123057,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/123057/darts/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1977-12-08"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Darts"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Race Car Driving Simulation</em> is a text-based racing game in which the player must avoid a crash. The player must make a selection of curves to steer and switch gears to make it through the infinite track.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 6,
+                "name": "Racing / Driving"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 188,
+                "name": "Automobile"
+            }
+        ],
+        "id": 123060,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/123060/race-car-driving-simulation/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1977-12"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Race Car Driving Simulation"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Radar</em> places the player in front of a radar screen. The goal of the game is to sink communist ships. Different types of naval craft are worth different amount of points. When 12 points worth are sunk the player wins the game. The player can fire artillery and deploy aircraft to take out the enemy ships. The player has 40 artillery rounds and can fire up to five each turn. The player has fifteen planes and can fly ten of them each turn and drop a total of 45 bombs. Enemy ships are constantly in motion making them harder targets. Both artillery and planes have a limited range in which they can operate and planes can be shot down.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 19,
+                "name": "Flight / aviation"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 41,
+                "name": "Naval / watercraft"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 199,
+                "name": "Cold War"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 124,
+                "name": "War"
+            }
+        ],
+        "id": 123146,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/123146/radar/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1977-11-10"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Radar"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Vegas</em> is a compilation of four casino games: Blackjack, craps, roulette and a slot machine. All games are written in BASIC.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            }
+        ],
+        "id": 123153,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/123153/vegas/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1978-01-13"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Vegas"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>War</em> is a tactical board game played on a four by four grid. Both players start in an opposing corner with four pieces. Pieces can move one space at a time, horizontally and vertically into any empty space. Pieces in the corners can move diagonally away from it (and back into it). Pieces that have moved are on cooldown the next turn. To win the game you need to either: a) Get one of your pieces in the opponent's corner. b) Get two pieces adjacent to the opponent's corner. c) block the opponent in a way that it cannot make a move on its turn.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 123154,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/123154/war/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1977-08-05"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "War"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Newtrek (Startrek)</em> is a Star Trek variant. The player controls the Enterprise and must rid the galaxy from Klingons and Romulans. The galaxy is divided into 64 quadrants that can be explored. Each quadrant is again divided into 64 sectors. The player uses long and short sensors and probes to find enemies and can engage them with phasers and photon torpedoes. When the Enterprise is damaged or low on fuel the player can return to a starbase to repair and refuel.</p>\n<p>When encountering enemy ships it's also possible to negotiate in an attempt to make them leave or surrender. In case of emergency it's possible to abandon ship after which the player receives a new ship called the Fairy Queen, additionally the player can self-destruct. An emergency warp can be used to fire one last shot while fleeing a battle and teleport can attempt to return to a starbase. Other experimental equipment are impulse engines (which can implode) and the death ray which is likely to destroy many aliens but has side effects.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 159,
+                "name": "Vehicular combat"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 123346,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/123346/newtrek-startrek/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1977-12-27"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Newtrek (Startrek)"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Concentration</em> is a memory game played against the bank. For every guess made that's not a match the player loses $200. For every match made you gain the amount of the match. Instead of a randomized board there are four predefined boards.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 123401,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/123401/concentration/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1977-08-01"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Concentration"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Modulo</em> is a Nim variant. The player and computer take turns removing coins from a stack of coins. Whoever takes the last coin loses the game. The player decides up front what the size of the stack is and what the limit is for coins taken each turn.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 123544,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/123544/modulo/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1977-08-18"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Modulo"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Sub-Fight</em> is a naval war game. The player controls a submarine in a 10x10 grid. An enemy cargo ship moves from one corner to the other, moving between 0 and 3 tiles each turn. There are two destroyers escorting it, always within one square of the cargo ship. The player can move two tiles each turn in the four cardinal directions. The player also has four torpedoes that can be fired in a straight line. The player must hit the cargo ship without coming into contact with the destroyers.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 41,
+                "name": "Naval / watercraft"
+            }
+        ],
+        "id": 123639,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/123639/sub-fight/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1977-08-18"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Sub-Fight"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Sub-War</em> pits the player against the computer. The player controls four submarines, each able to fire four torpedoes. At the start of the turn the player is given a target with a speed and distance. The player must give a speed for the torpedo in an attempt to hit the target at the intercept point. The player can select a difficulty for the shot and earn points depending on the difficulty. After the shot the enemy will return fire (if not destroyed), the harder the shot was the higher the chance of the target destroying one of the player's subs.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 41,
+                "name": "Naval / watercraft"
+            }
+        ],
+        "id": 123642,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/123642/sub-war/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1977-06-26"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Sub-War"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>This compilation features the following games with an astronaut theme:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/search/?q=LEM\">Apollo</a>: a Lunar Landing game.</li>\n<li><a href=\"https://www.mobygames.com/search/?q=Astro-Nut\">Astro-Nut</a>: concept simiar to <em>Lunar Lander</em>, but the player must end up in orbit of Earth.</li>\n<li><a href=\"https://www.mobygames.com/game/112735/lunar-module/\">Rendeveous (sic)</a>: another Lunar Landing game</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 145430,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/145430/3-astronaut-games/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1978-12-01"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "3 Astronaut Games"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Boule</em> is a BASIC implementation of the casino game of the same name (aka The Bowl). The game is similar to roulette with a ball spinning and landing on a number (one through nine, all listed twice). If the ball lands on a five all bets are lost. The player starts with $475 and plays against 11 other AI players.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 145462,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/145462/boule/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1978-09-01"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Boule"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>4 Lunarlander Games</em> is a compilation of four <a href=\"https://www.mobygames.com/group/6716/lunar-lander-variants/\">Lunar Landing</a> games.\nThe games are:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/search/?q=Lunarlander\">Lunarlander</a></li>\n<li><a href=\"https://www.mobygames.com/game/89874/lunar/\">Lunar</a></li>\n<li><a href=\"https://www.mobygames.com/game/112735/lunar-module/\">Lunar-Module</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=LEM\">LEM</a></li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 145464,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/145464/4-lunarlander-games/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1978-12-15"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "4 Lunarlander Games"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>6 Number Games</em> is a compilation of six number guessing games written in BASIC. It includes the following games:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/search/?q=Guess\">Guess</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Number\">Number</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Taxman\">Taxman</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Number+4\">Number 4</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Number+5\">Number 5</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Spoof\">Spoof</a></li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 145619,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/145619/6-number-games/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1978-12-01"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "6 Number Games"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>Dots and Pluses <em>Word</em> Game is a Mastermind variant. The computer thinks of a four letter word and after each guess from the player will give dots (correct letter in wrong position) and pluses (correct letter) or a goose egg (nothing correct).</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 162,
+                "name": "Word construction"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 145622,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/145622/dots-and-pluses-word-game/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1978-06-06"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Dots and Pluses *Word* Game"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Sol-20 Poker</em> is a poker game for the Sol-20 computer written in BASIC. One player can play five card draw against the dealer. The player draws five cards and can discard up to five of them to receive new cards. The player starts with $100 and can bet for each hand in an attempt to win from the dealer.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 145671,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/145671/sol-20-poker/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1978-05-10"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Sol-20 Poker"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Aword</em> is a simple word guessing game. The player must guess a word that starts with the letter A. The player can ask for clues, including the last letter, the number of letters and a description or synonym of the word. The aim is to guess the word is as little guesses as possible.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 162,
+                "name": "Word construction"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 145672,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/145672/aword/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1978-03-01"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Aword"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Drag 500</em> is a drag racing game in which the player races the computer or alone. The player can design the two cars by tweaking the following values: horse power, rear ratio, tire width and tire diameter. The actual racing happens automatically and shows periodic prints of the race's status before announcing the winner.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 6,
+                "name": "Racing / Driving"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 188,
+                "name": "Automobile"
+            }
+        ],
+        "id": 145673,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/145673/drag-500/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1978-01-13"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Drag 500"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Pinball</em> is a pinball game written in BASIC. The objective is to score 2500 points. The game is turn based and the player must hit either flipper when prompted, with a chance of the ball ending up in the gutter. It's possible to earn bonus balls to prolong play.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 53,
+                "name": "Pinball"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 145677,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/145677/pinball/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1978-01-12"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Pinball"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "Alternate in-game title",
+                "title": "Hocki"
+            }
+        ],
+        "description": "<p><em>Hockey</em> is a simulation of ice hockey written in BASIC. The player can enter the name of a team a play a match against the North Stars. The player is described situations and must choose one of three actions (e.g. Pass to center, shoot, check, trip, use goalie glove, etc.) applicable to the situation. Some random generator then decides the further outcome which can lead to a goal.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 34,
+                "name": "Hockey"
+            }
+        ],
+        "id": 145723,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/145723/hockey/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1978-01-18"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Hockey"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Suicide</em> is a simple game in which the player fires a gun, which depending on random chance will kill the player or not. The only way to win is to not fire the gun.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            }
+        ],
+        "id": 145727,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/145727/suicide/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1978-02"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Suicide"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Krieg: A Tactical Level Space War Game</em> is a game written in BASIC that pits multiple players in space combat. The game is entirely text-based. Each player has a number of ships under his or her control and can move them around and make them fire torpedoes and place mines. Enemy ships can also be captured instead of destroyed.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 145834,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/145834/krieg-a-tactical-level-space-war-game/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1978-02"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Krieg: A Tactical Level Space War Game"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Orbit</em> is a simple shooting game in which a Romulan spaceship is orbiting a planet. The player must fire a photon bomb. The player must specify the angle to fire the bomb at and the distance at which to make it explode. After firing the player either destroyed the ship and the game is over or the distance between the ship and the explosion is displayed and the player can try again for a new ship.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 143,
+                "name": "Artillery"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 231,
+                "name": "Fangame"
+            }
+        ],
+        "id": 145835,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/145835/orbit/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1978-06"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Orbit"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>W.W.III</em> simulates an atomic war between the USA and the USSR in 2005. The player takes the role of the USA. There are 18 battles in which the player has various offensive and defensive options such as firing nuclear missiles, flanking maneuvers, frontal attack, surrender the battle or surrender the entire war. On top of that soldiers can be commanded by giving charge, or fire from standing position commands. At the end of each battle a report is shown with the remaining men for each side of the war. At the end of the 18 battles whoever has the most men remaining won the war.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 161,
+                "name": "Wargame"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 199,
+                "name": "Cold War"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 124,
+                "name": "War"
+            }
+        ],
+        "id": 145842,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/145842/wwiii/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1978-03-01"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "W.W.III"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Blockade</em> is a light-cycle game for two players. Players mover around the screen leaving a trail where they have been. Players must prevent hitting their own or the other player's trail or they go game over and the other player wins. Sound effects are transmitted through radio frequency and can be heard when tuning in with an AM radio or a Music System for the Sol-20.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 145843,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/145843/blockade/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Blockade"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Smartmouthed Blackjack</em> is a blackjack game using Las Vegas rules including split hands, double down and insurance bets. What sets it apart from other contemporary blackjack games is the wise-cracking dealer which has a repertoire of jokes and remarks to throw at the player. The main goal of the game remains getting a card value of 21 or as close as possible without going over.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 145844,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/145844/smartmouthed-blackjack/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Smartmouthed Blackjack"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Softpac #1</em> is a compilation of four different games for the Sol-20 written in BASIC/5. The games are:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/search/?q=Star\">Star</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Blackjack\">Blackjack</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Craps\">Craps</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=War\">War</a></li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 145846,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/145846/softpac-1/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Softpac #1"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Droids</em> is an action game that is played against the computer. The player must escape from droids by hiding behind fences. There are multiple difficulty modes including a static practice mode.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 145847,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/145847/droids/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Droids"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Bombrun</em> is a text-only game written in BASIC that simulates a bombing run. The player must hit a target and can change plane velocity and climbing/dive angle. The player must drop the bomb at the right moment to hit the target.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 19,
+                "name": "Flight / aviation"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 159,
+                "name": "Vehicular combat"
+            }
+        ],
+        "id": 145851,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/145851/bombrun/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1978-02-02"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Bombrun"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Mastermind</em> is a BASIC implementation of the board game of the same name. The player must crack a code of five digits and after each guess is given clues in the form of \"amount of digits that are correct\" and \"amounts of digits that are correct but not in the right position\". The goal is to guess the code in as little guesses as possible using logical deduction. There are some settings which allow the exclusion of duplicate digits and whether the digits are in the range 1-8 or 0-8. The game is lost if the code is not guessed in 12 tries.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 231,
+                "name": "Fangame"
+            }
+        ],
+        "id": 145852,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/145852/mastermind/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1978-02-10"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Mastermind"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>PKGV1</em> features two games that require a visual display module. The games are <em>Robots</em>, a real-time action game and <em>Asteroid!</em></p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 145856,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/145856/pkgv1/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "PKGV1"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Golf Pro</em> is a golfing game written in BASIC. The player enters a number between 1 and 20 to determine the club type and swing force. There are two different courses that can be played: Sedum Sod Country Club and Dwan Public Links.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 35,
+                "name": "Golf"
+            }
+        ],
+        "id": 145857,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/145857/golf-pro/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1978-04-06"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Golf Pro"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Roulette</em> is a simulation of the casino game of the same name. The player starts with $350 dollars and can bet and view the table. Standard roulette rules apply. When the player stops the player is congratulated or not based on his winnings.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 145938,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/145938/roulette/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1978-01-05"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Roulette"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Shoot</em> has the player fire projectiles at targets. The player can choose a velocity and angle for his projectile and the game will present a target at a specific distance. The player will have to calculate the right values to hit the target.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 143,
+                "name": "Artillery"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 145997,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/145997/shoot/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1978-01"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Shoot"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Keno</em> is a computer version of the gambling game. Up to four players can play and cards for each player and called numbers are displayed on the screen.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            }
+        ],
+        "id": 167149,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/167149/keno/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Keno"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Sink</em> is a game that pits the player's fleet against the enemy fleet. Each fleet has destroyers and submarines. Submarines can fire torpedoes and destroyers can drop depth charges in an attempt to take out the submarines. The player's goal is to take out the entire enemy fleet before they destroy theirs.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 41,
+                "name": "Naval / watercraft"
+            }
+        ],
+        "id": 184588,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/184588/sink/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Sink"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Amazn</em> is a maze game. The game uses randomly generated mazes and the player uses the arrow keys to navigate through it in an attempt to beat another player or beat a previous time record.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 15,
+                "name": "Real-time"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 184589,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/184589/amazn/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Amazn"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Hi-Roller</em> is a dice game similar to <em>Yahtzee</em>. Up to five players can compete for the best score.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            }
+        ],
+        "id": 184590,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/184590/hi-roller/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Hi-Roller"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Strategy Games</em> is a collection of five games for the Sol-20 microcomputer:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/game/63723/wumpus/\">Wumpus I</a></li>\n<li><a href=\"https://www.mobygames.com/game/46556/wumpus-ii/\">Wumpus II</a></li>\n<li><em>Trap</em> - A two-player light cycle game.</li>\n<li><em>Race</em> - A single-screen top-down racing game with three different tracks.</li>\n<li><a href=\"https://www.mobygames.com/search/?q=Kingdom\">Kingdom</a></li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 6,
+                "name": "Racing / Driving"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 188,
+                "name": "Automobile"
+            }
+        ],
+        "id": 184609,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/184609/strategy-games/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1979-10"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Strategy Games"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Space Games-4</em> is a compilation of four space themed games for the Sol-20 microcomputer. The following games are included:</p>\n<ul>\n<li><em>Asteroid</em> - The player controls a space ship and must navigate through space. Aside from the titular asteroids the player must also avoid stars and hostile space meanies. The player can destroy obstacles with torpedoes but the enemies will also shoot back.</li>\n<li><em>Lunar</em> - A Lunar Lander variant, where the player must land a module on the moon without crashing into it by carefully controlling its descent.</li>\n<li><em>Star Wars</em> - A Star Wars inspired first person shooting game where the player sits inside an X-Wing fighter and must move around to line up enemy TIE fighters in their crosshair.</li>\n<li><em>Romulan</em> - A Star Trek inspired simulation of a combat situation between a Federation ship and a Romulan space craft. The player can use sensors to spot the Romulan ship but must try not to use too much power. The goal is to shoot down the Romulan ship before they shoot down the player.</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 184610,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/184610/space-games-4/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1979-10"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Space Games-4"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Seawolf</em> is a tactical game in which the player controls a submarine during World War II. For the duration of the war the player can take on missions in an attempt to sink enemy ships. Each ship that is sunk is worth points. The player has various moves but ends their turn when diving, firing or waits. The game has no map but only shows a list of enemy ships with the respective ranges. The player can use both torpedoes and the gun deck to attack the enemy.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 41,
+                "name": "Naval / watercraft"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 215,
+                "name": "World War II"
+            }
+        ],
+        "id": 184619,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/184619/seawolf/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1979-06-10"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Seawolf"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Afrika Korps</em> is a game that uses a similar structure as <a href=\"https://www.mobygames.com/search/?q=Seawolf\">Seawolf</a> by the same author. Instead of controlling a submarine the player controls a tank, flak cannon or other randomly assigned vehicle and must take out Allied forces in Northern Africa during World War II. Firepower and accuracy increase if the player gets closer to the enemy, creating a trade-off between firing from a safe range and going in guns blazing against larger groups of enemies. Different vehicles have different stats for speed, armor, amount of ammunition, etc.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 80,
+                "name": "Tank"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 196,
+                "name": "Africa"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 215,
+                "name": "World War II"
+            }
+        ],
+        "id": 184620,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/184620/afrika-korps/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Afrika Korps"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Panzer</em> is a game similar to <a href=\"https://www.mobygames.com/search/?q=Afrika+Korps\">Afrika Korps</a> by the same author. The game plays mostly the same, but instead of fighting the Allies in Northern Africa, the player fights as a German Panzer commander against British and American troops in Europe. Firepower and accuracy increase if the player gets closer to the enemy, creating a trade-off between firing from a safe range and going in guns blazing against larger groups of enemies. Different vehicles have different stats for speed, armor, amount of ammunition, etc.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 80,
+                "name": "Tank"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 215,
+                "name": "World War II"
+            }
+        ],
+        "id": 184621,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/184621/panzer/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1979-05-01"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Panzer"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Patton</em> is a game similar to <a href=\"https://www.mobygames.com/search/?q=Afrika+Korps\">Afrika Korps</a> by the same author. The game plays mostly the same, but instead of fighting the Allies in Northern Africa, the player fights as American general Patton fighting against the Germans. Firepower and accuracy increase if the player gets closer to the enemy, creating a trade-off between firing from a safe range and going in guns blazing against larger groups of enemies. Different vehicles have different stats for speed, armor, amount of ammunition, etc.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 80,
+                "name": "Tank"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 215,
+                "name": "World War II"
+            }
+        ],
+        "id": 184622,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/184622/patton/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1979-04-15"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Patton"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Midway</em> is a <a href=\"https://www.mobygames.com/group/7548/star-trek-variants/\">Star Trek variant</a> using a World War II theme. The player controls a ship called the Enterprise and must defend the island of Midway in the Pacific against Japanese ships. The Japanese have different types of ships (an aircraft carrier, a battleship, and cruisers). The player can engage in direct fire or call upon aircraft from Midway island. The Japanese also actively hunt the player with aircraft.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 19,
+                "name": "Flight / aviation"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 41,
+                "name": "Naval / watercraft"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 215,
+                "name": "World War II"
+            }
+        ],
+        "id": 184623,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/184623/midway/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1979-06-03"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Midway"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Tankz</em> is a game similar to <a href=\"https://www.mobygames.com/search/?q=Afrika+Korps\">Afrika Korps</a> by the same author. The game plays mostly the same, but instead of fighting the Allies in Northern Africa, the player fights as Soviet commander fighting against the Germans in the Eastern front during World War II. Firepower and accuracy increase if the player gets closer to the enemy, creating a trade-off between firing from a safe range and going in guns blazing against larger groups of enemies. Different vehicles have different stats for speed, armor, amount of ammunition, etc.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 80,
+                "name": "Tank"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 215,
+                "name": "World War II"
+            }
+        ],
+        "id": 184692,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/184692/tankz/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1979-04-10"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Tankz"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Tanks</em> is a game similar to <a href=\"https://www.mobygames.com/search/?q=Afrika+Korps\">Afrika Korps</a> by the same author. The game plays mostly the same, but instead of fighting the Allies in Northern Africa, the player fights as American commander fighting against the Germans in an undisclosed World War II theatre. Firepower and accuracy increase if the player gets closer to the enemy, creating a trade-off between firing from a safe range and going in guns blazing against larger groups of enemies. Different vehicles have different stats for speed, armor, amount of ammunition, etc.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 80,
+                "name": "Tank"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 215,
+                "name": "World War II"
+            }
+        ],
+        "id": 184693,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/184693/tanks/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Tanks"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Shoot Games</em> is a compilation of three artillery games converted to run on the Sol-20 microcomputer. The games are:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/search/?q=Barrage\">Barrage</a></li>\n<li><a href=\"https://www.mobygames.com/game/121561/whitesand-artillery-practice/\">Whitesand: Artillery Practice</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Tank+Game\">Tank Game</a></li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 184694,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/184694/shoot-games/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1979-11-01"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Shoot Games"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Crap &amp; Dice Games</em> is a compilation of various Craps and dice games, adapted to run on the SOL-20 microcomputer. The following games are included:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/search/?q=Craps\">Craps</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Craps\">Craps2</a></li>\n<li><a href=\"https://www.mobygames.com/game/111043/dice/\">Dice</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Craps\">D-Craps</a> (Dartmouth Craps)</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 184695,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/184695/crap-dice-games/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1979-01-15"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Crap & Dice Games"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Super Mastermind</em> is a computer implementation of the board game <em>Mastermind</em>. The player must discover a secret code of five sequential colors. This is done by guessing. After each guess the player learns how many of the colors in the sequence are correct, and how many are of the correct color, but in an incorrect position. This implementation uses a custom seed-based random algorithm to prevent each game to start with the same code.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 184704,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/184704/super-mastermind/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1979-02"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Super Mastermind"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Palmer</em> is a text-based golfing game. The player plays a game of golf at the Brown University Country Club. The player must select a club for each stroke. For some clubs it's possible to give a partial swing (as a percentage). After each swing the new location of the ball is described and the distance to the hole.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 35,
+                "name": "Golf"
+            }
+        ],
+        "id": 222521,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/222521/palmer/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 199,
+                    "name": "Sol-20"
+                },
+                "1980-10-01"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Palmer"
+    }
+]

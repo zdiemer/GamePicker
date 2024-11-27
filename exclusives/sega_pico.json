@@ -1,0 +1,2970 @@
+[
+    {
+        "alternate_titles": [
+            {
+                "description": "Italian title",
+                "title": "Tails ed il Music Maker"
+            },
+            {
+                "description": "French title",
+                "title": "Tails et le Faiseur de Musique"
+            },
+            {
+                "description": "Brazilian title",
+                "title": "Tails no Mundo da M\u00fasica"
+            },
+            {
+                "description": "German title",
+                "title": "Tails und der Musikant"
+            },
+            {
+                "description": "Spanish title",
+                "title": "Tails y el M\u00fasico"
+            }
+        ],
+        "description": "<p>Tails, the double-tailed fox, takes children in a musical trip : they will discover many instruments, the basics of rhythm and tempo. An animated keyboard lets them play their own tracks, an special pinball shows the different percussion sounds. A basic editor using Sonic universe characters would even let them create their own cartoons, dubbed by their musical creation.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 13,
+                    "name": "Art Style"
+                },
+                "description": null,
+                "id": 57,
+                "name": "Anime / Manga"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 97,
+                "name": "Music / rhythm"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 59,
+                "name": "Music"
+            }
+        ],
+        "id": 55007,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/55007/tails-and-the-music-maker/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 103,
+                    "name": "SEGA Pico"
+                },
+                "1994"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/5779329-tails-and-the-music-maker-sega-pico-front-cover.jpg",
+            "platforms": [
+                "SEGA Pico"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/13bf180e-abe9-11ed-8d66-02420a000132.webp",
+            "width": 659
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Colorful Level 5",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/16135947-tails-and-the-music-maker-sega-pico-colorful-level-5.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/46994780-bf7c-11ed-9521-02420a000152.webp",
+                "width": 320
+            },
+            {
+                "caption": "Flippers Change Colors each stage",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/16251518-tails-and-the-music-maker-sega-pico-flippers-change-colors-each-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fe2a3ff8-c1de-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Credits which are accessed by clicking on a note on the title screen.",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/16251863-tails-and-the-music-maker-sega-pico-credits-which-are-accessed-b.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/168dfa4e-c1df-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Springs fill the holes to keep you going.",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/16251599-tails-and-the-music-maker-sega-pico-springs-fill-the-holes-to-ke.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/03842a04-c1df-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Musical Lilly Pads, Avoid the \"red\" one!",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/16251446-tails-and-the-music-maker-sega-pico-musical-lilly-pads-avoid-the.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f7381562-c1de-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            }
+        ],
+        "title": "Tails and the Music Maker"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "Brazilian title",
+                "title": "Cores M\u00e1gicas"
+            },
+            {
+                "description": "French title",
+                "title": "Crayons Magiques"
+            },
+            {
+                "description": "Spanish title",
+                "title": "Lapices de Colores Magicos"
+            },
+            {
+                "description": "Dutch title",
+                "title": "Magische Krijtjes"
+            },
+            {
+                "description": "German title",
+                "title": "Zauberbuntstifte"
+            }
+        ],
+        "description": "<p><em>Magic Crayons</em> intends to help the children to learn basic geometrical figures, colors and dexterity while coloring black&amp;white scenes with the sensitive pen of the Pico system, placing geometrical forms, creating toys from different parts (choosing body, ears, eyes, etc...). A basic animation studio kit allows kids to create short cartoons.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 79,
+                "name": "Graphics / art"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 46,
+                "name": "Pre-school / toddler"
+            }
+        ],
+        "id": 55010,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/55010/magic-crayons/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 103,
+                    "name": "SEGA Pico"
+                },
+                "1994"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/5827025-magic-crayons-sega-pico-front-cover.jpg",
+            "platforms": [
+                "SEGA Pico"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/7f0e3f68-abe9-11ed-b444-02420a000134.webp",
+            "width": 662
+        },
+        "sample_screenshots": [],
+        "title": "Magic Crayons"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "French title",
+                "title": "Richard Scarry's Une Journ\u00e9e bien remplie pour Cassis et Asticot"
+            }
+        ],
+        "description": "<p>Based on the characters created by famous author and illustrator Richard Scarry (BusyTown, Busy World),  this educational game intends to develop memory (a pairing game) and creativity (with cookies customisation), learn colors and mixing them to create new ones, or find a path to move a character to a destination, avoiding obstacles. A basic animation studio kit allows children to create a short cartoon.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 79,
+                "name": "Graphics / art"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 46,
+                "name": "Pre-school / toddler"
+            }
+        ],
+        "id": 55022,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/55022/richard-scarrys-huckle-and-lowlys-busiest-day-ever/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 103,
+                    "name": "SEGA Pico"
+                },
+                "1994"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/6212593-richard-scarrys-huckle-and-lowlys-busiest-day-ever-sega-pico-fro.jpg",
+            "platforms": [
+                "SEGA Pico"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/b8ec59ce-abec-11ed-9941-02420a000133.webp",
+            "width": 660
+        },
+        "sample_screenshots": [],
+        "title": "Richard Scarry's Huckle and Lowly's Busiest Day Ever"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "European title",
+                "title": "Pocahontas"
+            }
+        ],
+        "description": "<p><em>Disney's Pocahontas Riverbend Adventure</em> is described as storyware and it based on the 1995 animated Disney film. It offers several activities in the universe of the Indian princess:* Music: create your own tunes to make Pocahontas dance.</p>\n<ul>\n<li>Geometry: create pottery using different shapes.</li>\n<li>Coordination: a little arcade game with a canoe on the river, Pocahotas should doge objects.</li>\n<li>Pairing: find different clothes to recreate Percy's suits.</li>\n<li>Drawing/count: use the pico pen to link numbered dots to reveal a picture.</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 126,
+                "name": "3rd-person (Other)"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 81,
+                "name": "Ecology / nature"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 79,
+                "name": "Graphics / art"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 43,
+                "name": "Math / logic"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 59,
+                "name": "Music"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 56259,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/56259/disneys-pocahontas-riverbend-adventures/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 103,
+                    "name": "SEGA Pico"
+                },
+                "1995"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/6580741-disneys-pocahontas-riverbend-adventures-sega-pico-front-cover.jpg",
+            "platforms": [
+                "SEGA Pico"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/963af2a2-abef-11ed-927d-02420a00012f.webp",
+            "width": 661
+        },
+        "sample_screenshots": [],
+        "title": "Disney's Pocahontas: Riverbend Adventures"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "Dutch title",
+                "title": "Disney's De Avonturen van de Leeuwekoning"
+            },
+            {
+                "description": "French title",
+                "title": "Les aventures du Roi Lion"
+            },
+            {
+                "description": "Brazilian title",
+                "title": "O Rei Le\u00e3o: As Aventuras de Simba"
+            }
+        ],
+        "description": "<p><em>Disney's The Lion King: Adventures at Pride Rock</em> is based on the 1994 Disney animated film. It offers several activities in Simba's universe:* Use memory skills to create a picture with puzzle pieces.</p>\n<ul>\n<li>Uncover a picture and learn your ABC.</li>\n<li>Match and learn shapes and put them in their place.</li>\n<li>Count stars in the sky and learn numbers.</li>\n<li>Develop your dexterity in an easy arcade mini-game</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 126,
+                "name": "3rd-person (Other)"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 79,
+                "name": "Graphics / art"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 43,
+                "name": "Math / logic"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 46,
+                "name": "Pre-school / toddler"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 196,
+                "name": "Africa"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 56262,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/56262/disneys-the-lion-king-adventures-at-pride-rock/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 103,
+                    "name": "SEGA Pico"
+                },
+                "1995"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/6580750-disneys-the-lion-king-adventures-at-pride-rock-sega-pico-front-c.jpg",
+            "platforms": [
+                "SEGA Pico"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/972869b0-abef-11ed-927d-02420a00012f.webp",
+            "width": 660
+        },
+        "sample_screenshots": [],
+        "title": "Disney's The Lion King: \"Adventures at Pride Rock\""
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>A Nintendo franchise has come to a SEGA console. <em>Pocket Monsters: S\u016bji o Tsukamaeyou!</em> is an educational game for younger players, based directly on the Pok\u00e9mon anime series. Taking place late in the Johto saga, Ash Ketchum (or here, Satoshi) is traveling with Misty (Kasumi) and Brock (Takeshi). As usual, Team Rocket is following, and they attack, stealing all their Pok\u00e9mon except for Pikachu and Togepi. The player must recover the lost Pok\u00e9mon through a series of minigames, most of them math related. The game features voice acting from the anime's cast.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 13,
+                    "name": "Art Style"
+                },
+                "description": null,
+                "id": 57,
+                "name": "Anime / Manga"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 140,
+                "name": "Mini-games"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 79,
+                "name": "Graphics / art"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 43,
+                "name": "Math / logic"
+            }
+        ],
+        "id": 67591,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/67591/pocket-monsters-suji-o-tsukamaeyou/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 103,
+                    "name": "SEGA Pico"
+                },
+                "2002"
+            ]
+        ],
+        "sample_cover": {
+            "height": 224,
+            "image_url": "https://cdn.mobygames.com/screenshots/16525160-pocket-monsters-suji-o-tsukamaeyou-sega-pico-title-screen.png",
+            "platforms": [
+                "SEGA Pico"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/1c7082c4-c234-11ed-ab6b-02420a000194.webp",
+            "width": 320
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Title screen.",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/16525160-pocket-monsters-suji-o-tsukamaeyou-sega-pico-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1c7082c4-c234-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            }
+        ],
+        "title": "Pocket Monsters: S\u016bji o Tsukamaeyou!"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Pocket Monsters Advanced Generation: Hiragana Katakana Kakechatta!</em> is an educational Pok\u00e9mon game for SEGA Pico. It is designed with the purpose of teaching Japanese children to write in both hiragana and katakana. Team Rocket disguise themselves to trick Ash, Brock, May, and Max into catching more Pok\u00e9mon. Pok\u00e9mon are caught by correctly drawing Japanese symbols. The player is shown a symbol being drawn, then they must trace the character over a template on the screen using the Pico's pen controller. Pok\u00e9mon are caught for every five kana.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 13,
+                    "name": "Art Style"
+                },
+                "description": null,
+                "id": 57,
+                "name": "Anime / Manga"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 44,
+                "name": "Reading / writing"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 68415,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/68415/pocket-monsters-advanced-generation-hiragana-katakana-kakechatta/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 103,
+                    "name": "SEGA Pico"
+                },
+                "2003"
+            ]
+        ],
+        "sample_cover": {
+            "height": 224,
+            "image_url": "https://cdn.mobygames.com/screenshots/16504177-pocket-monsters-advanced-generation-hiragana-katakana-kakechatta.png",
+            "platforms": [
+                "SEGA Pico"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/9e8e4170-c22e-11ed-ab6b-02420a000194.webp",
+            "width": 320
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Title screen.",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/16504177-pocket-monsters-advanced-generation-hiragana-katakana-kakechatta.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9e8e4170-c22e-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            }
+        ],
+        "title": "Pocket Monsters Advanced Generation: Hiragana Katakana Kakechatta!"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Pocket Monsters Advanced Generation: Minna de Pico Pok\u00e9mon Waiwai Battle!</em> is the third and final Pok\u00e9mon game for the SEGA Pico. As the title suggests, it is based on the Advanced Generation series of the Pok\u00e9mon anime. Ash Ketchum and Team Rocket compete in various minigames, such as racing and destroying boulders to free trapped Pok\u00e9mon.</p>\n<p>The game was bundled with a special gamepad controller.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 13,
+                    "name": "Art Style"
+                },
+                "description": null,
+                "id": 57,
+                "name": "Anime / Manga"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 71391,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/71391/pocket-monsters-advanced-generation-minna-de-pico-pokemon-waiwai/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 103,
+                    "name": "SEGA Pico"
+                },
+                "2004-07-13"
+            ]
+        ],
+        "sample_cover": {
+            "height": 788,
+            "image_url": "https://cdn.mobygames.com/covers/2703813-pocket-monsters-advanced-generation-minna-de-pico-pokemon-waiwai.png",
+            "platforms": [
+                "SEGA Pico"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/d3d28e26-ab82-11ed-8ed2-02420a0001a0.webp",
+            "width": 1200
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Title screen.",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/16585633-pocket-monsters-advanced-generation-minna-de-pico-pokemon-waiwai.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3746bd66-c248-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            }
+        ],
+        "title": "Pocket Monsters Advanced Generation: Minna de Pico Pok\u00e9mon Waiwai Battle!"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "Japanese title",
+                "title": "Pooh-san to Tanoshii Nakama-tachi"
+            },
+            {
+                "description": "Brazilian title",
+                "title": "Puff e as Quatro Esta\u00e7\u00f5es"
+            }
+        ],
+        "description": "<p>An Edutainment title based on the Winnie the Pooh characters of A. A. Milne. Game play consists mostly of mini-games, which are divided into themes based upon the four seasons.</p>\n<p>Spring \n- Pooh's Spring Cleaning - Objects are blown around Pooh's house and you must show him where they belong.\n- Pin the Tail on Eeyore - Eeyore has lose his tail, help him put it back on.\n- Piglet Grows a Garden - Water Piglet's Garden to grow Plants and Flowers</p>\n<p>Summer\n- Pooh's friends will show you questions, Use Pooh to collect the correct answers from the river. </p>\n<p>Fall\n- Move Pooh to the Honey tree. Once inside you find yourself in the Honeycomb Maze. Get to the other side by stepping on as many honeycombs as possible while avoiding the flashing honeycombs.</p>\n<p>Winter\n- Trace the letters, numbers and shapes pooh's friends ask for on the frozen lake\n- Build your own snowman</p>\n<p>Also includes a make your own video option, with music, backgrounds, characters, and drawing tools. Click the clock and the characters become animated.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 43,
+                "name": "Math / logic"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 44,
+                "name": "Reading / writing"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 77858,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/77858/a-year-at-pooh-corner/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 103,
+                    "name": "SEGA Pico"
+                },
+                "1994-11-15"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/778928-a-year-at-pooh-corner-sega-pico-front-cover.jpg",
+            "platforms": [
+                "SEGA Pico"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/d36c03b2-ab6f-11ed-81b6-02420a00019d.webp",
+            "width": 626
+        },
+        "sample_screenshots": [],
+        "title": "A Year at Pooh Corner"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Adventures in Letter Land with Jack &amp; Jill</em> is an animated storybook game with the nursery rhyme characters Jack, Jill, and Mother Goose. This game doubles as a storybook and a game, with mini-games found on each page. In Parachute Letters, players must match the letter with the one Mother Goose is carrying, In ABC Land, you must match multiple different letters in a row. In Conveyor Belt Words, you must complete the word given by finding the correct letter on the convener belt. In Robot Designer, you can create a unique robot by using different parts, and it will even dance for the player. On Cake Island, you must arrange fallen gumdrops in alphabetical order. On the Sunken Letter Ship, you must match the capital letter with its lowercase form. Finally, you are able to make your own story on the last page of the book. There is also a butterfly coloring book on the 2nd page. Some activities have several levels of difficulty, and the game primarily teaches alphabet and reading skills.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 126,
+                "name": "3rd-person (Other)"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 140,
+                "name": "Mini-games"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 46,
+                "name": "Pre-school / toddler"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 44,
+                "name": "Reading / writing"
+            }
+        ],
+        "id": 123263,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/123263/adventures-in-letter-land-with-jack-jill/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 103,
+                    "name": "SEGA Pico"
+                },
+                "1995"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/7623217-adventures-in-letter-land-with-jack-jill-sega-pico-front-cover.jpg",
+            "platforms": [
+                "SEGA Pico"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/bf64a29c-abf7-11ed-897b-02420a00012d.webp",
+            "width": 628
+        },
+        "sample_screenshots": [],
+        "title": "Adventures in Letter Land with Jack & Jill"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Pepe's Puzzles</em> is a puzzle game created for small children between the ages of 5-7 years old. There are three different kinds of mini-games found in this game; Mazes, Puzzles, and Sequential Memory/Matching Games. There are 5 different mazes to choose from, all with their own gimmicks. The main goal in the maze mini-games is to get to the flag, but each mini-game involves a different way to do so. One is simple movement, one is following arrows, one is a specifically colored path, one involves picking up all the fish food before reaching the flag, and one has X or O spaces on the maze. There are two different puzzles to choose from; a slide puzzle and a jigsaw puzzle. There are bad penguins that should be avoided in both puzzles. There are 4 different matching/memory games to choose from. One is simply matching fish, one is remembering the correct pathways by color, one has you turn the pages of the book to find an object, and one has you match the colored shapes in order. There are 2-3 difficulty levels depending on the mini-game, and it primarily focuses on teaching problem-solving and logic skills.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 126,
+                "name": "3rd-person (Other)"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 140,
+                "name": "Mini-games"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 154,
+                "name": "Tile matching puzzle"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 43,
+                "name": "Math / logic"
+            }
+        ],
+        "id": 123264,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/123264/pepes-puzzles/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 103,
+                    "name": "SEGA Pico"
+                },
+                "1995"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/7622386-pepes-puzzles-sega-pico-front-cover.jpg",
+            "platforms": [
+                "SEGA Pico"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/c0427f0e-abf7-11ed-b57a-02420a000130.webp",
+            "width": 639
+        },
+        "sample_screenshots": [],
+        "title": "Pepe's Puzzles"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>This Pico-exclusive minigame collection has one to two players stepping into the shoes of Sonic, Tails or Amy. The simple minigames are suitable for the very small children who were playing Pico games and are based around the use of the Pico's stylus.</p>\n<p>The Japanese version included several gambling-themed minigames, which were replaced in the American version with a simple art program.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 140,
+                "name": "Mini-games"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 167,
+                "name": "Point and select"
+            }
+        ],
+        "id": 143327,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/143327/sonic-the-hedgehogs-gameworld/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 103,
+                    "name": "SEGA Pico"
+                },
+                "1994-08"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Sonic the Hedgehog's Gameworld"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>LEGO Fun to Build</em> is an edutainment game for young children based on the popular construction toy. There are four main levels, each one based on one of LEGO's most popular themes at the time (Town, Aquazone, Castle, and Space), plus an additional sandbox level where the player can build their own creations.</p>\n<p>Each level contains a selection of building challenges that lead into mini-games. In the building challenges, the player is shown a themed model being disassembled and must rebuild the model in the order that it was disassembled in. The player is awarded a score counted in seconds based on how long they took to complete the model.</p>\n<p>In the Town level, building the boat, buggy, helicopter, or race car will load a racing mini-game where the player can choose to play as any of those vehicles in a race against the others. Winning the race will lead to a second race against the runner-up. Building the pizza van will load a mini-game where the player must deliver pizzas to houses within a time limit.</p>\n<p>In the Aquazone level, building the mini-submarine will load a side-scrolling action mini-game where the player must collect as many crystals as possible from the ocean floor within a time limit. Building the large submarine loads a first-person, claw machine-like mini-game where the player must collect crystals with a claw while avoiding a patrolling shark.</p>\n<p>In the Castle level mini-game, an evil wizard has possessed four knights by replacing their helmets with wizards' hats. The player explores the wizard's castle from a side perspective, choosing which paths to take while avoiding traps. While some traps can be overcome by solving puzzles, others force the player to take alternate routes. Eventually, the player must free the knights from the wizard's brainwashing by throwing helmets onto their heads while avoiding the wizard and his dragon.</p>\n<p>In the Space level, building a red saucer loads a mini-game where the player must search their immediate vicinity in space to find all of the pieces of a giant disassembled robot. Meanwhile, building a moon sled in the building challenge loads an ice hockey-esque mini-game where each goal scores awards the player with a part of a giant robot.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 140,
+                "name": "Mini-games"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 79,
+                "name": "Graphics / art"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 160004,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/160004/lego-fun-to-build/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 103,
+                    "name": "SEGA Pico"
+                },
+                "1995-12"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "LEGO Fun to Build"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "Brazilian title",
+                "title": "Ecco Jr.: No Fundo do Mar!"
+            }
+        ],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 140,
+                "name": "Mini-games"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 167,
+                "name": "Point and select"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 43,
+                "name": "Math / logic"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 59,
+                "name": "Music"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 46,
+                "name": "Pre-school / toddler"
+            }
+        ],
+        "id": 177701,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/177701/ecco-jr-and-the-great-ocean-treasure-hunt/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 103,
+                    "name": "SEGA Pico"
+                },
+                "1994"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Ecco Jr. and the Great Ocean Treasure Hunt!"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 140,
+                "name": "Mini-games"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 167,
+                "name": "Point and select"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 81,
+                "name": "Ecology / nature"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 79,
+                "name": "Graphics / art"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 43,
+                "name": "Math / logic"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 46,
+                "name": "Pre-school / toddler"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 44,
+                "name": "Reading / writing"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 179278,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/179278/the-berenstain-bears-a-school-day/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 103,
+                    "name": "SEGA Pico"
+                },
+                "1995"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "The Berenstain Bears' A School Day"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 129,
+                "name": "Diagonal-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 140,
+                "name": "Mini-games"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 167,
+                "name": "Point and select"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 43,
+                "name": "Math / logic"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 179446,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/179446/math-antics-with-disneys-101-dalmatians/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 103,
+                    "name": "SEGA Pico"
+                },
+                "1996"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Math Antics with Disney's 101 Dalmatians"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "Italian title",
+                "title": "Lancio di Topolino nel Passato"
+            },
+            {
+                "description": "German title",
+                "title": "Mickey: Ausflug in die Vergangenheit"
+            },
+            {
+                "description": "French title",
+                "title": "Mickey: Fait un Voyage Eclair Dans le Passe"
+            },
+            {
+                "description": "Spanish title",
+                "title": "Mickey: Le Echa un Vistazo al Pasado"
+            },
+            {
+                "description": "Brazilian title",
+                "title": "Mickey: Viajando no Tempo"
+            }
+        ],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 140,
+                "name": "Mini-games"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 167,
+                "name": "Point and select"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 79,
+                "name": "Graphics / art"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 74,
+                "name": "History"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 43,
+                "name": "Math / logic"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 46,
+                "name": "Pre-school / toddler"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 86,
+                "name": "Science"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 202,
+                "name": "Europe"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 14,
+                "name": "Historical events"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 204,
+                "name": "Industrial Age"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 207,
+                "name": "North America"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 190,
+                "name": "Prehistoric"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 179511,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/179511/mickeys-blast-into-the-past/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 103,
+                    "name": "SEGA Pico"
+                },
+                "1994"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Mickey's Blast into the Past"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 30,
+                "name": "Puzzle elements"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 167,
+                "name": "Point and select"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 81,
+                "name": "Ecology / nature"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 86,
+                "name": "Science"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 16,
+                "name": "Bus"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 179666,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/179666/scholastics-the-magic-school-bus-going-places/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 103,
+                    "name": "SEGA Pico"
+                },
+                "1995"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Scholastic's The Magic School Bus: Going Places"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 140,
+                "name": "Mini-games"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 167,
+                "name": "Point and select"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 79,
+                "name": "Graphics / art"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 46,
+                "name": "Pre-school / toddler"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 44,
+                "name": "Reading / writing"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 179867,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/179867/sesame-street-alphabet-avenue/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 103,
+                    "name": "SEGA Pico"
+                },
+                "1997"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Sesame Street: Alphabet Avenue"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>Based on the anime of the same name, this game requires the player to turns pages of the \"cartridge\" to access various mini-games. Those mini-games include questions with multiple choices, picking jewelry for the sailor senshi, playing dress-up with the girls and watching their transformation sequences. Eventually the player will play the Amazon Trio's mini-games such as Hawk's Eye's shell game, Tiger's Eye's ball game, and Fisheye's flying trapeze game. Lastly, the player is treated to a drawing program to freely draw a custom picture or color in an existing one.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 13,
+                    "name": "Art Style"
+                },
+                "description": null,
+                "id": 57,
+                "name": "Anime / Manga"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 15,
+                "name": "Real-time"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 140,
+                "name": "Mini-games"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 229,
+                "name": "Japan (Modern/Futuristic)"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 120,
+                "name": "Comedy"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 179876,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/179876/bishojo-senshi-sailor-moon-supers/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 103,
+                    "name": "SEGA Pico"
+                },
+                "1995-10-19"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Bish\u014djo Senshi Sailor Moon SuperS"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 140,
+                "name": "Mini-games"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 30,
+                "name": "Puzzle elements"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 167,
+                "name": "Point and select"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 79,
+                "name": "Graphics / art"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 43,
+                "name": "Math / logic"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 46,
+                "name": "Pre-school / toddler"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 44,
+                "name": "Reading / writing"
+            }
+        ],
+        "id": 179897,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/179897/smart-alex-and-smart-alice-curious-kids/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 103,
+                    "name": "SEGA Pico"
+                },
+                "1995"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Smart Alex and Smart Alice: Curious Kids"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>Based on the anime of the same name, this game requires the player to turns pages of the \"cartridge\" to access various mini-games. Those mini-games include changing the colors of objects, guessing correct number combinations, interacting at a tea party and decorating a cake. Afterwards the player will play a wheel of fortune-styled mini-game to combat the Death Busters, Nekonneru, Steering and Kaolinite, followed by final showdown between Nekonneru and Sailor Moon. The final mini-game allows the player to do dress-up with the sailor senshi.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 13,
+                    "name": "Art Style"
+                },
+                "description": null,
+                "id": 57,
+                "name": "Anime / Manga"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 15,
+                "name": "Real-time"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 140,
+                "name": "Mini-games"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 229,
+                "name": "Japan (Modern/Futuristic)"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 120,
+                "name": "Comedy"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 180016,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/180016/bishojo-senshi-sailor-moon-s/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 103,
+                    "name": "SEGA Pico"
+                },
+                "1994-07"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Bish\u014djo Senshi Sailor Moon S"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 140,
+                "name": "Mini-games"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 167,
+                "name": "Point and select"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 79,
+                "name": "Graphics / art"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 43,
+                "name": "Math / logic"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 46,
+                "name": "Pre-school / toddler"
+            }
+        ],
+        "id": 180039,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/180039/the-great-counting-caper-with-the-3-blind-mice/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 103,
+                    "name": "SEGA Pico"
+                },
+                "1995"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "The Great Counting Caper with the 3 Blind Mice"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 140,
+                "name": "Mini-games"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 97,
+                "name": "Music / rhythm"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 167,
+                "name": "Point and select"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 59,
+                "name": "Music"
+            }
+        ],
+        "id": 180070,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/180070/musical-zoo/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 103,
+                    "name": "SEGA Pico"
+                },
+                "1995"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Musical Zoo"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>Based on the anime series <em>Cutie Honey Flash</em>, the titular hero sets off to rescue her best friend Natsuko Aki from the clutches of Panther Claw Executive Sister Jill. The player moves Cutie Honey around locations using a pen. Progressing through the game requires the player to speak to various characters, play mini-games and battle members of the Panther Claws. Cutie Honey can also be changed into one her different forms to carry out her investigations more effectively.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 126,
+                "name": "3rd-person (Other)"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 13,
+                    "name": "Art Style"
+                },
+                "description": null,
+                "id": 57,
+                "name": "Anime / Manga"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 140,
+                "name": "Mini-games"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 167,
+                "name": "Point and select"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 229,
+                "name": "Japan (Modern/Futuristic)"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 55,
+                "name": "Detective / mystery"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 180106,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/180106/cutie-honey-f/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 103,
+                    "name": "SEGA Pico"
+                },
+                "1997-06"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Cutie Honey F"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>Based on the <em>Sailor Moon Sailor Stars</em> anime series, this spin-off game features a selection of mini-games including memory match, a top-down shooter, musical chairs, a vertical shooter with balloons, a horizontal shooter against Sailor Iron Mouse, a platformer on clouds, a maze game, a catching game, an eating game and an object detecting game.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 126,
+                "name": "3rd-person (Other)"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 13,
+                    "name": "Art Style"
+                },
+                "description": null,
+                "id": 57,
+                "name": "Anime / Manga"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 140,
+                "name": "Mini-games"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 229,
+                "name": "Japan (Modern/Futuristic)"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 120,
+                "name": "Comedy"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 180127,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/180127/bishojo-senshi-sailor-moon-sailor-stars-tokimeki-party/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 103,
+                    "name": "SEGA Pico"
+                },
+                "1996-08"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Bish\u014djo Senshi Sailor Moon Sailor Stars: Tokimeki Party"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "In-game title",
+                "title": "Crayola: Create a World"
+            }
+        ],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 30,
+                "name": "Puzzle elements"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 167,
+                "name": "Point and select"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 79,
+                "name": "Graphics / art"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 44,
+                "name": "Reading / writing"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 180128,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/180128/crayola-crayons-create-a-world/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 103,
+                    "name": "SEGA Pico"
+                },
+                "1995"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Crayola Crayons: Create a World"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>Kermit and his friends go on an adventure in this US-exclusive edutainment title. The player has a selection of mini-games including Gonzo's counting game, Rizzo's jigsaws, Kermit's river crossing arcade game, Fozzie's toy shop, Gonzo's snowboarding stunts and Kermit's animation sequencing.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 15,
+                "name": "Real-time"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 140,
+                "name": "Mini-games"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 167,
+                "name": "Point and select"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 43,
+                "name": "Math / logic"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 46,
+                "name": "Pre-school / toddler"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 207,
+                "name": "North America"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 181762,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/181762/the-muppets-on-the-go/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 103,
+                    "name": "SEGA Pico"
+                },
+                "1996-03"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "The Muppets on the Go!"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>Today is Hello Kitty\u2019s birthday. In each scene, there are multiple arcade-style mini-games, which must be played (mostly within a time limit) to progress the story. Some games make use of the control pad to play, while others utilize the stylus. The player is also free to interact with the scenery and characters in between mini-games.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 126,
+                "name": "3rd-person (Other)"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 13,
+                    "name": "Art Style"
+                },
+                "description": null,
+                "id": 57,
+                "name": "Anime / Manga"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 140,
+                "name": "Mini-games"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 199657,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/199657/hello-kitty-no-suteki-na-o-tanjobi/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 103,
+                    "name": "SEGA Pico"
+                },
+                "1997"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Hello Kitty no Suteki na o-Tanj\u014dbi"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>Based on the Pixar film on the same name, this game retells the story in the form of cutscenes and mini-games, which take place in the ant colony or the bug circus. The player controls one of several bug characters to complete a task, mostly within a time limit.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 140,
+                "name": "Mini-games"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 167,
+                "name": "Point and select"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 199821,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/199821/a-bugs-life/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 103,
+                    "name": "SEGA Pico"
+                },
+                "1999"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "A Bug\u2019s Life"
+    }
+]

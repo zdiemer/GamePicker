@@ -1,0 +1,716 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Go-Moku!</em> is a computer adaptation of the classic board game. The player can play against the computer in a match to get five in a row. It implements the full rule set of the normal game.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            }
+        ],
+        "id": 110839,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/110839/go-moku/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 225,
+                    "name": "Intel 8080"
+                },
+                "1976"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Go-Moku!"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Lewthwaite's Game</em> is a two player game played on a 5 by 5 grid. All but one tile on the grid is filled with game pieces. There are two colours, white and black corresponding to the players. Each turn a player can move one of his pieces horizontally or vertically to the empty spot on the board. The first player who cannot make a valid move loses the game.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            }
+        ],
+        "id": 113325,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/113325/lewthwaites-game/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 225,
+                    "name": "Intel 8080"
+                },
+                "1977"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Lewthwaite's Game"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Kalah</em> is an adaptation of the board game with the same name. Each player has a number of round pits and a Kalah, which is a longer pit. When starting out stones are evenly distributed to the round pits. The aim of the game is to collect more than half of the stones in the player's Kalah.</p>\n<p>In each round the player takes all stones from one pit and distribute them anti clockwise around the board with one in each pit. If the last stone lands in the player's own Kalah he must make one more move. If the last stone ends in a pit on the player's side and the pit on the other side is empty, all stones in that pit will be captured. The game stops if no more moves can be made by the player and the opponent then gets to count his remaining stones to his total or when one player has more than half of the stones.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 113326,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/113326/kalah/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 225,
+                    "name": "Intel 8080"
+                },
+                "1977"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Kalah"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>A Number Guessing Game</em> is a simple number guessing game. The player must guess a number between 0 and 99. The computer will respond with H (high), L (low) or C (correct).</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 117482,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/117482/a-number-guessing-game/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 225,
+                    "name": "Intel 8080"
+                },
+                "1977-12"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "A Number Guessing Game"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>In <em>Piranhas Game</em> the player must try to avoid being eaten by famished flesh eating fish. The player can move in eight directions with the keyboard and stand still. The game can also be paused. Piranha emerge at the edge of the river and have randomly generated properties such as initial position, velocity, and tracking ability. The player earns points for each turn staying alive and when the score reaches 1000 the player is given the autopilot ability where moves are made automatically by the computer to avoid fish. When it can't save the player points are deducting, possibly removing the ability to use autopilot again.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 117484,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/117484/piranhas-game/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 225,
+                    "name": "Intel 8080"
+                },
+                "1977-12"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Piranhas Game"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Star Wars</em> is an adaptation of the final battle of the titular film. The player must aid the rebel alliance to destroy the Death Star by penetrating its trench. Ships move in three dimensions and are shown in real-time moving past the player. Ships can move around, fire and use their deflector shields and must avoid colliding with the walls.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 231,
+                "name": "Fangame"
+            }
+        ],
+        "id": 127927,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/127927/star-wars/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 225,
+                    "name": "Intel 8080"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": {
+            "height": 586,
+            "image_url": "https://cdn.mobygames.com/promos/7366647-star-wars-screenshot.jpg",
+            "platforms": [],
+            "thumbnail_image_url": "https://cdn.mobygames.com/bee2a500-abf5-11ed-b444-02420a000134.webp",
+            "width": 733
+        },
+        "sample_screenshots": [],
+        "title": "Star Wars"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Tennis Match</em> is a tennis game with synthesized speech using the Model 1000 speech synthesizer. The game itself is text-based with the player giving simple commands such as serve, slam and lob and giving his or her position in the field. The effects of each action are displayed on screen and spoken by the synthesizer.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 37,
+                "name": "Tennis"
+            }
+        ],
+        "id": 127970,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/127970/tennis-match/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 225,
+                    "name": "Intel 8080"
+                },
+                "1978-05"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Tennis Match"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Incredizing</em> (a portmanteau of incredible and amazing) is a game for one or two players in which players try to get a zinger to hit an asterisk somewhere on the screen. The zinger's path can be altered by placing symbols on the screen (\\,/,I, -, etc.). The player players play in turn and the placed characters from previous turns remain on the screen. Placing and removing symbols costs points, the goals is to have the least points at the end of the game.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 127972,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/127972/incredizing/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 225,
+                    "name": "Intel 8080"
+                },
+                "1978-04"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Incredizing"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Ping Pong for the 8080</em> is a <a href=\"https://www.mobygames.com/group/6734/pong-variants/\">Pong variant</a> for the Intel 8080 processor written in BASIC. It's a simple game played with two players. Each control a paddle with a controller and must prevent the ball from getting past them and bouncing it back towards the opponent.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 64,
+                "name": "Paddle / Pong"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 103,
+                "name": "Ping pong / table tennis"
+            }
+        ],
+        "id": 128004,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/128004/ping-pong-for-the-8080/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 225,
+                    "name": "Intel 8080"
+                },
+                "1978-08"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Ping Pong for the 8080"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Blackjack</em> is an implementation of the Las Vegas casino game. The player plays against the bank and both are dealt cards and must get as close to a value of 21 without going over.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            }
+        ],
+        "id": 135553,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/135553/blackjack/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 225,
+                    "name": "Intel 8080"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Blackjack"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Life on an 8080 with a VDM</em> is an implementation of Conway's Game of Life for the Processor Technology VDM. The player can draw patterns and watch how they evolve based on the simple rules of <em>Conway's Game of Life</em>. </p>\n<ul>\n<li>Any live cell with fewer than two live neighbours dies, as if caused by under-population.</li>\n<li>Any live cell with two or three live neighbours lives on to the next generation.</li>\n<li>Any live cell with more than three live neighbours dies, as if by overcrowding.</li>\n<li>Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            }
+        ],
+        "id": 136274,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/136274/life-on-an-8080-with-a-vdm/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 225,
+                    "name": "Intel 8080"
+                },
+                "1976-11"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Life on an 8080 with a VDM"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>8080 Machine Language Programming for Beginners</em> is a book that teaches machine language for the Intel 8080 processor. The book also describe a number of games as examples for the programming principles described. The games are all versions of games frequently seen in BASIC versions:</p>\n<ul>\n<li><em>Hi-Lo</em> - a number guessing game.</li>\n<li><em>Nim</em> - a logical puzzle game about taking objects from stacks.</li>\n<li><em>Button-Button</em> - a deduction game where the player must find a button, getting information on its location, but also knowing it can move using limited rules.</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 176647,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/176647/8080-machine-language-programming-for-beginners/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 225,
+                    "name": "Intel 8080"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "8080 Machine Language Programming for Beginners"
+    }
+]

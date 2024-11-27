@@ -222,6 +222,8 @@ class DataProvider:
         if cache_titles is not None:
             return cache_titles
 
+        print(f"Cache miss for Giant Bomb concept GUID {concept_guid}")
+
         titles = set(
             g["name"]
             for g in asyncio.run(self._gbclient.concept(concept_guid))["results"][
@@ -239,6 +241,8 @@ class DataProvider:
 
         if cache_titles is not None:
             return cache_titles
+
+        print(f"Cache miss for Moby Games group ID {group_id}")
 
         games = self._get_moby_games_titles_internal(group_id)
 

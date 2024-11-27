@@ -1,0 +1,151 @@
+[
+    {
+        "alternate_titles": [
+            {
+                "description": "Alternative title",
+                "title": "Kikori no Yosaku"
+            }
+        ],
+        "description": "<p><em>Yosaku</em> is a side-viewed action game where the player takes control of a lumberjack who can move left and right and has to cut down two trees using an axe. While doing so he is interrupted by various violent animals, like pigs rushing across the screen, birds dropping eggs from above and snakes attacking from beneath the ground. If the lumberjack touches an animal, he loses one of his initial six lives. He can however jump away or kill them using his axe. Besides the animals, he also needs to watch out for branches falling from the trees.\nPoints are earned by hitting the trees. To fell a tree a number of hits on each side of it are needed. Once both trees are cut down the game continues with two new trees.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            }
+        ],
+        "id": 58905,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/58905/yosaku/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 137,
+                    "name": "Epoch Cassette Vision"
+                },
+                "1981-07-30"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/7329155-yosaku-epoch-cassette-vision-front-cover.png",
+            "platforms": [
+                "Epoch Cassette Vision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/745f8a98-abf5-11ed-bdca-02420a000133.webp",
+            "width": 580
+        },
+        "sample_screenshots": [],
+        "title": "Yosaku"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>PakPak Monster</em> is a <a href=\"https://www.mobygames.com/search/?q=Pac-Man\">Pac-Man</a> variant and a follow-up to <em>Pak Pak Man</em>, a handheld LCD game also released by Epoch. The objective of the game is to achieve a high score by eating the eight dots while avoiding the enemies.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 129,
+                "name": "Diagonal-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            }
+        ],
+        "id": 209256,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/209256/pakpak-monster/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 137,
+                    "name": "Epoch Cassette Vision"
+                },
+                "1982"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "PakPak Monster"
+    }
+]

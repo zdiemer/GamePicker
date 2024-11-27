@@ -1,0 +1,1018 @@
+[
+    {
+        "alternate_titles": [
+            {
+                "description": "French title",
+                "title": "Blitz"
+            },
+            {
+                "description": "UK title",
+                "title": "Space Blitz"
+            }
+        ],
+        "description": "<p><em>Alien Raiders</em> is one of the two Microvision games released in 1981. It is a fast-paced action game set in space where the player fights alien raiders to prevent them from landing. Originally designed as a <a href=\"https://www.mobygames.com/search/?q=Space+Invaders\">Space Invaders</a> game, Milton Bradley did not like the licensing deal and altered the game to make it have different gameplay.</p>\n<p>Alien raiders appear at the top of the screen and move horizontally from the right to the left, towards the player's landing area. The player can manipulate a firing beam. It consists of a single square that moves vertically at the left side of the screen automatically and at a fixed speed. The player cannot exercise any influence over the speed. By pressing one of the three buttons labelled with an arrow and the word \"fire\", the firing beam is activated. It extends to the right and can take out raiders when the player carefully times both the horizontal and the vertical position. Raiders can however only be hit when the tip of the beam is directly on top of a raider or on the square immediately to the left of it. To determine the distance of the firing beam, a control knob at the bottom of the device needs to be manipulated. Turning the knob clockwise lengthens it, turning it counter-clockwise makes it shorter.</p>\n<p>The player only has a limited amount of fuel and firing the beam depletes it. It uses less fuel when it is fired when a raider is nearby, but that allows the raiders to approach towards the landing area and leads to a higher risk. The final goal is to get a score a high as possible before the raiders reach the landing area or all fuel is gone. Since some raiders have different speed, it is also possible to wait until two of them overlap and take them out with a single shot for an economic use of fuel and twice the regular amount of points. It is possible to hold down the fire button as a last resort to take down many raiders at once, but this costs large amounts of fuel.</p>\n<p>Two types of games are available. In Game 1 four raiders appear - three slow ones and a fast one - and three points are awarded per defeated ship. As soon as a raider is destroyed, a new one appears. Game 2 is similar with four raiders at the start, but more raiders appear simultaneously after a while (up to five or six at a time), they gradually become faster and they are worth more points over time. In Game 1 there are 150 units of fuel at the start with a 120 unit bonus after every eighth raider shot down. In Game 2 the player starts with 75 units and receives 60 bonus units for every eighth raider. The amount of fuel that can be held is capped at 255 units. Next to the two types of games two skill levels can be chosen. These only influence the speed of the raiders.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 53768,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/53768/alien-raiders/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 97,
+                    "name": "Microvision"
+                },
+                "1981"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/6956770-alien-raiders-microvision-front-cover.jpg",
+            "platforms": [
+                "Microvision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/91b9ad24-abf2-11ed-b351-02420a00012e.webp",
+            "width": 460
+        },
+        "sample_screenshots": [],
+        "title": "Alien Raiders"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "French title",
+                "title": "Bataille Navale"
+            },
+            {
+                "description": "Dutch title",
+                "title": "Duel"
+            },
+            {
+                "description": "German title",
+                "title": "See-Duell"
+            }
+        ],
+        "description": "<p>Despite the extremely limited resources of the Microvision, and the small 16x16 pixel screen, <em>Sea Duel</em> is designed to be a complex naval battle title. The basic object of the game seems simple enough: out-maneuver the enemy ship and score six or more points (hits) against it. </p>\n<p>The game can be played by one or two players, alternating, or one player against the computer. Battles always feature a battleship against a submarine, and on the Game Selection screen, the image on the right is the submarine. Here, the player character is depicted with a symbol like a man, and the computer as a big letter C. Fuel and ammo must both be monitored. The battleship is represented by a 3-pixel-long straight line and the submarine by a single pixel. </p>\n<p>The games take place in a series of rounds, and each round concludes with an update of the score. Moves are input by both parties, then the action plays out onscreen. For instance, the player will input strategic move and attack commands, then the second player will input commands. Each player may input two combinations of movement and ammunition commands per turn. For instance, move in two directions and fire in two directions, or move in one direction, fire in one direction, move in another direction, fire in another direction. The input commands then play out onscreen, and any successful hits are recorded. </p>\n<p>Using the Skill/Score button, players may select two different difficulty modes, either to have 12 units of fuel and 12 units of ammunition, or 18 of each. The computer has unlimited of both. <em>Sea Duel</em> features one of the more complex control layouts in the Microvision library, including movement buttons for four directions, attack buttons for four directions, Game, Go, Skill/Score, and Clear buttons.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 41,
+                "name": "Naval / watercraft"
+            }
+        ],
+        "id": 53881,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/53881/sea-duel/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 97,
+                    "name": "Microvision"
+                },
+                "1980"
+            ]
+        ],
+        "sample_cover": {
+            "height": 608,
+            "image_url": "https://cdn.mobygames.com/covers/6432271-sea-duel-microvision-front-cover.jpg",
+            "platforms": [
+                "Microvision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/68b11ea2-abee-11ed-98c7-02420a000138.webp",
+            "width": 1200
+        },
+        "sample_screenshots": [],
+        "title": "Sea Duel"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "Re-release title",
+                "title": "Phaser Strike"
+            },
+            {
+                "description": "European title",
+                "title": "Shooting Star"
+            }
+        ],
+        "description": "<p>Aside from having the <em>Star Trek</em> branding, there is little else to prove this game has anything to do with <em>Star Trek</em>, given the limited screen real-estate of the Microvision. The game essentially challenges players with shooting phaser blasts at moving targets that swipe across the top of the screen. Three arrow buttons are present on the cartridge face for shooting diagonally left, right, or straight up. </p>\n<p>Players may choose the size of the targets (ships represented by a line of pixels onscreen) as 4, 3, 2, 1, or C, which stands for Changeable. Speeds are Fast, Slow, or Changeable. The Targets button allows players to select a number of ships from 1 to 9. These numbers are multiplied by 10, so selecting 3 will give players 30 targets. An audio signal sounds with successful attacks.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 53882,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/53882/star-trek-phaser-strike/",
+        "num_votes": 5,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 97,
+                    "name": "Microvision"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": {
+            "height": 608,
+            "image_url": "https://cdn.mobygames.com/covers/6432274-star-trek-phaser-strike-microvision-front-cover.jpg",
+            "platforms": [
+                "Microvision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/6ac0da84-abee-11ed-98c7-02420a000138.webp",
+            "width": 1200
+        },
+        "sample_screenshots": [],
+        "title": "Star Trek: Phaser Strike"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>The simply titled <em>Baseball</em> for the Microvision is exactly as it sounds: a baseball game where the object is to score the most points over nine innings. Like <a href=\"https://www.mobygames.com/game/53881/sea-duel/\">Sea Duel</a>, <em>Baseball</em> is playable by one person against the computer, or by two players taking turns with the same Microvision system. There are also two difficulty levels to choose from, being \"normal\" and \"expert.\" </p>\n<p>There is no fielding or pitching here, only batting by using the knob built into the bottom of the Microvision. In a single player game, the player is simply attempting to build a high score over nine innings. In a two-player game, players take turns using the same Microvision to see who can rack up the highest score. The built-in screen overlay of the cartridge features the outlines of a baseball diamond. Characters and the baseball are both represented onscreen by a single pixel, and the bat is represented by two pixels, with one animating around to represent movement. </p>\n<p>The buttons built into the cartridge face are used to select Players, Skill Level, Count, and Score. The generally typical Go and Reset buttons are also present. Sound effects play for hits, scores, and outs, but not strikes.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 32,
+                "name": "Baseball"
+            }
+        ],
+        "id": 53883,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/53883/baseball/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 97,
+                    "name": "Microvision"
+                },
+                "1980"
+            ]
+        ],
+        "sample_cover": {
+            "height": 614,
+            "image_url": "https://cdn.mobygames.com/covers/6432129-baseball-microvision-front-cover.jpg",
+            "platforms": [
+                "Microvision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/6d8553e4-abee-11ed-9899-02420a000134.webp",
+            "width": 1200
+        },
+        "sample_screenshots": [],
+        "title": "Baseball"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "Dutch title",
+                "title": "BlockBuster"
+            },
+            {
+                "description": "French Title",
+                "title": "Casse Brique"
+            }
+        ],
+        "description": "<p><em>Block Buster</em> is the original launch title for the Microvision game system, rather like <a href=\"https://www.mobygames.com/game/42121/tetris/\">Tetris</a> which came packed in with the original Game Boy upon it's release in 1989. As such, <em>Block Buster</em> came packed in the same box with the Microvision system, and was intended to show off the strengths of the system. Since the Microvision came with a built in rotating paddle controller, <em>Block Buster</em> works specifically with this control input. </p>\n<p><em>Block Buster</em> is, as its core, simply a clone of the classic Atari 2600 game <a href=\"https://www.mobygames.com/game/9001/breakout/\">Breakout</a>. Players use the paddle knob to move a paddle left and right along the bottom of the gameplay screen to bounce a ball against blocks at the top with the goal of clearing as many blocks as possible. </p>\n<p>There are two speeds selectable with the Speed button, and the Paddle button selects the sizes of the paddle as either \"Double\" or \"Triple.\" Triple is a paddle three pixels wide. The ball must be served by pressing the Go button. The Go button also navigates through the brief menu system and score screens.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 64,
+                "name": "Paddle / Pong"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 53895,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/53895/block-buster/",
+        "num_votes": 2,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 97,
+                    "name": "Microvision"
+                },
+                "1979-10"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/6969669-block-buster-microvision-front-cover.jpg",
+            "platforms": [
+                "Microvision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/a6fe89c0-abf2-11ed-8d2f-02420a00012e.webp",
+            "width": 694
+        },
+        "sample_screenshots": [],
+        "title": "Block Buster"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "UK title",
+                "title": "Connect 4"
+            },
+            {
+                "description": "Tag-lined title",
+                "title": "Connect Four: Get 4 in a row and win!"
+            },
+            {
+                "description": "Italian title",
+                "title": "Forza 4"
+            },
+            {
+                "description": "French title",
+                "title": "Puissance 4"
+            },
+            {
+                "description": "Dutch title",
+                "title": "Vier op'n Rij"
+            }
+        ],
+        "description": "<p>With <em>Connect Four</em>, Milton Bradley transferred their popular tabletop strategy game to their handheld game system. Like the tabletop game, this features a two-player mode, but unlike the tabletop game, there is a one-player mode for players to play against the computer. When playing against the computer, there are two difficulty settings which may be selected with the Skill button. </p>\n<p>The game plays as expected, with \"pieces\" dropped into a 6x7 grid with the with the goal of obtaining four in a row vertically, diagonally, or horizontally. Players use the Control Knob to move the pieces left and right and press the Drop button to drop a piece into place, mimicking the physical way the tabletop game is played (sans the Control Knob of course).</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 54133,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/54133/connect-four/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 97,
+                    "name": "Microvision"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": {
+            "height": 615,
+            "image_url": "https://cdn.mobygames.com/covers/6506550-connect-four-microvision-front-cover.jpg",
+            "platforms": [
+                "Microvision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/02220740-abef-11ed-bc39-02420a000131.webp",
+            "width": 1200
+        },
+        "sample_screenshots": [],
+        "title": "Connect Four"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "Tag-lined title",
+                "title": "Cosmic Hunter: Search and stalk but don't get caught!"
+            }
+        ],
+        "description": "<p><em>Cosmic Hunter</em> is a science fiction shooter set in space, possibly an asteroid field. The player is represented by a single pixel onscreen, and must hunt an enemy character, also represented by a single pixel, through a field of obstacles. The obstacles do not hurt either character, and only impede movement. The game features basic movement and fire controls, however, attacking the enemy character must be done in close proximity--with no more than one pixel between the player character and the enemy. There are two difficulty settings with different maps, and pressing the Skill/Score button at any time will show the number of remaining players' characters. </p>\n<p>Though the box contains a note that the game is \"For 1 or More Players,\" there is no distinct 2-player mode, and multiplayer games are presumably played taking turns whenever players choose.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 54134,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/54134/cosmic-hunter/",
+        "num_votes": 3,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 97,
+                    "name": "Microvision"
+                },
+                "1981"
+            ]
+        ],
+        "sample_cover": {
+            "height": 612,
+            "image_url": "https://cdn.mobygames.com/covers/6506547-cosmic-hunter-microvision-front-cover.jpg",
+            "platforms": [
+                "Microvision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/017df65a-abef-11ed-bc39-02420a000131.webp",
+            "width": 1200
+        },
+        "sample_screenshots": [],
+        "title": "Cosmic Hunter"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Mindbuster</em> is a puzzle game with an ultimate goal to complete puzzles in the fewest moves possible. There are two separate individual games in <em>Mindbuster</em>:</p>\n<p>The first game is called <em>Rings</em>. In this, players must place circles around points on the screen. The second game is called <em>Lights Out</em> and is similar to the titles <a href=\"https://www.mobygames.com/game/60267/lights-out/\">Tiger Game.com</a> game of the same name. In it, there are a series of squares onscreen representing lights, and players must put all the lights out. Depending on the light selected using the numeric keypad, it may activate some areas while deactivating others. </p>\n<p>Both games follow the same basic rules. The gameplay screen is a 3x3 grid, and each numeric button affects nearby sections. The grid is set up as follows: </p>\n<p>1 2 3</p>\n<p>4 5 6</p>\n<p>7 8 9</p>\n<p>Selecting 1 activates spaces 1, 2, 4, and 5, and likewise for the other corner points. Selecting 2 or 8 also activates the spaces to the left and right of these points. Selecting 4 or 6 activate the spaces above and below as well. Selecting 5 activates the most spaces in the shape of a + sign. For example, if the gameplay screen has spaces 2, 3, and 6 highlighted and the player selects space 3, spaces 2, 3, and 6 will deactivate but space 5 will activate and so on. The game is won when all target blocks are surrounded in <em>Rings</em>, or when all lights have been deactivated in <em>Lights Out</em>.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 54135,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/54135/mindbuster/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 97,
+                    "name": "Microvision"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": {
+            "height": 613,
+            "image_url": "https://cdn.mobygames.com/covers/6506541-mindbuster-microvision-front-cover.jpg",
+            "platforms": [
+                "Microvision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/005a15ec-abef-11ed-bc39-02420a000131.webp",
+            "width": 1200
+        },
+        "sample_screenshots": [],
+        "title": "Mindbuster"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "French Title",
+                "title": "Flipper"
+            }
+        ],
+        "description": "<p><em>Pinball</em> is a 'pinball simulation' on the Microvision system.\nControls are the same as in Block Buster: players use the paddle knob to move a paddle left and right along the bottom of the gameplay screen to bounce up a ball. If you miss the ball you loose a 'life'.\nThe ball bounce when it hits top, left and right edges of the screen, the two upper corners, or the 4 bumpers near the center of the screen.\nYou gain points when you hit a bumper. If you hit a bumper four times, it is activated with a multiplier effect.\nScore is showed when you lose a ball.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 64,
+                "name": "Paddle / Pong"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 53,
+                "name": "Pinball"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 61297,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/61297/pinball/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 97,
+                    "name": "Microvision"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/6867876-pinball-microvision-front-cover.jpg",
+            "platforms": [
+                "Microvision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/e0a0bae6-abf1-11ed-81c5-02420a00012f.webp",
+            "width": 455
+        },
+        "sample_screenshots": [],
+        "title": "Pinball"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Bowling</em> is a bowling simulator for the Microvision System. In this game players don't use the paddle knob but only the cartridge buttons: at the start the 10 pins are in the upper side of the screen and the ball is sliding left to right and reverse, player uses the up arrow button to launch the ball when he thinks it would hit more pins.\nOptions are: slow game/fast game. 1 or 2 players.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 88,
+                "name": "Bowling"
+            }
+        ],
+        "id": 61298,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/61298/bowling/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 97,
+                    "name": "Microvision"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/6932090-bowling-microvision-front-cover.jpg",
+            "platforms": [
+                "Microvision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/61d26768-abf2-11ed-9f52-02420a000130.webp",
+            "width": 455
+        },
+        "sample_screenshots": [],
+        "title": "Bowling"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "French title",
+                "title": "Super Casse Brique"
+            }
+        ],
+        "description": "<p><em>Super Blockbuster</em> is a <a href=\"https://www.mobygames.com/group/2126/breakout-variants/\">Breakout</a> variant very similar to the Microvision's pack-in game, <a href=\"https://www.mobygames.com/search/?q=Casse+Brique\">Block Buster</a>. There is a wall of bricks at the top of the screen, and the player must use their paddle to bounce a ball against the bricks and destroy them all. The key difference in this release is that there is a second wall at the bottom of the screen, which must be protected; if the bottom row is completely destroyed, the game is over.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 64,
+                "name": "Paddle / Pong"
+            }
+        ],
+        "id": 62834,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/62834/super-blockbuster/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 97,
+                    "name": "Microvision"
+                },
+                "1982"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/6972758-super-blockbuster-microvision-front-cover.jpg",
+            "platforms": [
+                "Microvision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/b0e5500e-abf2-11ed-ad33-02420a00012d.webp",
+            "width": 459
+        },
+        "sample_screenshots": [],
+        "title": "Super Blockbuster"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>Vegas Slots is a slot machine simulator for the Microvision which features three different modes:</p>\n<ol>\n<li><b>Slot Machine:</b> A standard 1-player slot machine game with two levels of luck. Pressing the pull button spins the reels, and payouts range from 2 to 50 points. The game ends when the bank is broken (with a score of more than 999 points) or when the player's score reaches zero.</li>\n<li><b>Double Dare:</b> A two-player, turn-based game in which the first player to score 100 points wins. Players may spin as many times as they wish on a given turn, but getting one bar ends the turn and two bars forfeits all points scored during that turn.</li>\n<li><b>Take It or Leave It:</b> Another two-player, turn-based game, in which 200 points is required to win. On the first spin, only the left and right reels spin. Players can take a 5-point payoff for a matching pair, or decide to spin the center reel to obtain a pair or triple match at the cost of a 1-point deduction.</li>\n</ol>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            }
+        ],
+        "id": 201693,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/201693/vegas-slots/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 97,
+                    "name": "Microvision"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Vegas Slots"
+    }
+]

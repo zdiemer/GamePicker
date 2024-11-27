@@ -1,0 +1,85 @@
+[
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 43,
+                "name": "Math / logic"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 44,
+                "name": "Reading / writing"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 181033,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/181033/i-spy-super-challenger/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 185,
+                    "name": "LeapFrog Explorer"
+                },
+                "2011"
+            ]
+        ],
+        "sample_cover": {
+            "height": 375,
+            "image_url": "https://cdn.mobygames.com/promos/18816558-i-spy-super-challenger-screenshot.jpg",
+            "platforms": [],
+            "thumbnail_image_url": "https://cdn.mobygames.com/7544255e-3006-11ef-b803-02420a0001c2.webp",
+            "width": 500
+        },
+        "sample_screenshots": [],
+        "title": "I Spy: Super Challenger!"
+    }
+]

@@ -1,0 +1,164 @@
+[
+    {
+        "alternate_titles": [
+            {
+                "description": "French title",
+                "title": "SD201 Gobeur"
+            }
+        ],
+        "description": "<p><em>PC201 CHASER</em> is a variant of <a href=\"https://www.mobygames.com/search/?q=Pac-Man\">Pac-Man</a>.</p>\n<p>As Chaser (you look like a green checkered square) trapped in a maze, your \"mission\" is to eat all the dots in the maze, avoiding deadly enemies. Enemies are also square-shaped, but with a hole in the center. When all dots are eaten, enemies change color and become bonuses for a short time, worth 40 points.</p>\n<p>The second game mode of the game adds gates that can be opened/closed by pressing the fire button.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 123296,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/123296/pc201-chaser/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 267,
+                    "name": "SD-200/270/290"
+                },
+                "1983"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/17100196-pc201-chaser-sd-200270290-front-cover.jpg",
+            "platforms": [
+                "SD-200/270/290"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/7265e55e-f21b-11ed-9339-02420a0001d1.webp",
+            "width": 692
+        },
+        "sample_screenshots": [],
+        "title": "PC201 Chaser"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "French title",
+                "title": "SD202 M\u00e9t\u00e9orites"
+            }
+        ],
+        "description": "<p><em>PC202 Space Smash</em> is an arcade shooter. You control a space fighter at the bottom of the screen, and you must destroy all the asteroids, but also enemy spaceships, to score the highest number of points. You start with 6 lives in mode 1. The second game mode of the game adds more enemies and less lives: 4.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 124135,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/124135/pc202-space-smash/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 267,
+                    "name": "SD-200/270/290"
+                },
+                "1983"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/7299755-pc202-space-smash-sd-200270290-front-cover.jpg",
+            "platforms": [
+                "SD-200/270/290"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/3e5217c2-abf5-11ed-b4f3-02420a000135.webp",
+            "width": 677
+        },
+        "sample_screenshots": [],
+        "title": "PC202 Space Smash"
+    }
+]

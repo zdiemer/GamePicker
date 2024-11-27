@@ -1,0 +1,1226 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Catena</em> is an adaptation of the board game Othello. It is played on a board consisting of 64 squares. Players take turns placing squares on the board and the aim is to surround the opponent's squares which causes them to change colour to the one of the player. The game ends when the board is full and the player with the most squares in its colour will win. Squares are added to the board by using the controller's keyboard to enter the position on the board.</p>\n<p>The game can be played by one human player against an AI opponent or between two human players. It is also possible to run a game where two AI opponents compete against each other.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 95628,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/95628/catena/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 213,
+                    "name": "APF MP1000/Imagination Machine"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/16261502-catena-apf-mp1000imagination-machine-menu.png",
+            "platforms": [
+                "APF MP1000/Imagination Machine"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/2c8cb260-c1e2-11ed-ab6b-02420a000194.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Move being made",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16261493-catena-apf-mp1000imagination-machine-move-being-made.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2c4004ce-c1e2-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Start of game",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16261499-catena-apf-mp1000imagination-machine-start-of-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2c71cff4-c1e2-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "End of game",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16261496-catena-apf-mp1000imagination-machine-end-of-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2c599fa6-c1e2-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Menu",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16261502-catena-apf-mp1000imagination-machine-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2c8cb260-c1e2-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            }
+        ],
+        "title": "Catena"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Boxing</em> is a recreation of the sport viewed from a side-view perspective. The player can move the boxer forward and backward, throw punches and block the opponent's punches. The objective is to knock out the opponent (by managing five hits in a row) or win the most number of rounds.</p>\n<p>The game contains six variations:</p>\n<ul>\n<li><strong>Boxing:</strong> Two players, 15 rounds, each 60 seconds</li>\n<li><strong>Boxing with Horrible Harry:</strong> One player, 15 rounds, each 60 seconds</li>\n<li><strong>5 Round Bout:</strong> Two players, five rounds, each 60 seconds</li>\n<li><strong>Jabbing Joe:</strong> One player, five rounds, each 60 seconds</li>\n<li><strong>Sparring:</strong> Two players, one 99 seconds round, most points wins, no knockouts</li>\n<li><strong>Spar with Slugger Sam:</strong> One player, one 99 seconds round, most points wins, no knockouts</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 36,
+                "name": "Boxing"
+            }
+        ],
+        "id": 95728,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/95728/boxing/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 213,
+                    "name": "APF MP1000/Imagination Machine"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/16267102-boxing-apf-mp1000imagination-machine-menu.png",
+            "platforms": [
+                "APF MP1000/Imagination Machine"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/f3ab68ae-c1e3-11ed-ab6b-02420a000194.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Punching the opponent",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16267093-boxing-apf-mp1000imagination-machine-punching-the-opponent.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f3573a22-c1e3-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Knockout win",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16267096-boxing-apf-mp1000imagination-machine-knockout-win.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f378c840-c1e3-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Start of game",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16267099-boxing-apf-mp1000imagination-machine-start-of-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f38f62c6-c1e3-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Menu",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16267102-boxing-apf-mp1000imagination-machine-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f3ab68ae-c1e3-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "End of game",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16267090-boxing-apf-mp1000imagination-machine-end-of-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f33f3e04-c1e3-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            }
+        ],
+        "title": "Boxing"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>UFO/Sea Monsters/Break It Down/Rebuild/Shoot (with variations)</em> contains eight games (although some are just slight variations of the same game). All the games are single-screen one-button shooting games for two players.</p>\n<ul>\n<li><strong>UFO I:</strong> Spaceships move across the screen in two rows and the aim is to shoot as many as possible.</li>\n<li><strong>UFO II:</strong> Same as <em>UFO I</em> but the ships on the bottom row are worth five points instead of one.</li>\n<li><strong>Sea Monster:</strong> Sea monsters and fish move across the screen and the aim is to shoot the monsters but not the fish. Hitting the fish causes the score counter to be reset.</li>\n<li><strong>Break It Down:</strong> A square made up of 24 moving pieces has to be destroyed with the least amount of shots.</li>\n<li><strong>Rebuild:</strong> Same as <em>Break It Down</em> but hits lead to the square being rebuilt.</li>\n<li><strong>Shoot a Little:</strong> Targets move across the screen and the aim is to hit as many as possible with twenty shots.</li>\n<li><strong>Shoot:</strong> Same as <em>Shoot a Little</em> but with 50 shots.</li>\n<li><strong>Shoot Alot:</strong>: Same as <em>Shoot/Shoot a Little</em> but with 99 shots.</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 126,
+                "name": "3rd-person (Other)"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 41,
+                "name": "Naval / watercraft"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 95730,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/95730/ufosea-monstersbreak-it-downrebuildshoot-with-variations/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 213,
+                    "name": "APF MP1000/Imagination Machine"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/7250413-ufosea-monstersbreak-it-downrebuildshoot-with-variations-apf-mp1.png",
+            "platforms": [
+                "APF MP1000/Imagination Machine"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/d9c26f6e-abf4-11ed-92cb-02420a000132.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Space ship being destroyed (UFO I)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/7250407-ufosea-monstersbreak-it-downrebuildshoot-with-variations-apf-mp1.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d97a1552-abf4-11ed-92cb-02420a000132.webp",
+                "width": 256
+            },
+            {
+                "caption": "Rebuild",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/7250404-ufosea-monstersbreak-it-downrebuildshoot-with-variations-apf-mp1.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d94f48a4-abf4-11ed-92cb-02420a000132.webp",
+                "width": 256
+            },
+            {
+                "caption": "Sea Monsters",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/7250195-ufosea-monstersbreak-it-downrebuildshoot-with-variations-apf-mp1.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dd72e490-abf4-11ed-962d-02420a000135.webp",
+                "width": 256
+            },
+            {
+                "caption": "UFO I",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/7250410-ufosea-monstersbreak-it-downrebuildshoot-with-variations-apf-mp1.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d99f44da-abf4-11ed-92cb-02420a000132.webp",
+                "width": 256
+            },
+            {
+                "caption": "UFO II",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/7250198-ufosea-monstersbreak-it-downrebuildshoot-with-variations-apf-mp1.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dea20918-abf4-11ed-962d-02420a000135.webp",
+                "width": 256
+            }
+        ],
+        "title": "UFO/Sea Monsters/Break It Down/Rebuild/Shoot (with variations)"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Casino 1: Roulette/Keno/Slots</em> is a collection of three betting games. They are all for two players who play against the house.</p>\n<ul>\n<li>\n<p><em>Roulette:</em> Each player starts out with $200. To place a bet, the joystick is used to move a cursor and an amount can be entered for each number. Bets of 1 to 10 are accepted on the main board while on the outside bets of 1 to 99 are allowed. Once both players are done the wheel will spin and the computer will mark the winning numbers and make the transactions.</p>\n</li>\n<li>\n<p><em>Keno:</em> The computer picks 20 numbers out of 80 and the player selects between 2 and 15 numbers with the number of selections determining the odds and payoff. Each player has $100 and a $.70 wager is placed for each play. When both players are done, the computer picks the winning numbers.</p>\n</li>\n<li>\n<p><em>Slots</em>: The slot machine is simply operated by pulling the joystick down which causes the.three wheels to spin. No other options are possible. Winnings and losses are automatically accounted for by the computer. Each player starts out with $200 and each spin costs one dollar.</p>\n</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            }
+        ],
+        "id": 95753,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/95753/casino-1-roulettekenoslots/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 213,
+                    "name": "APF MP1000/Imagination Machine"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/7253590-casino-1-roulettekenoslots-apf-mp1000imagination-machine-menu.png",
+            "platforms": [
+                "APF MP1000/Imagination Machine"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/dddd4fa6-abf4-11ed-893a-02420a00012f.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Winning some money (Slots)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/7252931-casino-1-roulettekenoslots-apf-mp1000imagination-machine-winning.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e0beb610-abf4-11ed-aca6-02420a000132.webp",
+                "width": 256
+            },
+            {
+                "caption": "Start of game (Keno)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/7252940-casino-1-roulettekenoslots-apf-mp1000imagination-machine-start-o.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e1645afc-abf4-11ed-aca6-02420a000132.webp",
+                "width": 256
+            },
+            {
+                "caption": "Menu",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/7253590-casino-1-roulettekenoslots-apf-mp1000imagination-machine-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dddd4fa6-abf4-11ed-893a-02420a00012f.webp",
+                "width": 256
+            },
+            {
+                "caption": "Results (Keno)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/7252937-casino-1-roulettekenoslots-apf-mp1000imagination-machine-results.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e13ad010-abf4-11ed-aca6-02420a000132.webp",
+                "width": 256
+            },
+            {
+                "caption": "Entering numbers (Keno)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/7260834-casino-1-roulettekenoslots-apf-mp1000imagination-machine-enterin.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f033038a-abf4-11ed-803a-02420a000131.webp",
+                "width": 256
+            }
+        ],
+        "title": "Casino 1: Roulette/Keno/Slots"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>The <em>APF MP 1000: TV Microcomputer Entertainment System</em> includes one built-in title: <em>Rocket Patrol</em>. The game features a scrolling space background and enemy ships that fly past the screen from right to left. The player can fire slow-moving missiles from the bottom of the screen with the goal of destroying the enemy ships. The players can take turns and attempt to get more hits.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 163943,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/163943/apf-mp-1000-tv-microcomputer-entertainment-system-included-games/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 213,
+                    "name": "APF MP1000/Imagination Machine"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "APF MP 1000: TV Microcomputer Entertainment System (included games)"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Hangman/Tic Tac Toe/Doodle</em> is a compilation of two games and one electronic doodling program. <em>Hangman</em> is the classic pen and paper word guessing game where draws part of a hanged man for each incorrectly guessed word. It can be played with up to four players. <em>Tic-Tac-Toe</em> is another pen and paper classic of getting three in a row in a three-by-three grid and is played with two players or against the computer.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 162,
+                "name": "Word construction"
+            }
+        ],
+        "id": 164461,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/164461/hangmantic-tac-toedoodle/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 213,
+                    "name": "APF MP1000/Imagination Machine"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Hangman/Tic Tac Toe/Doodle"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Bowling/Micro Match</em> is a compilation featuring two games:</p>\n<ul>\n<li><em>Bowling</em> is a bowling game for up to four players. It uses a top-down view of the bowling lane where players take turns throwing their balls at the pins at the end.</li>\n<li><em>Micro Match</em> is a variation on the tile matching game Concentration. The game can be played in five variations and tiles contain a variety of colors, shapes and words.</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 88,
+                "name": "Bowling"
+            }
+        ],
+        "id": 164462,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/164462/bowlingmicro-match/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 213,
+                    "name": "APF MP1000/Imagination Machine"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Bowling/Micro Match"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Brickdown/Shooting Gallery</em> is a compilation of two games:</p>\n<ul>\n<li><em>Brickdown</em> is a <a href=\"https://www.mobygames.com/group/2126/breakout-variants/\">Breakout variant</a> that plays sideways. The player controls a paddle and bounces a ball against a wall of bricks, destroying them all while attempting not to miss the ball on its return.</li>\n<li><em>Shooting Gallery</em> is a target shooting game for one or two players.</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 64,
+                "name": "Paddle / Pong"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 164466,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/164466/brickdownshooting-gallery/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 213,
+                    "name": "APF MP1000/Imagination Machine"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Brickdown/Shooting Gallery"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Baseball</em> is a simulation of a match for two players or one player against the computer. The game features a top-down view of the pitch with all the baseball players visible. The player in turn must try to hit the pitched balls which will result in a strike, foul, ball, out, single, double, triple, or home run.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 32,
+                "name": "Baseball"
+            }
+        ],
+        "id": 164767,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/164767/baseball/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 213,
+                    "name": "APF MP1000/Imagination Machine"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Baseball"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Blackjack</em> is a computer version of the famous casino card game. One or two players can play against the computer who takes the role of the dealer. The goal of the game is to get cards up to a value of 21 or as close to, without going over. You need to get a higher score than the dealer to win a round. Initial settings are the starting stakes and the number of card decks that will be used.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            }
+        ],
+        "id": 164770,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/164770/blackjack/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 213,
+                    "name": "APF MP1000/Imagination Machine"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Blackjack"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Backgammon</em> is a computer version of the classic board game. The game can be played with two players or one player versus the computer. Players roll the dice and use their two values to move chips around the board in an attempt to bear off all chips from the board before the opponent does so.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            }
+        ],
+        "id": 164771,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/164771/backgammon/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 213,
+                    "name": "APF MP1000/Imagination Machine"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Backgammon"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Pinball/Dungeon Hunt/Blockout</em> is a compilation of three games:</p>\n<ul>\n<li>\n<p><em>Pinball</em> is a basic pinball game. The player controls a paddle at the bottom (rather than a flipper) and must try to keep the ball in play. Various targets in the level score points when hit. Also included are moving and disappearing obstacles. Three variants are playable, one offering a faster ball speed and another using two paddles instead of one.</p>\n</li>\n<li>\n<p><em>Dungeon Hunt</em> is a game for up to four players. Players must find hidden objects in a grid. Players take turns guessing a tile and whoever finds most wins the game.</p>\n</li>\n<li>\n<p><em>Blockout</em> is a light cycle game for two players. Players move around the screen leaving a trail. Whoever hits a wall or a trail first loses the round. The game comes in four variations with different speeds and obstacles.</p>\n</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 64,
+                "name": "Paddle / Pong"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 53,
+                "name": "Pinball"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 164773,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/164773/pinballdungeon-huntblockout/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 213,
+                    "name": "APF MP1000/Imagination Machine"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Pinball/Dungeon Hunt/Blockout"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Space Destroyers</em> is a <a href=\"https://www.mobygames.com/search/?q=Space+Invaders\">Space Invaders</a> variant. The player controls a tank at the bottom of the screen that can move back and forth and fire at alien invaders that are coming in from above. Four bunkers can be used to take cover from enemies firing down at you. The bunkers slowly disintegrate with each shot. Sometimes a UFO flies over to shoot down for additional points. Once all aliens have been killed the level is reset and starts anew, the player is granted an additional life and bonus points. Two players can take turns in the hot-seat.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 164775,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/164775/space-destroyers/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 213,
+                    "name": "APF MP1000/Imagination Machine"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Space Destroyers"
+    }
+]

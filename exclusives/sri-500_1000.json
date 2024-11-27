@@ -1,0 +1,70 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Complete Blackjack</em> allows the player to play the casino card game of Blackjack against the computer. The player and computer draw cards with the aim of getting as close to a card value of 21. If a player goes over that value the player is busted. Whoever is closest wins the bet.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            }
+        ],
+        "id": 113055,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/113055/complete-blackjack/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 242,
+                    "name": "SRI-500/1000"
+                },
+                "1976"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Complete Blackjack"
+    }
+]

@@ -1,0 +1,2538 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p><em>You are a bold swordsman, penetrating deep within the monster-infested depths of the sinister wizard Zagor's catacomb fortress inside Firetop Mountain. With your wits, your blade, and more than a bit of luck, you will come out on top against fantastic enemies and strange magic, overcoming the warlock's hold on the countryside and making off with his legendary treasure hoard!</em></p>\n<p>Some 20-odd years along, after <a href=\"https://www.mobygames.com/search/?q=The+Warlock+of+Firetop+Mountain\">an arcade action game</a>, <a href=\"https://www.mobygames.com/game/27821/seas-of-blood/\">text</a> <a href=\"https://www.mobygames.com/game/28579/rebel-planet/\">adventure</a> <a href=\"https://www.mobygames.com/game/27528/temple-of-terror/\">games</a> and <a href=\"https://www.mobygames.com/search/?q=Deathtrap+Dungeon\">a fully 3D dungeon romp</a>, things come full circle and they conclude that the most commercially viable use for the <a href=\"https://www.mobygames.com/group/6087/fighting-fantasy-gamebook-adaptations/\">Fighting Fantasy gamebook</a> license is in fact in a staid, by-the-book adaptation of the gamebook's Choose-Your-Adventure gameplay, just like the <a href=\"https://www.mobygames.com/game/23022/the-citadel-of-chaos/\">second</a> and <a href=\"https://www.mobygames.com/search/?q=the+Forest+of+Doom\">third</a> back in 1984 (... but now with fewer colours 8)</p>\n<p>For your portable-gaming convenience, this means that this pilot project (sadly, it seems, inadequately commercially successful to inspire subsequent adaptations) incorporates huge swathes of text from the original 1982 Fighting Fantasy gamebook #1's famous 400 paragraphs, as well as many of the original black-and-white illustrations once gracing its pages. What it amounts to are descriptions of rooms and their contents, concluded with a multiple-choice list of options -- some of which yield surprisingly positive outcomes, some which dish up pain and suffering, and some of which are just time-wasting dead ends.</p>\n<p>The gamebooks' elements of randomness are handled through automatic die-rolls here, the computer acting as a virtual accountant keeping tabs on the ebbs and flows of your trademark SKILL, STAMINA and LUCK scores and managing them both in and out of combat situations. Inventory is similarly tracked automatically, as well as the book-holder's option to \"cheat\" -- blocking options whose necessary conditions have not yet been met and doling out a measured three flip-backs, \"undo\" moves permitting retraction to a previous paragraph. (There is no option to simulate a reader's flipping through the book with a handful of fingers crammed in various locations to mark the spots of important crossroads 8)</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 23,
+                "name": "Interactive fiction / text adventure"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 28318,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/28318/fighting-fantasy-book-1-the-warlock-of-firetop-mountain/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 65,
+                    "name": "Palm OS"
+                },
+                "2004-04"
+            ]
+        ],
+        "sample_cover": {
+            "height": 329,
+            "image_url": "https://cdn.mobygames.com/screenshots/15841153-fighting-fantasy-book-1-the-warlock-of-firetop-mountain-palm-os-.png",
+            "platforms": [
+                "Palm OS"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/cc28d84c-bef6-11ed-9c42-02420a000140.webp",
+            "width": 328
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Title screen",
+                "height": 329,
+                "image_url": "https://cdn.mobygames.com/screenshots/15841153-fighting-fantasy-book-1-the-warlock-of-firetop-mountain-palm-os-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cc28d84c-bef6-11ed-9c42-02420a000140.webp",
+                "width": 328
+            },
+            {
+                "caption": "Introduction",
+                "height": 329,
+                "image_url": "https://cdn.mobygames.com/screenshots/15841180-fighting-fantasy-book-1-the-warlock-of-firetop-mountain-palm-os-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cd60fa28-bef6-11ed-9c42-02420a000140.webp",
+                "width": 328
+            }
+        ],
+        "title": "Fighting Fantasy Book 1: The Warlock of Firetop Mountain"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Monsta</em> is a turn based strategy game where you control the hero Joe in labyrinth-like levels. Your goal is to kill all the monsters while keeping distance to them. In every turn you have to decide where to step and where to shoot according to your action-points. Enemies try to catch you in their turns. Levels can be completed by killing all the monsters or by escaping the room. Throughout the levels the player may find different weapons, but if he isn't quick enough the monsters might take them. </p>\n<p>The game offers 50 levels with 10 different tile sets, three weapons and a lot of monsters to wipe away.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            }
+        ],
+        "id": 42722,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/42722/monsta/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 65,
+                    "name": "Palm OS"
+                },
+                "2003"
+            ]
+        ],
+        "sample_cover": {
+            "height": 160,
+            "image_url": "https://cdn.mobygames.com/screenshots/2792413-monsta-palm-os-title-screen.png",
+            "platforms": [
+                "Palm OS"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/3480b7ba-ab84-11ed-a519-02420a00019d.webp",
+            "width": 160
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Title screen",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/2792413-monsta-palm-os-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3480b7ba-ab84-11ed-a519-02420a00019d.webp",
+                "width": 160
+            }
+        ],
+        "title": "Monsta"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>FlipDis</em> is a \"flip the tiles\" puzzle game that begins with a simple 9 block grid. The blocks contain strawberries and limes that randomly change. To complete a level, quickly flip the blocks until the entire grid is filled with only one of the fruit types (all strawberries or all limes) before time runs out. The game has 100 levels with increasing speed and size.</p>\n<p>The game has two play modes (easy and hard), a high score table, a handy automatic save function, sound effects, volume control and several graphics settings. Play with a stylus, the keypad keys or a mixture of both.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            }
+        ],
+        "id": 51219,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/51219/flipdis/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 65,
+                    "name": "Palm OS"
+                },
+                "2002-09"
+            ]
+        ],
+        "sample_cover": {
+            "height": 160,
+            "image_url": "https://cdn.mobygames.com/covers/2843772-flipdis-palm-os-front-cover.png",
+            "platforms": [
+                "Palm OS"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/04fcfde0-ab85-11ed-9e18-02420a00019a.webp",
+            "width": 160
+        },
+        "sample_screenshots": [],
+        "title": "FlipDis"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Sega Classics</em> contains four <a href=\"https://www.mobygames.com/search/?q=sega-corporation\"> Sega</a> games published by MDM on one SD Media card. The games are:<em> <a href=\"https://www.mobygames.com/search/?q=sonic-the-hedgehog\">Sonic the Hedgehog</a></em> <a href=\"https://www.mobygames.com/search/?q=shinobi\">Shinobi</a><em> <a href=\"https://www.mobygames.com/search/?q=super-columns\">Super Columns</a></em> <a href=\"https://www.mobygames.com/search/?q=shining-force-the-sword-of-hajya\">Shining Force II: The Sword of Hajya</a></p>\n<p>The games are essentially the same as their <a href=\"https://www.mobygames.com/search/?q=Sega+Game+Gear\">Sega Game Gear</a> counterparts, but the graphics have been reworked to fit the color <a href=\"https://www.mobygames.com/search/?q=Palm+OS\">Palm OS</a> device screens. Additionally, you are given the opportunity to save at any point in the game. Controls are performed using the 4-way pad and hard buttons on the Palm device as opposed to the screen controls of some of the newer Android or iPhone games.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 54795,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/54795/sega-classics/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 65,
+                    "name": "Palm OS"
+                },
+                "2003"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Sega Classics"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "In-game title",
+                "title": "Two-Inch Town!"
+            }
+        ],
+        "description": "<p><em>Two-Inch Town</em> is a simulation which shares gameplay basics with titles like <a href=\"https://www.mobygames.com/game/9241/little-computer-people/\">Little Computer People</a>, and to a simplified degree <a href=\"https://www.mobygames.com/search/?q=The+Sims\">The Sims</a>.</p>\n<p>There are multiple single-screen maps, which may be populated with persons, by their appearance not necessarily humans. At first, all persons are in fact represented by smileys\u2013 other types, like a Stickman, may be chosen from an in-game menu. Clicking on a person reveals their current state and hobbies which may be manipulated.\nTo conduct activities and hobbies, there needs to be a corresponding building or terrain on the map. Physics research is done in a library for example, and may also cause persons to do some reading and checking E-mail, while a simple grass space offers opportunities for playing Frisbee, camping, painting or excavating. </p>\n<p>Like persons, buildings and different terrain spaces may simply be put on the map via menu without cost, a \"grand goal\" or aim doesn't exist.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 15,
+                "name": "Real-time"
+            }
+        ],
+        "id": 57960,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/57960/two-inch-town/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 65,
+                    "name": "Palm OS"
+                },
+                "2002"
+            ]
+        ],
+        "sample_cover": {
+            "height": 320,
+            "image_url": "https://cdn.mobygames.com/screenshots/16279211-two-inch-town-palm-os-first-map-a-person-smiley-and-some-buildin.png",
+            "platforms": [
+                "Palm OS"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/158ec368-c1e8-11ed-ab6b-02420a000194.webp",
+            "width": 320
+        },
+        "sample_screenshots": [
+            {
+                "caption": "It rains",
+                "height": 320,
+                "image_url": "https://cdn.mobygames.com/screenshots/16279712-two-inch-town-palm-os-it-rains.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/36c78060-c1e8-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Status of \"Stickman\"",
+                "height": 320,
+                "image_url": "https://cdn.mobygames.com/screenshots/16279709-two-inch-town-palm-os-status-of-stickman.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/36ac56f0-c1e8-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Seems this guy is excavating while being hungry",
+                "height": 320,
+                "image_url": "https://cdn.mobygames.com/screenshots/16279205-two-inch-town-palm-os-seems-this-guy-is-excavating-while-being-h.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/155068de-c1e8-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "First map, a person (=Smiley) and some buildings are already there",
+                "height": 320,
+                "image_url": "https://cdn.mobygames.com/screenshots/16279211-two-inch-town-palm-os-first-map-a-person-smiley-and-some-buildin.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/158ec368-c1e8-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Things to put on a map",
+                "height": 320,
+                "image_url": "https://cdn.mobygames.com/screenshots/16279715-two-inch-town-palm-os-things-to-put-on-a-map.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/36e2304a-c1e8-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            }
+        ],
+        "title": "Two-Inch Town"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Midway Arcade Classics</em> is a compilation of five arcade games from Midway:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/game/147905/defender-ii/\">Defender II</a></li>\n<li><a href=\"https://www.mobygames.com/game/4059/joust/\">Joust</a></li>\n<li><a href=\"https://www.mobygames.com/game/298/tapper/\">Root Beer Tapper</a></li>\n<li><a href=\"https://www.mobygames.com/game/47117/sinistar/\">Sinistar</a></li>\n<li><a href=\"https://www.mobygames.com/game/7668/spy-hunter/\">Spy Hunter</a></li>\n</ul>\n<p>This is the first release of these games on the Palm OS platform, although later they also got stand alone releases. Each game has customizable buttons, three difficulty levels and a pause feature. It's also possible to upload high scores to the Pocket Express website where players could challenge each other.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 63905,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/63905/midway-arcade-classics/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 65,
+                    "name": "Palm OS"
+                },
+                "2001-08"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Midway Arcade Classics"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "16-bit version title",
+                "title": "Zap!2016"
+            }
+        ],
+        "description": "<p><em>Zap!2000</em> is a vertically scrolling shoot 'em up and a remake of Astraware's monochrome Palm OS shooter <a href=\"https://www.mobygames.com/search/?q=Zap!\">Zap!</a> As in other games of its kind the player controls a space ship from the bottom to the top while shooting at the various enemies that come into his path. The player has access to a primary fire as well as shields and nukes. Once activated the shields make the player invulnerable for a short time. Nukes when launched will destroy everything on the screen, both enemies and their projectiles. The ship can be moved left and right and is also equipped with thrust that sends it forward in short bursts.</p>\n<p>By shooting a complete wave of enemies, they will drop items that the player can collect. These include coins that traded for bonus points at the end of a level, powerup crystals that upgrade the ship's weapons, shields and nukes. Each level ends with a boss fight. Bosses behave in different ways with different ways of attacking and they also have their own weaknesses.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 69723,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/69723/zap2000/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 65,
+                    "name": "Palm OS"
+                },
+                "2000-01-01"
+            ]
+        ],
+        "sample_cover": {
+            "height": 160,
+            "image_url": "https://cdn.mobygames.com/screenshots/15654426-zap2000-palm-os-title-screen.png",
+            "platforms": [
+                "Palm OS"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/5b5c80cc-bdf3-11ed-a067-02420a0001bb.webp",
+            "width": 160
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Top pilots",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/15671990-zap2000-palm-os-top-pilots.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/065699a0-bec0-11ed-9c42-02420a000140.webp",
+                "width": 160
+            },
+            {
+                "caption": "Shooting the first enemies",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/15668387-zap2000-palm-os-shooting-the-first-enemies.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ac9b033e-bebe-11ed-9c42-02420a000140.webp",
+                "width": 160
+            },
+            {
+                "caption": "These enemies are shooting back at me",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/15654297-zap2000-palm-os-these-enemies-are-shooting-back-at-me.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/518d931a-bdf3-11ed-a067-02420a0001bb.webp",
+                "width": 160
+            },
+            {
+                "caption": "Starting out",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/15666758-zap2000-palm-os-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/217d5f54-bebe-11ed-9c42-02420a000140.webp",
+                "width": 160
+            },
+            {
+                "caption": "Shoot a column and get a coin",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/15654048-zap2000-palm-os-shoot-a-column-and-get-a-coin.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/391259c4-bdf3-11ed-a067-02420a0001bb.webp",
+                "width": 160
+            }
+        ],
+        "title": "Zap!2000"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Tap Attack</em> is a tile based puzzle game with a slightly different gameplay mechanic than other games of its kind. Unlike traditional match three puzzlers like <a href=\"https://www.mobygames.com/game/24362/bejeweled/\">Bejeweled</a>, the player here doesn't make matches by swapping adjacent tiles. Instead the player here has to tap on individual tiles which are then removed and matches are made from the tile that fall down and takes its place. For a match to be made a row or column of at least three tiles has to be made and if not the tapped on tile will reappear at its original location. The game has two game modes: relaxed and timed. In relaxed mode the player can play until there are no more possible matches to be made while in timed mode matches has to be made before time runs out. Each match then leads to extra time being added.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 145,
+                "name": "Falling block puzzle"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 154,
+                "name": "Tile matching puzzle"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 167,
+                "name": "Point and select"
+            }
+        ],
+        "id": 70361,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/70361/tap-attack/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 65,
+                    "name": "Palm OS"
+                },
+                "2003-02-14"
+            ]
+        ],
+        "sample_cover": {
+            "height": 160,
+            "image_url": "https://cdn.mobygames.com/screenshots/16550043-tap-attack-palm-os-main-menu.png",
+            "platforms": [
+                "Palm OS"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/e02c2da6-c23b-11ed-ab6b-02420a000194.webp",
+            "width": 160
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Starting out",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16550034-tap-attack-palm-os-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dec4d0bc-c23b-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Creating a match",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16550031-tap-attack-palm-os-creating-a-match.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/deaab196-c23b-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Timed mode",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16550025-tap-attack-palm-os-timed-mode.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/de750654-c23b-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Instructions",
+                "height": 320,
+                "image_url": "https://cdn.mobygames.com/screenshots/16550040-tap-attack-palm-os-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e00e77f2-c23b-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Time is out",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16550019-tap-attack-palm-os-time-is-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/de3affb8-c23b-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            }
+        ],
+        "title": "Tap Attack"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Interlopers</em> is a <em>Space Invaders</em> variant that expands on the original game by adding some new features. The basics are the same: the player moves his ship left and right behind three sets of barriers while blasting away at the aliens that descend from above. A major difference however is that it is possible to acquire new weapons and special equipment between waves. This is done with money that is occasionally dropped from the aliens. In addition to money the aliens might also drop two power-ups: one that recharges the player's shield and one that provides energy to the special equipment. Due to the shield the player here does not get killed instantly when hit but can take some damage. When starting out the special equipment is a random teleporter, but others such as repair units and guided missiles can be acquired.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 71867,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/71867/interlopers/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 65,
+                    "name": "Palm OS"
+                },
+                "2004-05-12"
+            ]
+        ],
+        "sample_cover": {
+            "height": 320,
+            "image_url": "https://cdn.mobygames.com/screenshots/16560471-interlopers-palm-os-main-menu.png",
+            "platforms": [
+                "Palm OS"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/3d6f0e0e-c23f-11ed-ab6b-02420a000194.webp",
+            "width": 320
+        },
+        "sample_screenshots": [
+            {
+                "caption": "2-bit grayscale version",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16560507-interlopers-palm-os-2-bit-grayscale-version.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3fc2bdc2-c23f-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Starting out",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16560468-interlopers-palm-os-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3d5779c4-c23f-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Getting killed",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16560444-interlopers-palm-os-getting-killed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3bc45d7a-c23f-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Here come the aliens",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16560465-interlopers-palm-os-here-come-the-aliens.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3d3f7e96-c23f-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Game over",
+                "height": 320,
+                "image_url": "https://cdn.mobygames.com/screenshots/16560453-interlopers-palm-os-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3ce1c116-c23f-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            }
+        ],
+        "title": "Interlopers"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>The Best PDA Games</em> is a collection of games for the Palm OS. </p>\n<p>There are seventy-five games on the CD, largely freeware, which has a Windows front end. All the games are intended to be installed and played on the user's PDA, there is no included emulator that allows the games to be played in a Windows environment.<br>\nThe front end shows a small screenshot and picture for each game. Most games are in black and white but some are in colour The games in this compilation are grouped by category, they are;* Action: Bug Race, Shooter, Solar Wars</p>\n<ul>\n<li>Adventure: Bomb Canada, Cavern of Kalisto, Tatum</li>\n<li>Arcade: Astron, F.A.T.M., Hynui, Igzp the Dolphin, kbkt, LR std, Mopp, Nina, Space Wars, Sting, UFO Wars, Urc, Twiqer, Ywiqer 2</li>\n<li>Board Games: Ackwire, BSBingo, Domino, \"First-In, First-Out\" aka FIFO, Hong Kong Majong, Hot Checkers</li>\n<li>Card - Casino: Big Two, Blackjack (German), BridgeOC, Gamer's Die Roller, Picture Frame, SlotMachine</li>\n<li>Fun Stuff: Calei, Crazy Chameleon, Easter Egg Hunt, Fishing Log, Little Angel, PilotEyes, Porta Monkey, Snowballer, Tap Runner, The Psychic Rabbit, Thumb Scan, Typer, Whack</li>\n<li>Puzzles: Blocks, Cubik, EggyLand, Elch, Tablut, TicTacCiubed, TicTacToe 3D, Triangle Puzzle, Vrubix</li>\n<li>Strategy: Baka, Exodus, Fish, Flipper, FourTap, Hexplode, HMaki, Ishido, Konane, Lines, Mihnd, Mi\nMuhnd, Mulg BoxdOut, Mulg Levels, Palm Targ, PieManSimon, Quads and Quazars, TakoS, The Mummy!</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 73375,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/73375/the-best-pda-games/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 65,
+                    "name": "Palm OS"
+                },
+                "2001"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/491420-the-best-pda-games-palm-os-front-cover.jpg",
+            "platforms": [
+                "Palm OS"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/82a11f5a-ab6d-11ed-81b6-02420a00019d.webp",
+            "width": 807
+        },
+        "sample_screenshots": [],
+        "title": "The Best PDA Games"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>This compilation of three classic board games (Chess, Checkers and Reversi) can be played on a Palm PDA by syncing with the Palm Desktop Organizer for Windows or Macintosh. These games can be customized by changing the look of the board from 2D to 3D, or using the multi-player capability of any Palm PDA. The game features an interactive utility when the CD is first inserted on a Windows or Macintosh computer to choose which game to install.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 11,
+                "name": "Chess"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 167,
+                "name": "Point and select"
+            }
+        ],
+        "id": 73845,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/73845/chess-checkers-reversi/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 65,
+                    "name": "Palm OS"
+                },
+                "2001"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Chess Checkers Reversi"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "European title (France-Germany-United Kingdom)",
+                "title": "100 Great Games for Palm OS & Handspring Visors"
+            }
+        ],
+        "description": "<p>This Compilation CD features a collection of games for the Palm PDA. There are some shareware games included on the disc. These games will require special software on a Windows computer to install the games provided. The games on the disc are included as follows:</p>\n<p>3D Tic Tac Toe, 4 Corners Solitaire, 8 Ball Magic, Amusement Park, Anakin, BlackJack Solitaire, Bombrun, Bridge, Carib Stud, CoalTo Diamonds, Crazy 8\u2019s, Cuarenta, Daleks, Dark Haven, Double Down, Dragon Bane Pinball, Dungeoneer, Eracer, Euchre, Finline, Fire, Flytrap, Fours, Galactic Realms, GoMoku, Graviton, Guessme, Impactor, Jookerie, Jstones, Kyle\u2019s Quest, Let It Ride, MahJongg, Maze Wars.</p>\n<p>The CD also comes with a menu for easy access to most of the games.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 78479,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/78479/100-great-games-for-the-palm-computing-platform/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 65,
+                    "name": "Palm OS"
+                },
+                "2000"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/8591946-100-great-games-for-the-palm-computing-platform-palm-os-front-co.jpg",
+            "platforms": [
+                "Palm OS"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/af92058c-abff-11ed-ad33-02420a00012d.webp",
+            "width": 570
+        },
+        "sample_screenshots": [],
+        "title": "100 Great Games for the Palm Computing Platform"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>A heavily scaled back version of <em>Serious Sam: The First Encounter</em>, with sprites for enemies and animation, lack of special effects and cubic, non-horizontal levels that make it identical of that to <em>Wolfenstein 3D</em>. </p>\n<p>However the game plays very similarly to other Serious Sams, as a first-person shooter, with the same monsters to kill with over 6 weapons &amp; a high score to rack up across 15 levels.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 201,
+                "name": "Egypt (Ancient)"
+            }
+        ],
+        "id": 81650,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/81650/serious-sam/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 65,
+                    "name": "Palm OS"
+                },
+                "2001"
+            ]
+        ],
+        "sample_cover": {
+            "height": 160,
+            "image_url": "https://cdn.mobygames.com/promos/2102865-serious-sam-screenshot-gamespot-promotional-screenshot-2001.jpg",
+            "platforms": [],
+            "thumbnail_image_url": "https://cdn.mobygames.com/49191c20-ab7b-11ed-b6ec-02420a00019b.webp",
+            "width": 160
+        },
+        "sample_screenshots": [],
+        "title": "Serious Sam"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Master Thief 3D</em> is a first person shooter with stealth elements. The player takes a role of Nebula, a present-day specialist in the field of industrial espionage who can find a way to sneak into anywhere, stealing from the rich and giving to the highest bidder. </p>\n<p>Along with traditional FPS tropes of shooting and managing your health and ammo, you'll also have to avoid and distract guards, watchdogs and cameras, crack codes and solve various puzzles. However, the game doesn't limit your actions to either run-n-gun or stealthy approach. </p>\n<p>The game is episode based: the first, that deals with stealing an invaluable gem from the Russian Mafia is, included with the base package for free, and additional ones had to be purchased separately. <em>Master Thief 3D</em> could be controlled with both touch-screen and Graffiti area or with hardware buttons to look and move around.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 99,
+                "name": "Stealth"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 121,
+                "name": "Crime"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 93,
+                "name": "Spy / espionage"
+            }
+        ],
+        "id": 81795,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/81795/master-thief-3d/",
+        "num_votes": 0,
+        "official_url": "http://www.cascatagames.com/thief/",
+        "platforms": [
+            [
+                {
+                    "id": 65,
+                    "name": "Palm OS"
+                },
+                "2002-10-29"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Master Thief 3D"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Edge</em> is a classic role-playing game endemic to Palm OS devices. It is set in a traditional fantasy world populated by elves, dwarves, humans and all sorts of of vile creatures. The king is mad, his heir disappeared in the woods, the doom is impending and you need to sort that all out. The game leans towards action, and the graphics uses isometrical perspective.</p>\n<p>The game starts with creation of a character, where you may choose between three races and four classes: warrior, mage, thief or a priest. Casting classes has their set of spells and the other two can choose proficiency with different weapons and typical rogue skills like \"hide in shadows\" or \"pick locks\". Advancing your character is also traditional and based on experience gathering and then updating your skills. Besides that it is possible to hire a henchman to help you out or get a pet.</p>\n<p><em>Edge</em> is played in real-time, but the movement is restricted to tiles like it was in a more recent <em><a href=\"https://www.mobygames.com/search/?q=Eschalon+Book+\">Eschalon</a></em> series. The gameplay revolves around solving many quests, interacting with NPCs, exploring and fighting. The combat can be executed in two ways: automatically or action-style - mashing the right buttons, if the device gets enough of them.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 50,
+                "name": "Role-playing (RPG)"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 129,
+                "name": "Diagonal-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 25,
+                "name": "Isometric"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 15,
+                "name": "Real-time"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            }
+        ],
+        "id": 81863,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/81863/edge/",
+        "num_votes": 0,
+        "official_url": "http://web.archive.org/web/20140214064336/http://www.rzanerutledge.com/edge/index.html",
+        "platforms": [
+            [
+                {
+                    "id": 65,
+                    "name": "Palm OS"
+                },
+                "2005"
+            ]
+        ],
+        "sample_cover": {
+            "height": 320,
+            "image_url": "https://cdn.mobygames.com/promos/2591125-edge-screenshot.jpg",
+            "platforms": [],
+            "thumbnail_image_url": "https://cdn.mobygames.com/14cc948c-ab81-11ed-89d0-02420a00019d.webp",
+            "width": 480
+        },
+        "sample_screenshots": [],
+        "title": "Edge"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Ancient Red</em> is an action RPG like <a href=\"https://www.mobygames.com/search/?q=Diablo\">Diablo</a> and similar titles with the difference that it was designed for Palm-based PDAs. The game features the same isometric presentation, point&amp;click control and simplified roleplaying system that employs four basic stats. Character can use a variety of weapons, armor and learn magical spells. The ultimate goal is to collect four parts of the Gammalion ring and defeat the ancient prophet.</p>\n<p>The back story goes like this: the land of Basylonia has suffered greatly since the king married a foreign women, who turned out to be the devil in the flesh. She gave birth to a boy who looked like a mummy and had no blood. The heir was named Moloch. After an advice from the Devil-appointed figure at the court, the king started to kill his own people and feed his son with their blood. The country succumbed to the darkness with human sacrifices and twisted cults. However, this hasn't gone unnoticed as one day a guy came down from heaven and transformed Basylonia into a barren land. A lot of time has passed since those events, but now people are afraid that the second coming of Moloch is going to happen.</p>\n<p>The game is played in hack&amp;slash style by tapping the screen to go somewhere or to interact with environment. Quests can be received from NPCs that mainly require to kill a certain number of monsters or to find an item. The game world itself is generated for every new game from the main menu. Another interesting feature is the ability to trade items between two players via infrared port of the device.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 50,
+                "name": "Role-playing (RPG)"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 129,
+                "name": "Diagonal-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 25,
+                "name": "Isometric"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 15,
+                "name": "Real-time"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 166,
+                "name": "Action RPG"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 68,
+                "name": "Hack and slash"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 167,
+                "name": "Point and select"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            }
+        ],
+        "id": 100135,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/100135/ancient-red/",
+        "num_votes": 0,
+        "official_url": "http://web.archive.org/web/20031121064407/http://www.ancientred.com:80/",
+        "platforms": [
+            [
+                {
+                    "id": 65,
+                    "name": "Palm OS"
+                },
+                "2000-03"
+            ]
+        ],
+        "sample_cover": {
+            "height": 160,
+            "image_url": "https://cdn.mobygames.com/promos/4626047-ancient-red-screenshot.png",
+            "platforms": [],
+            "thumbnail_image_url": "https://cdn.mobygames.com/6ac1e6e2-abba-11ed-9b12-02420a00019d.webp",
+            "width": 160
+        },
+        "sample_screenshots": [],
+        "title": "Ancient Red"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Chessmaster</em> for Palm OS is based on the Windows 3.x version of <a href=\"https://www.mobygames.com/search/?q=Chessmaster+3000\">Chessmaster 3000</a> but does not feature all game modes and features of the original version. The game's graphics are limited to a simple top down 2D view with none of the 3D views of the PC game being available. The game options are the same: ground rules, blindfold chess, tournaments and championship play. The mentor functions are also included: quick and detailed advices, analysis and teaching as well as three tutorial sessions: Chess Rules, Chess Tutor and Chess Rater. Matches can be played against the computer or another human or have two AIs play each other. There are sixteen different AI personalities to choose from. There are also more than 150 classic matches based on real life chess games.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 11,
+                "name": "Chess"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 167,
+                "name": "Point and select"
+            }
+        ],
+        "id": 106059,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/106059/chessmaster/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 65,
+                    "name": "Palm OS"
+                },
+                "2002"
+            ]
+        ],
+        "sample_cover": {
+            "height": 160,
+            "image_url": "https://cdn.mobygames.com/promos/5190987-chessmaster-screenshot.png",
+            "platforms": [],
+            "thumbnail_image_url": "https://cdn.mobygames.com/0a2345d8-abd3-11ed-81e3-02420a000199.webp",
+            "width": 160
+        },
+        "sample_screenshots": [],
+        "title": "Chessmaster"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Ultimate Battle Fleet</em> is a <a href=\"https://www.mobygames.com/search/?q=Battleship\">Battleship</a> variant that is based on the public domain game <a href=\"https://www.mobygames.com/search/?q=Salvo\">Salvo</a>. The game can be played against an AI opponent (three skill levels) or against another human either on the same device or via infrared beam. Like in the classic game, players take shot on each other's ships which are placed on a ten by ten grid. The player that first sinks the opponent's fleet wins. </p>\n<p>The game can be customized in some ways. This includes six different fleet configurations to choose from. The standard configuration consists of a carrier, a cruiser, a destroyer, a sub and a PT boat but other options include Heavy which consists of two carriers but none of the others or Stealthy which consists of four PT boats. Other options include the number of shots per turn (1-9) and whether to have shots marked on the grid or not.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 167,
+                "name": "Point and select"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 41,
+                "name": "Naval / watercraft"
+            }
+        ],
+        "id": 106390,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/106390/ultimate-battle-fleet/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 65,
+                    "name": "Palm OS"
+                },
+                "2001"
+            ]
+        ],
+        "sample_cover": {
+            "height": 320,
+            "image_url": "https://cdn.mobygames.com/screenshots/16232415-ultimate-battle-fleet-palm-os-title-screen-colour.png",
+            "platforms": [
+                "Palm OS"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/72784ff4-c1d9-11ed-ab6b-02420a000194.webp",
+            "width": 320
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Incoming (colour)",
+                "height": 320,
+                "image_url": "https://cdn.mobygames.com/screenshots/16228357-ultimate-battle-fleet-palm-os-incoming-colour.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3c8c4f54-c1d8-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Selecting targets (colour)",
+                "height": 320,
+                "image_url": "https://cdn.mobygames.com/screenshots/16228567-ultimate-battle-fleet-palm-os-selecting-targets-colour.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4a045d48-c1d8-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Settings (colour)",
+                "height": 320,
+                "image_url": "https://cdn.mobygames.com/screenshots/16228609-ultimate-battle-fleet-palm-os-settings-colour.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4d1c4d6a-c1d8-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Firing in progress (greyscale)",
+                "height": 320,
+                "image_url": "https://cdn.mobygames.com/screenshots/16228381-ultimate-battle-fleet-palm-os-firing-in-progress-greyscale.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3dd0cc64-c1d8-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Firing in progress - skull and crossbones show hits, green are sunken ships (colour)",
+                "height": 320,
+                "image_url": "https://cdn.mobygames.com/screenshots/16228564-ultimate-battle-fleet-palm-os-firing-in-progress-skull-and-cross.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/49e93518-c1d8-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            }
+        ],
+        "title": "Ultimate Battle Fleet"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Saturn Strike</em> is a horizontally scrolling shoot 'em up. The game takes place inside the Saturn belt in the year 4017 and the player's mothership has just been attacked by Saturnian Death Squads. Before it explodes the player manages to escape in a small space craft and the objective of the game is simply to survive as long as possible (and get the highest score) before reaching the Saturn's surface. In the way there are numerous asteroids and enemies that give points when shot down. The controls are limited to moving in four directions and firing with a single button. It is possible to collect weapon bonuses but they have limited ammo.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 106473,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/106473/saturn-strike/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 65,
+                    "name": "Palm OS"
+                },
+                "2002"
+            ]
+        ],
+        "sample_cover": {
+            "height": 160,
+            "image_url": "https://cdn.mobygames.com/screenshots/16238083-saturn-strike-palm-os-title-screen.png",
+            "platforms": [
+                "Palm OS"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/61c0e00c-c1db-11ed-ab6b-02420a000194.webp",
+            "width": 160
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Control type selection",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16238080-saturn-strike-palm-os-control-type-selection.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/61a2b49c-c1db-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Trying to destroy some space rocks",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16238137-saturn-strike-palm-os-trying-to-destroy-some-space-rocks.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6731c7ea-c1db-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Crashing into an asteroid",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16238140-saturn-strike-palm-os-crashing-into-an-asteroid.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/674b6c4a-c1db-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Leaving the mothership",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16238077-saturn-strike-palm-os-leaving-the-mothership.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6184e818-c1db-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Starting out",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16238074-saturn-strike-palm-os-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6169c614-c1db-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            }
+        ],
+        "title": "Saturn Strike"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Weecky Dance</em> is a rhythm action game with gameplay similar to <a href=\"https://www.mobygames.com/search/?q=Dance+Dance+Revolution\">Dance Dance Revolution</a>. The aim of the game is simply to dance as long as possible which is done by tapping four buttons. The screen shows a dancer to the left and a big receiver that moves downwards to the right. Arrows appear from the bottom and the player has to press the corresponding button when they reach the receiver. If successful the receiver goes up otherwise it goes down. When performing a certain number of hits the dancer will make some special moves. The game ends when the receiver reaches the bottom of the screen.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 97,
+                "name": "Music / rhythm"
+            }
+        ],
+        "id": 106474,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/106474/weecky-dance/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 65,
+                    "name": "Palm OS"
+                },
+                "2002"
+            ]
+        ],
+        "sample_cover": {
+            "height": 160,
+            "image_url": "https://cdn.mobygames.com/screenshots/16242181-weecky-dance-palm-os-main-menu.png",
+            "platforms": [
+                "Palm OS"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/b09a52c0-c1dc-11ed-ab6b-02420a000194.webp",
+            "width": 160
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Main menu",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16242181-weecky-dance-palm-os-main-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b09a52c0-c1dc-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Making a hit",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16242601-weecky-dance-palm-os-making-a-hit.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c60e8af4-c1dc-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Start of game",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16242217-weecky-dance-palm-os-start-of-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b2cd2bda-c1dc-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Tapping too late",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16242604-weecky-dance-palm-os-tapping-too-late.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c62a7642-c1dc-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "High score",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16242709-weecky-dance-palm-os-high-score.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cbe41cdc-c1dc-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            }
+        ],
+        "title": "Weecky Dance"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "Included game",
+                "title": "Toxic Boxing"
+            }
+        ],
+        "description": "<p><em>5-Pack</em> is a compilation of five games. It's the initial release for all included games but four of them were later also released on their own. </p>\n<ul>\n<li><a href=\"https://www.mobygames.com/game/106318/summer-volley/\">Summer Volley</a></li>\n<li><a href=\"https://www.mobygames.com/game/1568/atomino/\">Atomino</a></li>\n<li><a href=\"https://www.mobygames.com/game/106474/weecky-dance/\">Weecky Dance</a></li>\n<li><a href=\"https://www.mobygames.com/game/106473/saturn-strike/\">Saturn Strike</a></li>\n<li>Toxic Boxing</li>\n</ul>\n<p><em>Toxic Boxing</em> was only released as part of this compilation. It is a boxing game played from a slightly angled behind view. The player can do four actions: move right and left, high punch and low punch. It is also possible to do combos by combining moves and enter a fury mode by pressing both punch buttons. The goal of the game is simply to win as many succeeding rounds as possible.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 128,
+                "name": "Behind view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 48,
+                "name": "Fighting"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 36,
+                "name": "Boxing"
+            }
+        ],
+        "id": 106501,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/106501/5-pack/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 65,
+                    "name": "Palm OS"
+                },
+                "2001-08-01"
+            ]
+        ],
+        "sample_cover": {
+            "height": 242,
+            "image_url": "https://cdn.mobygames.com/covers/3084035-5-pack-palm-os-front-cover.jpg",
+            "platforms": [
+                "Palm OS"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/eff361b0-ab88-11ed-9b12-02420a00019d.webp",
+            "width": 188
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Punching the enemy (Toxic Boxing)",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16246783-5-pack-palm-os-punching-the-enemy-toxic-boxing.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cf288e5e-c1dd-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Survival ranking (Toxic Boxing)",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16247478-5-pack-palm-os-survival-ranking-toxic-boxing.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f877eaac-c1dd-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Entering name (Toxic Boxing)",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16247484-5-pack-palm-os-entering-name-toxic-boxing.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f8ad1542-c1dd-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Controls (Toxic Boxing)",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16246789-5-pack-palm-os-controls-toxic-boxing.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cf63e10c-c1dd-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Main menu (Toxic Boxing)",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16246672-5-pack-palm-os-main-menu-toxic-boxing.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c9a21720-c1dd-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            }
+        ],
+        "title": "5-Pack"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Siberian Strike</em> is a vertically scrolling shoot 'em up game. This is the original Palm OS version of the game. It was later ported in two parts for feature phones (<a href=\"https://www.mobygames.com/game/24477/siberian-strike-episode-i/\">Episode I</a> &amp; <a href=\"https://www.mobygames.com/game/25195/siberian-strike-episode-ii/\">II</a>) and remade in expanded form as <a href=\"https://www.mobygames.com/game/122790/siberian-strike-x/\">Siberian Strike X</a> and in 3D for the <a href=\"https://www.mobygames.com/game/46686/siberian-strike/\">iPhone</a>.</p>\n<p>The game takes place during World War II. The USSR are preparing a new lethal weapon in a hidden base in Siberia. As a German Luftwaffe pilot, the player's task is to break through the Soviet defences and destroy the weapon. There are three different fighters to choose from with different ratings in speed, power and shield. The game consists of five regular levels and two special slalom levels. Each of the five levels ends with a boss fight.</p>\n<p>The gameplay is similar to <a href=\"https://www.mobygames.com/game/7949/1942/\">1942</a> and other scrolling shoot 'em ups. The player has access to a regular fire and a bomb which clears all enemies on the screen. Holding down the fire button charges a powerful beam. After destroying enemies it is possible to collect power ups that increases fire power as well as medals that give bonus points.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 19,
+                "name": "Flight / aviation"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 215,
+                "name": "World War II"
+            }
+        ],
+        "id": 122780,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/122780/siberian-strike/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 65,
+                    "name": "Palm OS"
+                },
+                "2001-10-30"
+            ]
+        ],
+        "sample_cover": {
+            "height": 207,
+            "image_url": "https://cdn.mobygames.com/covers/7564967-siberian-strike-palm-os-front-cover.png",
+            "platforms": [
+                "Palm OS"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/522979a0-abf7-11ed-98b0-02420a000130.webp",
+            "width": 222
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Fighter selection (colour)",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16279937-siberian-strike-palm-os-fighter-selection-colour.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4b7a4024-c1e8-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "A power up (colour)",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16279997-siberian-strike-palm-os-a-power-up-colour.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4fdc5f4e-c1e8-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Title screen (colour)",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16279940-siberian-strike-palm-os-title-screen-colour.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4b9c04ca-c1e8-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Game options (colour)",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16279934-siberian-strike-palm-os-game-options-colour.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4b5756d6-c1e8-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Starting out (grayscale)",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16279991-siberian-strike-palm-os-starting-out-grayscale.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4f9f04aa-c1e8-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            }
+        ],
+        "title": "Siberian Strike"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "included game",
+                "title": "Columns for CLI\u00c9"
+            }
+        ],
+        "description": "<p>The Sony PEGA-GC10 game controller is an accessory for the Sony CLI\u00c9 handheld computers running Palm OS. The game <em>Columns for CLI\u00c9</em> is bundled and exclusive to the accessory. It can also be played with the hardware buttons in absence of the game controller accessory. It runs at 320x320 at 256 colours on compatible devices.</p>\n<p>It is a take on the classic <a href=\"https://www.mobygames.com/search/?q=Columns\">Columns</a> falling block puzzle game where the blocks need to be arranged in a specific way to clear them. It features two modes: Arcade (the standard endless mode) and Flash (a sort of puzzle mode where you have to clear the initial junk). It also features four extra block designs in addition to the standard gems: dogs, cats, animals, fruit.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 15,
+                "name": "Real-time"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 145,
+                "name": "Falling block puzzle"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 124411,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/124411/clie-pega-gc10-game-controller-included-games/",
+        "num_votes": 0,
+        "official_url": "https://www.sony.com/electronics/support/downloads/W0001045",
+        "platforms": [
+            [
+                {
+                    "id": 65,
+                    "name": "Palm OS"
+                },
+                "2002"
+            ]
+        ],
+        "sample_cover": {
+            "height": 320,
+            "image_url": "https://cdn.mobygames.com/screenshots/7352742-clie-pega-gc10-game-controller-included-games-palm-os-title-scre.png",
+            "platforms": [
+                "Palm OS"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/ab6d9d0e-abf5-11ed-87d3-02420a000134.webp",
+            "width": 320
+        },
+        "sample_screenshots": [
+            {
+                "caption": "A match hint",
+                "height": 320,
+                "image_url": "https://cdn.mobygames.com/screenshots/7379349-clie-pega-gc10-game-controller-included-games-palm-os-a-match-hi.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ddc7f7ae-abf5-11ed-9584-02420a000136.webp",
+                "width": 320
+            },
+            {
+                "caption": "How to play, page 2",
+                "height": 320,
+                "image_url": "https://cdn.mobygames.com/screenshots/7363739-clie-pega-gc10-game-controller-included-games-palm-os-how-to-pla.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c084a5d4-abf5-11ed-8ce3-02420a000131.webp",
+                "width": 320
+            },
+            {
+                "caption": "Animals block design",
+                "height": 320,
+                "image_url": "https://cdn.mobygames.com/screenshots/7363733-clie-pega-gc10-game-controller-included-games-palm-os-animals-bl.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c001e202-abf5-11ed-8ce3-02420a000131.webp",
+                "width": 320
+            },
+            {
+                "caption": "GAME OVER",
+                "height": 320,
+                "image_url": "https://cdn.mobygames.com/screenshots/7381429-clie-pega-gc10-game-controller-included-games-palm-os-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d926fc7c-abf5-11ed-87d3-02420a000134.webp",
+                "width": 320
+            },
+            {
+                "caption": "Arcade game setup",
+                "height": 320,
+                "image_url": "https://cdn.mobygames.com/screenshots/9453446-clie-pega-gc10-game-controller-included-games-palm-os-arcade-gam.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1b266aa2-ac07-11ed-8d2f-02420a00012e.webp",
+                "width": 320
+            }
+        ],
+        "title": "CLI\u00c9 PEGA-GC10 Game Controller (included games)"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>Trial/concept game released by SEGA Smilebit division at the PalmSource Japan Forum 2002 and on their website.</p>\n<p>Use the stylus to position triangles on a grid, the aim is to deflect a ball to the goal and collect coins on the way.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 53,
+                "name": "Pinball"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 167,
+                "name": "Point and select"
+            }
+        ],
+        "id": 124412,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/124412/triangle-magic/",
+        "num_votes": 0,
+        "official_url": "https://web.archive.org/web/20020408142525/http://pda.sega.co.jp:80/",
+        "platforms": [
+            [
+                {
+                    "id": 65,
+                    "name": "Palm OS"
+                },
+                "2002-03-28"
+            ]
+        ],
+        "sample_cover": {
+            "height": 320,
+            "image_url": "https://cdn.mobygames.com/screenshots/9628930-triangle-magic-palm-os-title-screen.png",
+            "platforms": [
+                "Palm OS"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/b1bd5ad8-ac08-11ed-8d66-02420a000132.webp",
+            "width": 320
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Title screen",
+                "height": 320,
+                "image_url": "https://cdn.mobygames.com/screenshots/9628930-triangle-magic-palm-os-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b1bd5ad8-ac08-11ed-8d66-02420a000132.webp",
+                "width": 320
+            },
+            {
+                "caption": "Stage 2 setup",
+                "height": 320,
+                "image_url": "https://cdn.mobygames.com/screenshots/9628927-triangle-magic-palm-os-stage-2-setup.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b1811ff0-ac08-11ed-8d66-02420a000132.webp",
+                "width": 320
+            },
+            {
+                "caption": "Stage 1 solution",
+                "height": 320,
+                "image_url": "https://cdn.mobygames.com/screenshots/9628924-triangle-magic-palm-os-stage-1-solution.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b145c98c-ac08-11ed-8d66-02420a000132.webp",
+                "width": 320
+            },
+            {
+                "caption": "Stage 1 complete",
+                "height": 320,
+                "image_url": "https://cdn.mobygames.com/screenshots/7454885-triangle-magic-palm-os-stage-1-complete.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/70c6659a-abf6-11ed-887e-02420a00012e.webp",
+                "width": 320
+            }
+        ],
+        "title": "Triangle Magic"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Borkov</em> is a trial/concept game released by the SEGA Smilebit division on the PalmSource Japan Forum 2002 and on their website. Players use the hardware buttons, or stylus, to make an overweight red-haired man eat chunks of chocolate to match the goal shape. It is reminiscent of <a href=\"https://www.mobygames.com/company/3206/compile/\">Compile's</a> GBA game <a href=\"https://www.mobygames.com/game/20866/guru-logi-champ/\">Guru Logi Champ</a>, in that you rotate the play field and \"suck\" blocks from the middle.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 15,
+                "name": "Real-time"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 167,
+                "name": "Point and select"
+            }
+        ],
+        "id": 124413,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/124413/borkov/",
+        "num_votes": 0,
+        "official_url": "https://web.archive.org/web/20020406091540/http://pda.sega.co.jp/game/b-manual.html",
+        "platforms": [
+            [
+                {
+                    "id": 65,
+                    "name": "Palm OS"
+                },
+                "2002-03-28"
+            ]
+        ],
+        "sample_cover": {
+            "height": 320,
+            "image_url": "https://cdn.mobygames.com/screenshots/7460644-borkov-palm-os-title-screen.png",
+            "platforms": [
+                "Palm OS"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/812f1d28-abf6-11ed-803a-02420a000131.webp",
+            "width": 320
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Level complete",
+                "height": 320,
+                "image_url": "https://cdn.mobygames.com/screenshots/7460620-borkov-palm-os-level-complete.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7d87ceb8-abf6-11ed-803a-02420a000131.webp",
+                "width": 320
+            },
+            {
+                "caption": "Level in progress",
+                "height": 320,
+                "image_url": "https://cdn.mobygames.com/screenshots/7460623-borkov-palm-os-level-in-progress.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7dbf032e-abf6-11ed-803a-02420a000131.webp",
+                "width": 320
+            },
+            {
+                "caption": "Title screen",
+                "height": 320,
+                "image_url": "https://cdn.mobygames.com/screenshots/7460644-borkov-palm-os-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/812f1d28-abf6-11ed-803a-02420a000131.webp",
+                "width": 320
+            },
+            {
+                "caption": "Level start",
+                "height": 320,
+                "image_url": "https://cdn.mobygames.com/screenshots/7460641-borkov-palm-os-level-start.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/80cc5b48-abf6-11ed-803a-02420a000131.webp",
+                "width": 320
+            }
+        ],
+        "title": "Borkov"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>Similar to the original game, the goal of Netwalk 2 is to connect every terminal on a 10\u00d79 field to the server. To achieve this you must rotate the tiles with connectors on by tapping on them so they connect to each other. Once a terminal is linked to the server, a smile will appears on its monitor. The player moves on to the next level once all terminals are connected.</p>\n<p>There are three levels of difficulty: Novice, Master and Expert.</p>\n<p>Compared to the original game, the game now comes with an embedded level editor, color support and a new set of 99 levels.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 167,
+                "name": "Point and select"
+            }
+        ],
+        "id": 136032,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/136032/netwalk-2/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 65,
+                    "name": "Palm OS"
+                },
+                "2000-07-10"
+            ]
+        ],
+        "sample_cover": {
+            "height": 160,
+            "image_url": "https://cdn.mobygames.com/screenshots/9881707-netwalk-2-palm-os-first-level.png",
+            "platforms": [
+                "Palm OS"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/0a107b00-ac0b-11ed-83f5-02420a000134.webp",
+            "width": 160
+        },
+        "sample_screenshots": [
+            {
+                "caption": "First level complete!",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/9881701-netwalk-2-palm-os-first-level-complete.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/09c1e526-ac0b-11ed-83f5-02420a000134.webp",
+                "width": 160
+            },
+            {
+                "caption": "A view of the completed level before moving to the next one",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/9881698-netwalk-2-palm-os-a-view-of-the-completed-level-before-moving-to.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/099490c6-ac0b-11ed-83f5-02420a000134.webp",
+                "width": 160
+            },
+            {
+                "caption": "Level 2 complete!",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/9881686-netwalk-2-palm-os-level-2-complete.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/08bdb010-ac0b-11ed-83f5-02420a000134.webp",
+                "width": 160
+            },
+            {
+                "caption": "Instructions",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/9881677-netwalk-2-palm-os-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0823303a-ac0b-11ed-83f5-02420a000134.webp",
+                "width": 160
+            },
+            {
+                "caption": "The start of level 3",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/9881683-netwalk-2-palm-os-the-start-of-level-3.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0891a34e-ac0b-11ed-83f5-02420a000134.webp",
+                "width": 160
+            }
+        ],
+        "title": "NetWalk 2"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>DaDa Golf</em> is a golf game for color or monochrome devices. Players get to participate in three different levels of tournaments from beginner to advanced: the beginner's \"DaDa CUP\", intermediate \"DaDa CLASSIC\" and advanced \"DaDa OPEN\". The game features club selection, courses with different surfaces, hazards and environmental objects such as rough, trees, sand bunkers and water hazards. Other features are variable lay, wind and green slopes, and a player ranking feature.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 128,
+                "name": "Behind view"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 35,
+                "name": "Golf"
+            }
+        ],
+        "id": 139633,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/139633/dada-golf/",
+        "num_votes": 0,
+        "official_url": "https://web.archive.org/web/20040219182336/http://www.jtt.ne.jp/products/game/dadagolf.html",
+        "platforms": [
+            [
+                {
+                    "id": 65,
+                    "name": "Palm OS"
+                },
+                "2002-12"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/6914088-dada-golf-palm-os-front-cover.jpg",
+            "platforms": [
+                "Palm OS"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/323e7c58-abf2-11ed-902e-02420a00012d.webp",
+            "width": 564
+        },
+        "sample_screenshots": [
+            {
+                "caption": "About to take a shot",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/9121533-dada-golf-palm-os-about-to-take-a-shot.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/75a6df8c-ac04-11ed-96e1-02420a00012d.webp",
+                "width": 160
+            }
+        ],
+        "title": "DaDa Golf"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>In <em>Eggyland</em> you need to find your wife Eggorina by collecting the hearts in all 100 levels. Each level consist of a single screen and is made up of enemies and objects you need to get around to reach the hearts and the exit safely.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 129,
+                "name": "Diagonal-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            }
+        ],
+        "id": 167179,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/167179/eggyland/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 65,
+                    "name": "Palm OS"
+                },
+                "1999-07-25"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Eggyland"
+    }
+]

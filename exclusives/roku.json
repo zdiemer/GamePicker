@@ -1,0 +1,112 @@
+[
+    {
+        "alternate_titles": [
+            {
+                "description": "Cover art title",
+                "title": "Jeopardy! Video Game"
+            },
+            {
+                "description": "Roku Channel Store",
+                "title": "Volley - Jeopardy!"
+            }
+        ],
+        "description": "<p><em>Jeopardy!</em> is a single-player version of the television game show made for Roku devices. Like its TV equivalent, there are three rounds: Jeopardy, Double Jeopardy and Final Jeopardy, with six categories for players to choose from in the former two. Players can play solo and just answer the questions, or they can face off against two computer opponents. The first week of the game is free, but anyone who wants to continue playing past that must subscribe to the Volley app for $9.99 a month.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 15,
+                "name": "Real-time"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 29,
+                "name": "Game show / trivia / quiz"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 170,
+                "name": "Voice control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 200,
+                "name": "Contemporary"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 207902,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/207902/jeopardy/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 196,
+                    "name": "Roku"
+                },
+                "2023-07-11"
+            ]
+        ],
+        "sample_cover": {
+            "height": 675,
+            "image_url": "https://cdn.mobygames.com/promos/17652716-jeopardy-screenshot.jpg",
+            "platforms": [],
+            "thumbnail_image_url": "https://cdn.mobygames.com/34af7754-5b05-11ee-a183-02420a0001cf.webp",
+            "width": 1200
+        },
+        "sample_screenshots": [],
+        "title": "Jeopardy!"
+    }
+]

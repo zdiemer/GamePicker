@@ -1,0 +1,4000 @@
+[
+    {
+        "alternate_titles": [
+            {
+                "description": "Canadian (French) title",
+                "title": "Dames"
+            },
+            {
+                "description": "UK title",
+                "title": "Draughts"
+            }
+        ],
+        "description": "<p><em>Checkers</em> is a conversion of the board game. Two players can challenge each other, or one player can go against the computer. The game features multiple skill levels, a \"bail out\" option which lets the computer suggest a move, the ability to take back a move, and the option to allow yourself or the computer to move first.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 9321,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/9321/checkers/",
+        "num_votes": 6,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 30,
+                    "name": "Intellivision"
+                },
+                "1980"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/3894177-checkers-intellivision-front-cover.jpg",
+            "platforms": [
+                "Intellivision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/ad7cdef4-ab9e-11ed-9d05-02420a000198.webp",
+            "width": 566
+        },
+        "sample_screenshots": [
+            {
+                "caption": "During a HI difficulty game - and I'm losing.",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/7771195-checkers-intellivision-during-a-hi-difficulty-game-and-im-losing.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ef33c3da-abf8-11ed-a710-02420a000136.webp",
+                "width": 320
+            },
+            {
+                "caption": "I WON!",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/7771192-checkers-intellivision-i-won.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/eef7d6cc-abf8-11ed-a710-02420a000136.webp",
+                "width": 320
+            },
+            {
+                "caption": "Got a King and now I'm winning!",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/7771881-checkers-intellivision-got-a-king-and-now-im-winning.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f1ae5d14-abf8-11ed-98b0-02420a000130.webp",
+                "width": 320
+            },
+            {
+                "caption": "Title screen",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1715896-checkers-intellivision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/99c5724e-ab77-11ed-b721-02420a00019b.webp",
+                "width": 320
+            },
+            {
+                "caption": "The game screen",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1716022-checkers-intellivision-the-game-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9a0dc350-ab77-11ed-b721-02420a00019b.webp",
+                "width": 320
+            }
+        ],
+        "title": "Checkers"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "Working Title",
+                "title": "Air Traffic Controller"
+            }
+        ],
+        "description": "<p><em>B-17 Bomber</em> takes place near the end of World War II. As the pilot of a B-17, your mission is to fly across the English Channel and bomb various strategic targets. First you need to select a destination which features a lot of targets. The further the target is from your home base, the more points you can earn, but with more ground to cover there will be more enemy fighters blocking the target and more fuel will be needed. Once a destination is set, you need to stock your plane with bombs and fuel, then take off! You will now have a first person point of view from the plane and can control which of several views is active. When trying to bomb targets, you will be looking straight down from the bombay doors. When you hear a voice announce incoming enemy planes, you need to switch the view to one of the guns and defend yourself. Lastly you can have a view from the cockpit to control the plane. If your fuel runs low, or your plane takes too much damage, you can fly back to your home base for repairs and then take off again to bomb as many targets as you can!</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 19,
+                "name": "Flight / aviation"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 215,
+                "name": "World War II"
+            }
+        ],
+        "id": 9472,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/9472/b-17-bomber/",
+        "num_votes": 7,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 30,
+                    "name": "Intellivision"
+                },
+                "1982-08"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/3899537-b-17-bomber-intellivision-front-cover.jpg",
+            "platforms": [
+                "Intellivision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/de7f4190-ab9e-11ed-b430-02420a0001a0.webp",
+            "width": 573
+        },
+        "sample_screenshots": [
+            {
+                "caption": "You're under attack!",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1897622-b-17-bomber-intellivision-youre-under-attack.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/42e16378-ab79-11ed-a188-02420a00019a.webp",
+                "width": 320
+            },
+            {
+                "caption": "Flying across the English Channel",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1897444-b-17-bomber-intellivision-flying-across-the-english-channel.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/428506c8-ab79-11ed-b721-02420a00019b.webp",
+                "width": 320
+            },
+            {
+                "caption": "Title screen",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1896676-b-17-bomber-intellivision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/409887fe-ab79-11ed-b721-02420a00019b.webp",
+                "width": 320
+            },
+            {
+                "caption": "Looking for a target to bomb",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1897828-b-17-bomber-intellivision-looking-for-a-target-to-bomb.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/435fcbc8-ab79-11ed-b721-02420a00019b.webp",
+                "width": 320
+            },
+            {
+                "caption": "The gauges screen; set your bombs and fuel before takeoff",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1897145-b-17-bomber-intellivision-the-gauges-screen-set-your-bombs-and-f.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/41d276c0-ab79-11ed-b721-02420a00019b.webp",
+                "width": 320
+            }
+        ],
+        "title": "B-17 Bomber"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>Felton Pinkerton wanted to take his wife to the fair, so he didn't get a chance to spray pesticide on his crop of corn. But due to his laziness, all of the bugs have now arrived and are trying to eat every last bit of corn! You control Felton who is armed with a spray gun. Your crop of corn is displayed on the left side of the screen, and you need to protect it from the incoming hoard of inchworms, moths, caterpillars, slugs, and other assorted bugs which approach rapidly from the right. If any of the bugs sneak past you, they will eat part of your corn crop. The game ends when all of the corn has been eaten. On each level you need to spray all of the bugs that appear in order to move on to the next round; as the rounds progress, the bugs become faster, more numerous, and home in quicker on the corn.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            }
+        ],
+        "id": 9581,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/9581/worm-whomper/",
+        "num_votes": 2,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 30,
+                    "name": "Intellivision"
+                },
+                "1983-10"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/3897774-worm-whomper-intellivision-front-cover.jpg",
+            "platforms": [
+                "Intellivision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/cec59ea2-ab9e-11ed-8048-02420a000198.webp",
+            "width": 573
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Be careful, you're almost out of corn",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/416113-worm-whomper-intellivision-be-careful-youre-almost-out-of-corn.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/eb8bdd80-ab6c-11ed-98cd-02420a00019e.webp",
+                "width": 320
+            },
+            {
+                "caption": "Here come the bugs!!",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/412702-worm-whomper-intellivision-here-come-the-bugs.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e4dc826e-ab6c-11ed-b6ec-02420a00019b.webp",
+                "width": 320
+            },
+            {
+                "caption": "Title screen",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/415700-worm-whomper-intellivision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/eabab296-ab6c-11ed-98cd-02420a00019e.webp",
+                "width": 320
+            },
+            {
+                "caption": "Carefully protecting your last stalk of corn",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/412806-worm-whomper-intellivision-carefully-protecting-your-last-stalk-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e510d3b6-ab6c-11ed-b6ec-02420a00019b.webp",
+                "width": 320
+            }
+        ],
+        "title": "Worm Whomper"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Happy Trails</em> is an action strategy game for one or two players. Black Bart has robbed the stagecoach, and you need to recover all of the stolen money within the given time limit! The money is located in various locations in a series of maze-like paths. The paths are broken up into tiles, and there is one tile missing so you can rearrange the maze by moving a tile into the empty space. As your character walks through the paths, you need to rearrange the tiles to make sure there is always a connected path in front of him (or you'll lose a life) and to guide him towards the money bags. When all of the money has been recovered, you move on to the next round. On the more difficult rounds, Black Bart will also be wandering around the maze trying to stop you! You should avoid him at all costs, unless you have first collected a star which gives your character temporary invincibility.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            }
+        ],
+        "id": 9907,
+        "moby_score": 7.9,
+        "moby_url": "https://www.mobygames.com/game/9907/happy-trails/",
+        "num_votes": 2,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 30,
+                    "name": "Intellivision"
+                },
+                "1983-05"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/3906028-happy-trails-intellivision-front-cover.jpg",
+            "platforms": [
+                "Intellivision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/1879f84a-ab9f-11ed-8e21-02420a00019b.webp",
+            "width": 573
+        },
+        "sample_screenshots": [
+            {
+                "caption": "The mazes keep getting bigger and more challenging!",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/438002-happy-trails-intellivision-the-mazes-keep-getting-bigger-and-mor.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/17d0899a-ab6d-11ed-a13c-02420a00019f.webp",
+                "width": 320
+            },
+            {
+                "caption": "Title screen",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1056985-happy-trails-intellivision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/06af7cca-ab72-11ed-bddc-02420a00019e.webp",
+                "width": 320
+            },
+            {
+                "caption": "Collecting the stolen money...",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1057553-happy-trails-intellivision-collecting-the-stolen-money.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/07d118d4-ab72-11ed-bddc-02420a00019e.webp",
+                "width": 320
+            },
+            {
+                "caption": "Gameplay on one of the smaller mazes",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1057371-happy-trails-intellivision-gameplay-on-one-of-the-smaller-mazes.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/07768c8e-ab72-11ed-bddc-02420a00019e.webp",
+                "width": 320
+            },
+            {
+                "caption": "Be sure to avoid Black Bart!",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/436718-happy-trails-intellivision-be-sure-to-avoid-black-bart.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1536feee-ab6d-11ed-a13c-02420a00019f.webp",
+                "width": 320
+            }
+        ],
+        "title": "Happy Trails"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "In-game title",
+                "title": "Word Fun"
+            }
+        ],
+        "description": "<p>Word Fun was developed in conjuction with the Children's Television Workshop, and features three different word based educational games. The games are:</p>\n<ul>\n<li>\n<p><strong>Crosswords:</strong>\n This game is similar to Scrabble. Each player is given seven letters from which they need to form words on the game board. On each turn the player can create words either horizontally or vertically, and must use one (or more) of the existing letters on the board. Points are earned depending on the word created, and at the end of 20 turns the player with the most points wins!</p>\n</li>\n<li>\n<p><strong>Letter Hunt:</strong>\n In this game each player controls a monkey in a letter forest. Each monkey must collect letters from the forest to spell three words within the given time limit. When both monkeys are complete, points are awarded for the words spelled and the highest score wins!</p>\n</li>\n<li>\n<p><strong>Word Rockets:</strong>\n In this game the players control a rocket capable of collecting and shooting vowels upwards. On the top of the screen, various words which are missing vowels will float by and each player needs to try to fire an appropriate vowel into the empty space. The first player who can complete 50 words wins!</p>\n</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 162,
+                "name": "Word construction"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 44,
+                "name": "Reading / writing"
+            }
+        ],
+        "id": 9923,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/9923/the-electric-company-word-fun/",
+        "num_votes": 5,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 30,
+                    "name": "Intellivision"
+                },
+                "1980"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/3906433-the-electric-company-word-fun-intellivision-front-cover.jpg",
+            "platforms": [
+                "Intellivision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/1bbcda9a-ab9f-11ed-9ab3-02420a0001a0.webp",
+            "width": 571
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Word rockets",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/869001-the-electric-company-word-fun-intellivision-word-rockets.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8974614a-ab70-11ed-8d2b-02420a00019e.webp",
+                "width": 320
+            },
+            {
+                "caption": "Title screen",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/867859-the-electric-company-word-fun-intellivision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8701e32e-ab70-11ed-8d2b-02420a00019e.webp",
+                "width": 320
+            },
+            {
+                "caption": "Word hunt",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/868712-the-electric-company-word-fun-intellivision-word-hunt.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/88e131ae-ab70-11ed-8d2b-02420a00019e.webp",
+                "width": 320
+            },
+            {
+                "caption": "The game menu",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/868140-the-electric-company-word-fun-intellivision-the-game-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/87a9b108-ab70-11ed-8d2b-02420a00019e.webp",
+                "width": 320
+            },
+            {
+                "caption": "Crosswords",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/868415-the-electric-company-word-fun-intellivision-crosswords.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8840b24c-ab70-11ed-8d2b-02420a00019e.webp",
+                "width": 320
+            }
+        ],
+        "title": "The Electric Company Word Fun"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "Alternate title",
+                "title": "Beauty & the Beast"
+            }
+        ],
+        "description": "<p>Horrible Hank has kidnapped your girlfriend! He's got her at the top of a tall building, and it is your goal to climb to the top and rescue her. Gameplay is somewhat similar to <a href=\"https://www.mobygames.com/search/?q=Donkey+Kong\">Donkey Kong</a>. You begin at the bottom of the screen, and need to climb your way to the top while avoiding the many obstacles. Boulders, birds, bats, and rats will all get in the way and cause you to lose a life if collided with. To move from floor to floor, you need to find a window that is open and climb up. The windows change quickly, so when you spot one climb fast! When you finally reach the top, Horrible Hank will fall off the building and then the game begins again at a more difficult skill level.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 21,
+                "name": "Platform"
+            }
+        ],
+        "id": 10246,
+        "moby_score": 7.5,
+        "moby_url": "https://www.mobygames.com/game/10246/beauty-and-the-beast/",
+        "num_votes": 10,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 30,
+                    "name": "Intellivision"
+                },
+                "1982-10"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/4070782-beauty-and-the-beast-intellivision-front-cover.jpg",
+            "platforms": [
+                "Intellivision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/ce30efc2-aba4-11ed-a218-02420a00019e.webp",
+            "width": 596
+        },
+        "sample_screenshots": [
+            {
+                "caption": "The building gets narrower the higher you climb",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/118854-beauty-and-the-beast-intellivision-the-building-gets-narrower-th.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8a08c20a-ab6a-11ed-87ec-02420a00019c.webp",
+                "width": 320
+            },
+            {
+                "caption": "A game in progress",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/117002-beauty-and-the-beast-intellivision-a-game-in-progress.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/86574032-ab6a-11ed-b9a3-02420a000197.webp",
+                "width": 320
+            },
+            {
+                "caption": "Well done! The red indicates how far you've gone so far...",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/121437-beauty-and-the-beast-intellivision-well-done-the-red-indicates-h.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8f3be68a-ab6a-11ed-99ae-02420a00019e.webp",
+                "width": 320
+            },
+            {
+                "caption": "Game over",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/447917-beauty-and-the-beast-intellivision-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2b972826-ab6d-11ed-87d1-02420a000197.webp",
+                "width": 320
+            },
+            {
+                "caption": "Title screen",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/447079-beauty-and-the-beast-intellivision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/29e3a324-ab6d-11ed-b325-02420a00019e.webp",
+                "width": 320
+            }
+        ],
+        "title": "Beauty and the Beast"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>Clumsy Clarence is vacationing on a tropical island with his girlfriend Doris. Unfortunately, their vacation is interrupted when Doris is kidnapped by the bully Beach Bruiser. Now Clarence needs to rescue Doris by chasing the Beach Bruiser all over the island! The Beach Bruiser will be carrying Doris to the right and the screen scrolls to follow. You need guide Clarence and catch up to Doris. There are many obstacles on the screen which temporarily slow down your progress. Coconuts, ferns, clams, sand snakes, and lava will all appear in your way. If you get slowed down too much and hit the left side of the screen, you lose one of your lives. From time to time, Doris will drop a handkerchief; collect this and you become temporarily invincible! If you catch Doris, you then move on to the next section of the island; when each section of the island has been completed you then need to battle the Beach Bruiser on a bridge. If you're successful, the game will then repeat at a more difficult skill level.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            }
+        ],
+        "id": 10250,
+        "moby_score": 6.4,
+        "moby_url": "https://www.mobygames.com/game/10250/tropical-trouble/",
+        "num_votes": 3,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 30,
+                    "name": "Intellivision"
+                },
+                "1983-03"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/3909497-tropical-trouble-intellivision-front-cover.jpg",
+            "platforms": [
+                "Intellivision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/379f04d6-ab9f-11ed-91fb-02420a00019f.webp",
+            "width": 593
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Title screen",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/451807-tropical-trouble-intellivision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/33515e06-ab6d-11ed-aaf5-02420a00019c.webp",
+                "width": 320
+            },
+            {
+                "caption": "Lava can slow your progress",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/455863-tropical-trouble-intellivision-lava-can-slow-your-progress.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3b769326-ab6d-11ed-99ae-02420a00019e.webp",
+                "width": 320
+            },
+            {
+                "caption": "Game over",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/454993-tropical-trouble-intellivision-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/39b2f9b2-ab6d-11ed-96f9-02420a00019a.webp",
+                "width": 320
+            },
+            {
+                "caption": "Try to avoid obstacles and catch Doris!",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/452521-tropical-trouble-intellivision-try-to-avoid-obstacles-and-catch-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/34bbb2e6-ab6d-11ed-96f9-02420a00019a.webp",
+                "width": 320
+            },
+            {
+                "caption": "The white handkerchiefs make you invincible",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/454902-tropical-trouble-intellivision-the-white-handkerchiefs-make-you-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/398313c8-ab6d-11ed-96f9-02420a00019a.webp",
+                "width": 320
+            }
+        ],
+        "title": "Tropical Trouble"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "Informal Title",
+                "title": "Mazatron"
+            },
+            {
+                "description": "Informal Title",
+                "title": "Maze-A-Tron"
+            },
+            {
+                "description": "Informal Title",
+                "title": "Tron II"
+            }
+        ],
+        "description": "<p>You play the role of Flynn, who's been zapped into the circuits of the Master Control Program (MCP). The MCP has plans for world domination, and only Flynn can stop it.</p>\n<p>The ultimate goal of <em>Maze-A-Tron</em> is to disable the MCP. <em>Maze-A-Tron</em> is played in rounds; Circuit Maze and the Master Control Program. You go around the maze and collect energy for your shields, which can be used to protect Flynn from some enemies. You also collect zeroes that are used to clear RAM. </p>\n<p>When you proceed to the Master Control Program, the MCP works to fix the RAM you cleared. Your goal here is to fire a Bit-Gun at pairs of BIT streams and BIT stacks before they hit the top of the screen.</p>\n<p>These two phases repeat with a higher difficulty each time.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 66,
+                "name": "Cyberpunk / dark sci-fi"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 10391,
+        "moby_score": 5.5,
+        "moby_url": "https://www.mobygames.com/game/10391/tron-maze-a-tron/",
+        "num_votes": 7,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 30,
+                    "name": "Intellivision"
+                },
+                "1982"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/4167219-tron-maze-a-tron-intellivision-front-cover.jpg",
+            "platforms": [
+                "Intellivision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/37ee9646-aba8-11ed-91fb-02420a00019f.webp",
+            "width": 574
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Game Over",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/456647-tron-maze-a-tron-intellivision-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3d07e1a4-ab6d-11ed-b430-02420a0001a0.webp",
+                "width": 320
+            },
+            {
+                "caption": "Title Screen",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/455712-tron-maze-a-tron-intellivision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3b2833fc-ab6d-11ed-b430-02420a0001a0.webp",
+                "width": 320
+            },
+            {
+                "caption": "Maze picture",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/456168-tron-maze-a-tron-intellivision-maze-picture.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3c156f50-ab6d-11ed-b430-02420a0001a0.webp",
+                "width": 320
+            },
+            {
+                "caption": "Practice?",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/455938-tron-maze-a-tron-intellivision-practice.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3ba307f8-ab6d-11ed-b430-02420a0001a0.webp",
+                "width": 320
+            },
+            {
+                "caption": "Lot's of 11's",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/454777-tron-maze-a-tron-intellivision-lots-of-11s.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/394a8472-ab6d-11ed-96f9-02420a00019a.webp",
+                "width": 320
+            }
+        ],
+        "title": "Tron: Maze-A-Tron"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "In-game title",
+                "title": "Electric Company Math Fun"
+            }
+        ],
+        "description": "<p><em>Math Fun</em> is an educational game which can be played by one or two players. Each player controls a gorilla which is wandering through the jungle. As the gorilla walks on, it will encounter a creature which has a math problem with it. You need to enter in the correct answer to the problem as quickly as possible. If you get the answer correct, your gorilla may continue on. If you get the answer wrong, then your gorilla must jump into the river. Your gorilla is unable to leave the river and continue on until you answer another math problem correctly. The goal is to correctly answer as many of the problems as you can in the shortest amount of time. The game includes eighteen different levels of difficulty which can be set individually for each player.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 129,
+                "name": "Diagonal-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 43,
+                "name": "Math / logic"
+            }
+        ],
+        "id": 10543,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/10543/the-electric-company-math-fun/",
+        "num_votes": 5,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 30,
+                    "name": "Intellivision"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/4105747-the-electric-company-math-fun-intellivision-front-cover.jpg",
+            "platforms": [
+                "Intellivision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/020d30e8-aba6-11ed-b042-02420a00019f.webp",
+            "width": 572
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Title screen",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/868444-the-electric-company-math-fun-intellivision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/884d209a-ab70-11ed-9ab3-02420a0001a0.webp",
+                "width": 320
+            },
+            {
+                "caption": "Answer the math problems presented by the animals to move on",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/869828-the-electric-company-math-fun-intellivision-answer-the-math-prob.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8ae94dec-ab70-11ed-9ab3-02420a0001a0.webp",
+                "width": 320
+            },
+            {
+                "caption": "Get a problem wrong, and you have to jump in the river",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/870162-the-electric-company-math-fun-intellivision-get-a-problem-wrong-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8b751ab6-ab70-11ed-9ab3-02420a0001a0.webp",
+                "width": 320
+            },
+            {
+                "caption": "The game begins",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/869363-the-electric-company-math-fun-intellivision-the-game-begins.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8a1fa118-ab70-11ed-9ab3-02420a0001a0.webp",
+                "width": 320
+            },
+            {
+                "caption": "Setting up player one options",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/869244-the-electric-company-math-fun-intellivision-setting-up-player-on.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/89e83804-ab70-11ed-9ab3-02420a0001a0.webp",
+                "width": 320
+            }
+        ],
+        "title": "The Electric Company Math Fun"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "In-game title",
+                "title": "Blackjack & Poker"
+            }
+        ],
+        "description": "<p><em>Las Vegas Poker &amp; Blackjack</em> is a computerized version of different types of Poker and Blackjack, including 7-Card Stud and 5-Card Draw. The player inputs how much \"money\" that is available to bet with. There are one and two-player games, and Las Vegas Poker &amp; Blackjack includes a dealer to play against.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 10587,
+        "moby_score": 6.6,
+        "moby_url": "https://www.mobygames.com/game/10587/las-vegas-poker-blackjack/",
+        "num_votes": 14,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 30,
+                    "name": "Intellivision"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/4136180-las-vegas-poker-blackjack-intellivision-front-cover.jpg",
+            "platforms": [
+                "Intellivision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/18ef6b68-aba7-11ed-9505-02420a00019c.webp",
+            "width": 575
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Title Screen",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1744462-las-vegas-poker-blackjack-intellivision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dac98c58-ab77-11ed-b9d3-02420a00019b.webp",
+                "width": 320
+            },
+            {
+                "caption": "Dealer Calls",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1744966-las-vegas-poker-blackjack-intellivision-dealer-calls.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dc1c8d94-ab77-11ed-b9d3-02420a00019b.webp",
+                "width": 320
+            },
+            {
+                "caption": "7 Card Stud",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1744611-las-vegas-poker-blackjack-intellivision-7-card-stud.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/db2c168e-ab77-11ed-b9d3-02420a00019b.webp",
+                "width": 320
+            },
+            {
+                "caption": "Player two wins a hand",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1745081-las-vegas-poker-blackjack-intellivision-player-two-wins-a-hand.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dc5f47e2-ab77-11ed-b9d3-02420a00019b.webp",
+                "width": 320
+            },
+            {
+                "caption": "Dealer deals out",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1745370-las-vegas-poker-blackjack-intellivision-dealer-deals-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dd158d72-ab77-11ed-b9d3-02420a00019b.webp",
+                "width": 320
+            }
+        ],
+        "title": "Las Vegas Poker & Blackjack"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "Intellivision in-game title",
+                "title": "Masters of the Universe: The Power of He-Man!"
+            }
+        ],
+        "description": "<p>In <em>Masters of the Universe: The Power of He-Man</em>, control He-Man as he battles Skeletor in two different types of arcade action scenes. </p>\n<p>In the first part of the game, the He-Man controls the Wind Raider flying towards Castle Grayskull. The Wind Raider has a limited amount of fuel to reach the intended destination. Additionally, numerous fireballs will be flying around the screen trying to stop the Wind Raider, with Skeletor running along on the ground. The Wind Raider is equipped with bombs and guns which can be used to defend He-Man from the fireballs, while also earning bonus points if Skeletor is hit. </p>\n<p>The second part of the game takes place on foot. When the He-Man lands near the castle, he needs to pursue Skeletor. Skeletor will be firing numerous lightning bolts which can be blocked with a shield. There is a time limit here and the He-Man must get past all of the screens and catch Skeletor before time runs out. If the player is successful, the game will repeat at a tougher skill level.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 10589,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/10589/masters-of-the-universe-the-power-of-he-man/",
+        "num_votes": 8,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 30,
+                    "name": "Intellivision"
+                },
+                "1983-11"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/4081511-masters-of-the-universe-the-power-of-he-man-intellivision-front-.jpg",
+            "platforms": [
+                "Intellivision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/2d0c26a6-aba5-11ed-93d8-02420a000198.webp",
+            "width": 579
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Arrived at Castle Grayskull",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1709423-masters-of-the-universe-the-power-of-he-man-intellivision-arrive.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8b88a106-ab77-11ed-8b6f-02420a00019c.webp",
+                "width": 320
+            },
+            {
+                "caption": "Can you catch Skeletor in the castle?",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1707439-masters-of-the-universe-the-power-of-he-man-intellivision-can-yo.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/868037e6-ab77-11ed-b325-02420a00019e.webp",
+                "width": 320
+            },
+            {
+                "caption": "First level complete, time to continue on foot",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1708872-masters-of-the-universe-the-power-of-he-man-intellivision-first-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8a228c0a-ab77-11ed-8b6f-02420a00019c.webp",
+                "width": 320
+            },
+            {
+                "caption": "Chasing Skeletor through the mountains",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1709019-masters-of-the-universe-the-power-of-he-man-intellivision-chasin.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8a833f6e-ab77-11ed-8b6f-02420a00019c.webp",
+                "width": 320
+            },
+            {
+                "caption": "Game Over",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/460870-masters-of-the-universe-the-power-of-he-man-intellivision-game-o.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/45882596-ab6d-11ed-aa5a-02420a0001a0.webp",
+                "width": 320
+            }
+        ],
+        "title": "Masters of the Universe: The Power of He-Man"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "1983 re-release",
+                "title": "ADVANCED DUNGEONS & DRAGONS CLOUDY MOUNTAIN Cartridge"
+            },
+            {
+                "description": "Working Title",
+                "title": "Adventure"
+            },
+            {
+                "description": "<moby game=\"Intellivision Lives!\">Intellivision Lives!</moby> compilation title (DS version) ",
+                "title": "Crown of Kings"
+            }
+        ],
+        "description": "<p>Pursue the ancient Crown of Kings in <em>Advanced Dungeons &amp; Dragons Cartridge</em>. You control a three person party equipped with three arrows apiece, though more arrows can be found on your quest. Quest over the land of Cloudy Mountain and explore caves with many enemies that try to stop your progress. There are four difficulty levels.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 129,
+                "name": "Diagonal-down"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 10590,
+        "moby_score": 7.4,
+        "moby_url": "https://www.mobygames.com/game/10590/advanced-dungeons-dragons-cartridge/",
+        "num_votes": 19,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 30,
+                    "name": "Intellivision"
+                },
+                "1982-08-16"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/4081744-advanced-dungeons-dragons-cartridge-intellivision-front-cover.jpg",
+            "platforms": [
+                "Intellivision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/2f1a2902-aba5-11ed-93d8-02420a000198.webp",
+            "width": 568
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Baddie attacking",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1525025-advanced-dungeons-dragons-cartridge-intellivision-baddie-attacki.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e0ad0886-ab75-11ed-a519-02420a00019d.webp",
+                "width": 320
+            },
+            {
+                "caption": "Entering Cave",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1524404-advanced-dungeons-dragons-cartridge-intellivision-entering-cave.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/df4d2ba6-ab75-11ed-a519-02420a00019d.webp",
+                "width": 320
+            },
+            {
+                "caption": "Key visible",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1525916-advanced-dungeons-dragons-cartridge-intellivision-key-visible.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e33798c8-ab75-11ed-a519-02420a00019d.webp",
+                "width": 320
+            },
+            {
+                "caption": "Overland, exiting top red cave",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1522539-advanced-dungeons-dragons-cartridge-intellivision-overland-exiti.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/db875712-ab75-11ed-a13c-02420a00019f.webp",
+                "width": 320
+            },
+            {
+                "caption": "Killed by two monsters",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1525379-advanced-dungeons-dragons-cartridge-intellivision-killed-by-two-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e19f7530-ab75-11ed-a519-02420a00019d.webp",
+                "width": 320
+            }
+        ],
+        "title": "Advanced Dungeons & Dragons Cartridge"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>As the sun sets, Dracula rises, hungry for the blood of fresh victims.  As Dracula, the goal of this game is to stalk the streets at night, feeding on people walking the streets, or by luring them out of their homes.  As Dracula bites his victims, his actions will call the attention of the local constable who will try to slow him down by driving a stake into him.  Dracula can respond by either turning one of his victims into zombies to attack the police, or by transforming into a bat to escape capture.  Even the forces of nature are against the vampire, as wolves will attack him on foot, and hawks will drag away his bat form.  Dracula must feed on a certain number of victims and return to his tomb before sunrise, or he will not survive to feed another night.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 83,
+                "name": "Horror"
+            }
+        ],
+        "id": 13575,
+        "moby_score": 7.4,
+        "moby_url": "https://www.mobygames.com/game/13575/dracula/",
+        "num_votes": 12,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 30,
+                    "name": "Intellivision"
+                },
+                "1983"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/4496245-dracula-intellivision-front-cover.jpg",
+            "platforms": [
+                "Intellivision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/30753c6e-abb5-11ed-a061-02420a00019d.webp",
+            "width": 593
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Evade the constable in bat form",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1949390-dracula-intellivision-evade-the-constable-in-bat-form.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c07ae62e-ab79-11ed-98cd-02420a00019e.webp",
+                "width": 320
+            },
+            {
+                "caption": "Stalking a victim",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1949087-dracula-intellivision-stalking-a-victim.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bfd136ec-ab79-11ed-98cd-02420a00019e.webp",
+                "width": 320
+            },
+            {
+                "caption": "The sun's almost up, and a wolf is chasing me!",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1952925-dracula-intellivision-the-suns-almost-up-and-a-wolf-is-chasing-m.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c931cdbe-ab79-11ed-9ab3-02420a0001a0.webp",
+                "width": 320
+            },
+            {
+                "caption": "Title screen",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1953195-dracula-intellivision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c9e3ed00-ab79-11ed-91fb-02420a00019f.webp",
+                "width": 320
+            },
+            {
+                "caption": "Careful, the hawk can catch you when in bat form",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1953341-dracula-intellivision-careful-the-hawk-can-catch-you-when-in-bat.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ca50c128-ab79-11ed-9ab3-02420a0001a0.webp",
+                "width": 320
+            }
+        ],
+        "title": "Dracula"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>The terrorist Boris has placed a bomb in the city! As a member of the bomb squad, it is the player's job to disarm the bomb before it explodes. </p>\n<p>Start the game with a view of the code number display which is damaged. In order to find the code which disarms the bomb, the player has to repair the various circuits in order to fix the display. By selecting a square on the code number display, the player will be brought to the corresponding circuit which can be repaired using cutters, pliers, and soldering iron. The player's partner, Frank, will guide through the repairs by telling the player what needs to be done, in what order repairs should be performed, and by helping the player position the tools. Depending on the circuit, the player may need to cut out parts or replace parts (spare parts are located at the top of the screen). If the player uses an incorrect replacement part, or perform the repairs in the wrong order, the player will lose time or even cause the bomb to explode. </p>\n<p>On the more difficult skill levels, circuit parts may even overheat and cause a fire; luckily, the player also has a fire extinguisher with you to deal with this situation! When enough circuits have been repaired, the player can decipher the code, enter it into the computer, and the bomb will be disarmed (an incorrect guess will cause it to explode, however). The player may choose to have a one, two, or three digit code to guess and several difficulty levels are available.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 30,
+                "name": "Puzzle elements"
+            }
+        ],
+        "id": 13614,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/13614/bomb-squad/",
+        "num_votes": 3,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 30,
+                    "name": "Intellivision"
+                },
+                "1982-08"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/4159246-bomb-squad-intellivision-front-cover.jpg",
+            "platforms": [
+                "Intellivision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/eebfcabc-aba7-11ed-ba50-02420a000199.webp",
+            "width": 570
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Setting the game options",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1240083-bomb-squad-intellivision-setting-the-game-options.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7b1af5d4-ab73-11ed-aecf-02420a000198.webp",
+                "width": 320
+            },
+            {
+                "caption": "A view of the garbled, 3 digit code",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1240319-bomb-squad-intellivision-a-view-of-the-garbled-3-digit-code.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7b95d240-ab73-11ed-aecf-02420a000198.webp",
+                "width": 320
+            },
+            {
+                "caption": "Title screen",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1239855-bomb-squad-intellivision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7aac1f74-ab73-11ed-aecf-02420a000198.webp",
+                "width": 320
+            },
+            {
+                "caption": "Using the soldering iron to repair a circuit",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1241112-bomb-squad-intellivision-using-the-soldering-iron-to-repair-a-ci.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7d29c166-ab73-11ed-aecf-02420a000198.webp",
+                "width": 320
+            },
+            {
+                "caption": "Fixing a circuit",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1240864-bomb-squad-intellivision-fixing-a-circuit.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7cb7a572-ab73-11ed-aecf-02420a000198.webp",
+                "width": 320
+            }
+        ],
+        "title": "Bomb Squad"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>In <em>White Water!</em> your goal is to raft down a river in the shortest time possible. The river features many dangerous turns, rocks, whirlpools, barrels, and other obstacles that get in your way. You begin your trip with three men, and if you don't navigate carefully they can fall out of the raft! If any men remain in the raft, they can try pick up anyone who has fallen out but must do so before they hit a rock, a whirlpool, or leave the screen (if all of your men fall out of the raft, the game will end). In the easier game variations, your score is based on how quickly you can reach the finish line. In the more difficult game variations, you not only need to reach the finish line as quickly as possible but also need to earn points by landing your raft at various beaches along the way and collecting treasures that can be found in the forest. Some of the treasures will be guarded by the natives, so be careful (also be sure not to wander too far into the forest, or you'll become lost). The game ends when you reach the finish line, or all your men are lost either by falling in the river or in the forest.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            }
+        ],
+        "id": 13615,
+        "moby_score": 6.8,
+        "moby_url": "https://www.mobygames.com/game/13615/white-water/",
+        "num_votes": 2,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 30,
+                    "name": "Intellivision"
+                },
+                "1983-05"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/4425646-white-water-intellivision-front-cover.jpg",
+            "platforms": [
+                "Intellivision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/60f4c394-abb2-11ed-b165-02420a000198.webp",
+            "width": 604
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Passing by a beach...",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/677399-white-water-intellivision-passing-by-a-beach.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/05d290ba-ab6f-11ed-837d-02420a00019b.webp",
+                "width": 320
+            },
+            {
+                "caption": "Rafting down the river...",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/677287-white-water-intellivision-rafting-down-the-river.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/05955650-ab6f-11ed-837d-02420a00019b.webp",
+                "width": 320
+            },
+            {
+                "caption": "Try to steal this treasure!",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/678282-white-water-intellivision-try-to-steal-this-treasure.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/07c9c51e-ab6f-11ed-837d-02420a00019b.webp",
+                "width": 320
+            },
+            {
+                "caption": "Title screen",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/677053-white-water-intellivision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/051f68c8-ab6f-11ed-837d-02420a00019b.webp",
+                "width": 320
+            },
+            {
+                "caption": "Setting game options",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/677164-white-water-intellivision-setting-game-options.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0559ad1c-ab6f-11ed-837d-02420a00019b.webp",
+                "width": 320
+            }
+        ],
+        "title": "White Water!"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "In-game title",
+                "title": "Golf"
+            }
+        ],
+        "description": "<p><em>PGA Golf</em> is a golf game played from an overhead point of view. Up to four players can compete on a nine hole, par 38 course containing a variety of terrain (greens, fairway, rough, water, and sand) as well as numerous trees. Each player has nine clubs (3 woods, 4 irons, a wedge, and a putter) and is able to hook, slice, and control the power of each shot. You will receive penalty strokes for balls that land out of bounds and in the water, and of course the lowest score at the end of the round wins!</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 35,
+                "name": "Golf"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 13676,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/13676/pga-golf/",
+        "num_votes": 7,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 30,
+                    "name": "Intellivision"
+                },
+                "1980"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/4115512-pga-golf-intellivision-front-cover.jpg",
+            "platforms": [
+                "Intellivision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/5a68eb88-aba6-11ed-8b70-02420a00019a.webp",
+            "width": 569
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Hole three on this nine hole course",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/2215195-pga-golf-intellivision-hole-three-on-this-nine-hole-course.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7501b526-ab7c-11ed-a5ec-02420a00019b.webp",
+                "width": 320
+            },
+            {
+                "caption": "Teeing off...",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/2215040-pga-golf-intellivision-teeing-off.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/74a7cc1e-ab7c-11ed-a5ec-02420a00019b.webp",
+                "width": 320
+            },
+            {
+                "caption": "How many players?",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/2215273-pga-golf-intellivision-how-many-players.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/752ac042-ab7c-11ed-beab-02420a000199.webp",
+                "width": 320
+            },
+            {
+                "caption": "Make sure you don't land in the water!",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/2215376-pga-golf-intellivision-make-sure-you-dont-land-in-the-water.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7576e03a-ab7c-11ed-a5ec-02420a00019b.webp",
+                "width": 320
+            },
+            {
+                "caption": "In the fairway on hole one",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/2214852-pga-golf-intellivision-in-the-fairway-on-hole-one.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/74288c38-ab7c-11ed-a5ec-02420a00019b.webp",
+                "width": 320
+            }
+        ],
+        "title": "PGA Golf"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "In-game title",
+                "title": "Bowling"
+            }
+        ],
+        "description": "<p>This is a game of skill that requires you to knock down pins as in real bowling. Play alone or with up to three friends. Two games are available: standard bowling and pick-up spares. Pick-up spares set the pins in a variety of ways to let you practice difficult shots.</p>\n<p>Options allow you to select 1 of 10 conditions of alley slickness and the weight of your ball. Players can also choose to be a right or left handed bowler. While trying to knock down the pins, you will need to control the curve and loft of the ball.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 129,
+                "name": "Diagonal-down"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 88,
+                "name": "Bowling"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 18838,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/18838/pba-bowling/",
+        "num_votes": 5,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 30,
+                    "name": "Intellivision"
+                },
+                "1980"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/4299712-pba-bowling-intellivision-front-cover.jpg",
+            "platforms": [
+                "Intellivision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/49e4426a-abad-11ed-8d2b-02420a00019e.webp",
+            "width": 571
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Can you deal with this split?",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/15998079-pba-bowling-intellivision-can-you-deal-with-this-split.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0fa4be5a-bf25-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Game options screen 2",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/15746253-pba-bowling-intellivision-game-options-screen-2.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3fabc5d6-bed9-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Still a lot of pins to knock down...",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/15998061-pba-bowling-intellivision-still-a-lot-of-pins-to-knock-down.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0e2db7a2-bf25-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Getting ready to bowl...",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/15746064-pba-bowling-intellivision-getting-ready-to-bowl.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/34da38f4-bed9-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Title screen",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/15746235-pba-bowling-intellivision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3ef625b4-bed9-11ed-9c42-02420a000140.webp",
+                "width": 320
+            }
+        ],
+        "title": "PBA Bowling"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "In-game title",
+                "title": "Roulette"
+            }
+        ],
+        "description": "<p>Implements Las Vegas style roulette game. Most of the screen consists of the standard Las Vegas roulette betting table, and a moving strip on the top with wheel numbers on it represents the roulette wheel. Place your bets on the betting table, and spin the wheel. The game calculates your wins and losses.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 20386,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/20386/las-vegas-roulette/",
+        "num_votes": 7,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 30,
+                    "name": "Intellivision"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/4287859-las-vegas-roulette-intellivision-front-cover.jpg",
+            "platforms": [
+                "Intellivision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/d1ea3e36-abac-11ed-bd13-02420a00019c.webp",
+            "width": 568
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Setting up some player options",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/15716989-las-vegas-roulette-intellivision-setting-up-some-player-options.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3bf8c088-becf-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Title screen",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/15716977-las-vegas-roulette-intellivision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3b8d373c-becf-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "The roulette wheel spins, where it will stop nobody knows...",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/15827702-las-vegas-roulette-intellivision-the-roulette-wheel-spins-where-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bb82e3c4-bef2-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "The main game screen",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/15716998-las-vegas-roulette-intellivision-the-main-game-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3c46bdba-becf-11ed-9c42-02420a000140.webp",
+                "width": 320
+            }
+        ],
+        "title": "Las Vegas Roulette"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>Learn spelling and reading in Hanna-Barbera's \"Jetsons\" universe! Fly George Jetson's spacecraft around a network of platforms to collect up letters that form a word. The letters drift around the network, and will even try to get away from your spaceship when you get close. When you touch the right letter in the right order, you earn points, but touch a letter that doesn't belong and you lose them. If you collect letters out of order you don't earn as many points. On the higher levels you also have to dodge robots and satellites, which cost more points if you hit them.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 44,
+                "name": "Reading / writing"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 29653,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/29653/the-jetsons-ways-with-words/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 30,
+                    "name": "Intellivision"
+                },
+                "1983"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/2871521-the-jetsons-ways-with-words-intellivision-splash-screen.png",
+            "platforms": [
+                "Intellivision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/76d893ac-ab85-11ed-9d05-02420a000198.webp",
+            "width": 318
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Daytime mode. The letter M is in your sights. Watch out for the satellite!",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/2873060-the-jetsons-ways-with-words-intellivision-daytime-mode-the-lette.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7da002ba-ab85-11ed-87ec-02420a00019c.webp",
+                "width": 318
+            },
+            {
+                "caption": "Nighttime mode. This is the word to be found.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/2870709-the-jetsons-ways-with-words-intellivision-nighttime-mode-this-is.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/738fb086-ab85-11ed-aa5a-02420a0001a0.webp",
+                "width": 318
+            },
+            {
+                "caption": "Splash Screen",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/2871521-the-jetsons-ways-with-words-intellivision-splash-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/76d893ac-ab85-11ed-9d05-02420a000198.webp",
+                "width": 318
+            }
+        ],
+        "title": "The Jetsons' Ways With Words"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>Like the ancient Spartans that fought (and won) the Persian army in the battle of the Thermopylae, you are the last stand before the alien invasion. </p>\n<p>The game has two screens. When it begins, a female voice welcomes you as the commander of the star ship. You have three star bases to defend while alien ships surround you. Then you choose a space sector where you enter in to the battle section. </p>\n<p>Your ship has 5 systems (Battle Computer, Impulse Drive, Hyper Drive, Tracking Computer and Shields): if your  ship is hit you can repair the damage at a star base. Repairs during battles are allowed, but they are slower, use ship's energy and can't repair destroyed ship systems. The game ends when you run out of energy and/or your ship is destroyed. The ship is destroyed when all the systems are destroyed, or if Hyper Drive blows the ship up (50% chance of this occurring if you use Hyper Drive when destroyed).</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 30335,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/30335/space-spartans/",
+        "num_votes": 2,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 30,
+                    "name": "Intellivision"
+                },
+                "1982-09"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/5208666-space-spartans-intellivision-front-cover.jpg",
+            "platforms": [
+                "Intellivision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/117df20a-abd4-11ed-8d2b-02420a00019e.webp",
+            "width": 572
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Space sector map with bases",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16081616-space-spartans-intellivision-space-sector-map-with-bases.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a4cb1776-bf6c-11ed-9521-02420a000152.webp",
+                "width": 320
+            },
+            {
+                "caption": "Game speed option",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16081766-space-spartans-intellivision-game-speed-option.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ae2d8524-bf6c-11ed-9521-02420a000152.webp",
+                "width": 320
+            },
+            {
+                "caption": "Title screen",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16081691-space-spartans-intellivision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a913c9fe-bf6c-11ed-9521-02420a000152.webp",
+                "width": 320
+            },
+            {
+                "caption": "Attacking ships",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16081652-space-spartans-intellivision-attacking-ships.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a67bee60-bf6c-11ed-9521-02420a000152.webp",
+                "width": 320
+            },
+            {
+                "caption": "Enemy ships approaching",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16081538-space-spartans-intellivision-enemy-ships-approaching.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9c81e1bc-bf6c-11ed-9521-02420a000152.webp",
+                "width": 320
+            }
+        ],
+        "title": "Space Spartans"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>ABPA Backgammon</em> is identical with the board game. Backgammon is a game played by two players (the computer can be one of the players). Each player has 15 pieces. The object of the game is to be the first to move all your pieces completely around and finally off the board. Moving your pieces off the board is called \"bearing off\". The first player to bear off all his pieces is the winner. Each player moves in a direction beginning from his opponent's Home Table and coming around to his own Home Table. Thus one player always moves clockwise and the other always \ncounterclockwise.\nYou can play against the computer at two skill levels - one for beginners or intermediate, another for experts - or two players can compete against each other. It displays the American Backgammon Players Association (ABPA) logo.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 173,
+                "name": "Multiple units/characters control"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 30426,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/30426/abpa-backgammon/",
+        "num_votes": 6,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 30,
+                    "name": "Intellivision"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/5542898-abpa-backgammon-intellivision-front-cover.jpg",
+            "platforms": [
+                "Intellivision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/4db2187e-abe7-11ed-b351-02420a00012e.webp",
+            "width": 569
+        },
+        "sample_screenshots": [
+            {
+                "caption": "During play.",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/7754342-abpa-backgammon-intellivision-during-play.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d20b91d4-abf8-11ed-9941-02420a000133.webp",
+                "width": 320
+            },
+            {
+                "caption": "Starting a one-player game. The system plays black.",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/7754339-abpa-backgammon-intellivision-starting-a-one-player-game-the-sys.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d1d101fe-abf8-11ed-9941-02420a000133.webp",
+                "width": 320
+            },
+            {
+                "caption": "Lost the game. :(",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/7756504-abpa-backgammon-intellivision-lost-the-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d58fe8fa-abf8-11ed-8a97-02420a00012d.webp",
+                "width": 320
+            },
+            {
+                "caption": "So far it's nearly a tie!",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/7756507-abpa-backgammon-intellivision-so-far-its-nearly-a-tie.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d5be2e0e-abf8-11ed-8a97-02420a00012d.webp",
+                "width": 320
+            },
+            {
+                "caption": "Title screen.",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/7751845-abpa-backgammon-intellivision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c87282c2-abf8-11ed-893a-02420a00012f.webp",
+                "width": 320
+            }
+        ],
+        "title": "ABPA Backgammon"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "In-game title",
+                "title": "Diner!"
+            },
+            {
+                "description": "In-game tag-lined title",
+                "title": "Diner!: The BurgerTime Sequel"
+            },
+            {
+                "description": "Tag-lined title",
+                "title": "Diner: The BurgerTime Gang is Back!"
+            }
+        ],
+        "description": "<p>In this unofficial sequel to the arcade game <a href=\"https://www.mobygames.com/game/467/burgertime/\">BurgerTime</a>, the Rotten Foods (Hot Dogs, Cherries, Bananas, and their leader Mugsy, the Mug o' Root Beer) have thrown lunch all over the diner and Peter Pepper has to get it back on the plate. </p>\n<p>The game is for 1 or 2 players (but in this case they have to choose two different difficulty levels). Peter Pepper must kick the Food Balls (red Meatballs, green Lettuce Heads, white Rice, tan Mashed Potatoes, and yellow Macaroni) scattered throughout the diner. The Food Ball will roll across the floor, down ramps, and over ledges. If it's close enough to the bottom of the screen, it will roll right onto the plate.</p>\n<p>When a plate is full, Side Orders appear in the diner: if Peter picks them up, he earns 250 points and 1 pepper. When he fills 4 plates (finish four game screens), he enters the Blue Plate Special bonus round: Food Balls start raining across the screen and Peter can eat all them, but the flashing ones, for extra points.</p>\n<p>With them he can squish the Rotten Food too, earning extra points. He can shake pepper to stop them momentarily or simply run away. If a Rotten Food touch him, he loses a turn. Peter can obtain a new turn every 20.000 points. If he run out of turns the game ends.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 129,
+                "name": "Diagonal-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 25,
+                "name": "Isometric"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 21,
+                "name": "Platform"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 32074,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/32074/diner/",
+        "num_votes": 3,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 30,
+                    "name": "Intellivision"
+                },
+                "1987-04"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/7181264-diner-intellivision-front-cover.jpg",
+            "platforms": [
+                "Intellivision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/46b23060-abf4-11ed-9915-02420a000134.webp",
+            "width": 584
+        },
+        "sample_screenshots": [
+            {
+                "caption": "The platforms move on some levels, don't get caught falling in a hole!",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/15936791-diner-intellivision-the-platforms-move-on-some-levels-dont-get-c.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0847b40c-bf14-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Game over",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/15633602-diner-intellivision-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e1ebee7e-bdea-11ed-b791-02420a0001bb.webp",
+                "width": 320
+            },
+            {
+                "caption": "Title screen",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/15936476-diner-intellivision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f349b7bc-bf13-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Caught by an opponent on a tougher level.",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/15936494-diner-intellivision-caught-by-an-opponent-on-a-tougher-level.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f4359d12-bf13-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "How many players?",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/15936725-diner-intellivision-how-many-players.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/04b0b334-bf14-11ed-9c42-02420a000140.webp",
+                "width": 320
+            }
+        ],
+        "title": "Diner"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>Get behind the wheel of a big rig and drive down the Interstate Highway system. Haul cargos to and from the cities of your choosing using your trusty road map. The player also has to watch out for Smokey or he will end up with a nifty speeding ticket. Deliver the cargo safely and it's on to the next job in <em>Truckin'</em>.</p>\n<p>The screen is split in two halves, and a rear-mirror is featured. Players need to avoid incoming trucks and carefully plan the routes, even by consulting a real paper map to find the correct side roads. Some of the scenery included features Texas, Kansas and New York with distinct differences in the environment.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 6,
+                "name": "Racing / Driving"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 193,
+                "name": "Transport"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 194,
+                "name": "Truck"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 158,
+                "name": "Vehicle simulator"
+            }
+        ],
+        "id": 33241,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/33241/truckin/",
+        "num_votes": 2,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 30,
+                    "name": "Intellivision"
+                },
+                "1983-04"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Truckin'"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>In order to stop another Ice Age from occurring, Vail the Avenger must make a trek across the frozen lands in order to reach the Ice Palace of Kalktron the Terrible and put a stop to his evil plans to freeze the land. He will have to ski through a herd of Caribou, cross the frozen river, and then take on the many dangers of the Ice Palace in order to stop Kalktron. Can he stop another Ice Age?</p>\n<p>There are 6 difficulty levels available.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 95,
+                "name": "Snowboarding / skiing"
+            }
+        ],
+        "id": 33244,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/33244/ice-trek/",
+        "num_votes": 3,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 30,
+                    "name": "Intellivision"
+                },
+                "1983-03"
+            ]
+        ],
+        "sample_cover": {
+            "height": 200,
+            "image_url": "https://cdn.mobygames.com/screenshots/15929074-ice-trek-intellivision-title-screen.png",
+            "platforms": [
+                "Intellivision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/ae0a3200-bf11-11ed-9c42-02420a000140.webp",
+            "width": 320
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Need to get through this herd of caribou.",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/15929335-ice-trek-intellivision-need-to-get-through-this-herd-of-caribou.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c455fd46-bf11-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Title screen",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/15929074-ice-trek-intellivision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ae0a3200-bf11-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Well done! Now on to the next challenge...",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/15929101-ice-trek-intellivision-well-done-now-on-to-the-next-challenge.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/af4ac53a-bf11-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Crossing this icy river can be tricky.",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/15929410-ice-trek-intellivision-crossing-this-icy-river-can-be-tricky.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c94c1a88-bf11-11ed-9c42-02420a000140.webp",
+                "width": 320
+            }
+        ],
+        "title": "Ice Trek"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "1982 alternate title",
+                "title": "Super Series Big League Baseball"
+            }
+        ],
+        "description": "<p><em>World Series Major League Baseball</em> is a baseball sports game that supports both ECS and Intellivoice (for play by play announcements). The game is based on real baseball player statistics (even though the names had been changed to fictional ones before the release) and offers baseball games using multiple cameras (including in-game split-screen), showing the game in a 3D display rather than side-scrolling fashion.</p>\n<p>It supports two players simultaneously, where a center camera is used to show pitcher and batter. While one player chooses the pitch type, the batter decides when to swing or bunt. The screen then switches to an external camera view for the defending player to control the fielders, while the other player handles the baserunners. The games can be saved and loaded through the RAM chip on the cartridge.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 126,
+                "name": "3rd-person (Other)"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 32,
+                "name": "Baseball"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 38598,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/38598/world-series-major-league-baseball/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 30,
+                    "name": "Intellivision"
+                },
+                "1983"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/9452891-world-series-major-league-baseball-intellivision-front-cover.jpg",
+            "platforms": [
+                "Intellivision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/1834ab2e-ac07-11ed-92cb-02420a000132.webp",
+            "width": 580
+        },
+        "sample_screenshots": [],
+        "title": "World Series Major League Baseball"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>Take the role of Flynn in <em>TRON: Solar Sailer</em>, an Intellivoice game based on the movie TRON. Navigate your way through the computer world to find the MCP (Master Computer Program). Overload the MCP to escape the computer world and return to reality!</p>\n<p><em>TRON: Solar Sailer</em> is a 1-player game with 2 stages of gameplay. In stage one, the player is given an access code to write down, and then has to guide the solar sailer down tracks in the computer world with the goal of reaching Track 0, where the MCP is located. As the player traverses the tracks, tanks attempt to shoot the sailer and recognizers attempted to move the sailer farther away from Track 0. I/O beams teleport the player closer to the MCP if they can properly enter the access code given to them at the beginning of the game. Moving down a track and shooting at enemies depletes energy from the track; switching tracks restores energy to full. If energy fully depletes before the player switches tracks, the sailer stops moving and the game is over. Energy levels can be monitored by the amount of \"energy bugs\" on the grid surrounding the track, with more bugs meaning more track energy. An audible warning also announces when track energy is low.</p>\n<p>If the player makes it to Track 0, stage two begins. The player is placed in the heart of the MCP as it attempts to make continuous data transmissions to keep the player from entering the override code, thereby overloading the MCP and allowing Flynn to escape the computer program. 0s and 1s fly at the player in a first-person view. An in-game voice gives the player the override code in binary, and the player uses a cursor to catch the appropriate bits. Using the number pad, the player can then specify where in the code sequence the captured bit should go. Red bits, when colliding with the cursor, automatically fill in a randomly selected part of the sequence. This area is timed, so the code must be entered as quickly as possible!</p>\n<p>Once the correct sequence has been entered, the MCP overloads and the game is over. However, the game gives the option of going into \"Overtime Mode\" for extra points, at which point the player attempts to block all incoming transmissions or lose the game.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 40667,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/40667/tron-solar-sailer/",
+        "num_votes": 2,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 30,
+                    "name": "Intellivision"
+                },
+                "1983-02"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/5473344-tron-solar-sailer-intellivision-front-cover.jpg",
+            "platforms": [
+                "Intellivision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/b77ef7dc-abe6-11ed-ac61-02420a00012e.webp",
+            "width": 571
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Taking tank damage",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16081859-tron-solar-sailer-intellivision-taking-tank-damage.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b69c8606-bf6c-11ed-9521-02420a000152.webp",
+                "width": 320
+            },
+            {
+                "caption": "Firing on tanks near sector border - beam power low",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16081985-tron-solar-sailer-intellivision-firing-on-tanks-near-sector-bord.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c1eff4d4-bf6c-11ed-9521-02420a000152.webp",
+                "width": 320
+            },
+            {
+                "caption": "Vertical beam with power",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16081727-tron-solar-sailer-intellivision-vertical-beam-with-power.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/abbc3ace-bf6c-11ed-9521-02420a000152.webp",
+                "width": 320
+            },
+            {
+                "caption": "Game start access code is audio only via INTELLIVOICE you must remember it for later",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16081802-tron-solar-sailer-intellivision-game-start-access-code-is-audio-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b17a0fc2-bf6c-11ed-9521-02420a000152.webp",
+                "width": 320
+            },
+            {
+                "caption": "Tanks at beam jump point - power very low min grid buts Get Off, Get Off! (Alan shouts)",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16081829-tron-solar-sailer-intellivision-tanks-at-beam-jump-point-power-v.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b3dc3ce0-bf6c-11ed-9521-02420a000152.webp",
+                "width": 320
+            }
+        ],
+        "title": "Tron: Solar Sailer"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>2 children are trapped in a haunted house full of evil Thirsties! Guide the children through the house to find all of the ingredients for a batch of Kool-Aid!</p>\n<p>The children initially move together through the house, but if one of the children is attacked by a roaming Thirsty, the children separate, and are now controlled one at a time. If a child is attacked twice, that child is out of the game. If both children are attacked twice, the game is over.</p>\n<p>Once all ingredients for Kool-Aid (sugar, Kool-Aid, and a pitcher) are placed near the kitchen sink, Kool-Aid Man appears and is now controlled by the player! Use Kool-Aid Man to collect roaming fruit and to destroy the Thirsties. Once the Thirsties have been defeated, the round is over, and the game starts over with a higher difficulty level (unless \"kiddy mode\" was selected at game start-up.)</p>\n<p>Kool-Aid Man is for 1 player, and offers 13 difficulty settings, including a children's mode which never increases in difficulty during gameplay.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 21,
+                "name": "Platform"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 40671,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/40671/kool-aid-man/",
+        "num_votes": 2,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 30,
+                    "name": "Intellivision"
+                },
+                "1983"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Kool-Aid Man"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "Manual title",
+                "title": "U.S.C.F. Chess"
+            }
+        ],
+        "description": "<p>Pit your wits against a friend or challenge the computer in <em>USCF Chess</em>!</p>\n<p>Game features include taking back and redoing moves, rotating the game board 180 degrees, and setting up the chess board for special moves and instances. When playing against the CPU, players can also switch sides with the computer to make a move for the CPU. If the computer takes too long to make a move, the player may force the CPU to immediately make the best move it can think of, or cause the game to make an audible tone and pause before making the move.</p>\n<p>USCF Chess allows 2-player gameplay or for 1 player against the CPU with 7 difficulty levels available.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 11,
+                "name": "Chess"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 40699,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/40699/uscf-chess/",
+        "num_votes": 2,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 30,
+                    "name": "Intellivision"
+                },
+                "1983-01"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/6745087-uscf-chess-intellivision-front-cover.png",
+            "platforms": [
+                "Intellivision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/d245a55c-abf0-11ed-80b1-02420a000133.webp",
+            "width": 577
+        },
+        "sample_screenshots": [],
+        "title": "USCF Chess"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Swords &amp; Serpents</em> is a one or two player <em>Dungeons &amp; Dragons</em>-style dungeon crawl. In a one-player game, the player controls the Warrior Prince on his quest to collect treasures, learn the secrets of the Fortress of the Sinister Serpent, and locate the Serpent's lair. In a two-player game, the right player controls the Warrior Prince, while the left player controls Nilrem the Wizard.</p>\n<p>As players explore the labyrinthine fortress they can collect treasures, magic scrolls, and healing items while battling Phantom Knights and Red Sorcerers. But they must be careful\u2014if their adversaries catch them, they can lose half a life, and may need to be \"reincarnated.\" Each player has only 9 Reincarnations, and when those are gone, the game is over.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 50,
+                "name": "Role-playing (RPG)"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 30,
+                "name": "Puzzle elements"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            }
+        ],
+        "id": 41245,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/41245/swords-serpents/",
+        "num_votes": 2,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 30,
+                    "name": "Intellivision"
+                },
+                "1983-02"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/4246405-swords-serpents-intellivision-front-cover.jpg",
+            "platforms": [
+                "Intellivision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/3c0b430c-abab-11ed-93d8-02420a000198.webp",
+            "width": 591
+        },
+        "sample_screenshots": [],
+        "title": "Swords & Serpents"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>Scooby-Dooby-Doo!\nThe ever-popular television cartoon dog had his first video game conversion in this maze game similar to <a href=\"https://www.mobygames.com/search/?q=Pac-Man\"> Pac-Man</a>. You control Scooby as he chases ghosts through a maze while himself being chased by the skull &amp; crossbones. If three ghosts are caught within a time-limit, the skull will disappear and a submarine sandwich appears. When eaten, it gives you a magic bone which when dropped in the path of the skull will momentarily freeze it in place. When Scooby is caught by the skull, the difficulty will go down. There's 10 mazes in all, but with the keyboard addon for Intellivision you can also make your own mazes.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 43290,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/43290/scooby-doos-maze-chase/",
+        "num_votes": 2,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 30,
+                    "name": "Intellivision"
+                },
+                "1983"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Scooby Doo's Maze Chase"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Super Pro Football</em> is a one or two-player football game. There are only two teams, the Home Team and the Visiting Team (orange and blue respectively). Quarterbacks are colored differently than the rest of the team--red and dark blue for the Home and Visiting teams.</p>\n<p>After pressing Enter from the title screen, the player has the options of selecting if the players will be human or computer, and then their difficulty level, or rating--Rookie or Super Pro. </p>\n<p>Prior to playing the game, the player (or computer) can select from a wide list of options and planning strategies for playing the game. </p>\n<p>Options for the Defensive team include Formation, Tactic, Timeout, Stats, Controls, and Break. \"Break\" exits the menu and begins gameplay. \"Stats\" contains all the current information on the game including the timer, score, down, quarter, and time outs. There are nine Formations to choose from, and four options under Tactics. Formations can also be changed on the gameplay screen prior to the opponent team hiking the ball. Controls are pretty basic, only really involving the control wheel.</p>\n<p>The options for the Offensive team include Formation, Kick, Recover 1, Recover 2, Timeout, Stats, Controls, and Break. A \"program receiver\" appears under the Recover options. Like defense, there are nine formation options. Controls are more involved in offensive play, including hiking, kicking, passing high or low, and running.</p>\n<p>The game is seen from a top-down view and scrolls left-to-right to move with the gameplay.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 31,
+                "name": "Football (American)"
+            }
+        ],
+        "id": 47657,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/47657/super-pro-football/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 30,
+                    "name": "Intellivision"
+                },
+                "1986-10"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Super Pro Football"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Royal Dealer</em> is a collection of four card games: Hearts, Rummy, Gin Rummy and Crazy Eights. You can play against three computer opponents. On any of the card games you sit at the front of the table with the cards facing you. Depending on your selection before the game up to three female computer players will appear on the left top and right of the table. The interface provides instructions on how to play the game.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            }
+        ],
+        "id": 70919,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/70919/royal-dealer/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 30,
+                    "name": "Intellivision"
+                },
+                "1982-07"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/7184808-royal-dealer-intellivision-front-cover.jpg",
+            "platforms": [
+                "Intellivision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/57e48d56-abf4-11ed-b013-02420a00012e.webp",
+            "width": 579
+        },
+        "sample_screenshots": [],
+        "title": "Royal Dealer"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 6,
+                "name": "Racing / Driving"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 129,
+                "name": "Diagonal-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 25,
+                "name": "Isometric"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 188,
+                "name": "Automobile"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 207,
+                "name": "North America"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 93,
+                "name": "Spy / espionage"
+            }
+        ],
+        "id": 158635,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/158635/safecracker/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 30,
+                    "name": "Intellivision"
+                },
+                "1983"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Safecracker"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 173,
+                "name": "Multiple units/characters control"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 167,
+                "name": "Point and select"
+            }
+        ],
+        "id": 158683,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/158683/mind-strike/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 30,
+                    "name": "Intellivision"
+                },
+                "1982"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Mind Strike"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 97,
+                "name": "Music / rhythm"
+            }
+        ],
+        "id": 158685,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/158685/melody-blaster/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 30,
+                    "name": "Intellivision"
+                },
+                "1983"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Melody Blaster"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 143,
+                "name": "Artillery"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 43,
+                "name": "Math / logic"
+            }
+        ],
+        "id": 158686,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/158686/mr-basic-meets-bits-n-bytes/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 30,
+                    "name": "Intellivision"
+                },
+                "1983"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Mr. BASIC Meets Bits 'N Bytes"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Triple Challenge</em> is a compilation of three previous board game releases in Mattel's <em>Strategy Network</em> series for the Intellivision:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/game/30426/abpa-backgammon/\">ABPA Backgammon</a>, referred to here as just <em>Backgammon</em></li>\n<li><a href=\"https://www.mobygames.com/game/9321/checkers/\">Checkers</a></li>\n<li><a href=\"https://www.mobygames.com/game/40699/uscf-chess/\">USCF Chess</a>, referred to here as <em>Tournament Chess</em> and <em>Chess</em></li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 158696,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/158696/triple-challenge/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 30,
+                    "name": "Intellivision"
+                },
+                "1986"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Triple Challenge"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "In-game title",
+                "title": "All-Star Major League Baseball"
+            }
+        ],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 129,
+                "name": "Diagonal-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 32,
+                "name": "Baseball"
+            }
+        ],
+        "id": 158846,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/158846/world-championship-baseball/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 30,
+                    "name": "Intellivision"
+                },
+                "1986"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "World Championship Baseball"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 129,
+                "name": "Diagonal-down"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 218,
+                "name": "Timed input"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 43,
+                "name": "Math / logic"
+            }
+        ],
+        "id": 159672,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/159672/learning-fun-i/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 30,
+                    "name": "Intellivision"
+                },
+                "1987"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Learning Fun I"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 162,
+                "name": "Word construction"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 44,
+                "name": "Reading / writing"
+            }
+        ],
+        "id": 159674,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/159674/learning-fun-ii/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 30,
+                    "name": "Intellivision"
+                },
+                "1987"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Learning Fun II"
+    }
+]

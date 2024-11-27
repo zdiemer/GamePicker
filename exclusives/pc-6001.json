@@ -1,0 +1,356 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Tama Tama</em> is an arcade game where players need to kick balls at enemies to defeat them. Players can only knock their enemies out when the ball is orange and must jump for it to change its color.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 119458,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/119458/tama-tama/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 149,
+                    "name": "PC-6001"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Tama Tama"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><i>AX-1: Arabian Rhapsody</i> is an action and puzzle game, and the first entry in ASCII's AX series. It consists of a compilation of four games: Arabian Rhapsody, Block Breaker, High Speed \u200b\u200bBarricade and Simon. It also includes a demonstration program. The game was published right around the time of NEC's PC-6001 release and one of the main draws was that player's could look at the source code and use it to make their own games.</p>\n<p><i>Arabian Rhapsody</i> is an action game played on a grid filled with different numbers from 0-9. Player's take control of Aladdin, represented by a heart, and move around by pressing the numeric keys in the keypad corresponding to their adjacent positions. Stepping on each numbered space will increase their score, and once player's have stepped on all spaces, the stage will reset. Player's also have to avoid the bandit, represented by the character X, otherwise they'll be sent back to the starting position. There is also an energy meter that depletes with time, but can be refilled by stepping on special numbers marked in green.</p>\n<p><i>Block Breaker</i> is a standard Breakout clone. Player's control a paddle and have to bounce a ball around the screen, while trying to hit the block at the top and collect points. Once all blocks are cleared, the game will go to the next stage. If the player misses the ball they lose a life, and when all lives are lost they'll get a game over.</p>\n<p><i>High Speed \u200b\u200bBarricade</i> is a variation on the Snake sub-genre. The game is played in a closed arena, and player's control a moving character that leaves a trail behind it's previous positions. The computer also controls a character that behaves in the same way. Touching either of the trail characters left behind or the walls of the arena will result in a game over. The objective is to try to stay alive for as long as possible, while trying to make the opponent touch one of the walls.</p>\n<p><i>Simon</i> consists of 4 different colored panels shown on screen, which will flash in a random order. The player will them have to reproduce the order in which they were shown, and will gain points for completing a successive round, or get a game over for failing. As the game progresses, the sequences become longer and harder to reproduce.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 30,
+                "name": "Puzzle elements"
+            }
+        ],
+        "id": 217106,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/217106/ax-1-arabian-rhapsody/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 149,
+                    "name": "PC-6001"
+                },
+                "1982-02"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "AX-1: Arabian Rhapsody"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Hudson Best Hit Sh\u016b 1</em> is a compilation which contains:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/game/19608/cannon-ball/\">Cannon Ball</a></li>\n<li><a href=\"https://www.mobygames.com/game/210875/power-fail/\">Power Fail</a></li>\n<li><a href=\"https://www.mobygames.com/game/219602/beans-jack/\">Bean\u2019s Jack</a></li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 220785,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/220785/hudson-best-hit-shu-1/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 149,
+                    "name": "PC-6001"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Hudson Best Hit Sh\u016b 1"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Hudson Best Hit Sh\u016b 2</em> is a compilation which contains:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/game/217472/sky-diver/\">Sky Diver</a></li>\n<li><a href=\"https://www.mobygames.com/game/217257/super-doors/\">Super Doors</a></li>\n<li><a href=\"https://www.mobygames.com/game/17921/binary-land/\">Binary Land</a></li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 220786,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/220786/hudson-best-hit-shu-2/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 149,
+                    "name": "PC-6001"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Hudson Best Hit Sh\u016b 2"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Hudson Best Hit Sh\u016b 3</em> is compilation which contains:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/game/72718/eric-and-the-floaters/\">Bomber Man</a></li>\n<li><a href=\"https://www.mobygames.com/game/219027/dog-fighter/\">Zero Fighter</a></li>\n<li><a href=\"https://www.mobygames.com/game/221621/hiyoko-fighter/\">Hiyoko Fighter</a></li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 220787,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/220787/hudson-best-hit-shu-3/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 149,
+                    "name": "PC-6001"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Hudson Best Hit Sh\u016b 3"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Dr. Slump Bubble Daisakusen</em> is an action platformer game based on the Dr. Slump manga/anime. You play as Gatchan while Arale is blowing bubbles that he has to jump on to collect five candies (each one gives him 800 points) that drop from planes, Aho! birds, UFOs, helicopters, robots, chickens and then meet the old man in the cloud to receive wings to fly. He can collect apples for 700 points, oranges for 600 points and water holder for 900 points along with some water to replenish the meter on the way. He now has to collect more candy and head back down to meet up with Arale before the meter goes down to move on to the next scene with sky changing color. He will be avoiding bombers, hatchets, and dung that will cost him a life and if the meter goes down then the sky turns pink and Gatchan loses a life. He has three lives and if all are gone then it's game over.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 129,
+                "name": "Diagonal-down"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 13,
+                    "name": "Art Style"
+                },
+                "description": null,
+                "id": 57,
+                "name": "Anime / Manga"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 21,
+                "name": "Platform"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 221975,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/221975/dr-slump-bubble-daisakusen/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 149,
+                    "name": "PC-6001"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Dr. Slump Bubble Daisakusen"
+    }
+]

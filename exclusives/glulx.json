@@ -1,0 +1,328 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Coloratura</em> is a sci-fi text adventure game with some horror elements. An expedition to a distant planet has uncovered a curious artifact, a cube filled with a mystery substance. Unbeknownst to the discoverers, the cube actually contains an intelligent alien being with alarming abilities, who escapes and proceeds to wreak havoc around their starship \u2014 and that alien is you. </p>\n<p>The player's task is to somehow get the cube returned back to where it belongs. The alien protagonist perceives things in its own, exotic way (seeing emotions as a rainbow of colors, for example), and it has some unusual abilities at its disposal, such as recoloring people's auras to change their emotions.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 23,
+                "name": "Interactive fiction / text adventure"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 83,
+                "name": "Horror"
+            }
+        ],
+        "id": 113303,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/113303/coloratura/",
+        "num_votes": 1,
+        "official_url": "http://www.maderealstories.com/games/ColoraturaNotes.html",
+        "platforms": [
+            [
+                {
+                    "id": 172,
+                    "name": "Glulx"
+                },
+                "2013-09-29"
+            ]
+        ],
+        "sample_cover": {
+            "height": 313,
+            "image_url": "https://cdn.mobygames.com/covers/3615340-coloratura-glulx-front-cover.jpg",
+            "platforms": [
+                "Glulx"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/422c68da-ab95-11ed-8e21-02420a00019b.webp",
+            "width": 313
+        },
+        "sample_screenshots": [
+            {
+                "caption": "For some reason, humans resist the happiness you bring upon them",
+                "height": 684,
+                "image_url": "https://cdn.mobygames.com/screenshots/16291811-coloratura-glulx-for-some-reason-humans-resist-the-happiness-you.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fdd94456-c1eb-11ed-ab6b-02420a000194.webp",
+                "width": 1200
+            },
+            {
+                "caption": "The opening of the game. ",
+                "height": 684,
+                "image_url": "https://cdn.mobygames.com/screenshots/16291808-coloratura-glulx-the-opening-of-the-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fd926c02-c1eb-11ed-ab6b-02420a000194.webp",
+                "width": 1200
+            },
+            {
+                "caption": "Varicolored voices surround you",
+                "height": 684,
+                "image_url": "https://cdn.mobygames.com/screenshots/16290926-coloratura-glulx-varicolored-voices-surround-you.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bbe9e8e8-c1eb-11ed-ab6b-02420a000194.webp",
+                "width": 1200
+            },
+            {
+                "caption": "The human vessel is such a mess of confusing noises",
+                "height": 684,
+                "image_url": "https://cdn.mobygames.com/screenshots/16291814-coloratura-glulx-the-human-vessel-is-such-a-mess-of-confusing-no.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fe1d402a-c1eb-11ed-ab6b-02420a000194.webp",
+                "width": 1200
+            },
+            {
+                "caption": "The entire rainbow of emotions is at your disposal, and the humans are your canvas",
+                "height": 684,
+                "image_url": "https://cdn.mobygames.com/screenshots/16291817-coloratura-glulx-the-entire-rainbow-of-emotions-is-at-your-dispo.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fe5bf9d2-c1eb-11ed-ab6b-02420a000194.webp",
+                "width": 1200
+            }
+        ],
+        "title": "Coloratura"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Six</em> is an interactive fiction game created for the 2011 Annual Interactive Fiction Competition. The player takes control of Harriet, a small girl from Australia who is celebrating her sixth birthday with a costume party and a hide-and-seek game in the park. The goal is to find and tag all of Harriet's friends, which is not easy because they can be very good at hiding and running away. Thus the player will need to solve some simple puzzles in order to tag every one of the guests. </p>\n<p>After finishing the game, the player can replay it in the role of Harriet's twin sister, Demi. Demi's costume and personality are different from Harriet's, and thus the puzzles to solve are different in this version.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 23,
+                "name": "Interactive fiction / text adventure"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 30,
+                "name": "Puzzle elements"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 200,
+                "name": "Contemporary"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 208,
+                "name": "Oceania"
+            }
+        ],
+        "id": 115397,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/115397/six/",
+        "num_votes": 1,
+        "official_url": "http://six.wadeclarke.com",
+        "platforms": [
+            [
+                {
+                    "id": 172,
+                    "name": "Glulx"
+                },
+                "2011-10-01"
+            ]
+        ],
+        "sample_cover": {
+            "height": 720,
+            "image_url": "https://cdn.mobygames.com/covers/3586485-six-glulx-front-cover.jpg",
+            "platforms": [
+                "Glulx"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/531609cc-ab94-11ed-9201-02420a00019c.webp",
+            "width": 960
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Interacting with your family",
+                "height": 688,
+                "image_url": "https://cdn.mobygames.com/screenshots/16404452-six-glulx-interacting-with-your-family.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/296bfd0a-c211-11ed-ab6b-02420a000194.webp",
+                "width": 981
+            },
+            {
+                "caption": "Main menu",
+                "height": 688,
+                "image_url": "https://cdn.mobygames.com/screenshots/16397153-six-glulx-main-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/33ea7358-c20f-11ed-ab6b-02420a000194.webp",
+                "width": 981
+            },
+            {
+                "caption": "Opening narration",
+                "height": 688,
+                "image_url": "https://cdn.mobygames.com/screenshots/16397156-six-glulx-opening-narration.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/341ab662-c20f-11ed-ab6b-02420a000194.webp",
+                "width": 981
+            },
+            {
+                "caption": "Starting screen",
+                "height": 452,
+                "image_url": "https://cdn.mobygames.com/screenshots/16397150-six-glulx-starting-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/33842abc-c20f-11ed-ab6b-02420a000194.webp",
+                "width": 958
+            },
+            {
+                "caption": "Exploring the hedge maze as Demi",
+                "height": 688,
+                "image_url": "https://cdn.mobygames.com/screenshots/16397159-six-glulx-exploring-the-hedge-maze-as-demi.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/344a5264-c20f-11ed-ab6b-02420a000194.webp",
+                "width": 981
+            }
+        ],
+        "title": "Six"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>mr. leg needs some milk</em> is a very short text adventure game, where the player must help \"mr. leg\" get a cup of milk. All text in the game is written in a minimalist, childish, lowercase style. There are just three rooms, two inventory items and one puzzle.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 30,
+                "name": "Puzzle elements"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 115731,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/115731/mr-leg-needs-some-milk/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 172,
+                    "name": "Glulx"
+                },
+                "2015"
+            ]
+        ],
+        "sample_cover": {
+            "height": 172,
+            "image_url": "https://cdn.mobygames.com/covers/3425088-mr-leg-needs-some-milk-glulx-front-cover.png",
+            "platforms": [
+                "Glulx"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/309ab2bc-ab8f-11ed-8bb9-02420a000197.webp",
+            "width": 120
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Beginning of the game",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/16402247-mr-leg-needs-some-milk-glulx-beginning-of-the-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a5daa392-c210-11ed-ab6b-02420a000194.webp",
+                "width": 1027
+            }
+        ],
+        "title": "mr. leg needs some milk"
+    }
+]

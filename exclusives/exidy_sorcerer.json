@@ -1,0 +1,3132 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Galaxians</em> is a variant of the almost identically named arcade game <a href=\"https://www.mobygames.com/search/?q=Galaxian\">Galaxian</a>. It is a fixed-screen shoot 'em up where the player controls a space ship moving left and right along the bottom of the screen while firing a laser at the aliens above. The Galaxians start in a formation and move horizontally across the screen. At times a single alien leaves the formation and swoops down towards the player who has to dodge it as well as any projectiles launched. The aim is simply to kill all aliens and get to the next level while avoiding getting hit. The game is over when all three lives have been lost.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 77476,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/77476/galaxians/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 176,
+                    "name": "Exidy Sorcerer"
+                },
+                "1981"
+            ]
+        ],
+        "sample_cover": {
+            "height": 480,
+            "image_url": "https://cdn.mobygames.com/screenshots/15912930-galaxians-exidy-sorcerer-instructions.png",
+            "platforms": [
+                "Exidy Sorcerer"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/1f809604-bf0d-11ed-9c42-02420a000140.webp",
+            "width": 512
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Single enemy left",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/15913392-galaxians-exidy-sorcerer-single-enemy-left.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3ebb05fe-bf0d-11ed-9c42-02420a000140.webp",
+                "width": 512
+            },
+            {
+                "caption": "Player getting hit",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/15913419-galaxians-exidy-sorcerer-player-getting-hit.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/40124ca0-bf0d-11ed-9c42-02420a000140.webp",
+                "width": 512
+            },
+            {
+                "caption": "Instructions",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/15912930-galaxians-exidy-sorcerer-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1f809604-bf0d-11ed-9c42-02420a000140.webp",
+                "width": 512
+            },
+            {
+                "caption": "Start of game",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/15912876-galaxians-exidy-sorcerer-start-of-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1c1f5392-bf0d-11ed-9c42-02420a000140.webp",
+                "width": 512
+            },
+            {
+                "caption": "Blasting a galaxian",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/15913452-galaxians-exidy-sorcerer-blasting-a-galaxian.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/422eb56e-bf0d-11ed-9c42-02420a000140.webp",
+                "width": 512
+            }
+        ],
+        "title": "Galaxians"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Arrows and Alleys</em> is a variant of the arcade game <a href=\"https://www.mobygames.com/game/64456/targ/\">Targ</a> where the player takes control of a car that moves through a network of alleys that are viewed from a top down perspective. In the alleys are also a number of arrows that start at the opposite end of the screen and attempt to crash into the player's car. The player's task is to prevent them from doing this by shooting them down first. At some times a pit will open up and a rocket will appear. It has to be avoided just like the arrows but is worth more points when shot. The player has five cars and an extra one is given for every level completed. There are four difficulty levels and the game can be played by one or two players in hot seat.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 6,
+                "name": "Racing / Driving"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 188,
+                "name": "Automobile"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 159,
+                "name": "Vehicular combat"
+            }
+        ],
+        "id": 77478,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/77478/arrows-and-alleys/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 176,
+                    "name": "Exidy Sorcerer"
+                },
+                "1980"
+            ]
+        ],
+        "sample_cover": {
+            "height": 480,
+            "image_url": "https://cdn.mobygames.com/screenshots/15913332-arrows-and-alleys-exidy-sorcerer-title-screen.png",
+            "platforms": [
+                "Exidy Sorcerer"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/3aa58d90-bf0d-11ed-9c42-02420a000140.webp",
+            "width": 512
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Starting out",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/15913269-arrows-and-alleys-exidy-sorcerer-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3624141c-bf0d-11ed-9c42-02420a000140.webp",
+                "width": 512
+            },
+            {
+                "caption": "A rocket appears",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/15913131-arrows-and-alleys-exidy-sorcerer-a-rocket-appears.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2d23a012-bf0d-11ed-9c42-02420a000140.webp",
+                "width": 512
+            },
+            {
+                "caption": "Title screen",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/15913332-arrows-and-alleys-exidy-sorcerer-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3aa58d90-bf0d-11ed-9c42-02420a000140.webp",
+                "width": 512
+            },
+            {
+                "caption": "Pre-race screen",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/15913164-arrows-and-alleys-exidy-sorcerer-pre-race-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2faaa6be-bf0d-11ed-9c42-02420a000140.webp",
+                "width": 512
+            },
+            {
+                "caption": "Instructions and options",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/15913302-arrows-and-alleys-exidy-sorcerer-instructions-and-options.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/37f4e8ca-bf0d-11ed-9c42-02420a000140.webp",
+                "width": 512
+            }
+        ],
+        "title": "Arrows and Alleys"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Martian Invaders</em> is a <a href=\"https://www.mobygames.com/search/?q=Space+Invaders\">Space Invaders</a> variant. Like in the arcade game the player takes control of a space ship that can be moved left and right along the bottom of the screen. Above it are the martians which move back and forth and that the player has to shoot down before they reach the bottom of the screen. Upon killing all of them the game progresses to a new level. Unlike the arcade original there are no barriers to offer protection from the projectiles dropped by the martians. The UFO passing by at the top of the screen makes an appearance though. The player only has one life so when getting hit the game has to be replayed from the start.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 77511,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/77511/martian-invaders/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 176,
+                    "name": "Exidy Sorcerer"
+                },
+                "1980"
+            ]
+        ],
+        "sample_cover": {
+            "height": 480,
+            "image_url": "https://cdn.mobygames.com/screenshots/15913515-martian-invaders-exidy-sorcerer-title-screen.png",
+            "platforms": [
+                "Exidy Sorcerer"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/4580eeb2-bf0d-11ed-9c42-02420a000140.webp",
+            "width": 512
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Title screen",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/15913515-martian-invaders-exidy-sorcerer-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4580eeb2-bf0d-11ed-9c42-02420a000140.webp",
+                "width": 512
+            },
+            {
+                "caption": "Aliens reaching the ground",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/15913719-martian-invaders-exidy-sorcerer-aliens-reaching-the-ground.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5925e7ce-bf0d-11ed-9c42-02420a000140.webp",
+                "width": 512
+            },
+            {
+                "caption": "Alien getting blasted",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/15913464-martian-invaders-exidy-sorcerer-alien-getting-blasted.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/428e3b74-bf0d-11ed-9c42-02420a000140.webp",
+                "width": 512
+            },
+            {
+                "caption": "Starting out",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/15924260-martian-invaders-exidy-sorcerer-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/592c599e-bf10-11ed-9c42-02420a000140.webp",
+                "width": 512
+            },
+            {
+                "caption": "Aliens dropping bombs",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/15913485-martian-invaders-exidy-sorcerer-aliens-dropping-bombs.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/437c1934-bf0d-11ed-9c42-02420a000140.webp",
+                "width": 512
+            }
+        ],
+        "title": "Martian Invaders"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Chomp</em> is a <a href=\"https://www.mobygames.com/search/?q=Pac-Man\">Pac-Man</a> variant. Like in the original game and most of its clones the player controls the chomp through mazes full of dots that have to be collected while being chased by four ghosts that have to be avoided. Any contact with them will lead to a lost life but by eating a power pill the player can for a short moment go after and kill the ghosts. Additionally the chomp can eat berries for bonus points. A level is completed when all dots have been eaten and the game goes on until all of the player's three lives are lost.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            }
+        ],
+        "id": 77842,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/77842/chomp/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 176,
+                    "name": "Exidy Sorcerer"
+                },
+                "1981"
+            ]
+        ],
+        "sample_cover": {
+            "height": 480,
+            "image_url": "https://cdn.mobygames.com/screenshots/15933177-chomp-exidy-sorcerer-title-screen.png",
+            "platforms": [
+                "Exidy Sorcerer"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/eac45e68-bf12-11ed-9c42-02420a000140.webp",
+            "width": 512
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Eating the berries",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/15933129-chomp-exidy-sorcerer-eating-the-berries.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e73ca854-bf12-11ed-9c42-02420a000140.webp",
+                "width": 512
+            },
+            {
+                "caption": "Title screen",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/15933177-chomp-exidy-sorcerer-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/eac45e68-bf12-11ed-9c42-02420a000140.webp",
+                "width": 512
+            },
+            {
+                "caption": "Chomp getting killed",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/15933537-chomp-exidy-sorcerer-chomp-getting-killed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/06246446-bf13-11ed-9c42-02420a000140.webp",
+                "width": 512
+            },
+            {
+                "caption": "Catching a ghost",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/15933084-chomp-exidy-sorcerer-catching-a-ghost.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e385d3d4-bf12-11ed-9c42-02420a000140.webp",
+                "width": 512
+            },
+            {
+                "caption": "Level cleared",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/15933045-chomp-exidy-sorcerer-level-cleared.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e19ef8d4-bf12-11ed-9c42-02420a000140.webp",
+                "width": 512
+            }
+        ],
+        "title": "Chomp"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Astro Attacker</em> is a fixed screen shoot 'em up that is similar to the arcade game <a href=\"https://www.mobygames.com/search/?q=Astro+Blaster\">Astro Blaster</a>. The player moves a space ship along the bottom of the screen while firing at the enemies that move around the screen. The space ship has a limited amount of fuel and it might run out if the player moves too recklessly. It is also possible to overheat the lazer cannon if it's used too frequently.</p>\n<p>Each level of the game contains five waves of enemies, each with its own kind that has its own movement pattern. There are spinners, lazer ships, rockets, flame throwers and meteor showers. Like in Astro Blaster, each level ends with the player having to dock with a mothership which restores fuel and shield strength and cools the lazer cannon. Before a game the player can choose the number of shields (lives) from one to nine.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 82378,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/82378/astro-attacker/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 176,
+                    "name": "Exidy Sorcerer"
+                },
+                "1982"
+            ]
+        ],
+        "sample_cover": {
+            "height": 480,
+            "image_url": "https://cdn.mobygames.com/screenshots/16119333-astro-attacker-exidy-sorcerer-title-screen.png",
+            "platforms": [
+                "Exidy Sorcerer"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/e59ad952-bf77-11ed-9521-02420a000152.webp",
+            "width": 512
+        },
+        "sample_screenshots": [
+            {
+                "caption": "The game starts with a docking",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16119327-astro-attacker-exidy-sorcerer-the-game-starts-with-a-docking.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e563f2f2-bf77-11ed-9521-02420a000152.webp",
+                "width": 512
+            },
+            {
+                "caption": "Then we move on to level 1",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16119324-astro-attacker-exidy-sorcerer-then-we-move-on-to-level-1.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e54b076a-bf77-11ed-9521-02420a000152.webp",
+                "width": 512
+            },
+            {
+                "caption": "Third wave",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16110753-astro-attacker-exidy-sorcerer-third-wave.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/87291bf6-bf75-11ed-9521-02420a000152.webp",
+                "width": 512
+            },
+            {
+                "caption": "Fourth wave",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16110150-astro-attacker-exidy-sorcerer-fourth-wave.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5b6dfc2a-bf75-11ed-9521-02420a000152.webp",
+                "width": 512
+            },
+            {
+                "caption": "Second wave",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16110756-astro-attacker-exidy-sorcerer-second-wave.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/87446488-bf75-11ed-9521-02420a000152.webp",
+                "width": 512
+            }
+        ],
+        "title": "Astro Attacker"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Nike II</em> is a side view single screen action game where the player's task is to prevent enemy aircraft from bombing cities and factories. The aircraft fly across the screen from right to left and the player has to stop them by firing missiles at them. Missiles are launched from three silos that the player controls individually with the 1, 2 and 3 keys. The aim is to get the highest score by destroying as many aircraft as possible with the least amount of missiles. The player starts out with 110 points and points are then deducted when a missile is fired (one point) and a city is destroyed (five points).</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            }
+        ],
+        "id": 112125,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/112125/nike-ii/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 176,
+                    "name": "Exidy Sorcerer"
+                },
+                "1980"
+            ]
+        ],
+        "sample_cover": {
+            "height": 480,
+            "image_url": "https://cdn.mobygames.com/screenshots/16464354-nike-ii-exidy-sorcerer-title-screen.png",
+            "platforms": [
+                "Exidy Sorcerer"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/7da613c2-c222-11ed-ab6b-02420a000194.webp",
+            "width": 512
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Toughest level with lots of aircraft",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16464339-nike-ii-exidy-sorcerer-toughest-level-with-lots-of-aircraft.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7d24691c-c222-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Title screen",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16464354-nike-ii-exidy-sorcerer-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7da613c2-c222-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Starting out",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16464351-nike-ii-exidy-sorcerer-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7d8d090e-c222-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Ending with a score of 62",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16464345-nike-ii-exidy-sorcerer-ending-with-a-score-of-62.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7d5ad574-c222-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Shooting missiles",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16464348-nike-ii-exidy-sorcerer-shooting-missiles.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7d73043c-c222-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            }
+        ],
+        "title": "Nike II"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Magic Maze</em> is a maze game where the objective simply is to reach the maze's exit. This is made harder by pits which when stepped over transports the player to a random location in the maze. Pits are shown before starting but becomes invisible during the game. The size of the maze and the difficulty is set by the player who also gets to choose between two modes: L or M. In the L mode the entire maze is visible (except the pits) while in the M mode it's necessary to memorize the maze since walls only become visible when they are bumped into. The game is played with keyboard by typing in directions (U, D, L, R).</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 120621,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/120621/magic-maze/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 176,
+                    "name": "Exidy Sorcerer"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": {
+            "height": 480,
+            "image_url": "https://cdn.mobygames.com/screenshots/16198193-magic-maze-exidy-sorcerer-title-screen-with-instructions-and-opt.png",
+            "platforms": [
+                "Exidy Sorcerer"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/1d6a0872-c1cf-11ed-ab6b-02420a000194.webp",
+            "width": 512
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Pits are shown ahead of a game and mode is chosen",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16198190-magic-maze-exidy-sorcerer-pits-are-shown-ahead-of-a-game-and-mod.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1d426baa-c1cf-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "In the M mode walls are only visible when bumped into",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16197827-magic-maze-exidy-sorcerer-in-the-m-mode-walls-are-only-visible-w.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f44263f4-c1ce-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Reaching the exit",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16197830-magic-maze-exidy-sorcerer-reaching-the-exit.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f46469a4-c1ce-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Title screen with instructions and options",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16198193-magic-maze-exidy-sorcerer-title-screen-with-instructions-and-opt.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1d6a0872-c1cf-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Maze being created",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16199126-magic-maze-exidy-sorcerer-maze-being-created.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/86a652a0-c1cf-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            }
+        ],
+        "title": "Magic Maze"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Head-On Collision</em> is a variant of the <a href=\"https://www.mobygames.com/company/10645/sega-electronics-inc/\">Sega/Gremlin</a> arcade game <a href=\"https://www.mobygames.com/game/63347/head-on/\">Head-On</a>. The player controls a black car travelling clockwise around a race track made up of five lanes. The track is full of dots and diamonds that give points when collected. Meanwhile an enemy car is driving in the opposite direction and is attempting to crash into the player's car. To avoid losing lives the player has to avoid the enemy by switching lanes which can only be done at four intersections. The player has five cars and when they are all gone the game is over.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 6,
+                "name": "Racing / Driving"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            }
+        ],
+        "id": 120642,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/120642/head-on-collision/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 176,
+                    "name": "Exidy Sorcerer"
+                },
+                "1980"
+            ]
+        ],
+        "sample_cover": {
+            "height": 480,
+            "image_url": "https://cdn.mobygames.com/screenshots/16199123-head-on-collision-exidy-sorcerer-title-screen.png",
+            "platforms": [
+                "Exidy Sorcerer"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/868bb18e-c1cf-11ed-ab6b-02420a000194.webp",
+            "width": 512
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Crashing",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16198511-head-on-collision-exidy-sorcerer-crashing.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3c74c9dc-c1cf-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Game over",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16198499-head-on-collision-exidy-sorcerer-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3b431bf4-c1cf-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Starting out",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16198514-head-on-collision-exidy-sorcerer-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3c95d6f4-c1cf-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Collecting diamond that are dropped by the crash car",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16198508-head-on-collision-exidy-sorcerer-collecting-diamond-that-are-dro.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3b981f6e-c1cf-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Title screen",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16199123-head-on-collision-exidy-sorcerer-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/868bb18e-c1cf-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            }
+        ],
+        "title": "Head-On Collision"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Military Encounter</em> is a computer adaptation of the board game <a href=\"https://www.mobygames.com/search/?q=Stratego\">Stratego</a>. It's a single player game played against an AI opponent. Each combatant has forty pieces that they place on their side of the board ahead of the game. One of the pieces is a flag which the opponent has to try and capture. Units have ranks which decide what enemies they can defeat in combat. Higher rank units defeat lower rank units which are then removed from the board. The general is the highest rank and can defeat any other unit. The exception is the spy (the lowest rank) which can only defeat the general but only if it attacks first. There are also bombs which kill any unit that attacks them except for miner units which can dismantle the bombs. The ranks of the enemies are only revealed once they attack or are being attacked. For each turn, the player can move one unit one square. The player wins the game by capturing the enemy flag or when the enemy forfeits a hopeless situation. In addition to the regular game there is a Super Encounter mode where the enemy ranks are never revealed.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 167,
+                "name": "Point and select"
+            }
+        ],
+        "id": 120662,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/120662/military-encounter/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 176,
+                    "name": "Exidy Sorcerer"
+                },
+                "1981"
+            ]
+        ],
+        "sample_cover": {
+            "height": 480,
+            "image_url": "https://cdn.mobygames.com/screenshots/16204061-military-encounter-exidy-sorcerer-title-screen.png",
+            "platforms": [
+                "Exidy Sorcerer"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/1cf1d558-c1d1-11ed-ab6b-02420a000194.webp",
+            "width": 512
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Board setup in progress",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16214004-military-encounter-exidy-sorcerer-board-setup-in-progress.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1ad88160-c1d4-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Losing a low rank unit in combat",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16205409-military-encounter-exidy-sorcerer-losing-a-low-rank-unit-in-comb.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b2434be6-c1d1-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Title screen",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16204061-military-encounter-exidy-sorcerer-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1cf1d558-c1d1-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "AI's turn to setup",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16204406-military-encounter-exidy-sorcerer-ais-turn-to-setup.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/403d36d8-c1d1-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "First moves being made",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16205412-military-encounter-exidy-sorcerer-first-moves-being-made.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b26559b6-c1d1-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            }
+        ],
+        "title": "Military Encounter"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Interceptor</em> is a variant of the arcade game <a href=\"https://www.mobygames.com/search/?q=Scramble\">Scramble</a> although it only includes the first section where the player flies over a mountainous terrain. The game scrolls from left to right with the player flying the interceptor up and down and using two weapons. There are pulses that are fired straight forward and there are bombs that are dropped on ground targets. There are several different enemies that have to be avoided or shot down. There are also energy pods on the ground that have to be destroyed to replenish the ship's energy level. The aim of the game is to fly as far as possible. After 100 km, bonus points are given and the game restarts.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 120781,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/120781/interceptor/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 176,
+                    "name": "Exidy Sorcerer"
+                },
+                "1982"
+            ]
+        ],
+        "sample_cover": {
+            "height": 480,
+            "image_url": "https://cdn.mobygames.com/screenshots/16221408-interceptor-exidy-sorcerer-title-screen.png",
+            "platforms": [
+                "Exidy Sorcerer"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/3de59844-c1d6-11ed-ab6b-02420a000194.webp",
+            "width": 512
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Rockets taking off",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16221684-interceptor-exidy-sorcerer-rockets-taking-off.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5325e704-c1d6-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Getting killed",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16221894-interceptor-exidy-sorcerer-getting-killed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5f6fea50-c1d6-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Title screen",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16221408-interceptor-exidy-sorcerer-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3de59844-c1d6-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Dropping bombs at ground targets",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16232760-interceptor-exidy-sorcerer-dropping-bombs-at-ground-targets.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8dfda27e-c1d9-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Shooting at one of the faster enemy types",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16221930-interceptor-exidy-sorcerer-shooting-at-one-of-the-faster-enemy-t.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/640d9b8e-c1d6-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            }
+        ],
+        "title": "Interceptor"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Blackjack</em> is an adaptation of the card game that uses original Las Vegas rules. The game is for one player who plays against an AI opponent. Like in the real game, the player draws cards and has to attempt to get closer to 21 than the opponent. Commands are entered through a text parser and the player can choose to hit, double, split or stand. If the opponent gets an ace an insurance is offered which allows the player to bet on if it has blackjack. If taken the player will come out square if the opponent has blackjack and lose the insurance if it does not. The amount of money to have is decided ahead of a game and the game goes on until it has all been spent.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 120795,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/120795/blackjack/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 176,
+                    "name": "Exidy Sorcerer"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": {
+            "height": 480,
+            "image_url": "https://cdn.mobygames.com/screenshots/16222599-blackjack-exidy-sorcerer-title-screen.png",
+            "platforms": [
+                "Exidy Sorcerer"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/96a985d0-c1d6-11ed-ab6b-02420a000194.webp",
+            "width": 512
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Instructions",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16232757-blackjack-exidy-sorcerer-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8de04c38-c1d9-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Title screen",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16222599-blackjack-exidy-sorcerer-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/96a985d0-c1d6-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Winning the first bet",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16222752-blackjack-exidy-sorcerer-winning-the-first-bet.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9fdc74dc-c1d6-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Running out of money",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16222956-blackjack-exidy-sorcerer-running-out-of-money.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ae358122-c1d6-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Losing the insurance bet",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16222962-blackjack-exidy-sorcerer-losing-the-insurance-bet.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/af33c7a0-c1d6-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            }
+        ],
+        "title": "Blackjack"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Yahtzee</em> is an adaptation of the dice game. The game starts with the computer rolling five dice and the player can then choose to reroll any number of dice two times. Thereafter the player has to choose one of thirteen categories to score against. Bonus points are given for full houses, straights and yahtzee. The game goes on for thirteen rounds and the aim is to get as high a score as possible. The player uses the keyboard to play the game, by entering numbers to first select the dice to reroll and then to pick a category.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 25,
+                "name": "Isometric"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 120799,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/120799/yahtzee/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 176,
+                    "name": "Exidy Sorcerer"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": {
+            "height": 480,
+            "image_url": "https://cdn.mobygames.com/screenshots/16225094-yahtzee-exidy-sorcerer-title-screen.png",
+            "platforms": [
+                "Exidy Sorcerer"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/364a1d70-c1d7-11ed-ab6b-02420a000194.webp",
+            "width": 512
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Instructions",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16225091-yahtzee-exidy-sorcerer-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/36299776-c1d7-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Getting a score",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16225181-yahtzee-exidy-sorcerer-getting-a-score.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/41ea6432-c1d7-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Starting out by rerolling the dice",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16225187-yahtzee-exidy-sorcerer-starting-out-by-rerolling-the-dice.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4228f904-c1d7-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Title screen",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16225094-yahtzee-exidy-sorcerer-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/364a1d70-c1d7-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Categories are removed after every use",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16225184-yahtzee-exidy-sorcerer-categories-are-removed-after-every-use.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4208c8dc-c1d7-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            }
+        ],
+        "title": "Yahtzee"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Smart Alec</em> is a trivia game. The player is scored on how quickly the player answers a question. Wrong answers cost points. The game comes with seven different categories: science, geography, history, computers, T.V. and movies, English language and trivia for a total of over 200 questions.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 15,
+                "name": "Real-time"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 29,
+                "name": "Game show / trivia / quiz"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 71,
+                "name": "Geography"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 74,
+                "name": "History"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 86,
+                "name": "Science"
+            }
+        ],
+        "id": 198450,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/198450/smart-alec/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 176,
+                    "name": "Exidy Sorcerer"
+                },
+                "1979-10"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Smart Alec"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Blackjack</em> is a computer implementation of the classic casino card game. The game can be played alone against the computer or up to six friends. The usual rules apply as players try to get a card value as close to 21 without going over to win a round. Cards are shown on screen in full graphical detail.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            }
+        ],
+        "id": 207124,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/207124/blackjack/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 176,
+                    "name": "Exidy Sorcerer"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Blackjack"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Homerun</em> is a baseball simulation game for two players. Depending on who's at bat, one player controls the pitch and the other the timing of the bat. The characters in the game can then be seen running for the ball and around the pitch. The game features the basic baseball rules such as runs, balls, strikes, hits, outs and errors. All information is shown on the scoreboard.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 32,
+                "name": "Baseball"
+            }
+        ],
+        "id": 207125,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/207125/homerun/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 176,
+                    "name": "Exidy Sorcerer"
+                },
+                "1979-11"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Homerun"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Salvo</em> is a <a href=\"https://www.mobygames.com/group/8553/genre-board-game-battleship/\">Battleship variant</a>. The player plays against the computer. Both have five ships hidden in a 10x10 grid and fire at each other in an attempt to find and sink them. The screen displays the grid and all positions fired at with hits and misses.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 41,
+                "name": "Naval / watercraft"
+            }
+        ],
+        "id": 207126,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/207126/salvo/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 176,
+                    "name": "Exidy Sorcerer"
+                },
+                "1979-11"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Salvo"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Sorcerer Startrek</em> is a <a href=\"https://www.mobygames.com/group/7548/star-trek-variants/\">Star Trek variant</a>. The player must scan sectors of space to hunt down the Klingon cruisers with the Space Ship Enterprise and engage them into battle with their phasers and torpedoes.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 158,
+                "name": "Vehicle simulator"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 159,
+                "name": "Vehicular combat"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 207133,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/207133/sorcerer-startrek/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 176,
+                    "name": "Exidy Sorcerer"
+                },
+                "1979-11"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Sorcerer Startrek"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Sub</em> is an action game in which the player must drop depth charges to try to destroy a sub. The player determines the depth at which it explodes and the movements of the ship that drops them. The submarine is also a moving target adding to the difficulty of hitting it. The submarine increases speed after 10 charges.</p>\n<p>Sound is provided by placing an AM radio next to the computer.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 41,
+                "name": "Naval / watercraft"
+            }
+        ],
+        "id": 207137,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/207137/sub/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 176,
+                    "name": "Exidy Sorcerer"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Sub"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Touchdown</em> is a football simulation game. The game simulates a single game which can be played against the computer or another player. Players choose between different defensive and offensive plays. Each combination of plays has certain odds of succeeding. The display shows the position of the ball on the field and simulates the various passes, runs and kicks.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 31,
+                "name": "Football (American)"
+            }
+        ],
+        "id": 207192,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/207192/touchdown/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 176,
+                    "name": "Exidy Sorcerer"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Touchdown"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "Public Computing release",
+                "title": "Map"
+            }
+        ],
+        "description": "<p><em>U.S. Map</em> is a geographical quiz. The player is quizzed either about states and their capitals. The state's outlines are plotted on the computer screen.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 71,
+                "name": "Geography"
+            }
+        ],
+        "id": 207193,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/207193/us-map/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 176,
+                    "name": "Exidy Sorcerer"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "U.S. Map"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Atom</em> is a deductive puzzle game. Atoms are hidden in a black box. The player fires rays into the box. Depending on whether the rays hit or get into close proximity of atoms, they might be absorbed, deflected or go straight through. The player chooses the number of atoms in the black box.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            }
+        ],
+        "id": 207194,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/207194/atom/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 176,
+                    "name": "Exidy Sorcerer"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Atom"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Rabbit Hunt</em> is a tactical puzzle game in which the player must try to trap a rabbit in the far right of the play area. The rabbit wins if it manages to reach the far left. The player can move three dogs, but they may only move in orthogonal directions. The rabbit can also move diagonally.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 173,
+                "name": "Multiple units/characters control"
+            }
+        ],
+        "id": 207206,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/207206/rabbit-hunt/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 176,
+                    "name": "Exidy Sorcerer"
+                },
+                "1979-11"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Rabbit Hunt"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Presidents</em> is an educational game about presidents of the United States. The player can learn the names of the presidents and the order in which they served as president. There are also three facts available about each president. Game modes feature unscrambling names and graphic animations.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 74,
+                "name": "History"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 207,
+                "name": "North America"
+            }
+        ],
+        "id": 207207,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/207207/presidents/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 176,
+                    "name": "Exidy Sorcerer"
+                },
+                "1979-11"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Presidents"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>X and O</em> is a computer implementation of Tic-Tac-Toe. The game features multiple difficulty levels. The player and computers randomly take first turn. The game plays as expected with player and computer alternately putting their mark in a 3x3 grid. The first to get three in a row wins the game. Marks are placed by pressing the corresponding key on the numeric keypad.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 207219,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/207219/x-and-o/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 176,
+                    "name": "Exidy Sorcerer"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "X and O"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Famous Americans</em> is an educational game in which players are quizzed about famous American people (historic and contemporary for 1979). The player is presented with an anagram and must give the correct name. When answered incorrectly the players is shown up to three clues about who the person is. On the screen is a figure of Uncle Sam who will nod yes or no based on the answers given by the player.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 29,
+                "name": "Game show / trivia / quiz"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 74,
+                "name": "History"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 207,
+                "name": "North America"
+            }
+        ],
+        "id": 207221,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/207221/famous-americans/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 176,
+                    "name": "Exidy Sorcerer"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Famous Americans"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Concentration</em> is a memory game. Players take turns revealing two tiles on the screen. There are two of each tiles and if two matching tiles are revealed the player scores them and they are removed from the board. Once all tiles have been removed whoever scored the most sets wins the game.</p>\n<p>Included with the game is a 20\"x24\" color poster.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            }
+        ],
+        "id": 207254,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/207254/concentration/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 176,
+                    "name": "Exidy Sorcerer"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Concentration"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Lunar Lander</em> is a lunar landing simulation game. The player is shown a graphical display of the distance to the moon and must manage fuel and velocity to make a safe touchdown with the surface of the moon.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 158,
+                "name": "Vehicle simulator"
+            }
+        ],
+        "id": 207255,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/207255/lunar-lander/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 176,
+                    "name": "Exidy Sorcerer"
+                },
+                "1979-07"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Lunar Lander"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Craps</em> is a computer adaptation of the casino dice game. The player rolls dice and then tries to roll the same value again to win the bet. When rolling a seven or eleven the player loses.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 167,
+                "name": "Point and select"
+            }
+        ],
+        "id": 207261,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/207261/craps/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 176,
+                    "name": "Exidy Sorcerer"
+                },
+                "1979-06"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Craps"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Mastermind</em> is a code cracking game. The computer thinks of a code and the player must guess it. After each guess the player is informed of the number of correct digits in the correct position, and the number of correct digits in the wrong position. Using logic deduction the player tries to guess the code in as few guesses as possible.</p>\n<p>The game features two difficulty levels. The lower difficulty only uses the numbers 1 through 6 while the more difficult variant uses the numbers 1 through 9.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 207301,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/207301/mastermind/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 176,
+                    "name": "Exidy Sorcerer"
+                },
+                "1979-08"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Mastermind"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Billiards</em> is a graphical game simulating bumper pool. The player needs to pocket balls on a billiards table fitted with bumpers.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 89,
+                "name": "Pool / snooker"
+            }
+        ],
+        "id": 207306,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/207306/billiards/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 176,
+                    "name": "Exidy Sorcerer"
+                },
+                "1979-09"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Billiards"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Wampus</em> is a <a href=\"https://www.mobygames.com/group/6124/hunt-the-wumpus-variants/\">Hunt the Wumpus variant</a>. The player must hunt a Wampus which is hiding in a maze. The player can fire limited arrows into adjacent chambers to try to hit the monster, but must be aware for the monster to run into the player.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 61,
+                "name": "Hunting"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            }
+        ],
+        "id": 207307,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/207307/wampus/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 176,
+                    "name": "Exidy Sorcerer"
+                },
+                "1979-09"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Wampus"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Reversi</em> is a computer implementation of the board game <em>Othello</em> written in BASIC. Players take turns to place their marker in a grid. Enclosed markers are changed color (hollow or filled). Once all positions in the grid have been filled whoever owns the largest part of the board wins.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            }
+        ],
+        "id": 208120,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/208120/reversi/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 176,
+                    "name": "Exidy Sorcerer"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Reversi"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Draughts</em> is a computer implementation of the game of Checkers. The player plays against the computer. The typical game rules apply. Players can move their pieces diagonally over the board and remove pieces from play by jumping over them, provided there is space behind them.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            }
+        ],
+        "id": 208141,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/208141/draughts/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 176,
+                    "name": "Exidy Sorcerer"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Draughts"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Othello</em> is a computer implementation of the board game of the same name. Players take turns putting their tokens on the board. Any enclosed tokens change color. Once the entire board is filled the player who owns most of the tokens on the board wins the game.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            }
+        ],
+        "id": 208143,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/208143/othello/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 176,
+                    "name": "Exidy Sorcerer"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Othello"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Golf</em> is a golfing game. The player can try to reach par on a course with 18 different holes.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 35,
+                "name": "Golf"
+            }
+        ],
+        "id": 208163,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/208163/golf/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 176,
+                    "name": "Exidy Sorcerer"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Golf"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Martian</em> is an action game in which the player must use their space ship to destroy as many Martians as possible before getting shot themselves. Each shot Martian is worth points. Points are displayed on screen. The Martians fire back with their laser cannons.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 208166,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/208166/martian/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 176,
+                    "name": "Exidy Sorcerer"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Martian"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>The <em>Cognivox</em> is a hardware peripheral for the Exidy Sorcerer that allows for speech-to-text input and can speak sixteen different words. In addition the device can serve as a speaker to generate music and sound effects in computer programs.</p>\n<p>Included with the Cognivox is a bundle of software including the basic driver, two application program packs, a talking calculator and two games:</p>\n<ul>\n<li><em>Voth</em>/<em>Vothello</em> is a version of Othello which uses voice input for the player to dictate where the pieces should be placed.</li>\n<li><em>Voicetrap</em> is a lightcycle game which is voice activated. The computer and player try to box each other in. Multiple game speeds are provided.</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 170,
+                "name": "Voice control"
+            }
+        ],
+        "id": 208207,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/208207/cognivox-included-games/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 176,
+                    "name": "Exidy Sorcerer"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Cognivox (included games)"
+    }
+]

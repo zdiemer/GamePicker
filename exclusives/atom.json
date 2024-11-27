@@ -1,0 +1,2860 @@
+[
+    {
+        "alternate_titles": [
+            {
+                "description": "Alternative title",
+                "title": "Atom Adventures"
+            }
+        ],
+        "description": "<p><em>Adventures</em> is a collection of three text adventure games:</p>\n<ul>\n<li>Dungeon</li>\n<li>House</li>\n<li>Intergalactic</li>\n</ul>\n<p>Dungeon involves searching for treasure in a maze of caverns, tunnels and caves where both friendly and unfriendly monsters live. The player has to retrieve a certain amount of treasure and take it to the throne room. House also involves collecting treasure but this time in a haunted house full of ghosts. Here the treasure has to be delivered to the grand banqueting hall. In Intergalactic the player travels to distant parts of the galaxy and has to survive encounters with aliens while once again finding treasure that has to be taken home. The player interacts with the games by entering commands in the form of verbs and nouns, for example look, take knife, kill troll etc. Combat is common and the player can die.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 23,
+                "name": "Interactive fiction / text adventure"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 56949,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/56949/adventures/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 129,
+                    "name": "Atom"
+                },
+                "1982"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/7353398-adventures-atom-menu.png",
+            "platforms": [
+                "Atom"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/ab1f4578-abf5-11ed-83f5-02420a000134.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Showing inventory",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/3977893-adventures-atom-showing-inventory.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/94f8ce1c-aba1-11ed-a061-02420a00019d.webp",
+                "width": 256
+            },
+            {
+                "caption": "Start of Intergalactic",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/7371168-adventures-atom-start-of-intergalactic.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cb904cda-abf5-11ed-b075-02420a00012f.webp",
+                "width": 256
+            },
+            {
+                "caption": "Looking, picking up objects and showing current amount of treasure",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/7371186-adventures-atom-looking-picking-up-objects-and-showing-current-a.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cca9de88-abf5-11ed-b075-02420a00012f.webp",
+                "width": 256
+            },
+            {
+                "caption": "Fighting a stone troll, who dies",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/7371177-adventures-atom-fighting-a-stone-troll-who-dies.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cc222ea2-abf5-11ed-b075-02420a00012f.webp",
+                "width": 256
+            },
+            {
+                "caption": "Pop cultural references are all over the game",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/7371180-adventures-atom-pop-cultural-references-are-all-over-the-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cc4c7d9c-abf5-11ed-b075-02420a00012f.webp",
+                "width": 256
+            }
+        ],
+        "title": "Adventures"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Invader Force</em> is a <a href=\"https://www.mobygames.com/search/?q=Space+Invaders\">Space Invaders</a> clone. The player moves a laser cannon left and right and has to shoot down all aliens that move back and forth above him or her while at the same time avoid getting hit by their fire. This variant has the same features as the Taito original, including a mother ship that occasionally moves across the top of the screen and shields to hide behind. The game is endless and when all aliens have been killed another (more lethal) wave will take their place. The aim is simply to get as high a score as possible. The score per kill depends on the position of the alien. Aliens on the bottom two rows are worth only ten points while those on the top row are worth four times as much. The player has three lives when starting out but an extra life is earned when a full wave has been destroyed.</p>\n<p>There are six difficulty levels that determine the starting position of the aliens, their descent rate and their firing rate.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 56958,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/56958/invader-force/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 129,
+                    "name": "Atom"
+                },
+                "1981"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/16280684-invader-force-atom-start-screen.png",
+            "platforms": [
+                "Atom"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/849c1fc6-c1e8-11ed-ab6b-02420a000194.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "The mother ship appears",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16280693-invader-force-atom-the-mother-ship-appears.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/84f891a2-c1e8-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting out",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16280690-invader-force-atom-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/84dbc3e2-c1e8-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Start screen",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16280684-invader-force-atom-start-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/849c1fc6-c1e8-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "They're getting dangerously close",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16280687-invader-force-atom-theyre-getting-dangerously-close.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/84bd33e6-c1e8-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Shooting at the aliens",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16280699-invader-force-atom-shooting-at-the-aliens.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8544b50a-c1e8-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            }
+        ],
+        "title": "Invader Force"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>Another clone of <a href=\"https://www.mobygames.com/search/?q=Space+Invaders\">Space Invaders</a> with the usual plot: the Earth is under attack by aliens from outer space! Ranks and files of aliens sweep side to side, dropping one row each time they reach the edge of the screen. The player has a tank at the bottom of the screen that can move left and right, hiding behind bunkers (being gradually destroyed) and avoiding their fire, while having to shoot the aliens before they can land.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 56961,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/56961/atom-invaders/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 129,
+                    "name": "Atom"
+                },
+                "1981"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/12425644-atom-invaders-atom-title-screen.png",
+            "platforms": [
+                "Atom"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/0c59ac72-ac21-11ed-96e1-02420a00012d.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Killed several aliens",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12425650-atom-invaders-atom-killed-several-aliens.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0ca3c104-ac21-11ed-96e1-02420a00012d.webp",
+                "width": 256
+            },
+            {
+                "caption": "Title screen",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12425644-atom-invaders-atom-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0c59ac72-ac21-11ed-96e1-02420a00012d.webp",
+                "width": 256
+            },
+            {
+                "caption": "Game over",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12425273-atom-invaders-atom-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/061a024e-ac21-11ed-8d66-02420a000132.webp",
+                "width": 256
+            },
+            {
+                "caption": "Game start",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12425647-atom-invaders-atom-game-start.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0c7f7402-ac21-11ed-96e1-02420a00012d.webp",
+                "width": 256
+            }
+        ],
+        "title": "Atom Invaders"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>The objective of <em>Demon Dungeon</em> is to escape from a dungeon full of monsters. The game is text based and the player makes his way through the dungeon by typing directional shortcuts (N, E, S, W). The player starts at level 1 and to escape has to make it to level 5 and beyond. To advance a level the player has to find a secret passage. Each level of the dungeon consists of 50x50 cells and a map shows the player's position. Each cell on the map has a number that represents the likelihood of it containing something. This can be either treasure, magic stones or monsters. The game helps the player by showing his status as either red or blue. Red means that the player is moving in the right direction.</p>\n<p>When coming across a monster the player can do three actions: cast a spell, throw a magic stone or run away. Spells and magic stones have a 90% chance of killing the monster but only one spell can be used on each type of monster. Running away should only be used when the spell has been used and there are no magic stones left, since there is a 25% chance that the monster will follow and kill the player. The player only has one life and has to restart from the beginning when killed. Once a game has ended the player gets a score based on if he made it out alive and how much treasure he has collected. Before starting a game the player can choose a skill level between 1 and 50.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            }
+        ],
+        "id": 63476,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/63476/demon-dungeon/",
+        "num_votes": 2,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 129,
+                    "name": "Atom"
+                },
+                "1980-12"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/8275526-demon-dungeon-atom-instructions.png",
+            "platforms": [
+                "Atom"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/db632144-abfc-11ed-9941-02420a000133.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Found the passage - moving on to the next level",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8275355-demon-dungeon-atom-found-the-passage-moving-on-to-the-next-level.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/db53843c-abfc-11ed-82af-02420a000136.webp",
+                "width": 256
+            },
+            {
+                "caption": "Later level has more valuable treasure",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8273272-demon-dungeon-atom-later-level-has-more-valuable-treasure.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d9e30bfe-abfc-11ed-941d-02420a000132.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting out",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8275529-demon-dungeon-atom-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dbbfdb8c-abfc-11ed-9941-02420a000133.webp",
+                "width": 256
+            },
+            {
+                "caption": "Sometimes the actions have no effect",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8275364-demon-dungeon-atom-sometimes-the-actions-have-no-effect.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dca6ab02-abfc-11ed-82af-02420a000136.webp",
+                "width": 256
+            },
+            {
+                "caption": "Meeting and killing a wizard",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8275523-demon-dungeon-atom-meeting-and-killing-a-wizard.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/db17bf4c-abfc-11ed-9941-02420a000133.webp",
+                "width": 256
+            }
+        ],
+        "title": "Demon Dungeon"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Fruit Machine</em> is a gambling game simulating a simple slot machine. The player spins the reels by hitting return then uses keys 1 to 3 to hold or nudge the corresponding reels when the game gives the option to do so. Pressing 4 respins the nudges and delete cancels holds. The player starts out with five pounds and each spin costs 10p. Matching the first two reels is worth 20p. Three plums, cherries, grapes, pears and oranges are worth 40p while, three melons or bells are worth 100p and three bars are worth 200p.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            }
+        ],
+        "id": 64193,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/64193/fruit-machine/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 129,
+                    "name": "Atom"
+                },
+                "1981"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/8689607-fruit-machine-atom-title-screen.png",
+            "platforms": [
+                "Atom"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/c9cc23e6-ac00-11ed-8a97-02420a00012d.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Spinning the reels",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8689595-fruit-machine-atom-spinning-the-reels.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c9165e4e-ac00-11ed-8a97-02420a00012d.webp",
+                "width": 256
+            },
+            {
+                "caption": "Hold",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8689589-fruit-machine-atom-hold.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c8c11f24-ac00-11ed-8a97-02420a00012d.webp",
+                "width": 256
+            },
+            {
+                "caption": "Instructions, pt 2",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8689601-fruit-machine-atom-instructions-pt-2.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c96f75e2-ac00-11ed-8a97-02420a00012d.webp",
+                "width": 256
+            },
+            {
+                "caption": "Nudge option",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8689592-fruit-machine-atom-nudge-option.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c8eda5b2-ac00-11ed-8a97-02420a00012d.webp",
+                "width": 256
+            },
+            {
+                "caption": "Instructions, pt 1",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8689604-fruit-machine-atom-instructions-pt-1.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c9a4484e-ac00-11ed-8a97-02420a00012d.webp",
+                "width": 256
+            }
+        ],
+        "title": "Fruit Machine"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Swarm</em> is a variant of the arcade shooter <a href=\"https://www.mobygames.com/game/63361/astro-invader/\">Astro Invader</a>. Killer bees are swarming the earth and they are intent on destroying the player's gun base. The queen bee is indestructible and is positioned in the middle of the screen. From there she releases bees which position themselves in columns. Once a column is full the bees begin descending down towards the player who has to shoot at them to prevent them from crashing into them. One difference from Astro Invader is that the enemies here shoot at the player while in the column. When the queen has delivered 100 bees she flies away and returns with a new batch. The player has three lives and when they are all lost the game is over and the queen is able to land.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 64196,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/64196/swarm/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 129,
+                    "name": "Atom"
+                },
+                "1982"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/8690731-swarm-atom-title-screen-instructions-pt-1.png",
+            "platforms": [
+                "Atom"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/c7ac573e-ac00-11ed-af3d-02420a00012f.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "The queen leaves to get more bees",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8689616-swarm-atom-the-queen-leaves-to-get-more-bees.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ca47e15c-ac00-11ed-8a97-02420a00012d.webp",
+                "width": 256
+            },
+            {
+                "caption": "Title screen / instructions, pt 1",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8690731-swarm-atom-title-screen-instructions-pt-1.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c7ac573e-ac00-11ed-af3d-02420a00012f.webp",
+                "width": 256
+            },
+            {
+                "caption": "Game over and the queen can land",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8689610-swarm-atom-game-over-and-the-queen-can-land.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c9f55c98-ac00-11ed-8a97-02420a00012d.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting out",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8690725-swarm-atom-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c74c0280-ac00-11ed-af3d-02420a00012f.webp",
+                "width": 256
+            },
+            {
+                "caption": "Getting hit",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8689619-swarm-atom-getting-hit.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ca6c689c-ac00-11ed-8a97-02420a00012d.webp",
+                "width": 256
+            }
+        ],
+        "title": "Swarm"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Minefield</em> is a tank game where the player has to clear all the mines on the screen. The player sees the minefield from a overhead perspective and the tank automatically moves forward until it reaches a wall or the player changes the direction. Mines will appear all over the field and the player has to clear them by shooting at them. The problem is that this creates chain reactions when other mines are within the range of the detonating mines. The player therefore, not only has to avoid driving into mines on the ground, but to keep a distance when shooting at them. The player can't take too long though since the mines will self detonate when their timers run out. The tank also has limited amount of fuel. A level is cleared once all mines have been detonated. The player has three tanks at his disposal and when all of them have been blown to pieces the game is over.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 80,
+                "name": "Tank"
+            }
+        ],
+        "id": 64224,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/64224/minefield/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 129,
+                    "name": "Atom"
+                },
+                "1981"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/8698656-minefield-atom-start-screen.png",
+            "platforms": [
+                "Atom"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/dd56243e-ac00-11ed-9584-02420a000136.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Shooting at a mine",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8698641-minefield-atom-shooting-at-a-mine.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dbc2567e-ac00-11ed-9584-02420a000136.webp",
+                "width": 256
+            },
+            {
+                "caption": "Start screen",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8698656-minefield-atom-start-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dd56243e-ac00-11ed-9584-02420a000136.webp",
+                "width": 256
+            },
+            {
+                "caption": "Game over",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8698638-minefield-atom-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/db729756-ac00-11ed-9584-02420a000136.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting out - mines start popping up",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8698653-minefield-atom-starting-out-mines-start-popping-up.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dd0c9616-ac00-11ed-9584-02420a000136.webp",
+                "width": 256
+            },
+            {
+                "caption": "Mine exploding",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8698650-minefield-atom-mine-exploding.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dca720f6-ac00-11ed-9584-02420a000136.webp",
+                "width": 256
+            }
+        ],
+        "title": "Minefield"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Atom Man</em> is a <a href=\"https://www.mobygames.com/search/?q=Pac-Man\">Pac-Man</a> clone that makes few changes to the arcade original. The player has to collect all the dots in the maze without being caught by the ghosts (or atom men as they are called here) that are chasing him. Some dots are larger and when collected the roles are reversed as they allow the player to go after and eat the ghosts. A level is completed when all dots have been collected. This version does not have any fruit. Instead there's a Hopesoft logo that can be picked up for a large points reward. The player has three lives and another one is given when 10,000 points have been scored. Before a game the player can choose one of three skill levels.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 129,
+                "name": "Diagonal-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            }
+        ],
+        "id": 64279,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/64279/atom-man/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 129,
+                    "name": "Atom"
+                },
+                "1982"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/8750666-atom-man-atom-starting-out.png",
+            "platforms": [
+                "Atom"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/65238b18-ac01-11ed-9271-02420a000133.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Instead of fruit there's a Hopesoft logo",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8750660-atom-man-atom-instead-of-fruit-theres-a-hopesoft-logo.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/64a42a3a-ac01-11ed-9271-02420a000133.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting out",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8750666-atom-man-atom-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/65238b18-ac01-11ed-9271-02420a000133.webp",
+                "width": 256
+            },
+            {
+                "caption": "When a level is finished the screen flashes",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8708967-atom-man-atom-when-a-level-is-finished-the-screen-flashes.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/019461f8-ac01-11ed-9fde-02420a000132.webp",
+                "width": 256
+            },
+            {
+                "caption": "Stage almost cleared",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8708970-atom-man-atom-stage-almost-cleared.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/01c18afc-ac01-11ed-9fde-02420a000132.webp",
+                "width": 256
+            },
+            {
+                "caption": "Picking up a large dot",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8750663-atom-man-atom-picking-up-a-large-dot.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/64e59ab0-ac01-11ed-9271-02420a000133.webp",
+                "width": 256
+            }
+        ],
+        "title": "Atom Man"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "In-game title",
+                "title": "Astrocrunch"
+            },
+            {
+                "description": "Working title",
+                "title": "Letteroids"
+            }
+        ],
+        "description": "<p><em>Astro Warrior</em> is a shoot 'em up played from a top down perspective. The game's controls are different from other games of it's kind. The ship will automatically move forward once started and the player's input is limited to rotating it either left or right. </p>\n<p>The player's objective in each of the game's levels is to kill a certain number of aliens. There are four levels each with a different enemy and the number of kills required increase with the level. In addition to this the player has to keep track of the fuel level of the space ship. When running out of fuel a life is lost and to prevent this from happening the player has to move to a fuel dump in time. There are several fuel dumps on the screen but only one can be used at a certain time. The correct fuel dump is indicated next to the fuel meter in the HUD. Moving into the wrong fuel dump will lead to a crash and there will be one fuel source less in the game.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 75739,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/75739/astro-warrior/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 129,
+                    "name": "Atom"
+                },
+                "1982"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/15741474-astro-warrior-atom-title-screen.png",
+            "platforms": [
+                "Atom"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/a2ae2428-bed7-11ed-9c42-02420a000140.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Refuelling",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/15741399-astro-warrior-atom-refuelling.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9c62c6be-bed7-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Trying to shoot an alien",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/15741447-astro-warrior-atom-trying-to-shoot-an-alien.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a03fca84-bed7-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Game over",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/15741384-astro-warrior-atom-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9bb7bfe4-bed7-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Crashing",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/15741441-astro-warrior-atom-crashing.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a0096c50-bed7-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting out",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/15741465-astro-warrior-atom-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a1a01be0-bed7-11ed-9c42-02420a000140.webp",
+                "width": 256
+            }
+        ],
+        "title": "Astro Warrior"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "Included game",
+                "title": "Asteroids"
+            },
+            {
+                "description": "Included game",
+                "title": "Breakout"
+            },
+            {
+                "description": "Included game",
+                "title": "Sub Hunt"
+            }
+        ],
+        "description": "<p><em>Acornsoft Games Pack 1</em> is a collection of three games.</p>\n<ul>\n<li>\n<p><em>Asteroids</em> is a version of the arcade game and plays as can be expected with the player in control of a space ship that moves forward with thrust and can rotate to aim and shoot at the asteroids that move around the screen. There are four asteroids on the screen and when shot they split into smaller ones. The larger ones are worth one point and the small ones two.</p>\n</li>\n<li>\n<p><em>Sub Hunt</em> is a text based simulation game where the player is in command of a destroyer and has to destroy a submarine. For every turn the player is given the distance to the submarine and can decide the speed and course of the destroyer. The submarine is automatically destroyed when the destroyer gets within one mile's distance of it.</p>\n</li>\n<li>\n<p><em>Breakout</em> is a version of <a href=\"https://www.mobygames.com/search/?q=Atari\">Atari's</a> game with the <a href=\"https://www.mobygames.com/search/?q=Breakout\">same name</a>. It works the same with the player controlling a paddle that is used to hit bricks with a ball. For each brick the player earns points depending on how far off they are. Hitting the upper half will lead to increased speed and sending the ball through the wall will lead to the paddle shrinking. When all bricks are gone another set will appear. The player has three balls and game is over when they have all been lost.</p>\n</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 64,
+                "name": "Paddle / Pong"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 41,
+                "name": "Naval / watercraft"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 124,
+                "name": "War"
+            }
+        ],
+        "id": 78085,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/78085/acornsoft-games-pack-1/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 129,
+                    "name": "Atom"
+                },
+                "1981"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/4282923-acornsoft-games-pack-1-atom-starting-out-asteroids.png",
+            "platforms": [
+                "Atom"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/9fafc40e-abac-11ed-9ae2-02420a0001a0.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Starting out (Breakout)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4282445-acornsoft-games-pack-1-atom-starting-out-breakout.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9af65f40-abac-11ed-9ae2-02420a0001a0.webp",
+                "width": 256
+            },
+            {
+                "caption": "Breaking some bricks (Breakout)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4282273-acornsoft-games-pack-1-atom-breaking-some-bricks-breakout.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/99548efa-abac-11ed-9ae2-02420a0001a0.webp",
+                "width": 256
+            },
+            {
+                "caption": "Title screen (Breakout)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4282624-acornsoft-games-pack-1-atom-title-screen-breakout.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9c8e58da-abac-11ed-9ae2-02420a0001a0.webp",
+                "width": 256
+            },
+            {
+                "caption": "Shooting and destroying an asteroid (Asteroids)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4284091-acornsoft-games-pack-1-atom-shooting-and-destroying-an-asteroid-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ab5b8a86-abac-11ed-b951-02420a000197.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting out (Asteroids)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4282923-acornsoft-games-pack-1-atom-starting-out-asteroids.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9fafc40e-abac-11ed-9ae2-02420a0001a0.webp",
+                "width": 256
+            }
+        ],
+        "title": "Acornsoft Games Pack 1"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Acornsoft Games Pack 2</em> is a collection of three games.</p>\n<ul>\n<li>\n<p><em>Dogfight</em> is a flight combat game similar to the arcade game <a href=\"https://www.mobygames.com/game/70393/biplane/\">Biplane</a> and the console game <a href=\"https://www.mobygames.com/game/22898/videocart-4-spitfire/\">Spitfire</a>. The game is for two players only with no AI option available. The aim for each player is to simply shoot down the opponent without crashing into the ground or the top of the screen. The first player to reach a score of 100 wins the game.</p>\n</li>\n<li>\n<p><em>Mastermind</em> is an adaptation of the board game with the same name or the pencil game Bulls and Cows. It's played against an AI opponent whose four digit code the player has to guess on. For each guess the player gets to know the number of bulls (correct digits in the right position) and the number of cows (correct digits in the wrong position). At the same time the AI guesses on player's code who enters the numbers of bulls and cows manually.</p>\n</li>\n<li>\n<p><em>Zombie</em> is a variant of <a href=\"https://www.mobygames.com/search/?q=Chase\">Chase</a> (or <a href=\"https://www.mobygames.com/search/?q=Robots\">Robots</a>). The player is a survivor of a plane crash who finds himself surrounded by zombies. There are also swamps and the aim of the game is to lure the zombies into the swamps. The game is turn based and the player can move one square at a time in any direction and the zombies will do the same. The player dies when caught by a zombie and wins when all zombies have moved into the swamps.</p>\n</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 78088,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/78088/acornsoft-games-pack-2/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 129,
+                    "name": "Atom"
+                },
+                "1981"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/4295310-acornsoft-games-pack-2-atom-title-screen-dogfight.png",
+            "platforms": [
+                "Atom"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/1d4d3022-abad-11ed-b165-02420a000198.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "One plane chasing another (Dogfight)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4294816-acornsoft-games-pack-2-atom-one-plane-chasing-another-dogfight.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/17ecb382-abad-11ed-b165-02420a000198.webp",
+                "width": 256
+            },
+            {
+                "caption": "A zombie falling into a swamp (Zombie)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4296988-acornsoft-games-pack-2-atom-a-zombie-falling-into-a-swamp-zombie.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2e005c0a-abad-11ed-aa5a-02420a0001a0.webp",
+                "width": 256
+            },
+            {
+                "caption": "Winning the game (Mastermind)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4294404-acornsoft-games-pack-2-atom-winning-the-game-mastermind.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/13fe7a44-abad-11ed-b165-02420a000198.webp",
+                "width": 256
+            },
+            {
+                "caption": "The computer will notice if you cheat (Mastermind)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4311199-acornsoft-games-pack-2-atom-the-computer-will-notice-if-you-chea.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c1f997f0-abad-11ed-81e3-02420a000199.webp",
+                "width": 256
+            },
+            {
+                "caption": "Computer thinking (Mastermind)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4294548-acornsoft-games-pack-2-atom-computer-thinking-mastermind.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/156e271c-abad-11ed-b165-02420a000198.webp",
+                "width": 256
+            }
+        ],
+        "title": "Acornsoft Games Pack 2"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Acornsoft Games Pack 3</em> is a collection of three games.</p>\n<ul>\n<li>\n<p><em>Rat Trap</em> is a two player action game where each player controls a rat. It plays similar to a <a href=\"https://www.mobygames.com/search/?q=Snake\">Snake game</a> with each rat leaving behind a trail albeit with freer movement not limited to ninety degrees turns. Points are earned every time the opponent is killed which happens whenever it crashes into the tails of either rat.</p>\n</li>\n<li>\n<p><em>Lunar Lander</em> is a version of the <a href=\"https://www.mobygames.com/search/?q=Lunar+Lander\">arcade game</a> with the same name (as well as earlier mainframe variants). The player's task is to land a spacecraft on the base of a crater and to succeed the craft has to touch down with a rate of descent of less than 20. Touching any of the sides of the crater will lead to a crash and the game has to be restarted. Like its namesakes thrust controls are used to steer the craft and prevent it from falling too fast.</p>\n</li>\n<li>\n<p><em>Black Box</em> is an adaptation of the board game with the same name. It's played on a 8 by 8 grid where the player has to deduce the positions of four atoms. This is done by firing rays into the grid and observe if they are reflected or absorbed. The game uses three modes: edge mode where rays are shot from the sides, atom mode where the player picks the positions of the atoms and the guess mode where the solution is sent and the computer will indicate which guesses are correct.</p>\n</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            }
+        ],
+        "id": 78110,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/78110/acornsoft-games-pack-3/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 129,
+                    "name": "Atom"
+                },
+                "1981"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/4304375-acornsoft-games-pack-3-atom-title-screen-rat-trap.png",
+            "platforms": [
+                "Atom"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/7a492614-abad-11ed-8d2b-02420a00019e.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Guess mode (Black Box)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4305029-acornsoft-games-pack-3-atom-guess-mode-black-box.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/813fe8e0-abad-11ed-8d2b-02420a00019e.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting out (Lunar Lander)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4304880-acornsoft-games-pack-3-atom-starting-out-lunar-lander.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7fb1fe64-abad-11ed-8d2b-02420a00019e.webp",
+                "width": 256
+            },
+            {
+                "caption": "Crashing (Lunar Lander)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4304586-acornsoft-games-pack-3-atom-crashing-lunar-lander.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7c6a11d8-abad-11ed-8d2b-02420a00019e.webp",
+                "width": 256
+            },
+            {
+                "caption": "Title screen (Rat Trap)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4304375-acornsoft-games-pack-3-atom-title-screen-rat-trap.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7a492614-abad-11ed-8d2b-02420a00019e.webp",
+                "width": 256
+            },
+            {
+                "caption": "Trying to guide the craft to the bottom (Lunar Lander)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4304743-acornsoft-games-pack-3-atom-trying-to-guide-the-craft-to-the-bot.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7e336f6e-abad-11ed-8d2b-02420a00019e.webp",
+                "width": 256
+            }
+        ],
+        "title": "Acornsoft Games Pack 3"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Acornsoft Games Pack 4</em> is a collection of three games.</p>\n<ul>\n<li>\n<p><em>Star Trek</em> is a version of the <a href=\"https://www.mobygames.com/search/?q=Star+Trek\">mainframe game</a> with the same name. The player is in command of the Enterprise and has to clear the galaxy of Klingons within a given time limit. The galaxy consists of 8x8 sectors with each sector containing 8x8 quadrants that the player can navigate the Enterprise through by entering text commands. The warp drive command is used to move with the player entering distance and course. Upon contact with Klingons they can be battled with phasers or photon torpedoes.</p>\n</li>\n<li>\n<p><em>Four Row</em> is an adaptation of the board game Connect Four. It's a one player game played against an AI opponent. Players drop marbles on a board and the first one to get a row of four marbles horizontally, vertically or diagonally wins.</p>\n</li>\n<li>\n<p><em>Space Attack</em> is a fixed screen shoot 'em up where the player has to defend Earth from an alien invasion. There are ten levels that get increasingly harder. The invaders consist of three different ship types: command ships, decoy ships and gunner ships. The commanders lead the invasion and are invulnerable. When all other ships are destroyed they will flee and reappear with another wave. Command ships and gunner ships fire at the player with the latter having a blast radius that the player has to avoid. Decoy ships attempt to land and when they do they obstruct the player's movement.</p>\n</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 78123,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/78123/acornsoft-games-pack-4/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 129,
+                    "name": "Atom"
+                },
+                "1981"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/4319421-acornsoft-games-pack-4-atom-title-screen-star-trek.png",
+            "platforms": [
+                "Atom"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/17554a6e-abae-11ed-9ae2-02420a0001a0.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Starting out (Four Row)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4318399-acornsoft-games-pack-4-atom-starting-out-four-row.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0c8a2ff0-abae-11ed-9ae2-02420a0001a0.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting out (Star Trek)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4319287-acornsoft-games-pack-4-atom-starting-out-star-trek.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1604e05c-abae-11ed-9ae2-02420a0001a0.webp",
+                "width": 256
+            },
+            {
+                "caption": "Docking at a base (Star Trek)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4319140-acornsoft-games-pack-4-atom-docking-at-a-base-star-trek.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1493a7c6-abae-11ed-9ae2-02420a0001a0.webp",
+                "width": 256
+            },
+            {
+                "caption": "Game in colour (Four Row)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4321131-acornsoft-games-pack-4-atom-game-in-colour-four-row.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/287a7e68-abae-11ed-a13c-02420a00019f.webp",
+                "width": 256
+            },
+            {
+                "caption": "Shooting a torpedo (Star Trek)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4318989-acornsoft-games-pack-4-atom-shooting-a-torpedo-star-trek.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/12e1390c-abae-11ed-9ae2-02420a0001a0.webp",
+                "width": 256
+            }
+        ],
+        "title": "Acornsoft Games Pack 4"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Acornsoft Games Pack 5</em> is a collection of three games.</p>\n<ul>\n<li>\n<p><em>Invaders</em> is a variant of the arcade game <a href=\"https://www.mobygames.com/search/?q=Space+Invaders\">Space Invaders</a>. It works like any other version of the game with the player moving left and right along the bottom and shooting at the aliens above. Features from the arcade game such as barriers and saucers are retained. The player has three lives and there are three different invaders with different score values.</p>\n</li>\n<li>\n<p><em>Wumpus</em> is a variant of the <a href=\"https://www.mobygames.com/game/63723/wumpus/\">mainframe game</a> with the same name. The game is entirely text based and the player moves between caves by entering the caves' numbers. The objective is to find and kill the wumpus which can be done by shooting one of three arrows into the room where it is believed to hide. Some caves contain pits that one can fall down into and bats that transport the player to another cave.</p>\n</li>\n<li>\n<p><em>Reversi</em> is an adaptation of the board game also known as Othello. It can be played by one or two human players or between two AI players. Like the board game it is played on a 8x8 board where players take turns laying discs. The aim is to trap the opponent's discs so that they change to the opposite colour. The player with the most discs at the end wins the game.</p>\n</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 78133,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/78133/acornsoft-games-pack-5/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 129,
+                    "name": "Atom"
+                },
+                "1981"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/4325350-acornsoft-games-pack-5-atom-title-screen-invaders.png",
+            "platforms": [
+                "Atom"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/53c644d0-abae-11ed-9505-02420a00019c.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Starting out (Invaders)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4325195-acornsoft-games-pack-5-atom-starting-out-invaders.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5247c386-abae-11ed-9505-02420a00019c.webp",
+                "width": 256
+            },
+            {
+                "caption": "End game in colour (Reversi)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4325243-acornsoft-games-pack-5-atom-end-game-in-colour-reversi.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/52940304-abae-11ed-b9a3-02420a000197.webp",
+                "width": 256
+            },
+            {
+                "caption": "Saucer appearing (Invaders)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4325045-acornsoft-games-pack-5-atom-saucer-appearing-invaders.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/50b19d4e-abae-11ed-9505-02420a00019c.webp",
+                "width": 256
+            },
+            {
+                "caption": "Title screen in colour (Invaders)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4327919-acornsoft-games-pack-5-atom-title-screen-in-colour-invaders.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6f569a60-abae-11ed-93d8-02420a000198.webp",
+                "width": 256
+            },
+            {
+                "caption": "Game in colour (Reversi)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4325419-acornsoft-games-pack-5-atom-game-in-colour-reversi.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5447980a-abae-11ed-b9a3-02420a000197.webp",
+                "width": 256
+            }
+        ],
+        "title": "Acornsoft Games Pack 5"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>3-D Noughts and Crosses</em> is an adaptation of the board game Qubic which is commonly known as 3D Tic-Tac-Toe. The game plays like the original pencil game Tic-Tac-Toe but adds an extra dimension. Despite the title this version does not render the graphics in 3D, but has the four boards placed side by side. The concept is still the same, though, with the player needing to get four in a row either on a single board, vertically in a column or diagonally through the boards. It is played against an AI opponent whose level can be selected from one to five. The game is entirely played by entering coordinates with the keyboard.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 78187,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/78187/3-d-noughts-and-crosses/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 129,
+                    "name": "Atom"
+                },
+                "1980"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/4448941-3-d-noughts-and-crosses-atom-options-screen.png",
+            "platforms": [
+                "Atom"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/51ce9eac-abb3-11ed-8d2b-02420a00019e.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Computer winning",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4449073-3-d-noughts-and-crosses-atom-computer-winning.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/53705070-abb3-11ed-8d2b-02420a00019e.webp",
+                "width": 256
+            },
+            {
+                "caption": "Player winning",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4448546-3-d-noughts-and-crosses-atom-player-winning.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4dac6f52-abb3-11ed-8d2b-02420a00019e.webp",
+                "width": 256
+            },
+            {
+                "caption": "Game in progress",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4448684-3-d-noughts-and-crosses-atom-game-in-progress.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4ed324ca-abb3-11ed-8d2b-02420a00019e.webp",
+                "width": 256
+            },
+            {
+                "caption": "Game in colour",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4363069-3-d-noughts-and-crosses-atom-game-in-colour.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dfc055d8-abaf-11ed-ba50-02420a000199.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting out",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4448805-3-d-noughts-and-crosses-atom-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5020ec40-abb3-11ed-8d2b-02420a00019e.webp",
+                "width": 256
+            }
+        ],
+        "title": "3-D Noughts and Crosses"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Acornsoft Games Pack 6</em> is a collection of three games.</p>\n<ul>\n<li>\n<p><em>Dodgems</em> is a version of the arcade game <a href=\"https://www.mobygames.com/search/?q=Head+On\">Head On</a>. The player races a car around a track consisting of five lanes and has to collect all the dots. From the opposite direction comes another car that attempts to crash into the player's car. This has to be avoided by switching lanes which can only be done in the middle of each straight.</p>\n</li>\n<li>\n<p><em>Simon</em> is a version of the electronic game with the same name. The screen is split up into four squares which are flashing in a sequence. The player's task is to reproduce the sequence by pressing the keys that correspond to the squares (r, y, c, b).</p>\n</li>\n<li>\n<p><em>Amoeba</em> is a puzzle game for one to four players. The game is played on a grid on which the players have to create a pattern that matches a shape displayed by the computer. The player moves two pointers along the edges of the grid and by pressing a key the connections at the specified corner are changed.</p>\n</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            }
+        ],
+        "id": 79399,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/79399/acornsoft-games-pack-6/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 129,
+                    "name": "Atom"
+                },
+                "1981"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/2173646-acornsoft-games-pack-6-atom-starting-out-dodgems.png",
+            "platforms": [
+                "Atom"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/054d1d7e-ab7c-11ed-b165-02420a000198.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Title screen (Simon)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/2163787-acornsoft-games-pack-6-atom-title-screen-simon.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/eac4be12-ab7b-11ed-96f9-02420a00019a.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting out (Amoeba)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/3380019-acornsoft-games-pack-6-atom-starting-out-amoeba.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2982029c-ab8e-11ed-aecf-02420a000198.webp",
+                "width": 256
+            },
+            {
+                "caption": "Getting a score (Simon)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/2167074-acornsoft-games-pack-6-atom-getting-a-score-simon.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f3f85a02-ab7b-11ed-bc1c-02420a00019a.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting out (Dodgems)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/2173646-acornsoft-games-pack-6-atom-starting-out-dodgems.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/054d1d7e-ab7c-11ed-b165-02420a000198.webp",
+                "width": 256
+            },
+            {
+                "caption": "Game in progress 1 (Simon)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/2172798-acornsoft-games-pack-6-atom-game-in-progress-1-simon.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/032fefe4-ab7c-11ed-a13c-02420a00019f.webp",
+                "width": 256
+            }
+        ],
+        "title": "Acornsoft Games Pack 6"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Acornsoft Games Pack 7</em> is a collection of three games.</p>\n<ul>\n<li>\n<p><em>Green Things</em> is a text based strategy game where the player has to kill alien life forms aboard a space ship. The ship contains a number of rooms linked by corridors and the player has to move from room to room, pick up weapons and kill the aliens. The effects of the weapons on the aliens are unknown and the player has to figure that out. Aliens that are not dealt with will grow, lay eggs and move around.</p>\n</li>\n<li>\n<p><em>Ballistics</em> is an <a href=\"https://www.mobygames.com/search/?q=Artillery\">Artillery</a> variant that is played by two players who take turns firing shells at each other. Shots are taken by entering the velocity of the shell followed by the initial angle of the shell. The direction and velocity of the wind and the shape of the hill have to be taken into account.</p>\n</li>\n<li>\n<p><em>Snake</em> is a typical variant of a <a href=\"https://www.mobygames.com/search/?q=Snake\">snake game</a>. The aim is to eat digits and the length of the snake will then be increased by the value of the digit. The game is lost upon colliding with a wall or the body of the snake.</p>\n</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 143,
+                "name": "Artillery"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 82050,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/82050/acornsoft-games-pack-7/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 129,
+                    "name": "Atom"
+                },
+                "1981"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/5330661-acornsoft-games-pack-7-atom-title-screen-green-things.png",
+            "platforms": [
+                "Atom"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/647bfb58-abdb-11ed-8437-02420a0001b0.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Starting out (Green Things)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/5330549-acornsoft-games-pack-7-atom-starting-out-green-things.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/62bb226c-abdb-11ed-8437-02420a0001b0.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting out (Snake)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/5332196-acornsoft-games-pack-7-atom-starting-out-snake.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7be76afc-abdb-11ed-ad34-02420a0001b3.webp",
+                "width": 256
+            },
+            {
+                "caption": "Title screen (Snake)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/5329832-acornsoft-games-pack-7-atom-title-screen-snake.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/57039396-abdb-11ed-8437-02420a0001b0.webp",
+                "width": 256
+            },
+            {
+                "caption": "Title screen (Green Things)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/5330661-acornsoft-games-pack-7-atom-title-screen-green-things.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/647bfb58-abdb-11ed-8437-02420a0001b0.webp",
+                "width": 256
+            },
+            {
+                "caption": "Attacking with comm. beamer (Green Things)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/5330194-acornsoft-games-pack-7-atom-attacking-with-comm-beamer-green-thi.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5d486c18-abdb-11ed-8437-02420a0001b0.webp",
+                "width": 256
+            }
+        ],
+        "title": "Acornsoft Games Pack 7"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Acornsoft Games Pack 8</em> is a collection of three games.</p>\n<ul>\n<li>\n<p><em>Stargate</em> is a fixed screen shoot 'em up. Three different types of enemies (gliders, swoopers and divers) warp through stargates located at the top of the screen and will move towards the player ship at the bottom. The aim is simply to shoot them down before they do so. When a stargate opens the player can disable it temporarily by shooting it before an alien appears.</p>\n</li>\n<li>\n<p><em>Gomoku</em> is an adaptation of the Japanese board game. It's for one player against an AI opponent who compete in getting five counters in a row. The game is played by moving a cursor over the board to place counters. The program keeps a score over multiple games.</p>\n</li>\n<li>\n<p><em>Robots</em> is a variant of the Unix game with the same name. The player controls a character that is surrounded by robots who will follow every move made. The aim of the game is to lure the robots into potholes where they will be destroyed.</p>\n</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 82130,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/82130/acornsoft-games-pack-8/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 129,
+                    "name": "Atom"
+                },
+                "1981"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/5411848-acornsoft-games-pack-8-atom-title-screen-with-instructions-starg.png",
+            "platforms": [
+                "Atom"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/87dd11cc-abe5-11ed-98f4-02420a00010c.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Getting killed (Robots)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/5413139-acornsoft-games-pack-8-atom-getting-killed-robots.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/99820108-abe5-11ed-abf4-02420a000114.webp",
+                "width": 256
+            },
+            {
+                "caption": "Game over (Stargate)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/5415428-acornsoft-games-pack-8-atom-game-over-stargate.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b9b2645e-abe5-11ed-98f4-02420a00010c.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting out (Gomoku)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/5413004-acornsoft-games-pack-8-atom-starting-out-gomoku.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/97da549a-abe5-11ed-b0bf-02420a000113.webp",
+                "width": 256
+            },
+            {
+                "caption": "AI won (Gomoku)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/5413543-acornsoft-games-pack-8-atom-ai-won-gomoku.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9f10ceec-abe5-11ed-abf4-02420a000114.webp",
+                "width": 256
+            },
+            {
+                "caption": "Aliens attacking (Stargate)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/5415397-acornsoft-games-pack-8-atom-aliens-attacking-stargate.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b97aa3fc-abe5-11ed-868b-02420a00010e.webp",
+                "width": 256
+            }
+        ],
+        "title": "Acornsoft Games Pack 8"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Acornsoft Games Pack 9</em> is a collection of three games.</p>\n<ul>\n<li>\n<p><em>Snapper</em> is a <a href=\"https://www.mobygames.com/search/?q=Pac-Man\">Pac-Man</a> variant. The player controls Snapper through the maze and has to eat all the dots while avoiding the creatures that are chasing. Eating crosses give invulnerable allowing the Snapper to eat the creatures for a short while. Snapper was also released for the <a href=\"https://www.mobygames.com/game/62787/snapper/\">BBC Micro as a standalone title</a>.</p>\n</li>\n<li>\n<p><em>Minotaur</em> is a first person maze game where the player's task is to transfer five gold bars from their treasure chests to a wall safe. At the same time there is a minotaur that is trying to kill the player. As the minotaur gets closer a tone is emitted that gets higher the closer it gets. When it's really close the player can choose to drop a gold bar. The minotaur will then take it and return it to a chest before starting the chase again.</p>\n</li>\n<li>\n<p><em>Babies</em> is a variant of the Game &amp; Watch game <a href=\"https://www.mobygames.com/search/?q=Fire!\">Fire!</a> The player's task is to rescue babies that are falling from a burning building. This is done by moving a trampoline left and right and a baby is safe upon reaching the right edge of the screen. The game goes on until three babies have been missed.</p>\n</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            }
+        ],
+        "id": 82140,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/82140/acornsoft-games-pack-9/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 129,
+                    "name": "Atom"
+                },
+                "1981"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/5419539-acornsoft-games-pack-9-atom-starting-out-snapper.png",
+            "platforms": [
+                "Atom"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/f0443600-abe5-11ed-82f3-02420a000111.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Level cleared (Snapper)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/5420229-acornsoft-games-pack-9-atom-level-cleared-snapper.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f92451ec-abe5-11ed-8dc4-02420a000113.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting out (Snapper)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/5419539-acornsoft-games-pack-9-atom-starting-out-snapper.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f0443600-abe5-11ed-82f3-02420a000111.webp",
+                "width": 256
+            },
+            {
+                "caption": "Seeing a chest in the distance (Minotaur)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/5420870-acornsoft-games-pack-9-atom-seeing-a-chest-in-the-distance-minot.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/01f4ad26-abe6-11ed-8dc4-02420a000113.webp",
+                "width": 256
+            },
+            {
+                "caption": "Getting killed (Snapper)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/5419759-acornsoft-games-pack-9-atom-getting-killed-snapper.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f3810532-abe5-11ed-8dc4-02420a000113.webp",
+                "width": 256
+            },
+            {
+                "caption": "Encounter with minotaur (Minotaur)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/5419166-acornsoft-games-pack-9-atom-encounter-with-minotaur-minotaur.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/eb320246-abe5-11ed-82f3-02420a000111.webp",
+                "width": 256
+            }
+        ],
+        "title": "Acornsoft Games Pack 9"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Acornsoft Games Pack 10</em> is a collection of ten games.</p>\n<ul>\n<li>\n<p><em>Breakout</em> is variant of the arcade game with the same name where a bat is used to destroy bricks with a ball.</p>\n</li>\n<li>\n<p><em>Hectic</em> is a variant of the arcade game <a href=\"https://www.mobygames.com/game/63187/avalanche/\">Avalanche</a> where the player has to catch falling bricks so that they do not build up to the height of the paddle.</p>\n</li>\n<li>\n<p><em>Mastermind</em> is an adaptation of the board game with the same name where the player gets ten attempts to figure out a four digit code.</p>\n</li>\n<li>\n<p><em>Ski</em> is a skiing game where the player has to ski down a mountain and reach home safely without hitting any trees.</p>\n</li>\n<li>\n<p><em>Snake</em> is a variant of a <a href=\"https://www.mobygames.com/search/?q=Snake\">snake game</a> where the player has to eat food that causes the snake to grow while avoiding colliding with walls or body.</p>\n</li>\n<li>\n<p><em>Track</em> is a racing game where the player has to drive a car along a vertically scrolling race track without hitting any obstacles.</p>\n</li>\n<li>\n<p><em>Simon</em> is an adaptation of the electronic game with the same name where the player sees letters flashing and then has to enter the correct sequence.</p>\n</li>\n<li>\n<p><em>Squash</em> is a <a href=\"https://www.mobygames.com/search/?q=Pong\">Pong</a>-like game based on the sport where the player has to hit the walls as many times as possible before missing fifteen times.</p>\n</li>\n<li>\n<p><em>Moon</em> is a variant of Lunar Lander where thrust controls are used to land a lunar module safely in the bottom of a crater.</p>\n</li>\n<li>\n<p><em>Bombs-Away</em> is a variant of an artillery game where two players take turns shooting projectiles over a mountain in an attempt to hit the opponent.</p>\n</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 143,
+                "name": "Artillery"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 64,
+                "name": "Paddle / Pong"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 95,
+                "name": "Snowboarding / skiing"
+            }
+        ],
+        "id": 82163,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/82163/acornsoft-games-pack-10/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 129,
+                    "name": "Atom"
+                },
+                "1981"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/5442428-acornsoft-games-pack-10-atom-starting-out-breakout.png",
+            "platforms": [
+                "Atom"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/77355c3e-abe6-11ed-a599-02420a000132.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Game over (Hectic)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/5442582-acornsoft-games-pack-10-atom-game-over-hectic.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/75afb1d4-abe6-11ed-9eb0-02420a000136.webp",
+                "width": 256
+            },
+            {
+                "caption": "Game over (Squash)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/5438307-acornsoft-games-pack-10-atom-game-over-squash.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/72d9105e-abe6-11ed-b6e7-02420a000135.webp",
+                "width": 256
+            },
+            {
+                "caption": "Crashing (Snake)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/5440396-acornsoft-games-pack-10-atom-crashing-snake.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/773ff32e-abe6-11ed-9c12-02420a00012f.webp",
+                "width": 256
+            },
+            {
+                "caption": "Game in progress (Squash)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/5438310-acornsoft-games-pack-10-atom-game-in-progress-squash.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/73012b52-abe6-11ed-b6e7-02420a000135.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting out (Mastermind)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/5442585-acornsoft-games-pack-10-atom-starting-out-mastermind.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/75d8e59a-abe6-11ed-9eb0-02420a000136.webp",
+                "width": 256
+            }
+        ],
+        "title": "Acornsoft Games Pack 10"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "Instructions title",
+                "title": "Atom Life"
+            }
+        ],
+        "description": "<p><em>Acornsoft Life</em> is an implementation of Conway's Game of Life. The player draws patterns by moving a cursor over the screen and upon pressing the return key the patterns will start to evolve based on three rules:</p>\n<ul>\n<li>If an empty square is surrounded by exactly three organisms a new one is born.</li>\n<li>If an organism is surrounded by four or more organisms it dies of overcrowding.</li>\n<li>If an organism has less that one neighbour it dies of loneliness.</li>\n</ul>\n<p>There are seven predefined pattern that the player can add in any orientation to any position of the screen:</p>\n<ul>\n<li>Glider which moves diagonally</li>\n<li>Small spaceship which moves horizontally or vertically</li>\n<li>Flying machine which moves horizontally or vertically</li>\n<li>Glider gun which fire out gliders</li>\n<li>Queen bee which is an oscillating shape</li>\n<li>15 cycle which is an oscillator with a period of 15</li>\n<li>Eater which eats various small blocks of life</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            }
+        ],
+        "id": 82283,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/82283/acornsoft-life/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 129,
+                    "name": "Atom"
+                },
+                "1981"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/5540117-acornsoft-life-atom-starting-out-with-drawing-some-lines.png",
+            "platforms": [
+                "Atom"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/44efebf8-abe7-11ed-a599-02420a000132.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "The game can be run in four resolutions - this is the highest (256x192)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/5540111-acornsoft-life-atom-the-game-can-be-run-in-four-resolutions-this.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/44aa07b4-abe7-11ed-a599-02420a000132.webp",
+                "width": 256
+            },
+            {
+                "caption": "Then we press enter and the thing start evolving",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/5540114-acornsoft-life-atom-then-we-press-enter-and-the-thing-start-evol.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/44ce10a0-abe7-11ed-a599-02420a000132.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting out with drawing some lines",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/5540117-acornsoft-life-atom-starting-out-with-drawing-some-lines.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/44efebf8-abe7-11ed-a599-02420a000132.webp",
+                "width": 256
+            },
+            {
+                "caption": "Placing all the predefined patterns on the screen",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/5540126-acornsoft-life-atom-placing-all-the-predefined-patterns-on-the-s.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/456f9268-abe7-11ed-a599-02420a000132.webp",
+                "width": 256
+            },
+            {
+                "caption": "Predefined patterns evolving",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/5540123-acornsoft-life-atom-predefined-patterns-evolving.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/455097fa-abe7-11ed-a599-02420a000132.webp",
+                "width": 256
+            }
+        ],
+        "title": "Acornsoft Life"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Warlords</em> is a variant of the <a href=\"https://www.mobygames.com/search/?q=Warlords\">Atari arcade game</a> with the same name. Unlike the original arcade version which supports up to four players, this version is for two players or one player against the AI. Each player has a castle that is protected by a wall made up of bricks. By hitting a ball with a paddle (similar to Pong) the players attempt to break down the opponent's wall and hit the crest in the centre. Hitting the crest leads to winning the round (in a two player game) or advancing to the next level (in a one player game). When playing a two player game the number of rounds are selected between one to nine.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 64,
+                "name": "Paddle / Pong"
+            }
+        ],
+        "id": 121818,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/121818/warlords/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 129,
+                    "name": "Atom"
+                },
+                "1982"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/8197453-warlords-atom-title-screen.png",
+            "platforms": [
+                "Atom"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/44b60c70-abfc-11ed-a599-02420a000132.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Winning by hitting the crest",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8203084-warlords-atom-winning-by-hitting-the-crest.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4cd54fec-abfc-11ed-b950-02420a00012d.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting out",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8198125-warlords-atom-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3c03eda4-abfc-11ed-833b-02420a000131.webp",
+                "width": 256
+            },
+            {
+                "caption": "Not much defence left here",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8196918-warlords-atom-not-much-defence-left-here.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/423f9d12-abfc-11ed-893a-02420a00012f.webp",
+                "width": 256
+            },
+            {
+                "caption": "Title screen",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8197453-warlords-atom-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/44b60c70-abfc-11ed-a599-02420a000132.webp",
+                "width": 256
+            },
+            {
+                "caption": "These targets give bonus points when hit",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8200534-warlords-atom-these-targets-give-bonus-points-when-hit.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/453f5b1a-abfc-11ed-a161-02420a000136.webp",
+                "width": 256
+            }
+        ],
+        "title": "Warlords"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Dambusters</em> is a single screen action game similar to the similarly named Commodore PET game <a href=\"https://www.mobygames.com/search/?q=Dam+Buster\">Dam Buster</a>. The aim is to destroy a dam by dropping bombs from a bomber plane that flies from left to right. The bombs will bounce along the surface before possibly reaching the dam. The plane automatically moves forward and the player's controls are limited to moving up and down and dropping the bombs. At the same time it's necessary to avoid getting shot down by the enemy's anti aircraft attacks.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 19,
+                "name": "Flight / aviation"
+            }
+        ],
+        "id": 121823,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/121823/dambusters/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 129,
+                    "name": "Atom"
+                },
+                "1981"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/8209499-dambusters-atom-title-screen.png",
+            "platforms": [
+                "Atom"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/5c5fc4a6-abfc-11ed-9fde-02420a000132.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Getting a score",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8210333-dambusters-atom-getting-a-score.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5c29e0ca-abfc-11ed-a12e-02420a000130.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting out",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8208619-dambusters-atom-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5ae7fcd8-abfc-11ed-ac61-02420a00012e.webp",
+                "width": 256
+            },
+            {
+                "caption": "Managing a hit",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8205195-dambusters-atom-managing-a-hit.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/50c4148a-abfc-11ed-b85a-02420a000135.webp",
+                "width": 256
+            },
+            {
+                "caption": "The dam has taken some damage",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8212737-dambusters-atom-the-dam-has-taken-some-damage.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5d5f0452-abfc-11ed-887e-02420a00012e.webp",
+                "width": 256
+            },
+            {
+                "caption": "The dame is destroyed",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8207435-dambusters-atom-the-dame-is-destroyed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/55674e58-abfc-11ed-83f5-02420a000134.webp",
+                "width": 256
+            }
+        ],
+        "title": "Dambusters"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>3D Asteroids</em> is an action game where the player has to fly through an asteroid storm without crashing. The game is played from a first person perspective and involves steering left, right, up and down in an attempt to avoid the asteroids as they appear on the screen. If an asteroid is in the centre of the screen when closest to the player the game ends with a crash. The aim of the game is simply to survive for a certain length of time which is different for each attempt (usually 20 to 40 seconds).</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 121864,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/121864/3d-asteroids/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 129,
+                    "name": "Atom"
+                },
+                "1981"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/8280878-3d-asteroids-atom-title-screen-with-instructions.png",
+            "platforms": [
+                "Atom"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/e3be5624-abfc-11ed-927d-02420a00012f.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Game completed",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8289048-3d-asteroids-atom-game-completed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fbe3ae20-abfc-11ed-893a-02420a00012f.webp",
+                "width": 256
+            },
+            {
+                "caption": "Asteroids getting dangerously close",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8284192-3d-asteroids-atom-asteroids-getting-dangerously-close.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f1523710-abfc-11ed-8ce3-02420a000131.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting out",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8280872-3d-asteroids-atom-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e35a3996-abfc-11ed-927d-02420a00012f.webp",
+                "width": 256
+            },
+            {
+                "caption": "Colliding with an asteroid",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8739968-3d-asteroids-atom-colliding-with-an-asteroid.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4d791b22-ac01-11ed-af3d-02420a00012f.webp",
+                "width": 256
+            },
+            {
+                "caption": "Title screen with instructions",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8280878-3d-asteroids-atom-title-screen-with-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e3be5624-abfc-11ed-927d-02420a00012f.webp",
+                "width": 256
+            }
+        ],
+        "title": "3D Asteroids"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Omega Mission</em> is a <a href=\"https://www.mobygames.com/search/?q=Scramble\">Scramble</a> clone. Fly over a desolate landscape and through caves and tunnels, dodging or shooting missiles and other hazards.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 19,
+                "name": "Flight / aviation"
+            }
+        ],
+        "id": 184850,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/184850/omega-mission/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 129,
+                    "name": "Atom"
+                },
+                "1982"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Omega Mission"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Astrobirds</em> is a monochrome clone of <a href=\"https://www.mobygames.com/search/?q=Galaxian\">Galaxian</a>. It is a fixed screen shooter where you pilot a spaceship that must fight off wave after wave of swooping aliens intent on your destruction, either by bombing your ship or colliding with it. </p>\n<p>In this case, the aliens bear a resemblance to birds rather than the insects of the arcade game it copies.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 184943,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/184943/astrobirds/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 129,
+                    "name": "Atom"
+                },
+                "1981"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Astrobirds"
+    }
+]

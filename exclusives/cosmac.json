@@ -1,0 +1,4268 @@
+[
+    {
+        "alternate_titles": [
+            {
+                "description": "Alternate title",
+                "title": "Sub Game"
+            },
+            {
+                "description": "Alternative title",
+                "title": "Submarine"
+            }
+        ],
+        "description": "<p><em>Sub Chase</em> is a simplified version of the arcade game <a href=\"https://www.mobygames.com/game/80314/depthcharge/\">Depthcharge</a>. The aim is to score as many points as possible by hitting the submarines that move across the screen. Small subs are worth 15 points while the bigger ones are worth five. The player has 25 depth charges and the game ends when they have been used up. Unlike the arcade game the destroyer moves by itself and the player's input is limited to pressing a single button to drop the charges at the right time.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 41,
+                "name": "Naval / watercraft"
+            }
+        ],
+        "id": 102929,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/102929/sub-chase/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1979-01"
+            ]
+        ],
+        "sample_cover": {
+            "height": 128,
+            "image_url": "https://cdn.mobygames.com/screenshots/16335174-sub-chase-cosmac-starting-out.png",
+            "platforms": [
+                "COSMAC"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/a76669e6-c1fa-11ed-ab6b-02420a000194.webp",
+            "width": 192
+        },
+        "sample_screenshots": [
+            {
+                "caption": "End of game",
+                "height": 128,
+                "image_url": "https://cdn.mobygames.com/screenshots/16335459-sub-chase-cosmac-end-of-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c44ea352-c1fa-11ed-ab6b-02420a000194.webp",
+                "width": 192
+            },
+            {
+                "caption": "Dropping charges",
+                "height": 128,
+                "image_url": "https://cdn.mobygames.com/screenshots/16335633-sub-chase-cosmac-dropping-charges.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d46e3e32-c1fa-11ed-ab6b-02420a000194.webp",
+                "width": 192
+            },
+            {
+                "caption": "Starting out",
+                "height": 128,
+                "image_url": "https://cdn.mobygames.com/screenshots/16335174-sub-chase-cosmac-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a76669e6-c1fa-11ed-ab6b-02420a000194.webp",
+                "width": 192
+            }
+        ],
+        "title": "Sub Chase"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>One-Armed Bandit</em> is a slot machine simulation for the FRED micro computer. The player pulls the handle and one of the three dials start to spin. While spinning the dials make beeping sounds. After each dial has spun the player receives points based on the matching icons. Each spin costs one point, the game is lost if the score drops to zero and won if it reaches ten points.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            }
+        ],
+        "id": 103092,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/103092/one-armed-bandit/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1980-01"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "One-Armed Bandit"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Snake Race</em> is a betting game. Four snakes crawl along the screen and players bet on which snake will make it to the finish line first.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            }
+        ],
+        "id": 107904,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/107904/snake-race/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1976"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Snake Race"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Jackpot</em> is a slot machine simulation. The player starts with $10 and a game costs $1. The player can manually stop each of the three spinning wheels. Depending on the outcome the player can win $3 (all different), $5 (all identical), $10 (3 solid squares) or nothing. The player wins if the winnings amount to $50.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 107905,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/107905/jackpot/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1976"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Jackpot"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Guess My Number Program</em> is a number guessing game. The Microtutor thinks of a single byte number and the player must try to guess it in seven turns. For each guess it is shown if it's correct, too high or too low.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 107906,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/107906/guess-my-number-program/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1976"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Guess My Number Program"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>VIP Slide</em> is a game for two players. Both players try to slide a puck over point-scoring spots on the playing field. A nearby spot is worth 2 points, further spots are four and eight points, but hitting the back wall negates all points. A player slides three pucks per turn and the game is over after six turns; the player with most points wins.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 112708,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/112708/vip-slide/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1977"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "VIP Slide"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>VIP Sum Fun</em> is an arithmetic game. The player is shown sums of three digits. The player must quickly type in the sum value and is scored on the speed with which the answer was given. Zero points are awarded for wrong answers or if answers took more than three seconds. There are twenty sets of numbers for a total of 200 maximum points.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 15,
+                "name": "Real-time"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 43,
+                "name": "Math / logic"
+            }
+        ],
+        "id": 112709,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/112709/vip-sum-fun/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1977"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "VIP Sum Fun"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>VIP Sequence Shoot</em> is a game similar to <a href=\"https://www.mobygames.com/search/?q=Gameplay+feature:+Simon+says\">Simon Says</a>. There are four targets on the screen and a sharp shooter at the bottom. The player can shoot the different targets by pressing the corresponding button. In the first round only a single target will blink, in the second, two targets will blink in sequence. As long as the player keeps hitting more points are scored (one point for each correct target) and the sequence becomes longer. The game stops after a sequence of 22 targets with a score of 254 points.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 218,
+                "name": "Timed input"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 112710,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/112710/vip-sequence-shoot/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1977"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "VIP Sequence Shoot"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>VIP Lunar Lander</em> is a lunar landing game for the Cosmac VIP. The player must successfully land a lunar landing module in a 250-foot crater on the moon. The spacecraft is displayed on the left side of the screen and the crater walls which have rocky outcrops which must be avoided. Once within 32 feet of the floor the view switches to a view of the crater floor. The player must land on a flat area with a slow speed or be destroyed. The right side of the screen shows the remaining fuel and the fall rate of the module. There are 16 different crater layouts which are selected randomly. The player is rated at the end of play.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 158,
+                "name": "Vehicle simulator"
+            }
+        ],
+        "id": 117921,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/117921/vip-lunar-lander/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1977"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "VIP Lunar Lander"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>VIP Deflection</em> is a deflection game in which the player places mirrors anywhere on the screen. The goal of the game is to use the mirrors to deflect the ball, each deflection earns a point. Points are cashed when the ball touches a single target on the screen. If the ball leaves the screen all uncashed points are lost. Two players take turns deflecting the ball and the first player to accumulate 257 or more points wins the game. There are mirror orientations (-,|,\\,/) and the player can move them freely on the board until their placement is confirmed. A maximum of 10 mirrors can be on the game board.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 117922,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/117922/vip-deflection/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1977"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "VIP Deflection"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>VIP Reversi</em> is a computer adaptation of the classic board game Othello/Reversi. Two players take turns placing tokens in an attempt to encapsulate as much of the opponent's tokens. Encapsulated tokens change color. When the whole 8x8 board is full of tokens, the player with the most tokens on the board wins the game.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 167,
+                "name": "Point and select"
+            }
+        ],
+        "id": 117952,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/117952/vip-reversi/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1977"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "VIP Reversi"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>VIP Bowling</em> is a bowling simulation for the COSMAC VIP. Gameplay is similar to <a href=\"https://www.mobygames.com/search/?q=Bowling\">Bowling</a> for the FRED and RCA Studio II, but with some improvements. Instead of only supporting two players, one to six can now compete. The players can also choose to play fewer than 10 frames and select between three ball speeds. Instead of three options when throwing the ball, there are now seven different plays a player can make: straight, spin up (before the first pin, after the first, or after the second pin), or spin down (before the first pin, after the first, or after the second pin).</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 172,
+                "name": "Menu structures"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 88,
+                "name": "Bowling"
+            }
+        ],
+        "id": 117954,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/117954/vip-bowling/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1977"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/screenshots/17317165-vip-bowling-cosmac-choosing-players-frames-and-the-ballspeed.png",
+            "platforms": [
+                "COSMAC"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/2ba70fea-1916-11ee-b619-02420a000164.webp",
+            "width": 1050
+        },
+        "sample_screenshots": [
+            {
+                "caption": "The Scoreboard",
+                "height": 800,
+                "image_url": "https://cdn.mobygames.com/screenshots/17317177-vip-bowling-cosmac-the-scoreboard.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2d2230ac-1916-11ee-afa1-02420a000164.webp",
+                "width": 1068
+            },
+            {
+                "caption": "Choosing Players, Frames and the Ballspeed",
+                "height": 800,
+                "image_url": "https://cdn.mobygames.com/screenshots/17317165-vip-bowling-cosmac-choosing-players-frames-and-the-ballspeed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2ba70fea-1916-11ee-b619-02420a000164.webp",
+                "width": 1050
+            },
+            {
+                "caption": "After the first Throw",
+                "height": 800,
+                "image_url": "https://cdn.mobygames.com/screenshots/17317173-vip-bowling-cosmac-after-the-first-throw.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2c8ecf38-1916-11ee-b864-02420a000163.webp",
+                "width": 1066
+            },
+            {
+                "caption": "The Game",
+                "height": 800,
+                "image_url": "https://cdn.mobygames.com/screenshots/17317169-vip-bowling-cosmac-the-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2c2091ee-1916-11ee-b619-02420a000164.webp",
+                "width": 1068
+            }
+        ],
+        "title": "VIP Bowling"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>Similar to <a href=\"https://www.mobygames.com/game/107904/snake-race/\">Snake Race</a>, in <em>VIP Animal Race</em> a single player must bet on animals as they race across the screen. The animals have roughly similar speeds but start at different positions. The player wins once his or her initial bet has been increased to $256 or more.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 117957,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/117957/vip-animal-race/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1977"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/screenshots/17317015-vip-animal-race-cosmac-starting-screen.png",
+            "platforms": [
+                "COSMAC"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/ca3ee896-1914-11ee-9050-02420a000163.webp",
+            "width": 1058
+        },
+        "sample_screenshots": [
+            {
+                "caption": "New Try",
+                "height": 800,
+                "image_url": "https://cdn.mobygames.com/screenshots/17317032-vip-animal-race-cosmac-new-try.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cd389b64-1914-11ee-b619-02420a000164.webp",
+                "width": 1060
+            },
+            {
+                "caption": "My Animal Lost :(",
+                "height": 800,
+                "image_url": "https://cdn.mobygames.com/screenshots/17317024-vip-animal-race-cosmac-my-animal-lost.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cbe494a2-1914-11ee-b619-02420a000164.webp",
+                "width": 1065
+            },
+            {
+                "caption": "I lost all my Money",
+                "height": 800,
+                "image_url": "https://cdn.mobygames.com/screenshots/17317028-vip-animal-race-cosmac-i-lost-all-my-money.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cc952bb4-1914-11ee-b1eb-02420a000164.webp",
+                "width": 1063
+            },
+            {
+                "caption": "The Race is on",
+                "height": 800,
+                "image_url": "https://cdn.mobygames.com/screenshots/17317019-vip-animal-race-cosmac-the-race-is-on.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/caf0eaf0-1914-11ee-b1eb-02420a000164.webp",
+                "width": 1063
+            },
+            {
+                "caption": "Starting Screen",
+                "height": 800,
+                "image_url": "https://cdn.mobygames.com/screenshots/17317015-vip-animal-race-cosmac-starting-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ca3ee896-1914-11ee-9050-02420a000163.webp",
+                "width": 1058
+            }
+        ],
+        "title": "VIP Animal Race"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>VIP Most Dangerous Game</em> is a turn based maze game where one person must navigate through a maze while the other must try to shoot them. The maze is hidden and walls only show up once they are touched. Players can move three tiles per turn, but lose their turn if they hit and reveal a wall. The hunted wins if the turn limit is reached or when he or she finds the exit. The hunter wins when he lands on the same tile as the hunted or shoots him or her.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 117959,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/117959/vip-most-dangerous-game/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1977"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "VIP Most Dangerous Game"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>VIP Programmable Space Fighters</em> is a programming game in which up to eight spaceships fight to the death. Players program a series of commands which are then executed in order for all the spaceships. Space ships who are hit by lasers reduce their defense strength and when that hits zero they are destroyed. There are no win game conditions or strict rules about which player controls which or how many ships.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 173,
+                "name": "Multiple units/characters control"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 117960,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/117960/vip-programmable-space-fighters/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1977"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "VIP Programmable Space Fighters"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>VIP Blockout</em> is a two player lightcycle game. Both players move about the field trying not to bump into the lines they leave behind. The speed of the game gradually increases to make it more difficult to avoid collision.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 117964,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/117964/vip-blockout/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1977"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/screenshots/17317081-vip-blockout-cosmac-the-game.png",
+            "platforms": [
+                "COSMAC"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/45e10164-1915-11ee-b1eb-02420a000164.webp",
+            "width": 1068
+        },
+        "sample_screenshots": [
+            {
+                "caption": "The Game",
+                "height": 800,
+                "image_url": "https://cdn.mobygames.com/screenshots/17317081-vip-blockout-cosmac-the-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/45e10164-1915-11ee-b1eb-02420a000164.webp",
+                "width": 1068
+            },
+            {
+                "caption": "The Scoreboard",
+                "height": 800,
+                "image_url": "https://cdn.mobygames.com/screenshots/17317085-vip-blockout-cosmac-the-scoreboard.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/46515d88-1915-11ee-8b5a-02420a000163.webp",
+                "width": 1066
+            }
+        ],
+        "title": "VIP Blockout"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Rocket</em> is a simple shooting game created primarily to show the workings of the Chip-8 programming language. The game the player fires rockets up at UFOs that cross the screen. The player can move the rocket left and right before launching in order to try to get it to line up with the UFO. After launching the rocket flies straight up. The player has a limited number of rockets and is awarded one point for each UFO hit.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 135723,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/135723/rocket/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1978-12"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Rocket"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Hi-Low Game</em> is a simple number guessing game. The computer picks a random hexadecimal number between 0 and FF and the player must guess it. The computer turns on the Q-light if the guess is low, and on if the guess is high. If the guess is correct the light blinks. The game does not require a monitor.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 135724,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/135724/hi-low-game/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1978-08"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Hi-Low Game"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>The Target Game</em> is a shooting game in which a moving target moves over the screen and the player must shoot it. The target moves vertically and the player can only press a button to fire a bullet, there is no aiming involved. The game keeps track of shots fired and targets hit.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 135738,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/135738/the-target-game/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1978-11"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "The Target Game"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>ELF II Tiny BASIC (included games)</em> is a cassette tape containing the Tiny BASIC language for the COSMAC ELF II. Included are two games written in Tiny BASIC.</p>\n<ul>\n<li><strong>Tic-Tack-Toe</strong> - The classic pen and paper game in which two players place marks in a three-by-three gird in an attempt to get three in a row.</li>\n<li><strong>Drawing Game</strong> - This game uses the hexadecimal keypad to move cursor over the screen. Otherwise little else is known about this game.</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 135740,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/135740/elf-ii-tiny-basic-included-games/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "ELF II Tiny BASIC (included games)"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Programs for the Cosmac Elf: Music and Games</em> is a booklet which describes various programs for the COSMAC ELF, including means to use the computer as a music box by attaching a speaker to the computer or picking up signals with an AM radio. The game does not have graphics aside from using the hexadecimal display and Q-light. A number of games are included in the booklet:</p>\n<ul>\n<li><strong>Bridg-it</strong> - An implementation of the board game by <a href=\"https://www.mobygames.com/company/18030/hasbro-inc/\">Hasbro</a> players connect points on a playing field trying to bridge one side to the other. The AI uses an algorithm which makes it play well against an expert and poorly against a novice, but it will always win.S</li>\n<li><strong>Tic-Tac-Toe</strong> - A typical implementation of the classic pen and paper game. The computer uses an incomplete defensive algorithm which an advanced player can exploit to win one in three games.</li>\n<li><strong>Morra</strong> - The \"three fingers game\" is similar to rock, paper, scissors. The player and computer simultaneously must show one, two or three fingers. If one player guessed correctly but not the other that player earns points equal to the total number of fingers shown. The computer uses the optimum strategy and thus can't lose, but the player can try to get a draw.</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 135782,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/135782/programs-for-the-cosmac-elf-music-and-games/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1978-07"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Programs for the Cosmac Elf: Music and Games"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Machine Language Game of Life Program for COSMAC 1802</em> is an implementation of Conway's <em>game of Life</em>. In the game the player can draw patterns which evolve using the following rules:</p>\n<ul>\n<li>Any live cell with fewer than two live neighbours dies, as if caused by under-population.</li>\n<li>Any live cell with two or three live neighbours lives on to the next generation.</li>\n<li>Any live cell with more than three live neighbours dies, as if by overcrowding.</li>\n<li>Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            }
+        ],
+        "id": 135791,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/135791/machine-language-game-of-life-program-for-cosmac-1802/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1978-06"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Machine Language Game of Life Program for COSMAC 1802"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>RCA COSMAC VIP: Instruction Manual for VP-111</em> was included with the COSMAC VIP VP-111 computer or could be ordered separately. A number of type-in programs advertised as video games are described in the manual.</p>\n<ul>\n<li><strong>VIP Kaleidoscope</strong> - Not an actual game, but a pattern creation activity.</li>\n<li><strong>VIP Video Display Drawing Game</strong> -Also not a game but a drawing utility that allows the user to turn pixels on and off.</li>\n<li><strong>VIP Spooky spot</strong> - Ask the computer questions which will be answered with yes or no.</li>\n<li><strong>VIP Hi-Lo</strong> - Guess a random number between 00 and 99 in 10 guesses. After each turn the computer indicates if you are high, low or guessed correctly.</li>\n<li><strong>VIP 4096-Bit Picture</strong> - Not a game. Draws a specific image on screen.</li>\n<li><strong>VP-111 Shooting Stars</strong> - The player controls a space craft and must avoid contact with meteors.</li>\n<li><strong>VP-111 Space Intercept</strong> - Fire rockets at UFOs. The player gets fifteen rockets and must try to score as much points as possible.</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 135805,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/135805/rca-cosmac-vip-instruction-manual-for-vp-111-included-games/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "RCA COSMAC VIP: Instruction Manual for VP-111 (included games)"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>RCA COSMAC VIP: Game Manual</em> is a compilation of multiple games for the COSMAC VIP computer. The games are:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/search/?q=VIP+Pinball\">VIP Pinball</a></li>\n<li>VIP Message Center - A text message display (not a game)</li>\n<li>VIP Bingo - an aid for real life bingo</li>\n<li><a href=\"https://www.mobygames.com/game/178007/vip-blackjack/\">VIP Blackjack</a></li>\n<li><a href=\"https://www.mobygames.com/game/112708/vip-slide/\">VIP Slide</a></li>\n<li><a href=\"https://www.mobygames.com/game/117952/vip-reversi/\">VIP Reversi</a></li>\n<li><a href=\"https://www.mobygames.com/game/117954/vip-bowling/\">VIP Bowling</a></li>\n<li><a href=\"https://www.mobygames.com/game/117922/vip-deflection/\">VIP Deflection</a></li>\n<li><a href=\"https://www.mobygames.com/game/117957/vip-animal-race/\">VIP Animal Race</a></li>\n<li><a href=\"https://www.mobygames.com/game/117959/vip-most-dangerous-game/\">VIP Most Dangerous Game</a></li>\n<li><a href=\"https://www.mobygames.com/game/112709/vip-sum-fun/\">VIP Sum Fun</a></li>\n<li><a href=\"https://www.mobygames.com/game/112710/vip-sequence-shoot/\">VIP Sequence Shoot</a></li>\n<li>VIP Biorythm (not a game) - test your biorhythm.</li>\n<li><a href=\"https://www.mobygames.com/search/?q=VIP+Programmable+Spacefighters\">VIP Programmable Spacefighters</a></li>\n<li><a href=\"https://www.mobygames.com/game/117921/vip-lunar-lander/\">VIP Lunar Lander</a></li>\n<li><a href=\"https://www.mobygames.com/game/117964/vip-blockout/\">VIP Blockout</a></li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 135807,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/135807/rca-cosmac-vip-game-manual/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1978-12"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "RCA COSMAC VIP: Game Manual"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Mouse Trap: A Game for Pixie Graphics</em> features a mouse running across the screen. The player must try to capture the mouse to score points, if the mouse escapes the buzzer sounds and the mouse scores a point.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 135819,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/135819/mouse-trap-a-game-for-pixie-graphics/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1978-06"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Mouse Trap: A Game for Pixie Graphics"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Poor Man's Mouse Trap Game</em> is a version of <a href=\"https://www.mobygames.com/game/135819/mouse-trap-a-game-for-pixie-graphics/\">Mouse Trap: A Game for Pixie Graphics</a> that works without a graphics display. This version uses the numerical display of the computer and shows values 0 to F in succession. the player must press the input key when the display shows 8. If the player pressed at the right moment a point is scored. After 10 sequences the player's score is displayed.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 135820,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/135820/poor-mans-mouse-trap-game/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1978-10"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Poor Man's Mouse Trap Game"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Hangman Program</em> is a hangman game using the digit display. One player needs to insert a \"word\" consisting of an eight letter sequence of hexadecimal numbers. Another player must guess numbers and the computer will show the position of the number in the word. Players can create their own key of which hexadecimal represents which number to be able to use actual words.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 162,
+                "name": "Word construction"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 135821,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/135821/hangman-program/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1978-08"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Hangman Program"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Ping-Pong</em> is a pong variant for the COSMAC VIP. One or two players try to hit the ball back and forth the display. There are different options for ball speeds and when playing against the computer it plays a perfect game.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 64,
+                "name": "Paddle / Pong"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 103,
+                "name": "Ping pong / table tennis"
+            }
+        ],
+        "id": 135822,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/135822/ping-pong/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1978-12"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Ping-Pong"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>A Tic-Tac-Toe Game for your Elf Computer</em> is a computer version of the classic pen and paper game. The player competes against the computer putting marks in a three by three grid in an attempt to get three in a row. this version requires a video display (the 1861 peripheral) and a light pen for input. The computer makes random moves unless it can prevent the player from putting three in a row.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 167,
+                "name": "Point and select"
+            }
+        ],
+        "id": 135844,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/135844/a-tic-tac-toe-game-for-your-elf-computer/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1978-11"
+            ]
+        ],
+        "sample_cover": {
+            "height": 249,
+            "image_url": "https://cdn.mobygames.com/promos/7806678-a-tic-tac-toe-game-for-your-elf-computer-screenshot.jpg",
+            "platforms": [],
+            "thumbnail_image_url": "https://cdn.mobygames.com/356c1082-abf9-11ed-b950-02420a00012d.webp",
+            "width": 387
+        },
+        "sample_screenshots": [],
+        "title": "A Tic-Tac-Toe Game for your Elf Computer"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Blackjack</em> is a computer version of the classic Las Vegas casino card game. The player and computer draw cards with the aim of getting as close to a value of 21 without going bust. This program uses a video display, but does not implement all rules of the game, such as insurance and doubling down.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 135846,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/135846/blackjack/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1979-01"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Blackjack"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>LIFE on VIP</em> is an implementation of Conway's <em>game of Life</em> for the COSMAC VIP. In the game the player can draw patterns which evolve using the following rules:</p>\n<ul>\n<li>Any live cell with fewer than two live neighbours dies, as if caused by under-population.</li>\n<li>Any live cell with two or three live neighbours lives on to the next generation.</li>\n<li>Any live cell with more than three live neighbours dies, as if by overcrowding.</li>\n<li>Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            }
+        ],
+        "id": 135847,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/135847/life-on-vip/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1978-11"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "LIFE on VIP"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Deduce</em> is a <a href=\"https://www.mobygames.com/group/9137/mastermind-variants/\">Mastermind variant</a> for the COSMAC computer. The code is four digits long and after each guess by the player the computer will tell the amount of digits in the correct position and the amount of digits in the code, but not in the correct position. The player has 15 tries to find the code.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 145937,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/145937/deduce/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1976"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Deduce"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Craps</em> allows the player to try his virtual luck on a craps table. The player throws two dice and increases their winnings on rolling a value of 7 or 11. When rolling 2, 3 or 12 the player's balance will lower. When rolling a different value this value must be rolled again before a 7 or 11 is thrown again to score. The game doesn't feature on-screen scoring.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 177352,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/177352/craps/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1979-01"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Craps"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Nim Game</em> is a tactical game for two players. Players take one, two or three points from a total each turn. Whoever is forced to take the last points setting the remaining total to 0 loses the game.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 177365,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/177365/nim-game/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1979-01"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Nim Game"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Breakout</em> is a <a href=\"https://www.mobygames.com/search/?q=Breakout\">Breakout</a> variant. The player must break through six walls of bricks at the top of the screen by bouncing a ball with their paddle at the bottom of the screen. When the game finishes the player is shown the number of times walls were hit.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 64,
+                "name": "Paddle / Pong"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 177367,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/177367/breakout/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1979-01"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Breakout"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Simon Elf</em> is a digital implementation of the game <em>Simon Says</em> for the COSMAC ELF. The player hears a tone and must repeat it, after which the tone is repeated but with another tone added in sequence. This way the sequence becomes longer and longer and harder for the player to correctly repeat. The game is over when the player incorrectly repeats the sequence.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 97,
+                "name": "Music / rhythm"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 177451,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/177451/simon-elf/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1979-04"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Simon Elf"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Baseball</em> is a simulation of a baseball match. The game can be played manually or automatically in which case no user input is required. When playing manually two players can play against each other. The batting player must move the bat left or right to hit the ball. When the ball is hit it can turn into a bunt, popup, ground ball, fly ball or line drive randomly. Each will result in a play such as a single, double, triple, home run or out. The batter can also receive a walk to first base. After nine innings the game ends even if there's a tie.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 32,
+                "name": "Baseball"
+            }
+        ],
+        "id": 177623,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/177623/baseball/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1979-01"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Baseball"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>4 Row Mastermind</em> is a code breaking game. The player must crack a code of four numbers using the rules of <em>Mastermind</em>. After each guess the player is told the amount of correct numbers and correct numbers is the right location and must use logic deduction to find out the code in as few turns as possible.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 177625,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/177625/4-row-mastermind/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1979-01"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "4 Row Mastermind"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>5 Row Mastermind</em> is a code breaking game. The player must crack a code of four numbers using the rules of <em>Mastermind</em>. After each guess the player is told the amount of correct numbers and correct numbers in the right location and must use logic deduction to find out the code in as few turns as possible.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 177626,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/177626/5-row-mastermind/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1979-01"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "5 Row Mastermind"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Graphic Lunar Lander</em> is a real-time lunar landing game. The player has to safely land the module on the moon by activating the jets for periods of time. The game starts in a zoomed out view where the lander is shown using a single dot on the screen, once the lander gets close to the surface, the view zooms in to show the lander larger on the screen. The player must prevent the lander from running out of fuel and crashing into the moon's surface.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 15,
+                "name": "Real-time"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 158,
+                "name": "Vehicle simulator"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 200,
+                "name": "Contemporary"
+            }
+        ],
+        "id": 177627,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/177627/graphic-lunar-lander/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1979-03"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Graphic Lunar Lander"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>RCA Cosmac VIP CDP18S711 Instruction Manual</em> was included with the COSMAC VIP CPD18S711 computer. A number of type-in programs advertised as video games are described in the manual. Some of the programs were also included in the manual of the <a href=\"https://www.mobygames.com/game/135805/rca-cosmac-vip-instruction-manual-for-vp-111-included-games/\">VP-111</a>.</p>\n<ul>\n<li><em>VIP Kaleidoscope</em> - Not an actual game, but a pattern creation activity.</li>\n<li><em>VIP Video Display Drawing Game</em> - Also not a game but a drawing utility that allows the user to turn pixels on and off.</li>\n<li><em>VIP Wipe Off</em> - A <a href=\"https://www.mobygames.com/search/?q=Breakout\">Breakout</a> variant more similar to <a href=\"https://www.mobygames.com/search/?q=Clean+Sweep\">Clean Sweep</a>.</li>\n<li><em>VIP Space Intercept</em> - Fire rockets at UFOs. The player gets fifteen rockets and must try to score as much points as possible.</li>\n<li><em>VIP 4096-Bit Picture</em> - Not a game. Draws a specific image on screen.</li>\n<li><em>VIP Figure Shooting at Moving Target</em> - A target shooting game.</li>\n<li><em>VIP Tick-Tack-Toe</em> - The classic pen and paper game of getting three in a row.</li>\n<li><em>VIP Spooky Spot</em> - Ask the computer questions which will be answered with yes or no.</li>\n<li><a href=\"https://www.mobygames.com/game/107905/jackpot/\">VIP Jackpot</a></li>\n<li><a href=\"https://www.mobygames.com/game/107904/snake-race/\">VIP Snake Race</a></li>\n<li><em>VIP Card Matching Game</em> - A game about matching cards.</li>\n<li><em>VIP Armored Vehicle Clash</em> - A combat game.</li>\n<li><em>VIP Hi-Lo</em> - Guess a random number between 00 and 99 in 10 guesses. After each turn the computer indicates if you are high, low or guessed correctly.</li>\n<li><em>VIP Hex Reflex</em> - A reflex game.</li>\n<li><em>VIP Dot-Dash</em></li>\n<li><em>VIP A-Mazing</em> - A maze game.</li>\n<li><em>VIP Deduce</em> - A code breaking game.</li>\n<li><em>VIP Shooting Stars</em> - The player controls a space craft and must avoid contact with meteors.</li>\n<li><em>VIP Strike-9</em> - A dice game.</li>\n<li><em>VIP Card Game</em> - A version of Acey-Duecy.</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 64,
+                "name": "Paddle / Pong"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 177764,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/177764/rca-cosmac-vip-cdp18s711-instruction-manual-included-games/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "RCA Cosmac VIP CDP18S711 Instruction Manual (included games)"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>PIPs for VIPs</em> (short for Pretty Impressive Programs) is a book containing seven programs for the COSMAC VIP. The book contains the code but also a tape with the programs. The programs contain two games, the others are a text editor, a machine language disassembler, a CHIP-8 Editor, a character set designer, and a \"messager\" that can display the designed character sets.</p>\n<p>The games are:</p>\n<ul>\n<li><em>Space Wars</em> - An action game in which the player must shoot Klingon space ships. The player has 30 shots from their spaceship and must try to destroy as many Klingons as possible. The player can only take four hits before their ship is destroyed. When hit the controls also briefly become unresponsive.</li>\n<li><em>Surround</em> - A <a href=\"https://www.mobygames.com/search/?q=Snake+variant\">Snake variant</a> where the player controls a snake and must hit targets on the playing field. The \"snakes\" have a predetermined size and will grow from their initial point size to that size and no longer. The player plays against the computer and two playing fields can be selected, one with borders and one that wraps around in all directions.</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 177881,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/177881/pips-for-vips/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1979-05"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "PIPs for VIPs"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>VIP Blackjack</em> is a COSMAC VIP implementation of the classic casino game. All Vegas rules are implemented. The goal of the game is to beat the dealer in getting a card score as close to 21 without going over. The dealer follows specified card hitting patterns, but the player can always gamble. The game doesn't support insurance betting. The game uses four decks of cards to make it easier for the player to try to count cards.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            }
+        ],
+        "id": 178007,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/178007/vip-blackjack/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1979-07"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "VIP Blackjack"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Treasure Hunt</em> is based on a game described in <a href=\"https://www.mobygames.com/game/133869/game-playing-with-basic/\">Game Playing with BASIC</a>. A 4x1 treasure chest is hidden in a 10x10 grid. It's up to the player to probe the grid in an attempt to find it within 10 tries.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            }
+        ],
+        "id": 178008,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/178008/treasure-hunt/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1979-07"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Treasure Hunt"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>VIP Craps</em> is an implementation of the casino dice game for the COSMAC VIP. The player throws two dice and can bet virtual money. The player tries to increase their balance on rolling a value of 7 or 11. When rolling 2, 3 or 12 the player's balance will lower. When rolling a different value this value must be rolled again before a 7 or 11 is rolled again.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            }
+        ],
+        "id": 178011,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/178011/vip-craps/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1979-07"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "VIP Craps"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Simple Simon Game</em> is a computer implementation for the COSMAC VIP. The player hears a sequence of tones and squares that light up and has to repeat the sequence. After correctly entering the sequence an additional tone is added to the sequence and the player has to correctly repeat it again, this continues until the player makes an error.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 97,
+                "name": "Music / rhythm"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 178079,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/178079/simple-simon-game/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1979-08"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Simple Simon Game"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>The Lunar Lander with Color and Sound Effects</em> is an adaptation of <a href=\"https://www.mobygames.com/game/117921/vip-lunar-lander/\">VIP Lunar Lander</a>, but with added sound effects and color graphics. The game requires the color board and simple sound board hardware add-ons. The game plays identical but some of the graphics have been changed.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 62,
+                "name": "Add-on"
+            },
+            {
+                "category": {
+                    "id": 14,
+                    "name": "Add-on"
+                },
+                "description": null,
+                "id": 227,
+                "name": "Audio (Music / SFX / Voice)"
+            },
+            {
+                "category": {
+                    "id": 14,
+                    "name": "Add-on"
+                },
+                "description": null,
+                "id": 180,
+                "name": "Other"
+            }
+        ],
+        "id": 178081,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/178081/the-lunar-lander-with-color-and-sound-effects/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1979-10"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "The Lunar Lander with Color and Sound Effects"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Football</em> is an American Football game that plays in real-time. The player has 15 seconds to select a play, on defense the player must guess the play the computer will select to prevent the computer from gaining yards on the field. On offense the computer will guess the player's play. Depending on the play and other random factors (such as interception chances) the player will gain a number of yards, a breakaway or penalty.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 31,
+                "name": "Football (American)"
+            }
+        ],
+        "id": 178084,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/178084/football/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1979-11"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Football"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Torus Life Program</em> is an implementation of Conway's Game of Life. Unlike most implementations the simulation doesn't break or end at the edge of the screen, but instead the world is regarded as a torus so that elements at the bottom continue on the top and elements at the sides wrap around to the other side. The player can define the size of the torus and it will be displayed as an amount of bands on the screen.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            }
+        ],
+        "id": 178232,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/178232/torus-life-program/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1979-02"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Torus Life Program"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Tic-Tac-Toe Program for Two Players</em> is an adapted version of <a href=\"https://www.mobygames.com/game/135844/a-tic-tac-toe-game-for-your-elf-computer/\">A Tic-Tac-Toe Game for your Elf Computer</a>. Instead of playing against the computer the player can play against another player. One player uses the COSMAC's hex keyboard and another a hooked-up normal keyboard.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            }
+        ],
+        "id": 178233,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/178233/tic-tac-toe-program-for-two-players/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1979-09"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Tic-Tac-Toe Program for Two Players"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Blackjack in Tiny BASIC</em> is an implementation of the popular gambling card game in Tiny BASIC for the COSMAC. The player plays against the bank and must try to get a card value as close to 21 as possible without going over. There is no insurance betting, but the player can double.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 178268,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/178268/blackjack-in-tiny-basic/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1979-11"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Blackjack in Tiny BASIC"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Target Game with Jumping Man</em> is a target shooting game. An object falls along the screen and must be shot by the player. A character is seen shooting and will jump up if the target is successfully hit.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 126,
+                "name": "3rd-person (Other)"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 119,
+                "name": "Darts / target shooting"
+            }
+        ],
+        "id": 178317,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/178317/target-game-with-jumping-man/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1979-03"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Target Game with Jumping Man"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>The Great COSMAC Cosmos Puzzle</em> is a puzzle game using the same rules as <a href=\"https://www.mobygames.com/game/102649/teaser/\">Teaser</a>. The player starts with a pattern of bits in a 3x3 grid and must try to inverse it, but toggling the bit in a corner also toggles each adjacent (including diagonally) bit. Toggling the middle bit also toggles adjacent bits (this time excluding diagonally) and when toggling the top or bottom bit only the adjacent bits on the same row are toggled, and similarly only the bits in the same column are toggled when flipping a bit on the left or right.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 178376,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/178376/the-great-cosmac-cosmos-puzzle/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1979-05"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "The Great COSMAC Cosmos Puzzle"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>COSMAC Battle of Numbers</em> is a puzzle game in which part of the game is figuring out the rules. The game is played in turns with the computer and player claiming up to four locations in a 5x8 grid until a winner is declared. Finding out what the conditions for winning are is part of the puzzle.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 178672,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/178672/cosmac-battle-of-numbers/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1979-05"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "COSMAC Battle of Numbers"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Slot Machine</em> is a simulation of a one armed bandit written in Tiny BASIC. The player pays $1 to spin the wheels. There's a $6 payout for three of a kind. Every other combination doesn't pay out.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            }
+        ],
+        "id": 178745,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/178745/slot-machine/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1979-05"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Slot Machine"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Number Guess</em> is a number guessing game for two players written in Tiny BASIC. Both players pick a number between one and hundred and whoever is closer to the randomly chosen number earns points for that round.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 178747,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/178747/number-guess/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1979-05"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Number Guess"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Nim Game</em> is played against the computer. The game has four piles, one of one object, one of two, one of three and one of four objects. Each turn the player can take any number of objects, but only from a single pile. Whoever takes the last object wins the game.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 178883,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/178883/nim-game/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1979-06"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Nim Game"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>The 15 Puzzle</em> is a sliding puzzle game. The player is presented with a 4x4 grid of tiles with one empty space. Each turn an adjacent tile can be shifted to the empty square. The goal is to get all pieces in the correct order (from 1 to F since it uses hexadecimal numbering).</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 178978,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/178978/the-15-puzzle/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1979-07"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "The 15 Puzzle"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Blockade</em> is a two player light cycle game. Both players move around the screen leaving a trail behind. Hitting the edge of the screen or the trail of either player makes the player go game over, so the goal is to avoid all obstacles while making it hard on your opponent.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 179003,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/179003/blockade/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1979-07"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Blockade"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Life</em> is an implementation of Conway's Game of Life for the COSMAC ELF using a 30x48 grid. The player can draw patterns and watch how they evolve based on the simple rules of <em>Conway's Game of Life</em>:</p>\n<ul>\n<li>Any live cell with fewer than two live neighbours dies, as if caused by under-population.</li>\n<li>Any live cell with two or three live neighbours lives on to the next generation.</li>\n<li>Any live cell with more than three live neighbours dies, as if by overcrowding.</li>\n<li>Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            }
+        ],
+        "id": 179005,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/179005/life/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1979-10"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Life"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Beat the Machine</em> is a reaction game. The computer will show a double hexadecimal number and the player must quickly type the same number using the hexadecimal keypad. After each correct guess the time available to type in the correct code is lowered making the game progressively harder. The game is over if the player makes a mistake or takes too long.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 179007,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/179007/beat-the-machine/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1979-11"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Beat the Machine"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Cosmac Cowboy Target Game</em> is a target shooting game. A gun fighter is shown on one end of the screen and a can falls down on the other side. The player must try to fire at the right moment so that the bullet will hit the can. After 15 shots the score of how many cans were hit is shown.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 179009,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/179009/cosmac-cowboy-target-game/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 216,
+                    "name": "COSMAC"
+                },
+                "1979-11"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Cosmac Cowboy Target Game"
+    }
+]

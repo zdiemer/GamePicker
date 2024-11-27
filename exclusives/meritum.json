@@ -1,0 +1,324 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p>The player has a tank that can move in four directions: e - east, w - west, n - north, s - south. The task is to eliminate an enemy tank. The amount of ammunition is limited. On the battlefield there are hidden land mines and obstacles. The obstacles can be destroyed by a tank bullets. Entering a mine means the end of the game.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 153,
+                "name": "Tactical shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 80,
+                "name": "Tank"
+            }
+        ],
+        "id": 198902,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/198902/bitwa-czo\u0142gow/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 311,
+                    "name": "Meritum"
+                },
+                "1985-04"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/11330723-bitwa-czogow-meritum-front-cover.jpg",
+            "platforms": [
+                "Meritum"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/900654ee-ac17-11ed-bdca-02420a000133.webp",
+            "width": 564
+        },
+        "sample_screenshots": [],
+        "title": "Bitwa Czo\u0142g\u00f3w"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>The game consists in obtaining the negation of all letters displayed on the screen. The change is caused by pressing the key corresponding to the letter on the screen. In addition to the pressed letter, the letters neighboring vertically and horizontally change.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 30,
+                "name": "Puzzle elements"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 198903,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/198903/literki/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 311,
+                    "name": "Meritum"
+                },
+                "1985-04"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/11330726-literki-meritum-front-cover.jpg",
+            "platforms": [
+                "Meritum"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/a3770d84-ac17-11ed-bdca-02420a000133.webp",
+            "width": 564
+        },
+        "sample_screenshots": [],
+        "title": "Literki"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>This is an educational program for learning mathematics in the initial classes of school. The material was divided into 12 departments. On the left side of the screen there are mathematical tasks to solve, while on the right a teacher awaiting a response. After the last operation, the computer issues a rating on a scale of 2 to 5.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 43,
+                "name": "Math / logic"
+            }
+        ],
+        "id": 199204,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/199204/sprawdzian-z-matematyki/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 311,
+                    "name": "Meritum"
+                },
+                "1985-09"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/11375076-sprawdzian-z-matematyki-meritum-front-cover.jpg",
+            "platforms": [
+                "Meritum"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/cde12424-ac17-11ed-9c12-02420a00012f.webp",
+            "width": 556
+        },
+        "sample_screenshots": [],
+        "title": "Sprawdzian z matematyki"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Literki</em> is intended for learning to write letters. The player learns letters by drawing them with the help of crosses. The task must be performed in a specific number of attempts.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 46,
+                "name": "Pre-school / toddler"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 44,
+                "name": "Reading / writing"
+            }
+        ],
+        "id": 199208,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/199208/literki/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 311,
+                    "name": "Meritum"
+                },
+                "1985-12"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/11375079-literki-meritum-front-cover.jpg",
+            "platforms": [
+                "Meritum"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/dd5841bc-ac17-11ed-9c12-02420a00012f.webp",
+            "width": 571
+        },
+        "sample_screenshots": [],
+        "title": "Literki"
+    }
+]

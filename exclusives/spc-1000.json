@@ -1,0 +1,97 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Dooli</em> is an action platforming shooter game where you play as Dooli the Dinsoaur. In the first stage Heedong throws a bullet, and you need to throw your bullet at it quickly which increases the number of shots you took but are calculated by platform numbers 1, 2, 3, and 4 that represents how fast you are and once you got enough Dooly will make a cute smile. In the second stage he must be guided through to the end while avoiding being squashed. In the third and final stage he now has to jump up and reach the bullet that appears on 4 columns (which is endlessly) and if he catches it then a message will appear saying \"Very Good!!\". You have three lives and failure to get through all of them results in a game over.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 129,
+                "name": "Diagonal-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 21,
+                "name": "Platform"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 224306,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/224306/dooli/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 327,
+                    "name": "SPC-1000"
+                },
+                "1987"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Dooli"
+    }
+]

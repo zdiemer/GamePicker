@@ -1,0 +1,2585 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Zombies</em> is based on the game <a href=\"https://www.mobygames.com/search/?q=Robots\">Robots</a> by <a href=\"https://www.mobygames.com/search/?q=Torbj%C3%B6rn+Andersson\">Torbj\u00f6rn Andersson</a>, with a different scenario and modifications made to the rules. The object of the game is to avoid getting killed by zombies. To do this, the protagonist has to run away from them while maneuvering them into pits where they die.</p>\n<p>The game uses simple ASCII text characters to represent graphics. The player can easily change a few constants to make the game easier or more difficult as well.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            }
+        ],
+        "id": 23168,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/23168/zombies/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 169,
+                    "name": "Z-machine"
+                },
+                "1999-06-02"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Zombies"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>\"'Twas the night before Christmas when all through the house, the only creature stirring was a hippo the size of a mouse.\"</em>\n<em>And a Hippo New Year</em> is an interactive fiction game created for Yuletide 2012, an annual fanfiction exchange. It is based in the world of the House Hippo, a PSA by the Concerned Children's Advertisers. It is a parser-based text adventure. You play a mouse-sized hippo who wants to wait up on Christmas Eve in order to see Santa Claus. But unfortunately this is easier said than done.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 23,
+                "name": "Interactive fiction / text adventure"
+            }
+        ],
+        "id": 73804,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/73804/and-a-hippo-new-year/",
+        "num_votes": 1,
+        "official_url": "genericgeekgirl.com",
+        "platforms": [
+            [
+                {
+                    "id": 169,
+                    "name": "Z-machine"
+                },
+                "2012-12-25"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "And a Hippo New Year"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Flawed Addendum</em> is a short text adventure game. In the introduction, a doctor activates a device, warning you that if you fail in your quest, your future will be very short; then, without any other explanation, the player finds himself in a corridor. There are a just a couple of rooms in the game, most of them devoid of life except for a single hostile non-player character, and the game is completed once the player manages to find his way through the exit door.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 30,
+                "name": "Puzzle elements"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 74984,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/74984/flawed-addendum/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 169,
+                    "name": "Z-machine"
+                },
+                "2008-06-11"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/715022-flawed-addendum-z-machine-front-cover.jpg",
+            "platforms": [
+                "Z-machine"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/527288e4-ab6f-11ed-a218-02420a00019e.webp",
+            "width": 800
+        },
+        "sample_screenshots": [
+            {
+                "caption": "A technical corridor",
+                "height": 745,
+                "image_url": "https://cdn.mobygames.com/screenshots/15778426-flawed-addendum-z-machine-a-technical-corridor.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6fb57178-bee3-11ed-9c42-02420a000140.webp",
+                "width": 1080
+            },
+            {
+                "caption": "The ending",
+                "height": 745,
+                "image_url": "https://cdn.mobygames.com/screenshots/15778339-flawed-addendum-z-machine-the-ending.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/67f6162c-bee3-11ed-9c42-02420a000140.webp",
+                "width": 1080
+            },
+            {
+                "caption": "Introduction",
+                "height": 745,
+                "image_url": "https://cdn.mobygames.com/screenshots/15778453-flawed-addendum-z-machine-introduction.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/70d9fb96-bee3-11ed-9c42-02420a000140.webp",
+                "width": 1080
+            },
+            {
+                "caption": "Examining some scenery",
+                "height": 745,
+                "image_url": "https://cdn.mobygames.com/screenshots/15778411-flawed-addendum-z-machine-examining-some-scenery.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6e09966a-bee3-11ed-9c42-02420a000140.webp",
+                "width": 1080
+            }
+        ],
+        "title": "Flawed Addendum"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>One Girl</em> is a work of adult interactive fiction.\nYou're in a room with a girl and an empty table. She does not have a name, but she is naked and might be willing to have sex with you. She will react to things you do, becoming angry, frightened or aroused. Performing certain actions with her will increase your score, up to a total of eight, and add a new item to the table.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 23,
+                "name": "Interactive fiction / text adventure"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 87,
+                "name": "Adult"
+            }
+        ],
+        "id": 74998,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/74998/one-girl/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 169,
+                    "name": "Z-machine"
+                },
+                "2001-11-14"
+            ]
+        ],
+        "sample_cover": {
+            "height": 480,
+            "image_url": "https://cdn.mobygames.com/screenshots/15781405-one-girl-z-machine-start-of-the-game.png",
+            "platforms": [
+                "Z-machine"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/73f1c4f2-bee4-11ed-9c42-02420a000140.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Start of the game",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/15781405-one-girl-z-machine-start-of-the-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/73f1c4f2-bee4-11ed-9c42-02420a000140.webp",
+                "width": 640
+            },
+            {
+                "caption": "The girl can respond a large number of different commands",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/15781684-one-girl-z-machine-the-girl-can-respond-a-large-number-of-differ.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8e87f606-bee4-11ed-9c42-02420a000140.webp",
+                "width": 640
+            }
+        ],
+        "title": "One Girl"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Rippled Flesh</em> is a horror-themed text adventure game. It was an entry in the 1996 edition of The Annual Interactive Fiction Competition. The player controls a balding, middle-aged man who wakes up in an empty house with no memory as to what happened, and must find his way out, exploring the house and solving a number of puzzles. On the way the hero meets bloody corpses, rooms filled with darkness, and other creepy and unexplained events.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 23,
+                "name": "Interactive fiction / text adventure"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 83,
+                "name": "Horror"
+            }
+        ],
+        "id": 75061,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/75061/rippled-flesh/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 169,
+                    "name": "Z-machine"
+                },
+                "1996"
+            ]
+        ],
+        "sample_cover": {
+            "height": 745,
+            "image_url": "https://cdn.mobygames.com/screenshots/15798049-rippled-flesh-z-machine-opening-motto.png",
+            "platforms": [
+                "Z-machine"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/2bb65b98-beea-11ed-9c42-02420a000140.webp",
+            "width": 1080
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Beginning of the game",
+                "height": 745,
+                "image_url": "https://cdn.mobygames.com/screenshots/15798013-rippled-flesh-z-machine-beginning-of-the-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/26ed9374-beea-11ed-9c42-02420a000140.webp",
+                "width": 1080
+            },
+            {
+                "caption": "Opening motto",
+                "height": 745,
+                "image_url": "https://cdn.mobygames.com/screenshots/15798049-rippled-flesh-z-machine-opening-motto.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2bb65b98-beea-11ed-9c42-02420a000140.webp",
+                "width": 1080
+            },
+            {
+                "caption": "A creepy event",
+                "height": 745,
+                "image_url": "https://cdn.mobygames.com/screenshots/15797980-rippled-flesh-z-machine-a-creepy-event.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/250a9c3c-beea-11ed-9c42-02420a000140.webp",
+                "width": 1080
+            }
+        ],
+        "title": "Rippled Flesh"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Symetry</em> (sic) is a short horror text adventure game. It was created as an entry into the 1997 edition of the Annual Interactive Fiction Competition. The protagonist, having bought a majestic new mirror for his bedroom, is going to sleep, but then something troubling happens as his reflection apparently comes to life in the middle of the night. There is one real puzzle, if you do not count figuring out how to get into your bed without the game glitching out.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 23,
+                "name": "Interactive fiction / text adventure"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 83,
+                "name": "Horror"
+            }
+        ],
+        "id": 75062,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/75062/symetry/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 169,
+                    "name": "Z-machine"
+                },
+                "1997"
+            ]
+        ],
+        "sample_cover": {
+            "height": 745,
+            "image_url": "https://cdn.mobygames.com/screenshots/15798367-symetry-z-machine-opening-quote.png",
+            "platforms": [
+                "Z-machine"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/4ab5e4b4-beea-11ed-9c42-02420a000140.webp",
+            "width": 1080
+        },
+        "sample_screenshots": [
+            {
+                "caption": "I tried to get in my bed and the world fell apart",
+                "height": 745,
+                "image_url": "https://cdn.mobygames.com/screenshots/15798511-symetry-z-machine-i-tried-to-get-in-my-bed-and-the-world-fell-ap.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5e2c3f84-beea-11ed-9c42-02420a000140.webp",
+                "width": 1080
+            },
+            {
+                "caption": "After you finish the game, you can access the help menu, where among other things you'll find this weird rant",
+                "height": 745,
+                "image_url": "https://cdn.mobygames.com/screenshots/15798532-symetry-z-machine-after-you-finish-the-game-you-can-access-the-h.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/607101da-beea-11ed-9c42-02420a000140.webp",
+                "width": 1080
+            },
+            {
+                "caption": "Beginning of a creepy sequence",
+                "height": 745,
+                "image_url": "https://cdn.mobygames.com/screenshots/15798340-symetry-z-machine-beginning-of-a-creepy-sequence.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/495c5076-beea-11ed-9c42-02420a000140.webp",
+                "width": 1080
+            },
+            {
+                "caption": "Game over",
+                "height": 745,
+                "image_url": "https://cdn.mobygames.com/screenshots/15798487-symetry-z-machine-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5b7859d0-beea-11ed-9c42-02420a000140.webp",
+                "width": 1080
+            },
+            {
+                "caption": "Opening quote",
+                "height": 745,
+                "image_url": "https://cdn.mobygames.com/screenshots/15798367-symetry-z-machine-opening-quote.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4ab5e4b4-beea-11ed-9c42-02420a000140.webp",
+                "width": 1080
+            }
+        ],
+        "title": "Symetry"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>The Absolute Worst IF Game in History</em> is a text adventure game, created as an entry in the 2008 edition of the Annual Interactive Fiction Competition. Trying its best to live up to its title, the game consists of nothing but a maze with completely featureless rooms connected entirely at random. The only goal stated is to find the \"scarab\u00e6us of floccinaucinihilipilification\"; nevertheless, while wandering the maze, the game will sometimes randomly end with the message \"You have won\" or \"You have died\".</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 23,
+                "name": "Interactive fiction / text adventure"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 120,
+                "name": "Comedy"
+            }
+        ],
+        "id": 75125,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/75125/the-absolute-worst-if-game-in-history/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 169,
+                    "name": "Z-machine"
+                },
+                "2008-10-01"
+            ]
+        ],
+        "sample_cover": {
+            "height": 745,
+            "image_url": "https://cdn.mobygames.com/screenshots/15820118-the-absolute-worst-if-game-in-history-z-machine-beginning-of-the.png",
+            "platforms": [
+                "Z-machine"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/70859efe-bef0-11ed-9c42-02420a000140.webp",
+            "width": 1080
+        },
+        "sample_screenshots": [
+            {
+                "caption": "The entire gameplay experience",
+                "height": 745,
+                "image_url": "https://cdn.mobygames.com/screenshots/15820154-the-absolute-worst-if-game-in-history-z-machine-the-entire-gamep.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/732206c0-bef0-11ed-9c42-02420a000140.webp",
+                "width": 1080
+            },
+            {
+                "caption": "Random victory",
+                "height": 745,
+                "image_url": "https://cdn.mobygames.com/screenshots/15820124-the-absolute-worst-if-game-in-history-z-machine-random-victory.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/70ed4f2c-bef0-11ed-9c42-02420a000140.webp",
+                "width": 1080
+            },
+            {
+                "caption": "Found the scarabaeus... oh, sorry, I need to spell it \"scarab\u00e6us\"",
+                "height": 745,
+                "image_url": "https://cdn.mobygames.com/screenshots/15820292-the-absolute-worst-if-game-in-history-z-machine-found-the-scarab.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7dad54a0-bef0-11ed-9c42-02420a000140.webp",
+                "width": 1080
+            },
+            {
+                "caption": "Beginning of the game",
+                "height": 745,
+                "image_url": "https://cdn.mobygames.com/screenshots/15820118-the-absolute-worst-if-game-in-history-z-machine-beginning-of-the.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/70859efe-bef0-11ed-9c42-02420a000140.webp",
+                "width": 1080
+            }
+        ],
+        "title": "The Absolute Worst IF Game in History"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>For a Change</em> is a text adventure game, originally written for the 5th Interactive Fiction Competition. It is set in a small world where the sun is gone, hidden behind the High Wall that casts an omnipresent shade. The player's goal is to bring back sunlight. The game's setting is somewhat surreal, containing such sights as giant glass cubes or machines that make lies true, and the language is characterized by odd word choices and a strange lexicon.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 23,
+                "name": "Interactive fiction / text adventure"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 30,
+                "name": "Puzzle elements"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            }
+        ],
+        "id": 98228,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/98228/for-a-change/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 169,
+                    "name": "Z-machine"
+                },
+                "1999"
+            ]
+        ],
+        "sample_cover": {
+            "height": 500,
+            "image_url": "https://cdn.mobygames.com/covers/3056503-for-a-change-z-machine-front-cover.jpg",
+            "platforms": [
+                "Z-machine"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/7c5db84a-ab88-11ed-bc1c-02420a00019a.webp",
+            "width": 500
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Opening paragraphs",
+                "height": 613,
+                "image_url": "https://cdn.mobygames.com/screenshots/16212911-for-a-change-z-machine-opening-paragraphs.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d1c79948-c1d3-11ed-ab6b-02420a000194.webp",
+                "width": 1025
+            },
+            {
+                "caption": "The in-game guidebook offers varying amounts of help",
+                "height": 613,
+                "image_url": "https://cdn.mobygames.com/screenshots/16212926-for-a-change-z-machine-the-in-game-guidebook-offers-varying-amou.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d384bf7c-c1d3-11ed-ab6b-02420a000194.webp",
+                "width": 1025
+            },
+            {
+                "caption": "In-game hint system",
+                "height": 613,
+                "image_url": "https://cdn.mobygames.com/screenshots/16213469-for-a-change-z-machine-in-game-hint-system.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f6f15e8e-c1d3-11ed-ab6b-02420a000194.webp",
+                "width": 1025
+            },
+            {
+                "caption": "The toolman isn't much of a talkative NPC but he might provide you some help",
+                "height": 613,
+                "image_url": "https://cdn.mobygames.com/screenshots/16213460-for-a-change-z-machine-the-toolman-isnt-much-of-a-talkative-npc-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f5c6047e-c1d3-11ed-ab6b-02420a000194.webp",
+                "width": 1025
+            },
+            {
+                "caption": "A songlantern lightens up the caverns with its songs",
+                "height": 613,
+                "image_url": "https://cdn.mobygames.com/screenshots/16212914-for-a-change-z-machine-a-songlantern-lightens-up-the-caverns-wit.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d1f4b464-c1d3-11ed-ab6b-02420a000194.webp",
+                "width": 1025
+            }
+        ],
+        "title": "For a Change"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Lost Pig</em> is a text adventure game created for the 2007 IF Comp. The player takes control of Grunk, a none-too-bright orc looking for an escaped pig. After both Grunk and his quarry fall into an underground shrine, Grunk must catch the pig and get back to the outside world. </p>\n<p>The game plays like a classic, if short adventure, with several puzzles to be solved and clues abounding. The game's unique characteristics include the narrator's (Grunk's) Hulk-like speaking style, as well as a NPC who can be asked about a huge variety of topics and who reacts to the player's activities in his presence.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 23,
+                "name": "Interactive fiction / text adventure"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 30,
+                "name": "Puzzle elements"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 120,
+                "name": "Comedy"
+            }
+        ],
+        "id": 98248,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/98248/lost-pig/",
+        "num_votes": 1,
+        "official_url": "http://grunk.org/lostpig/",
+        "platforms": [
+            [
+                {
+                    "id": 169,
+                    "name": "Z-machine"
+                },
+                "2007-09-30"
+            ]
+        ],
+        "sample_cover": {
+            "height": 500,
+            "image_url": "https://cdn.mobygames.com/covers/3060960-lost-pig-z-machine-front-cover.jpg",
+            "platforms": [
+                "Z-machine"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/8eb16f0a-ab88-11ed-b6ee-02420a00019d.webp",
+            "width": 500
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Grunk find no snack here! Grunk no like this place",
+                "height": 613,
+                "image_url": "https://cdn.mobygames.com/screenshots/16219092-lost-pig-z-machine-grunk-find-no-snack-here-grunk-no-like-this-p.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7a4df9c6-c1d5-11ed-ab6b-02420a000194.webp",
+                "width": 1025
+            },
+            {
+                "caption": "Grunk meet gnome. Gnome smart, he know much about many thing!",
+                "height": 613,
+                "image_url": "https://cdn.mobygames.com/screenshots/16215816-lost-pig-z-machine-grunk-meet-gnome-gnome-smart-he-know-much-abo.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9994a772-c1d4-11ed-ab6b-02420a000194.webp",
+                "width": 1025
+            },
+            {
+                "caption": "Grunk begin telling story!",
+                "height": 613,
+                "image_url": "https://cdn.mobygames.com/screenshots/16215852-lost-pig-z-machine-grunk-begin-telling-story.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9c34a5f4-c1d4-11ed-ab6b-02420a000194.webp",
+                "width": 1025
+            },
+            {
+                "caption": "There pig! But pig smart and not easy to catch. Maybe smarter than Grunk. ",
+                "height": 613,
+                "image_url": "https://cdn.mobygames.com/screenshots/16215819-lost-pig-z-machine-there-pig-but-pig-smart-and-not-easy-to-catch.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/99bd5f0a-c1d4-11ed-ab6b-02420a000194.webp",
+                "width": 1025
+            },
+            {
+                "caption": "Ouch! Grunk fall down hole. Lose pants, too",
+                "height": 613,
+                "image_url": "https://cdn.mobygames.com/screenshots/16219089-lost-pig-z-machine-ouch-grunk-fall-down-hole-lose-pants-too.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7a242100-c1d5-11ed-ab6b-02420a000194.webp",
+                "width": 1025
+            }
+        ],
+        "title": "Lost Pig"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>In the text adventure <em>Degeneracy</em> you play as a knight, who has just slain the wicked baron Tiller in his very throne room. However, the baron has the last laugh: a curse prevents you from leaving the keep. And while you seek for a way out, something alarming seems to be happening to the entire place...</p>\n<p>The game is relatively short, but there is a time limit to solve all the puzzles, as the player's options become progressively limited with each passing moment. There are two endings, the optimal ending requiring the player to solve an extra puzzle. </p>\n<p>The prose style deliberately mimics 18th century English.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 23,
+                "name": "Interactive fiction / text adventure"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 30,
+                "name": "Puzzle elements"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            }
+        ],
+        "id": 98603,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/98603/degeneracy/",
+        "num_votes": 1,
+        "official_url": "https://www.crummy.com/software/if/degeneracy/",
+        "platforms": [
+            [
+                {
+                    "id": 169,
+                    "name": "Z-machine"
+                },
+                "2001-03-30"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/3127114-degeneracy-z-machine-front-cover.jpg",
+            "platforms": [
+                "Z-machine"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/a8625d3c-ab89-11ed-a519-02420a00019d.webp",
+            "width": 800
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Wha-what is happening?!",
+                "height": 767,
+                "image_url": "https://cdn.mobygames.com/screenshots/6953920-degeneracy-z-machine-wha-what-is-happening.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8e548c26-abf2-11ed-a7ec-02420a000134.webp",
+                "width": 968
+            },
+            {
+                "caption": "Your mission, already accomplished",
+                "height": 767,
+                "image_url": "https://cdn.mobygames.com/screenshots/6952549-degeneracy-z-machine-your-mission-already-accomplished.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/86e5e0fc-abf2-11ed-9915-02420a000134.webp",
+                "width": 968
+            },
+            {
+                "caption": "Opening of the game",
+                "height": 767,
+                "image_url": "https://cdn.mobygames.com/screenshots/6951507-degeneracy-z-machine-opening-of-the-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/870f8aba-abf2-11ed-9c12-02420a00012f.webp",
+                "width": 968
+            },
+            {
+                "caption": "The wicked priest awaits his fate",
+                "height": 767,
+                "image_url": "https://cdn.mobygames.com/screenshots/6953044-degeneracy-z-machine-the-wicked-priest-awaits-his-fate.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8a7d8526-abf2-11ed-833b-02420a000131.webp",
+                "width": 968
+            }
+        ],
+        "title": "Degeneracy"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>You are a wizard's servant, who has just unluckily gotten locked inside your master's vault. You must escape, but to do so, you will need to learn some of your master's tricks. </p>\n<p><em>Suveh Nux</em> is a text adventure game originally written for the 2007 One Room Game Competition. An important aspect of the game is learning magical words and figuring out how to string them together into coherent spells. The game takes a simulationist approach: the objects behave in realistic, expected ways when affected by your enchantments. </p>\n<p>The game contains a built-in hint system and a notebook.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 23,
+                "name": "Interactive fiction / text adventure"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 30,
+                "name": "Puzzle elements"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            }
+        ],
+        "id": 98874,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/98874/suveh-nux/",
+        "num_votes": 1,
+        "official_url": "http://davidfisher.info/if/suveh_nux.html",
+        "platforms": [
+            [
+                {
+                    "id": 169,
+                    "name": "Z-machine"
+                },
+                "2007-11-19"
+            ]
+        ],
+        "sample_cover": {
+            "height": 345,
+            "image_url": "https://cdn.mobygames.com/covers/3154530-suveh-nux-z-machine-front-cover.png",
+            "platforms": [
+                "Z-machine"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/1d8dc542-ab8a-11ed-8d2b-02420a00019e.webp",
+            "width": 288
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Let's see what's at our disposal here",
+                "height": 767,
+                "image_url": "https://cdn.mobygames.com/screenshots/7058732-suveh-nux-z-machine-lets-see-whats-at-our-disposal-here.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5e8e6268-abf3-11ed-87d3-02420a000134.webp",
+                "width": 980
+            },
+            {
+                "caption": "Opening",
+                "height": 767,
+                "image_url": "https://cdn.mobygames.com/screenshots/7057621-suveh-nux-z-machine-opening.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5d52b1e2-abf3-11ed-941d-02420a000132.webp",
+                "width": 980
+            }
+        ],
+        "title": "Suveh Nux"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>The Farmer's Daughter</em> is a Z-Machine adaptation of the <a href=\"https://www.mobygames.com/search/?q=The+Farmer's+Daughter\">pornographic C64 text adventure of the same name</a>. According to the author, it has been created as a \"preliminary test\" of a \"sophisticated Inform sex engine.\" Compared to the original C64 version, all in-game text has been rewritten, but the puzzles remain the same.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 23,
+                "name": "Interactive fiction / text adventure"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 30,
+                "name": "Puzzle elements"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 200,
+                "name": "Contemporary"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 207,
+                "name": "North America"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 87,
+                "name": "Adult"
+            }
+        ],
+        "id": 100648,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/100648/the-farmers-daughter/",
+        "num_votes": 2,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 169,
+                    "name": "Z-machine"
+                },
+                "2002-01"
+            ]
+        ],
+        "sample_cover": {
+            "height": 400,
+            "image_url": "https://cdn.mobygames.com/screenshots/2022405-the-farmers-daughter-z-machine-title-screen-adult-disclaimer.png",
+            "platforms": [
+                "Z-machine"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/7794f48a-ab7a-11ed-b325-02420a00019e.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "The daughter in question",
+                "height": 400,
+                "image_url": "https://cdn.mobygames.com/screenshots/7743355-the-farmers-daughter-z-machine-the-daughter-in-question.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b6ecf0d2-abf8-11ed-aca6-02420a000132.webp",
+                "width": 640
+            },
+            {
+                "caption": "A relatively merciful death (the dog, at least, neither shot nor sodomized you)",
+                "height": 400,
+                "image_url": "https://cdn.mobygames.com/screenshots/2019786-the-farmers-daughter-z-machine-a-relatively-merciful-death-the-d.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/719007f0-ab7a-11ed-8d2b-02420a00019e.webp",
+                "width": 640
+            },
+            {
+                "caption": "Starting location",
+                "height": 400,
+                "image_url": "https://cdn.mobygames.com/screenshots/7743352-the-farmers-daughter-z-machine-starting-location.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b6a76062-abf8-11ed-aca6-02420a000132.webp",
+                "width": 640
+            },
+            {
+                "caption": "Title screen, adult disclaimer",
+                "height": 400,
+                "image_url": "https://cdn.mobygames.com/screenshots/2022405-the-farmers-daughter-z-machine-title-screen-adult-disclaimer.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7794f48a-ab7a-11ed-b325-02420a00019e.webp",
+                "width": 640
+            }
+        ],
+        "title": "The Farmer's Daughter"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>A mashup of the short-form interactive fiction classics <a href=\"https://www.mobygames.com/game/21944/pick-up-the-phone-booth-and-die/\">Pick up the Phone Booth and Die</a> and <a href=\"https://www.mobygames.com/game/22823/aisle/\">Aisle</a>, the game <em>Pick Up the Phone Booth and Aisle</em> begins exactly like the former: with the player coming upon a shiny phone booth \"in the center of a nondescript New England town\". Much like in <em>Aisle</em>, any command entered by the player instantly ends the game in an unique way. The point of the game is to find as many of the absurdly comedic endings as possible.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 23,
+                "name": "Interactive fiction / text adventure"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 207,
+                "name": "North America"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 120,
+                "name": "Comedy"
+            }
+        ],
+        "id": 111314,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111314/pick-up-the-phone-booth-and-aisle/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 169,
+                    "name": "Z-machine"
+                },
+                "2001-06-09"
+            ]
+        ],
+        "sample_cover": {
+            "height": 343,
+            "image_url": "https://cdn.mobygames.com/screenshots/16446433-pick-up-the-phone-booth-and-aisle-z-machine-opening-scene.png",
+            "platforms": [
+                "Z-machine"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/85f70662-c21d-11ed-ab6b-02420a000194.webp",
+            "width": 971
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Opening scene",
+                "height": 343,
+                "image_url": "https://cdn.mobygames.com/screenshots/16446433-pick-up-the-phone-booth-and-aisle-z-machine-opening-scene.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/85f70662-c21d-11ed-ab6b-02420a000194.webp",
+                "width": 971
+            },
+            {
+                "caption": "Let's begin with something simple",
+                "height": 684,
+                "image_url": "https://cdn.mobygames.com/screenshots/16446442-pick-up-the-phone-booth-and-aisle-z-machine-lets-begin-with-some.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/868886a0-c21d-11ed-ab6b-02420a000194.webp",
+                "width": 971
+            },
+            {
+                "caption": "All our commands work against us! ",
+                "height": 726,
+                "image_url": "https://cdn.mobygames.com/screenshots/16446439-pick-up-the-phone-booth-and-aisle-z-machine-all-our-commands-wor.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/86479366-c21d-11ed-ab6b-02420a000194.webp",
+                "width": 971
+            },
+            {
+                "caption": "Even some \"meta\" commands end the game",
+                "height": 629,
+                "image_url": "https://cdn.mobygames.com/screenshots/16446445-pick-up-the-phone-booth-and-aisle-z-machine-even-some-meta-comma.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/86afe52e-c21d-11ed-ab6b-02420a000194.webp",
+                "width": 971
+            }
+        ],
+        "title": "Pick Up the Phone Booth and Aisle"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>69,105 Keys</em> is a short interactive fiction game, in which the protagonist has found himself at the door of The Count's treasure vault, inside of which immense riches await. The only remaining task is to find the right key \u2014 out of the tens of thousands of keys strewn upon the floor. </p>\n<p>A series of close examinations reveals that the keys differ in a myriad of characteristics, such as color, material, brand, and size, and the trick (and the sole goal of the game) is to find the one and only key which is unlike all the others. In this endeavour, the COUNT command will be indispensable; the game understands complex commands such as \"count orange oval huge scratched Acme keys\".</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 23,
+                "name": "Interactive fiction / text adventure"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 30,
+                "name": "Puzzle elements"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 120,
+                "name": "Comedy"
+            }
+        ],
+        "id": 111363,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111363/69105-keys/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 169,
+                    "name": "Z-machine"
+                },
+                "2009-03-02"
+            ]
+        ],
+        "sample_cover": {
+            "height": 400,
+            "image_url": "https://cdn.mobygames.com/covers/4856961-69105-keys-z-machine-front-cover.jpg",
+            "platforms": [
+                "Z-machine"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/fb2dc404-abc3-11ed-9505-02420a00019c.webp",
+            "width": 400
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Opening of the game",
+                "height": 487,
+                "image_url": "https://cdn.mobygames.com/screenshots/16446436-69105-keys-z-machine-opening-of-the-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/861ce62a-c21d-11ed-ab6b-02420a000194.webp",
+                "width": 972
+            },
+            {
+                "caption": "The keys can be grouped by color",
+                "height": 768,
+                "image_url": "https://cdn.mobygames.com/screenshots/16446448-69105-keys-z-machine-the-keys-can-be-grouped-by-color.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/86e4ae12-c21d-11ed-ab6b-02420a000194.webp",
+                "width": 972
+            },
+            {
+                "caption": "Trying to narrow it down",
+                "height": 768,
+                "image_url": "https://cdn.mobygames.com/screenshots/16446454-69105-keys-z-machine-trying-to-narrow-it-down.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8747114c-c21d-11ed-ab6b-02420a000194.webp",
+                "width": 972
+            },
+            {
+                "caption": "Yet another way to classify the keys",
+                "height": 768,
+                "image_url": "https://cdn.mobygames.com/screenshots/16446451-69105-keys-z-machine-yet-another-way-to-classify-the-keys.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/87119166-c21d-11ed-ab6b-02420a000194.webp",
+                "width": 972
+            }
+        ],
+        "title": "69,105 Keys"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>The Gostak</em> is an interactive fiction game written as a linguistic experiment. The language of the game is ostensibly English, but with all adjectives, nouns, adverbs and verbs replaced by strange \"Gostakian\" words. The game's opening paragraphs provide a good example: </p>\n<blockquote>\n<p>Finally, here you are. At the delcot of tondam, where doshes deave. But the doshery lutt is crenned with glauds.</p>\n<p>Glauds! How rorm it would be to pell back to the bewl and distunk them, distunk the whole delcot, let the drokes uncren them.</p>\n<p>But you are the gostak. The gostak distims the doshes. And no glaud will vorl them from you.</p>\n</blockquote>\n<p>The player's commands must be entered in this odd language, as well. The main challenge, then, is figuring out the meaning of Gostakian vocabulary from context, possibly with a lot of note taking. Even then, the meaning of some words, and the exact nature of the setting, remains ambiguous throughout the game.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 23,
+                "name": "Interactive fiction / text adventure"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 30,
+                "name": "Puzzle elements"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 112740,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/112740/the-gostak/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 169,
+                    "name": "Z-machine"
+                },
+                "2001-10-01"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/5597092-the-gostak-z-machine-front-cover.png",
+            "platforms": [
+                "Z-machine"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/b8147c66-abe7-11ed-b6e7-02420a000135.webp",
+            "width": 800
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Even the help file is written in the strange language. ",
+                "height": 768,
+                "image_url": "https://cdn.mobygames.com/screenshots/16204316-the-gostak-z-machine-even-the-help-file-is-written-in-the-strang.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/396a055c-c1d1-11ed-ab6b-02420a000194.webp",
+                "width": 969
+            },
+            {
+                "caption": "We're doing... something. Somewhere. Apparently. ",
+                "height": 768,
+                "image_url": "https://cdn.mobygames.com/screenshots/16204292-the-gostak-z-machine-were-doing-something-somewhere-apparently.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/383639da-c1d1-11ed-ab6b-02420a000194.webp",
+                "width": 969
+            },
+            {
+                "caption": "The game's opening",
+                "height": 768,
+                "image_url": "https://cdn.mobygames.com/screenshots/16203950-the-gostak-z-machine-the-games-opening.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1492356a-c1d1-11ed-ab6b-02420a000194.webp",
+                "width": 969
+            }
+        ],
+        "title": "The Gostak"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Vespers</em> is an interactive fiction game. It is set in a medieval monastery. A horrific plague has fell upon the land, and the abbot has made the difficult decision to shut the doors, denying the sick villagers sanctuary. However, the plague has still wormed its way inside the walls and now but a few monks remain alive. One particularly grim night, an exhausted girl comes to the threshold. Her arrival coincides with the beginning of horror, as mysterious deaths start among the remaining brethren. The abbot tries to get to the bottom of the mystery, even as his own life is in danger. </p>\n<p>The puzzles in the game typically permit several different solutions (including the ability to pray to saints for help). Depending on the player's choices and conduct (moral or immoral) throughout the game, several endings are possible.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 23,
+                "name": "Interactive fiction / text adventure"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 205,
+                "name": "Medieval"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 55,
+                "name": "Detective / mystery"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 83,
+                "name": "Horror"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 123,
+                "name": "Thriller"
+            }
+        ],
+        "id": 134966,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/134966/vespers/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 169,
+                    "name": "Z-machine"
+                },
+                "2005-10-01"
+            ]
+        ],
+        "sample_cover": {
+            "height": 767,
+            "image_url": "https://cdn.mobygames.com/screenshots/16567880-vespers-z-machine-the-opening.png",
+            "platforms": [
+                "Z-machine"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/dcbf956c-c241-11ed-ab6b-02420a000194.webp",
+            "width": 978
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Atop the bell tower, disturbing temptations start to grip you... Will you give in?",
+                "height": 767,
+                "image_url": "https://cdn.mobygames.com/screenshots/16567931-vespers-z-machine-atop-the-bell-tower-disturbing-temptations-sta.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e41a548c-c241-11ed-ab6b-02420a000194.webp",
+                "width": 978
+            },
+            {
+                "caption": "The opening",
+                "height": 767,
+                "image_url": "https://cdn.mobygames.com/screenshots/16567880-vespers-z-machine-the-opening.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dcbf956c-c241-11ed-ab6b-02420a000194.webp",
+                "width": 978
+            },
+            {
+                "caption": "Beginning of the game",
+                "height": 767,
+                "image_url": "https://cdn.mobygames.com/screenshots/16568144-vespers-z-machine-beginning-of-the-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/03c510f6-c242-11ed-ab6b-02420a000194.webp",
+                "width": 978
+            },
+            {
+                "caption": "The first death has occurred...",
+                "height": 767,
+                "image_url": "https://cdn.mobygames.com/screenshots/16568165-vespers-z-machine-the-first-death-has-occurred.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/073cf7b2-c242-11ed-ab6b-02420a000194.webp",
+                "width": 978
+            },
+            {
+                "caption": "Exploring the monastery, and meeting the surviving monks one by one",
+                "height": 767,
+                "image_url": "https://cdn.mobygames.com/screenshots/16568141-vespers-z-machine-exploring-the-monastery-and-meeting-the-surviv.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/03956f54-c242-11ed-ab6b-02420a000194.webp",
+                "width": 978
+            }
+        ],
+        "title": "Vespers"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>The Supreme Element</em> is a text RPG with a tickle fetish theme. You fight a variety of enemies and tickle them into submission. It also uses such basic staples as gold and experience, purchasing armor, and completing quests.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 50,
+                "name": "Role-playing (RPG)"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 87,
+                "name": "Adult"
+            }
+        ],
+        "id": 143103,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/143103/the-supreme-element/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 169,
+                    "name": "Z-machine"
+                },
+                "2013-03-23"
+            ]
+        ],
+        "sample_cover": {
+            "height": 472,
+            "image_url": "https://cdn.mobygames.com/screenshots/16591649-the-supreme-element-z-machine-the-first-combat-of-the-game-again.png",
+            "platforms": [
+                "Z-machine"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/60ea7f16-c24a-11ed-ab6b-02420a000194.webp",
+            "width": 790
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Tickling an exercising woman in the town square.",
+                "height": 504,
+                "image_url": "https://cdn.mobygames.com/screenshots/16680705-the-supreme-element-z-machine-tickling-an-exercising-woman-in-th.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5f4871b4-c285-11ed-bae4-02420a0001a1.webp",
+                "width": 789
+            },
+            {
+                "caption": "The first combat of the game against a bandit.",
+                "height": 472,
+                "image_url": "https://cdn.mobygames.com/screenshots/16591649-the-supreme-element-z-machine-the-first-combat-of-the-game-again.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/60ea7f16-c24a-11ed-ab6b-02420a000194.webp",
+                "width": 790
+            },
+            {
+                "caption": "Inventory, equipment and spell lists.",
+                "height": 474,
+                "image_url": "https://cdn.mobygames.com/screenshots/16911113-the-supreme-element-z-machine-inventory-equipment-and-spell-list.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2fe30178-c40b-11ed-be63-02420a000121.webp",
+                "width": 790
+            },
+            {
+                "caption": "Getting your hands on a toe ring.",
+                "height": 475,
+                "image_url": "https://cdn.mobygames.com/screenshots/16680507-the-supreme-element-z-machine-getting-your-hands-on-a-toe-ring.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/423693bc-c285-11ed-bae4-02420a0001a1.webp",
+                "width": 790
+            },
+            {
+                "caption": "Overhearing an interrogation adds a new quest.",
+                "height": 473,
+                "image_url": "https://cdn.mobygames.com/screenshots/16911110-the-supreme-element-z-machine-overhearing-an-interrogation-adds-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2e2293a8-c40b-11ed-be63-02420a000121.webp",
+                "width": 790
+            }
+        ],
+        "title": "The Supreme Element"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Treasures of a Slaver's Kingdom</em> is a text adventure/RPG set in a classic sword &amp; sorcery setting. The player slips into the shoes of a barbarian in search of riches and glory. Gameplay consists of solving puzzles with a text parser and fighting enemies in simple one-on-one encounters based on D&amp;D rules.</p>\n<p>Unlike most text adventures, <em>Treasures of a Slaver's Kingdom</em> doesn't have the player \"guess the verb\" in its puzzles. Instead, it uses the universal verb \"USE\" for all its interactions.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 50,
+                "name": "Role-playing (RPG)"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            }
+        ],
+        "id": 144031,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/144031/treasures-of-a-slavers-kingdom/",
+        "num_votes": 0,
+        "official_url": "http://www222.pair.com/sjohn/toask.htm",
+        "platforms": [
+            [
+                {
+                    "id": 169,
+                    "name": "Z-machine"
+                },
+                "2007"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Treasures of a Slaver's Kingdom"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Endless, Nameless</em> is a text adventure by <a href=\"https://www.mobygames.com/person/32373/adam-cadre/\">Adam Cadre</a> that serves as a meta commentary on the classic fantasy-themed text adventures of the late 1970s and early 1980s.</p>\n<p>Beginning the game in a simulated BBS environment, you are soon transported into a tavern as an unnamed adventurer and begin the \"Nameless Quest.\" While the game then proceeds as something resembling a standard quest to slay a dragon that has terrorized a small village, it quickly becomes clear that there is more to the game than meets the eye. After your first death, you wake up in a beach house of decidedly more modern trappings wherein you meet a number of your own alter egos (i.e. other unnamed adventurers who have also died in the Nameless Quest) and now find themselves in the titular \"Endless\" part of the game's title. The player must then figure out how to navigate back to the Nameless Quest for another attempt at completing a feat of strength, winning the affections of a sorceress, and killing the dragon.</p>\n<p>As a Z-Machine game with a .z8 filename, the game features a few bells and whistles, such as colored text and backgrounds in select areas.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 23,
+                "name": "Interactive fiction / text adventure"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 30,
+                "name": "Puzzle elements"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 205,
+                "name": "Medieval"
+            }
+        ],
+        "id": 149446,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/149446/endless-nameless/",
+        "num_votes": 0,
+        "official_url": "http://adamcadre.ac/if.html",
+        "platforms": [
+            [
+                {
+                    "id": 169,
+                    "name": "Z-machine"
+                },
+                "2012-04"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Endless, Nameless"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Savoir Faire</em> is a text adventure in which you are Pierre, the adopted son of a wealthy Count in 18th century France. You are wearing a dashing hat, and carry a sword (inside a swordstick) and a snuffbox. As a member of the nobility, you also have the magical talent known as the Lavori d'Aracne which will let you create magical links between similar objects. Unhappily, you desperately need money. You returned to your childhood home, hoping to ask the Count for help, but no one knows where he's gone. Maybe there's money or something you can sell from the estate. You begin your hunt for treasure from the kitchen garden.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 23,
+                "name": "Interactive fiction / text adventure"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 152117,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/152117/savoir-faire/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 169,
+                    "name": "Z-machine"
+                },
+                "2002-04-01"
+            ]
+        ],
+        "sample_cover": {
+            "height": 400,
+            "image_url": "https://cdn.mobygames.com/covers/17081967-savoir-faire-z-machine-front-cover.jpg",
+            "platforms": [
+                "Z-machine"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/82caccf8-ec52-11ed-9963-02420a00017e.webp",
+            "width": 400
+        },
+        "sample_screenshots": [],
+        "title": "Savoir Faire"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>A Change in the Weather</em> is a text adventure. It won first prize in the Inform division of the inaugural Interactive Fiction Competition in 1995.</p>\n<p>You went on a picnic with some friends and decided to explore. Suddenly there is a torrential downpour and you decide to seek shelter. The game is quite difficult and the puzzles rely heavily on changes in the environment following the rainstorm.</p>\n<p><em>A Change in the Weather</em> was included as a bonus game on the Infocom <a href=\"https://www.mobygames.com/game/711/classic-text-adventure-masterpieces/\">Classic Text Adventure Masterpieces</a> CD.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 23,
+                "name": "Interactive fiction / text adventure"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 200,
+                "name": "Contemporary"
+            }
+        ],
+        "id": 152511,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/152511/a-change-in-the-weather/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 169,
+                    "name": "Z-machine"
+                },
+                "1995"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "A Change in the Weather"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>The Magic Toyshop</em> is a text adventure that won third place in the Inform division of the inaugural Interactive Fiction Competition in 1995. The game takes place in a shop, where you play a series of logic games with the shopkeeper in order to progress. The game is primarily a puzzle game with a very barebones plot as opposed to a traditional story-based adventure game.</p>\n<p><em>The Magic Toyshop</em> was one of the bonus games included on the Infocom <a href=\"https://www.mobygames.com/game/711/classic-text-adventure-masterpieces/\">Classic Text Adventure Masterpieces</a> CD.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 23,
+                "name": "Interactive fiction / text adventure"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 200,
+                "name": "Contemporary"
+            }
+        ],
+        "id": 152529,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/152529/the-magic-toyshop/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 169,
+                    "name": "Z-machine"
+                },
+                "1995"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "The Magic Toyshop"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>The Mind Electric</em> is a text adventure that won second place in the Inform division of the inaugural Interactive Fiction Competition in 1995. The premise is that your mind is trapped in cyberspace, and you need to escape by figuring out how to follow directions that someone is providing to you.</p>\n<p><em>The Mind Electric</em> was included as a bonus game on the Infocom <a href=\"https://www.mobygames.com/game/711/classic-text-adventure-masterpieces/\">Classic Text Adventure Masterpieces</a> CD.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 23,
+                "name": "Interactive fiction / text adventure"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 66,
+                "name": "Cyberpunk / dark sci-fi"
+            }
+        ],
+        "id": 152531,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/152531/the-mind-electric/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 169,
+                    "name": "Z-machine"
+                },
+                "1995"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "The Mind Electric"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>Counterfeit Monkey is an interactive fiction game by genre veteran Emily Short, which focuses on clever wordplay and uses the genre's text-based nature for great effect. The player assumes the role of a corporate spy in the nation of Anglophone Atlantis, a country which has invented several machines that can change reality by manipulating language.</p>\n<p>The gameplay is that of a classic text adventure, where the player has to solve puzzles in order to progress. Counterfeit Monkey's clever twist is that the player starts out with an item that can remove letters from words to change them into something else, a mechanic which many of the game's puzzles employ.</p>\n<p>Emily Short says that the game started out as a thought experiment based on one particular puzzle from the game Leather Goddesses of Phobos, where the player can use a t-remover. She took the idea of the puzzle and expanded it into a fully fledged setting where changing reality by language manipulation is commonplace, and turned it into a game where almost every puzzle is based on the idea.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 120,
+                "name": "Comedy"
+            }
+        ],
+        "id": 184860,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/184860/counterfeit-monkey/",
+        "num_votes": 0,
+        "official_url": "https://emshort.blog/2012/12/31/counterfeit-monkey/",
+        "platforms": [
+            [
+                {
+                    "id": 169,
+                    "name": "Z-machine"
+                },
+                "2012-12-30"
+            ]
+        ],
+        "sample_cover": {
+            "height": 225,
+            "image_url": "https://cdn.mobygames.com/covers/17081963-counterfeit-monkey-z-machine-front-cover.png",
+            "platforms": [
+                "Z-machine"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/c390d03a-ec51-11ed-80ce-02420a00017e.webp",
+            "width": 225
+        },
+        "sample_screenshots": [],
+        "title": "Counterfeit Monkey"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "tag-lined title",
+                "title": "Bronze: A Fractured Fairy Tale"
+            }
+        ],
+        "description": "<p>Bronze is a text adventure retelling of Beauty and the Beast with some twists that are introduced to the story. It's also designed to serve as an introduction to the interactive fiction genre for people that have never played a text adventure before by adding features like a map and robust hint system.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 23,
+                "name": "Interactive fiction / text adventure"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 202,
+                "name": "Europe"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            }
+        ],
+        "id": 202098,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/202098/bronze/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 169,
+                    "name": "Z-machine"
+                },
+                "2006"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/17062374-bronze-z-machine-front-cover.jpg",
+            "platforms": [
+                "Z-machine"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/9e514742-e700-11ed-a6e4-02420a000178.webp",
+            "width": 800
+        },
+        "sample_screenshots": [],
+        "title": "Bronze"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>A AAAAA AAAAAAAAA</em> is a text adventure game, containing only one room and a single puzzle. The twist is that all the letters in the in-game text have been replaced with \"A\". Thus, upon running the game, the player is greeted with the following description:</p>\n<blockquote>AAA AAA AA AAAA AAAA AA AAAAA. AAAAA AA A AAAA AA AAA AAAAA.\n\nAAAAA AA AAAA A AAA AAAA.</blockquote>\n<p>Verbs typed by the player are still in English, but all objects need to be referred to by the right amount of A's.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 23,
+                "name": "Interactive fiction / text adventure"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 212244,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/212244/a-aaaaa-aaaaaaaaa/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 169,
+                    "name": "Z-machine"
+                },
+                "2008-08-16"
+            ]
+        ],
+        "sample_cover": {
+            "height": 675,
+            "image_url": "https://cdn.mobygames.com/screenshots/17873632-a-aaaaa-aaaaaaaaa-z-machine-beginning-of-the-game.png",
+            "platforms": [
+                "Z-machine"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/cf636e2c-870b-11ee-b7f8-02420a000166.webp",
+            "width": 1200
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Beginning of the game",
+                "height": 675,
+                "image_url": "https://cdn.mobygames.com/screenshots/17873632-a-aaaaa-aaaaaaaaa-z-machine-beginning-of-the-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cf636e2c-870b-11ee-b7f8-02420a000166.webp",
+                "width": 1200
+            },
+            {
+                "caption": "Some messages are replaced by \"AAAA\"'s, some are not.",
+                "height": 675,
+                "image_url": "https://cdn.mobygames.com/screenshots/17873636-a-aaaaa-aaaaaaaaa-z-machine-some-messages-are-replaced-by-aaaas-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dbff1eba-870b-11ee-8af6-02420a000162.webp",
+                "width": 1200
+            }
+        ],
+        "title": "A AAAAA AAAAAAAAA"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>The Fat Lardo and the Rubber Ducky</em> is a short, nonsensical text adventure game, released as an entry in the 2003 IFComp. The player is (as the narrator puts it) a \"fat imbecile\", stuck in a room with a rubber ducky. The player can pick up the duck and interact with it in various ways, which is accompanied by numerous insults from the narrator. The \"quit\" command is disabled, and figuring out how to exit the game constitutes the only real puzzle.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 23,
+                "name": "Interactive fiction / text adventure"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 120,
+                "name": "Comedy"
+            }
+        ],
+        "id": 213139,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/213139/the-fat-lardo-and-the-rubber-ducky/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 169,
+                    "name": "Z-machine"
+                },
+                "2003-09-29"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/17958946-the-fat-lardo-and-the-rubber-ducky-z-machine-front-cover.png",
+            "platforms": [
+                "Z-machine"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/5f6697ca-94df-11ee-b93a-02420a00018c.webp",
+            "width": 600
+        },
+        "sample_screenshots": [],
+        "title": "The Fat Lardo and the Rubber Ducky"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>No Room</em> is a short text adventure game, released as an entry in the 2003 IF Competition. The player character is stranded in a dark place, carrying nothing but a broken flashlight and some random implements. There is a single puzzle to solve to complete the game.</p>\n<p>The title of the game comes from the fact that the author did not program in any rooms, therefore forcing the interpreter to strand the player \"nowhere\" \u2014 a pseudo-room named Darkness.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 23,
+                "name": "Interactive fiction / text adventure"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 213377,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/213377/no-room/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 169,
+                    "name": "Z-machine"
+                },
+                "2003-09-29"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/17958950-no-room-z-machine-front-cover.png",
+            "platforms": [
+                "Z-machine"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/7eab6764-94df-11ee-9494-02420a00018c.webp",
+            "width": 600
+        },
+        "sample_screenshots": [],
+        "title": "No Room"
+    }
+]

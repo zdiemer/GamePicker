@@ -1,0 +1,105 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Block Maze</em> takes its basic concept from <em><a href=\"https://www.mobygames.com/game/5386/pengo/\">Pengo</a></em> and adds in some <em><a href=\"https://www.mobygames.com/search/?q=Lady+Bug\">Ladybug</a></em> to make a concept of its own.</p>\n<p>In a <em><a href=\"https://www.mobygames.com/game/138/pac-man/\">Pacman</a></em>-like maze, you must push four central blocks marked with letters into a box in each corner marked with the same letter. As in <em>Pengo</em>, the blocks slide when pushed until they reach a wall or another block. The maze is also littered with plain black blocks, which can be used both to crush the two nasties roaming the maze (though they respawn after a few seconds) and to stop the alphabetic blocks at a desired position. To complicate things, there are rotating ramps near each corner. If a block slides into the ramp, it is deflected 90 degrees, which can be used both to reach otherwise unreachable nasties or to get the alphablocks in the right position without too many pushes. Blocks can, and must often, be destroyed to make way for the player sprite and other blocks.</p>\n<p>Once an alphablock reaches its corner, a fruit machine marked with the letters of the four corners is started on the top of the screen, granting you up to 1000 points if the letter you've cleared turns up.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 30,
+                "name": "Puzzle elements"
+            }
+        ],
+        "id": 63387,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/63387/block-maze/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 139,
+                    "name": "Epoch Game Pocket Computer"
+                },
+                "1985"
+            ]
+        ],
+        "sample_cover": {
+            "height": 128,
+            "image_url": "https://cdn.mobygames.com/screenshots/16375556-block-maze-epoch-game-pocket-computer-title-screen.png",
+            "platforms": [
+                "Epoch Game Pocket Computer"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/9df70024-c208-11ed-ab6b-02420a000194.webp",
+            "width": 150
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Game over",
+                "height": 128,
+                "image_url": "https://cdn.mobygames.com/screenshots/16375574-block-maze-epoch-game-pocket-computer-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9e87c9ec-c208-11ed-ab6b-02420a000194.webp",
+                "width": 150
+            },
+            {
+                "caption": "Sending a letter block to crush the enemy",
+                "height": 128,
+                "image_url": "https://cdn.mobygames.com/screenshots/16375826-block-maze-epoch-game-pocket-computer-sending-a-letter-block-to-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ab7b9dae-c208-11ed-ab6b-02420a000194.webp",
+                "width": 150
+            },
+            {
+                "caption": "Level clear",
+                "height": 128,
+                "image_url": "https://cdn.mobygames.com/screenshots/16375571-block-maze-epoch-game-pocket-computer-level-clear.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9e73b740-c208-11ed-ab6b-02420a000194.webp",
+                "width": 150
+            },
+            {
+                "caption": "Killed by a baddie",
+                "height": 128,
+                "image_url": "https://cdn.mobygames.com/screenshots/16375829-block-maze-epoch-game-pocket-computer-killed-by-a-baddie.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ab906efa-c208-11ed-ab6b-02420a000194.webp",
+                "width": 150
+            },
+            {
+                "caption": "Pushing a T towards its home corner",
+                "height": 128,
+                "image_url": "https://cdn.mobygames.com/screenshots/16375817-block-maze-epoch-game-pocket-computer-pushing-a-t-towards-its-ho.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ab38562a-c208-11ed-ab6b-02420a000194.webp",
+                "width": 150
+            }
+        ],
+        "title": "Block Maze"
+    }
+]

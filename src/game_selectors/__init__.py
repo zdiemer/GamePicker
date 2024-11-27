@@ -17,6 +17,7 @@ from .characteristics.vr import VR
 
 # Companies
 from .companies.aaa_games import AAA_GAMES
+from .companies.first_party_games import FIRST_PARTY_GAMES
 from .companies.fromsoftware import FROMSOFTWARE
 from .companies.major_indie_games import get_major_indie_games_selector
 
@@ -63,7 +64,7 @@ from .progress.challenge_selectors import (
 )
 from .progress.incomplete_collections import get_incomplete_collections_selector
 from .progress.now_playing import get_now_playing_selector
-from .progress.percentiles import get_percentiles_selector
+from .progress.percentiles import get_percentiles_selector, group_by_percentile
 from .progress.platform_progress import get_platform_progress_selector
 from .progress.unplayed_purchases import UNPLAYED_PURCHASES
 from .progress.unplayed_wishlisted import get_unplayed_wishlisted_selector
@@ -73,6 +74,10 @@ from .progress.zero_percent import get_zero_percent_selector
 from .rating.best_by_selectors import get_best_by_selector
 from .rating.best_companies_by_metacritic import BEST_COMPANIES_BY_METACRITIC
 from .rating.best_years_by_metacritic import BEST_YEARS_BY_METACRITIC
+from .rating.big_games import BIG_GAMES
+from .rating.high_critic_ratings import HIGH_CRITIC_RATINGS
+from .rating.high_priority_ratings import HIGH_PRIORITY_RATINGS
+from .rating.high_user_ratings import HIGH_USER_RATINGS
 from .rating.top_games import TOP_GAMES
 from .rating.very_bad_games import VERY_BAD_GAMES
 from .rating.very_positive_games import VERY_POSITIVE_GAMES

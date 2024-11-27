@@ -1,0 +1,2318 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Sir\u00e8ne</em> is a side-scrolling shooter where you control a mermaid called Nina, who has to fight her way through waves of enemy creatures on her quest to find out what has caused them to become so violent. You start the game with three hearts, which you can replenish by collecting additional hearts throughout the stage. There are four different weapons you can use to aid you on your quest: the trident, your default weapon; the bubble, which can fire rapidly; the shell, which fires in three directions at once; and the magic, which can be charged up to release a powerful blast. Throughout each stage you can also find a shield that make you temporarily invincible, and a starfish which provides you with extra points.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 98411,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/98411/sirene/",
+        "num_votes": 0,
+        "official_url": "http://www.team-arg.org/srn-manual.html",
+        "platforms": [
+            [
+                {
+                    "id": 215,
+                    "name": "Arduboy"
+                },
+                "2016-10-02"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/covers/3081757-sirene-arduboy-front-cover.jpg",
+            "platforms": [
+                "Arduboy"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/e76c0c0e-ab88-11ed-87ec-02420a00019c.webp",
+            "width": 700
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Attack of the bigger fish.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/6828066-sirene-arduboy-attack-of-the-bigger-fish.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/91ab0de2-abf1-11ed-8d2f-02420a00012e.webp",
+                "width": 128
+            },
+            {
+                "caption": "Attack of the small fish.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/6828512-sirene-arduboy-attack-of-the-small-fish.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9322a1bc-abf1-11ed-b83f-02420a000135.webp",
+                "width": 128
+            },
+            {
+                "caption": "Game Over",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/6826978-sirene-arduboy-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8fa908e6-abf1-11ed-b6e7-02420a000135.webp",
+                "width": 128
+            },
+            {
+                "caption": "Rapid fire bubble shooter.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/6829997-sirene-arduboy-rapid-fire-bubble-shooter.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/97e915d2-abf1-11ed-98b0-02420a000130.webp",
+                "width": 128
+            },
+            {
+                "caption": "Beginning the first stage.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/6826987-sirene-arduboy-beginning-the-first-stage.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/90502f90-abf1-11ed-b6e7-02420a000135.webp",
+                "width": 128
+            }
+        ],
+        "title": "Sir\u00e8ne"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Blob Attack</em> is a falling block puzzle game inspired by <a href=\"https://www.mobygames.com/game/18065/puyo-pop-fever/\">Puyo Pop Fever</a>. The game plays the same as most Puyo Puyo variants. Sets of two blobs fall from the top, and each blob can be one of five types. You need to match at least four of the same blobs in order to clear them and increase your score. You can see the next two upcoming sets of blobs on the side of the play field. The left, right, and down buttons on the directional pad are used to move the sets of blobs, and the two face buttons are used to rotate them clockwise and counterclockwise. The more points you score, the faster the sets of blobs fall. Once all the blobs pile up to the top of the screen, you lose the game.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 13,
+                    "name": "Art Style"
+                },
+                "description": null,
+                "id": 57,
+                "name": "Anime / Manga"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 15,
+                "name": "Real-time"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 145,
+                "name": "Falling block puzzle"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 98412,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/98412/blob-attack/",
+        "num_votes": 0,
+        "official_url": "http://www.team-arg.org/blba-manual.html",
+        "platforms": [
+            [
+                {
+                    "id": 215,
+                    "name": "Arduboy"
+                },
+                "2015-08-04"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/covers/3082671-blob-attack-arduboy-front-cover.jpg",
+            "platforms": [
+                "Arduboy"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/eac4fabe-ab88-11ed-8bed-02420a00019f.webp",
+            "width": 700
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Game Over",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/6835034-blob-attack-arduboy-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9e3909ce-abf1-11ed-941d-02420a000132.webp",
+                "width": 128
+            },
+            {
+                "caption": "Getting a little crowded.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/6836398-blob-attack-arduboy-getting-a-little-crowded.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a1d3fc24-abf1-11ed-8a97-02420a00012d.webp",
+                "width": 128
+            },
+            {
+                "caption": "Successful chain.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/6835037-blob-attack-arduboy-successful-chain.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9e5ac5f0-abf1-11ed-941d-02420a000132.webp",
+                "width": 128
+            },
+            {
+                "caption": "Start Screen",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/6834943-blob-attack-arduboy-start-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9d71b3d8-abf1-11ed-8ce3-02420a000131.webp",
+                "width": 128
+            },
+            {
+                "caption": "Beginning the game.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/6833622-blob-attack-arduboy-beginning-the-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9fadd6ea-abf1-11ed-81c5-02420a00012f.webp",
+                "width": 128
+            }
+        ],
+        "title": "Blob Attack"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Shadow Runner</em> is a simple infinite runner where you play as a shadow who has lost his kid and is trying to get back to them. There are two types of obstacles in your way, rocks and birds. To avoid the rocks you need to jump over them using the right face button, and to avoid the birds you need to slide under them using the left face button or the left button on the directional pad. Failing to avoid an obstacles will take a chunk off your health bar. Your health bar slowly depletes as you run and depletes faster the longer you play, so you need to refill it by collecting hearts. Completely depleting your health bar causes you to get a game over.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 98428,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/98428/shadow-runner/",
+        "num_votes": 0,
+        "official_url": "http://www.team-arg.org/shrun-manual.html",
+        "platforms": [
+            [
+                {
+                    "id": 215,
+                    "name": "Arduboy"
+                },
+                "2015-06-19"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/covers/3085598-shadow-runner-arduboy-front-cover.jpg",
+            "platforms": [
+                "Arduboy"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/f6a9997a-ab88-11ed-a188-02420a00019a.webp",
+            "width": 700
+        },
+        "sample_screenshots": [
+            {
+                "caption": "The running begins.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/6849542-shadow-runner-arduboy-the-running-begins.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bf607bf0-abf1-11ed-83f5-02420a000134.webp",
+                "width": 128
+            },
+            {
+                "caption": "Start Screen",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/6865728-shadow-runner-arduboy-start-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/db3d14d2-abf1-11ed-b013-02420a00012e.webp",
+                "width": 128
+            },
+            {
+                "caption": "Jumping over the rock.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/6865725-shadow-runner-arduboy-jumping-over-the-rock.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/db111224-abf1-11ed-b013-02420a00012e.webp",
+                "width": 128
+            },
+            {
+                "caption": "Game Over",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/6867045-shadow-runner-arduboy-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dd4a262a-abf1-11ed-aca6-02420a000132.webp",
+                "width": 128
+            },
+            {
+                "caption": "Sliding under the bird.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/6866478-shadow-runner-arduboy-sliding-under-the-bird.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/df13d596-abf1-11ed-9f52-02420a000130.webp",
+                "width": 128
+            }
+        ],
+        "title": "Shadow Runner"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Reverse Mermaid Hockey</em> is a simple pong-like game where you control a reverse mermaid that's kicking a shrimp across a hockey field against another reverse mermaid. The goal is to kick the shrimp into the corners of the opponents side of the field. How many goals needed to win the game can be from one to seven and is set before the start of each match. You can move your reverse mermaid using the directional buttons and kick the shrimp using the right face button.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 64,
+                "name": "Paddle / Pong"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 34,
+                "name": "Hockey"
+            }
+        ],
+        "id": 98445,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/98445/reverse-mermaid-hockey/",
+        "num_votes": 0,
+        "official_url": "http://www.team-arg.org/rmh-manual.html",
+        "platforms": [
+            [
+                {
+                    "id": 215,
+                    "name": "Arduboy"
+                },
+                "2015-09-27"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/covers/3097410-reverse-mermaid-hockey-arduboy-front-cover.jpg",
+            "platforms": [
+                "Arduboy"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/28f2f19c-ab89-11ed-9e18-02420a00019a.webp",
+            "width": 700
+        },
+        "sample_screenshots": [
+            {
+                "caption": "YES! you've won.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/6877641-reverse-mermaid-hockey-arduboy-yes-youve-won.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f47fa39c-abf1-11ed-a599-02420a000132.webp",
+                "width": 128
+            },
+            {
+                "caption": "You win...",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/6878451-reverse-mermaid-hockey-arduboy-you-win.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/efe38d8a-abf1-11ed-b7c8-02420a000136.webp",
+                "width": 128
+            },
+            {
+                "caption": "You lose Fishstick!",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/6876223-reverse-mermaid-hockey-arduboy-you-lose-fishstick.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ef49e996-abf1-11ed-9c12-02420a00012f.webp",
+                "width": 128
+            },
+            {
+                "caption": "Kicking the shrimp.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/6890259-reverse-mermaid-hockey-arduboy-kicking-the-shrimp.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0f4734e2-abf2-11ed-b57a-02420a000130.webp",
+                "width": 128
+            },
+            {
+                "caption": "The game starts.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/6874087-reverse-mermaid-hockey-arduboy-the-game-starts.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ef4e64ee-abf1-11ed-b075-02420a00012f.webp",
+                "width": 128
+            }
+        ],
+        "title": "Reverse Mermaid Hockey"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Begemmed</em> is a clone on the popular tile-matching puzzle game <a href=\"https://www.mobygames.com/game/24362/bejeweled/\">Bejeweled</a>. In the game you have to match three or more of the same gem in a row to score points and clear the gems, allowing for more gems to fall in from the top. Matching gems also replenishes your timer, which will cause you to get a game over if it runs out. To match gems, you need to use the directional pad to move the cursor to the gem you want, then press the right face button to select it. Then you select the adjacent gem you want to switch places with using the directional pad. There are three difficulty modes which effect how many unique gems there are for you to match: six different gems in easy mode, seven in normal mode, and eight in hard mode.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 15,
+                "name": "Real-time"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 145,
+                "name": "Falling block puzzle"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 154,
+                "name": "Tile matching puzzle"
+            }
+        ],
+        "id": 98448,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/98448/begemmed/",
+        "num_votes": 0,
+        "official_url": "http://www.team-arg.org/bgem-manual.html",
+        "platforms": [
+            [
+                {
+                    "id": 215,
+                    "name": "Arduboy"
+                },
+                "2015-11-03"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/covers/3097597-begemmed-arduboy-front-cover.jpg",
+            "platforms": [
+                "Arduboy"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/29c61388-ab89-11ed-9e18-02420a00019a.webp",
+            "width": 700
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Start Screen",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/6874084-begemmed-arduboy-start-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ef27b5c4-abf1-11ed-b075-02420a00012f.webp",
+                "width": 128
+            }
+        ],
+        "title": "Begemmed"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Epic Crates of Mass Destruction</em> is a game where you are tasked with collecting as many crates as possible while shooting all the enemies that get in your way. You use the left and right buttons of the directional pad to move, and the two face buttons to jump and shoot the enemies. Your primary weapon is a small pistol, but you will get a random weapon which you can use for a limited time every time you collect a crate. There are a total of six different weapons available. The enemies come down from a hole at the top of the level and wander around before exiting through a hole at the bottom. If a single enemy touches you then it's game over.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 21,
+                "name": "Platform"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 98458,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/98458/epic-crates-of-mass-destruction/",
+        "num_votes": 0,
+        "official_url": "http://www.team-arg.org/ecomd-manual.html",
+        "platforms": [
+            [
+                {
+                    "id": 215,
+                    "name": "Arduboy"
+                },
+                "2016-02-14"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/covers/3098430-epic-crates-of-mass-destruction-arduboy-front-cover.png",
+            "platforms": [
+                "Arduboy"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/2d039fd4-ab89-11ed-96f9-02420a00019a.webp",
+            "width": 700
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Jumping up.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/6876229-epic-crates-of-mass-destruction-arduboy-jumping-up.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ef8e4b36-abf1-11ed-9c12-02420a00012f.webp",
+                "width": 128
+            },
+            {
+                "caption": "Game Over",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/6890133-epic-crates-of-mass-destruction-arduboy-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0dbd4062-abf2-11ed-b85a-02420a000135.webp",
+                "width": 128
+            },
+            {
+                "caption": "Shooting hordes of enemies.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/6890136-epic-crates-of-mass-destruction-arduboy-shooting-hordes-of-enemi.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0de0ea76-abf2-11ed-b85a-02420a000135.webp",
+                "width": 128
+            },
+            {
+                "caption": "Start Screen",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/6890139-epic-crates-of-mass-destruction-arduboy-start-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0e2780b2-abf2-11ed-b85a-02420a000135.webp",
+                "width": 128
+            }
+        ],
+        "title": "Epic Crates of Mass Destruction"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Trolly Fish</em> is a game where you control a little fish and your goal is to collect as many starfish as possible while avoiding the various oncoming enemies. There are various temporary power-ups that you can collect to aid you including: the turnfish, which turns all enemies on screen into starfish; the shootfish, which allows you to shoot at enemies using bubbles; the lifefish, which gives you an extra life; and the magnetfish, which attracts all nearby starfish towards you. There are three types of enemies in the game, a fish, a jellyfish, and a eel. If you are touched by one of these enemies and you don't have an extra life then you get a game over. You control your fish using the up and down buttons on the directional pad, and the right face button is also used for certain power-ups.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 98463,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/98463/trolly-fish/",
+        "num_votes": 0,
+        "official_url": "http://www.team-arg.org/fish-manual.html",
+        "platforms": [
+            [
+                {
+                    "id": 215,
+                    "name": "Arduboy"
+                },
+                "2016-03-24"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/covers/3098631-trolly-fish-arduboy-front-cover.png",
+            "platforms": [
+                "Arduboy"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/2dbf446e-ab89-11ed-81e3-02420a000199.webp",
+            "width": 700
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Collecting some starfish.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/6876226-trolly-fish-arduboy-collecting-some-starfish.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ef6ba572-abf1-11ed-9c12-02420a00012f.webp",
+                "width": 128
+            },
+            {
+                "caption": "Game Over",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/6874090-trolly-fish-arduboy-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ef6fe2fe-abf1-11ed-b075-02420a00012f.webp",
+                "width": 128
+            },
+            {
+                "caption": "Shooting a bubble.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/6878454-trolly-fish-arduboy-shooting-a-bubble.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f0581e70-abf1-11ed-b7c8-02420a000136.webp",
+                "width": 128
+            },
+            {
+                "caption": "Start Screen",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/6874093-trolly-fish-arduboy-start-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ef9102f4-abf1-11ed-b075-02420a00012f.webp",
+                "width": 128
+            }
+        ],
+        "title": "Trolly Fish"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Virus LQP-79</em> is a multi-directional shooter where you play as Amy, who is trying to escape her home town which has been infested by zombies. In the game you are placed into a small level and must find two survivors before the level exit opens up and you can move on to the next level. To do this you have to fight off all the zombies that get in your way. These zombies can drop coins, which give you points, and hearts, which replenish your health. Once you have found the two survivors and the exit opens, a timer starts counting down. If this timer reaches zero before you exit the level, your health starts to slowly drain. If you exit the level before the timer reaches zero, the remaining time is added to your score. There are 64 levels total.</p>\n<p>The player character's movement is controlled with the directional pad, and you can shoot your gun with both of the action buttons. Holding down the action button will allow you to shoot at a faster rate, however if you hold it down for too long your gun will jam and you have to wait a few seconds before you can shoot again. Shooting by holding down the right action button will allow you to strafe using the directional pad.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 129,
+                "name": "Diagonal-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 101879,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/101879/virus-lqp-79/",
+        "num_votes": 0,
+        "official_url": "http://www.team-arg.org/vlqp-manual.html",
+        "platforms": [
+            [
+                {
+                    "id": 215,
+                    "name": "Arduboy"
+                },
+                "2016-06-08"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/covers/1204491-virus-lqp-79-arduboy-front-cover.png",
+            "platforms": [
+                "Arduboy"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/326082a0-ab73-11ed-8e21-02420a00019b.webp",
+            "width": 700
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Encroaching zombie.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/7776839-virus-lqp-79-arduboy-encroaching-zombie.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fdc47a20-abf8-11ed-8a97-02420a00012d.webp",
+                "width": 128
+            },
+            {
+                "caption": "Game Over",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/7778291-virus-lqp-79-arduboy-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fd5fb388-abf8-11ed-8949-02420a00012e.webp",
+                "width": 128
+            },
+            {
+                "caption": "Finding a survivor.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/7775418-virus-lqp-79-arduboy-finding-a-survivor.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f9820de2-abf8-11ed-b6e7-02420a000135.webp",
+                "width": 128
+            },
+            {
+                "caption": "Beginning the first level.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/7775421-virus-lqp-79-arduboy-beginning-the-first-level.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f9a3a93e-abf8-11ed-b6e7-02420a000135.webp",
+                "width": 128
+            },
+            {
+                "caption": "Time is running out.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/7775415-virus-lqp-79-arduboy-time-is-running-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f957d8ba-abf8-11ed-b6e7-02420a000135.webp",
+                "width": 128
+            }
+        ],
+        "title": "Virus LQP-79"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Mystic Balloon</em> is a simple 2D platformer. The goal of each level is to find the key then head to the exit to move onto the next level. Throughout each level are spikes and enemies which will pop your balloons. You start each level will three balloons and if all of them are popped its game over. Each balloon you have left at the end of the level will give you bonus points. You can also find six coins that are scattered throughout the level, these coins give you bonus points the end as well.</p>\n<p>To control your character you use the directional pad to move left and right, and the right action button to jump. Pressing and holding the right action button while your in the air will allow you to use your balloons to float. You can suck up enemies by pressing and holding the left action button, doing this will replenish one of your balloons.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 21,
+                "name": "Platform"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            }
+        ],
+        "id": 101885,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/101885/mystic-balloon/",
+        "num_votes": 0,
+        "official_url": "http://www.team-arg.org/mybl-manual.html",
+        "platforms": [
+            [
+                {
+                    "id": 215,
+                    "name": "Arduboy"
+                },
+                "2016-07-15"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/covers/1205753-mystic-balloon-arduboy-front-cover.jpg",
+            "platforms": [
+                "Arduboy"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/34dd42f2-ab73-11ed-8e21-02420a00019b.webp",
+            "width": 700
+        },
+        "sample_screenshots": [
+            {
+                "caption": "The end is in sight.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/7777054-mystic-balloon-arduboy-the-end-is-in-sight.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fb57ad48-abf8-11ed-927d-02420a00012f.webp",
+                "width": 128
+            },
+            {
+                "caption": "Sucking up the strange spider.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/7776448-mystic-balloon-arduboy-sucking-up-the-strange-spider.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f690f436-abf8-11ed-af3d-02420a00012f.webp",
+                "width": 128
+            },
+            {
+                "caption": "Game Over",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/7777345-mystic-balloon-arduboy-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f9da6942-abf8-11ed-a631-02420a000135.webp",
+                "width": 128
+            },
+            {
+                "caption": "Onto the next level.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/7778057-mystic-balloon-arduboy-onto-the-next-level.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fcf374c0-abf8-11ed-b950-02420a00012d.webp",
+                "width": 128
+            },
+            {
+                "caption": "Title Screen",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/7777102-mystic-balloon-arduboy-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fee6ef50-abf8-11ed-927d-02420a00012f.webp",
+                "width": 128
+            }
+        ],
+        "title": "Mystic Balloon"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Fantasy Rampage</em> is a very simple card game that can be played against the computer or with another player. The game is split into two game modes, \"Basic\" and \"Advanced\". In the basic mode, each player is four cards out of a 48 card deck. Both players draw a fifth card at the beginning of each turn. The first player plays one of their cards, followed by the second player, and the winner of the round is the player who plays the card with the highest value. The player who wins is the one who goes first during the next round. The game ends once all cards have been played, with the player with the most wins is crowned the victor.</p>\n<p>The advanced mode plays mostly the same but with a number of additional elements. Each card has one of four elements: air, earth, fire, and water. At the beginning of each round a element is picked at random and all cards with that element get a plus one bonus in value. Certain cards also have bonus abilities which reduce the value of cards which have a different element then its own.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            }
+        ],
+        "id": 101907,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/101907/fantasy-rampage/",
+        "num_votes": 0,
+        "official_url": "http://www.team-arg.org/frmp-manual.html",
+        "platforms": [
+            [
+                {
+                    "id": 215,
+                    "name": "Arduboy"
+                },
+                "2017-06-11"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/covers/1280460-fantasy-rampage-arduboy-front-cover.jpg",
+            "platforms": [
+                "Arduboy"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/cda2db46-ab73-11ed-a44e-02420a000199.webp",
+            "width": 700
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Beginning of the first round.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/7788509-fantasy-rampage-arduboy-beginning-of-the-first-round.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1067e4dc-abf9-11ed-a710-02420a000136.webp",
+                "width": 128
+            },
+            {
+                "caption": "Selecting number of players.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/7786469-fantasy-rampage-arduboy-selecting-number-of-players.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0dd72ade-abf9-11ed-9b47-02420a000133.webp",
+                "width": 128
+            },
+            {
+                "caption": "The computer is victorious for now.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/7786466-fantasy-rampage-arduboy-the-computer-is-victorious-for-now.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0da19c2a-abf9-11ed-9b47-02420a000133.webp",
+                "width": 128
+            },
+            {
+                "caption": "Selecting the game mode.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/7788512-fantasy-rampage-arduboy-selecting-the-game-mode.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/109cb5e0-abf9-11ed-a710-02420a000136.webp",
+                "width": 128
+            },
+            {
+                "caption": "Selecting a card to play.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/7788506-fantasy-rampage-arduboy-selecting-a-card-to-play.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/103439fc-abf9-11ed-a710-02420a000136.webp",
+                "width": 128
+            }
+        ],
+        "title": "Fantasy Rampage"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Robo Dodge</em> is a simple game were you control a robot and have to avoid waves of rockets coming at you from the right side of the screen. You start off with three hearts of health and once all of your hearts are gone the game ends. Occasionally, extra hearts will spawn which you can collect, as well as a power up which will temporarily increase your movement speed. Your robot is controlled using the directional pad.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 101924,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/101924/robo-dodge/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 215,
+                    "name": "Arduboy"
+                },
+                "2015-10-19"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Robo Dodge"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Glove</em> is an action adventure game inspired by the arcade classic <a href=\"https://www.mobygames.com/search/?q=Gauntlet\">Gauntlet</a>. In the game, you must fight your way various levels, collecting treasure along the way to increase your score. A timer at the bottom left that counts down as you play acts as your health. Getting hit by enemies will take time off the timer, and once the timer reaches zero it's game over. You can replenish some of your timer by finding lemons scattered throughout the levels.  </p>\n<p>You control your using the directional pad to move about and using the right action button to shoot.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 101930,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/101930/glove/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 215,
+                    "name": "Arduboy"
+                },
+                "2015-06-09"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Glove"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Ninja Fuzzgrawth</em> is a game where you play as an anthropomorphic dog, who is also a ninja. In the game you must climb up through three perilous towers without losing all your health and before the timer in the top right runs out. Each tower is made up of multiple sections which are randomly ordered each time you play. At the end of each level you will receive bonus time added to the timer for each of your remaining lives, as well as small time bonuses for enemies killed and windows smashed. You control your character using the directional pad to move about, the left action button to attack with your sword, and the right action button to jump.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 21,
+                "name": "Platform"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 101932,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/101932/ninja-fuzzgrawth/",
+        "num_votes": 0,
+        "official_url": "https://hundstrasse.com/arduboy-games/ninja-fuzzgrawth/",
+        "platforms": [
+            [
+                {
+                    "id": 215,
+                    "name": "Arduboy"
+                },
+                "2017-10-19"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/covers/1358675-ninja-fuzzgrawth-arduboy-front-cover.png",
+            "platforms": [
+                "Arduboy"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/722e1fe0-ab74-11ed-9505-02420a00019c.webp",
+            "width": 700
+        },
+        "sample_screenshots": [],
+        "title": "Ninja Fuzzgrawth"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Zoo at Midnight</em> is a game where you play as a large insect who is on a quest to feed all the animals at the zoo, as the zoo keepers have forgotten to do so. To do this you must sneak past the patrolling wardens, collect the food hidden in the level, and feed that food to its corresponding animal. There are a total of three animals to feed, a elephant, a lion, and a zebra. Once you have fed all the animals you can leave the zoo and end the game. Getting caught by the wardens will either take you back to the point at which you entered the screen you are currently on when your on normal difficulty, or give you a game over if you are playing on hard difficulty.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 99,
+                "name": "Stealth"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 101933,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/101933/zoo-at-midnight/",
+        "num_votes": 0,
+        "official_url": "https://hundstrasse.com/arduboy-games/zoo-at-midnight/",
+        "platforms": [
+            [
+                {
+                    "id": 215,
+                    "name": "Arduboy"
+                },
+                "2017-06-15"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/covers/1358785-zoo-at-midnight-arduboy-front-cover.png",
+            "platforms": [
+                "Arduboy"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/7273ef5c-ab74-11ed-9505-02420a00019c.webp",
+            "width": 700
+        },
+        "sample_screenshots": [],
+        "title": "Zoo at Midnight"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Not Just a Hat Rack</em> is a game where you play a hat called Karlville who needs to jump his way through various single screen levels in order to hang himself on the hat rack. The game introduces various mechanics as you progress through the game's 40 levels, including spikes that can kill you, blocks that need to be touched in order for the hat rack to appear, teleporter, and areas where the level wraps around. You control the hat by using the directional pad to move about and the action buttons to jump.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 21,
+                "name": "Platform"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 101958,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/101958/not-just-a-hat-rack/",
+        "num_votes": 0,
+        "official_url": "https://hundstrasse.com/arduboy-games/not-just-a-hat-rack/",
+        "platforms": [
+            [
+                {
+                    "id": 215,
+                    "name": "Arduboy"
+                },
+                "2017-03-10"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/covers/1440729-not-just-a-hat-rack-arduboy-front-cover.jpg",
+            "platforms": [
+                "Arduboy"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/22a91e1a-ab75-11ed-aecf-02420a000198.webp",
+            "width": 700
+        },
+        "sample_screenshots": [],
+        "title": "Not Just a Hat Rack"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Evade</em> is a side-scrolling shooter where you have to escape a space colony which has been invaded and destroyed by aliens. You start the game with four lives which you have to use to last as long as possible while earning points. You move around your ship using the directional pad. You ship has two weapon types, the first type (which is used by pressing the right action button) is the weakest of the two however it doesn't use any energy, while the second type (used by pressing the left action button) does more damage but uses some of your energy bar at the top of the screen. This energy bar gradually regenerates while it is not being used.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 102091,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/102091/evade/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 215,
+                    "name": "Arduboy"
+                },
+                "2016-12-23"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Evade"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Evade 2</em> is a first-person 3D space shooter with vector inspired graphics. It is the sequel to Modus Create's first Arduboy game, <a href=\"https://www.mobygames.com/game/102091/evade/\">Evade</a>. The game consists of multiple stages, each of which consist of two part. During the first part you have to destroy waves of enemies while also avoiding any asteroids. After you have done this. you will then face up against a boss which you will have to destroy in order to proceed to the next stage. You control your ship using the directional pad to move about, the left action button to shoot, and the right action button to boost your ships speed for a short amount of time.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 102104,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/102104/evade-2/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 215,
+                    "name": "Arduboy"
+                },
+                "2017-12-20"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Evade 2"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Atomic Puzzle Pack</em> is a collection of three tile-matching puzzle games:<em> </em><em>Brick Layer:</em>* in this game, rows of blocks slowly march down from the top of the screen and you need to match four or more of them together in order to make them disappear and prevent them from reaching the bottom which causes a game over. You create these matches by picking up the blocks at the bottom and placing them elsewhere. There are three different types of blocks and you can carry three of the same kind of block at once.</p>\n<ul>\n<li>\n<p><strong>Diatoms:</strong> in this game you have a central vertical row of piece you can control and pieces falling in from the left and right sides. You can move the central row of pieces up and down. You can also move pieces horizontally, allowing you to move pieces that have falling in from the sides in the vertical row. Once the screen is filled up with pieces you get a game over, so you must create matches of three or more pieces with the vertical row to remove them.</p>\n</li>\n<li>\n<p><strong>Pop Drop:</strong> in this game, pieces gradually fall in from the top, so you must move the pieces around to create matches of three or more in order to stop them filling up the screen. You do this by selecting a piece then pressing the direction you would like to move it to.</p>\n</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 145,
+                "name": "Falling block puzzle"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 154,
+                "name": "Tile matching puzzle"
+            }
+        ],
+        "id": 102126,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/102126/atomic-puzzle-pack/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 215,
+                    "name": "Arduboy"
+                },
+                "2015-10-27"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Atomic Puzzle Pack"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Rayne the Rogue</em> is a game where you play a rogue who is on a quest to steal treasure from dragons. The game itself is simple, you are placed in a cave and most collect up all the treasure you can while avoiding the dragon's projectiles, then head to the exit to go to the next cave. Once you get the fifth cave and onward you will have to pick up a key before you can exit the cave. After every game you play your score is added to your total score. This total score can be used to upgrade your stats before starting a game, however these upgrades disappear when you die. The stats that can be upgraded are: cold resistance (C), acid resistance (A), Luck (L), Invisibility (I), and Speed (P).</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            }
+        ],
+        "id": 102132,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/102132/rayne-the-rogue/",
+        "num_votes": 0,
+        "official_url": "http://neoretro.games/#ARDUBOY_RAYNE_THE_ROGUE",
+        "platforms": [
+            [
+                {
+                    "id": 215,
+                    "name": "Arduboy"
+                },
+                "2017-04-15"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/covers/1698324-rayne-the-rogue-arduboy-front-cover.png",
+            "platforms": [
+                "Arduboy"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/72130004-ab77-11ed-8ed2-02420a0001a0.webp",
+            "width": 700
+        },
+        "sample_screenshots": [],
+        "title": "Rayne the Rogue"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Siege</em> is a shooter game where you play as a archer who must hold off the Dark Lord's army who are laying siege to the castle. You must do this for twenty days, after which the king's army will arrive to fight back. To do this you must use the up and down buttons to move between the three windows and use the right action button to rapidly shoot arrows. As the days go by the damage dealt by your arrows will increase, and on the fifth day a wizard will arrive. You can use the wizard's magic by pressing the right button which will do damage to all enemies on the screen, however it can only be used a couple of times before it has to recharge.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            }
+        ],
+        "id": 102136,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/102136/siege/",
+        "num_votes": 0,
+        "official_url": "http://neoretro.games/#ARDUBOY_SIEGE",
+        "platforms": [
+            [
+                {
+                    "id": 215,
+                    "name": "Arduboy"
+                },
+                "2017-05-01"
+            ]
+        ],
+        "sample_cover": {
+            "height": 101,
+            "image_url": "https://cdn.mobygames.com/covers/1698615-siege-arduboy-front-cover.png",
+            "platforms": [
+                "Arduboy"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/72bbcbbc-ab77-11ed-8ed2-02420a0001a0.webp",
+            "width": 700
+        },
+        "sample_screenshots": [],
+        "title": "Siege"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Leanna the Lion</em> is a game where you control a lion who has escape the zoo and wants some fresh meat. In the game you run along a three lane track and eat the fleeing humans (and occasionally monkeys) while avoiding obstacles. You can move between the lanes using the directional pad and you can also quickly boost forward by pressing the left action button. The obstacles you will encounter include: a oil slick, which will cause you to temporarily lose control; a zoo keeper with a cage; a elephant; a zoo keeper with a gun who will appear in the centre lane most of the time, and another zoo keeper with a gun who will appear in a truck and will shoot you if you don't dodge out of the way of his shot.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 102137,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/102137/leanna-the-lion/",
+        "num_votes": 0,
+        "official_url": "http://neoretro.games/#ARDUBOY_LEANNA_THE_LION",
+        "platforms": [
+            [
+                {
+                    "id": 215,
+                    "name": "Arduboy"
+                },
+                "2017-05-21"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/covers/1698805-leanna-the-lion-arduboy-front-cover.png",
+            "platforms": [
+                "Arduboy"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/73274ef0-ab77-11ed-8ed2-02420a0001a0.webp",
+            "width": 700
+        },
+        "sample_screenshots": [],
+        "title": "Leanna the Lion"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Omega Horizon</em> is a Metroid inspired game were you are tasked with cleaning out all the alien creatures that have infested the mine on the planet Turnax. You do this by collecting various power-ups scattered throughout the level in order to increase the power of your weapon, which will allow you to kill stronger enemies and open closed doors. You control your character using the d-pad to move left or right, the right action button to jump, and the left action button to shoot your weapon.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 24,
+                "name": "Metroidvania"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 21,
+                "name": "Platform"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 107351,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/107351/omega-horizon/",
+        "num_votes": 0,
+        "official_url": "http://neoretro.games/#ARDUBOY_OMEGA_HORIZON",
+        "platforms": [
+            [
+                {
+                    "id": 215,
+                    "name": "Arduboy"
+                },
+                "2017-06-01"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/covers/3204875-omega-horizon-arduboy-front-cover.jpg",
+            "platforms": [
+                "Arduboy"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/fd12755a-ab8a-11ed-9ae2-02420a0001a0.webp",
+            "width": 700
+        },
+        "sample_screenshots": [],
+        "title": "Omega Horizon"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>1 Billion Floors</em> is an idle game inspired by an XKCD What If? article titled \"Billion-Story Building\". In the game you are tasked with creating a building with one million floors. Pressing up on the d-pad will create the floors of this building while costing you money. Pressing down on the d-pad will allow you to acquire more money. You can increase the rate at-which you build floors by hiring workers by pressing the right action button, and you can increase the rate at-which you acquire money by hiring lawyers by pressing the left action button.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            }
+        ],
+        "id": 107353,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/107353/1-billion-floors/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 215,
+                    "name": "Arduboy"
+                },
+                "2016-10-25"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "1 Billion Floors"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Unicorn Dash</em> is a simple endless runner where you control a unicorn that is running through the clouds. Along your way you will encounter enemies that you will have to jump over, failing to do so will cause you to get a game over. You will find stars that you can collect, these stars increase the rate at-which you accumulate points. You control your unicorn by using the d-pad to move it closer to the left or right side of the screen, however you cannot do this while jumping (which you do by pressing the right action button).</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            }
+        ],
+        "id": 107357,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/107357/unicorn-dash/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 215,
+                    "name": "Arduboy"
+                },
+                "2018-02-24"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Unicorn Dash"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "working title",
+                "title": "Back2Jungle"
+            }
+        ],
+        "description": "<p><em>Back to the Jungle</em> is a horizontal Frogger-like game where you control a bunch of animals who have been left behind after the zoo was shut down. You goal is to get each animal across the highway in order to get to the jungle on the other side. You have a total of three lives and once those are used up it's game over. You control each animal using the d-pad to move about, you can also tap the left action button to give your animal a little speed boost.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 107360,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/107360/back-to-the-jungle/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 215,
+                    "name": "Arduboy"
+                },
+                "2017-05-21"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Back to the Jungle"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Arduventure: Trail of the Blade</em> is a classic 8-bit Japanese-style role-playing game. Darkness is on the brink of spreading across lands just like it once did long ago, and you, and young boy from a small village, must journey to recover the pieces of a long lost magical blade and defeat the fearsome beasts that stand in your way. The world is split into four regions, each of which contain a boss which must be defeat in order to proceed to the next region. The gameplay is fairly straight forward, you walk around the world, running into random encounters and finding chests which can contain useful goodies. You can heal you character completely for free at an inn and purchase consumables at a shop. Battles are turn-based, each turn you are given the choice to attack with your currently equipped weapon (or your fists if you don't have a weapon yet), cast a spell, use an item, or try to run away. Winning a battle will reward you with experience and some gold.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 50,
+                "name": "Role-playing (RPG)"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 129,
+                "name": "Diagonal-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 147,
+                "name": "Japanese-style RPG (JRPG)"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            }
+        ],
+        "id": 108052,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/108052/arduventure-trail-of-the-blade/",
+        "num_votes": 0,
+        "official_url": "http://arduboy.com/arduventure/",
+        "platforms": [
+            [
+                {
+                    "id": 215,
+                    "name": "Arduboy"
+                },
+                "2018-05-01"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/covers/3286303-arduventure-trail-of-the-blade-arduboy-front-cover.png",
+            "platforms": [
+                "Arduboy"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/7275f1f4-ab8c-11ed-9d80-02420a00019a.webp",
+            "width": 700
+        },
+        "sample_screenshots": [],
+        "title": "Arduventure: Trail of the Blade"
+    }
+]

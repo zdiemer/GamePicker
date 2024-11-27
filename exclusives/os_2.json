@@ -1,0 +1,1671 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p>Play against the computer in a game of connect four. The player must get place four red pieces in a row (vertically, horizontally, or diagonally) before the computer places four blue pieces in a row. Pieces may be place at the top of columns, as though dropped in, either at the bottom row of an empty column or on top of any pieces already present.</p>\n<p>Four difficulty levels are available. The player may choose to go first or second, and game will provide a hint upon request.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            }
+        ],
+        "id": 66210,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/66210/connect-four/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 146,
+                    "name": "OS/2"
+                },
+                "1993-05-28"
+            ]
+        ],
+        "sample_cover": {
+            "height": 480,
+            "image_url": "https://cdn.mobygames.com/screenshots/12213632-connect-four-os2-its-the-players-turn.png",
+            "platforms": [
+                "OS/2"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/4084f472-ac1f-11ed-a161-02420a000136.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "On-line help is provided.",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/8914268-connect-four-os2-on-line-help-is-provided.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bcef65e6-ac02-11ed-b013-02420a00012e.webp",
+                "width": 640
+            },
+            {
+                "caption": "It's the player's turn.",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/12213632-connect-four-os2-its-the-players-turn.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4084f472-ac1f-11ed-a161-02420a000136.webp",
+                "width": 640
+            },
+            {
+                "caption": "Several options are available.",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/12214722-connect-four-os2-several-options-are-available.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/40c1b8c6-ac1f-11ed-8d2f-02420a00012e.webp",
+                "width": 640
+            },
+            {
+                "caption": "The computer wins!",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/8905915-connect-four-os2-the-computer-wins.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b673b4ba-ac02-11ed-8a97-02420a00012d.webp",
+                "width": 640
+            }
+        ],
+        "title": "Connect Four"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>SIRTET</em> is a variant of <em>Tetris</em>. The object is to fill complete horizontal lines with the pieces that drop from the top of the screen by rotating the pieces and dropping them on the playing field. <em>SIRTET</em> differs from <em>Tetris</em> in that it does not offer the standard set of seven tetrominoes. Instead, the player select which of nine different pieces can drop. Additionally, the play may configure several other options, including the speed with which pieces drop and the size of the playing field.</p>\n<p>The player scores by dropping a piece before it reaches the bottom. <em>SIRTET</em> keeps a 'hall of fame' recording the 20 highest scores.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 145,
+                "name": "Falling block puzzle"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 66214,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/66214/sirtet/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 146,
+                    "name": "OS/2"
+                },
+                "1991"
+            ]
+        ],
+        "sample_cover": {
+            "height": 480,
+            "image_url": "https://cdn.mobygames.com/screenshots/12214168-sirtet-os2-an-auspicious-beginning.png",
+            "platforms": [
+                "OS/2"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/3ccf9cf6-ac1f-11ed-b7c8-02420a000136.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "The background image and the types of bricks that drop can be selected by the player.",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/12214174-sirtet-os2-the-background-image-and-the-types-of-bricks-that-dro.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3dc36d04-ac1f-11ed-b7c8-02420a000136.webp",
+                "width": 640
+            },
+            {
+                "caption": "Now I have a little more breathing room.",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/12214189-sirtet-os2-now-i-have-a-little-more-breathing-room.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/40858e64-ac1f-11ed-b7c8-02420a000136.webp",
+                "width": 640
+            },
+            {
+                "caption": "This piece will be useful.",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/12214186-sirtet-os2-this-piece-will-be-useful.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3fdc4458-ac1f-11ed-b7c8-02420a000136.webp",
+                "width": 640
+            },
+            {
+                "caption": "An auspicious beginning.",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/12214168-sirtet-os2-an-auspicious-beginning.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3ccf9cf6-ac1f-11ed-b7c8-02420a000136.webp",
+                "width": 640
+            },
+            {
+                "caption": "I've built up a fairly good stack of pieces.",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/12214207-sirtet-os2-ive-built-up-a-fairly-good-stack-of-pieces.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/43481a4a-ac1f-11ed-b7c8-02420a000136.webp",
+                "width": 640
+            }
+        ],
+        "title": "SIRTET"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>PMLIFE</em> is an implementation of Conway's Game of Life for the OS/2 Presentation Manager. The Game of Life is a cellular automaton which obeys the following rules:</p>\n<ol>\n<li>The 'game board' is a grid</li>\n<li>Cells on the board may be 'alive' or 'dead'</li>\n<li>At the beginning of each turn, live cells with fewer that two or more than three live neighbors die</li>\n<li>At the beginning of each turn, dead cells with exactly three live neighbors become alive</li>\n</ol>\n<p><em>PMLIFE</em> supports field sizes of 1024x1024, 512x512, or 256x256, and at most 10,000 cells may be alive any one time.</p>\n<p>The player can create data files with a text editor representing new initial configurations for the game board, then run them in <em>PMLIFE</em>.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            }
+        ],
+        "id": 66218,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/66218/pmlife/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 146,
+                    "name": "OS/2"
+                },
+                "1996"
+            ]
+        ],
+        "sample_cover": {
+            "height": 480,
+            "image_url": "https://cdn.mobygames.com/screenshots/12212716-pmlife-os2-when-the-game-starts-no-cells-are-initially-loaded.png",
+            "platforms": [
+                "OS/2"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/3b0802d2-ac1f-11ed-893a-02420a00012f.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "The grid may be zoomed in or out, and the foreground and background colors may be changed.",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/12213647-pmlife-os2-the-grid-may-be-zoomed-in-or-out-and-the-foreground-a.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4278b688-ac1f-11ed-a161-02420a000136.webp",
+                "width": 640
+            },
+            {
+                "caption": "The 'Pi' heptomino after 696 turns.",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/12213641-pmlife-os2-the-pi-heptomino-after-696-turns.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/41b6b664-ac1f-11ed-a161-02420a000136.webp",
+                "width": 640
+            },
+            {
+                "caption": "Various options can be set.",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/12213644-pmlife-os2-various-options-can-be-set.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/42256c4e-ac1f-11ed-a161-02420a000136.webp",
+                "width": 640
+            },
+            {
+                "caption": "When the game starts, no cells are initially loaded.",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/12212716-pmlife-os2-when-the-game-starts-no-cells-are-initially-loaded.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3b0802d2-ac1f-11ed-893a-02420a00012f.webp",
+                "width": 640
+            },
+            {
+                "caption": "Gliders move across the board while keeping their shapes.",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/12213638-pmlife-os2-gliders-move-across-the-board-while-keeping-their-sha.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/414ac9ea-ac1f-11ed-a161-02420a000136.webp",
+                "width": 640
+            }
+        ],
+        "title": "PMLIFE"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Las Vegas Craps</em> is a gambling game simulating the dice game craps. The player borrows money to begin, then bets on the outcome of the roll of the dice. Numerous different kinds of bets are available, and options may be set to restrict the minimum or maximum bet. Additionally, the game may be configured to automatically take money to pay off the player's loan as the game proceeds.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 172,
+                "name": "Menu structures"
+            }
+        ],
+        "id": 66233,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/66233/las-vegas-craps/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 146,
+                    "name": "OS/2"
+                },
+                "1992-12-14"
+            ]
+        ],
+        "sample_cover": {
+            "height": 480,
+            "image_url": "https://cdn.mobygames.com/screenshots/16803619-las-vegas-craps-os2-a-fresh-new-game.png",
+            "platforms": [
+                "OS/2"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/081b2584-c38a-11ed-9226-02420a000121.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "I win! A $50 profit.",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16803109-las-vegas-craps-os2-i-win-a-50-profit.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a8ef83f2-c389-11ed-9226-02420a000121.webp",
+                "width": 640
+            },
+            {
+                "caption": "After a few more bets, though, my luck isn't so good. I'm out of cash!",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16803622-las-vegas-craps-os2-after-a-few-more-bets-though-my-luck-isnt-so.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/08394eec-c38a-11ed-9226-02420a000121.webp",
+                "width": 640
+            },
+            {
+                "caption": "Fortunately, the game will let you borrow more money.",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16803616-las-vegas-craps-os2-fortunately-the-game-will-let-you-borrow-mor.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/07f885f6-c38a-11ed-9226-02420a000121.webp",
+                "width": 640
+            },
+            {
+                "caption": "A fresh, new game.",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16803619-las-vegas-craps-os2-a-fresh-new-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/081b2584-c38a-11ed-9226-02420a000121.webp",
+                "width": 640
+            },
+            {
+                "caption": "I've made a pass line bet, and the dice came up 8. I now win if 8 comes up before 7.",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/15692332-las-vegas-craps-os2-ive-made-a-pass-line-bet-and-the-dice-came-u.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a9016486-bec6-11ed-9c42-02420a000140.webp",
+                "width": 640
+            }
+        ],
+        "title": "Las Vegas Craps"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>JumpEm</em> is an implementation of peg solitaire. The game board is cross shaped, initially containing 45 holes, all but the center of which contain pegs. The object of the game is to remove all but one peg from the board. Pegs may be moved by 'jumping' a peg over another into an empty hole. The peg that was 'jumped' over is removed. Play continues until no legal moves are available.</p>\n<p>It is possible to save or load a game in progress. Additionally, it is possible to change the game's colors by dropping colors from the OS/2 color palette onto the play area.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            }
+        ],
+        "id": 66236,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/66236/jumpem/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 146,
+                    "name": "OS/2"
+                },
+                "1993"
+            ]
+        ],
+        "sample_cover": {
+            "height": 480,
+            "image_url": "https://cdn.mobygames.com/screenshots/16803103-jumpem-os2-the-initial-configuration-of-the-game-board.png",
+            "platforms": [
+                "OS/2"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/a8ad8286-c389-11ed-9226-02420a000121.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "A game in progress.",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16803097-jumpem-os2-a-game-in-progress.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a831d7b2-c389-11ed-9226-02420a000121.webp",
+                "width": 640
+            },
+            {
+                "caption": "The initial configuration of the game board.",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16803103-jumpem-os2-the-initial-configuration-of-the-game-board.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a8ad8286-c389-11ed-9226-02420a000121.webp",
+                "width": 640
+            },
+            {
+                "caption": "Game over! 7 pegs left--not bad for my first try.",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16803106-jumpem-os2-game-over-7-pegs-left-not-bad-for-my-first-try.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a8cb9f6e-c389-11ed-9226-02420a000121.webp",
+                "width": 640
+            }
+        ],
+        "title": "JumpEm"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>OS/2 PM Bingo</em> is a computer bingo game. The player may play up to 12 cards, either against the computer or alone. The computer can be set to select numbers on a timer or when the player presses a key, and it can be set to automatically mark matches on the player's card or cards.</p>\n<p>The color of the chips and the time between numbers being automatically selected may be configured.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            }
+        ],
+        "id": 66250,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/66250/os2-pm-bingo/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 146,
+                    "name": "OS/2"
+                },
+                "1993"
+            ]
+        ],
+        "sample_cover": {
+            "height": 320,
+            "image_url": "https://cdn.mobygames.com/screenshots/16461337-os2-pm-bingo-os2-a-game-in-progress-the-cards-reflect-numbers-al.png",
+            "platforms": [
+                "OS/2"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/c3616bec-c221-11ed-ab6b-02420a000194.webp",
+            "width": 512
+        },
+        "sample_screenshots": [
+            {
+                "caption": "A game in progress. The cards reflect numbers already selected.",
+                "height": 320,
+                "image_url": "https://cdn.mobygames.com/screenshots/16461337-os2-pm-bingo-os2-a-game-in-progress-the-cards-reflect-numbers-al.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c3616bec-c221-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Several gameplay options may be configured.",
+                "height": 334,
+                "image_url": "https://cdn.mobygames.com/screenshots/16461916-os2-pm-bingo-os2-several-gameplay-options-may-be-configured.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e9890906-c221-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "More options.",
+                "height": 334,
+                "image_url": "https://cdn.mobygames.com/screenshots/16461991-os2-pm-bingo-os2-more-options.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ee38d4a4-c221-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "The computer wins this game.",
+                "height": 320,
+                "image_url": "https://cdn.mobygames.com/screenshots/16462033-os2-pm-bingo-os2-the-computer-wins-this-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f0cae55e-c221-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            }
+        ],
+        "title": "OS/2 PM Bingo"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Master Mind</em> is an implementation of the code-breaking game <em>Mastermind</em>. The player guesses a permutation of four (not necessarily distinct) colors from six possible colors. Then, the game responds by telling the player how many colors were correct and in the correct position, and how many were correct but in the wrong position. From these clues, the player must make a new guess, with the aim of selecting the right colors in the right position. The player gets at most twelve tries.</p>\n<p><em>Master Mind</em> offers two difficulty levels: Beginner and Master. On Beginner difficulty, the four colors are guaranteed to be distinct. On Master difficulty, repeated colors are possible.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            }
+        ],
+        "id": 66256,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/66256/master-mind/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 146,
+                    "name": "OS/2"
+                },
+                "1993-05-28"
+            ]
+        ],
+        "sample_cover": {
+            "height": 480,
+            "image_url": "https://cdn.mobygames.com/screenshots/16802752-master-mind-os2-a-fresh-game-no-guesses-have-yet-been-made.png",
+            "platforms": [
+                "OS/2"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/74c6b514-c389-11ed-9226-02420a000121.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "If the player has not guessed the code after twelve tries, the game is lost.",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16802755-master-mind-os2-if-the-player-has-not-guessed-the-code-after-twe.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/74e57bac-c389-11ed-9226-02420a000121.webp",
+                "width": 640
+            },
+            {
+                "caption": "A series of guesses, in the four columns on the right, yield clues in the first column on the left. By studying these clues, it was possible to make the final (top) guess, which was correct.",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16802758-master-mind-os2-a-series-of-guesses-in-the-four-columns-on-the-r.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7502fe5c-c389-11ed-9226-02420a000121.webp",
+                "width": 640
+            },
+            {
+                "caption": "A fresh game. No guesses have yet been made.",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16802752-master-mind-os2-a-fresh-game-no-guesses-have-yet-been-made.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/74c6b514-c389-11ed-9226-02420a000121.webp",
+                "width": 640
+            }
+        ],
+        "title": "Master Mind"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Tic Tac Toe</em> is an implementation of the familiar game plus some variations. The usual game is played on a 3x3 board, with players alternating placing pieces in an attempt to get three in a row. Alternatively, <em>Tic Tac Toe</em> offers 3x3x3 and 4x4x4 boards to play on. In the 3x3x3 game, the player still must line up three pieces in a row, but the board is extended into three dimension. The 4x4x4 game is similar, but requires four pieces in a row to win.</p>\n<p><em>Tic Tac Toe</em> offers a choice of two difficulty levels, Beginner or Master, and the player may choose whether to go first or second.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 25,
+                "name": "Isometric"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 167,
+                "name": "Point and select"
+            }
+        ],
+        "id": 66379,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/66379/tic-tac-toe/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 146,
+                    "name": "OS/2"
+                },
+                "1994"
+            ]
+        ],
+        "sample_cover": {
+            "height": 139,
+            "image_url": "https://cdn.mobygames.com/screenshots/16479601-tic-tac-toe-os2-the-3x3-game-begins.png",
+            "platforms": [
+                "OS/2"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/b1237650-c226-11ed-ab6b-02420a000194.webp",
+            "width": 212
+        },
+        "sample_screenshots": [
+            {
+                "caption": "The 3x3 game begins.",
+                "height": 139,
+                "image_url": "https://cdn.mobygames.com/screenshots/16479601-tic-tac-toe-os2-the-3x3-game-begins.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b1237650-c226-11ed-ab6b-02420a000194.webp",
+                "width": 212
+            },
+            {
+                "caption": "Several options are available.",
+                "height": 194,
+                "image_url": "https://cdn.mobygames.com/screenshots/16481788-tic-tac-toe-os2-several-options-are-available.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5e382d4a-c227-11ed-ab6b-02420a000194.webp",
+                "width": 212
+            },
+            {
+                "caption": "The 3x3 game ends in a draw, with perfect play.",
+                "height": 139,
+                "image_url": "https://cdn.mobygames.com/screenshots/16479559-tic-tac-toe-os2-the-3x3-game-ends-in-a-draw-with-perfect-play.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/af3a4396-c226-11ed-ab6b-02420a000194.webp",
+                "width": 212
+            },
+            {
+                "caption": "The player may choose to play on a 3x3x3 board, like this, or even 4x4x4.",
+                "height": 299,
+                "image_url": "https://cdn.mobygames.com/screenshots/16480552-tic-tac-toe-os2-the-player-may-choose-to-play-on-a-3x3x3-board-l.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f52e0da6-c226-11ed-ab6b-02420a000194.webp",
+                "width": 212
+            }
+        ],
+        "title": "Tic Tac Toe"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Computerized Repeat</em> is a simple memory game in the same vein as <em>Simon</em>. The game board consist of four colors. The game begins by indicating a single color, which the player must repeat. On each subsequent turn, the game adds an additional color to the sequence. The player must continue to repeat the ever-growing sequence of colors for as long as possible.</p>\n<p><em>Computerized Repeat</em> offers a selection of four difficulty levels and five speeds.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 218,
+                "name": "Timed input"
+            }
+        ],
+        "id": 66397,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/66397/computerized-repeat/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 146,
+                    "name": "OS/2"
+                },
+                "1988"
+            ]
+        ],
+        "sample_cover": {
+            "height": 100,
+            "image_url": "https://cdn.mobygames.com/screenshots/16485475-computerized-repeat-os2-the-game-ready-to-be-played.png",
+            "platforms": [
+                "OS/2"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/82718020-c228-11ed-ab6b-02420a000194.webp",
+            "width": 104
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Five speeds, including the idiosyncratically named \"Haulin Ass\", are available.",
+                "height": 162,
+                "image_url": "https://cdn.mobygames.com/screenshots/16485511-computerized-repeat-os2-five-speeds-including-the-idiosyncratica.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/84adc402-c228-11ed-ab6b-02420a000194.webp",
+                "width": 164
+            },
+            {
+                "caption": "Four different difficulty levels are available.",
+                "height": 130,
+                "image_url": "https://cdn.mobygames.com/screenshots/16485466-computerized-repeat-os2-four-different-difficulty-levels-are-ava.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/81901a04-c228-11ed-ab6b-02420a000194.webp",
+                "width": 154
+            },
+            {
+                "caption": "The game, ready to be played.",
+                "height": 100,
+                "image_url": "https://cdn.mobygames.com/screenshots/16485475-computerized-repeat-os2-the-game-ready-to-be-played.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/82718020-c228-11ed-ab6b-02420a000194.webp",
+                "width": 104
+            }
+        ],
+        "title": "Computerized Repeat"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Dungeon Chess</em> is a board game similar to chess, played on an 8x8 board, called the dungeon. The player has access to sixteen weapons of five different types: eight Circs and two each of Arcs, Trigs, Rects, and Stars. Each weapon moves differently: Circs can move one room in any direction; Arcs move like knights in chess; Trigs, like chess bishops, move along diagonals; Rects, like chess rooks, move along the rows and columns; and Stars, like chess queens, can move any number of rooms either diagonally or along the rows and columns.</p>\n<p>Circs and Trigs also have special abilities. Circs, like pawns in chess, can be morphed into any other type of weapon upon reaching the opponent's home row. If a Trig is the last weapon available, it gains the ability to move like a Circ, so that it can access the whole dungeon.</p>\n<p>When starting a new game, the player has the option of starting with an empty dungeon and placing his weapons manually when and where he chooses, or starting with the weapons already placed on the first two rows in a similar manner to the initial configuration of chess pieces.</p>\n<p><em>Dungeon Chess</em> keeps score, but only as an indicator for how the game is going. The game is won when all the opponent's weapons have been captured--there is no checkmate in <em>Dungeon Chess</em>.</p>\n<p>One major difference from chess is that the player can only see those rooms of the dungeon which one of his weapons can access. If, for example, the player has only a Rect left, then only the row and column the Rect occupies will be visible--and the view will be blocked by any weapons that are in the way of movement.</p>\n<p>Two game modes are offered: Master and GrandMaster. In Master mode, the grid of the dungeon is clearly marked and visible rooms are colored differently. In GrandMaster mode, the dungeon is solid black, and the rooms that are visible aren't marked, so the player must carefully inspect the positioning of the weapons to determine which rooms are definitely empty and which are simply out of view.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            }
+        ],
+        "id": 66438,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/66438/dungeon-chess/",
+        "num_votes": 0,
+        "official_url": "http://newearthinvest.com/DunChess.html",
+        "platforms": [
+            [
+                {
+                    "id": 146,
+                    "name": "OS/2"
+                },
+                "1993"
+            ]
+        ],
+        "sample_cover": {
+            "height": 406,
+            "image_url": "https://cdn.mobygames.com/screenshots/16484374-dungeon-chess-os2-starting-a-new-game.png",
+            "platforms": [
+                "OS/2"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/2a089c52-c228-11ed-ab6b-02420a000194.webp",
+            "width": 633
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Or the player may choose to have the dungeon automatically populated with the weapons in a Chess-like arrangement.",
+                "height": 406,
+                "image_url": "https://cdn.mobygames.com/screenshots/16484686-dungeon-chess-os2-or-the-player-may-choose-to-have-the-dungeon-a.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3ee1840e-c228-11ed-ab6b-02420a000194.webp",
+                "width": 633
+            },
+            {
+                "caption": "In GrandMaster mode, it's not so obvious which rooms are visible.",
+                "height": 406,
+                "image_url": "https://cdn.mobygames.com/screenshots/16484371-dungeon-chess-os2-in-grandmaster-mode-its-not-so-obvious-which-r.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/29e54702-c228-11ed-ab6b-02420a000194.webp",
+                "width": 633
+            },
+            {
+                "caption": "In Master mode, it's easy to see which rooms are visible.",
+                "height": 406,
+                "image_url": "https://cdn.mobygames.com/screenshots/16484746-dungeon-chess-os2-in-master-mode-its-easy-to-see-which-rooms-are.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/43c8560a-c228-11ed-ab6b-02420a000194.webp",
+                "width": 633
+            },
+            {
+                "caption": "The dungeon may begin empty.",
+                "height": 406,
+                "image_url": "https://cdn.mobygames.com/screenshots/16484098-dungeon-chess-os2-the-dungeon-may-begin-empty.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/17b66016-c228-11ed-ab6b-02420a000194.webp",
+                "width": 633
+            },
+            {
+                "caption": "Starting a new game.",
+                "height": 406,
+                "image_url": "https://cdn.mobygames.com/screenshots/16484374-dungeon-chess-os2-starting-a-new-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2a089c52-c228-11ed-ab6b-02420a000194.webp",
+                "width": 633
+            }
+        ],
+        "title": "Dungeon Chess"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>TrashMan</em> is a variation on <em>Sokoban</em> in which the player controls the Sanitation Engineer, who, armed only with a push broom, must push piles of trash scattered about each level into garbage cans. It is possible to push only one pile of trash at a time, and trash can only be push forward from behind, so the player must plan the proper route through the mazelike levels in order to get all of the trash piles into the garbage cans. An ill-advised shove could push a trash pile into a corner, from which it cannot be moved.</p>\n<p><em>TrashMan</em> contains fifty levels. For each level, the game records a 'high score', which is the least number of steps taken in solving the puzzle.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 66446,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/66446/trashman/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 146,
+                    "name": "OS/2"
+                },
+                "1993-04-29"
+            ]
+        ],
+        "sample_cover": {
+            "height": 286,
+            "image_url": "https://cdn.mobygames.com/screenshots/16477405-trashman-os2-the-beginning-of-level-1-all-six-trash-piles-must-b.png",
+            "platforms": [
+                "OS/2"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/1f9ad084-c226-11ed-ab6b-02420a000194.webp",
+            "width": 399
+        },
+        "sample_screenshots": [
+            {
+                "caption": "The player can choose the size of the game, whether there is sound, and what should be the background color of the level.",
+                "height": 286,
+                "image_url": "https://cdn.mobygames.com/screenshots/16482172-trashman-os2-the-player-can-choose-the-size-of-the-game-whether-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/80ba177a-c227-11ed-ab6b-02420a000194.webp",
+                "width": 399
+            },
+            {
+                "caption": "The high score table records the least number of moves used to solve each level.",
+                "height": 270,
+                "image_url": "https://cdn.mobygames.com/screenshots/16479730-trashman-os2-the-high-score-table-records-the-least-number-of-mo.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b990ed5e-c226-11ed-ab6b-02420a000194.webp",
+                "width": 283
+            },
+            {
+                "caption": "This is Level 2 in SVGA (26x26) size. The tiles are just zoomed in.",
+                "height": 360,
+                "image_url": "https://cdn.mobygames.com/screenshots/16484095-trashman-os2-this-is-level-2-in-svga-26x26-size-the-tiles-are-ju.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1793cf2e-c228-11ed-ab6b-02420a000194.webp",
+                "width": 459
+            },
+            {
+                "caption": "The beginning of Level 1. All six trash piles must be pushed into the garbage cans at the right.",
+                "height": 286,
+                "image_url": "https://cdn.mobygames.com/screenshots/16477405-trashman-os2-the-beginning-of-level-1-all-six-trash-piles-must-b.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1f9ad084-c226-11ed-ab6b-02420a000194.webp",
+                "width": 399
+            },
+            {
+                "caption": "Upon beating the first level, the game provides score information as well as some environmental facts.",
+                "height": 305,
+                "image_url": "https://cdn.mobygames.com/screenshots/16479412-trashman-os2-upon-beating-the-first-level-the-game-provides-scor.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a627fa46-c226-11ed-ab6b-02420a000194.webp",
+                "width": 408
+            }
+        ],
+        "title": "TrashMan"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Presentation Manager Robots</em> is an implementation of BSD <em>Robots</em>. The player controls Smiley, who must avoid being destroyed by the Evil Killer Robots. On each turn, Smiley can either stand still or move into any of the eight adjacent positions, and the robots will move directly toward Smiley. If a robot catches Smiley by moving onto his position, the game is over. If two robots crash into each other, they are destroyed, leaving behind a heap of broken robots. If a robot crashes into a heap, it's also destroyed.</p>\n<p>The player has two options, if the robots surround Smiley. First, the player may choose, once per level, to use the Sonic Screwdriver, which will destroy all the robots adjacent to Smiley. Second, the player may choose to teleport to a random location in the level. This is not without risk, though, since Smiley may teleport beside a robot and lose.</p>\n<p>The level is won when no robots remain. Later levels begin with more robots.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            }
+        ],
+        "id": 66477,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/66477/presentation-manager-robots/",
+        "num_votes": 0,
+        "official_url": "http://web.mit.edu/os2/www/robots.html",
+        "platforms": [
+            [
+                {
+                    "id": 146,
+                    "name": "OS/2"
+                },
+                "1993-07"
+            ]
+        ],
+        "sample_cover": {
+            "height": 360,
+            "image_url": "https://cdn.mobygames.com/screenshots/15692020-presentation-manager-robots-os2-level-1-begins-smiley-vs-five-ev.png",
+            "platforms": [
+                "OS/2"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/8b60c020-bec6-11ed-9c42-02420a000140.webp",
+            "width": 560
+        },
+        "sample_screenshots": [
+            {
+                "caption": "I've lost! Smiley was teleported right beside a robot and died.",
+                "height": 360,
+                "image_url": "https://cdn.mobygames.com/screenshots/15707497-presentation-manager-robots-os2-ive-lost-smiley-was-teleported-r.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/51141a10-becc-11ed-9c42-02420a000140.webp",
+                "width": 560
+            },
+            {
+                "caption": "As the game goes on, more robots are added to each level. Level 6 has quite a few!",
+                "height": 360,
+                "image_url": "https://cdn.mobygames.com/screenshots/15682449-presentation-manager-robots-os2-as-the-game-goes-on-more-robots-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0a371664-bec3-11ed-9c42-02420a000140.webp",
+                "width": 560
+            },
+            {
+                "caption": "The high score table records the best ten scores and the levels reached.",
+                "height": 360,
+                "image_url": "https://cdn.mobygames.com/screenshots/15727344-presentation-manager-robots-os2-the-high-score-table-records-the.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/960c7fbc-bed2-11ed-9c42-02420a000140.webp",
+                "width": 560
+            },
+            {
+                "caption": "Level 1 begins: Smiley vs. five Evil Killer Robots.",
+                "height": 360,
+                "image_url": "https://cdn.mobygames.com/screenshots/15692020-presentation-manager-robots-os2-level-1-begins-smiley-vs-five-ev.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8b60c020-bec6-11ed-9c42-02420a000140.webp",
+                "width": 560
+            },
+            {
+                "caption": "There's nowhere safe to move, so two options remain: Teleport to a random location or use the Sonic Screwdriver to destroy the two robots adjacent to Smiley.",
+                "height": 360,
+                "image_url": "https://cdn.mobygames.com/screenshots/16487755-presentation-manager-robots-os2-theres-nowhere-safe-to-move-so-t.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/258bc446-c229-11ed-ab6b-02420a000194.webp",
+                "width": 560
+            }
+        ],
+        "title": "Presentation Manager Robots"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Trials of Battle</em> is a first-person shooter in which the player pilots a hover tank on an open battlefield. Players choose from different types of vehicles: a Heavy Battle Pod (slower, heavier), a Light Battle Pod, or a Hovercraft (faster, more agile). The Light Battle Pod can for instance withstand more damage than the fast Hovercraft, but it quicker than the heavy one. It can also fly for a brief amount of time when equipped with jump engines. The game focuses on close combat with hit-and-run tactics.</p>\n<p>Battles are generally one-on-one set in arenas. The goal is to survive and win the fight, going against enemies from three types of alien races as well as humans and achieving the rank of Battle Master. By earning kill points or picking up items in the arena, the vehicle can be customized and upgraded with armor, weapons and equipment. Pieces can also be sold. The equipment is important for fights, as some arenas have high gravity that greatly affect maneuverability.</p>\n<p>The arena is viewed through a section near the top of the screen. The bottom part holds the vehicle's status with different colours, various meters and weapons, and a rear view camera. The game supports online multiplayer for up to eight players.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 80,
+                "name": "Tank"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 70241,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/70241/trials-of-battle/",
+        "num_votes": 0,
+        "official_url": "http://www.stardock.com/products/tob/",
+        "platforms": [
+            [
+                {
+                    "id": 146,
+                    "name": "OS/2"
+                },
+                "1996-12-04"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Trials of Battle"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Star Emperor Advanced</em> is a 4X turn-based strategy game in which the player has to conquer individual worlds in order to gain the unique technologies offered by that planet. The plot revolves around a powerful alien race called the Drengin Empire. The game is a derivative of Stardock's <a href=\"https://www.mobygames.com/game/174944/galactic-civilizations/\">Galactic Civilizations</a>. It was initially released as <em>Star Emperor</em> as a part of <a href=\"https://www.mobygames.com/search/?q=IBM+Family+Funpack\">IBM Family Funpack</a>, and <em>Star Emperor Advanced</em> is the standalone release.</p>\n<p>The left side of the screen holds a galaxy map with various buttons and menus to handle military might and production. The right side of the screen shows a zoomed in map of the ships and sectors.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 70243,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/70243/star-emperor-advanced/",
+        "num_votes": 0,
+        "official_url": "http://www.stardock.com/products/soft_fun/staremp.html",
+        "platforms": [
+            [
+                {
+                    "id": 146,
+                    "name": "OS/2"
+                },
+                "1995"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Star Emperor Advanced"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Links OS/2</em> is a native port for OS/2 Warp 3 (or better, also works on the recent eComStation) of the famous golf simulator <a href=\"https://www.mobygames.com/game/3757/links-386-pro/\">Links 386 Pro</a>, developed by Stardock.</p>\n<p><em>Links OS/2</em> is more than a straight port. It takes advantage of everything that the Presentation Manager of OS/2 could offer, and the DIVE technology of graphic card drivers. It also includes features only seen in the previously released <a href=\"https://www.mobygames.com/game/6208/links-ls-legends-in-sports-1997-edition/\">Links LS '97</a>, such as multiple views rendering in parallel, high-resolution graphic modes and 16-bit colour. In that way it improves over the contemporary <a href=\"https://www.mobygames.com/game/1005/microsoft-golf-30/\">Microsoft Golf 3.0</a>, also based on <em>Links 386 Pro</em>, and made available five months before <em>Links OS/2</em>. Both run on GUI-based operating systems.</p>\n<p>Like in <a href=\"https://www.mobygames.com/search/?q=Links+LS\">Links LS</a>, the player can set up different views of the course, wind state, scorecard, pin, feet setup, etc. It also accepts new sound files. The game comes with the Firestone South Course to play, and it can use any add-on course for <a href=\"https://www.mobygames.com/game/492/links-the-challenge-of-golf/\">Links: The Challenge of Golf</a> and <em>Links 386 Pro</em>, including the courses in the first three <em>Microsoft Golf</em> versions.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 128,
+                "name": "Behind view"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 35,
+                "name": "Golf"
+            }
+        ],
+        "id": 88692,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/88692/links-os2/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 146,
+                    "name": "OS/2"
+                },
+                "1997-06-09"
+            ]
+        ],
+        "sample_cover": {
+            "height": 746,
+            "image_url": "https://cdn.mobygames.com/screenshots/5966576-links-os2-os2-at-start-you-can-choose-what-to-do.png",
+            "platforms": [
+                "OS/2"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/bd29d1c6-abea-11ed-893a-02420a00012f.webp",
+            "width": 1024
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Starting a practice game at Firestone",
+                "height": 746,
+                "image_url": "https://cdn.mobygames.com/screenshots/5966570-links-os2-os2-starting-a-practice-game-at-firestone.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bbde646c-abea-11ed-893a-02420a00012f.webp",
+                "width": 1024
+            },
+            {
+                "caption": "The classic pin aim tool is a must",
+                "height": 746,
+                "image_url": "https://cdn.mobygames.com/screenshots/16134039-links-os2-os2-the-classic-pin-aim-tool-is-a-must.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9f0f149a-bf7b-11ed-9521-02420a000152.webp",
+                "width": 1024
+            },
+            {
+                "caption": "Out of the sand trap!",
+                "height": 746,
+                "image_url": "https://cdn.mobygames.com/screenshots/16134006-links-os2-os2-out-of-the-sand-trap.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9b0408ba-bf7b-11ed-9521-02420a000152.webp",
+                "width": 1024
+            },
+            {
+                "caption": "After so much trouble, finally the ball it's in the hole",
+                "height": 746,
+                "image_url": "https://cdn.mobygames.com/screenshots/16133787-links-os2-os2-after-so-much-trouble-finally-the-ball-its-in-the-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8e1d47e2-bf7b-11ed-9521-02420a000152.webp",
+                "width": 1024
+            },
+            {
+                "caption": "In Pro Skins, you can put different value per hole",
+                "height": 746,
+                "image_url": "https://cdn.mobygames.com/screenshots/5958261-links-os2-os2-in-pro-skins-you-can-put-different-value-per-hole.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a96367ba-abea-11ed-80b1-02420a000133.webp",
+                "width": 1024
+            }
+        ],
+        "title": "Links OS/2"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Galactic Civilizations</em> is a space-based \"4X\" strategy game.</p>\n<p>The colony ship <em>Santa Maria</em> encountered a \"cosmic string\" interacting with its engine, causing a wormhole to fling it into an unknown galaxy. In that galaxy, the player needs to colonize worlds to build up a new civilization.</p>\n<p>Gameplay takes place on a randomly generated map, and is turn based. Players need to colonize worlds, set taxes, balance spending into different domains that will help the civilization's development, and choose how to deal with the many issues that come along the way, including how to deal with the other species inhabiting the galaxy.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 142,
+                "name": "4X"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 172,
+                "name": "Menu structures"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 167,
+                "name": "Point and select"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 174944,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/174944/galactic-civilizations/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 146,
+                    "name": "OS/2"
+                },
+                "1994"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/4291935-galactic-civilizations-os2-front-cover.jpg",
+            "platforms": [
+                "OS/2"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/faaa9082-abac-11ed-9e47-02420a00019f.webp",
+            "width": 708
+        },
+        "sample_screenshots": [],
+        "title": "Galactic Civilizations"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 142,
+                "name": "4X"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 167,
+                "name": "Point and select"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 175890,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/175890/galactic-civilizations-2/",
+        "num_votes": 0,
+        "official_url": "https://www.stardock.com/products/soft_fun/galciv2.html",
+        "platforms": [
+            [
+                {
+                    "id": 146,
+                    "name": "OS/2"
+                },
+                "1996-01"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Galactic Civilizations 2"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>In this adventure game inspired by games like <em>Myst</em> and <em>Riven</em>, you have received a surprise letter from a famous billionaire informing you that he is your uncle and inviting you to his island retreat.</p>\n<p>When you arrive, you are not alone, you and a number of other guests who are referred to as \"contestants\" soon discover that your uncle is missing.  Rumors abound that your uncle has hidden millions of dollars in rare jewels somewhere in his vast mansion. Now you must discover what happened to your uncle and what his plans were.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 146,
+                "name": "Graphic adventure"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 167,
+                "name": "Point and select"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 200,
+                "name": "Contemporary"
+            }
+        ],
+        "id": 203094,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/203094/avarice-the-final-saga/",
+        "num_votes": 0,
+        "official_url": "https://www.stardock.com/products/avarice/",
+        "platforms": [
+            [
+                {
+                    "id": 146,
+                    "name": "OS/2"
+                },
+                "1996-09-16"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Avarice: The Final Saga"
+    }
+]

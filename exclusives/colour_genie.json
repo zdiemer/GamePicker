@@ -1,0 +1,669 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p>In <em>Labyrinth of Fear</em> the player gets to return to the dawn of time and enter the Labyrinth of Jarwon where the task is to save the human race from slavery. Within the labyrinth there are five secrets that the player has to retrieve so that humans can be freed.</p>\n<p>The game is played from a first person perspective similar to other maze games of its time with the graphics being redrawn for every step taken. Next to the main view there is a map that shows the layout of the level and the locations of the labyrinth's guards. When coming across a guard the player has two options: fight or pay for passage. The fights are played from a top down perspective and involves hacking at the guard with a sword until it dies. The player will also come across various boxes: blue ones that contain the secrets and green ones that might contain gold or an element that can either take or give strength to the player or demand gold. When an elements wants gold it's possible to bargain but if the offer is too low the player might get killed.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            }
+        ],
+        "id": 79280,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/79280/labyrinth-of-fear/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 197,
+                    "name": "Colour Genie"
+                },
+                "1983"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/16069807-labyrinth-of-fear-colour-genie-title-screen.png",
+            "platforms": [
+                "Colour Genie"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/ff010696-bf68-11ed-9521-02420a000152.webp",
+            "width": 320
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Title screen",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16069807-labyrinth-of-fear-colour-genie-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ff010696-bf68-11ed-9521-02420a000152.webp",
+                "width": 320
+            },
+            {
+                "caption": "Coming across a green box",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16069621-labyrinth-of-fear-colour-genie-coming-across-a-green-box.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/effd1306-bf68-11ed-9521-02420a000152.webp",
+                "width": 320
+            },
+            {
+                "caption": "An element pops out of the box",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16069603-labyrinth-of-fear-colour-genie-an-element-pops-out-of-the-box.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ee3c0662-bf68-11ed-9521-02420a000152.webp",
+                "width": 320
+            },
+            {
+                "caption": "Game over",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16069855-labyrinth-of-fear-colour-genie-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/016c5138-bf69-11ed-9521-02420a000152.webp",
+                "width": 320
+            },
+            {
+                "caption": "...while this one gives some extra strength",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16069774-labyrinth-of-fear-colour-genie-while-this-one-gives-some-extra-s.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fc1fb7d8-bf68-11ed-9521-02420a000152.webp",
+                "width": 320
+            }
+        ],
+        "title": "Labyrinth of Fear"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>A10 Bomber</em> is a variant of the arcade game Scramble. It's a side scrolling shoot 'em up where the player has to fight off the forces of something called the Zelons and ultimately destroy their globe fortress which is supposed to stop their assault on the solar system. Like in the original Scramble, the plane automatically advances over a mountainous terrain and the player has to watch out for or shoot down missiles that are launched from the ground. Two weapons are available: a machine gun that shoots bursts of fire forward and bombs which are dropped towards the ground. Fuel is limited and the plane will crash if it runs out. It can be refilled by dropping bombs on fuel stations on the ground. In addition to missiles there are outer dangers such as asteroids, mines and different fighters.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 80016,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/80016/a10-bomber/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 197,
+                    "name": "Colour Genie"
+                },
+                "1983"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/16003002-a10-bomber-colour-genie-loading-screen.png",
+            "platforms": [
+                "Colour Genie"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/01c21d4c-bf29-11ed-9c42-02420a000140.webp",
+            "width": 320
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Loading screen",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16003002-a10-bomber-colour-genie-loading-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/01c21d4c-bf29-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Score table",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16003290-a10-bomber-colour-genie-score-table.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/196c4f62-bf29-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Title screen",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16003302-a10-bomber-colour-genie-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1c9a565c-bf29-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Dropping bombs on missiles",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16003257-a10-bomber-colour-genie-dropping-bombs-on-missiles.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/17408064-bf29-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Instructions",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16003275-a10-bomber-colour-genie-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/18a5f542-bf29-11ed-9c42-02420a000140.webp",
+                "width": 320
+            }
+        ],
+        "title": "A10 Bomber"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Bak Pak</em> is a variant of the game <a href=\"https://www.mobygames.com/search/?q=Jetpac\">Jetpac</a>. It's a single screen shoot 'em up game where the player has to collect all parts of a rocket and then enough fuel for it to be able to take off. The screen contains three platforms that the player can use a jet pack to reach and numerous flying enemy beings that has to be shot or avoided. Once the rocket has been assembled and fully fuelled it flies on to the next stage where the player once again has to collect fuel for it. Additionally the player can earn more points by collecting balls and diamonds. Oxygen is limited and the player will die if it runs out but at times it is possible to collect more of it.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 21,
+                "name": "Platform"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 81975,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/81975/bak-pak/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 197,
+                    "name": "Colour Genie"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": {
+            "height": 200,
+            "image_url": "https://cdn.mobygames.com/screenshots/5015528-bak-pak-colour-genie-loading-screen.png",
+            "platforms": [
+                "Colour Genie"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/98fb4e44-abca-11ed-81e3-02420a000199.webp",
+            "width": 320
+        },
+        "sample_screenshots": [
+            {
+                "caption": "The rocket being assembled...",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/5015144-bak-pak-colour-genie-the-rocket-being-assembled.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9520b106-abca-11ed-81e3-02420a000199.webp",
+                "width": 320
+            },
+            {
+                "caption": "Title screen",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/5015400-bak-pak-colour-genie-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/97b23fde-abca-11ed-81e3-02420a000199.webp",
+                "width": 320
+            },
+            {
+                "caption": "Rocket takes off",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/5065000-bak-pak-colour-genie-rocket-takes-off.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/aeab4ec2-abcc-11ed-9ae2-02420a0001a0.webp",
+                "width": 320
+            },
+            {
+                "caption": "High scores",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/5066032-bak-pak-colour-genie-high-scores.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ba2c02fa-abcc-11ed-a5ec-02420a00019b.webp",
+                "width": 320
+            },
+            {
+                "caption": "Game over",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/5014556-bak-pak-colour-genie-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8edb6d40-abca-11ed-81e3-02420a000199.webp",
+                "width": 320
+            }
+        ],
+        "title": "Bak Pak"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Micronopoly</em> is a computer implementation of Monopoly. Up to four players (One of which may be the computer itself) can compete on the virtual board, taking turns, with the program rolling the dice and moving the pieces. Players use a menu to choose their actions, such as buy property or browse their possessions.\nThe game uses color text and animated semi-graphics to depict the board, dices and options. No save function is provided, so players must complete the session in one go.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 172,
+                "name": "Menu structures"
+            }
+        ],
+        "id": 217096,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/217096/micronopoly/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 197,
+                    "name": "Colour Genie"
+                },
+                "1983"
+            ]
+        ],
+        "sample_cover": {
+            "height": 576,
+            "image_url": "https://cdn.mobygames.com/screenshots/18200343-micronopoly-colour-genie-prior-to-the-game-itself-three-pages-of.png",
+            "platforms": [
+                "Colour Genie"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/e3238888-c4c9-11ee-a5c0-02420a0001e8.webp",
+            "width": 768
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Up to four players can participate. The computer may be one of the four.",
+                "height": 576,
+                "image_url": "https://cdn.mobygames.com/screenshots/18200405-micronopoly-colour-genie-up-to-four-players-can-participate-the-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cb9b4e6c-c4ce-11ee-b409-02420a0001ec.webp",
+                "width": 768
+            },
+            {
+                "caption": "Title and copyright info.",
+                "height": 576,
+                "image_url": "https://cdn.mobygames.com/screenshots/18200351-micronopoly-colour-genie-title-and-copyright-info.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/199aa414-c4ca-11ee-a33e-02420a0001eb.webp",
+                "width": 768
+            },
+            {
+                "caption": "Just landed on Pentonville Road.",
+                "height": 576,
+                "image_url": "https://cdn.mobygames.com/screenshots/18200429-micronopoly-colour-genie-just-landed-on-pentonville-road.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cecee4cc-c4ce-11ee-a5c0-02420a0001e8.webp",
+                "width": 768
+            },
+            {
+                "caption": "The board scrolls down as your piece moves.",
+                "height": 576,
+                "image_url": "https://cdn.mobygames.com/screenshots/18200421-micronopoly-colour-genie-the-board-scrolls-down-as-your-piece-mo.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cd91f180-c4ce-11ee-a33e-02420a0001eb.webp",
+                "width": 768
+            },
+            {
+                "caption": "Investment time.",
+                "height": 576,
+                "image_url": "https://cdn.mobygames.com/screenshots/18200433-micronopoly-colour-genie-investment-time.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cf7eced2-c4ce-11ee-93e7-02420a0001e8.webp",
+                "width": 768
+            }
+        ],
+        "title": "Micronopoly"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Puckman</em> is yet another clone of <a href=\"https://www.mobygames.com/search/?q=Pac-Man\">Pac-Man</a>. The protagonist is confined in a maze and must collect all pellets in order to advance to the next level and so on. Hostile ghosts move about trying to eliminate our protagonist, and any physical contact will result in the loss of one life. Also strewn around some key spots are a limited number of power pellets which enable the player to switch roles for a number of seconds during which contact is fatal to the ghosts instead. This iteration keeps a high score table and provides on-screen instructions for new players.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 217276,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/217276/puckman/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 197,
+                    "name": "Colour Genie"
+                },
+                "1983"
+            ]
+        ],
+        "sample_cover": {
+            "height": 576,
+            "image_url": "https://cdn.mobygames.com/screenshots/18208530-puckman-colour-genie-the-game-has-on-screen-instructions.png",
+            "platforms": [
+                "Colour Genie"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/6e7e4cea-c6c0-11ee-a33e-02420a0001eb.webp",
+            "width": 768
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Starting out. The ghosts always spawn in the center section.",
+                "height": 576,
+                "image_url": "https://cdn.mobygames.com/screenshots/18208534-puckman-colour-genie-starting-out-the-ghosts-always-spawn-in-the.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/725cd250-c6c0-11ee-b409-02420a0001ec.webp",
+                "width": 768
+            },
+            {
+                "caption": "The game has on-screen instructions.",
+                "height": 576,
+                "image_url": "https://cdn.mobygames.com/screenshots/18208530-puckman-colour-genie-the-game-has-on-screen-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6e7e4cea-c6c0-11ee-a33e-02420a0001eb.webp",
+                "width": 768
+            },
+            {
+                "caption": "I ate a power pellet and now the ghosts are temporarily vulnerable.",
+                "height": 576,
+                "image_url": "https://cdn.mobygames.com/screenshots/18208538-puckman-colour-genie-i-ate-a-power-pellet-and-now-the-ghosts-are.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/73b60554-c6c0-11ee-9fb4-02420a0001e8.webp",
+                "width": 768
+            },
+            {
+                "caption": "When all lives are lost, you can input your name (Up to six characters long).",
+                "height": 576,
+                "image_url": "https://cdn.mobygames.com/screenshots/18208546-puckman-colour-genie-when-all-lives-are-lost-you-can-input-your-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/779c969c-c6c0-11ee-93e7-02420a0001e8.webp",
+                "width": 768
+            },
+            {
+                "caption": null,
+                "height": 576,
+                "image_url": "https://cdn.mobygames.com/screenshots/18208542-puckman-colour-genie-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/761fbc54-c6c0-11ee-92e5-02420a0001ec.webp",
+                "width": 768
+            }
+        ],
+        "title": "Puckman"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>This is a straightforward implementation of the board game, wherein one human players challenge the computer. The dice rolls are randomly generated by the computer, and players declare their moves by pressing on the keyboard the letter that corresponds to the desired position.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 172,
+                "name": "Menu structures"
+            }
+        ],
+        "id": 217283,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/217283/backgammon/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 197,
+                    "name": "Colour Genie"
+                },
+                "1983"
+            ]
+        ],
+        "sample_cover": {
+            "height": 576,
+            "image_url": "https://cdn.mobygames.com/screenshots/18208874-backgammon-colour-genie-the-game-boots-into-this-screen.png",
+            "platforms": [
+                "Colour Genie"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/bf9b8796-c6c5-11ee-8229-02420a0001e8.webp",
+            "width": 768
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Instructions are provided on-screen.",
+                "height": 576,
+                "image_url": "https://cdn.mobygames.com/screenshots/18208878-backgammon-colour-genie-instructions-are-provided-on-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c10b1844-c6c5-11ee-af2f-02420a0001eb.webp",
+                "width": 768
+            },
+            {
+                "caption": "The game boots into this screen.",
+                "height": 576,
+                "image_url": "https://cdn.mobygames.com/screenshots/18208874-backgammon-colour-genie-the-game-boots-into-this-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bf9b8796-c6c5-11ee-8229-02420a0001e8.webp",
+                "width": 768
+            },
+            {
+                "caption": "During gameplay.",
+                "height": 576,
+                "image_url": "https://cdn.mobygames.com/screenshots/18208882-backgammon-colour-genie-during-gameplay.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c30d0a62-c6c5-11ee-8229-02420a0001e8.webp",
+                "width": 768
+            }
+        ],
+        "title": "Backgammon"
+    }
+]

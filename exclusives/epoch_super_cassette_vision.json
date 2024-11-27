@@ -1,0 +1,721 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Elevator Fight</em> is an original arcade platform game in a style similar, but not identical, to <em><a href=\"https://www.mobygames.com/game/10914/elevator-action/\">Elevator Action</a></em>.</p>\n<p>Arin, your space suit-clad hero, must travel downwards in shaft of 31 floors populated by dangerous robots, space mice and aliens and filled with traps, in order to destroy the central computer of the Gashim empire on the bottom floor. The shaft is divided in a multitude of floors, connected by lifts. Both you and your enemies may use the lifts, using them both to advance, to escape and to ambush. The enemies have different behaviours, with some rushing toward you and some shooting. Traps include grappling claws and lasers in the ceilings and electrical floors. For defence, you have a gun.</p>\n<p>While your character can jump across gaps in the floor, he is not an invincible platform hero and will die from falling through the floor. One way to cross a wider gap in the floor is to use a transport rail in the ceiling, something which requires precision. In order to complete a section of the shaft, you must collect the necessary keys, so you cannot rush through a section, thereby avoiding enemy contact.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 21,
+                "name": "Platform"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 63379,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/63379/elevator-fight/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 138,
+                    "name": "Epoch Super Cassette Vision"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": {
+            "height": 222,
+            "image_url": "https://cdn.mobygames.com/screenshots/16374455-elevator-fight-epoch-super-cassette-vision-title-screen.png",
+            "platforms": [
+                "Epoch Super Cassette Vision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/5ba0ba8a-c208-11ed-ab6b-02420a000194.webp",
+            "width": 384
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Landing on the planet",
+                "height": 222,
+                "image_url": "https://cdn.mobygames.com/screenshots/16374962-elevator-fight-epoch-super-cassette-vision-landing-on-the-planet.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7c247daa-c208-11ed-ab6b-02420a000194.webp",
+                "width": 384
+            },
+            {
+                "caption": "Riding on the rail in the ceiling",
+                "height": 222,
+                "image_url": "https://cdn.mobygames.com/screenshots/16375223-elevator-fight-epoch-super-cassette-vision-riding-on-the-rail-in.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/884bb3f0-c208-11ed-ab6b-02420a000194.webp",
+                "width": 384
+            },
+            {
+                "caption": "These green things just rush at you, very quickly",
+                "height": 222,
+                "image_url": "https://cdn.mobygames.com/screenshots/16374965-elevator-fight-epoch-super-cassette-vision-these-green-things-ju.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7c3ddb10-c208-11ed-ab6b-02420a000194.webp",
+                "width": 384
+            },
+            {
+                "caption": "Watch out for the electrified floor",
+                "height": 222,
+                "image_url": "https://cdn.mobygames.com/screenshots/16374503-elevator-fight-epoch-super-cassette-vision-watch-out-for-the-ele.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5e624860-c208-11ed-ab6b-02420a000194.webp",
+                "width": 384
+            },
+            {
+                "caption": "Laser gun in the ceiling",
+                "height": 222,
+                "image_url": "https://cdn.mobygames.com/screenshots/16375081-elevator-fight-epoch-super-cassette-vision-laser-gun-in-the-ceil.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/82a79a40-c208-11ed-ab6b-02420a000194.webp",
+                "width": 384
+            }
+        ],
+        "title": "Elevator Fight"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "In-game title screen.",
+                "title": "Astro Wars: Invader from Space"
+            }
+        ],
+        "description": "<p>Astro Wars is a space-based shoot-em-up. Your base is under attack by aliens. Their mother-ship is unloading hordes of fighters to smash through your shields and disable all eight of your defending spacecraft. There is no time to waste. You must shoot down the attackers and limit the damage to your base. Then, once the situation has stabilized, you must take your remaining spacecraft in pursuit of the fleeing mother-ship.</p>\n<p>During the chase stage, you will be bombarded by fast zig-zagging missiles. The mother-ship can be destroyed by a well placed shot, but if you can't manage that soon enough, it will escape. Either way, you will have time to repair your shields and replenish your fleet before the alien's inevitable return with more capable equipment. Once you lose all of your spaceships in one of the raids, then the game is over.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 190326,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/190326/astro-wars/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 138,
+                    "name": "Epoch Super Cassette Vision"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/18256250-astro-wars-epoch-super-cassette-vision-manual.jpg",
+            "platforms": [
+                "Epoch Super Cassette Vision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/2c454086-cf26-11ee-8d2a-02420a000136.webp",
+            "width": 1191
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Some aliens got through, but there are ships left.",
+                "height": 222,
+                "image_url": "https://cdn.mobygames.com/screenshots/16917391-astro-wars-epoch-super-cassette-vision-some-aliens-got-through-b.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/21eaddda-c40f-11ed-be63-02420a000121.webp",
+                "width": 192
+            },
+            {
+                "caption": "Shields are down!",
+                "height": 222,
+                "image_url": "https://cdn.mobygames.com/screenshots/16917756-astro-wars-epoch-super-cassette-vision-shields-are-down.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/463b7b68-c40f-11ed-be63-02420a000121.webp",
+                "width": 192
+            },
+            {
+                "caption": "Fin.",
+                "height": 222,
+                "image_url": "https://cdn.mobygames.com/screenshots/16917382-astro-wars-epoch-super-cassette-vision-fin.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/219c250a-c40f-11ed-be63-02420a000121.webp",
+                "width": 192
+            },
+            {
+                "caption": "Dodging zig-zagging missiles.",
+                "height": 222,
+                "image_url": "https://cdn.mobygames.com/screenshots/16917385-astro-wars-epoch-super-cassette-vision-dodging-zig-zagging-missi.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/21b75ff0-c40f-11ed-be63-02420a000121.webp",
+                "width": 192
+            },
+            {
+                "caption": "Setting off in pursuit of the aliens.",
+                "height": 222,
+                "image_url": "https://cdn.mobygames.com/screenshots/16917388-astro-wars-epoch-super-cassette-vision-setting-off-in-pursuit-of.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/21d0b248-c40f-11ed-be63-02420a000121.webp",
+                "width": 192
+            }
+        ],
+        "title": "Astro Wars"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Astro Wars II: Battle in Galaxy</em> is a space shoot-em-up sequel that reuses a lot of the same graphics and gameplay as the original <a href=\"https://www.mobygames.com/search/?q=Astro+Wars\">Astro Wars</a>. You control a rocket that moves back and forth along the bottom of the screen, and can shoot forwards at aliens to complete levels. As in the first game, each level consists of two stages. The first stage is to fight off a mother-ship with a horde of smaller vessels, while the second is to defeat the mother-ship. The levels then repeat until you run out of lives.</p>\n<p>Your ship and the alien mother-ship appear to be identical to the first game, but other details differ. The first stage in this game features a vast array of swooping and bombing aliens, closer to <a href=\"https://www.mobygames.com/search/?q=Galaxian\"> Galaxian </a> instead of the army of para-troops that moved down the screen in <a href=\"https://www.mobygames.com/search/?q=Space+Invaders\"> Space Invaders </a> style from the first game. The second stage has the mother-ship spewing out zig-zagging lines of ships to attack you instead of individual erratically moving missiles.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 193517,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/193517/astro-wars-ii-battle-in-galaxy/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 138,
+                    "name": "Epoch Super Cassette Vision"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": {
+            "height": 222,
+            "image_url": "https://cdn.mobygames.com/screenshots/16920105-astro-wars-ii-battle-in-galaxy-epoch-super-cassette-vision-title.png",
+            "platforms": [
+                "Epoch Super Cassette Vision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/938fd16a-c410-11ed-be63-02420a000121.webp",
+            "width": 192
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Demo screen.",
+                "height": 222,
+                "image_url": "https://cdn.mobygames.com/screenshots/15888742-astro-wars-ii-battle-in-galaxy-epoch-super-cassette-vision-demo-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/42e49292-bf05-11ed-9c42-02420a000140.webp",
+                "width": 192
+            },
+            {
+                "caption": "Title screen.",
+                "height": 222,
+                "image_url": "https://cdn.mobygames.com/screenshots/16920105-astro-wars-ii-battle-in-galaxy-epoch-super-cassette-vision-title.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/938fd16a-c410-11ed-be63-02420a000121.webp",
+                "width": 192
+            },
+            {
+                "caption": "Mid-game action.",
+                "height": 222,
+                "image_url": "https://cdn.mobygames.com/screenshots/15889010-astro-wars-ii-battle-in-galaxy-epoch-super-cassette-vision-mid-g.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5376ead8-bf05-11ed-9c42-02420a000140.webp",
+                "width": 192
+            },
+            {
+                "caption": "Fighting the mother-ship.",
+                "height": 222,
+                "image_url": "https://cdn.mobygames.com/screenshots/15888625-astro-wars-ii-battle-in-galaxy-epoch-super-cassette-vision-fight.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3c327068-bf05-11ed-9c42-02420a000140.webp",
+                "width": 192
+            },
+            {
+                "caption": "The alien's starting formation.",
+                "height": 222,
+                "image_url": "https://cdn.mobygames.com/screenshots/16920558-astro-wars-ii-battle-in-galaxy-epoch-super-cassette-vision-the-a.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e3e9704e-c410-11ed-be63-02420a000121.webp",
+                "width": 192
+            }
+        ],
+        "title": "Astro Wars II: Battle in Galaxy"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Comic Circus</em> is a variant of the earlier Exidy arcade game <a href=\"https://www.mobygames.com/search/?q=Circus\"> Circus </a> which involves clowns trampolining around the screen popping balloons. In this game, while there are balloons to be caught, the main aim is to catch some doves that have escaped from their cages.</p>\n<p>There are three levels of play. The first involves a teeter-board and two clowns. You control the position of the teeter-board to catch each clown as they fall. Missing a clown will lose a life, but a successful catch will cause the other clown to rocket into the air. While in the air, the clown can pop balloons for points (if they are high enough) or catch a dove in flight. Sometimes, a dove will drop a bonus which lies on the floor for a short period of time and can be collected by the ground clown. In two player mode, the players alternate positioning the teeter-board.</p>\n<p>The second level is similar to the first, but two clowns are holding a trampoline while the third is in flight. The third level has some added trapeze artists swinging across the top of the screen. Catching the doves in the corners of the screen requires the clown to be carried across the screen from one acrobat to the next. Cut-scenes of the clowns chasing the doves are shown between levels. After all three levels are complete, the game loops.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 64,
+                "name": "Paddle / Pong"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 197625,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/197625/comic-circus/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 138,
+                    "name": "Epoch Super Cassette Vision"
+                },
+                "1985"
+            ]
+        ],
+        "sample_cover": {
+            "height": 222,
+            "image_url": "https://cdn.mobygames.com/screenshots/16891412-comic-circus-epoch-super-cassette-vision-title-screen.png",
+            "platforms": [
+                "Epoch Super Cassette Vision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/048f1c36-c402-11ed-be63-02420a000121.webp",
+            "width": 192
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Level 2 has a trampoline.",
+                "height": 222,
+                "image_url": "https://cdn.mobygames.com/screenshots/16912274-comic-circus-epoch-super-cassette-vision-level-2-has-a-trampolin.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fe3eef3c-c40b-11ed-be63-02420a000121.webp",
+                "width": 192
+            },
+            {
+                "caption": "Game options screen.",
+                "height": 222,
+                "image_url": "https://cdn.mobygames.com/screenshots/16891409-comic-circus-epoch-super-cassette-vision-game-options-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/04772554-c402-11ed-be63-02420a000121.webp",
+                "width": 192
+            },
+            {
+                "caption": "Level 3 introduces acrobats.",
+                "height": 222,
+                "image_url": "https://cdn.mobygames.com/screenshots/16913339-comic-circus-epoch-super-cassette-vision-level-3-introduces-acro.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a822b632-c40c-11ed-be63-02420a000121.webp",
+                "width": 192
+            },
+            {
+                "caption": "A dove drops of bonus.",
+                "height": 222,
+                "image_url": "https://cdn.mobygames.com/screenshots/16912277-comic-circus-epoch-super-cassette-vision-a-dove-drops-of-bonus.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fe5b9f74-c40b-11ed-be63-02420a000121.webp",
+                "width": 192
+            },
+            {
+                "caption": "Title screen.",
+                "height": 222,
+                "image_url": "https://cdn.mobygames.com/screenshots/16891412-comic-circus-epoch-super-cassette-vision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/048f1c36-c402-11ed-be63-02420a000121.webp",
+                "width": 192
+            }
+        ],
+        "title": "Comic Circus"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Doraemon</em> is an arcade platform game based on the anime/manga of the same name. You control the titular character, a blue robotic cat from the future with a phobia of mice, over three stages of play.</p>\n<p>In the first stage, your time machine has been stolen and you and the gang (Nobi, Shizuka, Gian and Suneo) have to search a building and locate all of the parts. You walk or fly around the different levels of the building, avoiding enemies that appear from some of the doors. There are also mice that scurry around the screen, which will cause you to freeze in fear if they touch you. Occasionally, your sister Dorami appears with a bonus item, which will give you the ability to dispose of enemies (boxing gloves, air jets, etc) or make you invulnerable to enemy attack for a short period of time. Some of your kid friends will also appear from behind the doors, carrying parts of the time machine if they find them. Once you have collected all ten parts, the stage ends. You use the time machine so that you and the kids to escape from the building, but something goes wrong and you end up in the prehistoric past...</p>\n<p>In stage 2, you have to avoid pterodactyls, sauropods and cavemen with throwing weapons, find the kids and bring them back to the time machine. Once all of the kids are collected, you can escape from the past. But something else goes wrong, the time machine breaks into parts, and you find yourself in the distant future. In stage 3, you have to both find the missing kids, and collect the missing pieces of the time machine, all while dodging UFOs and what look like robotic crabs. Once this is completed, you return back to your usual time. You are then given a bonus game, where you solve 15-tile slide puzzles, after which the game loops from Stage 1.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 21,
+                "name": "Platform"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 199166,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/199166/doraemon/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 138,
+                    "name": "Epoch Super Cassette Vision"
+                },
+                "1985"
+            ]
+        ],
+        "sample_cover": {
+            "height": 222,
+            "image_url": "https://cdn.mobygames.com/screenshots/16931819-doraemon-epoch-super-cassette-vision-title-screen.png",
+            "platforms": [
+                "Epoch Super Cassette Vision"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/b6bc614e-c415-11ed-be63-02420a000121.webp",
+            "width": 192
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Attacking enemies with an air-jet.",
+                "height": 222,
+                "image_url": "https://cdn.mobygames.com/screenshots/16931822-doraemon-epoch-super-cassette-vision-attacking-enemies-with-an-a.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b6d65de2-c415-11ed-be63-02420a000121.webp",
+                "width": 192
+            },
+            {
+                "caption": "Start of stage 1. One of the kids has found a machine part.",
+                "height": 222,
+                "image_url": "https://cdn.mobygames.com/screenshots/16931276-doraemon-epoch-super-cassette-vision-start-of-stage-1-one-of-the.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7e67cc34-c415-11ed-be63-02420a000121.webp",
+                "width": 192
+            },
+            {
+                "caption": "Zapped by a UFO.",
+                "height": 222,
+                "image_url": "https://cdn.mobygames.com/screenshots/16931225-doraemon-epoch-super-cassette-vision-zapped-by-a-ufo.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7b8f5b80-c415-11ed-be63-02420a000121.webp",
+                "width": 192
+            },
+            {
+                "caption": "End of game.",
+                "height": 222,
+                "image_url": "https://cdn.mobygames.com/screenshots/16931228-doraemon-epoch-super-cassette-vision-end-of-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7ba712d4-c415-11ed-be63-02420a000121.webp",
+                "width": 192
+            },
+            {
+                "caption": "Returning to the time-machine with Suneo.",
+                "height": 222,
+                "image_url": "https://cdn.mobygames.com/screenshots/16931750-doraemon-epoch-super-cassette-vision-returning-to-the-time-machi.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b1cd8712-c415-11ed-be63-02420a000121.webp",
+                "width": 192
+            }
+        ],
+        "title": "Doraemon"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "Fan-translated title ",
+                "title": "Dragon Ball: The Great Unexplored Dragon Region"
+            }
+        ],
+        "description": "<p><em>Dragon Ball: Dragon Daihikyou</em> is a shoot 'em up that features Goku riding on the nimbus cloud while he fires Kamehamehas and swings his Power Pole to defeat generic and canonical enemies. You can collect items for points or power ups as they appear from destroyed objects or capsules that Bulma throws at the player; as well as battle Master Roshi in a fighting-style mini-game.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 13,
+                    "name": "Art Style"
+                },
+                "description": null,
+                "id": 57,
+                "name": "Anime / Manga"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 205294,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/205294/dragon-ball-dragon-daihikyo/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 138,
+                    "name": "Epoch Super Cassette Vision"
+                },
+                "1986"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Dragon Ball: Dragon Daihiky\u014d"
+    }
+]

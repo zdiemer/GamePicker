@@ -1,0 +1,3461 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Tic-Tac-Toe</em> for the HP programmable calculator plays like a normal Tic-Tac-Toe game but due to the limitations of the screen the computer only gives a field number on his turn. The player must mentally or on paper keep track of the game board.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 111039,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111039/tic-tac-toe/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1975"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Tic-Tac-Toe"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>NimK</em> is a version of <a href=\"https://www.mobygames.com/group/9247/nim-variants/\">Nim</a> for the HP programmable calculator. The player decides on the number of piles and objects per pile (maximum of nine) and also the amount of objects a player can take per turn (defined by K, maximum of eight). The player and computer then take turns removing objects until one player takes the last object and wins the game.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 111040,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111040/nimk/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1975"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "NimK"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Super Bagels</em> is a number guessing game similar to <a href=\"https://www.mobygames.com/group/9137/mastermind-variants/\">Mastermind</a>. The player can define the number to be guessed (amount of digits and maximum value of each digit in the number). The player can then guess at the number chosen by the calculator and receive clues in the form of digits in the correct location and digit that appear in the number but at a different location.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 111041,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111041/super-bagels/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1975"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Super Bagels"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Pong</em> is a simplistic version of <a href=\"https://www.mobygames.com/group/6734/pong-variants/\">Pong</a>, played on an HP programmable calculator. The player plays against the computer which will randomly return the ball or not. The player must return the ball by pressing A exactly as the ball reaches the left side of the display. Since the display consists of only a single line of text this variant of Pong only features one dimensional play. After a point is scored the current score is shown and the user serves.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 64,
+                "name": "Paddle / Pong"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 111045,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111045/pong/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1977-06"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Pong"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Slot Machine</em> simulates the typical casino game. The player presses a button and the numbers that appear correspond with the three reels. If the first reel gives a 1, you get a payout of $2, if the second is also a 1 the payout is $5. Two or three of a kind is $10 and three zeroes awards $100.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 111048,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111048/slot-machine/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1975"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Slot Machine"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Slot Machine</em> simulates the typical casino game. The player presses a button and the numbers that appear correspond with the three reels. Getting three of a kind pays out $1 and getting three zeroes pays out $10.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 111052,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111052/slot-machine/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1976-02"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Slot Machine"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>This version of <em>Hexapawn</em> is played against an HP programmable Calculator. The game pits two players with each three pawns against each other. The pawns adhere to the rules of chess. The game has no visuals, instead the calculator shows his moves in a number notation. It's up to the player to keep a mental or written map of the game's state. The AI does use cybernetics to learn from its mistakes like other versions of the game.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 111067,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111067/hexapawn/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1975"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Hexapawn"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Golf</em> allows the player to play golf on an HP programmable calculator. The player can choose between different clubs by entering a number. 1 through 3 is wood, 4 through 9 is iron, 10 is wedge, 11 chip shot and 12 is pitch and run. The calculator will show you the number of yards to the green. If a negative number is displayed the ball is in the green and the distance is in feet. When in the green the game switches to a putter and the value (up to 15) entered is the strength of the shot instead. The game does not keep score.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 35,
+                "name": "Golf"
+            }
+        ],
+        "id": 111069,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111069/golf/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1976-06"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Golf"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Four Digit Bagels</em> is a <a href=\"https://www.mobygames.com/group/9137/mastermind-variants/\">Mastermind variant</a> played on an HP programmable calculator. The calculator thinks of a code of four numbers and the player must guess what it is. After each guess the calculator will make known how many numbers are in the correct spot and how many are in the code, but in a different position. The code uses four unique numbers.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 111070,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111070/four-digit-bagels/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1979-08"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Four Digit Bagels"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Lunar Lander</em> for the HP programmable calculator plays similar to other <a href=\"https://www.mobygames.com/group/6716/lunar-lander-variants/\">variants</a>. The lunar landing module starts at 10,000 feet and falls at 16 feet per second squared. The player can input a duration and whether the thruster should be on or off. The goal is to reach the moon's surface within two feet with a velocity of 2 feet per second or less. The player only has limited fuel to burn.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 158,
+                "name": "Vehicle simulator"
+            }
+        ],
+        "id": 111071,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111071/lunar-lander/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1975-03"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Lunar Lander"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>This HP-55 <em>Lunar Lander</em> game differs slightly from the HP-65 version. In this version instead of giving a time frame to either coast or burn fuel, the player must give the amount of fuel to burn for each second. The goal remains to land on the moon with limited fuel.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 158,
+                "name": "Vehicle simulator"
+            }
+        ],
+        "id": 111072,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111072/lunar-lander/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1977-04"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Lunar Lander"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Eleven-Thirty</em> is a betting game. The HP programmable calculator will show two numbers between 11 and 30 and the player must wager if the next random numbers will be in between the given numbers or not. The goal is to increase the amount of money the player starts with.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 111073,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111073/eleven-thirty/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1975-03"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Eleven-Thirty"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Chuck-a-Luck</em> is a casino game in which the player can bet an amount of money on any number between one and six. The HP programmable calculator will roll three dice. The player earns his or her money back if one of the dice contains the number bet on, and doubles or triples the bet if two or three contain the number. The goal is to increase the starting money amount.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 111074,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111074/chuck-a-luck/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1975-03"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Chuck-a-Luck"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Logic Game</em> is a number guessing game. The player must guess a number taken at random by the HP programmable calculator. After each guess the calculator will display if the guess is too high or too low. When the number is guessed the amount of guesses is shown.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 111075,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111075/logic-game/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1975-03"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Logic Game"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Golf</em> is a golfing game for the HP-67 and HP-97. Up to two players can choose their handicap and swing clubs. The course is randomly generated. To shoot the player gives the club number that should be used (various woods, irons and a putter). The calculator then gives the distance remaining to the hole, the angle the ball was hit at, the distance it travelled, the ball's current coordinates and angle to hole. The ball can end up in the woods and from there can hit a tree and bounce in unpredictable directions.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 35,
+                "name": "Golf"
+            }
+        ],
+        "id": 111080,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111080/golf/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1976"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Golf"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "Personal Programming Center title",
+                "title": "Blackjack"
+            }
+        ],
+        "description": "<p><em>Game of 21</em> is a Blackjack game for the HP programmable calculator. The player plays against the calculator. Only one of the calculator's initial two cards is revealed. The player can bet and then each turn hit or stand. The goal is to get a card value as close to 21 without going over. Whoever has the highest value wins the bet.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 111095,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111095/game-of-21/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1976"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Game of 21"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Wari</em> is an adaptation of the traditional African board game Mancala. The player plays against the HP programmable calculator and must try to move beads to his bowl. Beads can be captured if one is placed in an opposing pit which has no beads in it.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 111096,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111096/wari/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1976"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Wari"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Artillery</em> puts the player in command of an artillery. The player gives a distance and angle in an attempt to hit a target. After each shot a spotter will tell by how far it missed and in which direction. The target also moves each turn up to a maximum speed. The player wins when the target is destroyed.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 143,
+                "name": "Artillery"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 111113,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111113/artillery/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1976"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Artillery"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Racetrack</em> is based on a pencil and paper game published in Martin Gardner's Mathematical Games column in Scientific American (May, 1973). Up to five contestants can input their acceleration (direction and magnitude) each turn while racing on an elliptical track. The HP programmable calculator checks for collision with the track's bounds and updates the racers to the new position. It's up to the players to keep track of where everybody is.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 6,
+                "name": "Racing / Driving"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 188,
+                "name": "Automobile"
+            }
+        ],
+        "id": 111114,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111114/racetrack/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1976"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Racetrack"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Submarine Hunt</em> is a grid hunting game. A submarine is hidden somewhere in a 10 by 10 grid. The player is tasked to destroy it with depth charges. The player can select a field to move the destroyer to and perform a sonar scan. If the submarine is within one tile of the destroyer it will be found.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 41,
+                "name": "Naval / watercraft"
+            }
+        ],
+        "id": 111160,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111160/submarine-hunt/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1976"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Submarine Hunt"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Space War</em> is a <a href=\"https://www.mobygames.com/group/7548/star-trek-variants/\">Star Trek variant</a>. It puts the player in command of the Nuclear Powered Reconnoiterer Kittyhawk. The galaxy is divided into a grid of 10 by 10 quadrants, each again divided into 10 by 10 sectors. Three vile Alglogs are hidden in the galaxy. The player must find and destroy them within 18 stardays. The player can fire torpedoes in a straight line or shoot an omnidirectional burst of phasers. The player can return to the base to resupply. To find the Alglogs and the base the player can use short and long range scanners. Stardays advance when the Kittyhawk changes its position.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 111161,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/111161/space-war/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1976"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Space War"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>In <em>Battleship II</em> an enemy ship is hidden in a 100x100 grid. The player may fire shots at coordinates in an attempt to hit it. After each shot the distance between the impact and the ship is made known also the enemy ship moves a number of units. When hits are within five units of the ship a minor hit is scored and the ship will move further. Five minor hits make a win. If the impact is less than one unit away from the ship, the ship is instantly destroyed and the player wins the game.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 41,
+                "name": "Naval / watercraft"
+            }
+        ],
+        "id": 112835,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/112835/battleship-ii/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1977"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Battleship II"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "Hewlett Packard release",
+                "title": "Pinball Wizzard"
+            },
+            {
+                "description": "HP-41 title",
+                "title": "Wizard of Pinball"
+            }
+        ],
+        "description": "<p><em>Pinball Wizard</em> is a pinball game for the HP Programmable Calculator. Due to the limitations of the screen the pinball table isn't actually shown, but the points scored are. There are 8 point scoring devices on the screen such as roll overs, thumpers, spinner gates, kick out holes, drop targets, etc. When the game is started the number of remaining balls is shown, after which the player can shoot the ball. Numbers are shown indicating which device is hit and how many points are scored. If -1 or -3 is displayed the player must type 1 or 3 quickly to use the flipper to bounce it back. This must be done quickly. When -2 is shown the ball is going down the middle and cannot be stopped, the player can try to tilt the machine by pressing 2 with a two out of three chance of avoiding a ball loss. When the ball does go out the bonus score is displayed. If zero points are scored no ball is subtracted and the player earns an extra ball at 50,000 points.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 53,
+                "name": "Pinball"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 112915,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/112915/pinball-wizard/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1977-01"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Pinball Wizard"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Games Pac 1</em> is a compilation games and game related software on 20 pre-recorded program cards. Games included are:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/search/?q=Space+War\">Space War</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Golf\">Golf</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Slot+Machine\">Slot Machine</a></li>\n<li><a href=\"https://www.mobygames.com/game/111043/dice/\">Dice</a></li>\n<li><a href=\"https://www.mobygames.com/game/111095/game-of-21/\">Game of 21</a></li>\n<li><a href=\"https://www.mobygames.com/game/111160/submarine-hunt/\">Submarine Hunt</a></li>\n<li><a href=\"https://www.mobygames.com/game/106220/artillery-game/\">Artillery Game</a></li>\n<li><a href=\"https://www.mobygames.com/game/111041/super-bagels/\">Super Bagels</a></li>\n<li><a href=\"https://www.mobygames.com/game/111040/nimk/\">NIMk</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Queen+Board\">Queen Board</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Tic-Tac-Toe\">Tic-Tac-Toe</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Wari\">Wari</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Racetrack\">Racetrack</a></li>\n<li><a href=\"https://www.mobygames.com/game/102649/teaser/\">Teaser</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=The+Dealer\">The Dealer</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Bowling\">Bowling</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Hexapawn\">Hexapawn</a></li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 113059,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/113059/games-pac-1/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1977-06"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Games Pac 1"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>One-Armed Bandit</em> is a slot machine simulation playing on HP calculator. The player can play a number of games based on the amount of money typed in. The display will show a three digit random number. The player can hold individual numbers or spin them all again. Money is earned based on the combination. The goal is to increase your initial buy-in.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 118152,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/118152/one-armed-bandit/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1977-09"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "One-Armed Bandit"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Number Guesser</em> is a guessing game that can be programmed on a HP programmable calculator. Players take turns guessing the correct number.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 118262,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/118262/number-guesser/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1977"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Number Guesser"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>HP-25 Roulette</em> is a simulation of the typical casino game. Players can bet fictional money after which the random outcome of a spin determines the payouts for each player.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 118263,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/118263/hp-25-roulette/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1977"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "HP-25 Roulette"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Shooting Gallery</em> is a shooting game for the HP-25 calculator. The player gives a target position on the screen and then a bullet will fly across the display, symbolized by it filling with eights. The player must quickly press a key when the eights have filled to exactly the point of the target position. When correct the display will show your current score.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 135924,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/135924/shooting-gallery/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1978-12"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Shooting Gallery"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Trapped Game</em> is a number guessing game. The display shows the minimum and maximum value the number can have. After each guess the boundaries will change based on whether the hidden number is higher or lower than the guessed number. Once the number is guessed the player sees the tries taken.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 135930,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/135930/trapped-game/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1978-07"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Trapped Game"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Blackjack Game</em> is a calculator implementation of the Las Vegas casino game. The player and calculator (bank) try to get a card value as close to 21 as possible without going over. After each card the player can decided to hit another card or stop. Aces are worth one by default, but the player can change them to eleven manually.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 135931,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/135931/blackjack-game/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1978-05"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Blackjack Game"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Concentration</em> is a memory game in which a number is briefly shown. The player must type in the same number. If the player is correct a larger number will be shown. When incorrect a shorter number is shown. After three misses the game is over.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 167915,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/167915/concentration/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1977-01"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Concentration"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Shooting Gallery</em> is an arcade game. The decimal point moves across the screen and the player must try to hit it. The calculator also fires back and the game ends if the player is hit six times.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 167916,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/167916/shooting-gallery/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1977-01"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Shooting Gallery"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Bell-Fruit Slot Machine</em> is a slot machine simulation mimicking the Mills brand Bell-Fruit slot machine. It gives the same pay-outs and also the same odds.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            }
+        ],
+        "id": 167962,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/167962/bell-fruit-slot-machine/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1977-01"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Bell-Fruit Slot Machine"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Word Bagels</em> is a word guessing game in which a three to five letter word needs to be guessed. After each guess the player receives the number of correctly placed letters and number of letters that are in the wrong position, but do appear in the word that needs to be guessed.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 162,
+                "name": "Word construction"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 167963,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/167963/word-bagels/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1977-01"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Word Bagels"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Probe Word Game</em> is a game for two players. Players both try to guess a word one letter at a time. Each time a correct letter is awarded points are scored.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 162,
+                "name": "Word construction"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 167964,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/167964/probe-word-game/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1977-01"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Probe Word Game"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Hangman Word Game</em> is a word guessing game. The player is told the number of letters of the word to be guessed and for each letter guessed will learn if it's in the word and at what position.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 162,
+                "name": "Word construction"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 167965,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/167965/hangman-word-game/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1977-01"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Hangman Word Game"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Space War</em> is a <a href=\"https://www.mobygames.com/group/7548/star-trek-variants/\">Star Trek variant</a>. The player is in control of the starship Enterprise and must search 5184 sectors divided over 64 quadrants in 15 stardates to rid space of three Klingon invaders. The player can return to a starbase to resupply energy and photon torpedoes and must take care their shield isn't depleted or they will become vulnerable.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 158,
+                "name": "Vehicle simulator"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 159,
+                "name": "Vehicular combat"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 168010,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/168010/space-war/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1977-06"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Space War"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Dog Races</em> is a dog racing betting game. The player can bet on eight different dogs. Races are displayed in up to seven steps in which the order of dogs is shown. The game then calculates the earnings based on the player's bets.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 168011,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/168011/dog-races/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1977-06"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Dog Races"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Star Trek-Advanced</em> is a <a href=\"https://www.mobygames.com/group/7548/star-trek-variants/\">Star Trek variant</a>. The player is in control of the starship USS Enterprise and must track down and defeat Klingon, Romulan and Vallician war vessels and a stranded Nubian freighter. The player can use sensors to find them and use phasers and photon torpedoes to defeat the enemies. The player can also use tools such as the transporter, tracking beam, cloaking device and self-destruct. Combat can be practiced in a firing range.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 158,
+                "name": "Vehicle simulator"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 159,
+                "name": "Vehicular combat"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 168012,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/168012/star-trek-advanced/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1977-06"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Star Trek-Advanced"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Jack of Eagles</em> is a guessing game played against the computer. The player must enter a positive or negative number. The computer wins points if it correctly anticipates the player's guess based on previous numbers chosen. If the computer guesses incorrectly the player wins points.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 168013,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/168013/jack-of-eagles/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1977-06"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Jack of Eagles"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Game of \"Life\" (9 \u00d7 9)</em> is an implementation of <em>Conway's Game of Life</em>. The player can start with a pattern and watch how they evolve based on the simple rules of <em>Conway's Game of Life</em>. </p>\n<ul>\n<li>Any live cell with fewer than two live neighbours dies, as if caused by under-population.</li>\n<li>Any live cell with two or three live neighbours lives on to the next generation.</li>\n<li>Any live cell with more than three live neighbours dies, as if by overcrowding.</li>\n<li>Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.</li>\n</ul>\n<p>On the HP-97 each generation will be printed, on the HP-67 it can only be seen on the screen.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 168014,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/168014/game-of-life-9-9/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1977-06"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Game of \"Life\" (9 \u00d7 9)"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Pinochle</em> allows the player to play the card game of the same name against the AI. Players are dealt a hand of twelve cards. Play consists of multiple phases. Players start with melding (scoring points for certain card combinations) and then continue playing cards in attempt to win tricks.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 168112,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/168112/pinochle/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1978-02"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Pinochle"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>A Binary Guessing Game</em> is a guessing program in which the player types a sequence of 1s and 0s and the calculator will try to guess the sequence. The player must also guess the computer's code. The player and computer take turns guessing their next number and score points if the number is correct. Either player wins when getting 15 points ahead. The typed in codes repeat indefinitely and the computer uses pattern recognition to try and guess the next number.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 179299,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/179299/a-binary-guessing-game/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1979-04"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "A Binary Guessing Game"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Baseball for All Seasons</em> is a baseball game for the HP25 programmable calculator for two players. The pitcher has a choice of three pitches and the batter has a choice of swinging or taking the pitch. The different balls are change up, fast and curve ball. Each ball has a different probability of hitting. Then there is a randomized outcome based on statistics from 1972 National League games.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 32,
+                "name": "Baseball"
+            }
+        ],
+        "id": 179806,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/179806/baseball-for-all-seasons/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1979-10"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Baseball for All Seasons"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>HP-67/HP-97 Users' Library Solutions: Games</em> is a booklet containing 11 type-in programs for the HP-67 and HP-97 programmable calculators coming from the Users' Library.</p>\n<ul>\n<li><em>Risk</em> - A gambling game played against the computer. The player can decide the personality of the computer player.</li>\n<li><em>Blackjack with a Permanent Bank</em> - The player can player the casino card game heads-up against the bank.</li>\n<li><a href=\"https://www.mobygames.com/game/167962/bell-fruit-slot-machine/\">Bell-Fruit (Mills Standard)</a> - A simulation of a one-armed-bandit slot machine.</li>\n<li><em>Turn the Die</em> - A variant of <a href=\"https://www.mobygames.com/group/9247/nim-variants/\">Nim</a>.</li>\n<li><em>Word Encoder</em> - Not a game, but a way to encode words to display on the screen.</li>\n<li><em>Word Game Subroutine</em> - The basis for a word game (but not a full game).</li>\n<li><a href=\"https://www.mobygames.com/game/167965/hangman-word-game/\">Hangman Word Game</a> - The classic word guessing game that utilizes the Word Game Subroutine and Word Encoder.</li>\n<li><em>Pro Football Simulation</em> - Play a game of football against the calculator.</li>\n<li><em>Electronic Contract Bridge Score Pad</em> - Not a game, but an aid for the card game <em>Bridge</em>.</li>\n<li><em>Duplicate Bridge Score with Running Totals</em> - Another aid for the card game <em>Bridge</em>.</li>\n<li><em>Battleship</em> - The player must try to sink an enemy battle ship with torpedoes. The ship will take evasive actions on a minor hit.</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 179908,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/179908/hp-67hp-97-users-library-solutions-games/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1977"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "HP-67/HP-97 Users' Library Solutions: Games"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>HP-67/HP-97 Users' Library Solutions: Games of Chance</em> is a booklet containing 10 type-in programs for the HP-67 and HP-97 programmable calculators coming from the Users' Library.</p>\n<ul>\n<li><em>Craps</em> - A classic casino gambling game with dice, where players must roll multiple times in succession without rolling values that aren't allowed.</li>\n<li><em>Twenty-Six and Thirty-Six</em> - Two dice gambling games. In the first the player must roll 10 dice 13 times and is awarded money based on how often a chosen number was rolled. In the second game two players roll a dice until getting as close to 36 as possible. Whoever gets closest without going bust wins.</li>\n<li><a href=\"https://www.mobygames.com/game/111074/chuck-a-luck/\">Chuck-A-Luck Dice Game</a> - A dice gambling game with three dice where the presence of a specific number must be bet on.</li>\n<li><em>Parapar</em> - A gambling game with dice where the goal is to get a value below 24 with five dice.</li>\n<li><em>Pig</em> - A gambling game for up to 22 players. Players roll the dice in turn and add points to their total once they pass on the die. Rolling a one immediately ends their turn. The first person with a 100 points wins.</li>\n<li><em>Big Six</em> - A gambling game where the player bets on numbers displayed by three dice. The player pays money for individual numbers bet on.</li>\n<li><em>Roulette</em> - A casino gambling game where the player bets on numbers, ranges or odd/even.</li>\n<li><a href=\"https://www.mobygames.com/game/168011/dog-races/\">Dog Races</a> - A gambling game where the player bets on dogs. The player can either bet on a single dog or on a perfecta (guess the top three dogs correctly).</li>\n<li><em>Horse Race</em> - A gambling game where the player bets on horses.</li>\n<li><em>Blackjack Betting</em> - A betting aid for actual Black Jack.</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 179909,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/179909/hp-67hp-97-users-library-solutions-games-of-chance/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1977"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "HP-67/HP-97 Users' Library Solutions: Games of Chance"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>In <em>Memory Game</em> a number will be shown for a brief moment. After the number disappeared a zero is displayed and the player must type in the number that was shown. After 10 numbers the player is shown their score.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 180113,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/180113/memory-game/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1979-08"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Memory Game"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Blackjack</em> is an implementation of the gambling card game for the HP-19C and HP-29C calculators. The player must try to get a card value as close to 21 as possible without going bust by going over.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 180115,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/180115/blackjack/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1979-07"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Blackjack"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Poker\u20145-Card Draw</em> is a poker game played heads-up against the calculator. Players receive five cards each and can stay, raise or fold. Whoever has the best poker hand at the showdown wins the pot.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 180117,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/180117/poker5-card-draw/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1979-11"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Poker\u20145-Card Draw"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Game of High Rollers</em> is a game of chance. The player starts out with the numbers 1 through 9 and each turn rolls two dice. The player must remove numbers that combine together to the rolled number. The player wins if they manage to remove all the numbers, but loses if at some point no valid move can be made.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 180118,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/180118/game-of-high-rollers/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 234,
+                    "name": "HP Programmable Calculator"
+                },
+                "1979-08"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Game of High Rollers"
+    }
+]

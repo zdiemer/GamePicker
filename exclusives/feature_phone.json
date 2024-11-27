@@ -1,0 +1,70 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p>The Nokia 6110 smartphone was launched with three games included:</p>\n<ul>\n<li><em>Logic</em></li>\n<li><em>Memory</em></li>\n<li><em>Snake</em></li>\n</ul>\n<p><em>Logic</em> involves working out combinations of symbols and memory which requires you to match up pairs of symbols that are hidden beneath cards within the least number of moves.</p>\n<p><em>Memory</em> requires you to match up pairs of symbols that are hidden beneath cards within the least number moves.</p>\n<p>For <em>Snake</em> this is the first implementation of the classic game for the Nokia smartphones. It supports a two-player mode using two phones and an infrared connection. The game keeps track of the score and shows in the top left corner. The screen consists of 48 x 84 black and white pixels. The original gameplay design was slightly tweaked so that when the snake reaches the edge of the screen, a tiny delay is added before the crash so that the player has a few more milliseconds to react and save the snake.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 206796,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/206796/nokia-6110-included-games/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 315,
+                    "name": "Feature phone"
+                },
+                "1998"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Nokia 6110 (included games)"
+    }
+]

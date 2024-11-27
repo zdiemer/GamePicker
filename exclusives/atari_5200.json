@@ -1,0 +1,916 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p>Terrorists have seized control of several missile silos and are planning on launching missiles to blow up Washington D.C. Your job is to stop them! From a top down point of view, you control a tank over varied, scrolling terrain. To stop the missiles, you have two options: you can destroy all of the missiles, or attempt to guess the fail safe code. If you try to destroy all the missiles, you must do so in under ten minutes. The missiles silos have many defenses which the terrorists also control; pillboxes, tanks, jeeps, and cruise missiles are all capable of destroying your tank. Should you attempt to guess the fail safe code, clues can be found by docking at supply depots. The code is three letters long, and can consist of any combination of L, E and O. When you enter a war room, you have a very short time to enter the code correctly or the missiles will launch. When the missiles have been stopped (by either means), the level is complete and you continue on to the next, more difficult round.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 80,
+                "name": "Tank"
+            }
+        ],
+        "id": 11325,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/11325/countermeasure/",
+        "num_votes": 5,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 33,
+                    "name": "Atari 5200"
+                },
+                "1983-02"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/4117352-countermeasure-atari-5200-front-cover.jpg",
+            "platforms": [
+                "Atari 5200"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/6ab3204e-aba6-11ed-a44e-02420a000199.webp",
+            "width": 589
+        },
+        "sample_screenshots": [
+            {
+                "caption": "A clue! the last letter in the code is O",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/1243285-countermeasure-atari-5200-a-clue-the-last-letter-in-the-code-is-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/81c1ce4e-ab73-11ed-beab-02420a000199.webp",
+                "width": 336
+            },
+            {
+                "caption": "Atari logo and game title",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/1242198-countermeasure-atari-5200-atari-logo-and-game-title.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7f5b107a-ab73-11ed-beab-02420a000199.webp",
+                "width": 336
+            },
+            {
+                "caption": "Level complete, now on to the next one!",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/1243061-countermeasure-atari-5200-level-complete-now-on-to-the-next-one.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8139696e-ab73-11ed-beab-02420a000199.webp",
+                "width": 336
+            },
+            {
+                "caption": "Beginning the game",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/1242595-countermeasure-atari-5200-beginning-the-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/801cab9a-ab73-11ed-beab-02420a000199.webp",
+                "width": 336
+            },
+            {
+                "caption": "Watch out for those pillboxes guarding the silos!",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/1242690-countermeasure-atari-5200-watch-out-for-those-pillboxes-guarding.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/804fb3be-ab73-11ed-beab-02420a000199.webp",
+                "width": 336
+            }
+        ],
+        "title": "Countermeasure"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "Working Title",
+                "title": "Disasteroids"
+            }
+        ],
+        "description": "<p><em>Meteorites</em> is an arcade action game featuring gameplay similar to <a href=\"https://www.mobygames.com/search/?q=Asteroids\">Asteroids</a>. You control a spaceship surrounded by numerous asteroids; your goal is to destroy them! Each time you shoot an asteroid, it will break up into smaller asteroids. Eventually the pieces will be small enough that you can destroy them. When you have destroyed all of the asteroids, you will move on to the next, more difficult level. To make the game more difficult, a flying saucer will also appear from time to time and try to shoot your spaceship. To get out of trouble quickly, your spaceship also may enter hyperspace transporting you to a new location on the screen. Be careful, though, sometimes the new location is worse than the one you left!</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 11342,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/11342/meteorites/",
+        "num_votes": 3,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 33,
+                    "name": "Atari 5200"
+                },
+                "1984-07"
+            ]
+        ],
+        "sample_cover": {
+            "height": 240,
+            "image_url": "https://cdn.mobygames.com/screenshots/1108191-meteorites-atari-5200-title-screen.png",
+            "platforms": [
+                "Atari 5200"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/6ede4678-ab72-11ed-9e47-02420a00019f.webp",
+            "width": 336
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Game over",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/2036086-meteorites-atari-5200-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9cbfa6ba-ab7a-11ed-99ae-02420a00019e.webp",
+                "width": 336
+            },
+            {
+                "caption": "The flying saucer can cause trouble",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/2035997-meteorites-atari-5200-the-flying-saucer-can-cause-trouble.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9c813dc6-ab7a-11ed-99ae-02420a00019e.webp",
+                "width": 336
+            },
+            {
+                "caption": "Watch out for those asteroids!",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/2035871-meteorites-atari-5200-watch-out-for-those-asteroids.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9c1eb4b2-ab7a-11ed-99ae-02420a00019e.webp",
+                "width": 336
+            },
+            {
+                "caption": "Title screen",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/1108191-meteorites-atari-5200-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6ede4678-ab72-11ed-9e47-02420a00019f.webp",
+                "width": 336
+            }
+        ],
+        "title": "Meteorites"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>This homebrew Atari 5200 cartridge is a direct, yet unofficial sequel to the Atari 2600 action role-playing classic <a href=\"https://www.mobygames.com/game/11162/adventure/\">Adventure</a>. The player controls an unnamed knight on a quest to return the stolen chalice to the Seashore Kingdom's Castle. Like the original, <em>Adventure II</em> is played from top-down perspective, with player roaming the large game world.. The player character can carry one item at a time which are used to solve puzzles.\nWhile the main player graphic remains a square, the world of <em>Adventure II</em> is far larger and more robust than the original. The game's 32k cartridge features 4 distinct kingdoms, complete with unique inhabitants, items and secrets.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 231,
+                "name": "Fangame"
+            }
+        ],
+        "id": 28288,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/28288/adventure-ii/",
+        "num_votes": 2,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 33,
+                    "name": "Atari 5200"
+                },
+                "2007-05-07"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/4674292-adventure-ii-atari-5200-front-cover.jpg",
+            "platforms": [
+                "Atari 5200"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/6ba1e1be-abbc-11ed-9d80-02420a00019a.webp",
+            "width": 574
+        },
+        "sample_screenshots": [
+            {
+                "caption": "The title screen.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/5077927-adventure-ii-atari-5200-the-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/37c68424-abcd-11ed-9ab3-02420a0001a0.webp",
+                "width": 336
+            },
+            {
+                "caption": "OK, now, how would I get the key all the way over THERE?",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/2976103-adventure-ii-atari-5200-ok-now-how-would-i-get-the-key-all-the-w.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2ae177a0-ab87-11ed-a519-02420a00019d.webp",
+                "width": 336
+            },
+            {
+                "caption": "Ahh, the Seeshore Kingdom\u2019s Castle never looked this good.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/5078088-adventure-ii-atari-5200-ahh-the-seeshore-kingdoms-castle-never-l.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/39539a48-abcd-11ed-9ab3-02420a0001a0.webp",
+                "width": 336
+            },
+            {
+                "caption": "The insides of the Seashore Kingdom's Castle.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/2977649-adventure-ii-atari-5200-the-insides-of-the-seashore-kingdoms-cas.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/30f4f928-ab87-11ed-b430-02420a0001a0.webp",
+                "width": 336
+            },
+            {
+                "caption": "Chased by the red dragon... who no longer looks like a duck!",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/5078227-adventure-ii-atari-5200-chased-by-the-red-dragon-who-no-longer-l.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3a9384d6-abcd-11ed-9ab3-02420a0001a0.webp",
+                "width": 336
+            }
+        ],
+        "title": "Adventure II"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>Koffi is a little kopter so when the emergencies came, the big kopters wouldn't let him go. But now he has heard that Pyro the thundercloud is using lightning to start fires in the forest. The fire needs to be put out, the animals need saving. Koffi wasn't allowed to help the big kopters but he can't just ignore this until they return.</p>\n<p>You, as Koffi, must gather water from the raindrops or snowflakes and destroy Pyro. You destroy him by bumping into him but watch out for his lightning. After Pyro is gone, you must hover close to the fire then press your button to release water to put out. If you don't have enough water, grab more raindrops or snowflakes but don't delay or the fire will rage out of control. You can get bonus points by shoving the animal under the trees off the screen. The forest areas are mountain valley, coniferous forest and windy vines, where you have to watch that you are not blown into lightning. After you clear the three forest areas, you must face Pyro's mom, and she is not happy that you beat up on her son. You kill her the same way as her son but she throws longer and faster lightning and there is an angry cloud moving up and down and slowly towards you. Once she is dead, you restart mountain valley at a harder level.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 56,
+                "name": "Helicopter"
+            }
+        ],
+        "id": 30020,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/30020/koffi-yellow-kopter/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 33,
+                    "name": "Atari 5200"
+                },
+                "2003-02-24"
+            ]
+        ],
+        "sample_cover": {
+            "height": 240,
+            "image_url": "https://cdn.mobygames.com/screenshots/2925929-koffi-yellow-kopter-atari-5200-atari-logo-and-game-title.png",
+            "platforms": [
+                "Atari 5200"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/59b68daa-ab86-11ed-8ed2-02420a0001a0.webp",
+            "width": 336
+        },
+        "sample_screenshots": [
+            {
+                "caption": "I defeated Pyro's mom.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/3779391-koffi-yellow-kopter-atari-5200-i-defeated-pyros-mom.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c12daa4a-ab9a-11ed-96f9-02420a00019a.webp",
+                "width": 336
+            },
+            {
+                "caption": "I put out the fire.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/4585978-koffi-yellow-kopter-atari-5200-i-put-out-the-fire.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c8d8e886-abb8-11ed-b6ee-02420a00019d.webp",
+                "width": 336
+            },
+            {
+                "caption": "Windy vines",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/4586248-koffi-yellow-kopter-atari-5200-windy-vines.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cbc75ee2-abb8-11ed-b6ee-02420a00019d.webp",
+                "width": 336
+            },
+            {
+                "caption": "I defeated Pyro.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/4585837-koffi-yellow-kopter-atari-5200-i-defeated-pyro.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c734a678-abb8-11ed-b6ee-02420a00019d.webp",
+                "width": 336
+            },
+            {
+                "caption": "Mountain valley",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/3778600-koffi-yellow-kopter-atari-5200-mountain-valley.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ba57066c-ab9a-11ed-837d-02420a00019b.webp",
+                "width": 336
+            }
+        ],
+        "title": "Koffi: Yellow Kopter"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>This game is based on the fifth screen of the coin-op game <a href=\"https://www.mobygames.com/game/8987/phoenix/\">Phoenix</a>.</p>\n<p>The object of this game is to destroy the Castle on the Mothership. You fire Vertical Trajectory Missiles, or VTMs, at the shield on the bottom of the Mothership. When you penetrate the shield, then blast the Castle. To score extra points, you can also shoot the enemy spaceships flying overhead.</p>\n<p>If you destroy the Castle, you advance to the next level, where you will need to contend with Focused Energy Beams, or FEBs, fired from the Mothership. There will also be stars appearing in the sky, making it harder to target the spaceships.</p>\n<p>If you manage to obliterate the Castle again, you will proceed to the next level, which adds ground-based tanks assaulting you. You have Horizontal Trajectory Missiles, or HTMs, to deal with this new enemy but do not lose sight of your primary goal.</p>\n<p>Your joystick moves you left or right. The lower button fires VTMs, the upper button fires HTMs.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 30022,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/30022/castle-blast/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 33,
+                    "name": "Atari 5200"
+                },
+                "2002-08-10"
+            ]
+        ],
+        "sample_cover": {
+            "height": 240,
+            "image_url": "https://cdn.mobygames.com/screenshots/2942732-castle-blast-atari-5200-atari-logo-and-game-title.png",
+            "platforms": [
+                "Atari 5200"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/a08c0d22-ab86-11ed-9e47-02420a00019f.webp",
+            "width": 336
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Atari logo and game title",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/2942732-castle-blast-atari-5200-atari-logo-and-game-title.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a08c0d22-ab86-11ed-9e47-02420a00019f.webp",
+                "width": 336
+            },
+            {
+                "caption": "Level 2. The Mothership blasted me.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/304470-castle-blast-atari-5200-level-2-the-mothership-blasted-me.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/05385a20-ab6c-11ed-8e21-02420a00019b.webp",
+                "width": 336
+            },
+            {
+                "caption": "Title screen",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/3777446-castle-blast-atari-5200-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b03c1fbe-ab9a-11ed-a218-02420a00019e.webp",
+                "width": 336
+            },
+            {
+                "caption": "Starting level 1.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/2942861-castle-blast-atari-5200-starting-level-1.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a11d6f88-ab86-11ed-9ab3-02420a0001a0.webp",
+                "width": 336
+            },
+            {
+                "caption": "Game over",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/3778968-castle-blast-atari-5200-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bd36b792-ab9a-11ed-a218-02420a00019e.webp",
+                "width": 336
+            }
+        ],
+        "title": "Castle Blast"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>This was a special copy of the game <a href=\"https://www.mobygames.com/game/30022/castle-blast/\">Castle Blast</a> that was awarded in the Castle Blast Label Contest.</p>\n<p>It differs from the regular version in the following ways:* The winner's initials and a serial number are displayed on the top of the screen when * is pressed.</p>\n<ul>\n<li>The winner's initials and a serial number are displayed as a moving message at the bottom of the screen when the game is over.</li>\n<li>There is a cheat mode so the player can begin at any level.</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 30023,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/30023/castle-blast-special-edition/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 33,
+                    "name": "Atari 5200"
+                },
+                "2002"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Castle Blast (Special Edition)"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>This is an updated version of the game <a href=\"https://www.mobygames.com/game/9751/haunted-house/\">Haunted House</a> with a three dimensional perspective to the rooms.</p>\n<p>You enter a mansion with thirty or sixty rooms, depending of your selection. You are searching for treasure but beware of the ghosts and creeps that haunt the mansion. You can turn on a light in any rooms to find hidden items. Somewhere in the maze of rooms is a sword that will make you immune to most bad guys. Once you have the treasure, make your way to the south wall of the starting point to exit and win.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 126,
+                "name": "3rd-person (Other)"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 83,
+                "name": "Horror"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 231,
+                "name": "Fangame"
+            }
+        ],
+        "id": 30030,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/30030/haunted-house-ii-3d/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 33,
+                    "name": "Atari 5200"
+                },
+                "2002-07-23"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Haunted House II 3D"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>This is the game <a href=\"https://www.mobygames.com/game/29118/combat-two/\">Combat Two</a> ported to the Atari 5200 with additional features.</p>\n<p>You still can use tanks to shoot each other but now you have game variations with helicopters, jet planes and submarines. Each vehicle has two weapon modes, a primary and secondary. Also, you can play with up to three friends, simultaneously.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 19,
+                "name": "Flight / aviation"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 56,
+                "name": "Helicopter"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 41,
+                "name": "Naval / watercraft"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 80,
+                "name": "Tank"
+            }
+        ],
+        "id": 30034,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/30034/combat-ii-advanced/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 33,
+                    "name": "Atari 5200"
+                },
+                "2003"
+            ]
+        ],
+        "sample_cover": {
+            "height": 240,
+            "image_url": "https://cdn.mobygames.com/screenshots/3507666-combat-ii-advanced-atari-5200-meanhamster-software-retro-divisio.png",
+            "platforms": [
+                "Atari 5200"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/cdb32f6e-ab91-11ed-b6ee-02420a00019d.webp",
+            "width": 336
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Presents",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/3503983-combat-ii-advanced-atari-5200-presents.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/aee040fe-ab91-11ed-9505-02420a00019c.webp",
+                "width": 336
+            },
+            {
+                "caption": "MeanHamster Software Retro Division",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/3507666-combat-ii-advanced-atari-5200-meanhamster-software-retro-divisio.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cdb32f6e-ab91-11ed-b6ee-02420a00019d.webp",
+                "width": 336
+            },
+            {
+                "caption": "Combat II Advanced title screen",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/3507867-combat-ii-advanced-atari-5200-combat-ii-advanced-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cf1e872c-ab91-11ed-b6ee-02420a00019d.webp",
+                "width": 336
+            }
+        ],
+        "title": "Combat II Advanced"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>This is the game <a href=\"https://www.mobygames.com/game/30034/combat-ii-advanced/\">Combat II Advanced</a> that was awarded to the winners of a Combat II Advanced Contest. The limited edition cartridges are autographed and have a reflective gold label.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 126,
+                "name": "3rd-person (Other)"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 19,
+                "name": "Flight / aviation"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 56,
+                "name": "Helicopter"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 41,
+                "name": "Naval / watercraft"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 80,
+                "name": "Tank"
+            }
+        ],
+        "id": 30035,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/30035/combat-ii-advanced-limited-edition/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 33,
+                    "name": "Atari 5200"
+                },
+                "2002-11-20"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Combat II Advanced (Limited Edition)"
+    }
+]

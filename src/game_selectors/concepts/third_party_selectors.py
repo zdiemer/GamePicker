@@ -11,19 +11,25 @@ def get_third_party_selector(
     moby_games_group_ids: Optional[List[int]] = None,
 ):
     validator = data_provider.get_validator()
-    titles = set()
 
-    for concept_guid in giant_bomb_concept_guids or []:
-        titles = titles.union(
-            data_provider.get_giant_bomb_titles_for_concept(concept_guid)
-        )
+    def get_titles():
+        titles = set()
 
-    for group_id in moby_games_group_ids or []:
-        titles = titles.union(data_provider.get_moby_games_titles_for_group(group_id))
+        for concept_guid in giant_bomb_concept_guids or []:
+            titles = titles.union(
+                data_provider.get_giant_bomb_titles_for_concept(concept_guid)
+            )
+
+        for group_id in moby_games_group_ids or []:
+            titles = titles.union(
+                data_provider.get_moby_games_titles_for_group(group_id)
+            )
+
+        return titles
 
     return GameSelector(
         _filter=lambda g: any(
-            validator.titles_equal_normalized(g.title, t) for t in titles
+            validator.titles_equal_normalized(g.title, t) for t in get_titles()
         ),
         name=name,
     )

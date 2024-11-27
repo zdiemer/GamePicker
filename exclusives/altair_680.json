@@ -1,0 +1,61 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Game of Life</em> is an implementation of Conway's Game of Life for the Altair 680 in just sixteen lines of code. The player can draw patterns and watch how they evolve based on the simple rules of <em>Conway's Game of Life</em>. </p>\n<ul>\n<li>Any live cell with fewer than two live neighbours dies as if caused by under-population.</li>\n<li>Any live cell with two or three live neighbours lives on to the next generation.</li>\n<li>Any live cell with more than three live neighbours dies, as if by overcrowding.</li>\n<li>Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            }
+        ],
+        "id": 121474,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/121474/game-of-life/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 265,
+                    "name": "Altair 680"
+                },
+                "1977-02-09"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Game of Life"
+    }
+]

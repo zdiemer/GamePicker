@@ -1,0 +1,4738 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Piraten Avontuur</em> is an unofficial conversion of <a href=\"https://www.mobygames.com/game/9819/pirate-adventure/\">Pirate Adventure</a> for the Philips P2000. The game has been fully translated into Dutch and was available through user groups and viditel, a Dutch predecessor of the Internet.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 23,
+                "name": "Interactive fiction / text adventure"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 30,
+                "name": "Puzzle elements"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 210,
+                "name": "Sea pirates / Caribbean"
+            }
+        ],
+        "id": 217772,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/217772/piraten-avontuur/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1982-09-06"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Piraten Avontuur"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "Included media",
+                "title": "BASIC DEMO cassette"
+            }
+        ],
+        "description": "<p>The Philips P2000T computer came with BASIC DEMO cassette, which included six programs. A color graphics demo, an address book, checkbook, a Viditel terminal (Dutch precursor to the Internet) and two games:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/game/217816/sluit-in/\">Sluit in</a> (An Othello implementation)</li>\n<li><a href=\"https://www.mobygames.com/game/217817/u-hangt/\">U hangt</a> (A Hangman implemenation)</li>\n</ul>\n<p>The games were later also available through Viditel.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 217814,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/217814/philips-p2000t-included-games/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1981-03"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Philips P2000T (included games)"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Sluit-in</em> is a computer implementation of Othello. The player and computer take turns to place their mark on the board. Whenever they place their mark any enclosed mark of the player changes to their color. When the entire board is filled whoever owns most of the board is the winner.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 217816,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/217816/sluit-in/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1981"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Sluit-in"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>U hangt</em> is a computer implementation of the popular children's word game Hangman. The computer thinks of a word and the player must guess it letter by letter. After each incorrect guess part of a hanged man is displayed on screen. If the full hanged man is drawn the game is lost.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 162,
+                "name": "Word construction"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 217817,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/217817/u-hangt/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1981"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "U hangt"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Racen!</em> is a basic top-down racing game. The player must avoid other cars and the sides of the track by moving left and right on the curvy track. There are multiple difficulty levels.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 6,
+                "name": "Racing / Driving"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 15,
+                "name": "Real-time"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 188,
+                "name": "Automobile"
+            }
+        ],
+        "id": 217858,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/217858/racen/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1981"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Racen!"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Utopia</em> is a kingdom management game in the vein of <a href=\"https://www.mobygames.com/game/22232/hamurabi/\">Hamurabi</a>. The player takes the role of the president of a fictional nation and must provide them with enough food by planting and harvesting grain. Random events like grain silo fires and good or bad weather have an effect on the grain stockpile and harvest. Limited grain can be stored for future turns and the population will grow or shrink based on how well they are fed.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 40,
+                "name": "Managerial / business simulation"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 217859,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/217859/utopia/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1981"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Utopia"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Doolhof</em> is a first-person maze game. The player walks through a maze and attempts to find the exit. The goal is to reach the exit with the lowest score. The player can choose to bring a compass which is shown on screen at all times as an aid. The compass costs ten points, each step done in the maze costs one point and looking at a map of the maze costs one point per second.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 15,
+                "name": "Real-time"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 217874,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/217874/doolhof/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1981"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Doolhof"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Skien</em> is a simple racing game on skis. The player goes downhill and must avoid the edges of the piste and obstacles on the path.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 15,
+                "name": "Real-time"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 95,
+                "name": "Snowboarding / skiing"
+            }
+        ],
+        "id": 217876,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/217876/skien/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1981"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Skien"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Jackpot</em> is a fruit gambling machine simulation. The player has three reels which can be individually held or re-spun. The player's goal is to increase their money amount.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 172,
+                "name": "Menu structures"
+            }
+        ],
+        "id": 217932,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/217932/jackpot/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1982-04-05"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Jackpot"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Brick-Wall</em> is a <a href=\"https://www.mobygames.com/game/9001/breakout/\">Breakout</a> variant. Up to four players can try to set a score in hot seat multiplayer. The player on turn moves a paddle at the bottom of the screen and moves it left and right to keep a bouncing ball into the playing area. At the top of the screen bricks are placed which will break when hit by the ball. Each broken brick is worth points. If the ball is not returned it is lost and players only have limited balls.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 64,
+                "name": "Paddle / Pong"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 218184,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218184/brick-wall/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1982-08-29"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Brick-Wall"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Othello-1</em> is a computer implementation of Othello. Players take turns to place their mark on the board. Whenever they place their mark any enclosed mark of the other player changes to their color. When the entire board is filled whoever owns most of the board is the winner.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            }
+        ],
+        "id": 218185,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218185/othello-1/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1982-08-24"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Othello-1"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "Alternate title",
+                "title": "Marco Polo"
+            }
+        ],
+        "description": "<p><em>Marco Polo Jr</em> is a business simulation in which the player takes on the role of historic explorer, merchant and writer Marco Polo. The player travels to the Orient and must buy and sell goods in an effort to make a handsome profit.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 40,
+                "name": "Managerial / business simulation"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 261,
+                "name": "Age of Discovery / Enlightenment"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 198,
+                "name": "China (Ancient / Imperial)"
+            }
+        ],
+        "id": 218187,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218187/marco-polo-jr/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1982-11-04"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Marco Polo Jr"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "Initial title",
+                "title": "In de Ban van een Ring"
+            }
+        ],
+        "description": "<p><em>Ancalagon</em> is an unofficial <a href=\"https://www.mobygames.com/group/213/inspiration-author-jrr-tolkien/\">Lord of the Rings</a> game that takes place in the dungeons and fortress of Angband in the realm of Morgoth. In typical <a href=\"https://www.mobygames.com/game/1743/rogue/\">Rogue</a> fashion the screen shows a topdown view of the dungeons and is displayed in simple character art. The player must collect food to survive and gold as a score. Killing monsters also gives a score which can lead to an additional life. Only the explored part of the dungeon are drawn on the screen.</p>\n<p>Scores on death are remembered and a Top 5 scoreboard is maintained.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 50,
+                "name": "Role-playing (RPG)"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 149,
+                "name": "Roguelike"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 231,
+                "name": "Fangame"
+            }
+        ],
+        "id": 218255,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218255/ancalagon/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1982"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Ancalagon"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Vier op een Rij</em> is a computer adaptation of <em>Connect Four</em>. Two players can challenge each other or one can play against the AI. Tokens are put in columns and will drop down to the bottom-most free position. The goal is to get four tokens in a row, either horizontal, vertical or diagonal.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 218257,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218257/vier-op-een-rij/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1982-11-10"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Vier op een Rij"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "In-game title",
+                "title": "Superbrein"
+            }
+        ],
+        "description": "<p><em>Mastermind III</em> or <em>Superbrein</em> is a computer version of the code-breaking game Mastermind. The computer thinks of a code and the player must guess it. After each guess the player is told about the correct values, and if there are any values that are in the code, but in a different location. Using logical deduction he player must guess the code in as few turns as possible. The player chooses the type of code, which can be colors or values, 2\u20139 digits, and up to nine different values (eight for colors due to the computer's limitations). There is also an option to enable or disable duplicates.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 218328,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218328/mastermind-iii/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1982-12-09"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Mastermind III"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "In-game title",
+                "title": "Chess"
+            },
+            {
+                "description": "Alternate title for 32kb version",
+                "title": "Schaken de luxe"
+            }
+        ],
+        "description": "<p><em>Schaken</em> is a chess game in Dutch for the P2000 computer. It came in three releases, a color version, a black-and-white version and a combined version. The AI of each version is identical. The player plays the game against the computer, it's also possible to play chess problems by inputting a starting board.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 11,
+                "name": "Chess"
+            }
+        ],
+        "id": 218334,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218334/schaken/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1982-11-19"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Schaken"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Backgammon</em> is a computer implementation of the ancient game. The computer displays the board and players roll the dice and move their pieces in an attempt to get them all across the board.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            }
+        ],
+        "id": 218427,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218427/backgammon/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1982-06-11"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Backgammon"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Dammen op z'n Amerikaans</em> (\"American Checkers\") is a Checkers game played against the computer. There are five difficulty levels to play at. The game uses American rules which use an 8x8 board instead of the typical 10x10 used in Europe.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            }
+        ],
+        "id": 218428,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218428/dammen-op-zn-amerikaans/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1982-12-08"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Dammen op z'n Amerikaans"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Schatzoeken</em> (\"Treasure Hunting\") is an action game. The player stumbles upon a cave in Hyde Park and must find a way to the treasure underground.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 202,
+                "name": "Europe"
+            }
+        ],
+        "id": 218429,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218429/schatzoeken/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1982-06-30"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Schatzoeken"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Speelpaleis</em> brings the player to an arcade hall. There are six games to play and all are variants of <a href=\"https://www.mobygames.com/game/64135/pong/\">Pong</a>. The variants are called ping-pong, flipperkast (pinball), penalty schieten (penalty shootout), basketball and roulette. Each variant changes the rules slightly with obstacles, gravity, speed, etc. But all require the player to bounce a ball using the on-screen paddle.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 64,
+                "name": "Paddle / Pong"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 218431,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218431/speelpaleis/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1982-12-20"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Speelpaleis"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "Original release",
+                "title": "Kalah"
+            }
+        ],
+        "description": "<p><em>Kralen en Schalen</em> is a computer implementation of the ancient game Mancala. The game consists of various pits (schalen) in which beads (kralen) are placed. Each turn the player and computer can empty one of their pits and redistribute the contents over other pits. The goal is to score the beads in specific pits.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            }
+        ],
+        "id": 218432,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218432/kralen-en-schalen/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1982-10-10"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Kralen en Schalen"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>In de Tang</em> is a strategic game played against the computer. The player and computer take turns moving pieces on a pyramid-shape playing field. The goal is to place the pieces in such a way that the computer is prevented from making a valid move.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 218435,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218435/in-de-tang/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "In de Tang"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Toernooi</em> is a strategy game for two players. The screen is divided into eight British regions (Lothian, York, Wales, Rutland, Norfolk, Cornwall, Somerset, and Kent). With knights, bowmen and infantry the players must try to conquer each other's lands.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 202,
+                "name": "Europe"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 205,
+                "name": "Medieval"
+            }
+        ],
+        "id": 218436,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218436/toernooi/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Toernooi"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Letterdans</em> (\"Letter dance\") is a puzzle game which lies somewhere in between a sliding puzzle and a Rubik's cube. The player is presented with a 4x4 grid with a shuffled sentence of words. Instead of sliding individual letters like in a sliding puzzle the player can only shift entire rows and/or columns. The goal is to find the correct sentence.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 162,
+                "name": "Word construction"
+            }
+        ],
+        "id": 218499,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218499/letterdans/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1982-08-25"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Letterdans"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Puzzelen</em> (\"Do a puzzle\") is a tile-laying puzzle game. The player is presented with colored pieces and can rotate and place them in an attempt to finish a puzzle. The progress can be saved so that an unfinished puzzle can be continued at a later time.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            }
+        ],
+        "id": 218500,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218500/puzzelen/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1982-11-20"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Puzzelen"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Letterbord</em> (Letter board) is a game for one or more players. The player is given a limited number of letters and must place them on a board to form words horizontally and vertically. Words may overlap as in <em>Scrabble</em>. All formed words are worth points based on the letter value of each letter in the word.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 162,
+                "name": "Word construction"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 218502,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218502/letterbord/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1982-12-19"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Letterbord"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "1984 updated version",
+                "title": "Pak de Muis"
+            }
+        ],
+        "description": "<p><em>Kat en Muis</em> (\"Cat and Mouse\"), later renamed to <em>Pak de Muis</em> (\"Catch the Mouse\") is a strategic puzzle game in which the player controls a number of cats and the computer controls a mouse which must escape from the cats. The game starts easy but uses a cybernetic learning algorithm that allows the mouse to learn from mistakes from earlier games making its strategy more and more optimized.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 173,
+                "name": "Multiple units/characters control"
+            }
+        ],
+        "id": 218504,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218504/kat-en-muis/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1982-10-29"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Kat en Muis"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Bingo</em> is a reaction game for two players. Both players receive a series of numbers and numbers are shown on the screen sequentially. The players must press their button at the right moment to collect their numbers.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            }
+        ],
+        "id": 218547,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218547/bingo/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1982-10-05"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Bingo"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Maanlander</em> is a graphical real-time lunar landing game. The player has to land a capsule on the moon. The craft has limited fuel and limited power for its retro-thrusters. The game is won if the velocity on impact is within the predefined bounds (between 0 and 9 m/s per player's choice). Thrust can be changed in nine discrete steps during the descent.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 15,
+                "name": "Real-time"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 158,
+                "name": "Vehicle simulator"
+            }
+        ],
+        "id": 218548,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218548/maanlander/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1982-10-19"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Maanlander"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "1984 updated version",
+                "title": "Draaikubus"
+            }
+        ],
+        "description": "<p><em>Rubicube</em> / <em>Draaikubus</em> is a computer implementation of a Rubik's Cube. All six sides are shown on screen at the same time in a flattened model making the twists the player makes to swap positions a bit more abstract. The state of the cube can be saved, allowing the user to continue at a later time.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            }
+        ],
+        "id": 218549,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218549/rubicube/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1982-10-18"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Rubicube"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Klemvast</em> is an action game in which the player must entrap a mosquito. The player moves along the screen like in a light cycle game and must entrap the mosquito which can also move diagonally. The game is won if the player manages to entrap the mosquito so that it has become impossible to for it to move. The player loses if it runs into its own trail or some of the pre-placed obstacles on the screen.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 218550,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218550/klemvast/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Klemvast"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Slang</em> (\"Snake\") is a light-cycle game for one or two players. The players (or computer) each control a dot on the screen that moves at a constant speed and leaves behind a trail. A player loses if they hit a trail. The goal is to box in the other player while preventing the same happening to you.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 218640,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218640/slang/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Slang"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Jackpot</em> is a one-armed bandit simulation. The player has three reels displaying fruit with different payoffs when spun. The player's goal is to increase their money amount.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            }
+        ],
+        "id": 218643,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218643/jackpot/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Jackpot"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Yahtzee</em> is a computer version of the classic dice game. The five thrown dice are shown in character graphics on the screen. The player can hold certain dice and re-roll others to try to get a good set.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 218644,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218644/yahtzee/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1982-08-25"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Yahtzee"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Zeeslag</em> is a computer implementation of Battleship. The computer's fleet is hidden in a grid and the player must try to find all the ships by firing at different coordinates, which can result in a hit or a miss. Once a hit has been made the orientation of the ship still has to be deduced as ships are more than one tile big. The player has 35 shots at their disposal and must attempt to sink all the ships with that limit.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 41,
+                "name": "Naval / watercraft"
+            }
+        ],
+        "id": 218649,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218649/zeeslag/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1982-08-30"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Zeeslag"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Een en Twintigen</em> is a computer implementation of the casino game Blackjack. The player draws cards and tries to get as close to a value of 21 as possible without going bust.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            }
+        ],
+        "id": 218653,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218653/een-en-twintigen/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1981"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Een en Twintigen"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Galgje</em> is an implementation of the classic word guessing game Hangman. The player must guess a (Dutch) word letter by letter. After each guess of a letter that isn't in the word part of a hanged man is drawn on screen.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 162,
+                "name": "Word construction"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 218654,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218654/galgje/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1982-06-30"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Galgje"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Life</em> is an implementation of Conway's Game of Life for the Philips P2000. The player can draw patterns and watch how they evolve based on the simple rules of <em>Conway's Game of Life</em>. </p>\n<ul>\n<li>Any live cell with fewer than two live neighbors dies, as if caused by under-population.</li>\n<li>Any live cell with two or three live neighbors lives on to the next generation.</li>\n<li>Any live cell with more than three live neighbors dies, as if by overcrowding.</li>\n<li>Any dead cell with exactly three live neighbors becomes a live cell, as if by reproduction.</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            }
+        ],
+        "id": 218704,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218704/life/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1982-01-05"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Life"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Othello-2</em> is a computer implementation of Othello. Players take turns to place their mark on the board. Whenever they place their mark any enclosed mark of the other player changes to their color. When the entire board is filled whoever owns most of the board is the winner.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            }
+        ],
+        "id": 218705,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218705/othello-2/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1982-07-23"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Othello-2"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Space Fight</em> is a shooting game. The player controls a spacecraft at the bottom of the screen. The player can move left, right and fire. Enemies come in from the top and move in sinusoidal waves down towards the bottom of the screen. There are six types of enemies of different shapes and patterns. They all reward different points. One of them awards negative points so shouldn't be shot.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 218706,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218706/space-fight/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Space Fight"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Space Fight II: Fraxxon</em> is a shooting game in which the player shoots alien spacecraft. Each of the 16 different craft is worth a different amount of points. The player controls their spacecraft at the bottom of the screen by moving it left and right and firing their weapon. New lives can be earned at various score targets. One or two players can compete for the highest score in hot-seat. Aside from a larger variety of enemies compared to <a href=\"https://www.mobygames.com/search/?q=Space+Fight\">Space Fight</a>, the enemies also fly in more interesting and intricate patterns.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 218718,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218718/space-fight-ii-fraxxon/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1985"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Space Fight II: Fraxxon"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Macho Man</em> is an action game very similar to <a href=\"https://www.mobygames.com/game/15237/jumping-jack/\">Jumping Jack</a>. The player controls a character in a side-view. The character can move left and right and jump. The screen is divided in floors. Each floor has one or more moving holes. The players has to jump up through the holes to reach the top of the screen and avoid falling through holes or hitting the ceiling. There is a time limit which reduces the player's lives by one when hit. The player has three lives to try to traverse the five screens. The simple gameplay is wrapped in a story about going to the gym to become more muscular through the textual instruction screens.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 21,
+                "name": "Platform"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 200,
+                "name": "Contemporary"
+            }
+        ],
+        "id": 218772,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218772/macho-man/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1986"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Macho Man"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Kogel - Lawine</em> (Bullet avalanche) is a tactical game for up to eight players. Each turn a player receives three marbles which must be inserted into one of six columns. The player scores points for each marble that reaches the bottom of the screen. If the column contains a bar the marble will get stuck there, but putting another marble on the same bar will push the first to the adjacent column. Dropping a marble through a column adjacent to bar makes the bar swing around to that column after the marble has past. This makes the playing field very dynamic and allows for different strategies depending on the number of players. Marbles that don't reach the bottom during a player's turn are kept in the game and offer additional scoring opportunities for the next player(s).</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 218779,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218779/kogel-lawine/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1983-10-23"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Kogel - Lawine"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Schateiland</em> (\"Treasure Island\") is an educational game in which the player uses geometry to find an old pirate treasure. The player is presented with a treasure map and textual hints. Hint generally require the player to use landmarks to draw lines, circles, and polygons on the map. Their crossings indicate new locations to go for further hints. If the player manages to follow all the hints correctly they find the treasure.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 23,
+                "name": "Interactive fiction / text adventure"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 43,
+                "name": "Math / logic"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 210,
+                "name": "Sea pirates / Caribbean"
+            }
+        ],
+        "id": 218789,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218789/schateiland/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1983"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Schateiland"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "Initial title",
+                "title": "Lady Bug"
+            }
+        ],
+        "description": "<p><em>Lazy Bug</em> is an unofficial adaptation of <a href=\"https://www.mobygames.com/game/10255/lady-bug/\">Lady Bug</a>. The player controls a ladybug and moves through a maze collecting food. Enemy creatures spawn in the center of the screen. The enemies will try to catch the player, but the player can use revolving doors to escape them. Poison is present in parts of the level and luring an enemy into it will kill it, but it also kills the player. The player can collect the letters EXTRA for bonus points. The player has limited lives and tries to get a high score on the leader board.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 218855,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218855/lazy-bug/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1984-10-10"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Lazy Bug"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Multipede</em> is an unofficial variant of <a href=\"https://www.mobygames.com/game/141/centipede/\">Centipede</a>. The player controls a gun at the bottom of the screen and fires on a centipede that moves down the screen row by row.  The player has limited lives which are lost if the centipede hits them. Each body part of the centipede is hit and destroyed separately and, thus, the centipede takes multiple well-timed shots to take down. Mushrooms on the field will block the player's shots until destroyed. New mushrooms spawn where the centipede gets hit.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 218860,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218860/multipede/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1985-04-19"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Multipede"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Zoeken in het Honderveld</em> (\"Searching in the Hundred Square\") is an educational game for young children. There are multiple exercises that can be done. The player is presented with a grid of 100 cells (10x10) and a number, and is tasked to point at the correct cell corresponding to that number. After five correctly identified numbers, the game is done. Other exercises involve math (addition and subtraction), where the player must highlight the right field.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 43,
+                "name": "Math / logic"
+            }
+        ],
+        "id": 218862,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218862/zoeken-in-het-honderveld/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Zoeken in het Honderveld"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Provincies en Hoofdsteden</em> is an educational game in which the player is drilled in naming the regional capital of Dutch provinces, or naming the province for a given regional capital.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 71,
+                "name": "Geography"
+            }
+        ],
+        "id": 218869,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218869/provincies-en-hoofdsteden/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Provincies en Hoofdsteden"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Azuda</em> is a basic shooting game. The player controls a craft at the bottom of the screen and can fire lasers straight up. An alien craft flies overhead and shoots at the player. Each shot on the enemy yields 10 points. The player goes game over after being hit a third time. The goal is to earn as many points as possible.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 218970,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218970/azuda/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1984-03-21"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Azuda"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>A201</em> is a compilation of four games and three other programs. The games are:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/game/218643/jackpot/\">Jackpot</a></li>\n<li><a href=\"https://www.mobygames.com/game/217816/sluit-in/\">Sluit in</a></li>\n<li><a href=\"https://www.mobygames.com/game/218328/mastermind-iii/\">Superbrein</a></li>\n<li><a href=\"https://www.mobygames.com/game/218334/schaken/\">Schaken in kleur</a></li>\n</ul>\n<p>The non-game programs are a news ticker, color demo, and an informative program about vegetable gardens.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 218974,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218974/a201/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "A201"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>A205</em> is a compilation of seven games and one education program:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/game/218431/speelpaleis/\">Speelpaleis</a></li>\n<li><a href=\"https://www.mobygames.com/game/218500/puzzelen/\">Puzzelen</a></li>\n<li><a href=\"https://www.mobygames.com/game/218504/kat-en-muis/\">Pak de Muis</a></li>\n<li>Drosophilia, an educational program about genetics.</li>\n<li><a href=\"https://www.mobygames.com/game/218548/maanlander/\">Maanlander</a></li>\n<li><a href=\"https://www.mobygames.com/game/217705/korenvliet/\">Korenvliet</a></li>\n<li><a href=\"https://www.mobygames.com/game/218187/marco-polo-jr/\">Marco Polo</a></li>\n<li><a href=\"https://www.mobygames.com/game/218499/letterdans/\">Letterdans</a></li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 218977,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218977/a205/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "A205"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>A207</em> is a compilation of two games:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/game/217772/piraten-avontuur/\">Piratenavontuur</a></li>\n<li><a href=\"https://www.mobygames.com/game/218334/schaken/\">Schaken de Luxe</a>; the black and white version of the game is also included.</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 218978,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218978/a207/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "A207"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>A208</em> is a compilation of five games:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/game/218432/kralen-en-schalen/\">Kralen en Schalen</a></li>\n<li><a href=\"https://www.mobygames.com/game/218427/backgammon/\">Backgammon</a></li>\n<li><a href=\"https://www.mobygames.com/game/218549/rubicube/\">Draaikubus</a></li>\n<li><a href=\"https://www.mobygames.com/game/218257/vier-op-een-rij/\">Vier op een Rij</a></li>\n<li><a href=\"https://www.mobygames.com/game/218429/schatzoeken/\">Schatzoeken</a></li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 218979,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/218979/a208/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "A208"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>A209</em> is a compilation featuring nine games:</p>\n<ul>\n<li><em>Centenkwestie</em> (\"A Matter of Cents\") is a word game in which the player has to give meaning of difficult words. Each time the player is correct their money is doubled.</li>\n<li><em>Hussel</em> (\"Shuffel\") is an anagram game in which the correct letter order needs to be found with only a topic as a hint.</li>\n<li><em>Woordspel</em> (\"Word Game\") is a hangman variant.</li>\n<li><em>Dampuzzel</em> (\"Checkers Puzzle\") is a peg solitaire variant using the rules of checkers.</li>\n<li><em>Kruispunt</em> (\"Traffic Crossing\") is a two play game in which traffic needs to cross a road.</li>\n<li><em>Klopjacht</em> (\"Manhunt\") is a variant of Chase. The player needs to avoid radiation sources on the screen and robots that are chasing them. The goal is to reach the exit.</li>\n<li><a href=\"https://www.mobygames.com/game/218549/rubicube/\">Draaikubus</a></li>\n<li><em>Hexapawn</em> is a cybernetic version of the tactical board game played against the computer.</li>\n<li><a href=\"https://www.mobygames.com/game/217874/doolhof/\">Doolhof (3D)</a></li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 29,
+                "name": "Game show / trivia / quiz"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 162,
+                "name": "Word construction"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 188,
+                "name": "Automobile"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 219012,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/219012/a209/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "A209"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>A211</em> is a compilation of three games and a programming teaching tool called Cesil.</p>\n<ul>\n<li><em>Overleven</em> is a survival game that takes place on the moon. The rocket's engine is defective and the player must try to survive and repair the rocket.</li>\n<li><a href=\"https://www.mobygames.com/game/217859/utopia/\">Utopia</a></li>\n<li><a href=\"https://www.mobygames.com/game/218547/bingo/\">Bingo</a></li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            }
+        ],
+        "id": 219028,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/219028/a211/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "A211"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>A214</em> is a compilation containing four games and one utility program. The games are:</p>\n<ul>\n<li><em>Leven</em> is an implementation of Conway's Game of Life in machine language.</li>\n<li><a href=\"https://www.mobygames.com/game/217817/u-hangt/\">U Hangt</a></li>\n<li><a href=\"https://www.mobygames.com/game/49766/android-nim/\">Andro\u00efden Nim</a></li>\n<li><a href=\"https://www.mobygames.com/game/218502/letterbord/\">Letterbord</a></li>\n</ul>\n<p>The Utility program is Peters Plaatjes Programma, which allows storing images found through browsing Viditel, or creating new images.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            }
+        ],
+        "id": 219045,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/219045/a214/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "A214"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Ghosthunt</em> is an unofficial conversion of <a href=\"https://www.mobygames.com/game/138/pac-man/\">Pac-Man</a>. The player controls a hungry circular character and navigates the maze-like environment. Ghosts hunt the player, but once the player picks up a vitamin pill the roles are reversed and the player can eat the ghosts for a while.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 219046,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/219046/ghosthunt/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Ghosthunt"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Racen</em> is a basic top-down racing game. The player must avoid other cars and the sides of the track by moving left and right. The player can play with or without curves.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 6,
+                "name": "Racing / Driving"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 15,
+                "name": "Real-time"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 188,
+                "name": "Automobile"
+            }
+        ],
+        "id": 219048,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/219048/racen/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Racen"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>A215</em> is a compilation containing  16K and 32K Pascal-to-BASIC converters and two games:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/game/219046/ghosthunt/\">Ghosthunt</a></li>\n<li><a href=\"https://www.mobygames.com/game/219048/racen/\">Racen</a></li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 219049,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/219049/a215/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "A215"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>A219</em> is a compilation of six games:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/game/218428/dammen-op-zn-amerikaans/\">Dammen op z'n Amerikaans</a></li>\n<li><a href=\"https://www.mobygames.com/game/218435/in-de-tang/\">In de Tang</a></li>\n<li><a href=\"https://www.mobygames.com/game/218436/toernooi/\">Toernooi</a></li>\n<li><a href=\"https://www.mobygames.com/game/218640/slang/\">Slang</a></li>\n<li><a href=\"https://www.mobygames.com/game/218255/ancalagon/\">In de Ban van een Ring</a></li>\n<li><a href=\"https://www.mobygames.com/game/218550/klemvast/\">Klemvast</a></li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 219050,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/219050/a219/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "A219"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Letterreactietest</em> is a reaction speed game. Ten times the player is shown a letter on the screen and has to type that exact letter as soon as possible. The player is rated for average reaction speed and mistakes made.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 219102,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/219102/letterreactietest/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Letterreactietest"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Tankslag Spel</em> (\"Tank Battle Game\") is a turn-based textual artillery game. The player must fire at an enemy tank. The player must give an angle to fire at to try and hit the enemy tank, while the tank will slowly home in on the player as well.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 143,
+                "name": "Artillery"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 80,
+                "name": "Tank"
+            }
+        ],
+        "id": 219103,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/219103/tankslag-spel/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Tankslag Spel"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Vier op Rij</em> is a puzzle game in which eight squares of two different colors are placed on a line of nine positions. The middle position is free. The goal is to move all squares on the left of the middle to the right and vice versa in the minimum of 24 moves.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 219104,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/219104/vier-op-rij/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Vier op Rij"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>B401</em> is a compilation of nine games and a calendar. The games are:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/game/219102/letterreactietest/\">Reactietest</a></li>\n<li><em>Schietspel</em> (\"Shooting Game\") is a shooting gallery game in which flying objects need to be hit.</li>\n<li><em>Vliegen Meppen</em> (\"Swatting Flies\") is an action game where 15 flies need to be eliminated within a five-minute time limit.</li>\n<li><em>Kubisch Vier op een Rij</em> (\"Cubic Four in a Row\") is a version of <a href=\"https://www.mobygames.com/group/3757/genre-paper-and-pencil-game-tic-tac-toe/\">Tic-Tac-Toe</a> in a 4 x 4 x 4 grid, also known as <em>Qubic</em>.</li>\n<li><a href=\"https://www.mobygames.com/game/219103/tankslag-spel/\">Tankslag</a></li>\n<li><em>Take Down</em> is a version of the tactical game <a href=\"https://www.mobygames.com/group/9247/nim-variants/\">Nim</a>.</li>\n<li><em>Haasje Over</em> (\"Leapfrog\") is a <a href=\"https://www.mobygames.com/group/10710/genre-board-game-peg-solitaire/\">solitaire peg jumping</a> game with a traditional cross-shaped board.</li>\n<li><a href=\"https://www.mobygames.com/game/219104/vier-op-rij/\">4x4 Blokjes Verplaatsen</a></li>\n<li><em>Galgje voor Twee</em> (\"Hangman for Two\") is an implementation of <a href=\"https://www.mobygames.com/group/8672/genre-word-number-puzzle-hangman/\">Hangman</a> for two players.</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 162,
+                "name": "Word construction"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 219106,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/219106/b401/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "B401"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Trucker</em> is a trucker game. The player buys freight at an exchange and must deliver it in time. At the exchange there are different types of goods, those with high risk and high reward, or low risk and low reward. The game is played in text only and poses the player with questions and random events which can cause the player to make the delivery or not.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 194,
+                "name": "Truck"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 200,
+                "name": "Contemporary"
+            }
+        ],
+        "id": 219109,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/219109/trucker/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Trucker"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>B402</em> is a compilation of three games and a visualization of a sorting algorithm. The games are:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/game/219109/trucker/\">Trucker</a></li>\n<li><a href=\"https://www.mobygames.com/game/113749/hangmath/\">Hangmath</a></li>\n<li><a href=\"https://www.mobygames.com/game/92500/oregon/\">Oregon Trail</a></li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 219110,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/219110/b402/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "B402"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Daar Buiten Loopt een Schaap</em> (\"Out There Walks a Sheep\", after a common Dutch lullaby) is a counting game for two children aged 4\u20136. Sheep will walk from a tree to a house on screen. If there's rain coming from the clouds overhead, the sheep will be wet and not allowed to enter the house. When a certain tune plays the child will need to say the number of sheep in- or outside.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 15,
+                "name": "Real-time"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 46,
+                "name": "Pre-school / toddler"
+            }
+        ],
+        "id": 219112,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/219112/daar-buiten-loopt-een-schaap/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1984-09-13"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Daar Buiten Loopt een Schaap"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Space-Mission</em> is an action game in which the player controls a rocket. The rocket flies through a corridor and is not allowed the touch the walls. The walls have bends in them and the player needs to traverse the corridor three times at increasing speeds. After the corridor the player enters a cave in which creatures have to be shot. The final room is a boss room. The boss hides behind a moving barrier, limiting the time the player can hit it. The game can be played in hot-seat multiplayer in which high scores are compared to each other.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 219113,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/219113/space-mission/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 321,
+                    "name": "Philips P2000"
+                },
+                "1984"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Space-Mission"
+    }
+]

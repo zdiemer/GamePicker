@@ -1,0 +1,811 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Pool</em> is a simulation of the game pool. Players point an arrow in the direction they want to hit the cue ball and push one of three buttons to determine the velocity of the hit. The goal is to pocket all the balls.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 89,
+                "name": "Pool / snooker"
+            }
+        ],
+        "id": 117287,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/117287/pool/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 254,
+                    "name": "Xerox Alto"
+                },
+                "1977"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Pool"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Alto Trek</em> is a <a href=\"https://www.mobygames.com/group/7548/star-trek-variants/\">Star Trek variant</a> taking full advantage of the power of the Xerox Alto. The game divides the screen into multiple segments showing both the current quadrant, sector and various stats such as energy and velocity of the Enterprise. The game is mouse controlled with easy to use buttons on the screen to perform actions such as firing phasers or torpedoes. </p>\n<p>The biggest difference from most Star Trek variants is that this version is a multiplayer game. Players choose to become a Klingon, Romulan or Terran when joining the game. The goal is to destroy the other races and their starbases. The different races have different characteristics for their weapons and ships such as slow turning Romulans and weak acceleration for Klingons.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 167,
+                "name": "Point and select"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 159,
+                "name": "Vehicular combat"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 124953,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/124953/alto-trek/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 254,
+                    "name": "Xerox Alto"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Alto Trek"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Pinball</em> is a pinball game for the Xerox Alto. The game features a single table, with all the core elements you can expect from a pinball table: a ball shooter, two flippers, three bumpers, drop targets, controlled lamps, return and out lanes. The flippers are controlled with the shift keys. Spacebar jiggles the table until it goes tilt. Speakers connected to the Alto can provide bell and buzzer sounds.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 53,
+                "name": "Pinball"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 127923,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/127923/pinball/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 254,
+                    "name": "Xerox Alto"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Pinball"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Trek '79</em> is a <a href=\"https://www.mobygames.com/group/7548/star-trek-variants/\">Star Trek variant</a>. The player takes the role of Captain Kirk and controls the star ship Enterprise. The game is played in turns and each turn the player can issue a command. Commands consists of firing phasers, firing torpedoes, moving the Enterprise, doing a short range scan of the current sector or a long range scan of the quadrant. The goal is to find all the Klingon ships and destroy them. There are three difficulty levels.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 159,
+                "name": "Vehicular combat"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 176089,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/176089/trek-79/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 254,
+                    "name": "Xerox Alto"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Trek '79"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>BattleShip</em> is an implementation of the classic board game. Players take turn guessing the location of a ship from the enemy fleet in a grid. The ship have different sizes and each player has five they have hidden in their grid. This implementation s played over the network and requires two human players. The interface is entirely mouse-driven, benefiting from the Xerox Alto's technical capabilities.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 41,
+                "name": "Naval / watercraft"
+            }
+        ],
+        "id": 176095,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/176095/battleship/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 254,
+                    "name": "Xerox Alto"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "BattleShip"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Death Star</em> is an unofficial Star Wars game in which the player flies down into the trenches of the Death Star in an attempt to destroy it just as in the final showdown of the first Star Wars movie. The game is played in first person and the player must avoid collision with the surface of the Death Star and the walls in the trench. The deeper the player goes into the trench the more enemy fire will be directed at them. At the end of the trench there's an exhaust port that must be hit with one of six proton torpedoes, in addition the player must get out of the trench before the torpedo explodes.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 159,
+                "name": "Vehicular combat"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 231,
+                "name": "Fangame"
+            }
+        ],
+        "id": 176173,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/176173/death-star/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 254,
+                    "name": "Xerox Alto"
+                },
+                "1978-01-10"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/screenshots/17705769-death-star-xerox-alto-game-titles.png",
+            "platforms": [
+                "Xerox Alto"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/ba5ce3b4-650a-11ee-b3d3-02420a0001e7.webp",
+            "width": 601
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Starry sky above the Death Star",
+                "height": 800,
+                "image_url": "https://cdn.mobygames.com/screenshots/17705773-death-star-xerox-alto-starry-sky-above-the-death-star.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d811ddf6-650a-11ee-b3d3-02420a0001e7.webp",
+                "width": 602
+            },
+            {
+                "caption": "Descent to the equatorial trench",
+                "height": 800,
+                "image_url": "https://cdn.mobygames.com/screenshots/17705777-death-star-xerox-alto-descent-to-the-equatorial-trench.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/08833098-650b-11ee-b3d3-02420a0001e7.webp",
+                "width": 601
+            },
+            {
+                "caption": "Above the trench",
+                "height": 800,
+                "image_url": "https://cdn.mobygames.com/screenshots/17705781-death-star-xerox-alto-above-the-trench.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/26817758-650b-11ee-a22e-02420a0001e6.webp",
+                "width": 601
+            },
+            {
+                "caption": "Game titles",
+                "height": 800,
+                "image_url": "https://cdn.mobygames.com/screenshots/17705769-death-star-xerox-alto-game-titles.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ba5ce3b4-650a-11ee-b3d3-02420a0001e7.webp",
+                "width": 601
+            },
+            {
+                "caption": "Imperial covering fire",
+                "height": 800,
+                "image_url": "https://cdn.mobygames.com/screenshots/17705785-death-star-xerox-alto-imperial-covering-fire.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/35978b10-650b-11ee-a520-02420a0001e6.webp",
+                "width": 601
+            }
+        ],
+        "title": "Death Star"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Astro-roids</em> is an unofficial Xerox Alto implementation of the Arcade game <a href=\"https://www.mobygames.com/game/8872/asteroids/\">Asteroids</a>. The game plays out the same way. The player takes control of a spacehip that can change rotation and thrust forward and backwards. The player must destroy asteroids that fly around and will break up into smaller pieces. The player must avoid the space rocks and also the occasional fire from a passing UFO. The gameplay wraps around at the edges of the screen meaning the player's bullets that exit the right of the screen will reenter on the left creating an additional hazard for the players themselves. Highscores are recorded between sessions.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 159,
+                "name": "Vehicular combat"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 176400,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/176400/astro-roids/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 254,
+                    "name": "Xerox Alto"
+                },
+                "1982-04-02"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Astro-roids"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Invaders</em> is an unofficial conversion of <a href=\"https://www.mobygames.com/game/8806/space-invaders/\">Space Invaders</a> for the Xerox Alto. The player uses the mouse to control the tank at the bottom of the screen moving left and right with the left and right mouse buttons and using the middle mouse button to fire. The player can hide beneath four bunkers that will take damage if hit by the player or aliens. The aliens will slowly make their way down towards the surface unless destroyed by the player. Periodically a UFO flies past the top of the screen which can be hit for additional points. Points are scored in a highscore table available over the network.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 176401,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/176401/invaders/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 254,
+                    "name": "Xerox Alto"
+                },
+                "1982"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Invaders"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Missile Command</em> is an unofficial port of the arcade game for the Xerox Alto. The player controls three missile batteries at the bottom of the screen and must fire missiles to intercept incoming projectiles and enemy aircraft. Failing to do so will cause destruction on the ground where multiple city blocks can be blown up. The individual missiles silos can all run out of missiles so there's some tactics in deciding which one should fire. When the player's missiles explode their explosion grows and lingers for a while allowing the player to knock out multiple targets with a single blast. The game can be played solo or with two players in turns (comparing high scores).</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 176404,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/176404/missile-command/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 254,
+                    "name": "Xerox Alto"
+                },
+                "1982"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Missile Command"
+    }
+]

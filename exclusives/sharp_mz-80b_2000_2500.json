@@ -1,0 +1,114 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p>Two years ago, a historian entered this mansion for research purposes and disappeared. During the police investigation, no one was found in this mansion, but a few days ago, his notes were sent to one of the members of our association who was his friend. Having doubts, he requested an investigation, which the Mysterious Phenomena Investigation Association approved.</p>\n<p><em>Monster House</em> is a Japanese graphical adventure game and the second installment in the Falcom Occultic Mystery Adventure series. This game accepts commands immediately by pressing a key and entering a single character, instead of the \"enter command name + press Enter'' method that was common at the time. For example, to open a door press first the \"O key\" (OPEN) and then the \"D key\" (DOOR). To navigate through the locations press \"8\" (advance forward), \"2\" (turn back), \"4\" (turn left), \"6\" (turn right). If you want to climb a ladder, press the \"E key\" and if you want to go down the stairs, press the \"D key\".</p>\n<p>The power of this real-time input method is the \"B key\" (BATTLE). If you don't press the \"B key\" within a certain amount of time when a monster appears, your character will die and the game will be over. The locations where monsters appear are determined randomly as well as the appearance location of each item.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 23,
+                "name": "Interactive fiction / text adventure"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 83,
+                "name": "Horror"
+            }
+        ],
+        "id": 221125,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/221125/monster-house/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 182,
+                    "name": "Sharp MZ-80B/2000/2500"
+                },
+                "1983"
+            ]
+        ],
+        "sample_cover": {
+            "height": 400,
+            "image_url": "https://cdn.mobygames.com/screenshots/18487370-monster-house-sharp-mz-80b20002500-title-screen-and-copyright.png",
+            "platforms": [
+                "Sharp MZ-80B/2000/2500"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/7b01a766-f396-11ee-838c-02420a0001a8.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "When I opened the rack and searched it, I found a hammer.",
+                "height": 400,
+                "image_url": "https://cdn.mobygames.com/screenshots/18514189-monster-house-sharp-mz-80b20002500-when-i-opened-the-rack-and-se.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e2f9fb96-f834-11ee-b62e-02420a00010f.webp",
+                "width": 640
+            },
+            {
+                "caption": "Title Screen and Copyright.",
+                "height": 400,
+                "image_url": "https://cdn.mobygames.com/screenshots/18487370-monster-house-sharp-mz-80b20002500-title-screen-and-copyright.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7b01a766-f396-11ee-838c-02420a0001a8.webp",
+                "width": 640
+            },
+            {
+                "caption": "Starting Location. This is the entrance to the mansion.",
+                "height": 400,
+                "image_url": "https://cdn.mobygames.com/screenshots/18514125-monster-house-sharp-mz-80b20002500-starting-location-this-is-the.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ab9352d8-f834-11ee-b700-02420a000112.webp",
+                "width": 640
+            },
+            {
+                "caption": "The explanation screen.",
+                "height": 400,
+                "image_url": "https://cdn.mobygames.com/screenshots/18487374-monster-house-sharp-mz-80b20002500-the-explanation-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/10dce0ac-f397-11ee-838c-02420a0001a8.webp",
+                "width": 640
+            },
+            {
+                "caption": "Other times there is chance that you will get bitten by a cobra!",
+                "height": 400,
+                "image_url": "https://cdn.mobygames.com/screenshots/18514393-monster-house-sharp-mz-80b20002500-other-times-there-is-chance-t.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/033f3ef4-f838-11ee-8340-02420a000112.webp",
+                "width": 640
+            }
+        ],
+        "title": "Monster House"
+    }
+]

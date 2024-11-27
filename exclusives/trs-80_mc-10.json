@@ -1,0 +1,338 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Lost World Pinball</em> is a dinosaur themed pinball game that consists of a single table. The game plays like other pinball games with two keys being used to control left and right flippers while a third has to be hold down to launch the ball. The player has three balls which has to be used to reach the highest score. The table consists of bumpers (10 points), red power strips (10 points), plungers (20 points) and red marks (30 points). Upon reaching 10,000 points an extra ball is given. Hitting all plungers lead to a 2x multiplier the first time and a 3x multiplier the second time.</p>\n<p>Next to the table is an animated picture of a volcano, a dinosaur and a prehistoric fly. It is possible to make the volcano erupt by having the dinosaur catch the fly with his tongue. The tongue grows larger when hitting red marks and for it to reach full length twelve hits are needed. When it erupts the playing ball disappears but will reappear ready to be launched again. The point values are then ten times their regular value.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 53,
+                "name": "Pinball"
+            }
+        ],
+        "id": 77798,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/77798/lost-world-pinball/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 193,
+                    "name": "TRS-80 MC-10"
+                },
+                "1983"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/4047773-lost-world-pinball-trs-80-mc-10-title-screen.png",
+            "platforms": [
+                "TRS-80 MC-10"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/fc9e37f8-aba3-11ed-a5ec-02420a00019b.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "End of game",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4045050-lost-world-pinball-trs-80-mc-10-end-of-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e4c5380c-aba3-11ed-ba04-02420a00019f.webp",
+                "width": 256
+            },
+            {
+                "caption": "About to begin",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4046528-lost-world-pinball-trs-80-mc-10-about-to-begin.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f156aa56-aba3-11ed-bc1c-02420a00019a.webp",
+                "width": 256
+            },
+            {
+                "caption": "Hitting a bumper",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4045946-lost-world-pinball-trs-80-mc-10-hitting-a-bumper.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ec7af35c-aba3-11ed-ba04-02420a00019f.webp",
+                "width": 256
+            },
+            {
+                "caption": "Ball going out of play",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4045710-lost-world-pinball-trs-80-mc-10-ball-going-out-of-play.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ea198092-aba3-11ed-ba04-02420a00019f.webp",
+                "width": 256
+            },
+            {
+                "caption": "Game in progress",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4046337-lost-world-pinball-trs-80-mc-10-game-in-progress.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/efc40e7c-aba3-11ed-bc1c-02420a00019a.webp",
+                "width": 256
+            }
+        ],
+        "title": "Lost World Pinball"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Micro Checkers</em> is a basic adaptation of the board game Checkers/Draughts. The game is for one player who competes against an AI opponent. Played on a 8 by 8 board, the player has orange checkers while the opponent's are green. To the right of the board is a prompt where the player enters commands to move pieces. This is done by entering the coordinates of the squares that the player wants to move between. After making jumps the player has to enter -1,-1 to end the move. The game follows the rules of the traditional board game and the player that first removes all pieces of the opponent wins.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 78622,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/78622/micro-checkers/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 193,
+                    "name": "TRS-80 MC-10"
+                },
+                "1983"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/4790837-micro-checkers-trs-80-mc-10-start-screen.png",
+            "platforms": [
+                "TRS-80 MC-10"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/411e5b7a-abc1-11ed-aa5a-02420a0001a0.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Make a typo and the program crashes",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4791681-micro-checkers-trs-80-mc-10-make-a-typo-and-the-program-crashes.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/49e055d8-abc1-11ed-99ae-02420a00019e.webp",
+                "width": 256
+            },
+            {
+                "caption": "To stop jumping, -1,-1 has to be entered",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4790555-micro-checkers-trs-80-mc-10-to-stop-jumping-1-1-has-to-be-entere.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3e840a18-abc1-11ed-aa5a-02420a0001a0.webp",
+                "width": 256
+            },
+            {
+                "caption": "Entering commands",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4790723-micro-checkers-trs-80-mc-10-entering-commands.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/401164e8-abc1-11ed-aa5a-02420a0001a0.webp",
+                "width": 256
+            },
+            {
+                "caption": "Start screen",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4790837-micro-checkers-trs-80-mc-10-start-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/411e5b7a-abc1-11ed-aa5a-02420a0001a0.webp",
+                "width": 256
+            },
+            {
+                "caption": "A piece has reached the bottom and became king",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4790439-micro-checkers-trs-80-mc-10-a-piece-has-reached-the-bottom-and-b.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3d424e9e-abc1-11ed-aa5a-02420a0001a0.webp",
+                "width": 256
+            }
+        ],
+        "title": "Micro Checkers"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Micro Games</em> is a collection of five small games written in Basic.</p>\n<ul>\n<li><em>Pong</em> is a conversion of the <a href=\"https://www.mobygames.com/search/?q=Pong\">Atari game</a>. It's for two human players who share the same keyboard and the game goes on until one player reaches a score of fifteen.</li>\n<li><em>Breakout</em> is based on the the <a href=\"https://www.mobygames.com/search/?q=Breakout\">arcade game</a> but uses a horizontal playfield with the player's bat being located to the left of the screen. There are seven rows of bricks in different colours each having a different point value. The player can use five balls before the game ends.</li>\n<li><em>Egg Catch</em> is an arcade game where a bird flies back and forth and drops eggs. The player controls an egg catcher and has to catch the eggs before they hit the ground. It's also possible to shoot the bird. Points are scored for catching eggs and shooting birds but are lost when eggs hit the ground. The game ends when the ground is all covered with eggs.</li>\n<li><em>Lunar Lander</em> is a simple version of a <a href=\"https://www.mobygames.com/group/6716/lunar-lander-variants/\">Lander</a> game. A spacecraft is quickly descending and the player has to land it safely by achieving zero altitude at zero velocity. The game is played with the number keys which are used to apply thrust. Higher numbers release more thrust while lower ones release less.</li>\n<li><em>Horse Race</em> is a simple betting game. Five horses are lined up and upon the press of a button they begin running. The player simply has to guess which horse will win the race.</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 64,
+                "name": "Paddle / Pong"
+            }
+        ],
+        "id": 78623,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/78623/micro-games/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 193,
+                    "name": "TRS-80 MC-10"
+                },
+                "1983"
+            ]
+        ],
+        "sample_cover": {
+            "height": 192,
+            "image_url": "https://cdn.mobygames.com/screenshots/4794068-micro-games-trs-80-mc-10-game-in-progress-pong.png",
+            "platforms": [
+                "TRS-80 MC-10"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/61be6bd6-abc1-11ed-8ed2-02420a0001a0.webp",
+            "width": 256
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Game in progress (Pong)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4794068-micro-games-trs-80-mc-10-game-in-progress-pong.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/61be6bd6-abc1-11ed-8ed2-02420a0001a0.webp",
+                "width": 256
+            },
+            {
+                "caption": "Game over (Egg Catcher)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4793583-micro-games-trs-80-mc-10-game-over-egg-catcher.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5d445ffc-abc1-11ed-8ed2-02420a0001a0.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting out (Breakout)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4793933-micro-games-trs-80-mc-10-starting-out-breakout.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6064f598-abc1-11ed-8ed2-02420a0001a0.webp",
+                "width": 256
+            },
+            {
+                "caption": "Shoot that bird (Egg Catcher)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4793710-micro-games-trs-80-mc-10-shoot-that-bird-egg-catcher.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5e7aea3a-abc1-11ed-8ed2-02420a0001a0.webp",
+                "width": 256
+            },
+            {
+                "caption": "Purple won (Horse Race)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4793811-micro-games-trs-80-mc-10-purple-won-horse-race.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5f4f569e-abc1-11ed-be6f-02420a000197.webp",
+                "width": 256
+            }
+        ],
+        "title": "Micro Games"
+    }
+]

@@ -1,0 +1,674 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Gemz</em> is a match-three puzzle games with gems, similar to <a href=\"https://www.mobygames.com/search/?q=Bejeweled\">Bejeweled</a>. It is played on a board filled with jewels of different colours. The goal is to make gems disappear by arranging gems of the same shape and colour in lines of three or more, horizontally or vertically. This is done by switching a gem with an adjacent one. When a line is formed, the gems disappear from the board, points are awarded, and the board is filled up again from the top with new gems. This often leads to a quick succession of combos. The player can freely move around the cursor using the arrows on the remote. By pressing \"Select\", a gem is grabbed and it can be swapped with the one above, below or on either side. If no line can be formed, the gems return to their original position. If it takes to long to form a line, a gem that can be used for a set will start to spin.</p>\n<p>In the singleplayer Classic Gemz mode, the player races against the clock to go through different levels and get the highest score possible. To advance, a certain numbers of gems need to be collected (shown on the left side of the screen) before time runs out. With each new level, the amount of gems that needs to be collected increases and often less time becomes available.</p>\n<p>In the Free-For-All mode up to four players can compete against each other on a single screen and a single board. Using four remotes, players can only grab gems of one type (shown next to the player's name on the left side of the screen) and they can all move and select simultaneously on the board. Lines of any type of gem can be formed, but only by manipulating a single, specific type of gem. If no further moves seem to be possible or a player becomes tired of waiting for an opportunity to make a move, the target gem can be swapped with the A button. This costs time and points. Two cursors cannot pass over each other. When they collide, one of them needs to move out of the way.</p>\n<p>The top ten scores are saved to the system's memory and they are shown after each game.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 15,
+                "name": "Real-time"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 154,
+                "name": "Tile matching puzzle"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 167,
+                "name": "Point and select"
+            }
+        ],
+        "id": 53771,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/53771/gemz/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 104,
+                    "name": "Game Wave"
+                },
+                "2007"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/9041423-gemz-game-wave-front-cover.jpg",
+            "platforms": [
+                "Game Wave"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/ca3570e6-ac03-11ed-92cb-02420a000132.webp",
+            "width": 562
+        },
+        "sample_screenshots": [],
+        "title": "Gemz"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Re-Wind</em> is a trivia quiz game that can be played with up to six players simultaneously. It includes questions in the categories Pop Culture, Places, Books &amp; Words, Movies, Events, TV, Sports, Politics, People, and Science. At the start of the game a category is selected, but with a teaser that hints at the subject matter. For each question a maximum of 900 points can be scored. As soon as the question is started (often accompanied by a picture), the points value starts decreasing. Players select one of the four available answers by pressing the A, B, C or D button on the remote. After an answer is chosen, the player's colour bar at the bottom is extended to show that an answer has been selected (without revealing it). As the question progresses, a number of clues appear that help select the right answer. Wrong answers do not receive any points. When the time is up, the answer is revealed and a scoreboard is shown.</p>\n<p>The game's title refers to the ability to rewind by using of the five retakes provided at the beginning of the game. If an answer has been chosen but the clues reveal that it is going to be incorrect, the player can still change his mind and use one of the retakes to choose a different answer. Players can also choose not to use any retakes as unused ones are worth 300 points each at the end of a game. After a first question the player with the lowest score chooses the next category. If it is a tie, the system selects a player. A bonus retake is provided when the point total of their chosen question exceeds 500.</p>\n<p>Next to the rewind questions players sometimes receive two other types: True or False, or News or Not. In True or False players have to decide if statements are real or made up. After each statement players have to wager 300, 600 or 900 points. News or Not presents three outrageous headlines. The player has to choose the one that is real and again wager 300, 600 or 900 points.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 29,
+                "name": "Game show / trivia / quiz"
+            }
+        ],
+        "id": 53779,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/53779/re-wind/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 104,
+                    "name": "Game Wave"
+                },
+                "2005"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Re-Wind"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Re-Wind 2005</em> is the sequel to the trivia quiz game <a href=\"https://www.mobygames.com/game/53779/re-wind/\">Re-Wind</a> and it is completely identical in overall gameplay, with the different categories, the ability to rewind questions, and the two separate question types True or False, and News or Not, where players can wager an amount of points. Up to six players are supported. This edition exclusively has questions about events that happened in the year 2005. Unlike the first game, this edition comes on two discs.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 29,
+                "name": "Game show / trivia / quiz"
+            }
+        ],
+        "id": 53780,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/53780/re-wind-2005/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 104,
+                    "name": "Game Wave"
+                },
+                "2006"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Re-Wind 2005"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Re-Wind 2006</em> is the third and final game in the trivia quiz game series. It is completely identical in overall gameplay to the first two games, with the different categories, the ability to rewind questions, and the two separate question types True or False, and News or Not, where players can wager an amount of points. Up to six players are supported. This edition exclusively has questions about events that happened in the year 2006. Just like <a href=\"https://www.mobygames.com/game/53780/re-wind-2005/\">Re-Wind 2005</a> it comes on two discs.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 29,
+                "name": "Game show / trivia / quiz"
+            }
+        ],
+        "id": 53781,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/53781/re-wind-2006/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 104,
+                    "name": "Game Wave"
+                },
+                "2007"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Re-Wind 2006"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>4 Degrees: The Arc of Trivia</em> is a trivia game that was included with the Game Wave system when it was launched. Up to six players compete against each other and the clock to get the highest amount of points.</p>\n<p>A game consists of twelve challenges, two from each of the six available categories: The Arts, History, Science, Sports, Lifestyle, and Geography. Even though every challenge needs to be played, players take turns choosing a category by rolling a die and they receive bonuses to their scores for their category. A challenge consists of a question with four possible answers; Players choose the right one by pressing the A, B, C or D button on their remotes. Entered answers cannot be changed. The title refers to the four clues that are provided as time counts down. Clues make it easier to choose the right answer, but less time on the clock leads to less points. Choosing an incorrect answer has the player lose that amount of points. This is where the die roll comes into play. If a player rolled a 100, the amount of points earned or lost is doubled. A 150 triples that, and 50 for instance halves it. Only the player who chose the category can get a high amount (even though 25 is also available for instance). Other players always have the standard value of 50. When the time is up, the answer is shown and a scoreboard appears.</p>\n<p>After six challenges (halfway through the game), the Arc of Time game is played. Players can add as many as 200 points to their score by placing the dates of six events in the correct chronological order. For each event a year appears. Players select whether it happened before or after the year that is shown. When all players have made their choice, the year drops in the correct chronological position. During the Arc of Time it is possible to retire and keep the accumulated points. When a player goes bust, all points are lost. Each event is worth ten points more than the last, up to a maximum of 200 points.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 29,
+                "name": "Game show / trivia / quiz"
+            }
+        ],
+        "id": 53782,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/53782/4-degrees-the-arc-of-trivia-volume-1/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 104,
+                    "name": "Game Wave"
+                },
+                "2005-10"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "4 Degrees: The Arc of Trivia - Volume 1"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>VeggieTales: Veg-Out! Family Tournament</em> is a collection of competitive mini-games based on the Christian television series VeggieTales. It features a total of six games, and the players can choose a total of 4 games to play each game. The games included are:</p>\n<ul>\n<li>Jimmy &amp; Jerry's Veggie-Bingo</li>\n<li>Petunia's Crazy Caper</li>\n<li>Junior's Memory-Mixin' Matchup</li>\n<li>Larry's Ball Bash</li>\n<li>Pa Grape's Scene Scramble</li>\n<li>Bob's Prop Hunt</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 13,
+                    "name": "Art Style"
+                },
+                "description": null,
+                "id": 60,
+                "name": "Full Motion Video (FMV)"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 140,
+                "name": "Mini-games"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 172,
+                "name": "Menu structures"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 145054,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/145054/veggietales-veg-out-family-tournament/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 104,
+                    "name": "Game Wave"
+                },
+                "2007-12-14"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "VeggieTales: Veg-Out! Family Tournament"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Click!</em> is a word-construction game similar to <em>Wheel of Fortune</em>. Players are shown a playfield with empty squares where letters can go; players can choose to guess a consonant, view a video clue, or guess the entire phrase.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 162,
+                "name": "Word construction"
+            }
+        ],
+        "id": 145055,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/145055/click/",
+        "num_votes": 0,
+        "official_url": "http://web.archive.org/web/20071013135017/http://playgamewave.com/product/detail.cfm?product_id=10",
+        "platforms": [
+            [
+                {
+                    "id": 104,
+                    "name": "Game Wave"
+                },
+                "2007"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Click!"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Lock 5</em> is a digital board game similar to <em>Yahtzee</em> featuring simultaneous multiplayer. Players roll a set of numbered dice with the goal of reaching a particular combination of numbers. Players can lock in particular numbers before rerolling in order to improve their chances.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            }
+        ],
+        "id": 145056,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/145056/lock-5/",
+        "num_votes": 0,
+        "official_url": "http://web.archive.org/web/20071217152344/http://playgamewave.com:80/product/detail.cfm?product_id=7",
+        "platforms": [
+            [
+                {
+                    "id": 104,
+                    "name": "Game Wave"
+                },
+                "2006"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Lock 5"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Letter Zap!</em> is a word-construction game similar to <em>Boggle</em>. It features two modes. In \"Cube\", each player is given a set of randomly assorted letter tiles and must try to construct as many words as possible using consecutive letters. In \"Tag!\", up to four players play together in a single giant game board and compete with each other to form words.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 162,
+                "name": "Word construction"
+            }
+        ],
+        "id": 145057,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/145057/letter-zap/",
+        "num_votes": 0,
+        "official_url": "http://web.archive.org/web/20071217152509/http://playgamewave.com/product/detail.cfm?product_id=9",
+        "platforms": [
+            [
+                {
+                    "id": 104,
+                    "name": "Game Wave"
+                },
+                "2005"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Letter Zap!"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>This multiplayer <em>Sudoku</em> variant can be played by one to six players. It features three main game modes:</p>\n<ul>\n<li>Emperor - a classic sudoku game. Playable by one to six players; in multiplayer, players take turns on the same board.</li>\n<li>Shogun - a multiplayer variant for two to six players in which players are limited to 20 seconds in which to make their move.</li>\n<li>Ninja - another multiplayer variant in which players must move as quickly as possible.</li>\n</ul>\n<p>A fourth mode, \"Sound Scapes\", lets players experience the relaxing imagery and sounds from the other game modes without gameplay.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            }
+        ],
+        "id": 145058,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/145058/sudoku/",
+        "num_votes": 0,
+        "official_url": "http://web.archive.org/web/20080420053104/http://playgamewave.com:80/product/detail.cfm?product_id=16",
+        "platforms": [
+            [
+                {
+                    "id": 104,
+                    "name": "Game Wave"
+                },
+                "2007"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Sudoku"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>This third volume of <a href=\"https://www.mobygames.com/game/53782/4-degrees-the-arc-of-trivia-volume-1/\">4 Degrees</a> features identical gameplay with a biblical theme. Its questions are organized in the following categories:</p>\n<ul>\n<li>Old Testament People</li>\n<li>Places</li>\n<li>Events</li>\n<li>New Testament People</li>\n<li>Books</li>\n<li>General</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 29,
+                "name": "Game show / trivia / quiz"
+            }
+        ],
+        "id": 145060,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/145060/4-degrees-the-arc-of-trivia-bible-edition/",
+        "num_votes": 0,
+        "official_url": "http://web.archive.org/web/20080417224856/http://playgamewave.com/product/detail.cfm?product_id=4",
+        "platforms": [
+            [
+                {
+                    "id": 104,
+                    "name": "Game Wave"
+                },
+                "2005"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "4 Degrees: The Arc of Trivia - Bible Edition"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>The second <em>4 Degrees</em> chapter features identical gameplay with a new set of categories:</p>\n<ul>\n<li>Words &amp; Song</li>\n<li>Lifestyle</li>\n<li>News &amp; Events</li>\n<li>Sports &amp; Games</li>\n<li>Movies &amp; TV</li>\n<li>Culture</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 29,
+                "name": "Game show / trivia / quiz"
+            }
+        ],
+        "id": 145061,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/145061/4-degrees-the-arc-of-trivia-volume-2/",
+        "num_votes": 0,
+        "official_url": "http://web.archive.org/web/20080417224856/http://playgamewave.com/product/detail.cfm?product_id=3",
+        "platforms": [
+            [
+                {
+                    "id": 104,
+                    "name": "Game Wave"
+                },
+                "2005"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "4 Degrees: The Arc of Trivia - Volume 2"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Zap 21</em> is a straightforward casino blackjack game. It features two core modes: \"Classic 21\", in which one to six players compete together against a CPU dealer; and \"Quickdraw\", for four players, in which each player tries to juggle four hands simultaneously while quickly choosing whether or not to accept cards that are being dealt in rapid succession.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 187,
+                "name": "Special edition"
+            }
+        ],
+        "id": 145062,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/145062/zap-21/",
+        "num_votes": 0,
+        "official_url": "http://web.archive.org/web/20080417224901/http://playgamewave.com/product/detail.cfm?product_id=8",
+        "platforms": [
+            [
+                {
+                    "id": 104,
+                    "name": "Game Wave"
+                },
+                "2006"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Zap 21"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>This Indian-exclusive variant of <a href=\"https://www.mobygames.com/game/53782/4-degrees-the-arc-of-trivia-volume-1/\">4 Degrees</a> features some India-specific questions and branding from Derek O'Brien, an Indian game show host.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 29,
+                "name": "Game show / trivia / quiz"
+            }
+        ],
+        "id": 145079,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/145079/quiz-konnect/",
+        "num_votes": 0,
+        "official_url": "https://web.archive.org/web/20110503225708/http://gamewave.co.in/console.html",
+        "platforms": [
+            [
+                {
+                    "id": 104,
+                    "name": "Game Wave"
+                },
+                "2010"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Quiz Konnect"
+    }
+]

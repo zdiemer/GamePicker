@@ -1,0 +1,3454 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Whitewater Wipeout</em> is an arcade-style surfing game controlled entirely with the Playdate's crank. The player uses the crank to control the surfer's direction and perform tricks when jumping from the top of the wave. Performing 360s before landing back on the wave will score the player points. If the player lands a trick incorrectly, falls from the bottom of the wave, or gets caught by the breaker coming from the right, the player loses one of their lives. After the player loses all 3 of their lives, the game is over and their score is logged in the high score table.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 109,
+                "name": "Surfing"
+            }
+        ],
+        "id": 183851,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/183851/whitewater-wipeout/",
+        "num_votes": 0,
+        "official_url": "https://play.date/games/whitewater-wipeout/",
+        "platforms": [
+            [
+                {
+                    "id": 303,
+                    "name": "Playdate"
+                },
+                "2022-04-18"
+            ]
+        ],
+        "sample_cover": {
+            "height": 240,
+            "image_url": "https://cdn.mobygames.com/screenshots/12116273-whitewater-wipeout-playdate-the-games-title-screen.png",
+            "platforms": [
+                "Playdate"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/391ddb0a-ac1e-11ed-b7c8-02420a000136.webp",
+            "width": 400
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Scoring big with a triple.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12119488-whitewater-wipeout-playdate-scoring-big-with-a-triple.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/438c823a-ac1e-11ed-a599-02420a000132.webp",
+                "width": 400
+            },
+            {
+                "caption": "Successfully landing a 360 will award the player points.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12121823-whitewater-wipeout-playdate-successfully-landing-a-360-will-awar.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/49d518f0-ac1e-11ed-a631-02420a000135.webp",
+                "width": 400
+            },
+            {
+                "caption": "Doing multiple 360s will give the player more points.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12122113-whitewater-wipeout-playdate-doing-multiple-360s-will-give-the-pl.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/44e285c6-ac1e-11ed-8949-02420a00012e.webp",
+                "width": 400
+            },
+            {
+                "caption": "The game is controlled entirely by using the crank to steer.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12121826-whitewater-wipeout-playdate-the-game-is-controlled-entirely-by-u.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4a1eb334-ac1e-11ed-a631-02420a000135.webp",
+                "width": 400
+            },
+            {
+                "caption": "After the player loses all of their lives, it's game over.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12118904-whitewater-wipeout-playdate-after-the-player-loses-all-of-their-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3f668ce6-ac1e-11ed-b075-02420a00012f.webp",
+                "width": 400
+            }
+        ],
+        "title": "Whitewater Wipeout"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Casual Birder</em> is a 2D adventure game centred around photographing birds. The player finds themselves in the seaside town of Bird Town, a birdwatcher's paradise that is being terrorized by a group of thugs intent on maintaining their status as the best bird photographers. After an unfortunate run-in with the group on their way to deliver a package, the player is tasked with beating the thugs in the yearly bird photography competition, armed only with their phone's camera and whatever else they can find.</p>\n<p>The player controls the game using the D-Pad to move around, the B button to look at their photos, and the A button to use items, interact with the environment, and talk to the towns various residence. The crank is used to cycle through the items in the player's inventory while they are walking around. When the player uses the camera, it appears over the screen showing what it's currently pointed at, and the player can move it around and use the crank to adjust the camera's focus.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 129,
+                "name": "Diagonal-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 146,
+                "name": "Graphic adventure"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 183866,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/183866/casual-birder/",
+        "num_votes": 0,
+        "official_url": "https://play.date/games/casual-birder/",
+        "platforms": [
+            [
+                {
+                    "id": 303,
+                    "name": "Playdate"
+                },
+                "2022-04-18"
+            ]
+        ],
+        "sample_cover": {
+            "height": 240,
+            "image_url": "https://cdn.mobygames.com/promos/11290792-casual-birder-screenshot.jpg",
+            "platforms": [],
+            "thumbnail_image_url": "https://cdn.mobygames.com/4831bec4-ac17-11ed-81c5-02420a00012f.webp",
+            "width": 400
+        },
+        "sample_screenshots": [],
+        "title": "Casual Birder"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Sketch, Share, Solve</em> is a nonogram puzzle game that allows the player to create and share puzzles. The game features a built-in editor that allows the player to create 15x10 nonogram puzzles which can then be exported as a JSON. The player can naturally import puzzles from other players and play through them, and the game includes 99 playable puzzles by the developer themselves. Completing a puzzle gives the player the ability to \"remix\" it, which imports the puzzle into the editor, allowing them to make their own changes to it.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 167,
+                "name": "Point and select"
+            }
+        ],
+        "id": 183873,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/183873/sketch-share-solve/",
+        "num_votes": 0,
+        "official_url": "https://r-d-k.itch.io/sketch-share-solve",
+        "platforms": [
+            [
+                {
+                    "id": 303,
+                    "name": "Playdate"
+                },
+                "2022-02-17"
+            ]
+        ],
+        "sample_cover": {
+            "height": 250,
+            "image_url": "https://cdn.mobygames.com/covers/10606019-sketch-share-solve-playdate-front-cover.png",
+            "platforms": [
+                "Playdate"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/8dd16318-ac11-11ed-96e1-02420a00012d.webp",
+            "width": 315
+        },
+        "sample_screenshots": [],
+        "title": "Sketch, Share, Solve"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Space Troubles</em> is a simple shooter game where the player is piloting a spaceship through an asteroid belt and must shoot oncoming asteroids. The player does this by using the D-Pad to move their targeting reticule and pressing A to fire. Turning the crank allows the player to rapid fire shots. As the game goes on, the frequency of asteroids and the speed that they move towards the player increases. When an asteroid hits the player's ship they lose a heart, and once they lose all of them it's game over. There are 3 difficulty levels which affects how quickly the asteroids ramp up and how much score the player earns.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 183875,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/183875/space-troubles/",
+        "num_votes": 0,
+        "official_url": "https://brothersvr.itch.io/space-troubles",
+        "platforms": [
+            [
+                {
+                    "id": 303,
+                    "name": "Playdate"
+                },
+                "2022-04-03"
+            ]
+        ],
+        "sample_cover": {
+            "height": 250,
+            "image_url": "https://cdn.mobygames.com/covers/10622443-space-troubles-playdate-front-cover.png",
+            "platforms": [
+                "Playdate"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/b9d22718-ac11-11ed-b57a-02420a000130.webp",
+            "width": 315
+        },
+        "sample_screenshots": [
+            {
+                "caption": "The game features 3 difficulties.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12381727-space-troubles-playdate-the-game-features-3-difficulties.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b7a50258-ac20-11ed-b6e7-02420a000135.webp",
+                "width": 400
+            },
+            {
+                "caption": "The player is placed in the cockpit of a spaceship flying through an asteroid field.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12382334-space-troubles-playdate-the-player-is-placed-in-the-cockpit-of-a.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b46eb912-ac20-11ed-b4f3-02420a000135.webp",
+                "width": 400
+            },
+            {
+                "caption": "The title screen of the game.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12091636-space-troubles-playdate-the-title-screen-of-the-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0712bcb6-ac1e-11ed-941d-02420a000132.webp",
+                "width": 400
+            },
+            {
+                "caption": "The asteroids get closer and closer until they collide with the spaceship.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12384444-space-troubles-playdate-the-asteroids-get-closer-and-closer-unti.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bbd2b168-ac20-11ed-87d3-02420a000134.webp",
+                "width": 400
+            },
+            {
+                "caption": "If you run out of health then it's game over.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12096589-space-troubles-playdate-if-you-run-out-of-health-then-its-game-o.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0edc3058-ac1e-11ed-9f52-02420a000130.webp",
+                "width": 400
+            }
+        ],
+        "title": "Space Troubles"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Pulpmon</em> is a miniature Pok\u00e9mon-style monster collecting RPG. The game start's the same as most Pok\u00e9mon games, with the player starting off in their home and leaving to meet a professor who will give them their first Pulpmon. The player can train and battle these Pulpmons against wild Pulpmons or other trainers, as well as use Pulp Nets to capture additional wild Pulpmons to fill out their PulpDex.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 50,
+                "name": "Role-playing (RPG)"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 129,
+                "name": "Diagonal-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 147,
+                "name": "Japanese-style RPG (JRPG)"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 172,
+                "name": "Menu structures"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            }
+        ],
+        "id": 183895,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/183895/pulpmon/",
+        "num_votes": 0,
+        "official_url": "https://brothersvr.itch.io/pulpmon",
+        "platforms": [
+            [
+                {
+                    "id": 303,
+                    "name": "Playdate"
+                },
+                "2022-04-03"
+            ]
+        ],
+        "sample_cover": {
+            "height": 250,
+            "image_url": "https://cdn.mobygames.com/covers/10612949-pulpmon-playdate-front-cover.png",
+            "platforms": [
+                "Playdate"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/949e055c-ac11-11ed-bdca-02420a000133.webp",
+            "width": 315
+        },
+        "sample_screenshots": [
+            {
+                "caption": "The professor can be found laying on the ground to the east.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/11621775-pulpmon-playdate-the-professor-can-be-found-laying-on-the-ground.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1bfd37a4-ac1a-11ed-b6e7-02420a000135.webp",
+                "width": 400
+            },
+            {
+                "caption": "The player can switch between their Pulpmon during battle.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12311810-pulpmon-playdate-the-player-can-switch-between-their-pulpmon-dur.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/25a219a4-ac20-11ed-9915-02420a000134.webp",
+                "width": 400
+            },
+            {
+                "caption": "The title screen of the game.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/11654889-pulpmon-playdate-the-title-screen-of-the-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/48ddd404-ac1a-11ed-8d2f-02420a00012e.webp",
+                "width": 400
+            },
+            {
+                "caption": "Kiku has been captured.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12311807-pulpmon-playdate-kiku-has-been-captured.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2580b5b6-ac20-11ed-9915-02420a000134.webp",
+                "width": 400
+            },
+            {
+                "caption": "The professor rewards the player with their first Pulpmon.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/11613502-pulpmon-playdate-the-professor-rewards-the-player-with-their-fir.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0467e0e4-ac1a-11ed-962d-02420a000135.webp",
+                "width": 400
+            }
+        ],
+        "title": "Pulpmon"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Between the Lines</em> is a clone of the Light Cycle-style game <a href=\"https://www.mobygames.com/search/?q=Zatacka\">Zatacka</a>. The game can be played by up to 3 players on a single device using the crank, D-Pad, and A/B buttons to steer. Like other Light Cycle games the goal is to survive the longest without running into your trail or the trail of another player. The gimmick with this game is that the trail isn't constant but rather occasionally cuts out, leaving gaps that a skilled player can weave their way through.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 183898,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/183898/between-the-lines/",
+        "num_votes": 0,
+        "official_url": "https://brothersvr.itch.io/between-the-lines",
+        "platforms": [
+            [
+                {
+                    "id": 303,
+                    "name": "Playdate"
+                },
+                "2022-04-05"
+            ]
+        ],
+        "sample_cover": {
+            "height": 250,
+            "image_url": "https://cdn.mobygames.com/covers/10612994-between-the-lines-playdate-front-cover.png",
+            "platforms": [
+                "Playdate"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/a21d7352-ac11-11ed-bdca-02420a000133.webp",
+            "width": 315
+        },
+        "sample_screenshots": [],
+        "title": "Between the Lines"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "alternative title",
+                "title": "Crankin's Time Travel Adventure"
+            }
+        ],
+        "description": "<p><em>Crankin Presents Time Travel Adventure</em> is a action puzzle game where the player controls Crankin, a robot who accidently oversleeps and must rush through each level to reach their date at the end. The player controls Crankin using the Playdate's crank, advancing him forwards or backwards depending on the direction the player moves it. Each level is filled with objects the Crankin will interact with on his way, as well as enemies which will force the player to start the level again if they're touched. The player must use the objects throughout each level to help them avoid the enemies. There are 50 levels in total.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            }
+        ],
+        "id": 184008,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/184008/crankin-presents-time-travel-adventure/",
+        "num_votes": 0,
+        "official_url": "https://play.date/games/crankin/",
+        "platforms": [
+            [
+                {
+                    "id": 303,
+                    "name": "Playdate"
+                },
+                "2022-04-25"
+            ]
+        ],
+        "sample_cover": {
+            "height": 240,
+            "image_url": "https://cdn.mobygames.com/screenshots/12415856-crankin-presents-time-travel-adventure-playdate-the-title-screen.png",
+            "platforms": [
+                "Playdate"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/f4b65ac0-ac20-11ed-8a97-02420a00012d.webp",
+            "width": 400
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Better be fast, or the pigs will catch up.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12427605-crankin-presents-time-travel-adventure-playdate-better-be-fast-o.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0c5279d4-ac21-11ed-a7ec-02420a000134.webp",
+                "width": 400
+            },
+            {
+                "caption": "Ouch.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12421857-crankin-presents-time-travel-adventure-playdate-ouch.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fe0d1ff0-ac20-11ed-9271-02420a000133.webp",
+                "width": 400
+            },
+            {
+                "caption": "Crankin has overslept and must leave in a rush.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12426636-crankin-presents-time-travel-adventure-playdate-crankin-has-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/07bcf98a-ac21-11ed-b013-02420a00012e.webp",
+                "width": 400
+            },
+            {
+                "caption": "The player must hold the interaction with the flower until the butterfly passes.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12496328-crankin-presents-time-travel-adventure-playdate-the-player-must-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8ece9adc-ac21-11ed-81c5-02420a00012f.webp",
+                "width": 400
+            },
+            {
+                "caption": "Level 4 introduces birds, which the player can avoid using the monkey bar.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12425561-crankin-presents-time-travel-adventure-playdate-level-4-introduc.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0bc22244-ac21-11ed-81c5-02420a00012f.webp",
+                "width": 400
+            }
+        ],
+        "title": "Crankin Presents Time Travel Adventure"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "Working title",
+                "title": "Project Long Joke"
+            }
+        ],
+        "description": "<p><em>A Joke That's Worth $ 0.99</em> is a simple but challenging crank controlled game where the player must use the crank to bounce a tiny person up to collect stars. With each star that is collected a line is read out from a joke, however if the person falls off the bottom of the screen then the joke ends and the player must start from the very beginning of the joke.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 129,
+                "name": "Diagonal-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 120,
+                "name": "Comedy"
+            }
+        ],
+        "id": 184012,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/184012/a-joke-thats-worth-099/",
+        "num_votes": 0,
+        "official_url": "https://kamibox.itch.io/a-joke-thats-worth-099",
+        "platforms": [
+            [
+                {
+                    "id": 303,
+                    "name": "Playdate"
+                },
+                "2022-04-22"
+            ]
+        ],
+        "sample_cover": {
+            "height": 250,
+            "image_url": "https://cdn.mobygames.com/covers/10636677-a-joke-thats-worth-099-playdate-front-cover.png",
+            "platforms": [
+                "Playdate"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/d572f420-ac11-11ed-b444-02420a000134.webp",
+            "width": 315
+        },
+        "sample_screenshots": [
+            {
+                "caption": "If the person falls, the player must start the joke from the very beginning.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12432319-a-joke-thats-worth-099-playdate-if-the-person-falls-the-player-m.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0dcdb1e8-ac21-11ed-941d-02420a000132.webp",
+                "width": 400
+            },
+            {
+                "caption": "Collecting each star will read out a line from a joke.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12427801-a-joke-thats-worth-099-playdate-collecting-each-star-will-read-o.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/10ce7b02-ac21-11ed-98b0-02420a000130.webp",
+                "width": 400
+            },
+            {
+                "caption": "The game starts immediately with the tiny person falling from the top of the screen.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12427913-a-joke-thats-worth-099-playdate-the-game-starts-immediately-with.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0c4461c8-ac21-11ed-aeca-02420a000130.webp",
+                "width": 400
+            },
+            {
+                "caption": "The more collected, the more of the joke is heard.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12490719-a-joke-thats-worth-099-playdate-the-more-collected-the-more-of-t.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/86c35166-ac21-11ed-81c5-02420a00012f.webp",
+                "width": 400
+            },
+            {
+                "caption": "The person must bouncy the tiny person up using the Playdate's crank to collect the stars.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12427804-a-joke-thats-worth-099-playdate-the-person-must-bouncy-the-tiny-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/10f35a3a-ac21-11ed-98b0-02420a000130.webp",
+                "width": 400
+            }
+        ],
+        "title": "A Joke That's Worth $ 0.99"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Bloom</em> is a narrative focused social sim where the player is put in the role of Midori, a young girl who drops out of college in order to fulfill their dream of running their own flower shop. At the start of the game the player has access to 4 plots on the roof where they can plant some flowers. The flowers grow in real time, even when the game is not running. Once a flower is fully grown, the player can dig it up, which instantly sells the flower for a profit. During the game the player will interact with various characters via text messages on her phone, such as her girlfriend Ai. The player has access to various other features via their phone, such as the ability to buy seeds, see the current and upcoming weather, and collect an assortment of gachapon trinkets. When the player has accumulated enough money, they can use it to pay their rent, which gives them access to additional plots and increases the amount of profit they make from each flower. The game also includes an Asteroids-style minigame called Starshooter Hoshiko, which they can play during their downtime.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 69,
+                "name": "Meditative / Zen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 94,
+                "name": "Persistent"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 139,
+                "name": "Life / social simulation"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 200,
+                "name": "Contemporary"
+            }
+        ],
+        "id": 184017,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/184017/bloom/",
+        "num_votes": 0,
+        "official_url": "https://rngpartygames.itch.io/bloom",
+        "platforms": [
+            [
+                {
+                    "id": 303,
+                    "name": "Playdate"
+                },
+                "2021-10-04"
+            ]
+        ],
+        "sample_cover": {
+            "height": 250,
+            "image_url": "https://cdn.mobygames.com/covers/10636338-bloom-playdate-front-cover.png",
+            "platforms": [
+                "Playdate"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/d0b410fe-ac11-11ed-8949-02420a00012e.webp",
+            "width": 315
+        },
+        "sample_screenshots": [
+            {
+                "caption": "In order to unlock more plots, the player has to pay their rent.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12615454-bloom-playdate-in-order-to-unlock-more-plots-the-player-has-to-p.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/812f0a3c-ac22-11ed-9c12-02420a00012f.webp",
+                "width": 400
+            },
+            {
+                "caption": "More expensive flowers take longer to grow.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12547193-bloom-playdate-more-expensive-flowers-take-longer-to-grow.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f554c8e4-ac21-11ed-81c5-02420a00012f.webp",
+                "width": 400
+            },
+            {
+                "caption": "The phone includes an Asteroids-style minigame.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12547433-bloom-playdate-the-phone-includes-an-asteroids-style-minigame.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f54c0ab0-ac21-11ed-87d3-02420a000134.webp",
+                "width": 400
+            },
+            {
+                "caption": "The player can occasionally get gachapon capsules which contain collectable trinkets.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12615457-bloom-playdate-the-player-can-occasionally-get-gachapon-capsules.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8161c0e4-ac22-11ed-9c12-02420a00012f.webp",
+                "width": 400
+            },
+            {
+                "caption": "All paid off.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12549650-bloom-playdate-all-paid-off.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ffe2c054-ac21-11ed-803a-02420a000131.webp",
+                "width": 400
+            }
+        ],
+        "title": "Bloom"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Lost Your Marbles</em> is a visual novel where the player takes the role of Prota, who's family dog Minty has run off. Prota must look around Pomegrante Village to find Minty and make it to the village's annual Festi-Ball before the end of the day. During the game, Prota will be asked various questions which the player can answer in different ways. In order to answer, the player must roll a marble and use it to hit a lightbulb that contains the answer by using the crank to tilt the level left or right.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 111,
+                "name": "Visual novel"
+            }
+        ],
+        "id": 184639,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/184639/lost-your-marbles/",
+        "num_votes": 1,
+        "official_url": "https://play.date/games/lost-your-marbles/",
+        "platforms": [
+            [
+                {
+                    "id": 303,
+                    "name": "Playdate"
+                },
+                "2022-05-02"
+            ]
+        ],
+        "sample_cover": {
+            "height": 240,
+            "image_url": "https://cdn.mobygames.com/screenshots/12557801-lost-your-marbles-playdate-the-title-screen-of-the-game.png",
+            "platforms": [
+                "Playdate"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/0d98204a-ac22-11ed-b57a-02420a000130.webp",
+            "width": 400
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Maybe the kids can help.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12559149-lost-your-marbles-playdate-maybe-the-kids-can-help.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0f9e1da4-ac22-11ed-887e-02420a00012e.webp",
+                "width": 400
+            },
+            {
+                "caption": "The game begins by welcoming the player to Pomegranate Village.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12557798-lost-your-marbles-playdate-the-game-begins-by-welcoming-the-play.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0d727dea-ac22-11ed-b57a-02420a000130.webp",
+                "width": 400
+            },
+            {
+                "caption": "Between scenes, the game shows a map of Pomegranate Village with a trial indicating where Prota is heading to.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12564360-lost-your-marbles-playdate-between-scenes-the-game-shows-a-map-o.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/15e20662-ac22-11ed-9271-02420a000133.webp",
+                "width": 400
+            },
+            {
+                "caption": "Prota's father helps out at the local daycare.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12615472-lost-your-marbles-playdate-protas-father-helps-out-at-the-local-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/827a7f98-ac22-11ed-9c12-02420a00012f.webp",
+                "width": 400
+            },
+            {
+                "caption": "The levels get progressively more complicated as the game goes along.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12558675-lost-your-marbles-playdate-the-levels-get-progressively-more-com.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0fd53eba-ac22-11ed-bc39-02420a000131.webp",
+                "width": 400
+            }
+        ],
+        "title": "Lost Your Marbles"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Pick Pack Pup</em> is a match 3 puzzle game where the player plays as Pup, who has started a new job at a fulfilment center. In the game, the player must match 3 or more items together to box them up and then ship them off to remove them from the playfield. Boxed items aren't removed automatically, so the player can make multiple matches and then ship them off all at once for bonus points. The game features multiple game modes that the player can play. Story mode, where the player follows Pup's story as they play through 30 levels with varying objectives. Infinity mode, an endless mode where the goal is to score as high as possible while the cost of penalties steadily increases. Chill mode, where the player can match without any penalties or end and see how many matches they can make at once. Danger Zone, where the player must clear bombs before they explode. And finally Time Attack, where the player has 2 minutes to score as many points as possible.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 154,
+                "name": "Tile matching puzzle"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 167,
+                "name": "Point and select"
+            }
+        ],
+        "id": 184643,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/184643/pick-pack-pup/",
+        "num_votes": 0,
+        "official_url": "https://play.date/games/pickpackpup/",
+        "platforms": [
+            [
+                {
+                    "id": 303,
+                    "name": "Playdate"
+                },
+                "2022-05-02"
+            ]
+        ],
+        "sample_cover": {
+            "height": 240,
+            "image_url": "https://cdn.mobygames.com/screenshots/12558769-pick-pack-pup-playdate-the-game-opens-up-to-just-the-title.png",
+            "platforms": [
+                "Playdate"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/0f80c042-ac22-11ed-98b0-02420a000130.webp",
+            "width": 400
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Danger Zone introduces bombs that the player must pack and ship.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12572429-pick-pack-pup-playdate-danger-zone-introduces-bombs-that-the-pla.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2b82f2ec-ac22-11ed-a631-02420a000135.webp",
+                "width": 400
+            },
+            {
+                "caption": "Each level has a goal that the player must complete in order to move on.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12562256-pick-pack-pup-playdate-each-level-has-a-goal-that-the-player-mus.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0dfe16a2-ac22-11ed-a12e-02420a000130.webp",
+                "width": 400
+            },
+            {
+                "caption": "In chill mode, the goal is simply to see how many items the player can ship off at once.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12572432-pick-pack-pup-playdate-in-chill-mode-the-goal-is-simply-to-see-h.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2bb0ecf6-ac22-11ed-a631-02420a000135.webp",
+                "width": 400
+            },
+            {
+                "caption": "In infinity mode, there is no end state. Instead the goal is to see how high the player can score while the penalty for removed items steadily increases.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12572435-pick-pack-pup-playdate-in-infinity-mode-there-is-no-end-state-in.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2be02c00-ac22-11ed-a631-02420a000135.webp",
+                "width": 400
+            },
+            {
+                "caption": "Story mode follows the story of Pup in his new job.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12562259-pick-pack-pup-playdate-story-mode-follows-the-story-of-pup-in-hi.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0e299d36-ac22-11ed-a12e-02420a000130.webp",
+                "width": 400
+            }
+        ],
+        "title": "Pick Pack Pup"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Ribbit Rabbit!</em> is a puzzle game where the player controls the titular ribbit rabbit, a rabbit crossed with a frog. The goal of the game is to collect the carrot-fly in each of the games 40 levels. The player has to jump on lily pads and other platforms in order to avoid falling in the water, however they cannot control how far they jump. Instead, the ribbit rabbit alternates between jumping between 1 and 2 spaces, so the player must work around this limitation in order to complete each level.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            }
+        ],
+        "id": 184648,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/184648/ribbit-rabbit/",
+        "num_votes": 0,
+        "official_url": "https://reverendmalerik.itch.io/ribbit-rabbit",
+        "platforms": [
+            [
+                {
+                    "id": 303,
+                    "name": "Playdate"
+                },
+                "2022-04-12"
+            ]
+        ],
+        "sample_cover": {
+            "height": 250,
+            "image_url": "https://cdn.mobygames.com/covers/10755536-ribbit-rabbit-playdate-front-cover.png",
+            "platforms": [
+                "Playdate"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/db69ce52-ac12-11ed-a599-02420a000132.webp",
+            "width": 315
+        },
+        "sample_screenshots": [
+            {
+                "caption": "The game's levels are split up into 4 worlds.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12563054-ribbit-rabbit-playdate-the-games-levels-are-split-up-into-4-worl.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0fd5c10a-ac22-11ed-8d2f-02420a00012e.webp",
+                "width": 400
+            },
+            {
+                "caption": "The title screen of the game.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12563063-ribbit-rabbit-playdate-the-title-screen-of-the-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/105f0730-ac22-11ed-8d2f-02420a00012e.webp",
+                "width": 400
+            },
+            {
+                "caption": "The player can't jump past the wall of flowers.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12563066-ribbit-rabbit-playdate-the-player-cant-jump-past-the-wall-of-flo.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/10ab6436-ac22-11ed-8d2f-02420a00012e.webp",
+                "width": 400
+            },
+            {
+                "caption": "Each world has 10 levels, for a total of 40 overall.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12563051-ribbit-rabbit-playdate-each-world-has-10-levels-for-a-total-of-4.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0faa88f0-ac22-11ed-8d2f-02420a00012e.webp",
+                "width": 400
+            },
+            {
+                "caption": "The sixth level has a maze with strategically placed water holes.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12563069-ribbit-rabbit-playdate-the-sixth-level-has-a-maze-with-strategic.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/10db8d5a-ac22-11ed-8d2f-02420a00012e.webp",
+                "width": 400
+            }
+        ],
+        "title": "Ribbit Rabbit!"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Sukima</em> is an 80s style Japanese Action RPG where the player must rescue the kidnapped Princess Lemon. Like many games of this style, the player moves around the overworld walking up to enemies and attacking them with a sword. However the player also has a dodge button which they can use to avoid damage and open up bosses to attack. The players health can be regenerated by standing still in the overworld while not under attack. Defeating enemies will gain the player experience which can increase their attack and defence. The player can also increase their maximum health by finding fruit and gain abilities required to progress from statues.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 50,
+                "name": "Role-playing (RPG)"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 129,
+                "name": "Diagonal-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 15,
+                "name": "Real-time"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 166,
+                "name": "Action RPG"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            }
+        ],
+        "id": 184666,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/184666/sukima/",
+        "num_votes": 0,
+        "official_url": "https://ambientworks.booth.pm/items/3837122",
+        "platforms": [
+            [
+                {
+                    "id": 303,
+                    "name": "Playdate"
+                },
+                "2022-05-04"
+            ]
+        ],
+        "sample_cover": {
+            "height": 300,
+            "image_url": "https://cdn.mobygames.com/covers/10762407-sukima-playdate-front-cover.jpg",
+            "platforms": [
+                "Playdate"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/f3bb5bf6-ac12-11ed-8d2f-02420a00012e.webp",
+            "width": 300
+        },
+        "sample_screenshots": [
+            {
+                "caption": "A pair of guards standing around ask the player for help.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12566524-sukima-playdate-a-pair-of-guards-standing-around-ask-the-player-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2082a2ac-ac22-11ed-9941-02420a000133.webp",
+                "width": 400
+            },
+            {
+                "caption": "After walking through the tunnel the player exits into the overworld.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12566527-sukima-playdate-after-walking-through-the-tunnel-the-player-exit.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/20c0968e-ac22-11ed-9941-02420a000133.webp",
+                "width": 400
+            },
+            {
+                "caption": "The statue at the top gives the player a magic ability.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12566497-sukima-playdate-the-statue-at-the-top-gives-the-player-a-magic-a.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1e77d2a2-ac22-11ed-9941-02420a000133.webp",
+                "width": 400
+            },
+            {
+                "caption": "They really should provide princesses with better protection with how often they get taken.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12561516-sukima-playdate-they-really-should-provide-princesses-with-bette.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0f1c7902-ac22-11ed-9fde-02420a000132.webp",
+                "width": 400
+            },
+            {
+                "caption": "Even more slimes to fight.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12566515-sukima-playdate-even-more-slimes-to-fight.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1fcd7e9a-ac22-11ed-9941-02420a000133.webp",
+                "width": 400
+            }
+        ],
+        "title": "Sukima"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Archery</em> is a simple archery game where the player is given 10 arrows and most use them to score as many points as they can. The target moves up and down, with it's speed increasing with each successful hit. The player can move their bow up and down, as well as increase and decrease the power of their shot with the crank. Each successful hit scores the player 10 points.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 119,
+                "name": "Darts / target shooting"
+            }
+        ],
+        "id": 184702,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/184702/archery/",
+        "num_votes": 0,
+        "official_url": "https://xtaxta.itch.io/archery",
+        "platforms": [
+            [
+                {
+                    "id": 303,
+                    "name": "Playdate"
+                },
+                "2022-05-09"
+            ]
+        ],
+        "sample_cover": {
+            "height": 240,
+            "image_url": "https://cdn.mobygames.com/screenshots/12622562-archery-playdate-the-game-has-no-title-screen-it-just-throws-the.png",
+            "platforms": [
+                "Playdate"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/89b30ed8-ac22-11ed-9899-02420a000134.webp",
+            "width": 400
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Once the player uses all their arrows it's game over and the player is given the choice of starting again.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12619306-archery-playdate-once-the-player-uses-all-their-arrows-its-game-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8af1bdf8-ac22-11ed-b444-02420a000134.webp",
+                "width": 400
+            },
+            {
+                "caption": "The player can use the crank to increase or decrease the power of their shot.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12561306-archery-playdate-the-player-can-use-the-crank-to-increase-or-dec.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/14e3955a-ac22-11ed-96e1-02420a00012d.webp",
+                "width": 400
+            },
+            {
+                "caption": "The player has 10 arrows to use to score as many points as they can.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12619312-archery-playdate-the-player-has-10-arrows-to-use-to-score-as-man.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8b487670-ac22-11ed-b444-02420a000134.webp",
+                "width": 400
+            },
+            {
+                "caption": "Each successful hit earns the player 10 points.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12619309-archery-playdate-each-successful-hit-earns-the-player-10-points.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8b1a601e-ac22-11ed-b444-02420a000134.webp",
+                "width": 400
+            },
+            {
+                "caption": "The game has no title screen, it just throws the player right in.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12622562-archery-playdate-the-game-has-no-title-screen-it-just-throws-the.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/89b30ed8-ac22-11ed-9899-02420a000134.webp",
+                "width": 400
+            }
+        ],
+        "title": "Archery"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Chain Gun</em> is a simple shooter game where the player uses a chain gun to shoot invaders flying in from the top of the screen. The player controls the chain gun by moving it left and right with the d-pad and turning the crank to shoot. As the game goes on the invaders become faster and more numerous. If one of the invaders reaches the bottom it's game over.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 184703,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/184703/chain-gun/",
+        "num_votes": 0,
+        "official_url": "https://xtaxta.itch.io/chain-gun",
+        "platforms": [
+            [
+                {
+                    "id": 303,
+                    "name": "Playdate"
+                },
+                "2022-05-15"
+            ]
+        ],
+        "sample_cover": {
+            "height": 240,
+            "image_url": "https://cdn.mobygames.com/screenshots/12621549-chain-gun-playdate-the-game-starts-with-the-basic-instructions.png",
+            "platforms": [
+                "Playdate"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/90a2f0dc-ac22-11ed-a484-02420a000130.webp",
+            "width": 400
+        },
+        "sample_screenshots": [
+            {
+                "caption": "\"Invaders\" fly in from the top of the screen.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12621546-chain-gun-playdate-invaders-fly-in-from-the-top-of-the-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/90829878-ac22-11ed-a484-02420a000130.webp",
+                "width": 400
+            },
+            {
+                "caption": "If one of the invaders reaches the bottom then the game is over.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12621540-chain-gun-playdate-if-one-of-the-invaders-reaches-the-bottom-the.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/903d8396-ac22-11ed-a484-02420a000130.webp",
+                "width": 400
+            },
+            {
+                "caption": "The game starts with the basic instructions.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12621549-chain-gun-playdate-the-game-starts-with-the-basic-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/90a2f0dc-ac22-11ed-a484-02420a000130.webp",
+                "width": 400
+            },
+            {
+                "caption": "As the game goes on they become faster and more numerous.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12621543-chain-gun-playdate-as-the-game-goes-on-they-become-faster-and-mo.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/90629b72-ac22-11ed-a484-02420a000130.webp",
+                "width": 400
+            },
+            {
+                "caption": "The chain gun fires when the player turns the crank.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12619581-chain-gun-playdate-the-chain-gun-fires-when-the-player-turns-the.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8d4e594e-ac22-11ed-902e-02420a00012d.webp",
+                "width": 400
+            }
+        ],
+        "title": "Chain Gun"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Flipper Lifter</em> is a game where the player controls an elevator using the Playdate's crank. The player uses the elevator to pick up penguins and deliver them to their desired floor, scoring points and keeping the timer that's counting down at bay. The penguins are impatient and if the player takes to long they will leave. As the player scores points, additional floors are added to the building. When the timer reaches zero the game is over. If the player scores enough they unlock additional levels which feature new gimmicks, such as a dual elevator shaft in level 2.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 184730,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/184730/flipper-lifter/",
+        "num_votes": 0,
+        "official_url": "https://play.date/games/flipper-lifter/",
+        "platforms": [
+            [
+                {
+                    "id": 303,
+                    "name": "Playdate"
+                },
+                "2022-05-09"
+            ]
+        ],
+        "sample_cover": {
+            "height": 240,
+            "image_url": "https://cdn.mobygames.com/screenshots/12564512-flipper-lifter-playdate-the-title-screen-of-the-game.png",
+            "platforms": [
+                "Playdate"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/1c3da552-ac22-11ed-902e-02420a00012d.webp",
+            "width": 400
+        },
+        "sample_screenshots": [
+            {
+                "caption": "If the time reaches zero then the game is over.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12564494-flipper-lifter-playdate-if-the-time-reaches-zero-then-the-game-i.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1b26d206-ac22-11ed-902e-02420a00012d.webp",
+                "width": 400
+            },
+            {
+                "caption": "The goal is to pick up penguins and bring them to the floor they want to go.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12564506-flipper-lifter-playdate-the-goal-is-to-pick-up-penguins-and-brin.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1bed8de2-ac22-11ed-902e-02420a00012d.webp",
+                "width": 400
+            },
+            {
+                "caption": "The amount the player needs to unlock each level is a combination of the high scores from all the previous levels.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12564485-flipper-lifter-playdate-the-amount-the-player-needs-to-unlock-ea.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1a98e770-ac22-11ed-902e-02420a00012d.webp",
+                "width": 400
+            },
+            {
+                "caption": "Each new level introduces a new gimmick. Level 2 for example has two elevator shafts that the player can move between.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12564488-flipper-lifter-playdate-each-new-level-introduces-a-new-gimmick-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1acb45d0-ac22-11ed-902e-02420a00012d.webp",
+                "width": 400
+            },
+            {
+                "caption": "The player can unlock additional levels by scoring enough in previous ones.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12564491-flipper-lifter-playdate-the-player-can-unlock-additional-levels-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1af9cc84-ac22-11ed-902e-02420a00012d.webp",
+                "width": 400
+            }
+        ],
+        "title": "Flipper Lifter"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Echoic Memory</em> is a memory-based rhythm puzzle game that uses the Playdate's crank. The goal is to match pieces of music; each round, the player is played a sample of sound, and they must match it to one of several speakers. Players can use the Playdate's crank to tune a machine to try to bring the sound closer in line with the sample they heard. The story mode, in several chapters, follows a character who works on a factory line tuning new AI speakers.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 97,
+                "name": "Music / rhythm"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 190563,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/190563/echoic-memory/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 303,
+                    "name": "Playdate"
+                },
+                "2022-05-09"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Echoic Memory"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>In 1985, a high school student finds a mysterious old book underneath their brother's bed, each page filled with information on different demons. Like any high school student would, they decide to start summoning them to see what happens. This narrative simultation game has players summoning demons out of the Ars Goetia one at a time. Each summon requires the player to gather together a group of three friends, bring an appropriate offering, and play the correct music. Players can infer some of the information about what they need from the demon's profile in the Ars Goetia alongside friends' profiles in their yearbook; more information can be learned from other demons during conversations. The story branches based on what choices the player makes during negotiations.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 146,
+                "name": "Graphic adventure"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 172,
+                "name": "Menu structures"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 200,
+                "name": "Contemporary"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 83,
+                "name": "Horror"
+            }
+        ],
+        "id": 190565,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/190565/demon-quest-85/",
+        "num_votes": 0,
+        "official_url": "https://play.date/games/demon-quest-85/",
+        "platforms": [
+            [
+                {
+                    "id": 303,
+                    "name": "Playdate"
+                },
+                "2022-05-16"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Demon Quest '85"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Sparrow Solitaire</em> is a take on the classic game of mahjong solitaire, inspired by the gameplay and art of the original Mac <a href=\"/game/macintosh/shanghai\">Shanghai</a>. The playfield features several layers of mahjong tiles; players must match two tiles of the same number and design together, but can only eliminate a tile if it's uncovered and if there's room to slide it out via the left and right sides. It features a number of different layouts, with multiple tilesets and backgrounds, and allows the use of the Playdate's crank to quickly move between tiles.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 190591,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/190591/sparrow-solitaire/",
+        "num_votes": 0,
+        "official_url": "https://vogelscript.itch.io/sparrow-solitaire",
+        "platforms": [
+            [
+                {
+                    "id": 303,
+                    "name": "Playdate"
+                },
+                "2022-07-13"
+            ]
+        ],
+        "sample_cover": {
+            "height": 480,
+            "image_url": "https://cdn.mobygames.com/covers/11102341-sparrow-solitaire-playdate-front-cover.png",
+            "platforms": [
+                "Playdate"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/c88b7bde-ac15-11ed-962d-02420a000135.webp",
+            "width": 605
+        },
+        "sample_screenshots": [],
+        "title": "Sparrow Solitaire"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Omaze</em> is an abstract action-puzzle game based around circles. The player controls a small ball on the inside edge of a larger circle. Using the Playdate's crank, they can rotate their ball around the circle, and using the B button they can jump between circles at the points where they intersect, with the goal of hopping between circles until they reach the level's exit. As the game progresses, the player encounters many variations on the basic design: sometimes they're able to hop across the insides of circles using a dash; sometimes circles contain rotors that moves the player without the player needing to use the crank; sometimes there are obstacles that will defeat the player if touched.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 190739,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/190739/omaze/",
+        "num_votes": 0,
+        "official_url": "https://play.date/games/omaze/",
+        "platforms": [
+            [
+                {
+                    "id": 303,
+                    "name": "Playdate"
+                },
+                "2022-05-16"
+            ]
+        ],
+        "sample_cover": {
+            "height": 240,
+            "image_url": "https://cdn.mobygames.com/screenshots/12520681-omaze-playdate-title-screen.png",
+            "platforms": [
+                "Playdate"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/c56e51b8-ac21-11ed-b950-02420a00012d.webp",
+            "width": 400
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Title screen",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/12520681-omaze-playdate-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c56e51b8-ac21-11ed-b950-02420a00012d.webp",
+                "width": 400
+            }
+        ],
+        "title": "Omaze"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Hyper Meteor</em> is a take on the classic arcade game <a href=\"https://www.mobygames.com/game/8872/asteroids/\">Asteroids</a>. As in the original game, players fly a spaceship on an endlessly-looping screen with the goal of eliminating asteroid obstacles. In this game, however, players don't have the ability to shoot - instead, they must ram directly into targets' weak spots. Each target is made up of both black and white regions, and they are vulnerable only in these white regions. Players turn the ship left and right using the Playdate's crank, use the B button to move forward, and use the A button to employ one of their limited set of screen-clearing bombs.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 191010,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/191010/hyper-meteor/",
+        "num_votes": 0,
+        "official_url": "https://play.date/games/hyper-meteor/",
+        "platforms": [
+            [
+                {
+                    "id": 303,
+                    "name": "Playdate"
+                },
+                "2022-05-23"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Hyper Meteor"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Zipper</em> is a tactics/puzzle game inspired by isometric games for early home computers like the ZX Spectrum and the MSX. The player controls a samurai invading a castle for revenge, meting it out one samurai at a time. Each turn, the player selects a number of tiles to move in one direction; the player character is able to \"zip\" to the target instantly, without waiting for his opponent's actions. Enemies can be slain if the player's movements cause him to run past an enemy's side, or to stop immediately in front of them. After the player's turn, the enemies all move simultaneously; if they're able to stop in front of the player character, they cut him down and the game must be start over from the beginning. Turning the Playdate's crank allows the player to preview enemy movements.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 25,
+                "name": "Isometric"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 220,
+                "name": "Japan (Ancient/Classical/Medieval)"
+            }
+        ],
+        "id": 191011,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/191011/zipper/",
+        "num_votes": 0,
+        "official_url": "https://play.date/games/zipper/",
+        "platforms": [
+            [
+                {
+                    "id": 303,
+                    "name": "Playdate"
+                },
+                "2022-05-23"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Zipper"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>Sasquatchers is a turn-based tactical game. The player controls a team of scientists traveling through forest areas, trying to set up photos and video of elusive cryptids and then switching to a first-person perspective to take the photos.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 129,
+                "name": "Diagonal-down"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 152,
+                "name": "Tactical RPG"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 207,
+                "name": "North America"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 120,
+                "name": "Comedy"
+            }
+        ],
+        "id": 200407,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/200407/sasquatchers/",
+        "num_votes": 0,
+        "official_url": "https://sasquatchers.spectrecollie.com/",
+        "platforms": [
+            [
+                {
+                    "id": 303,
+                    "name": "Playdate"
+                },
+                "2022-06-20"
+            ]
+        ],
+        "sample_cover": {
+            "height": 240,
+            "image_url": "https://cdn.mobygames.com/promos/17203650-sasquatchers-screenshot.png",
+            "platforms": [],
+            "thumbnail_image_url": "https://cdn.mobygames.com/53dc46c4-102e-11ee-85fb-02420a000145.webp",
+            "width": 400
+        },
+        "sample_screenshots": [],
+        "title": "Sasquatchers"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 128,
+                "name": "Behind view"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            }
+        ],
+        "id": 201295,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/201295/skew/",
+        "num_votes": 0,
+        "official_url": "https://www.thelastworker.com/skew/",
+        "platforms": [
+            [
+                {
+                    "id": 303,
+                    "name": "Playdate"
+                },
+                "2023-01-15"
+            ]
+        ],
+        "sample_cover": {
+            "height": 720,
+            "image_url": "https://cdn.mobygames.com/covers/16993019-skew-playdate-front-cover.png",
+            "platforms": [
+                "Playdate"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/4e4950a2-d178-11ed-865a-02420a0001da.webp",
+            "width": 1200
+        },
+        "sample_screenshots": [],
+        "title": "Skew"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 69,
+                "name": "Meditative / Zen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 23,
+                "name": "Interactive fiction / text adventure"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 172,
+                "name": "Menu structures"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 200,
+                "name": "Contemporary"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 120,
+                "name": "Comedy"
+            }
+        ],
+        "id": 204761,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/204761/the-barkless-doctrine/",
+        "num_votes": 0,
+        "official_url": "https://play.date/games/the-barkless-doctrine/",
+        "platforms": [
+            [
+                {
+                    "id": 303,
+                    "name": "Playdate"
+                },
+                "2023-06-06"
+            ]
+        ],
+        "sample_cover": {
+            "height": 480,
+            "image_url": "https://cdn.mobygames.com/covers/17207063-the-barkless-doctrine-playdate-front-cover.png",
+            "platforms": [
+                "Playdate"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/84336d88-114c-11ee-86eb-02420a000145.webp",
+            "width": 800
+        },
+        "sample_screenshots": [],
+        "title": "The Barkless Doctrine"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Soko</em> is a Playdate version of the classic <a href=\"https://www.mobygames.com/game/1715/soko-ban/\">Soko-Ban</a> puzzle game. In each level, a number of boxes need to be moved to their target locations. The player can only push boxes to empty tiles, and can not move through walls. When stuck, players can use the Playdate's crank to quickly undo and redo moves. Levels get progressively more challenging, typically by increasing the amount of boxes on the board, and/or requiring more pushes to get each box to their target location.</p>\n<p>Additional playable characters are unlocked as the player solves more levels, though these are merely cosmetic rewards and do not affect the gameplay itself.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 206846,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/206846/soko/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 303,
+                    "name": "Playdate"
+                },
+                "2023-02-20"
+            ]
+        ],
+        "sample_cover": {
+            "height": 250,
+            "image_url": "https://cdn.mobygames.com/covers/17475404-soko-playdate-front-cover.png",
+            "platforms": [
+                "Playdate"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/b6fba45c-3257-11ee-a768-02420a0001ef.webp",
+            "width": 315
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Level 6 of the Sokoflan set",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/17504769-soko-playdate-level-6-of-the-sokoflan-set.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ebde94d4-3aab-11ee-b22c-02420a00014a.webp",
+                "width": 400
+            },
+            {
+                "caption": "Level selection menu",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/17504761-soko-playdate-level-selection-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e5b2aa82-3aab-11ee-81df-02420a000149.webp",
+                "width": 400
+            },
+            {
+                "caption": "Level 3 of the Sokoflan set",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/17504765-soko-playdate-level-3-of-the-sokoflan-set.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e883e2da-3aab-11ee-81df-02420a000149.webp",
+                "width": 400
+            },
+            {
+                "caption": "Soko title screen",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/17504757-soko-playdate-soko-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dff43c3c-3aab-11ee-a193-02420a00014a.webp",
+                "width": 400
+            }
+        ],
+        "title": "Soko"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Reel-istic Fishing</em> is a 2D fishing game designed for the Playdate. Players take on the role of a legendary angler, looking for a new life in the Reel-istic Sea. On your way to the sea, your boat is struck by an unknown sea monster. Your new goal is to go deeper into the sea, and find that creature at any cost.</p>\n<p>The gameplay is similar in style to <a href=\"https://www.mobygames.com/game/63158/ridiculous-fishing/\">Ridiculous Fishing</a>, but with the twist that you can only catch a certain number of fish before your line snaps and you lose them all. Gameplay can quickly turn from hunting to avoiding. Once the fish are caught, you'll be harpooning them out of the sky, keeping the profits from whichever ones you can hit. Then you can take these profits to the local shopkeeper to purchase upgrades to take you deeper into the sea.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 41,
+                "name": "Naval / watercraft"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 200,
+                "name": "Contemporary"
+            }
+        ],
+        "id": 207717,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/207717/reel-istic-fishing/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 303,
+                    "name": "Playdate"
+                },
+                "2023-08-07"
+            ]
+        ],
+        "sample_cover": {
+            "height": 250,
+            "image_url": "https://cdn.mobygames.com/covers/17549045-reel-istic-fishing-playdate-front-cover.png",
+            "platforms": [
+                "Playdate"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/6c6d8fba-42f4-11ee-80f1-02420a0001e8.webp",
+            "width": 315
+        },
+        "sample_screenshots": [],
+        "title": "Reel-istic Fishing"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Down the Oubliette</em> is a tower defense game where a girl plunges deeper and deeper into the haunted floors beneath a country house. Floors are randomized each run and the player must dig through dirt to uncover the spirit spawners, after which the ghosts will chase the player and the placed towers must be used to wear them down. The player can only see so much of the floor with the ambient light that follows them, but a radar helps them figure out which dirt may contain spirit spawners.</p>\n<p>There are sixteen floors to a run with each thematic level consisting of four floors. Players can place four towers using the energy earned after clearing a wave of spirits, the beacon gradually wearing down ghosts with light, the coil zapping them with electricity, the fan holding them back a bit, and the torch emitting a stream of fire. Certain spirits are weak to specific tower types and towers can be upgraded to increase their effectiveness with crates found in certain stages.</p>\n<p>The player can restart failed floors with impunity but will have to try again if they lose all of their character's hearts. Hearts replenish between floors and the tower-building energy is carried between them,  and since players dig away the dirt to open up walkable areas, they can somewhat customize the path spirits will take when trying to reach their character.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 129,
+                "name": "Diagonal-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 15,
+                "name": "Real-time"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 156,
+                "name": "Tower defense"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            }
+        ],
+        "id": 208890,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/208890/down-the-oubliette/",
+        "num_votes": 0,
+        "official_url": "https://play.date/games/down-the-oubliette/",
+        "platforms": [
+            [
+                {
+                    "id": 303,
+                    "name": "Playdate"
+                },
+                "2023-01-15"
+            ]
+        ],
+        "sample_cover": {
+            "height": 720,
+            "image_url": "https://cdn.mobygames.com/covers/18130299-down-the-oubliette-playdate-front-cover.png",
+            "platforms": [
+                "Playdate"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/28d9a2d6-b6ab-11ee-8824-02420a000192.webp",
+            "width": 1200
+        },
+        "sample_screenshots": [],
+        "title": "Down the Oubliette"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Dash Arena</em> is an action game where you play as the hero and try to destroy all the slime monsters arriving around you. Time is running out and with each kill a little more time is added. Use the crank to find the direction for your attack, hit A and zip through the monsters around you to destroy them.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 129,
+                "name": "Diagonal-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            }
+        ],
+        "id": 211027,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/211027/dash-arena/",
+        "num_votes": 0,
+        "official_url": "https://lu-bu.itch.io/dash-arena",
+        "platforms": [
+            [
+                {
+                    "id": 303,
+                    "name": "Playdate"
+                },
+                "2023-10-03"
+            ]
+        ],
+        "sample_cover": {
+            "height": 239,
+            "image_url": "https://cdn.mobygames.com/covers/18130309-dash-arena-playdate-front-cover.png",
+            "platforms": [
+                "Playdate"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/9b013c0c-b6ab-11ee-8b46-02420a000192.webp",
+            "width": 301
+        },
+        "sample_screenshots": [],
+        "title": "Dash Arena"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>YOYOZO</em> is an action game where you use your space yoyo to collect stars with style. The game is played in fixed screen environment with a timer running.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 212836,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/212836/yoyozo/",
+        "num_votes": 0,
+        "official_url": "https://play.date/games/yoyozo/",
+        "platforms": [
+            [
+                {
+                    "id": 303,
+                    "name": "Playdate"
+                },
+                "2023-11-21"
+            ]
+        ],
+        "sample_cover": {
+            "height": 240,
+            "image_url": "https://cdn.mobygames.com/screenshots/17913537-yoyozo-playdate-gameplay.png",
+            "platforms": [
+                "Playdate"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/85ea1b58-8d35-11ee-b750-02420a000179.webp",
+            "width": 400
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Gameplay",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/17913537-yoyozo-playdate-gameplay.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/85ea1b58-8d35-11ee-b750-02420a000179.webp",
+                "width": 400
+            },
+            {
+                "caption": "Credits",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/17913557-yoyozo-playdate-credits.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8818c1b8-8d35-11ee-9fee-02420a000179.webp",
+                "width": 400
+            },
+            {
+                "caption": "Controls",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/17913541-yoyozo-playdate-controls.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/868a6c52-8d35-11ee-aab0-02420a000176.webp",
+                "width": 400
+            },
+            {
+                "caption": "Score stats",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/17913549-yoyozo-playdate-score-stats.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8765be06-8d35-11ee-a24f-02420a000174.webp",
+                "width": 400
+            },
+            {
+                "caption": "Score formula",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/17913545-yoyozo-playdate-score-formula.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/86ed624e-8d35-11ee-a071-02420a000179.webp",
+                "width": 400
+            }
+        ],
+        "title": "YOYOZO"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 128,
+                "name": "Behind view"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 219522,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/219522/warp-defender/",
+        "num_votes": 0,
+        "official_url": "https://0x72.itch.io/warp-defender",
+        "platforms": [
+            [
+                {
+                    "id": 303,
+                    "name": "Playdate"
+                },
+                "2024-03-08"
+            ]
+        ],
+        "sample_cover": {
+            "height": 250,
+            "image_url": "https://cdn.mobygames.com/covers/18366555-warp-defender-playdate-front-cover.png",
+            "platforms": [
+                "Playdate"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/091d9078-e267-11ee-817d-02420a000192.webp",
+            "width": 315
+        },
+        "sample_screenshots": [],
+        "title": "Warp Defender"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 40,
+                "name": "Managerial / business simulation"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 219525,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/219525/mars-after-midnight/",
+        "num_votes": 0,
+        "official_url": "https://play.date/games/mars-after-midnight/",
+        "platforms": [
+            [
+                {
+                    "id": 303,
+                    "name": "Playdate"
+                },
+                "2024-03-12"
+            ]
+        ],
+        "sample_cover": {
+            "height": 720,
+            "image_url": "https://cdn.mobygames.com/covers/18366735-mars-after-midnight-playdate-front-cover.png",
+            "platforms": [
+                "Playdate"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/88b83bd0-e276-11ee-9564-02420a000190.webp",
+            "width": 1200
+        },
+        "sample_screenshots": [],
+        "title": "Mars After Midnight"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Swift Break</em> is a <a href=\"https://www.mobygames.com/group/2126/breakout-variants/\">Breakout</a> clone created for the Playdate console using the Swift programming language. It was created as an example of how Swift's new embedded language mode could create a game for a highly-constrained platform such as the Playdate.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 64,
+                "name": "Paddle / Pong"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 219598,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/219598/swift-break/",
+        "num_votes": 0,
+        "official_url": "https://github.com/apple/swift-playdate-examples",
+        "platforms": [
+            [
+                {
+                    "id": 303,
+                    "name": "Playdate"
+                },
+                "2024-03-12"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/promos/18370581-swift-break-screenshot.png",
+            "platforms": [],
+            "thumbnail_image_url": "https://cdn.mobygames.com/18426f94-e33c-11ee-9043-02420a000196.webp",
+            "width": 978
+        },
+        "sample_screenshots": [],
+        "title": "Swift Break"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 162,
+                "name": "Word construction"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 167,
+                "name": "Point and select"
+            }
+        ],
+        "id": 220282,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/220282/crordle/",
+        "num_votes": 0,
+        "official_url": "https://mpbarlow.itch.io/crordle",
+        "platforms": [
+            [
+                {
+                    "id": 303,
+                    "name": "Playdate"
+                },
+                "2022-10-17"
+            ]
+        ],
+        "sample_cover": {
+            "height": 250,
+            "image_url": "https://cdn.mobygames.com/covers/18412174-crordle-playdate-front-cover.png",
+            "platforms": [
+                "Playdate"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/ef21be14-ea28-11ee-a33b-02420a00019a.webp",
+            "width": 315
+        },
+        "sample_screenshots": [],
+        "title": "Crordle"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 162,
+                "name": "Word construction"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 167,
+                "name": "Point and select"
+            }
+        ],
+        "id": 220283,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/220283/playordle/",
+        "num_votes": 0,
+        "official_url": "https://leetshoe.itch.io/playordle-playdate",
+        "platforms": [
+            [
+                {
+                    "id": 303,
+                    "name": "Playdate"
+                },
+                "2022-07-17"
+            ]
+        ],
+        "sample_cover": {
+            "height": 250,
+            "image_url": "https://cdn.mobygames.com/covers/18412192-playordle-playdate-front-cover.png",
+            "platforms": [
+                "Playdate"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/a61e898a-ea29-11ee-b9f8-02420a00019d.webp",
+            "width": 315
+        },
+        "sample_screenshots": [],
+        "title": "Playordle"
+    }
+]

@@ -1,0 +1,2057 @@
+[
+    {
+        "alternate_titles": [
+            {
+                "description": "Included game",
+                "title": "Quintominoes"
+            },
+            {
+                "description": "Included game",
+                "title": "Race"
+            },
+            {
+                "description": "Included game",
+                "title": "Rover Robot"
+            }
+        ],
+        "description": "<p><em>Air Raid</em> is a collection of four games.</p>\n<ul>\n<li>\n<p>The title game <em>Air Raid</em> is a shooting game where the player controls an anti aircraft gun. Above it a number of enemy aircrafts (about 75 in total) will move past and the player has to shoot down as many as possible. Aiming is done by raising and lowering the gun barrel and the bullets will fly in a trajectory until hitting an enemy or the ground. There are three kinds of planes: fighters, bombers and nuclear bombers each being worth a certain point value. Planes that manage to escape lead to points being decreased.</p>\n</li>\n<li>\n<p><em>Race</em> is a racing game for up to four players. The game is turn based and each player makes one move by pressing a number key in each turn. For example 5 maintains a steady speed while 9 increases the speed and steers to the right and 1 decreases the speed and steers to the left.</p>\n</li>\n<li>\n<p><em>Quintominoes</em> is a polyominoes puzzle game. The task is to place a number of shapes onto a grid. There are twelve pieces each made up of five squares and they have to be placed so that they all fit within the grid without any overlap. It can be played solo or in two different two player modes. In both the players take turns placing shapes but in the second mode the players their own sets of six shapes. An advanced mode also exist where one square on the grid is blacked out.</p>\n</li>\n<li>\n<p><em>Rover Robot</em> involves moving a robot over a 9x9 grid. The robot starts on the upper row and has to reach the bottom. Each square has a hidden go or stop sign and the robot is only allowed to move over go squares. The player can use four different commands: step (S) to move the robot to a square, check (C) to see the sign of a square, look (L) to see number of stop signs in current row and squares below and map (M) to show the signs of every square whose row the robot has passed. Check and map commands can only be used a limited number of times.</p>\n</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 6,
+                "name": "Racing / Driving"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 188,
+                "name": "Automobile"
+            }
+        ],
+        "id": 79429,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/79429/air-raid/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 198,
+                    "name": "Compucolor II"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": {
+            "height": 256,
+            "image_url": "https://cdn.mobygames.com/screenshots/15859488-air-raid-compucolor-ii-main-menu.png",
+            "platforms": [
+                "Compucolor II"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/f34a4960-befb-11ed-9c42-02420a000140.webp",
+            "width": 384
+        },
+        "sample_screenshots": [
+            {
+                "caption": "One car is crashing (Race)",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/15709987-air-raid-compucolor-ii-one-car-is-crashing-race.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0bd4618e-becd-11ed-9c42-02420a000140.webp",
+                "width": 384
+            },
+            {
+                "caption": "The magenta one is nuclear and worth a lot (Air Raid)",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/15859551-air-raid-compucolor-ii-the-magenta-one-is-nuclear-and-worth-a-lo.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f6b577d2-befb-11ed-9c42-02420a000140.webp",
+                "width": 384
+            },
+            {
+                "caption": "Two player mode in progress (Quintominoes)",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/15859320-air-raid-compucolor-ii-two-player-mode-in-progress-quintominoes.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/eb3201c8-befb-11ed-9c42-02420a000140.webp",
+                "width": 384
+            },
+            {
+                "caption": "Title screen (Quintominoes)",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/15704569-air-raid-compucolor-ii-title-screen-quintominoes.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/21284c14-becb-11ed-9c42-02420a000140.webp",
+                "width": 384
+            },
+            {
+                "caption": "Starting out by moving to the upper left square (Rover Robot)",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/15859209-air-raid-compucolor-ii-starting-out-by-moving-to-the-upper-left-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e51357b0-befb-11ed-9c42-02420a000140.webp",
+                "width": 384
+            }
+        ],
+        "title": "Air Raid"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Bounce</em> is a collection of three games.</p>\n<ul>\n<li>\n<p>The title game <em>Bounce</em> is a two player game that is similar to <a href=\"https://www.mobygames.com/search/?q=Artillery\">Artillery</a>. The player bounces a ball from its playing court into the scoring court with the aim of knocking out red and blue point squares. Between the courts is a wall with an opening that the ball has to move through. To launch the ball the player enters the initial height from which the ball is dropped, the horizontal velocity of the ball and the balls's bounce coefficient. Each player has five balls and the aim is to first reach fifty points.</p>\n</li>\n<li>\n<p><em>Battleship</em> is a conversion of the board game played against the computer. Each player has five ships that are placed on a grid. The players then take turns firing on the grids in an attempt at destroying the ships.</p>\n</li>\n<li>\n<p><em>Slither</em> is a <a href=\"https://www.mobygames.com/search/?q=Snake\">Snake</a> game that is similar to the arcade game <a href=\"https://www.mobygames.com/search/?q=Hustle\">Hustle</a>. It's for one or two players and the objective is to score as many points as possible by crawling into boxes which appear on the screen one at a time. A game lasts three minutes and the player with th most points at the end wins the game.</p>\n</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            }
+        ],
+        "id": 96135,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/96135/bounce/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 198,
+                    "name": "Compucolor II"
+                },
+                "1980"
+            ]
+        ],
+        "sample_cover": {
+            "height": 256,
+            "image_url": "https://cdn.mobygames.com/screenshots/16289561-bounce-compucolor-ii-menu.png",
+            "platforms": [
+                "Compucolor II"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/505217cc-c1eb-11ed-ab6b-02420a000194.webp",
+            "width": 384
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Menu",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16289561-bounce-compucolor-ii-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/505217cc-c1eb-11ed-ab6b-02420a000194.webp",
+                "width": 384
+            },
+            {
+                "caption": "Firing shots (Battleship)",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16289543-bounce-compucolor-ii-firing-shots-battleship.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4fbcce56-c1eb-11ed-ab6b-02420a000194.webp",
+                "width": 384
+            },
+            {
+                "caption": "Mystery box appears (Slither)",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16289699-bounce-compucolor-ii-mystery-box-appears-slither.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5f3d0e04-c1eb-11ed-ab6b-02420a000194.webp",
+                "width": 384
+            },
+            {
+                "caption": "Red gets the box (Slither)",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16289534-bounce-compucolor-ii-red-gets-the-box-slither.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4f6d8b84-c1eb-11ed-ab6b-02420a000194.webp",
+                "width": 384
+            },
+            {
+                "caption": "Placing ships (Battleship)",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16289546-bounce-compucolor-ii-placing-ships-battleship.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4fd7795e-c1eb-11ed-ab6b-02420a000194.webp",
+                "width": 384
+            }
+        ],
+        "title": "Bounce"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Chess</em> is a compilation of four different programs:</p>\n<p><strong>Chess</strong> - a simulation of the board game.  </p>\n<p><strong>Acey Deucey</strong> - a casino betting game where the dealer deals two cards and the player must bet on whether the next drawn card's value lies between the two cards.  </p>\n<p><strong>Line Five</strong> - a two player game where the goal is to get five tokens in a row.  </p>\n<p><strong>Biorhythms</strong> - a piece of software that charts emotional, physical and mental ups and downs.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 11,
+                "name": "Chess"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 146081,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/146081/chess/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 198,
+                    "name": "Compucolor II"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Chess"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Blackjack</em> is a compilation of five different games:</p>\n<ul>\n<li><em>Blackjack</em> - The titular game plays a typical game of <em>Blackjack</em>. The computer plays the bank and the player tries to get a card value as close to twenty one without going over to try to beat the bank.</li>\n<li><em>Roulette</em> - Another casino game. Here the player can gamble by betting on even, odd or a lucky number.</li>\n<li><em>Slot Machine</em> - This game simulates a one-armed-bandit slot machine. Three wheels will display a figure. Different combinations can yield different payout.</li>\n<li><em>Horse Race</em> - A horse betting game.</li>\n<li><em>Drag Race</em> - The only non-gambling title. Here the player must try to accelerate the fastest on a quarter mile track.</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 6,
+                "name": "Racing / Driving"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 91,
+                "name": "Horse / derby"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 188,
+                "name": "Automobile"
+            }
+        ],
+        "id": 167159,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/167159/blackjack/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 198,
+                    "name": "Compucolor II"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Blackjack"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Othello</em> is a compilation featuring four games:</p>\n<ul>\n<li><em>Othello</em> - The titular program allows the player to play the board game <em>Othello</em>. In the game two players compete for having the most markers on the board by placing a marker each turn. Enclosed markers are \"captured\" meaning they switch color.</li>\n<li><em>Math Dice</em> - A pre-school educational game teaching addition.</li>\n<li><em>Concentration</em> - The tile game in which players must find identical tiles in a grid. This program comes in two versions: one uses numbers that need to be matched and the other uses letters. They can be played with two players.</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 43,
+                "name": "Math / logic"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 46,
+                "name": "Pre-school / toddler"
+            }
+        ],
+        "id": 167160,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/167160/othello/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 198,
+                    "name": "Compucolor II"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Othello"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Swarms</em> is a compilation of five games:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/search/?q=Swarms\">Swarms</a> (in color)</li>\n<li><em>Human Reaction Time</em> - A means for players to test how quickly they can recall something.</li>\n<li><em>Reverse the Number</em> - A logic game in which a sequence of numbers needs to be reversed using limited options.</li>\n<li><em>Roulette</em> - A casino roulette table. The player can bet on even, odd, colors, columns or a single number.</li>\n<li><em>Capture the Alien</em> - A \"hidden in a grid\" type of game. An alien hides in a grid and changes position each turn. The player can fire a location each time, trying to hit the alien and deduce its movement pattern.</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 200,
+                "name": "Contemporary"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 207,
+                "name": "North America"
+            }
+        ],
+        "id": 167161,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/167161/swarms/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 198,
+                    "name": "Compucolor II"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Swarms"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Hangman</em> is a compilation of three games:</p>\n<ul>\n<li><em>Hangman</em> - The classic pen and paper game where the player must guess a word letter by letter. For each incorrect letter part of a hanged man is drawn. The player loses if the drawing is finished.</li>\n<li><em>Math Tutor</em> - Educational software to aid in basic mathematics (addition, subtraction, multiplication and division). Features five skill levels.</li>\n<li><em>Two to Ten</em> - This is a deduction game in which the player receives cards and must try to hit a mystery number hinted at by the computer.</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 162,
+                "name": "Word construction"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 43,
+                "name": "Math / logic"
+            }
+        ],
+        "id": 167162,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/167162/hangman/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 198,
+                    "name": "Compucolor II"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Hangman"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Checkers</em> is board game conversion. It originally appeared in <a href=\"https://www.mobygames.com/game/63702/basic-computer-games/\">BASIC Computer Games</a>. The player plays against the computer. Both move their pieces across the board and can capture enemy pieces by jumping over them. Pieces can be crowned when they reach the far side of the board. Crowed pieces can move backwards and can move more than a single tile.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 167163,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/167163/checkers/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 198,
+                    "name": "Compucolor II"
+                },
+                "1978"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Checkers"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Sampler</em> is a compilation of simple games showing off the capabilities of the Compucolor II. Two games are included:</p>\n<ul>\n<li><em>Game of Concentration</em> is a concentration style game in which matching cards need to be found.</li>\n<li><em>One-Armed Bandit</em> is a slot machine simulation.</li>\n</ul>\n<p>Additional software includes a biorhythm plotter, a graphical demo, a memory diagnostics tool, a loan calculator and an engineering tool.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            }
+        ],
+        "id": 206281,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/206281/sampler/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 198,
+                    "name": "Compucolor II"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Sampler"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>This compilation features four programs:</p>\n<p><em>Cubic Tic Tac Toe</em> - the titular game - is a three-dimensional variant of tic-tac-toe. The player and computer take turns placing their mark in the grid trying to get three in a row.\n* <a href=\"https://www.mobygames.com/game/174507/greed/\">Greed</a>\n* <em>Galaxy</em> gives the player three phaser guns with which to shoot at enemy space ships.\n* <em>Space Lander</em> is a <a href=\"https://www.mobygames.com/group/6716/lunar-lander-variants/\">Lunar Lander variant</a></p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 15,
+                "name": "Real-time"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 158,
+                "name": "Vehicle simulator"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 206283,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/206283/cubic-tic-tac-toe/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 198,
+                    "name": "Compucolor II"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Cubic Tic Tac Toe"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>This compilation contains four games:</p>\n<ul>\n<li><em>Shoot</em> is an artillery game in which players take turn firing a shot by determining the angle and blast force.</li>\n<li><em>15 Puzzle</em> is a sliding puzzle in which 15 tiles must be moved into the correct position.</li>\n<li><em>Hyper</em> is an action game in which the player must shoot incoming spaceships. The game features multiple difficulty modes and allows for enemies to be camouflaged (appearing as other objects) or invisible (except when firing). Fences scatter the play field which depending on the color block the player's or enemies shots or both.</li>\n<li><em>Seawar</em> is another shooting game, but this time with a naval theme. The player must fire torpedoes on passing ships, but must avoid their return fire.</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 143,
+                "name": "Artillery"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 41,
+                "name": "Naval / watercraft"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 206285,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/206285/shoot/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 198,
+                    "name": "Compucolor II"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Shoot"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>This compilation contains three games:</p>\n<ul>\n<li><em>Lunar Lander</em> is a moon landing game in real-time. The player must burn fuel at the right moments to avoid crashing into the surface of the moon. The player must leave enough fuel to also depart the moon again.</li>\n<li><em>Coalition</em> has the player plan the colonization of a new planet. Two factions in the council split into opposing coalitions. The choices the player makes will affect which coalition will win.</li>\n<li><em>Linko</em> is a game of both luck and skill and requires the player to create a linked chain from one end of the screen to the other.</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 158,
+                "name": "Vehicle simulator"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 206286,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/206286/lunar-lander/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 198,
+                    "name": "Compucolor II"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Lunar Lander"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>This compilation contains four games:</p>\n<ul>\n<li><em>Sharks</em> is a futile attempt to escape sharks. The player has to survive as long as possible without getting eaten by sharks. More sharks will spawn over time.</li>\n<li><em>Towers</em> is a computer implementation of the Towers of Hanoi puzzle. The player can try for themselves or see the computer solve it.</li>\n<li><em>Kalah</em> is a computer version of the ancient board game. It can be played against the computer or another player.</li>\n<li><em>Mill</em> is a tactical game for two players where pieces are placed on a board and later moved. Pieces that are enclosed by two opposing pieces are lost.</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            }
+        ],
+        "id": 206298,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/206298/sharks/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 198,
+                    "name": "Compucolor II"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Sharks"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Lightning Command</em> is a strategy game for two players. One player tries to invade the other's homeland with an army of panzer tanks while the other must prevent the attack from succeeding. Both sides start with the same amount of men and finances.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 161,
+                "name": "Wargame"
+            }
+        ],
+        "id": 206305,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/206305/lightning-command/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 198,
+                    "name": "Compucolor II"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Lightning Command"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Action Pack</em> is a compilation containing the following games which all feature sound:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/game/204254/breakthru/\">Breakthru</a></li>\n<li><a href=\"https://www.mobygames.com/game/204259/target-star-wars-theme/\">Target</a> (previously available bundled with a Star Wars theme)</li>\n<li><em>Catterpillar</em> is a snake variant. Apples appear on screen which the player must eat, but the player should avoid running into the walls or their own growing tail.</li>\n<li><em>Snakes</em></li>\n<li><em>Sketch</em></li>\n<li><em>Popshot</em></li>\n</ul>\n<p>The Compucolor II disk contains more games than the <a href=\"https://www.mobygames.com/game/204262/action-pack/\">Commodore PET compilation disk</a>.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 206310,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/206310/action-pack/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 198,
+                    "name": "Compucolor II"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Action Pack"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Battleships</em> is a computer implementation of the board game Battleship. The play is one-sided. The computer has hidden their fleet in a 10x10 grid and the player must fire shots at grid coordinates in an attempt to hit and sink the battleship, two cruisers and three destroyers. The game features and easy and difficult setting. At difficult setting the player fires salvos of three consecutive shots before the results are announced.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 41,
+                "name": "Naval / watercraft"
+            }
+        ],
+        "id": 206348,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/206348/battleships/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 198,
+                    "name": "Compucolor II"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Battleships"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>This compilation contains five programs, of which three are games.</p>\n<ul>\n<li><em>Bounce Ball</em> is the main attraction and is a two player game in which players take turns to bounce a ball and score points. The players provide a start height, velocity and bounciness for the ball and try to hit specific targets on the playing field.</li>\n<li><em>Crossword Puzzle Game</em> is a word game in which clues are given for words that need to fit into specific boxes (one letter per box). </li>\n<li><em>2 People Chess Game</em> is a chess game for two people. It's not possible to play the computer so it mostly serves as a digital board, but it will also check the legality of moves.</li>\n</ul>\n<p>The other programs are a crossword creation utility and a real time clock.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 143,
+                "name": "Artillery"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 11,
+                "name": "Chess"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 162,
+                "name": "Word construction"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 206349,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/206349/bounce-ball/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 198,
+                    "name": "Compucolor II"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Bounce Ball"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>This compilation contains five programs. Three of them are games and two are utility programs: A \"decision-maker\" and a personal calendar.</p>\n<p>The games are:</p>\n<ul>\n<li><em>Star Trader</em> - The titular game is a futuristic economic simulation in which the player must buy and sell goods in the galaxy.</li>\n<li><em>Color Hunt</em> - A logical deduction game similar to Mastermind in which the player must guess a color code.</li>\n<li><em>Concentration</em> - A two player version of the TV game show of the same name.</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 216719,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/216719/star-trader/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 198,
+                    "name": "Compucolor II"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Star Trader"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>This compilation contains two games:</p>\n<ul>\n<li>\n<p><em>Maze Master</em> - The titular game has the player escape from a maze until they run out of moves. The walls are made of glass so they don't become visible until running into them. The player is hunted by the Maze Master who must be avoided. In the harder difficulty level the Maze Master has an assistant.</p>\n</li>\n<li>\n<p><em>Crossword Puzzle</em> - Two puzzles, one with a general interest topic and another with a computer topic. It's also possible to create new crossword puzzles with the <em>Create Puzzle</em> program.</p>\n</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 162,
+                "name": "Word construction"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            }
+        ],
+        "id": 216720,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/216720/maze-master/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 198,
+                    "name": "Compucolor II"
+                },
+                "1980"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Maze Master"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Solitaire</em> contains three different card games.</p>\n<ul>\n<li><em>Solitaire</em> - The player must sort all cards from the deck into four foundations in numeric order. Cards come from the pile and the player also has hand cards.</li>\n<li><em>Euchre</em> - Allows the player to play the classic trick-taking card game against the computer. The game only uses the picture cards, nines and tens.</li>\n<li><em>Pyramid</em> - Another solitaire card game. The cards are dealt in a triangle shape. The goal is to remove all cards. To remove cards the player must pick two cards at a time whose sum equals thirteen. Cards can only be selected for removal if they aren't overlapped by other cards.</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 216725,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/216725/solitaire/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 198,
+                    "name": "Compucolor II"
+                },
+                "1980"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Solitaire"
+    }
+]

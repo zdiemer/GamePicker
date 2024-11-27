@@ -1,0 +1,2530 @@
+[
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Battleship</em> is a simple arcade game. The computer has placed ten ships on a grid. Seven of those ships are invulnerable. The player is a submarine and must try to sink the 3 vulnerable ships. The game keeps track of hit and miss ratio. The submarine moves automatically and the player must time the shots at the right moment.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 41,
+                "name": "Naval / watercraft"
+            }
+        ],
+        "id": 105513,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/105513/battleship/",
+        "num_votes": 2,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 217,
+                    "name": "Wang 2200"
+                },
+                "1974-04-26"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Battleship"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>The Wang Casino Blackjack Table</em> is a text-based blackjack game. The player plays against the bank (computer). The goal is to reach 21 in card value or as close as possible without going bust (over 21). Whoever has the highest value wins the wager. This implementation of the game allows the player to set a time limit and try to earn as much virtual money as possible in that time limit. It's not possible to split cards.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 105605,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/105605/the-wang-casino-blackjack-table/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 217,
+                    "name": "Wang 2200"
+                },
+                "1975"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "The Wang Casino Blackjack Table"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Black Jack</em> is a text based blackjack game. The player plays against the bank (computer). The goal is to get 21 in card value or as close as possible without going bust (over 21). Whoever has the highest value wins the wager. The player can split his cards when starting with two equal cards and can also win by having five cards but still under 21.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 105606,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/105606/black-jack/",
+        "num_votes": 2,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 217,
+                    "name": "Wang 2200"
+                },
+                "1975"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Black Jack"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Ten Pin Bowling</em> is a text-based bowling game. The player must align the ball with the cursor and then let it go to try to knock over the pins. A later version of the game allowed multiple players to go in turns.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 88,
+                "name": "Bowling"
+            }
+        ],
+        "id": 105638,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/105638/ten-pin-bowling/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 217,
+                    "name": "Wang 2200"
+                },
+                "1975"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Ten Pin Bowling"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Bowl2</em> is a bowling game. The player must try to knock over all the pins. The game detects strikes, spares and fouls. After a round a high score can be entered.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 88,
+                "name": "Bowling"
+            }
+        ],
+        "id": 105774,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/105774/bowl2/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 217,
+                    "name": "Wang 2200"
+                },
+                "1975"
+            ]
+        ],
+        "sample_cover": {
+            "height": 352,
+            "image_url": "https://cdn.mobygames.com/screenshots/17165297-bowl2-wang-2200-the-startsceen-without-any-instructions.jpg",
+            "platforms": [
+                "Wang 2200"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/4a0e55f6-05cf-11ee-9253-02420a000128.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "And the Ball hits the Pin 444",
+                "height": 352,
+                "image_url": "https://cdn.mobygames.com/screenshots/17165309-bowl2-wang-2200-and-the-ball-hits-the-pin-444.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4e060cda-05cf-11ee-9253-02420a000128.webp",
+                "width": 640
+            },
+            {
+                "caption": "And a Strike!",
+                "height": 352,
+                "image_url": "https://cdn.mobygames.com/screenshots/17165317-bowl2-wang-2200-and-a-strike.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/50724cf4-05cf-11ee-ad89-02420a000127.webp",
+                "width": 640
+            },
+            {
+                "caption": "I got a Spare",
+                "height": 352,
+                "image_url": "https://cdn.mobygames.com/screenshots/17165313-bowl2-wang-2200-i-got-a-spare.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4f15914a-05cf-11ee-9253-02420a000128.webp",
+                "width": 640
+            },
+            {
+                "caption": "First Throw",
+                "height": 352,
+                "image_url": "https://cdn.mobygames.com/screenshots/17165301-bowl2-wang-2200-first-throw.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4b91e942-05cf-11ee-aff1-02420a000127.webp",
+                "width": 640
+            },
+            {
+                "caption": "The Bowling Ball is Rolling",
+                "height": 352,
+                "image_url": "https://cdn.mobygames.com/screenshots/17165305-bowl2-wang-2200-the-bowling-ball-is-rolling.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4cb738ea-05cf-11ee-aff1-02420a000127.webp",
+                "width": 640
+            }
+        ],
+        "title": "Bowl2"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Asteroid Space Challenge</em> is an action game similar to <a href=\"https://www.mobygames.com/search/?q=Space+Race\">Space Race</a>. The player must manoeuvre a spaceship through an asteroid field. The player can make the ship go forward, reverse, fast forward or stop. The spacecraft maintains the action last pressed until a new action is chosen. Obviously the player should not collide with asteroids. The game times the player on how long it took to get to the finish.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 105831,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/105831/asteroid-space-challenge/",
+        "num_votes": 2,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 217,
+                    "name": "Wang 2200"
+                },
+                "1974-12-16"
+            ]
+        ],
+        "sample_cover": {
+            "height": 352,
+            "image_url": "https://cdn.mobygames.com/screenshots/17164562-asteroid-space-challenge-wang-2200-startscreen.jpg",
+            "platforms": [
+                "Wang 2200"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/01f69634-0570-11ee-9b77-02420a000128.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "A Collision!",
+                "height": 352,
+                "image_url": "https://cdn.mobygames.com/screenshots/17164578-asteroid-space-challenge-wang-2200-a-collision.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/07719a8c-0570-11ee-a124-02420a000127.webp",
+                "width": 640
+            },
+            {
+                "caption": "I made it to the Right :)",
+                "height": 352,
+                "image_url": "https://cdn.mobygames.com/screenshots/17164574-asteroid-space-challenge-wang-2200-i-made-it-to-the-right.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/062da652-0570-11ee-90fb-02420a000127.webp",
+                "width": 640
+            },
+            {
+                "caption": "Instructions",
+                "height": 352,
+                "image_url": "https://cdn.mobygames.com/screenshots/17164566-asteroid-space-challenge-wang-2200-instructions.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/03468a62-0570-11ee-90fb-02420a000127.webp",
+                "width": 640
+            },
+            {
+                "caption": "Startscreen",
+                "height": 352,
+                "image_url": "https://cdn.mobygames.com/screenshots/17164562-asteroid-space-challenge-wang-2200-startscreen.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/01f69634-0570-11ee-9b77-02420a000128.webp",
+                "width": 640
+            },
+            {
+                "caption": "Gameplay",
+                "height": 352,
+                "image_url": "https://cdn.mobygames.com/screenshots/17164570-asteroid-space-challenge-wang-2200-gameplay.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0500c35e-0570-11ee-90fb-02420a000127.webp",
+                "width": 640
+            }
+        ],
+        "title": "Asteroid Space Challenge"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Cows and Moos</em> is an implementation of the pen and paper code breaking game Bulls and Cows. The computer thinks of a code of five numbers and the players must try to guess it. After guessing the player is told his bulls (correct numbers in correct positions) and cows (correct numbers in incorrect positions).</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 105836,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/105836/cows-and-moos/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 217,
+                    "name": "Wang 2200"
+                },
+                "1975-05-24"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Cows and Moos"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Golf</em> is a text-based golfing game for up to four players. Each turn the player must choose a club (choices vary depending on the situation: normal, rough, green). Based on the chosen club and randomization the new distance to the hole is calculated.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 35,
+                "name": "Golf"
+            }
+        ],
+        "id": 106155,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/106155/golf/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 217,
+                    "name": "Wang 2200"
+                },
+                "1975"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Golf"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Artillery Game</em> is a text-base artillery firing game. The player is given a target to shoot at and must enter an angle and fire velocity. Depending on the number of shots the player is ranked. It's also possible to blow yourself up.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 143,
+                "name": "Artillery"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 106220,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/106220/artillery-game/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 217,
+                    "name": "Wang 2200"
+                },
+                "1975"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Artillery Game"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Fball</em> is a text-based football game. Two teams play a match with fairly little human interaction and lots of randomization.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 31,
+                "name": "Football (American)"
+            }
+        ],
+        "id": 106223,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/106223/fball/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 217,
+                    "name": "Wang 2200"
+                },
+                "1975"
+            ]
+        ],
+        "sample_cover": {
+            "height": 352,
+            "image_url": "https://cdn.mobygames.com/screenshots/17165338-fball-wang-2200-startscreen-with-the-two-teams.jpg",
+            "platforms": [
+                "Wang 2200"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/b71ea83e-05d0-11ee-ad89-02420a000127.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Startscreen with the Two Teams",
+                "height": 352,
+                "image_url": "https://cdn.mobygames.com/screenshots/17165338-fball-wang-2200-startscreen-with-the-two-teams.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b71ea83e-05d0-11ee-ad89-02420a000127.webp",
+                "width": 640
+            },
+            {
+                "caption": "The Gameboard",
+                "height": 352,
+                "image_url": "https://cdn.mobygames.com/screenshots/17165342-fball-wang-2200-the-gameboard.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b7cabf52-05d0-11ee-9253-02420a000128.webp",
+                "width": 640
+            }
+        ],
+        "title": "Fball"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Hangman</em> is a typical hangman game. The computer thinks of a word and the player must guess it letter by letter. The player must guess the word with limited incorrect guesses. The program stores a list of words in a separate file.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 162,
+                "name": "Word construction"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 106235,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/106235/hangman/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 217,
+                    "name": "Wang 2200"
+                },
+                "1975"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Hangman"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Hangman</em> is a typical hangman game. The player must guess a word chosen by another player or the computer. Each incorrect letter advances a drawing of the player hung on the gallows.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 162,
+                "name": "Word construction"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 106237,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/106237/hangman/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 217,
+                    "name": "Wang 2200"
+                },
+                "1975"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Hangman"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Wang 2200T Hockey Game</em> is <a href=\"https://www.mobygames.com/group/6734/pong-variants/\">Pong variant</a> with an ice hockey theme. Players must try to get the puck in the opposing goal. The game is divided in three periods and shots can be blocked by the goalie.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 64,
+                "name": "Paddle / Pong"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 34,
+                "name": "Hockey"
+            }
+        ],
+        "id": 106317,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/106317/wang-2200t-hockey-game/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 217,
+                    "name": "Wang 2200"
+                },
+                "1975-06-19"
+            ]
+        ],
+        "sample_cover": {
+            "height": 352,
+            "image_url": "https://cdn.mobygames.com/screenshots/17165495-wang-2200t-hockey-game-wang-2200-the-game-ist-set-between-german.jpg",
+            "platforms": [
+                "Wang 2200"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/0cb420ba-05d3-11ee-a445-02420a000128.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "The Game ist set between Germany and Canada",
+                "height": 352,
+                "image_url": "https://cdn.mobygames.com/screenshots/17165495-wang-2200t-hockey-game-wang-2200-the-game-ist-set-between-german.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0cb420ba-05d3-11ee-a445-02420a000128.webp",
+                "width": 640
+            },
+            {
+                "caption": "The Shot is Blocked",
+                "height": 352,
+                "image_url": "https://cdn.mobygames.com/screenshots/17165550-wang-2200t-hockey-game-wang-2200-the-shot-is-blocked.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0f891c32-05d3-11ee-ac64-02420a000127.webp",
+                "width": 640
+            },
+            {
+                "caption": "The Statistics between the Periods",
+                "height": 352,
+                "image_url": "https://cdn.mobygames.com/screenshots/17165554-wang-2200t-hockey-game-wang-2200-the-statistics-between-the-peri.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1086777e-05d3-11ee-aff1-02420a000127.webp",
+                "width": 640
+            },
+            {
+                "caption": "A Goal is Scored",
+                "height": 352,
+                "image_url": "https://cdn.mobygames.com/screenshots/17165538-wang-2200t-hockey-game-wang-2200-a-goal-is-scored.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0e9e5fa8-05d3-11ee-9b21-02420a000128.webp",
+                "width": 640
+            },
+            {
+                "caption": "The Game",
+                "height": 352,
+                "image_url": "https://cdn.mobygames.com/screenshots/17165518-wang-2200t-hockey-game-wang-2200-the-game.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0db7d952-05d3-11ee-ad89-02420a000127.webp",
+                "width": 640
+            }
+        ],
+        "title": "Wang 2200T Hockey Game"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Horse</em> is a horse race betting game similar to <a href=\"https://www.mobygames.com/game/50404/horserace/\">Horserace!</a>. After betting on a horse an animation shows the horses racing across the screen. Depending on the outcome the player might make a winning.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 91,
+                "name": "Horse / derby"
+            }
+        ],
+        "id": 106320,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/106320/horse/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 217,
+                    "name": "Wang 2200"
+                },
+                "1979"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Horse"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>This implementation of Conway's game of <em>Life</em> has patterns evolve using the normal rules:</p>\n<ul>\n<li>Any live cell with fewer than two live neighbours dies, as if caused by under-population.</li>\n<li>Any live cell with two or three live neighbours lives on to the next generation.</li>\n<li>Any live cell with more than three live neighbours dies, as if by overcrowding.</li>\n<li>Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.</li>\n</ul>\n<p>Each generation the amount of cells, deaths and births is displayed.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 167,
+                "name": "Point and select"
+            }
+        ],
+        "id": 106324,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/106324/game-of-life/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 217,
+                    "name": "Wang 2200"
+                },
+                "1975"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Game of Life"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Monopoly</em> is an unofficial implementation of the classic board game. Players compete in buying property when going around the board and must pay rent when landing on another player's property. Players can go to jail when throwing doubles three times in a row. Chance and Community Chest throw some random events at a player.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 40,
+                "name": "Managerial / business simulation"
+            }
+        ],
+        "id": 106358,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/106358/monopoly/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 217,
+                    "name": "Wang 2200"
+                },
+                "1975"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Monopoly"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>This implementation of the three dimensional tic-tac-toe game <em>Qubic</em> is played against the computer and offers five difficulty levels. The player and computer take turns putting down their marks in a 4x4x4 grid until one of the players has four in a row in any direction.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            }
+        ],
+        "id": 106395,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/106395/qubic/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 217,
+                    "name": "Wang 2200"
+                },
+                "1975"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Qubic"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Lunar Lander</em> is a <a href=\"https://www.mobygames.com/group/6716/lunar-lander-variants/\">Lunar Lander variant</a>. In the game the player must safely land a spacecraft on the moon's surface. This is done by increasing and decreasing its thrusters to avoid smashing into the surface. Thrusters consume fuel of which there is only a limited supply so caution is required. Different from the original game, the craft also has a rotation and starts facing the wrong direction, requiring the player to rotate it to have the thrusters face towards the surface.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 158,
+                "name": "Vehicle simulator"
+            }
+        ],
+        "id": 106397,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/106397/lunar-lander/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 217,
+                    "name": "Wang 2200"
+                },
+                "1974-10-23"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Lunar Lander"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "Alternate title",
+                "title": "Startrk5"
+            }
+        ],
+        "description": "<p><em>Startrk4</em> is a fairly basic implementation of <a href=\"https://www.mobygames.com/group/7548/star-trek-variants/\">Star Trek</a>. It features no in-game explanation, and only the core mechanics of the original. The player can fly around the galaxy with the Enterprise (represented by the letter E) in an attempt to kill Klingons (represented by the letter K) with torpedoes. The player has limited energy which can be increased when docked.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 159,
+                "name": "Vehicular combat"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 106462,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/106462/startrk4/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 217,
+                    "name": "Wang 2200"
+                },
+                "1975-04"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Startrk4"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Tictac</em> is a Tic-Tac-Toe game in which the player plays against Wally Wang. Wally Wang will start by asking if you know the rules, he'll try to get funny if you try to mess with him during his explanation. Otherwise the game plays as expected. The player and Wally take turns to place their markers on a 3x3 grid with the goal of getting three in a row.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 120,
+                "name": "Comedy"
+            }
+        ],
+        "id": 106515,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/106515/tictac/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 217,
+                    "name": "Wang 2200"
+                },
+                "1975"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Tictac"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Tic-Tac</em> is a very basic <em>Tic-Tac-Toe</em> game in which the player plays the classic pen and paper game against the computer. The player and computer take turns to place a marker on a 3x3 grid with the goal of getting three in a row.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            }
+        ],
+        "id": 106516,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/106516/tic-tac/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 217,
+                    "name": "Wang 2200"
+                },
+                "1975"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Tic-Tac"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Yahtzee</em> is an implementation of the classic dice game. The game allows play for up to five players. All the usual rules apply. On a turn a player rolls five dice and can re-roll (a selection) twice. Scoring is divided in a left and right section. The left section has a number of ones, twos, threes, etc. The right section has special rolls such as full house and Yahtzee (5 identical dice). After each turn the player must decide what to write, or strike out one of the available options if nothing matches. When Yahtzee is crossed out and the player rolls a Yahtzee he or she can use it as a Joker to match any other right side roll. Whoever scores the most points at the end wins.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 106531,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/106531/yahtzee/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 217,
+                    "name": "Wang 2200"
+                },
+                "1975"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Yahtzee"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Cryptogram Game</em> is a puzzle game in which the alphabet has been scrambled and the player must try to decipher a sentence. The player can ask for a rescramble or a hint.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 106751,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/106751/cryptogram-game/",
+        "num_votes": 1,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 217,
+                    "name": "Wang 2200"
+                },
+                "1975-04-10"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Cryptogram Game"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Wordo</em> is a computer version of the dice game <em>Perquackey</em>. The game can be played with one to five players. On a turn the player rolls 10 dice with letters on them. The player must make as many three or more letter words as possible using those letters within a time limit of three minutes. Once a player has 2000 points, 13 dice are thrown and words must be at least four letters long. When the 2000 point threshold is crossed the player must also earn at least 500 points per turn or lose 500. The first player to reach 5000 points wins the game. Getting five valid words of the same length earns bonus points.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 15,
+                "name": "Real-time"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 162,
+                "name": "Word construction"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 107049,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/107049/wordo/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 217,
+                    "name": "Wang 2200"
+                },
+                "1975-08-08"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Wordo"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "German title",
+                "title": "Raketen"
+            }
+        ],
+        "description": "<p><em>Ballistic Missile War Game</em> places the player in the role of an anti-ballistic missile controller. The goal is to destroy 10 enemy ICBMs before the control tower is destroyed. There are three silos with seven ABMs. To fire a missile the corresponding key must be pressed. Only one missile can be in the air at a time so firing another will abort the previous missile. Once in the air the ABM can be guided left or right on the screen in an attempt to intercept the incoming ICBM.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 107064,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/107064/ballistic-missile-war-game/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 217,
+                    "name": "Wang 2200"
+                },
+                "1975"
+            ]
+        ],
+        "sample_cover": {
+            "height": 352,
+            "image_url": "https://cdn.mobygames.com/screenshots/17165262-ballistic-missile-war-game-wang-2200-the-starscreen-with-instruc.jpg",
+            "platforms": [
+                "Wang 2200"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/9023814e-05cd-11ee-aff1-02420a000127.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Control Room getting Destroyed so i Lost",
+                "height": 352,
+                "image_url": "https://cdn.mobygames.com/screenshots/17165279-ballistic-missile-war-game-wang-2200-control-room-getting-destro.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9690bb32-05cd-11ee-a445-02420a000128.webp",
+                "width": 640
+            },
+            {
+                "caption": "Got a Missile",
+                "height": 352,
+                "image_url": "https://cdn.mobygames.com/screenshots/17165266-ballistic-missile-war-game-wang-2200-got-a-missile.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/91bf9a42-05cd-11ee-9b77-02420a000128.webp",
+                "width": 640
+            },
+            {
+                "caption": "ABM vs. Missile",
+                "height": 352,
+                "image_url": "https://cdn.mobygames.com/screenshots/17165270-ballistic-missile-war-game-wang-2200-abm-vs-missile.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/934edde6-05cd-11ee-9253-02420a000128.webp",
+                "width": 640
+            },
+            {
+                "caption": "Getting 5 Missiles Destroyed before i have no ABM\u00b4s left",
+                "height": 352,
+                "image_url": "https://cdn.mobygames.com/screenshots/17165275-ballistic-missile-war-game-wang-2200-getting-5-missiles-destroye.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/94d36b82-05cd-11ee-ac64-02420a000127.webp",
+                "width": 640
+            },
+            {
+                "caption": "The Starscreen with Instructions",
+                "height": 352,
+                "image_url": "https://cdn.mobygames.com/screenshots/17165262-ballistic-missile-war-game-wang-2200-the-starscreen-with-instruc.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9023814e-05cd-11ee-aff1-02420a000127.webp",
+                "width": 640
+            }
+        ],
+        "title": "Ballistic Missile War Game"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Shells</em> is a gambling game in which the computer will hide a pea under one of three shells. The shells will then be shuffled in ever increasing speed. It's up to the player to guess which shell the pea is under when asked. The pea is never moved to another shell. The player starts with $100 and the game ends when the player is broke or ten folded that starting amount.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 15,
+                "name": "Real-time"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 107071,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/107071/shells/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 217,
+                    "name": "Wang 2200"
+                },
+                "1975-12"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Shells"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>3 Dimensional Tic Tac Toe</em> is a 3D Tic Tac Toe version also known as Qubic. Two players can play against each other or one player can play against the computer. Players take turns placing an X or an O in a three dimensional grid. The first to get four in a row in any direction wins the game.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 107754,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/107754/3-dimensional-tic-tac-toe/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 217,
+                    "name": "Wang 2200"
+                },
+                "1976-02-02"
+            ]
+        ],
+        "sample_cover": {
+            "height": 352,
+            "image_url": "https://cdn.mobygames.com/screenshots/17174298-3-dimensional-tic-tac-toe-wang-2200-startscreen.jpg",
+            "platforms": [
+                "Wang 2200"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/dd6bd304-0846-11ee-bb75-02420a000140.webp",
+            "width": 640
+        },
+        "sample_screenshots": [
+            {
+                "caption": "I Lost :(",
+                "height": 352,
+                "image_url": "https://cdn.mobygames.com/screenshots/17174306-3-dimensional-tic-tac-toe-wang-2200-i-lost.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e00679d4-0846-11ee-a7bf-02420a000141.webp",
+                "width": 640
+            },
+            {
+                "caption": "Startscreen",
+                "height": 352,
+                "image_url": "https://cdn.mobygames.com/screenshots/17174298-3-dimensional-tic-tac-toe-wang-2200-startscreen.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dd6bd304-0846-11ee-bb75-02420a000140.webp",
+                "width": 640
+            },
+            {
+                "caption": "The Game begins",
+                "height": 352,
+                "image_url": "https://cdn.mobygames.com/screenshots/17174302-3-dimensional-tic-tac-toe-wang-2200-the-game-begins.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/de95dbf8-0846-11ee-947b-02420a000140.webp",
+                "width": 640
+            }
+        ],
+        "title": "3 Dimensional Tic Tac Toe"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Space Ship Game</em> is a space race where the player must try to dock with space stations in a fastest time as possible. Using the number keys the player can activate, deactivate and reverse thrusters in the X, Y and Z coordinates. When getting near a space station the player's speed should be less or equal to 2 for automatic docking to begin otherwise the space ship crashes.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 6,
+                "name": "Racing / Driving"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 151,
+                "name": "Space flight"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 107755,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/107755/space-ship-game/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 217,
+                    "name": "Wang 2200"
+                },
+                "1976-06-01"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Space Ship Game"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Martian War</em> is an action game in which the player is tasked to kill invading Martians. According to the game's story the year is 1987 and Ronald Reagan is about to end his second term. The world is a mess and only the player is available to fight the invading Martians. Gameplay consists of moving the player's weapon left and right along the bottom of the screen and firing at invading Martians before they can destroy all of humanity. The player can also be hit which causes some down-time during which the gun is repaired. If all Martians are shot the player wins.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 176436,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/176436/martian-war/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 217,
+                    "name": "Wang 2200"
+                },
+                "1980-09-05"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Martian War"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Snakewar</em> is a multiplayer version of the classic snake game. Two players can move their snake around a fixed screen and must collect targets to score a variable amount of points. The first player to get to 100 points wins the game, but whenever a player hits a wall, themselves or another snake that player loses 5 points.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 176437,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/176437/snakewar/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 217,
+                    "name": "Wang 2200"
+                },
+                "1980-04-10"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Snakewar"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Cat &amp; Mouse</em> places the player in the role of a mouse trying to evade the cats. The screen consists of a maze filled with walls and crumbs. Collecting crumbs scores points. The mouse can also eat a hole into a wall three times, but where the hole will end up is random. The player has three lives after which the game is over. Obviously the player must avoid the cats hunting for them, but in the vein of <a href=\"https://www.mobygames.com/search/?q=Pac-Man\">Pac-Man</a> when the player manages to get the super cheese the player gains the strength to beat the cats so the tables turn.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 176438,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/176438/cat-mouse/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 217,
+                    "name": "Wang 2200"
+                },
+                "1981-09-28"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Cat & Mouse"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Pac-Man</em> is an unofficial port of the seminal arcade game of the same name. Up to 2 players (in hot seat) control Pac-Man and run around a maze, avoiding the ghosts while munching up dots to score points.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 176481,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/176481/pac-man/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 217,
+                    "name": "Wang 2200"
+                },
+                "1981-10-23"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Pac-Man"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Laser Blast</em> is an unofficial port of the <a href=\"https://www.mobygames.com/game/9008/laser-blast/\">Atari 2600 game of the same name</a>. The player controls a ship that can fly around the screen and must fire lasers towards enemy turrets at the bottom of the screen while avoiding their return fire. The laser can be fired directly down or diagonally in either direction. The player has four lives and must try to make as many kills as possible for depleting all lives.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 176482,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/176482/laser-blast/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 217,
+                    "name": "Wang 2200"
+                },
+                "1981"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Laser Blast"
+    }
+]
