@@ -65,13 +65,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Landing on the planet",
-                "height": 222,
-                "image_url": "https://cdn.mobygames.com/screenshots/16374962-elevator-fight-epoch-super-cassette-vision-landing-on-the-planet.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7c247daa-c208-11ed-ab6b-02420a000194.webp",
-                "width": 384
-            },
-            {
                 "caption": "Riding on the rail in the ceiling",
                 "height": 222,
                 "image_url": "https://cdn.mobygames.com/screenshots/16375223-elevator-fight-epoch-super-cassette-vision-riding-on-the-rail-in.png",
@@ -79,24 +72,31 @@
                 "width": 384
             },
             {
-                "caption": "These green things just rush at you, very quickly",
+                "caption": "Found a key",
                 "height": 222,
-                "image_url": "https://cdn.mobygames.com/screenshots/16374965-elevator-fight-epoch-super-cassette-vision-these-green-things-ju.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7c3ddb10-c208-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16375394-elevator-fight-epoch-super-cassette-vision-found-a-key.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/94a52280-c208-11ed-ab6b-02420a000194.webp",
                 "width": 384
             },
             {
-                "caption": "Watch out for the electrified floor",
+                "caption": "Grappling claws in the roofs can crush you",
                 "height": 222,
-                "image_url": "https://cdn.mobygames.com/screenshots/16374503-elevator-fight-epoch-super-cassette-vision-watch-out-for-the-ele.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5e624860-c208-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16374479-elevator-fight-epoch-super-cassette-vision-grappling-claws-in-th.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5d86e6ee-c208-11ed-ab6b-02420a000194.webp",
                 "width": 384
             },
             {
-                "caption": "Laser gun in the ceiling",
+                "caption": "Shot by a space mouse",
                 "height": 222,
-                "image_url": "https://cdn.mobygames.com/screenshots/16375081-elevator-fight-epoch-super-cassette-vision-laser-gun-in-the-ceil.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/82a79a40-c208-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16374959-elevator-fight-epoch-super-cassette-vision-shot-by-a-space-mouse.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7c09a3e0-c208-11ed-ab6b-02420a000194.webp",
+                "width": 384
+            },
+            {
+                "caption": "Section 3 offers yet another enemy type",
+                "height": 222,
+                "image_url": "https://cdn.mobygames.com/screenshots/16375077-elevator-fight-epoch-super-cassette-vision-section-3-offers-yet-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/828e45ea-c208-11ed-ab6b-02420a000194.webp",
                 "width": 384
             }
         ],
@@ -200,17 +200,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Some aliens got through, but there are ships left.",
+                "caption": "Title screen.",
                 "height": 222,
-                "image_url": "https://cdn.mobygames.com/screenshots/16917391-astro-wars-epoch-super-cassette-vision-some-aliens-got-through-b.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/21eaddda-c40f-11ed-be63-02420a000121.webp",
-                "width": 192
-            },
-            {
-                "caption": "Shields are down!",
-                "height": 222,
-                "image_url": "https://cdn.mobygames.com/screenshots/16917756-astro-wars-epoch-super-cassette-vision-shields-are-down.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/463b7b68-c40f-11ed-be63-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16917765-astro-wars-epoch-super-cassette-vision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/46b1c8fe-c40f-11ed-be63-02420a000121.webp",
                 "width": 192
             },
             {
@@ -228,10 +221,17 @@
                 "width": 192
             },
             {
-                "caption": "Setting off in pursuit of the aliens.",
+                "caption": "Get ready to play...",
                 "height": 222,
-                "image_url": "https://cdn.mobygames.com/screenshots/16917388-astro-wars-epoch-super-cassette-vision-setting-off-in-pursuit-of.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/21d0b248-c40f-11ed-be63-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16917753-astro-wars-epoch-super-cassette-vision-get-ready-to-play.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4624d20a-c40f-11ed-be63-02420a000121.webp",
+                "width": 192
+            },
+            {
+                "caption": "Aliens pour from the mother-ship.",
+                "height": 222,
+                "image_url": "https://cdn.mobygames.com/screenshots/16917750-astro-wars-epoch-super-cassette-vision-aliens-pour-from-the-moth.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/460ead72-c40f-11ed-be63-02420a000121.webp",
                 "width": 192
             }
         ],
@@ -330,10 +330,24 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Mid-game action.",
+                "height": 222,
+                "image_url": "https://cdn.mobygames.com/screenshots/15889010-astro-wars-ii-battle-in-galaxy-epoch-super-cassette-vision-mid-g.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5376ead8-bf05-11ed-9c42-02420a000140.webp",
+                "width": 192
+            },
+            {
                 "caption": "Demo screen.",
                 "height": 222,
                 "image_url": "https://cdn.mobygames.com/screenshots/15888742-astro-wars-ii-battle-in-galaxy-epoch-super-cassette-vision-demo-.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/42e49292-bf05-11ed-9c42-02420a000140.webp",
+                "width": 192
+            },
+            {
+                "caption": "The alien's starting formation.",
+                "height": 222,
+                "image_url": "https://cdn.mobygames.com/screenshots/16920558-astro-wars-ii-battle-in-galaxy-epoch-super-cassette-vision-the-a.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e3e9704e-c410-11ed-be63-02420a000121.webp",
                 "width": 192
             },
             {
@@ -344,24 +358,10 @@
                 "width": 192
             },
             {
-                "caption": "Mid-game action.",
-                "height": 222,
-                "image_url": "https://cdn.mobygames.com/screenshots/15889010-astro-wars-ii-battle-in-galaxy-epoch-super-cassette-vision-mid-g.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5376ead8-bf05-11ed-9c42-02420a000140.webp",
-                "width": 192
-            },
-            {
                 "caption": "Fighting the mother-ship.",
                 "height": 222,
                 "image_url": "https://cdn.mobygames.com/screenshots/15888625-astro-wars-ii-battle-in-galaxy-epoch-super-cassette-vision-fight.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/3c327068-bf05-11ed-9c42-02420a000140.webp",
-                "width": 192
-            },
-            {
-                "caption": "The alien's starting formation.",
-                "height": 222,
-                "image_url": "https://cdn.mobygames.com/screenshots/16920558-astro-wars-ii-battle-in-galaxy-epoch-super-cassette-vision-the-a.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e3e9704e-c410-11ed-be63-02420a000121.webp",
                 "width": 192
             }
         ],
@@ -451,10 +451,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Level 2 has a trampoline.",
+                "caption": "Title screen.",
                 "height": 222,
-                "image_url": "https://cdn.mobygames.com/screenshots/16912274-comic-circus-epoch-super-cassette-vision-level-2-has-a-trampolin.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/fe3eef3c-c40b-11ed-be63-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16891412-comic-circus-epoch-super-cassette-vision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/048f1c36-c402-11ed-be63-02420a000121.webp",
                 "width": 192
             },
             {
@@ -465,10 +465,17 @@
                 "width": 192
             },
             {
-                "caption": "Level 3 introduces acrobats.",
+                "caption": "Level 2 has a trampoline.",
                 "height": 222,
-                "image_url": "https://cdn.mobygames.com/screenshots/16913339-comic-circus-epoch-super-cassette-vision-level-3-introduces-acro.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a822b632-c40c-11ed-be63-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16912274-comic-circus-epoch-super-cassette-vision-level-2-has-a-trampolin.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fe3eef3c-c40b-11ed-be63-02420a000121.webp",
+                "width": 192
+            },
+            {
+                "caption": "Cut-scene between levels.",
+                "height": 222,
+                "image_url": "https://cdn.mobygames.com/screenshots/16913342-comic-circus-epoch-super-cassette-vision-cut-scene-between-level.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a83ab0de-c40c-11ed-be63-02420a000121.webp",
                 "width": 192
             },
             {
@@ -476,13 +483,6 @@
                 "height": 222,
                 "image_url": "https://cdn.mobygames.com/screenshots/16912277-comic-circus-epoch-super-cassette-vision-a-dove-drops-of-bonus.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/fe5b9f74-c40b-11ed-be63-02420a000121.webp",
-                "width": 192
-            },
-            {
-                "caption": "Title screen.",
-                "height": 222,
-                "image_url": "https://cdn.mobygames.com/screenshots/16891412-comic-circus-epoch-super-cassette-vision-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/048f1c36-c402-11ed-be63-02420a000121.webp",
                 "width": 192
             }
         ],
@@ -581,10 +581,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Attacking enemies with an air-jet.",
+                "caption": "Leaving the building in the time-machine.",
                 "height": 222,
-                "image_url": "https://cdn.mobygames.com/screenshots/16931822-doraemon-epoch-super-cassette-vision-attacking-enemies-with-an-a.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b6d65de2-c415-11ed-be63-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16931231-doraemon-epoch-super-cassette-vision-leaving-the-building-in-the.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7bbd1944-c415-11ed-be63-02420a000121.webp",
+                "width": 192
+            },
+            {
+                "caption": "Bonus game.",
+                "height": 222,
+                "image_url": "https://cdn.mobygames.com/screenshots/16931249-doraemon-epoch-super-cassette-vision-bonus-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7c6be92e-c415-11ed-be63-02420a000121.webp",
+                "width": 192
+            },
+            {
+                "caption": "Title screen.",
+                "height": 222,
+                "image_url": "https://cdn.mobygames.com/screenshots/16931819-doraemon-epoch-super-cassette-vision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b6bc614e-c415-11ed-be63-02420a000121.webp",
                 "width": 192
             },
             {
@@ -595,24 +609,10 @@
                 "width": 192
             },
             {
-                "caption": "Zapped by a UFO.",
+                "caption": "Stage 2 occurs in the far distant past.",
                 "height": 222,
-                "image_url": "https://cdn.mobygames.com/screenshots/16931225-doraemon-epoch-super-cassette-vision-zapped-by-a-ufo.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7b8f5b80-c415-11ed-be63-02420a000121.webp",
-                "width": 192
-            },
-            {
-                "caption": "End of game.",
-                "height": 222,
-                "image_url": "https://cdn.mobygames.com/screenshots/16931228-doraemon-epoch-super-cassette-vision-end-of-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7ba712d4-c415-11ed-be63-02420a000121.webp",
-                "width": 192
-            },
-            {
-                "caption": "Returning to the time-machine with Suneo.",
-                "height": 222,
-                "image_url": "https://cdn.mobygames.com/screenshots/16931750-doraemon-epoch-super-cassette-vision-returning-to-the-time-machi.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b1cd8712-c415-11ed-be63-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16931237-doraemon-epoch-super-cassette-vision-stage-2-occurs-in-the-far-d.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7c00d008-c415-11ed-be63-02420a000121.webp",
                 "width": 192
             }
         ],

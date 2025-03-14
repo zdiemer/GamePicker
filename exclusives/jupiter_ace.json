@@ -56,10 +56,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Getting eaten by a gook",
+                "caption": "Enemy logics explained",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16496524-gobbledegook-jupiter-ace-getting-eaten-by-a-gook.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/fb3eff5c-c22b-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16496539-gobbledegook-jupiter-ace-enemy-logics-explained.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fbe6843e-c22b-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Menu",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16496536-gobbledegook-jupiter-ace-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fbc35112-c22b-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -70,10 +77,10 @@
                 "width": 256
             },
             {
-                "caption": "Starting out",
+                "caption": "Eating a powerpack",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16496533-gobbledegook-jupiter-ace-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/fba3e1ba-c22b-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16496530-gobbledegook-jupiter-ace-eating-a-powerpack.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fb83fb84-c22b-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -81,13 +88,6 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16496518-gobbledegook-jupiter-ace-scores.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/faf3e544-c22b-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Eating a gook",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16496527-gobbledegook-jupiter-ace-eating-a-gook.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/fb6130fe-c22b-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -159,17 +159,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Firing your laser",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16499533-alien-defender-jupiter-ace-firing-your-laser.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/08ebd5fc-c22d-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "Here come the aliens",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16499668-alien-defender-jupiter-ace-here-come-the-aliens.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/13a90a1e-c22d-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Firing your laser",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16499533-alien-defender-jupiter-ace-firing-your-laser.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/08ebd5fc-c22d-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -246,13 +246,6 @@
                 "width": 256
             },
             {
-                "caption": "Title Screen",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16499476-zombies-potholes-jupiter-ace-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/03c6d19e-c22d-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "Lets escape the Zombies",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16499530-zombies-potholes-jupiter-ace-lets-escape-the-zombies.png",
@@ -264,6 +257,13 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16499563-zombies-potholes-jupiter-ace-a-zombie-will-be-falling-into-a-pot.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/0c5c938e-c22d-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Title Screen",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16499476-zombies-potholes-jupiter-ace-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/03c6d19e-c22d-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -326,10 +326,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Avoid the mine",
+                "caption": "Getting hectic",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16499560-swamp-monsters-jupiter-ace-avoid-the-mine.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0c3a8a32-c22d-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16499707-swamp-monsters-jupiter-ace-getting-hectic.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1aef236c-c22d-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -340,10 +340,10 @@
                 "width": 256
             },
             {
-                "caption": "Getting hectic",
+                "caption": "Avoid the mine",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16499707-swamp-monsters-jupiter-ace-getting-hectic.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1aef236c-c22d-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16499560-swamp-monsters-jupiter-ace-avoid-the-mine.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0c3a8a32-c22d-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -406,17 +406,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Lets blast aliens",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16499920-space-battle-jupiter-ace-lets-blast-aliens.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3078015e-c22d-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "Blasting the aliens",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16499917-space-battle-jupiter-ace-blasting-the-aliens.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/305ba18a-c22d-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Lets blast aliens",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16499920-space-battle-jupiter-ace-lets-blast-aliens.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3078015e-c22d-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -495,6 +495,13 @@
                 "width": 256
             },
             {
+                "caption": "Lets make a word",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16502413-owler-jupiter-ace-lets-make-a-word.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/151cd2ee-c22e-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
                 "caption": "Selected a letter",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16502926-owler-jupiter-ace-selected-a-letter.png",
@@ -506,13 +513,6 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16502572-owler-jupiter-ace-havent-found-the-correct-ones-so-far.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/1ff87484-c22e-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Lets make a word",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16502413-owler-jupiter-ace-lets-make-a-word.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/151cd2ee-c22e-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -682,13 +682,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Missed the meteor",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16505458-meteor-racer-jupiter-ace-missed-the-meteor.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f87d8920-c22e-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "Lets go blasting",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16505428-meteor-racer-jupiter-ace-lets-go-blasting.png",
@@ -700,6 +693,13 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16506130-meteor-racer-jupiter-ace-title-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/228944c0-c22f-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Missed the meteor",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16505458-meteor-racer-jupiter-ace-missed-the-meteor.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f87d8920-c22e-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -762,6 +762,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Maze 2",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16505425-micro-maze-jupiter-ace-maze-2.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f6186eb6-c22e-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
                 "caption": "Maze 1",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16506127-micro-maze-jupiter-ace-maze-1.png",
@@ -773,13 +780,6 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16505455-micro-maze-jupiter-ace-maze-3.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/f8646e18-c22e-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Maze 2",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16505425-micro-maze-jupiter-ace-maze-2.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f6186eb6-c22e-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -842,13 +842,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Select your skill",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16506124-memory-stars-jupiter-ace-select-your-skill.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/225432ee-c22f-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "Top right",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16505452-memory-stars-jupiter-ace-top-right.png",
@@ -860,6 +853,13 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16505422-memory-stars-jupiter-ace-bottom-left.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/f6036b60-c22e-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Select your skill",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16506124-memory-stars-jupiter-ace-select-your-skill.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/225432ee-c22f-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -931,13 +931,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Taking the lift",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16505875-jumpman-jupiter-ace-taking-the-lift.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/11208db0-c22f-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "Title Screen",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16505392-jumpman-jupiter-ace-title-screen.png",
@@ -949,6 +942,13 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16505878-jumpman-jupiter-ace-lets-get-the-fruit.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/11380eae-c22f-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Taking the lift",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16505875-jumpman-jupiter-ace-taking-the-lift.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/11208db0-c22f-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -1084,13 +1084,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "River to cross",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16505467-frogger-jupiter-ace-river-to-cross.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f8cddfd8-c22e-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "Lets get home",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16505446-frogger-jupiter-ace-lets-get-home.png",
@@ -1102,6 +1095,13 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16505386-frogger-jupiter-ace-title-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/f2406b90-c22e-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "River to cross",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16505467-frogger-jupiter-ace-river-to-cross.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f8cddfd8-c22e-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -1182,6 +1182,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Completed Level 1",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16506079-firebird-jupiter-ace-completed-level-1.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1f7abdcc-c22f-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
                 "caption": "Title Screen",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16505464-firebird-jupiter-ace-title-screen.png",
@@ -1200,13 +1207,6 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16506082-firebird-jupiter-ace-blast-the-fuel-cells.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/1f925e6e-c22f-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Completed Level 1",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16506079-firebird-jupiter-ace-completed-level-1.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1f7abdcc-c22f-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -1269,17 +1269,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Being chased",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16506157-dot-man-jupiter-ace-being-chased.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/24c66bd2-c22f-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "Lets eat the dots",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16505575-dot-man-jupiter-ace-lets-eat-the-dots.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/ff3332e2-c22e-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Being chased",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16506157-dot-man-jupiter-ace-being-chased.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/24c66bd2-c22f-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -1351,20 +1351,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title Screen",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16505572-cygnus-jupiter-ace-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ff1a2fb8-c22e-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "On board the vessel",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16506154-cygnus-jupiter-ace-on-board-the-vessel.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/23dfdd5c-c22f-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "Killed",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16505980-cygnus-jupiter-ace-killed.png",
@@ -1379,10 +1365,24 @@
                 "width": 256
             },
             {
+                "caption": "Title Screen",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16505572-cygnus-jupiter-ace-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ff1a2fb8-c22e-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
                 "caption": "Found a Key",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16505569-cygnus-jupiter-ace-found-a-key.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/ff02a73a-c22e-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "On board the vessel",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16506154-cygnus-jupiter-ace-on-board-the-vessel.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/23dfdd5c-c22f-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -1445,13 +1445,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Moved forward",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16506151-centipede-jupiter-ace-moved-forward.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/23c8e890-c22f-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "Title Screen",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16507714-centipede-jupiter-ace-title-screen.png",
@@ -1463,6 +1456,13 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16505566-centipede-jupiter-ace-blast-the-centipede.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/fee37b62-c22e-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Moved forward",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16506151-centipede-jupiter-ace-moved-forward.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/23c8e890-c22f-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -1580,20 +1580,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title Screen",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16505557-black-island-adventure-jupiter-ace-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/fe8961ae-c22e-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "In the Harbour",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16505554-black-island-adventure-jupiter-ace-in-the-harbour.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/fd9b2cdc-c22e-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "Centre of the Harbour",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16505551-black-island-adventure-jupiter-ace-centre-of-the-harbour.png",
@@ -1605,6 +1591,20 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16505827-black-island-adventure-jupiter-ace-found-a-penny-whistle.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/0e5ebb6a-c22f-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "In the Harbour",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16505554-black-island-adventure-jupiter-ace-in-the-harbour.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fd9b2cdc-c22e-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Title Screen",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16505557-black-island-adventure-jupiter-ace-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fe8961ae-c22e-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -1667,10 +1667,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Start in the centre",
+                "caption": "Finding an exit",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16505545-amazing-maze-jupiter-ace-start-in-the-centre.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/fd53d864-c22e-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16505824-amazing-maze-jupiter-ace-finding-an-exit.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0e43b2ac-c22f-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -1681,10 +1681,10 @@
                 "width": 256
             },
             {
-                "caption": "Finding an exit",
+                "caption": "Start in the centre",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16505824-amazing-maze-jupiter-ace-finding-an-exit.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0e43b2ac-c22f-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16505545-amazing-maze-jupiter-ace-start-in-the-centre.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fd53d864-c22e-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -1763,17 +1763,17 @@
                 "width": 256
             },
             {
-                "caption": "Title Screen",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16507723-atic-raid-jupiter-ace-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8b772434-c22f-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "Lets escape",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16507684-atic-raid-jupiter-ace-lets-escape.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/888354e6-c22f-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Title Screen",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16507723-atic-raid-jupiter-ace-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8b772434-c22f-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -2010,17 +2010,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "About to land",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16510286-ace-invasion-jupiter-ace-about-to-land.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3bbbf1f8-c230-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "Blast the alien",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16509899-ace-invasion-jupiter-ace-blast-the-alien.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/27950e80-c230-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "About to land",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16510286-ace-invasion-jupiter-ace-about-to-land.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3bbbf1f8-c230-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -2147,6 +2147,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Title Screen",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16519480-3d-maze-jupiter-ace-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/88fba880-c232-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
                 "caption": "A dead-end",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16519423-3d-maze-jupiter-ace-a-dead-end.png",
@@ -2154,10 +2161,10 @@
                 "width": 256
             },
             {
-                "caption": "Start of your maze",
+                "caption": "A small maze",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16519366-3d-maze-jupiter-ace-start-of-your-maze.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8116e8c8-c232-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16519789-3d-maze-jupiter-ace-a-small-maze.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9b07bf00-c232-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -2165,13 +2172,6 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16519342-3d-maze-jupiter-ace-lets-go-for-a-big-maze.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/800c367c-c232-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "A small maze",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16519789-3d-maze-jupiter-ace-a-small-maze.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9b07bf00-c232-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -2232,10 +2232,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Titan Defender: An enemy ship",
+                "caption": "Dual Duel: Leaving a trail behind",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16519855-titan-defender-dual-duel-jupiter-ace-titan-defender-an-enemy-shi.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a1033ccc-c232-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16525583-titan-defender-dual-duel-jupiter-ace-dual-duel-leaving-a-trail-b.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/353bd416-c234-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -2246,17 +2246,17 @@
                 "width": 256
             },
             {
-                "caption": "Titan Defender: Title Screen",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16519477-titan-defender-dual-duel-jupiter-ace-titan-defender-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/88e20c9a-c232-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "Titan Defender: Lets destroy the Carian",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16519594-titan-defender-dual-duel-jupiter-ace-titan-defender-lets-destroy.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/90759df0-c232-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Titan Defender: An enemy ship",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16519855-titan-defender-dual-duel-jupiter-ace-titan-defender-an-enemy-shi.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a1033ccc-c232-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -2358,10 +2358,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Starting to get higher",
+                "caption": "Start of the game",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16519750-tetris-jupiter-ace-starting-to-get-higher.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/988dc49a-c232-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16519471-tetris-jupiter-ace-start-of-the-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/88b5ed54-c232-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -2372,10 +2372,10 @@
                 "width": 256
             },
             {
-                "caption": "Start of the game",
+                "caption": "Starting to get higher",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16519471-tetris-jupiter-ace-start-of-the-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/88b5ed54-c232-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16519750-tetris-jupiter-ace-starting-to-get-higher.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/988dc49a-c232-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -2438,6 +2438,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Space Fighter Pilot: Hit the missiles",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16520350-missile-man-space-fighter-pilot-jupiter-ace-space-fighter-pilot-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bb2debd8-c232-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
                 "caption": "Space Fighter Pilot: Deep space",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16520158-missile-man-space-fighter-pilot-jupiter-ace-space-fighter-pilot-.png",
@@ -2452,13 +2459,6 @@
                 "width": 256
             },
             {
-                "caption": "Missile Man:Blast the aliens",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16520194-missile-man-space-fighter-pilot-jupiter-ace-missile-manblast-the.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b43622b4-c232-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "Space Fighter Pilot: Ready for take-off",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16520161-missile-man-space-fighter-pilot-jupiter-ace-space-fighter-pilot-.png",
@@ -2466,10 +2466,10 @@
                 "width": 256
             },
             {
-                "caption": "Space Fighter Pilot: Hit the missiles",
+                "caption": "Missile Man:Blast the aliens",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16520350-missile-man-space-fighter-pilot-jupiter-ace-space-fighter-pilot-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bb2debd8-c232-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16520194-missile-man-space-fighter-pilot-jupiter-ace-missile-manblast-the.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b43622b4-c232-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -2637,17 +2637,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Another grid",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16520257-sudoku-jupiter-ace-another-grid.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b7223c74-c232-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "First grid",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16520188-sudoku-jupiter-ace-first-grid.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/b40a0ddc-c232-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Another grid",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16520257-sudoku-jupiter-ace-another-grid.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b7223c74-c232-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -2692,24 +2692,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Puzzle: The grid in order",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16520254-puzzle-bombs-jupiter-ace-puzzle-the-grid-in-order.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b707d726-c232-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "Bombs: Here come the bombs",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16520374-puzzle-bombs-jupiter-ace-bombs-here-come-the-bombs.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/bdfaae32-c232-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Puzzle: Title Screen",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16520185-puzzle-bombs-jupiter-ace-puzzle-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b3f1c6c8-c232-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -2720,10 +2706,24 @@
                 "width": 256
             },
             {
+                "caption": "Puzzle: The grid in order",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16520254-puzzle-bombs-jupiter-ace-puzzle-the-grid-in-order.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b707d726-c232-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
                 "caption": "Bombs: Title Screen",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16520344-puzzle-bombs-jupiter-ace-bombs-title-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/bafe2b64-c232-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Puzzle: Title Screen",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16520185-puzzle-bombs-jupiter-ace-puzzle-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b3f1c6c8-c232-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -2786,20 +2786,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Brand Hatch: Nearly completed a lap",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16521430-overtaker-brands-hatch-jupiter-ace-brand-hatch-nearly-completed-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/01c5ca48-c233-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Brand Hatch: Race around the course",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16521490-overtaker-brands-hatch-jupiter-ace-brand-hatch-race-around-the-c.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0574ca54-c233-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "Overtaker: Lets go",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16521067-overtaker-brands-hatch-jupiter-ace-overtaker-lets-go.png",
@@ -2807,10 +2793,24 @@
                 "width": 256
             },
             {
+                "caption": "Brand Hatch: Nearly completed a lap",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16521430-overtaker-brands-hatch-jupiter-ace-brand-hatch-nearly-completed-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/01c5ca48-c233-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
                 "caption": "Overtaker: Passing the cars",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16521451-overtaker-brands-hatch-jupiter-ace-overtaker-passing-the-cars.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/0400452c-c233-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Brand Hatch: Race around the course",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16521490-overtaker-brands-hatch-jupiter-ace-brand-hatch-race-around-the-c.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0574ca54-c233-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -2891,17 +2891,17 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Hangman: Can you guess the word?",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16522289-moo-hangman-jupiter-ace-hangman-can-you-guess-the-word.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3d0ffdf8-c233-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
                 "caption": "Moo: Guessing the number",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16522616-moo-hangman-jupiter-ace-moo-guessing-the-number.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/50cb11e8-c233-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Moo: Got the number",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16522439-moo-hangman-jupiter-ace-moo-got-the-number.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/47334326-c233-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -2912,10 +2912,10 @@
                 "width": 256
             },
             {
-                "caption": "Hangman: Can you guess the word?",
+                "caption": "Moo: Got the number",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16522289-moo-hangman-jupiter-ace-hangman-can-you-guess-the-word.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3d0ffdf8-c233-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16522439-moo-hangman-jupiter-ace-moo-got-the-number.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/47334326-c233-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -2969,10 +2969,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Blowing up the World: Map of the world to destroy",
+                "caption": "Greedy Gobbler: Chase and eat the ghosts",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16525568-greedy-gobbler-blowing-up-the-world-jupiter-ace-blowing-up-the-w.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3380638a-c234-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16525457-greedy-gobbler-blowing-up-the-world-jupiter-ace-greedy-gobbler-c.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2cb3f684-c234-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -2983,17 +2983,17 @@
                 "width": 256
             },
             {
-                "caption": "Greedy Gobbler: Chase and eat the ghosts",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16525457-greedy-gobbler-blowing-up-the-world-jupiter-ace-greedy-gobbler-c.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2cb3f684-c234-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "Blowing up the World: Think my house is still OK",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16525827-greedy-gobbler-blowing-up-the-world-jupiter-ace-blowing-up-the-w.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/42238084-c234-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Blowing up the World: Map of the world to destroy",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16525568-greedy-gobbler-blowing-up-the-world-jupiter-ace-blowing-up-the-w.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3380638a-c234-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -3092,6 +3092,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Chomping away",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16496326-fish-flutterer-jupiter-ace-chomping-away.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/eaae1dda-c22b-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
                 "caption": "Shooting the alien",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16475503-fish-flutterer-jupiter-ace-shooting-the-alien.png",
@@ -3110,13 +3117,6 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16476115-fish-flutterer-jupiter-ace-get-him-quick.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/c149a1c2-c225-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Chomping away",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16496326-fish-flutterer-jupiter-ace-chomping-away.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/eaae1dda-c22b-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -3224,10 +3224,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Zapem",
+                "caption": "Minefield",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16496371-duckshoot-minefield-zapem-jupiter-ace-zapem.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ed3b4db6-c22b-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16496374-duckshoot-minefield-zapem-jupiter-ace-minefield.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ed5b5e58-c22b-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -3238,10 +3238,10 @@
                 "width": 256
             },
             {
-                "caption": "Minefield",
+                "caption": "Zapem",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16496374-duckshoot-minefield-zapem-jupiter-ace-minefield.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ed5b5e58-c22b-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16496371-duckshoot-minefield-zapem-jupiter-ace-zapem.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ed3b4db6-c22b-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -3340,17 +3340,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Casse Briques: Bricks starting to be removed",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16477858-champs-de-mines-casse-briques-jupiter-ace-casse-briques-bricks-s.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3f4202e0-c226-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "Champs De Mines: Get to the top of the screen",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16496317-champs-de-mines-casse-briques-jupiter-ace-champs-de-mines-get-to.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/ea571a26-c22b-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Casse Briques: Bricks starting to be removed",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16477858-champs-de-mines-casse-briques-jupiter-ace-casse-briques-bricks-s.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3f4202e0-c226-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -3436,17 +3436,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title Screen",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16478146-bomber-jupiter-ace-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/51b9a248-c226-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "Dropping bombs",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16485364-bomber-jupiter-ace-dropping-bombs.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/79a9bb4c-c228-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Title Screen",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16478146-bomber-jupiter-ace-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/51b9a248-c226-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {

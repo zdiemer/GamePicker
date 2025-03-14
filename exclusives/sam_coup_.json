@@ -65,10 +65,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title screen",
+                "caption": "Let's shoot them down",
                 "height": 384,
-                "image_url": "https://cdn.mobygames.com/screenshots/16294595-sphera-sam-coupe-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e3ac537e-c1ec-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16294610-sphera-sam-coupe-lets-shoot-them-down.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e4345fa8-c1ec-11ed-ab6b-02420a000194.webp",
                 "width": 512
             },
             {
@@ -79,24 +79,24 @@
                 "width": 512
             },
             {
-                "caption": "Where am I? Often the ship move under the level graphics making it very hard to see what's going on",
-                "height": 384,
-                "image_url": "https://cdn.mobygames.com/screenshots/16294601-sphera-sam-coupe-where-am-i-often-the-ship-move-under-the-level-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e3e2e2d6-c1ec-11ed-ab6b-02420a000194.webp",
-                "width": 512
-            },
-            {
-                "caption": "Let's shoot them down",
-                "height": 384,
-                "image_url": "https://cdn.mobygames.com/screenshots/16294610-sphera-sam-coupe-lets-shoot-them-down.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e4345fa8-c1ec-11ed-ab6b-02420a000194.webp",
-                "width": 512
-            },
-            {
                 "caption": "Losing a life",
                 "height": 384,
                 "image_url": "https://cdn.mobygames.com/screenshots/16294604-sphera-sam-coupe-losing-a-life.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/e3fb288c-c1ec-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Title screen",
+                "height": 384,
+                "image_url": "https://cdn.mobygames.com/screenshots/16294595-sphera-sam-coupe-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e3ac537e-c1ec-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Starting out",
+                "height": 384,
+                "image_url": "https://cdn.mobygames.com/screenshots/16294592-sphera-sam-coupe-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e39332ea-c1ec-11ed-ab6b-02420a000194.webp",
                 "width": 512
             }
         ],
@@ -182,6 +182,13 @@
                 "image_url": "https://cdn.mobygames.com/screenshots/7972768-manic-miner-sam-coupe-central-cavern-updated-original-level-appe.jpg",
                 "thumbnail_image_url": "https://cdn.mobygames.com/7dd6503e-abfa-11ed-9899-02420a000134.webp",
                 "width": 720
+            },
+            {
+                "caption": "The Control Room - from the third level of the game.",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16576179-manic-miner-sam-coupe-the-control-room-from-the-third-level-of-t.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/03c7c6fe-c245-11ed-ab6b-02420a000194.webp",
+                "width": 576
             },
             {
                 "caption": "Front screen - with 3 different level selections available",
@@ -277,24 +284,31 @@
         },
         "sample_screenshots": [
             {
-                "caption": "...or you'll face the spikes",
+                "caption": "Cave entrance",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16406555-boing-sam-coupe-or-youll-face-the-spikes.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b7ce7e38-c211-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16406750-boing-sam-coupe-cave-entrance.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c6238ea6-c211-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
-                "caption": "Facing an evil floppy disk",
+                "caption": "Platforming up in the sky",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16406567-boing-sam-coupe-facing-an-evil-floppy-disk.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b828d306-c211-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16406753-boing-sam-coupe-platforming-up-in-the-sky.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c6397356-c211-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
-                "caption": "Important to choose the right pit to jump down into...",
+                "caption": "Using an elevator",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16406546-boing-sam-coupe-important-to-choose-the-right-pit-to-jump-down-i.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b788afb6-c211-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16406756-boing-sam-coupe-using-an-elevator.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c65033f2-c211-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Teleporters",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16406549-boing-sam-coupe-teleporters.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b79fd754-c211-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -302,13 +316,6 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16406564-boing-sam-coupe-flying-fish.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/b811bcfc-c211-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "A jumping nasty",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16406558-boing-sam-coupe-a-jumping-nasty.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b7e59bae-c211-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -398,10 +405,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Intro - news report",
+                "caption": "Intro - Briefing",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16447300-exodus-sam-coupe-intro-news-report.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ccb2a6b0-c21d-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16445924-exodus-sam-coupe-intro-briefing.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/60c37e84-c21d-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -412,24 +419,24 @@
                 "width": 256
             },
             {
-                "caption": "Getting killed",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16460509-exodus-sam-coupe-getting-killed.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8d2b8fda-c221-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Respawning after getting killed",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16447297-exodus-sam-coupe-respawning-after-getting-killed.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cc981ec6-c21d-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "Multi-directional fire",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16446341-exodus-sam-coupe-multi-directional-fire.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/7e580988-c21d-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Title screen",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16445921-exodus-sam-coupe-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/60ad6cb6-c21d-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Two player game",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16446430-exodus-sam-coupe-two-player-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/85b364ac-c21d-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -492,24 +499,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Stage 6: Moebius is flashing white because he was hit",
+                "caption": "Instructions screen",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16429484-the-lost-disks-of-sam-sam-coupe-stage-6-moebius-is-flashing-whit.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9718a75c-c218-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "First disk collected",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16429427-the-lost-disks-of-sam-sam-coupe-first-disk-collected.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/943ec4bc-c218-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Starting out",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16429430-the-lost-disks-of-sam-sam-coupe-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9457a57c-c218-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16429433-the-lost-disks-of-sam-sam-coupe-instructions-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/94751a12-c218-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -520,10 +513,24 @@
                 "width": 256
             },
             {
-                "caption": "Instructions screen",
+                "caption": "First disk collected",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16429433-the-lost-disks-of-sam-sam-coupe-instructions-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/94751a12-c218-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16429427-the-lost-disks-of-sam-sam-coupe-first-disk-collected.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/943ec4bc-c218-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Select underwear",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16429610-the-lost-disks-of-sam-sam-coupe-select-underwear.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9e3b4850-c218-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Stage 5",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16429472-the-lost-disks-of-sam-sam-coupe-stage-5.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/96b41ad0-c218-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -611,17 +618,10 @@
                 "width": 256
             },
             {
-                "caption": "Remove a tile",
+                "caption": "Eating away at the stack",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16450981-shanghai-sam-coupe-remove-a-tile.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/dc090ebe-c21e-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Select layout",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16388570-shanghai-sam-coupe-select-layout.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/04cd92e2-c20c-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16386904-shanghai-sam-coupe-eating-away-at-the-stack.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/91317970-c20b-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -632,10 +632,17 @@
                 "width": 256
             },
             {
-                "caption": "Loading screen",
+                "caption": "Almost done",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16450987-shanghai-sam-coupe-loading-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/dd0f5c14-c21e-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16452169-shanghai-sam-coupe-almost-done.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2096047e-c21f-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Remove a tile",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16450981-shanghai-sam-coupe-remove-a-tile.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dc090ebe-c21e-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -707,24 +714,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Starting out",
+                "caption": "Getting a high score",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15907880-snake-mania-sam-coupe-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b6a878e6-bf0b-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Level 3",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15906871-snake-mania-sam-coupe-level-3.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/591bc62e-bf0b-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Get ready!",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15907907-snake-mania-sam-coupe-get-ready.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b7a62392-bf0b-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15906820-snake-mania-sam-coupe-getting-a-high-score.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5381a648-bf0b-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
@@ -735,10 +728,24 @@
                 "width": 256
             },
             {
-                "caption": "Level completed",
+                "caption": "Starting out",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15906919-snake-mania-sam-coupe-level-completed.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5cee7a76-bf0b-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15907880-snake-mania-sam-coupe-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b6a878e6-bf0b-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Snake grows as it eats dots",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/15907862-snake-mania-sam-coupe-snake-grows-as-it-eats-dots.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b5d93da6-bf0b-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Level 2",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/15906889-snake-mania-sam-coupe-level-2.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5a9e665a-bf0b-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -797,7 +804,7 @@
         "id": 77341,
         "moby_score": null,
         "moby_url": "https://www.mobygames.com/game/77341/craft/",
-        "num_votes": 0,
+        "num_votes": 1,
         "official_url": null,
         "platforms": [
             [
@@ -819,17 +826,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Time is up",
+                "caption": "Level 40",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15907043-craft-sam-coupe-time-is-up.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/64e4eecc-bf0b-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Level 2",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15907067-craft-sam-coupe-level-2.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/65da18b6-bf0b-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15907253-craft-sam-coupe-level-40.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/722ec300-bf0b-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
@@ -840,17 +840,24 @@
                 "width": 256
             },
             {
+                "caption": "Level 50",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/15906961-craft-sam-coupe-level-50.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5fa14b68-bf0b-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Getting a score",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/15907088-craft-sam-coupe-getting-a-score.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/670cd53e-bf0b-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
                 "caption": "Almost completed puzzle",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/15906967-craft-sam-coupe-almost-completed-puzzle.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/5fdb3c38-bf0b-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Title screen",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15907178-craft-sam-coupe-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6d98441a-bf0b-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -1017,24 +1024,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The Viking Game - Title screen",
+                "caption": "The Viking Game - start of game",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15907163-impatience-sam-coupe-the-viking-game-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6d048194-bf0b-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "The Viking Game - instructions",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15907139-impatience-sam-coupe-the-viking-game-instructions.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6b4df862-bf0b-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "The Viking Game - game in progress",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15907109-impatience-sam-coupe-the-viking-game-game-in-progress.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/68a02a4a-bf0b-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15907190-impatience-sam-coupe-the-viking-game-start-of-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6e30fa16-bf0b-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
@@ -1045,10 +1038,24 @@
                 "width": 256
             },
             {
-                "caption": "The Viking Game - Black wins",
+                "caption": "Triltex - Level 1",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15907091-impatience-sam-coupe-the-viking-game-black-wins.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/672b5662-bf0b-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15907331-impatience-sam-coupe-triltex-level-1.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7777571e-bf0b-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Triltex - Game over",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/15907223-impatience-sam-coupe-triltex-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7109982e-bf0b-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "The Viking Game - instructions",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/15907139-impatience-sam-coupe-the-viking-game-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6b4df862-bf0b-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -1138,38 +1145,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Fireballs or something",
+                "caption": "Get ready again",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15923713-parallax-sam-coupe-fireballs-or-something.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/277f0298-bf10-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15907919-parallax-sam-coupe-get-ready-again.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b9477b7e-bf0b-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "Main menu",
+                "caption": "Another one coming in a different formation",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15923596-parallax-sam-coupe-main-menu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1eb9096a-bf10-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15923971-parallax-sam-coupe-another-one-coming-in-a-different-formation.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3d786044-bf10-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "First wave of enemies",
+                "caption": "Game over",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15923545-parallax-sam-coupe-first-wave-of-enemies.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1b0e8998-bf10-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15908042-parallax-sam-coupe-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c03d6a6a-bf0b-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "Now I can fire two shots",
+                "caption": "Some fly in straight lines",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15907844-parallax-sam-coupe-now-i-can-fire-two-shots.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b40d12e0-bf0b-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15923794-parallax-sam-coupe-some-fly-in-straight-lines.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2e57d0f4-bf10-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "First boss fight",
+                "caption": "Alert!",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15907985-parallax-sam-coupe-first-boss-fight.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bcb8b020-bf0b-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15908015-parallax-sam-coupe-alert.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/be1dc90a-bf0b-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -1250,20 +1257,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Story, page 3",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16074671-the-witching-hour-sam-coupe-story-page-3.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/64f9af4c-bf6a-11ed-9521-02420a000152.webp",
-                "width": 256
-            },
-            {
-                "caption": "Story, page 2",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16051771-the-witching-hour-sam-coupe-story-page-2.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8ceeca68-bf39-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
                 "caption": "Meeting a demon",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16052128-the-witching-hour-sam-coupe-meeting-a-demon.png",
@@ -1271,10 +1264,17 @@
                 "width": 256
             },
             {
-                "caption": "There's a ghost in the basement",
+                "caption": "In the church tower",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16051933-the-witching-hour-sam-coupe-theres-a-ghost-in-the-basement.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/977f617c-bf39-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16051555-the-witching-hour-sam-coupe-in-the-church-tower.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7d6d8c64-bf39-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "All interactions are done with this menu",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16051576-the-witching-hour-sam-coupe-all-interactions-are-done-with-this-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7e6eaa44-bf39-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
@@ -1282,6 +1282,13 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16051894-the-witching-hour-sam-coupe-entering-the-church.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/93a41430-bf39-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Character selection",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16051735-the-witching-hour-sam-coupe-character-selection.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8af0f830-bf39-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],

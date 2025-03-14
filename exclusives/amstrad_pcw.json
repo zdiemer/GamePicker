@@ -65,10 +65,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Playing on level 1",
+                "caption": "About",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16793449-find-that-mine-amstrad-pcw-playing-on-level-1.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f2bcbaf6-c382-11ed-9226-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16793443-find-that-mine-amstrad-pcw-about.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f195055c-c382-11ed-9226-02420a000121.webp",
                 "width": 720
             },
             {
@@ -79,6 +79,13 @@
                 "width": 720
             },
             {
+                "caption": "Game clear",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/16793446-find-that-mine-amstrad-pcw-game-clear.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f1bfab5e-c382-11ed-9226-02420a000121.webp",
+                "width": 720
+            },
+            {
                 "caption": "Game over",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/16793452-find-that-mine-amstrad-pcw-game-over.png",
@@ -86,17 +93,10 @@
                 "width": 720
             },
             {
-                "caption": "Choose level",
+                "caption": "Playing on level 1",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16793422-find-that-mine-amstrad-pcw-choose-level.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f068909a-c382-11ed-9226-02420a000121.webp",
-                "width": 720
-            },
-            {
-                "caption": "Game clear",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16793446-find-that-mine-amstrad-pcw-game-clear.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f1bfab5e-c382-11ed-9226-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16793449-find-that-mine-amstrad-pcw-playing-on-level-1.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f2bcbaf6-c382-11ed-9226-02420a000121.webp",
                 "width": 720
             }
         ],
@@ -168,17 +168,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Main menu",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/6212690-heathrow-air-traffic-control-southern-belle-amstrad-pcw-main-men.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bcc08f98-abec-11ed-9899-02420a000134.webp",
-                "width": 720
-            },
-            {
                 "caption": "Demonstration mode",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/6212687-heathrow-air-traffic-control-southern-belle-amstrad-pcw-demonstr.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/bc5ff3cc-abec-11ed-9899-02420a000134.webp",
+                "width": 720
+            },
+            {
+                "caption": "Main menu",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/6212690-heathrow-air-traffic-control-southern-belle-amstrad-pcw-main-men.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bcc08f98-abec-11ed-9899-02420a000134.webp",
                 "width": 720
             }
         ],
@@ -241,38 +241,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Hopp-It! - game over",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/3999441-classic-collection-amstrad-pcw-hopp-it-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5354f818-aba2-11ed-91fb-02420a00019f.webp",
-                "width": 720
-            },
-            {
-                "caption": "Munch-It! - eating the power pill",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/4000698-classic-collection-amstrad-pcw-munch-it-eating-the-power-pill.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5ef796bc-aba2-11ed-89d0-02420a00019d.webp",
-                "width": 720
-            },
-            {
-                "caption": "Shoot-It! - game over",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/4000290-classic-collection-amstrad-pcw-shoot-it-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5aa4f726-aba2-11ed-89d0-02420a00019d.webp",
-                "width": 720
-            },
-            {
-                "caption": "Loading screen",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/3998908-classic-collection-amstrad-pcw-loading-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4e90f6ba-aba2-11ed-89d0-02420a00019d.webp",
-                "width": 720
-            },
-            {
                 "caption": "Shoot-It! - starting out",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/3999603-classic-collection-amstrad-pcw-shoot-it-starting-out.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/54a44b38-aba2-11ed-89d0-02420a00019d.webp",
+                "width": 720
+            },
+            {
+                "caption": "Hopp-It! - starting out",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/3999216-classic-collection-amstrad-pcw-hopp-it-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/51619a5c-aba2-11ed-91fb-02420a00019f.webp",
+                "width": 720
+            },
+            {
+                "caption": "Hopp-It! - moving over the river (the frog is a bit hard to see here)",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/4000054-classic-collection-amstrad-pcw-hopp-it-moving-over-the-river-the.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/58b641cc-aba2-11ed-81e3-02420a000199.webp",
+                "width": 720
+            },
+            {
+                "caption": "Menu",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/3999388-classic-collection-amstrad-pcw-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/52a7d73c-aba2-11ed-89d0-02420a00019d.webp",
+                "width": 720
+            },
+            {
+                "caption": "Shoot-It! - getting killed",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/4000017-classic-collection-amstrad-pcw-shoot-it-getting-killed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/584e9e78-aba2-11ed-89d0-02420a00019d.webp",
                 "width": 720
             }
         ],
@@ -344,10 +344,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Climb-It - jumping a barrel",
+                "caption": "Climb-It - second stage",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/4002644-classic-collection-vol-2-amstrad-pcw-climb-it-jumping-a-barrel.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/705bcd24-aba2-11ed-8d2b-02420a00019e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/4001805-classic-collection-vol-2-amstrad-pcw-climb-it-second-stage.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/68a715d4-aba2-11ed-8d2b-02420a00019e.webp",
+                "width": 720
+            },
+            {
+                "caption": "Ski-ing - starting out",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/4004276-classic-collection-vol-2-amstrad-pcw-ski-ing-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7ee18ac8-aba2-11ed-9d80-02420a00019a.webp",
+                "width": 720
+            },
+            {
+                "caption": "Main menu",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/4001538-classic-collection-vol-2-amstrad-pcw-main-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6633056a-aba2-11ed-9d05-02420a000198.webp",
                 "width": 720
             },
             {
@@ -358,24 +372,10 @@
                 "width": 720
             },
             {
-                "caption": "Caverns - enemies are not smart enough to avoid crashing into the rocks",
+                "caption": "Caverns - shooting some enemies",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/4002769-classic-collection-vol-2-amstrad-pcw-caverns-enemies-are-not-sma.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/71806f16-aba2-11ed-9d05-02420a000198.webp",
-                "width": 720
-            },
-            {
-                "caption": "Climb-It - reaching the girl",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/4001604-classic-collection-vol-2-amstrad-pcw-climb-it-reaching-the-girl.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/66c2aeb8-aba2-11ed-8d2b-02420a00019e.webp",
-                "width": 720
-            },
-            {
-                "caption": "Loading screen",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/4001740-classic-collection-vol-2-amstrad-pcw-loading-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/67d5a9b8-aba2-11ed-9d05-02420a000198.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/4002129-classic-collection-vol-2-amstrad-pcw-caverns-shooting-some-enemi.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6bcac0bc-aba2-11ed-9d05-02420a000198.webp",
                 "width": 720
             }
         ],
@@ -465,17 +465,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Game start",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/6263567-3-d-clock-chess-amstrad-pcw-game-start.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2387c084-abed-11ed-8d66-02420a000132.webp",
-                "width": 720
-            },
-            {
                 "caption": "During the game",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/6263564-3-d-clock-chess-amstrad-pcw-during-the-game.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/234a5014-abed-11ed-8d66-02420a000132.webp",
+                "width": 720
+            },
+            {
+                "caption": "Game start",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/6263567-3-d-clock-chess-amstrad-pcw-game-start.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2387c084-abed-11ed-8d66-02420a000132.webp",
                 "width": 720
             },
             {
@@ -572,13 +572,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title screen",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/6263047-2048-amstrad-pcw-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/246208ca-abed-11ed-9915-02420a000134.webp",
-                "width": 720
-            },
-            {
                 "caption": "Game start",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/6263573-2048-amstrad-pcw-game-start.png",
@@ -586,10 +579,10 @@
                 "width": 720
             },
             {
-                "caption": "Gathered some points",
+                "caption": "Title screen",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/6263570-2048-amstrad-pcw-gathered-some-points.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/23c4cc0e-abed-11ed-8d66-02420a000132.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/6263047-2048-amstrad-pcw-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/246208ca-abed-11ed-9915-02420a000134.webp",
                 "width": 720
             },
             {
@@ -597,6 +590,13 @@
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/6263552-2048-amstrad-pcw-the-board-is-full.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/21039d24-abed-11ed-8d66-02420a000132.webp",
+                "width": 720
+            },
+            {
+                "caption": "Gathered some points",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/6263570-2048-amstrad-pcw-gathered-some-points.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/23c4cc0e-abed-11ed-8d66-02420a000132.webp",
                 "width": 720
             }
         ],
@@ -677,13 +677,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Instructions",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/6263041-apple-jack-amstrad-pcw-instructions.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/24069cf6-abed-11ed-9915-02420a000134.webp",
-                "width": 720
-            },
-            {
                 "caption": "Title screen",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/6263020-apple-jack-amstrad-pcw-title-screen.png",
@@ -691,17 +684,24 @@
                 "width": 720
             },
             {
-                "caption": "Game start",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/6263032-apple-jack-amstrad-pcw-game-start.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2309e01a-abed-11ed-9915-02420a000134.webp",
-                "width": 720
-            },
-            {
                 "caption": "First wave completed. Round 2: now with more bombs",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/6263017-apple-jack-amstrad-pcw-first-wave-completed-round-2-now-with-mor.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/2051338c-abed-11ed-9915-02420a000134.webp",
+                "width": 720
+            },
+            {
+                "caption": "Instructions",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/6263041-apple-jack-amstrad-pcw-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/24069cf6-abed-11ed-9915-02420a000134.webp",
+                "width": 720
+            },
+            {
+                "caption": "Game start",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/6263032-apple-jack-amstrad-pcw-game-start.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2309e01a-abed-11ed-9915-02420a000134.webp",
                 "width": 720
             }
         ],

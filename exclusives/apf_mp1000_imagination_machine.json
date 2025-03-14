@@ -83,17 +83,17 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Menu",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16261502-catena-apf-mp1000imagination-machine-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2c8cb260-c1e2-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
                 "caption": "Move being made",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16261493-catena-apf-mp1000imagination-machine-move-being-made.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/2c4004ce-c1e2-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Start of game",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16261499-catena-apf-mp1000imagination-machine-start-of-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2c71cff4-c1e2-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -104,10 +104,10 @@
                 "width": 256
             },
             {
-                "caption": "Menu",
+                "caption": "Start of game",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16261502-catena-apf-mp1000imagination-machine-menu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2c8cb260-c1e2-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16261499-catena-apf-mp1000imagination-machine-start-of-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2c71cff4-c1e2-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -188,17 +188,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Punching the opponent",
+                "caption": "Menu",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16267093-boxing-apf-mp1000imagination-machine-punching-the-opponent.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f3573a22-c1e3-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Knockout win",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16267096-boxing-apf-mp1000imagination-machine-knockout-win.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f378c840-c1e3-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16267102-boxing-apf-mp1000imagination-machine-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f3ab68ae-c1e3-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -209,10 +202,17 @@
                 "width": 256
             },
             {
-                "caption": "Menu",
+                "caption": "Knockout win",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16267102-boxing-apf-mp1000imagination-machine-menu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f3ab68ae-c1e3-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16267096-boxing-apf-mp1000imagination-machine-knockout-win.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f378c840-c1e3-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Punching the opponent",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16267093-boxing-apf-mp1000imagination-machine-punching-the-opponent.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f3573a22-c1e3-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -309,13 +309,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Space ship being destroyed (UFO I)",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/7250407-ufosea-monstersbreak-it-downrebuildshoot-with-variations-apf-mp1.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d97a1552-abf4-11ed-92cb-02420a000132.webp",
-                "width": 256
-            },
-            {
                 "caption": "Rebuild",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/7250404-ufosea-monstersbreak-it-downrebuildshoot-with-variations-apf-mp1.png",
@@ -323,10 +316,17 @@
                 "width": 256
             },
             {
-                "caption": "Sea Monsters",
+                "caption": "Space ship being destroyed (UFO I)",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/7250195-ufosea-monstersbreak-it-downrebuildshoot-with-variations-apf-mp1.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/dd72e490-abf4-11ed-962d-02420a000135.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/7250407-ufosea-monstersbreak-it-downrebuildshoot-with-variations-apf-mp1.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d97a1552-abf4-11ed-92cb-02420a000132.webp",
+                "width": 256
+            },
+            {
+                "caption": "Menu",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/7250413-ufosea-monstersbreak-it-downrebuildshoot-with-variations-apf-mp1.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d9c26f6e-abf4-11ed-92cb-02420a000132.webp",
                 "width": 256
             },
             {
@@ -337,10 +337,10 @@
                 "width": 256
             },
             {
-                "caption": "UFO II",
+                "caption": "Break It Down",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/7250198-ufosea-monstersbreak-it-downrebuildshoot-with-variations-apf-mp1.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/dea20918-abf4-11ed-962d-02420a000135.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/7250192-ufosea-monstersbreak-it-downrebuildshoot-with-variations-apf-mp1.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dd50c3b0-abf4-11ed-962d-02420a000135.webp",
                 "width": 256
             }
         ],
@@ -421,24 +421,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Winning some money (Slots)",
+                "caption": "Placing bets (Roulette)",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/7252931-casino-1-roulettekenoslots-apf-mp1000imagination-machine-winning.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e0beb610-abf4-11ed-aca6-02420a000132.webp",
-                "width": 256
-            },
-            {
-                "caption": "Start of game (Keno)",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/7252940-casino-1-roulettekenoslots-apf-mp1000imagination-machine-start-o.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e1645afc-abf4-11ed-aca6-02420a000132.webp",
-                "width": 256
-            },
-            {
-                "caption": "Menu",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/7253590-casino-1-roulettekenoslots-apf-mp1000imagination-machine-menu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/dddd4fa6-abf4-11ed-893a-02420a00012f.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/7252946-casino-1-roulettekenoslots-apf-mp1000imagination-machine-placing.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e1c88c98-abf4-11ed-aca6-02420a000132.webp",
                 "width": 256
             },
             {
@@ -449,10 +435,24 @@
                 "width": 256
             },
             {
-                "caption": "Entering numbers (Keno)",
+                "caption": "Showing the winning numbers (Roulette)",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/7260834-casino-1-roulettekenoslots-apf-mp1000imagination-machine-enterin.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f033038a-abf4-11ed-803a-02420a000131.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/7252943-casino-1-roulettekenoslots-apf-mp1000imagination-machine-showing.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e1a0e8c8-abf4-11ed-aca6-02420a000132.webp",
+                "width": 256
+            },
+            {
+                "caption": "Winning some money (Slots)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/7252931-casino-1-roulettekenoslots-apf-mp1000imagination-machine-winning.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e0beb610-abf4-11ed-aca6-02420a000132.webp",
+                "width": 256
+            },
+            {
+                "caption": "Menu",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/7253590-casino-1-roulettekenoslots-apf-mp1000imagination-machine-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dddd4fa6-abf4-11ed-893a-02420a00012f.webp",
                 "width": 256
             }
         ],

@@ -83,10 +83,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Starting out",
+                "caption": "Turning a corner",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16413098-wordmaze-sord-m5-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b779ff0a-c213-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16413095-wordmaze-sord-m5-turning-a-corner.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b763f124-c213-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "The first word",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16413116-wordmaze-sord-m5-the-first-word.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b8088c70-c213-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -97,24 +104,17 @@
                 "width": 256
             },
             {
-                "caption": "Turning a corner",
+                "caption": "Starting out",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16413095-wordmaze-sord-m5-turning-a-corner.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b763f124-c213-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16413098-wordmaze-sord-m5-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b779ff0a-c213-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
-                "caption": "Getting this one right",
+                "caption": "The bomb starts ticking",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16413113-wordmaze-sord-m5-getting-this-one-right.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b7f239a2-c213-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "The first word",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16413116-wordmaze-sord-m5-the-first-word.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b8088c70-c213-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16413101-wordmaze-sord-m5-the-bomb-starts-ticking.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b79189fe-c213-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -177,10 +177,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Almost there",
+                "caption": "Starting out",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16482484-jumping-jack-sord-m5-almost-there.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/99890a86-c227-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16482496-jumping-jack-sord-m5-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9ac2dfa8-c227-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Game over",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16482487-jumping-jack-sord-m5-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/99a4a30e-c227-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -191,24 +198,17 @@
                 "width": 256
             },
             {
-                "caption": "Reached the first platform, but watch out for the hole",
+                "caption": "Fell down at the top",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16482994-jumping-jack-sord-m5-reached-the-first-platform-but-watch-out-fo.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bc56b28e-c227-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16482481-jumping-jack-sord-m5-fell-down-at-the-top.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/997140b8-c227-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
-                "caption": "Loading screen",
+                "caption": "Almost there",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16482502-jumping-jack-sord-m5-loading-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9af2bc46-c227-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Game over",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16482487-jumping-jack-sord-m5-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/99a4a30e-c227-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16482484-jumping-jack-sord-m5-almost-there.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/99890a86-c227-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -280,10 +280,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Almost full",
+                "caption": "Catching a drop",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16450108-drops-sord-m5-almost-full.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9a4bec08-c21e-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16450111-drops-sord-m5-catching-a-drop.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9a620308-c21e-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -291,6 +291,13 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16450105-drops-sord-m5-round-3.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/9a32d2f4-c21e-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Title screen",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16450126-drops-sord-m5-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9ad2a77a-c21e-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -305,13 +312,6 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16450120-drops-sord-m5-the-rain-comes-falling.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/9aa4cf62-c21e-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Starting out",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16450123-drops-sord-m5-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9abe6aa8-c21e-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -410,17 +410,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Human player wins by knock out!",
+                "caption": "Title screen.",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/18759321-heavy-boxing-msx-human-player-wins-by-knock-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/846001a8-2709-11ef-a148-02420a0001c5.webp",
-                "width": 256
-            },
-            {
-                "caption": "Round 1 begins.",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/18759313-heavy-boxing-msx-round-1-begins.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/836d12ae-2709-11ef-a148-02420a0001c5.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/18759309-heavy-boxing-msx-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/830634c6-2709-11ef-aac4-02420a0001c2.webp",
                 "width": 256
             },
             {
@@ -431,10 +424,17 @@
                 "width": 256
             },
             {
-                "caption": "Title screen.",
+                "caption": "Round 1 begins.",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/18759309-heavy-boxing-msx-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/830634c6-2709-11ef-aac4-02420a0001c2.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/18759313-heavy-boxing-msx-round-1-begins.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/836d12ae-2709-11ef-a148-02420a0001c5.webp",
+                "width": 256
+            },
+            {
+                "caption": "Human player wins by knock out!",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/18759321-heavy-boxing-msx-human-player-wins-by-knock-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/846001a8-2709-11ef-a148-02420a0001c5.webp",
                 "width": 256
             }
         ],

@@ -74,17 +74,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Got hit, ship is exploding",
+                "caption": "Incoming missile",
                 "height": 232,
-                "image_url": "https://cdn.mobygames.com/screenshots/16283570-battle-ace-supergrafx-got-hit-ship-is-exploding.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7fc29f9c-c1e9-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Act 1",
-                "height": 232,
-                "image_url": "https://cdn.mobygames.com/screenshots/16233519-battle-ace-supergrafx-act-1.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cce8ef52-c1d9-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16283573-battle-ace-supergrafx-incoming-missile.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7fdacca2-c1e9-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -95,17 +88,24 @@
                 "width": 256
             },
             {
+                "caption": "Act 2",
+                "height": 232,
+                "image_url": "https://cdn.mobygames.com/screenshots/16283582-battle-ace-supergrafx-act-2.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8035f1f4-c1e9-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Got hit, ship is exploding",
+                "height": 232,
+                "image_url": "https://cdn.mobygames.com/screenshots/16283570-battle-ace-supergrafx-got-hit-ship-is-exploding.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7fc29f9c-c1e9-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
                 "caption": "Now avoiding pillars of energy",
                 "height": 232,
                 "image_url": "https://cdn.mobygames.com/screenshots/16283576-battle-ace-supergrafx-now-avoiding-pillars-of-energy.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/7ffb3514-c1e9-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Icy asteroids",
-                "height": 232,
-                "image_url": "https://cdn.mobygames.com/screenshots/16283585-battle-ace-supergrafx-icy-asteroids.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/81099392-c1e9-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -213,27 +213,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Aaw, robot bunny!",
-                "height": 232,
-                "image_url": "https://cdn.mobygames.com/screenshots/16261909-mado-king-granzort-supergrafx-aaw-robot-bunny.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/471b7102-c1e2-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Starting off",
-                "height": 232,
-                "image_url": "https://cdn.mobygames.com/screenshots/16261906-mado-king-granzort-supergrafx-starting-off.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/46f789e0-c1e2-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Some items can be reached by using the levitation ability.",
-                "height": 232,
-                "image_url": "https://cdn.mobygames.com/screenshots/16283690-mado-king-granzort-supergrafx-some-items-can-be-reached-by-using.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8e0d6e74-c1e9-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "The second boss",
                 "height": 232,
                 "image_url": "https://cdn.mobygames.com/screenshots/16283234-mado-king-granzort-supergrafx-the-second-boss.png",
@@ -245,6 +224,27 @@
                 "height": 232,
                 "image_url": "https://cdn.mobygames.com/screenshots/16261912-mado-king-granzort-supergrafx-the-first-boss.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/473e7f4e-c1e2-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Aaw, robot bunny!",
+                "height": 232,
+                "image_url": "https://cdn.mobygames.com/screenshots/16261909-mado-king-granzort-supergrafx-aaw-robot-bunny.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/471b7102-c1e2-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Title screen",
+                "height": 232,
+                "image_url": "https://cdn.mobygames.com/screenshots/16261903-mado-king-granzort-supergrafx-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/46d9b956-c1e2-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "The third level is more of a maze.",
+                "height": 232,
+                "image_url": "https://cdn.mobygames.com/screenshots/16261991-mado-king-granzort-supergrafx-the-third-level-is-more-of-a-maze.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4c07ee5c-c1e2-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],

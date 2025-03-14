@@ -1,6 +1,6 @@
 from game_grouping import GameGrouping
 from game_selector import GameSelector
-
+from picker_enums import PickerMode
 
 ALPHABETICAL = GameSelector(
     lambda gs: sorted(
@@ -15,4 +15,5 @@ ALPHABETICAL = GameSelector(
             else "#" if g.normal_title[0].isdigit() else "?"
         )
     ),
+    run_on_modes=set([PickerMode.ALL]),
 )

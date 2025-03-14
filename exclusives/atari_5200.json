@@ -83,24 +83,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "A clue! the last letter in the code is O",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/1243285-countermeasure-atari-5200-a-clue-the-last-letter-in-the-code-is-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/81c1ce4e-ab73-11ed-beab-02420a000199.webp",
-                "width": 336
-            },
-            {
                 "caption": "Atari logo and game title",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/1242198-countermeasure-atari-5200-atari-logo-and-game-title.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/7f5b107a-ab73-11ed-beab-02420a000199.webp",
-                "width": 336
-            },
-            {
-                "caption": "Level complete, now on to the next one!",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/1243061-countermeasure-atari-5200-level-complete-now-on-to-the-next-one.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8139696e-ab73-11ed-beab-02420a000199.webp",
                 "width": 336
             },
             {
@@ -111,10 +97,24 @@
                 "width": 336
             },
             {
-                "caption": "Watch out for those pillboxes guarding the silos!",
+                "caption": "Level complete, now on to the next one!",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/1242690-countermeasure-atari-5200-watch-out-for-those-pillboxes-guarding.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/804fb3be-ab73-11ed-beab-02420a000199.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/1243061-countermeasure-atari-5200-level-complete-now-on-to-the-next-one.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8139696e-ab73-11ed-beab-02420a000199.webp",
+                "width": 336
+            },
+            {
+                "caption": "Entering the war room; guess the proper code quickly!",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/1242798-countermeasure-atari-5200-entering-the-war-room-guess-the-proper.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/80966228-ab73-11ed-beab-02420a000199.webp",
+                "width": 336
+            },
+            {
+                "caption": "Title screen",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/1242314-countermeasure-atari-5200-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7f930a84-ab73-11ed-beab-02420a000199.webp",
                 "width": 336
             }
         ],
@@ -209,10 +209,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Game over",
+                "caption": "Title screen",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/2036086-meteorites-atari-5200-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9cbfa6ba-ab7a-11ed-99ae-02420a00019e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/1108191-meteorites-atari-5200-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6ede4678-ab72-11ed-9e47-02420a00019f.webp",
                 "width": 336
             },
             {
@@ -230,10 +230,10 @@
                 "width": 336
             },
             {
-                "caption": "Title screen",
+                "caption": "Game over",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/1108191-meteorites-atari-5200-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6ede4678-ab72-11ed-9e47-02420a00019f.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2036086-meteorites-atari-5200-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9cbfa6ba-ab7a-11ed-99ae-02420a00019e.webp",
                 "width": 336
             }
         ],
@@ -312,13 +312,6 @@
                 "width": 336
             },
             {
-                "caption": "OK, now, how would I get the key all the way over THERE?",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/2976103-adventure-ii-atari-5200-ok-now-how-would-i-get-the-key-all-the-w.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2ae177a0-ab87-11ed-a519-02420a00019d.webp",
-                "width": 336
-            },
-            {
                 "caption": "Ahh, the Seeshore Kingdom\u2019s Castle never looked this good.",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/5078088-adventure-ii-atari-5200-ahh-the-seeshore-kingdoms-castle-never-l.png",
@@ -326,17 +319,24 @@
                 "width": 336
             },
             {
-                "caption": "The insides of the Seashore Kingdom's Castle.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/2977649-adventure-ii-atari-5200-the-insides-of-the-seashore-kingdoms-cas.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/30f4f928-ab87-11ed-b430-02420a0001a0.webp",
-                "width": 336
-            },
-            {
                 "caption": "Chased by the red dragon... who no longer looks like a duck!",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/5078227-adventure-ii-atari-5200-chased-by-the-red-dragon-who-no-longer-l.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/3a9384d6-abcd-11ed-9ab3-02420a0001a0.webp",
+                "width": 336
+            },
+            {
+                "caption": "Hmm.. I've seen this somewhere else... hmm, but where?",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/5078486-adventure-ii-atari-5200-hmm-ive-seen-this-somewhere-else-hmm-but.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3d5cb0a2-abcd-11ed-9ab3-02420a0001a0.webp",
+                "width": 336
+            },
+            {
+                "caption": "Another dragon.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/5078593-adventure-ii-atari-5200-another-dragon.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3eb0f512-abcd-11ed-9ab3-02420a0001a0.webp",
                 "width": 336
             }
         ],
@@ -417,10 +417,24 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Congratulations !!!! (now level 2 starts.)",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/3775681-koffi-yellow-kopter-atari-5200-congratulations-now-level-2-start.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a15a683e-ab9a-11ed-9201-02420a00019c.webp",
+                "width": 336
+            },
+            {
                 "caption": "I defeated Pyro's mom.",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/3779391-koffi-yellow-kopter-atari-5200-i-defeated-pyros-mom.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/c12daa4a-ab9a-11ed-96f9-02420a00019a.webp",
+                "width": 336
+            },
+            {
+                "caption": "Coniferous forest. I need to catch snowflakes.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/4586115-koffi-yellow-kopter-atari-5200-coniferous-forest-i-need-to-catch.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ca71e972-abb8-11ed-b6ee-02420a00019d.webp",
                 "width": 336
             },
             {
@@ -431,24 +445,10 @@
                 "width": 336
             },
             {
-                "caption": "Windy vines",
+                "caption": "Title screen and main menu",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/4586248-koffi-yellow-kopter-atari-5200-windy-vines.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cbc75ee2-abb8-11ed-b6ee-02420a00019d.webp",
-                "width": 336
-            },
-            {
-                "caption": "I defeated Pyro.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/4585837-koffi-yellow-kopter-atari-5200-i-defeated-pyro.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c734a678-abb8-11ed-b6ee-02420a00019d.webp",
-                "width": 336
-            },
-            {
-                "caption": "Mountain valley",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/3778600-koffi-yellow-kopter-atari-5200-mountain-valley.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ba57066c-ab9a-11ed-837d-02420a00019b.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/3778427-koffi-yellow-kopter-atari-5200-title-screen-and-main-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b90a3e8c-ab9a-11ed-837d-02420a00019b.webp",
                 "width": 336
             }
         ],
@@ -529,13 +529,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Atari logo and game title",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/2942732-castle-blast-atari-5200-atari-logo-and-game-title.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a08c0d22-ab86-11ed-9e47-02420a00019f.webp",
-                "width": 336
-            },
-            {
                 "caption": "Level 2. The Mothership blasted me.",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/304470-castle-blast-atari-5200-level-2-the-mothership-blasted-me.png",
@@ -543,10 +536,17 @@
                 "width": 336
             },
             {
-                "caption": "Title screen",
+                "caption": "Game over",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/3777446-castle-blast-atari-5200-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b03c1fbe-ab9a-11ed-a218-02420a00019e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/3778968-castle-blast-atari-5200-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bd36b792-ab9a-11ed-a218-02420a00019e.webp",
+                "width": 336
+            },
+            {
+                "caption": "Atari logo and game title",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/2942732-castle-blast-atari-5200-atari-logo-and-game-title.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a08c0d22-ab86-11ed-9e47-02420a00019f.webp",
                 "width": 336
             },
             {
@@ -557,10 +557,10 @@
                 "width": 336
             },
             {
-                "caption": "Game over",
+                "caption": "Title screen",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/3778968-castle-blast-atari-5200-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bd36b792-ab9a-11ed-a218-02420a00019e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/3777446-castle-blast-atari-5200-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b03c1fbe-ab9a-11ed-a218-02420a00019e.webp",
                 "width": 336
             }
         ],
@@ -804,13 +804,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Presents",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/3503983-combat-ii-advanced-atari-5200-presents.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/aee040fe-ab91-11ed-9505-02420a00019c.webp",
-                "width": 336
-            },
-            {
                 "caption": "MeanHamster Software Retro Division",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/3507666-combat-ii-advanced-atari-5200-meanhamster-software-retro-divisio.png",
@@ -822,6 +815,13 @@
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/3507867-combat-ii-advanced-atari-5200-combat-ii-advanced-title-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/cf1e872c-ab91-11ed-b6ee-02420a00019d.webp",
+                "width": 336
+            },
+            {
+                "caption": "Presents",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/3503983-combat-ii-advanced-atari-5200-presents.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/aee040fe-ab91-11ed-9505-02420a00019c.webp",
                 "width": 336
             }
         ],

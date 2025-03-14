@@ -83,10 +83,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Main menu.",
+                "caption": "Title screen.",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/15672437-shanghai-mini-neo-geo-pocket-color-main-menu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/29ad6eb0-bec0-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15672467-shanghai-mini-neo-geo-pocket-color-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2bf61e2e-bec0-11ed-9c42-02420a000140.webp",
+                "width": 160
+            },
+            {
+                "caption": "Dynasty Mode opponent select screen.",
+                "height": 152,
+                "image_url": "https://cdn.mobygames.com/screenshots/16528677-shanghai-mini-neo-geo-pocket-color-dynasty-mode-opponent-select-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fcd1f03c-c234-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Opponent sending over an attack.",
+                "height": 152,
+                "image_url": "https://cdn.mobygames.com/screenshots/16528683-shanghai-mini-neo-geo-pocket-color-opponent-sending-over-an-atta.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fcfbd8f2-c234-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -101,20 +115,6 @@
                 "height": 152,
                 "image_url": "https://cdn.mobygames.com/screenshots/16528710-shanghai-mini-neo-geo-pocket-color-classic-mode.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/016673e8-c235-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Dynasty Mode opponent select screen.",
-                "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16528677-shanghai-mini-neo-geo-pocket-color-dynasty-mode-opponent-select-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/fcd1f03c-c234-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Tournament mode has a time limit.",
-                "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16528740-shanghai-mini-neo-geo-pocket-color-tournament-mode-has-a-time-li.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/027ca0f4-c235-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -180,7 +180,7 @@
             }
         ],
         "id": 18299,
-        "moby_score": 8.6,
+        "moby_score": 8.5,
         "moby_url": "https://www.mobygames.com/game/18299/sonic-the-hedgehog-pocket-adventure/",
         "num_votes": 18,
         "official_url": null,
@@ -204,24 +204,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Killer fish",
+                "caption": "End of level",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16451134-sonic-the-hedgehog-pocket-adventure-neo-geo-pocket-color-killer-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e61438de-c21e-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Sonic finds your first enemy and starts a jump attack.",
-                "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/15671720-sonic-the-hedgehog-pocket-adventure-neo-geo-pocket-color-sonic-f.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e49c255a-bebf-11ed-9c42-02420a000140.webp",
-                "width": 160
-            },
-            {
-                "caption": "3D run",
-                "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16451122-sonic-the-hedgehog-pocket-adventure-neo-geo-pocket-color-3d-run.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e513f118-c21e-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16451137-sonic-the-hedgehog-pocket-adventure-neo-geo-pocket-color-end-of-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e62d8b72-c21e-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -232,10 +218,24 @@
                 "width": 160
             },
             {
-                "caption": "An \"unknown\" dark hedgehog shows the stage name.",
+                "caption": "In any Sonic game, the looping rules! ;-D",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/15671834-sonic-the-hedgehog-pocket-adventure-neo-geo-pocket-color-an-unkn.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f33ec63a-bebf-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15672443-sonic-the-hedgehog-pocket-adventure-neo-geo-pocket-color-in-any-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2ac8ab3e-bec0-11ed-9c42-02420a000140.webp",
+                "width": 160
+            },
+            {
+                "caption": "3D run",
+                "height": 152,
+                "image_url": "https://cdn.mobygames.com/screenshots/16451122-sonic-the-hedgehog-pocket-adventure-neo-geo-pocket-color-3d-run.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e513f118-c21e-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Killer fish",
+                "height": 152,
+                "image_url": "https://cdn.mobygames.com/screenshots/16451134-sonic-the-hedgehog-pocket-adventure-neo-geo-pocket-color-killer-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e61438de-c21e-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -352,10 +352,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Adjusting game options.",
+                "caption": "Title screen.",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/15736206-metal-slug-1st-mission-neo-geo-pocket-color-adjusting-game-optio.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ddc6931c-bed5-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15736185-metal-slug-1st-mission-neo-geo-pocket-color-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d8158234-bed5-11ed-9c42-02420a000140.webp",
                 "width": 160
             },
             {
@@ -366,10 +366,10 @@
                 "width": 160
             },
             {
-                "caption": "Title screen.",
+                "caption": "Adjusting game options.",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/15736185-metal-slug-1st-mission-neo-geo-pocket-color-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d8158234-bed5-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15736206-metal-slug-1st-mission-neo-geo-pocket-color-adjusting-game-optio.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ddc6931c-bed5-11ed-9c42-02420a000140.webp",
                 "width": 160
             }
         ],
@@ -468,24 +468,17 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Title screen (Japanese).",
+                "height": 152,
+                "image_url": "https://cdn.mobygames.com/screenshots/15673978-snk-vs-capcom-card-fighters-clash-snk-cardfighters-version-neo-g.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/95492682-bec0-11ed-9c42-02420a000140.webp",
+                "width": 160
+            },
+            {
                 "caption": "Heidern versus Nakoruru",
                 "height": 152,
                 "image_url": "https://cdn.mobygames.com/screenshots/16201916-snk-vs-capcom-card-fighters-clash-snk-cardfighters-version-neo-g.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/852f9e6c-c1d0-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Arranging the deck",
-                "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16201901-snk-vs-capcom-card-fighters-clash-snk-cardfighters-version-neo-g.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/84b13bbc-c1d0-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Main menu.",
-                "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/15673987-snk-vs-capcom-card-fighters-clash-snk-cardfighters-version-neo-g.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/959a445e-bec0-11ed-9c42-02420a000140.webp",
                 "width": 160
             },
             {
@@ -496,10 +489,17 @@
                 "width": 160
             },
             {
-                "caption": "Choosing cards",
+                "caption": "Map with places to visit",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16201913-snk-vs-capcom-card-fighters-clash-snk-cardfighters-version-neo-g.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8515297e-c1d0-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16201904-snk-vs-capcom-card-fighters-clash-snk-cardfighters-version-neo-g.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/84c986f4-c1d0-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Exploring the starting location",
+                "height": 152,
+                "image_url": "https://cdn.mobygames.com/screenshots/16202009-snk-vs-capcom-card-fighters-clash-snk-cardfighters-version-neo-g.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/89c22e72-c1d0-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -598,31 +598,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Term meaning screen",
+                "caption": "Title screen (Japanese).",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16200485-snk-vs-capcom-card-fighters-clash-capcom-cardfighters-version-ne.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/08ffaa4e-c1d0-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Choosing cards  - here is Jill from Resident Evil",
-                "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16200482-snk-vs-capcom-card-fighters-clash-capcom-cardfighters-version-ne.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/08e8999e-c1d0-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "After the first fight, I can move around",
-                "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16200491-snk-vs-capcom-card-fighters-clash-capcom-cardfighters-version-ne.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0a104d4e-c1d0-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Options of the card battle screen",
-                "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16200476-snk-vs-capcom-card-fighters-clash-capcom-cardfighters-version-ne.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/08b70410-c1d0-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15671507-snk-vs-capcom-card-fighters-clash-capcom-cardfighters-version-ne.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d6ac7b48-bebf-11ed-9c42-02420a000140.webp",
                 "width": 160
             },
             {
@@ -630,6 +609,27 @@
                 "height": 152,
                 "image_url": "https://cdn.mobygames.com/screenshots/15671510-snk-vs-capcom-card-fighters-clash-capcom-cardfighters-version-ne.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/d6c3e8c8-bebf-11ed-9c42-02420a000140.webp",
+                "width": 160
+            },
+            {
+                "caption": "Main menu.",
+                "height": 152,
+                "image_url": "https://cdn.mobygames.com/screenshots/15674290-snk-vs-capcom-card-fighters-clash-capcom-cardfighters-version-ne.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ad83b2d0-bec0-11ed-9c42-02420a000140.webp",
+                "width": 160
+            },
+            {
+                "caption": "Arranging the card deck",
+                "height": 152,
+                "image_url": "https://cdn.mobygames.com/screenshots/16200494-snk-vs-capcom-card-fighters-clash-capcom-cardfighters-version-ne.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0a263c30-c1d0-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Chin Gensai (from King of Fighters) enters the card ring",
+                "height": 152,
+                "image_url": "https://cdn.mobygames.com/screenshots/16200488-snk-vs-capcom-card-fighters-clash-capcom-cardfighters-version-ne.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/09172b38-c1d0-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -722,9 +722,9 @@
             }
         ],
         "id": 18722,
-        "moby_score": 8.2,
+        "moby_score": 8.3,
         "moby_url": "https://www.mobygames.com/game/18722/metal-slug-2nd-mission/",
-        "num_votes": 7,
+        "num_votes": 8,
         "official_url": null,
         "platforms": [
             [
@@ -746,38 +746,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Japanese version",
+                "caption": "In metal slug",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16451716-metal-slug-2nd-mission-neo-geo-pocket-color-japanese-version.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/077434b6-c21f-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16452394-metal-slug-2nd-mission-neo-geo-pocket-color-in-metal-slug.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2e6f2774-c21f-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "Game starts",
+                "caption": "Selecting a soldier.",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16451719-metal-slug-2nd-mission-neo-geo-pocket-color-game-starts.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/078cdee4-c21f-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15736299-metal-slug-2nd-mission-neo-geo-pocket-color-selecting-a-soldier.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e314b9b6-bed5-11ed-9c42-02420a000140.webp",
                 "width": 160
             },
             {
-                "caption": "Sniper hunts",
+                "caption": "Take a time in the Office to manage your mission status.",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16452391-metal-slug-2nd-mission-neo-geo-pocket-color-sniper-hunts.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2e58812c-c21f-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15736284-metal-slug-2nd-mission-neo-geo-pocket-color-take-a-time-in-the-o.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e296a8be-bed5-11ed-9c42-02420a000140.webp",
                 "width": 160
             },
             {
-                "caption": "Title screen.",
+                "caption": "Mission complete",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/15736269-metal-slug-2nd-mission-neo-geo-pocket-color-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e203f7ee-bed5-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16451704-metal-slug-2nd-mission-neo-geo-pocket-color-mission-complete.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/061caf12-c21f-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "In plane",
+                "caption": "Nice bazooka",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16452388-metal-slug-2nd-mission-neo-geo-pocket-color-in-plane.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2e442c68-c21f-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16451725-metal-slug-2nd-mission-neo-geo-pocket-color-nice-bazooka.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/07b9cd00-c21f-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -867,10 +867,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Castle and heroes",
+                "caption": "Defender",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16433747-densetsu-no-ogre-battle-zenobia-no-oji-neo-geo-pocket-color-cast.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/aa401792-c219-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16435028-densetsu-no-ogre-battle-zenobia-no-oji-neo-geo-pocket-color-defe.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fb017892-c219-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Units commands",
+                "height": 152,
+                "image_url": "https://cdn.mobygames.com/screenshots/16434008-densetsu-no-ogre-battle-zenobia-no-oji-neo-geo-pocket-color-unit.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b9a2bf46-c219-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Easy attack",
+                "height": 152,
+                "image_url": "https://cdn.mobygames.com/screenshots/16435469-densetsu-no-ogre-battle-zenobia-no-oji-neo-geo-pocket-color-easy.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1ed82d92-c21a-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -881,24 +895,10 @@
                 "width": 160
             },
             {
-                "caption": "Tarot's card",
+                "caption": "Battle field",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16435418-densetsu-no-ogre-battle-zenobia-no-oji-neo-geo-pocket-color-taro.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1bdae7d8-c21a-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Next chapter",
-                "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16433588-densetsu-no-ogre-battle-zenobia-no-oji-neo-geo-pocket-color-next.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a13e4c0e-c219-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "3 vs 5",
-                "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16436045-densetsu-no-ogre-battle-zenobia-no-oji-neo-geo-pocket-color-3-vs.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/42fb1a40-c21a-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16476013-densetsu-no-ogre-battle-zenobia-no-oji-neo-geo-pocket-color-batt.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b851458e-c225-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -984,10 +984,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Choosing a mission.",
+                "caption": "Unlike Pokemon, in this game, your rival has a crush on you.",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16319157-evolution-eternal-dungeons-neo-geo-pocket-color-choosing-a-missi.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/84155e2a-c1f5-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16319334-evolution-eternal-dungeons-neo-geo-pocket-color-unlike-pokemon-i.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9197b750-c1f5-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "The maps are quite simplistic.",
+                "height": 152,
+                "image_url": "https://cdn.mobygames.com/screenshots/16318974-evolution-eternal-dungeons-neo-geo-pocket-color-the-maps-are-qui.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/75c84c60-c1f5-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -998,24 +1005,17 @@
                 "width": 160
             },
             {
-                "caption": "The English translation hasn't been proofread well.",
+                "caption": "No comment.",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16319148-evolution-eternal-dungeons-neo-geo-pocket-color-the-english-tran.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/83d00f3c-c1f5-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16319445-evolution-eternal-dungeons-neo-geo-pocket-color-no-comment.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9f0b4c44-c1f5-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "The maps really are nothing to write home about.",
+                "caption": "The in-game menu.",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16318986-evolution-eternal-dungeons-neo-geo-pocket-color-the-maps-really-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7625a6c6-c1f5-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Failed again.",
-                "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16319151-evolution-eternal-dungeons-neo-geo-pocket-color-failed-again.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/83e55b12-c1f5-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16318980-evolution-eternal-dungeons-neo-geo-pocket-color-the-in-game-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/75f72382-c1f5-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -1132,38 +1132,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "A Sumo game where you choose the direction and power of your shove to kick the enemy out of the ring.",
+                "caption": "The second game: avoid the balls.",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16322898-ganbare-neo-poke-kun-neo-geo-pocket-color-a-sumo-game-where-you-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9d3ced72-c1f6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16322976-ganbare-neo-poke-kun-neo-geo-pocket-color-the-second-game-avoid-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a416dd06-c1f6-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "But the only attack Neo Poke-kun has is Terry Bogard's Burn Knuckle.",
+                "caption": "Please, no dying in my flat!",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16323000-ganbare-neo-poke-kun-neo-geo-pocket-color-but-the-only-attack-ne.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a4d93a4a-c1f6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16320432-ganbare-neo-poke-kun-neo-geo-pocket-color-please-no-dying-in-my-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/df9a3ad6-c1f5-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "Kill ghosts that pop up with spears.",
+                "caption": "The last mini-game is a mech fighting game with great looking visuals and close-ups.",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16322907-ganbare-neo-poke-kun-neo-geo-pocket-color-kill-ghosts-that-pop-u.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9d820baa-c1f6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16323009-ganbare-neo-poke-kun-neo-geo-pocket-color-the-last-mini-game-is-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a5245f20-c1f6-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "This game predates WarioWare but the way it works is that when Poke-kun is in the mood, he will create games for you to play. Annoy him or hurt him and you'll be waiting for new games for days...",
+                "caption": "An Anti-Tetris game where you shoot the tetris blocks.",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16320456-ganbare-neo-poke-kun-neo-geo-pocket-color-this-game-predates-war.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e424b374-c1f5-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16322928-ganbare-neo-poke-kun-neo-geo-pocket-color-an-anti-tetris-game-wh.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9e2b5020-c1f6-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "That's gotta hurt!",
+                "caption": "See that? That's how you portray depression on a Neo Geo Pocket Color!",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16320699-ganbare-neo-poke-kun-neo-geo-pocket-color-thats-gotta-hurt.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f2029d9e-c1f5-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16320702-ganbare-neo-poke-kun-neo-geo-pocket-color-see-that-thats-how-you.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f2168548-c1f5-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -1226,13 +1226,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "You can use the rollers to crush the enemies tracking you.",
-                "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16319679-crush-roller-neo-geo-pocket-color-you-can-use-the-rollers-to-cru.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b1d19b30-c1f5-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
                 "caption": "The Main Menu.",
                 "height": 152,
                 "image_url": "https://cdn.mobygames.com/screenshots/16318065-crush-roller-neo-geo-pocket-color-the-main-menu.png",
@@ -1240,10 +1233,17 @@
                 "width": 160
             },
             {
-                "caption": "When you finish a level, you can select which level you want to play next.",
+                "caption": "A nice introduction to the game and its characters.",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16320093-crush-roller-neo-geo-pocket-color-when-you-finish-a-level-you-ca.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ca1cc2f0-c1f5-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16320204-crush-roller-neo-geo-pocket-color-a-nice-introduction-to-the-gam.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d1ec97e4-c1f5-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "When you lose all your lives, this continue screen pops up.",
+                "height": 152,
+                "image_url": "https://cdn.mobygames.com/screenshots/16320207-crush-roller-neo-geo-pocket-color-when-you-lose-all-your-lives-t.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d20194fa-c1f5-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -1254,10 +1254,10 @@
                 "width": 160
             },
             {
-                "caption": "A nice introduction to the game and its characters.",
+                "caption": "You can use the rollers to crush the enemies tracking you.",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16320204-crush-roller-neo-geo-pocket-color-a-nice-introduction-to-the-gam.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d1ec97e4-c1f5-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16319679-crush-roller-neo-geo-pocket-color-you-can-use-the-rollers-to-cru.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b1d19b30-c1f5-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -1338,17 +1338,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "A fairy.",
+                "caption": "The weapon store.",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16312899-kikou-seiki-unitron-neo-geo-pocket-color-a-fairy.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6e09d4d2-c1f3-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16313397-kikou-seiki-unitron-neo-geo-pocket-color-the-weapon-store.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b2a56138-c1f3-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "The story. It's quite long.",
+                "caption": "And find ourselves a new friend.",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16312902-kikou-seiki-unitron-neo-geo-pocket-color-the-story-its-quite-lon.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6e241306-c1f3-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16315086-kikou-seiki-unitron-neo-geo-pocket-color-and-find-ourselves-a-ne.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/400bc8c8-c1f4-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "An elf.",
+                "height": 152,
+                "image_url": "https://cdn.mobygames.com/screenshots/16312896-kikou-seiki-unitron-neo-geo-pocket-color-an-elf.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6df16ef6-c1f3-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -1359,17 +1366,10 @@
                 "width": 160
             },
             {
-                "caption": "The arena.",
+                "caption": "A catgirl.",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16313472-kikou-seiki-unitron-neo-geo-pocket-color-the-arena.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b93d060e-c1f3-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "The attacks are animated.",
-                "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16312908-kikou-seiki-unitron-neo-geo-pocket-color-the-attacks-are-animate.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6e510424-c1f3-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16314048-kikou-seiki-unitron-neo-geo-pocket-color-a-catgirl.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f0404800-c1f3-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -1446,10 +1446,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Japanese title screen",
+                "caption": "The fat man zombie serves as the best 'food' for your weapons, but he fires back",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/3699380-dark-arms-beast-buster-1999-neo-geo-pocket-color-japanese-title-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1449d4e0-ab98-11ed-b951-02420a000197.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/3699452-dark-arms-beast-buster-1999-neo-geo-pocket-color-the-fat-man-zom.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/15375cba-ab98-11ed-a218-02420a00019e.webp",
                 "width": 160
             },
             {
@@ -1460,13 +1460,6 @@
                 "width": 160
             },
             {
-                "caption": "An organic weapon destroys a zombie",
-                "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/3701423-dark-arms-beast-buster-1999-neo-geo-pocket-color-an-organic-weap.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/268929d0-ab98-11ed-aaf5-02420a00019c.webp",
-                "width": 160
-            },
-            {
                 "caption": "Female zombies throw knives, better get that health power-up",
                 "height": 152,
                 "image_url": "https://cdn.mobygames.com/screenshots/3702911-dark-arms-beast-buster-1999-neo-geo-pocket-color-female-zombies-.png",
@@ -1474,10 +1467,17 @@
                 "width": 160
             },
             {
-                "caption": "Map screen at night with 2 new areas unlocked",
+                "caption": "The master helps you develop your weapons",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/3699604-dark-arms-beast-buster-1999-neo-geo-pocket-color-map-screen-at-n.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/169d2d00-ab98-11ed-b951-02420a000197.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/3697135-dark-arms-beast-buster-1999-neo-geo-pocket-color-the-master-help.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/001379ea-ab98-11ed-beab-02420a000199.webp",
+                "width": 160
+            },
+            {
+                "caption": "Fighting some ghosts with an octopus-like crawler weapon",
+                "height": 152,
+                "image_url": "https://cdn.mobygames.com/screenshots/3697953-dark-arms-beast-buster-1999-neo-geo-pocket-color-fighting-some-g.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/07aa8e6e-ab98-11ed-837d-02420a00019b.webp",
                 "width": 160
             }
         ],
@@ -1558,13 +1558,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Make commands",
-                "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16433552-faselei-neo-geo-pocket-color-make-commands.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9eb27424-c219-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
                 "caption": "Command center",
                 "height": 152,
                 "image_url": "https://cdn.mobygames.com/screenshots/16430195-faselei-neo-geo-pocket-color-command-center.png",
@@ -1572,10 +1565,10 @@
                 "width": 160
             },
             {
-                "caption": "The story",
+                "caption": "Cut-scene",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16429988-faselei-neo-geo-pocket-color-the-story.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b5d3052a-c218-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16435025-faselei-neo-geo-pocket-color-cut-scene.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fae942f4-c219-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -1583,6 +1576,13 @@
                 "height": 152,
                 "image_url": "https://cdn.mobygames.com/screenshots/16433744-faselei-neo-geo-pocket-color-mission-complete.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/aa27cd4a-c219-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Make commands",
+                "height": 152,
+                "image_url": "https://cdn.mobygames.com/screenshots/16433552-faselei-neo-geo-pocket-color-make-commands.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9eb27424-c219-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -1652,24 +1652,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The training is a departure from the top-down combat in the game.",
+                "caption": "Chino.",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16326156-dive-alert-beckys-version-neo-geo-pocket-color-the-training-is-a.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/93dc189c-c1f7-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16320678-dive-alert-beckys-version-neo-geo-pocket-color-chino.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f1545b80-c1f5-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "Chris.",
+                "caption": "The Title Screen.",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16325487-dive-alert-beckys-version-neo-geo-pocket-color-chris.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/49ff1378-c1f7-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Will.",
-                "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16325295-dive-alert-beckys-version-neo-geo-pocket-color-will.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/38d57092-c1f7-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16326384-dive-alert-beckys-version-neo-geo-pocket-color-the-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a8c858e2-c1f7-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -1680,10 +1673,17 @@
                 "width": 160
             },
             {
-                "caption": "Aidah.",
+                "caption": "Let's see if we can fight those killer robots.",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16322889-dive-alert-beckys-version-neo-geo-pocket-color-aidah.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9bf3db4c-c1f6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16324353-dive-alert-beckys-version-neo-geo-pocket-color-lets-see-if-we-ca.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f9b853fc-c1f6-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Becky is bored.",
+                "height": 152,
+                "image_url": "https://cdn.mobygames.com/screenshots/16324344-dive-alert-beckys-version-neo-geo-pocket-color-becky-is-bored.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f96e6936-c1f6-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -1733,17 +1733,17 @@
         },
         "sample_screenshots": [
             {
+                "caption": "To clear the stage, connect the two Cs together.",
+                "height": 152,
+                "image_url": "https://cdn.mobygames.com/screenshots/16506421-puzzle-link-2-neo-geo-pocket-color-to-clear-the-stage-connect-th.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/33679878-c22f-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
                 "caption": "Title screen",
                 "height": 152,
                 "image_url": "https://cdn.mobygames.com/screenshots/16506801-puzzle-link-2-neo-geo-pocket-color-title-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/4d5db6b8-c22f-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "The Options Menu.",
-                "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16506409-puzzle-link-2-neo-geo-pocket-color-the-options-menu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/330241f8-c22f-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -1754,10 +1754,10 @@
                 "width": 160
             },
             {
-                "caption": "The aim of the game is simple: connect objects of the same shape and color.",
+                "caption": "Title screen (JP)",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16506427-puzzle-link-2-neo-geo-pocket-color-the-aim-of-the-game-is-simple.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3397595a-c22f-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16506406-puzzle-link-2-neo-geo-pocket-color-title-screen-jp.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/32eacb72-c22f-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -1834,13 +1834,6 @@
                 "width": 160
             },
             {
-                "caption": "The Title Screen.",
-                "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16320804-memories-off-pure-neo-geo-pocket-color-the-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f8aba32a-c1f5-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
                 "caption": "The Main Menu.",
                 "height": 152,
                 "image_url": "https://cdn.mobygames.com/screenshots/16329342-memories-off-pure-neo-geo-pocket-color-the-main-menu.png",
@@ -1859,6 +1852,13 @@
                 "height": 152,
                 "image_url": "https://cdn.mobygames.com/screenshots/16319991-memories-off-pure-neo-geo-pocket-color-waking-up-in-your-room.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/c316bfe2-c1f5-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "The Title Screen.",
+                "height": 152,
+                "image_url": "https://cdn.mobygames.com/screenshots/16320804-memories-off-pure-neo-geo-pocket-color-the-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f8aba32a-c1f5-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -2069,24 +2069,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Options screen",
-                "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16111608-bust-a-move-pocket-neo-geo-pocket-color-options-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bebaf1b6-bf75-11ed-9521-02420a000152.webp",
-                "width": 160
-            },
-            {
-                "caption": "Aiming in a blue flashing ball.",
-                "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16054984-bust-a-move-pocket-neo-geo-pocket-color-aiming-in-a-blue-flashin.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/81298334-bf3a-11ed-9c42-02420a000140.webp",
-                "width": 160
-            },
-            {
                 "caption": "Title screen",
                 "height": 152,
                 "image_url": "https://cdn.mobygames.com/screenshots/16111425-bust-a-move-pocket-neo-geo-pocket-color-title-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/b49057da-bf75-11ed-9521-02420a000152.webp",
+                "width": 160
+            },
+            {
+                "caption": "Shooting a yellow bubble needed to clear a group of the same color.",
+                "height": 152,
+                "image_url": "https://cdn.mobygames.com/screenshots/16111515-bust-a-move-pocket-neo-geo-pocket-color-shooting-a-yellow-bubble.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b93aa718-bf75-11ed-9521-02420a000152.webp",
+                "width": 160
+            },
+            {
+                "caption": "Main menu",
+                "height": 152,
+                "image_url": "https://cdn.mobygames.com/screenshots/16111476-bust-a-move-pocket-neo-geo-pocket-color-main-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b697fdf8-bf75-11ed-9521-02420a000152.webp",
                 "width": 160
             },
             {
@@ -2097,10 +2097,10 @@
                 "width": 160
             },
             {
-                "caption": "Shooting a yellow bubble needed to clear a group of the same color.",
+                "caption": "Aiming in a blue flashing ball.",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16111515-bust-a-move-pocket-neo-geo-pocket-color-shooting-a-yellow-bubble.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b93aa718-bf75-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16054984-bust-a-move-pocket-neo-geo-pocket-color-aiming-in-a-blue-flashin.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/81298334-bf3a-11ed-9c42-02420a000140.webp",
                 "width": 160
             }
         ],
@@ -2266,17 +2266,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title screen",
+                "caption": "Final Stage 1 level",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16199978-delta-warp-neo-geo-pocket-color-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/da166dd0-c1cf-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16335852-delta-warp-neo-geo-pocket-color-final-stage-1-level.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e883bbcc-c1fa-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "Intro",
+                "caption": "Final tutorial level",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16199975-delta-warp-neo-geo-pocket-color-intro.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d9ff5c44-c1cf-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16336191-delta-warp-neo-geo-pocket-color-final-tutorial-level.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0aa0eb6c-c1fb-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Tutorial mode intro screen",
+                "height": 152,
+                "image_url": "https://cdn.mobygames.com/screenshots/16335858-delta-warp-neo-geo-pocket-color-tutorial-mode-intro-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e97d7662-c1fa-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -2287,17 +2294,10 @@
                 "width": 160
             },
             {
-                "caption": "Final Stage 2 level",
+                "caption": "Cracked tiles can only be passed over once.",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16200131-delta-warp-neo-geo-pocket-color-final-stage-2-level.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e673f53e-c1cf-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Final Stage 1 level",
-                "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16335852-delta-warp-neo-geo-pocket-color-final-stage-1-level.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e883bbcc-c1fa-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16200212-delta-warp-neo-geo-pocket-color-cracked-tiles-can-only-be-passed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ea06ef80-c1cf-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -2387,20 +2387,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "You can choose between a boy or a girl.",
-                "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16501636-cool-boarders-pocket-neo-geo-pocket-color-you-can-choose-between.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cdab9206-c22d-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Gameplay: avoid bumping into the walls.",
-                "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16501630-cool-boarders-pocket-neo-geo-pocket-color-gameplay-avoid-bumping.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cd7c410e-c22d-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
                 "caption": "There are 2 modes in the game.",
                 "height": 152,
                 "image_url": "https://cdn.mobygames.com/screenshots/16501633-cool-boarders-pocket-neo-geo-pocket-color-there-are-2-modes-in-t.png",
@@ -2412,6 +2398,20 @@
                 "height": 152,
                 "image_url": "https://cdn.mobygames.com/screenshots/16501432-cool-boarders-pocket-neo-geo-pocket-color-the-title-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/ba4d0bd6-c22d-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Gameplay: avoid bumping into the walls.",
+                "height": 152,
+                "image_url": "https://cdn.mobygames.com/screenshots/16501630-cool-boarders-pocket-neo-geo-pocket-color-gameplay-avoid-bumping.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cd7c410e-c22d-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "You can choose between a boy or a girl.",
+                "height": 152,
+                "image_url": "https://cdn.mobygames.com/screenshots/16501636-cool-boarders-pocket-neo-geo-pocket-color-you-can-choose-between.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cdab9206-c22d-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -2486,24 +2486,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The results screen.",
+                "caption": "Simple 5x5 puzzle.",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16515725-picture-puzzle-neo-geo-pocket-color-the-results-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7c887bba-c231-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16515644-picture-puzzle-neo-geo-pocket-color-simple-5x5-puzzle.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7784ab5c-c231-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "Tutorial",
+                "caption": "A more difficult 15x15 puzzle.",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16515650-picture-puzzle-neo-geo-pocket-color-tutorial.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/77ade396-c231-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16515401-picture-puzzle-neo-geo-pocket-color-a-more-difficult-15x15-puzzl.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6c02d51a-c231-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "Stage select",
+                "caption": "Pause menu",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16515647-picture-puzzle-neo-geo-pocket-color-stage-select.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/77991cd6-c231-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16515722-picture-puzzle-neo-geo-pocket-color-pause-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7c702498-c231-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -2607,10 +2607,31 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The last 3 matches have only eight mins. instead of ten.",
+                "caption": "The third tile set.",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16529523-pocket-reversi-neo-geo-pocket-color-the-last-3-matches-have-only.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3aefea90-c235-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16529986-pocket-reversi-neo-geo-pocket-color-the-third-tile-set.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/670e4cd4-c235-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "You lose.",
+                "height": 152,
+                "image_url": "https://cdn.mobygames.com/screenshots/16529977-pocket-reversi-neo-geo-pocket-color-you-lose.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/66c8bd90-c235-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Title screen",
+                "height": 152,
+                "image_url": "https://cdn.mobygames.com/screenshots/16529550-pocket-reversi-neo-geo-pocket-color-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3cdc72f6-c235-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Free Play mode: you have the option to retract your last move and see available moves.",
+                "height": 152,
+                "image_url": "https://cdn.mobygames.com/screenshots/16531943-pocket-reversi-neo-geo-pocket-color-free-play-mode-you-have-the-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fc6297a4-c235-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -2618,27 +2639,6 @@
                 "height": 152,
                 "image_url": "https://cdn.mobygames.com/screenshots/16529983-pocket-reversi-neo-geo-pocket-color-level-4-character.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/66f95bf8-c235-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Level 3 character",
-                "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16529989-pocket-reversi-neo-geo-pocket-color-level-3-character.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6724eaca-c235-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Level 2 character",
-                "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16529466-pocket-reversi-neo-geo-pocket-color-level-2-character.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/376c78de-c235-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "CPU is happy while ahead on points.",
-                "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16529463-pocket-reversi-neo-geo-pocket-color-cpu-is-happy-while-ahead-on-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/37503048-c235-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -2753,20 +2753,6 @@
                 "width": 160
             },
             {
-                "caption": "Choosing your avatar",
-                "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16832518-soreyuke-hanafuda-dojo-neo-geo-pocket-color-choosing-your-avatar.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/69fd2b00-c39c-11ed-9226-02420a000121.webp",
-                "width": 160
-            },
-            {
-                "caption": "Title Screen",
-                "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16832545-soreyuke-hanafuda-dojo-neo-geo-pocket-color-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6af68434-c39c-11ed-9226-02420a000121.webp",
-                "width": 160
-            },
-            {
                 "caption": "Main Menu",
                 "height": 152,
                 "image_url": "https://cdn.mobygames.com/screenshots/16832548-soreyuke-hanafuda-dojo-neo-geo-pocket-color-main-menu.png",
@@ -2778,6 +2764,20 @@
                 "height": 152,
                 "image_url": "https://cdn.mobygames.com/screenshots/16832551-soreyuke-hanafuda-dojo-neo-geo-pocket-color-match-up-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/6b289140-c39c-11ed-9226-02420a000121.webp",
+                "width": 160
+            },
+            {
+                "caption": "Choosing your avatar",
+                "height": 152,
+                "image_url": "https://cdn.mobygames.com/screenshots/16832518-soreyuke-hanafuda-dojo-neo-geo-pocket-color-choosing-your-avatar.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/69fd2b00-c39c-11ed-9226-02420a000121.webp",
+                "width": 160
+            },
+            {
+                "caption": "Title Screen",
+                "height": 152,
+                "image_url": "https://cdn.mobygames.com/screenshots/16832545-soreyuke-hanafuda-dojo-neo-geo-pocket-color-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6af68434-c39c-11ed-9226-02420a000121.webp",
                 "width": 160
             }
         ],
@@ -2912,6 +2912,20 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Tutorials",
+                "height": 152,
+                "image_url": "https://cdn.mobygames.com/screenshots/16845114-snk-vs-capcom-card-fighters-clash-2-expand-edition-neo-geo-pocke.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7cb5e7ae-c3a2-11ed-9226-02420a000121.webp",
+                "width": 160
+            },
+            {
+                "caption": "Visual novel story section",
+                "height": 152,
+                "image_url": "https://cdn.mobygames.com/screenshots/16845108-snk-vs-capcom-card-fighters-clash-2-expand-edition-neo-geo-pocke.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7c8a67fa-c3a2-11ed-9226-02420a000121.webp",
+                "width": 160
+            },
+            {
                 "caption": "Playing screen",
                 "height": 152,
                 "image_url": "https://cdn.mobygames.com/screenshots/16845126-snk-vs-capcom-card-fighters-clash-2-expand-edition-neo-geo-pocke.png",
@@ -2919,31 +2933,17 @@
                 "width": 160
             },
             {
-                "caption": "Battle splash screen",
-                "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16845117-snk-vs-capcom-card-fighters-clash-2-expand-edition-neo-geo-pocke.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7ccb6b42-c3a2-11ed-9226-02420a000121.webp",
-                "width": 160
-            },
-            {
-                "caption": "Card information",
-                "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16845123-snk-vs-capcom-card-fighters-clash-2-expand-edition-neo-geo-pocke.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7cf6c274-c3a2-11ed-9226-02420a000121.webp",
-                "width": 160
-            },
-            {
-                "caption": "Attacking screen",
-                "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16079130-snk-vs-capcom-card-fighters-clash-2-expand-edition-neo-geo-pocke.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/efa44052-bf6b-11ed-9521-02420a000152.webp",
-                "width": 160
-            },
-            {
                 "caption": "Deck selection",
                 "height": 152,
                 "image_url": "https://cdn.mobygames.com/screenshots/16845111-snk-vs-capcom-card-fighters-clash-2-expand-edition-neo-geo-pocke.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/7ca0121c-c3a2-11ed-9226-02420a000121.webp",
+                "width": 160
+            },
+            {
+                "caption": "Battle splash screen",
+                "height": 152,
+                "image_url": "https://cdn.mobygames.com/screenshots/16845117-snk-vs-capcom-card-fighters-clash-2-expand-edition-neo-geo-pocke.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7ccb6b42-c3a2-11ed-9226-02420a000121.webp",
                 "width": 160
             }
         ],
@@ -2997,6 +2997,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Second title screen",
+                "height": 152,
+                "image_url": "https://cdn.mobygames.com/screenshots/16773600-neo-dragons-wild-neo-geo-pocket-color-second-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/eff293d8-c376-11ed-9226-02420a000121.webp",
+                "width": 160
+            },
+            {
                 "caption": "Bookkeeping",
                 "height": 152,
                 "image_url": "https://cdn.mobygames.com/screenshots/16774039-neo-dragons-wild-neo-geo-pocket-color-bookkeeping.png",
@@ -3004,31 +3011,24 @@
                 "width": 160
             },
             {
-                "caption": "Winning a hand (option to double or take)",
+                "caption": "Drawing cards not held",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16826952-neo-dragons-wild-neo-geo-pocket-color-winning-a-hand-option-to-d.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e4c55ab4-c398-11ed-9226-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16829449-neo-dragons-wild-neo-geo-pocket-color-drawing-cards-not-held.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7cbe7160-c39a-11ed-9226-02420a000121.webp",
                 "width": 160
             },
             {
-                "caption": "Multiple saves",
+                "caption": "First title screen",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16826342-neo-dragons-wild-neo-geo-pocket-color-multiple-saves.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/85f2ec72-c398-11ed-9226-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16773603-neo-dragons-wild-neo-geo-pocket-color-first-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f0cbd580-c376-11ed-9226-02420a000121.webp",
                 "width": 160
             },
             {
-                "caption": "Pause menu",
+                "caption": "Choosing which cards to hold",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16825865-neo-dragons-wild-neo-geo-pocket-color-pause-menu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3bd355be-c398-11ed-9226-02420a000121.webp",
-                "width": 160
-            },
-            {
-                "caption": "Second title screen",
-                "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16773600-neo-dragons-wild-neo-geo-pocket-color-second-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/eff293d8-c376-11ed-9226-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16773597-neo-dragons-wild-neo-geo-pocket-color-choosing-which-cards-to-ho.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/efdd401e-c376-11ed-9226-02420a000121.webp",
                 "width": 160
             }
         ],
@@ -3073,17 +3073,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Book keeping",
+                "caption": "Reels spinning",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16832932-neo-mystery-bonus-neo-geo-pocket-color-book-keeping.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/94556b06-c39c-11ed-9226-02420a000121.webp",
-                "width": 160
-            },
-            {
-                "caption": "Two successful lines",
-                "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16832941-neo-mystery-bonus-neo-geo-pocket-color-two-successful-lines.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/94b1f240-c39c-11ed-9226-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16833007-neo-mystery-bonus-neo-geo-pocket-color-reels-spinning.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9978bb4c-c39c-11ed-9226-02420a000121.webp",
                 "width": 160
             },
             {
@@ -3094,17 +3087,24 @@
                 "width": 160
             },
             {
-                "caption": "Second title screen",
+                "caption": "The double or nothing mini game - High Low",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16833016-neo-mystery-bonus-neo-geo-pocket-color-second-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/99d4fd9e-c39c-11ed-9226-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16832938-neo-mystery-bonus-neo-geo-pocket-color-the-double-or-nothing-min.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9493dd00-c39c-11ed-9226-02420a000121.webp",
                 "width": 160
             },
             {
-                "caption": "Payouts scrolling screen",
+                "caption": "Two successful lines",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16833340-neo-mystery-bonus-neo-geo-pocket-color-payouts-scrolling-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bc7861ba-c39c-11ed-9226-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16832941-neo-mystery-bonus-neo-geo-pocket-color-two-successful-lines.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/94b1f240-c39c-11ed-9226-02420a000121.webp",
+                "width": 160
+            },
+            {
+                "caption": "Book keeping",
+                "height": 152,
+                "image_url": "https://cdn.mobygames.com/screenshots/16832932-neo-mystery-bonus-neo-geo-pocket-color-book-keeping.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/94556b06-c39c-11ed-9226-02420a000121.webp",
                 "width": 160
             }
         ],
@@ -3185,10 +3185,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Stat screen",
+                "caption": "Title screen",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16881845-pachi-slot-aruze-okoku-pocket-azteca-neo-geo-pocket-color-stat-s.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/167a3c5e-c3fe-11ed-be63-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16881854-pachi-slot-aruze-okoku-pocket-azteca-neo-geo-pocket-color-title-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/16c59c8a-c3fe-11ed-be63-02420a000121.webp",
+                "width": 160
+            },
+            {
+                "caption": "Moving reels",
+                "height": 152,
+                "image_url": "https://cdn.mobygames.com/screenshots/16877460-pachi-slot-aruze-okoku-pocket-azteca-neo-geo-pocket-color-moving.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/427b0a92-c3fc-11ed-be63-02420a000121.webp",
+                "width": 160
+            },
+            {
+                "caption": "Game settings",
+                "height": 152,
+                "image_url": "https://cdn.mobygames.com/screenshots/16881848-pachi-slot-aruze-okoku-pocket-azteca-neo-geo-pocket-color-game-s.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1692b450-c3fe-11ed-be63-02420a000121.webp",
                 "width": 160
             },
             {
@@ -3199,24 +3213,10 @@
                 "width": 160
             },
             {
-                "caption": "Menu",
+                "caption": "Stat screen",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16881851-pachi-slot-aruze-okoku-pocket-azteca-neo-geo-pocket-color-menu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/16adfa8a-c3fe-11ed-be63-02420a000121.webp",
-                "width": 160
-            },
-            {
-                "caption": "Title screen",
-                "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16881854-pachi-slot-aruze-okoku-pocket-azteca-neo-geo-pocket-color-title-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/16c59c8a-c3fe-11ed-be63-02420a000121.webp",
-                "width": 160
-            },
-            {
-                "caption": "Game settings",
-                "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16881848-pachi-slot-aruze-okoku-pocket-azteca-neo-geo-pocket-color-game-s.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1692b450-c3fe-11ed-be63-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16881845-pachi-slot-aruze-okoku-pocket-azteca-neo-geo-pocket-color-stat-s.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/167a3c5e-c3fe-11ed-be63-02420a000121.webp",
                 "width": 160
             }
         ],

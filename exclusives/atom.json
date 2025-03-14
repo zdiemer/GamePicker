@@ -79,31 +79,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Showing inventory",
+                "caption": "Start of House",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/3977893-adventures-atom-showing-inventory.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/94f8ce1c-aba1-11ed-a061-02420a00019d.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/7371174-adventures-atom-start-of-house.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cbebb91c-abf5-11ed-b075-02420a00012f.webp",
                 "width": 256
             },
             {
-                "caption": "Start of Intergalactic",
+                "caption": "Menu",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/7371168-adventures-atom-start-of-intergalactic.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cb904cda-abf5-11ed-b075-02420a00012f.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/7353398-adventures-atom-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ab1f4578-abf5-11ed-83f5-02420a000134.webp",
                 "width": 256
             },
             {
-                "caption": "Looking, picking up objects and showing current amount of treasure",
+                "caption": "Start of Dungeon",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/7371186-adventures-atom-looking-picking-up-objects-and-showing-current-a.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cca9de88-abf5-11ed-b075-02420a00012f.webp",
-                "width": 256
-            },
-            {
-                "caption": "Fighting a stone troll, who dies",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/7371177-adventures-atom-fighting-a-stone-troll-who-dies.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cc222ea2-abf5-11ed-b075-02420a00012f.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/7396525-adventures-atom-start-of-dungeon.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fc8f9f20-abf5-11ed-8a97-02420a00012d.webp",
                 "width": 256
             },
             {
@@ -111,6 +104,13 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/7371180-adventures-atom-pop-cultural-references-are-all-over-the-game.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/cc4c7d9c-abf5-11ed-b075-02420a00012f.webp",
+                "width": 256
+            },
+            {
+                "caption": "Got killed by Dracula",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/7371183-adventures-atom-got-killed-by-dracula.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cc7b1c92-abf5-11ed-b075-02420a00012f.webp",
                 "width": 256
             }
         ],
@@ -200,10 +200,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The mother ship appears",
+                "caption": "They're getting dangerously close",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16280693-invader-force-atom-the-mother-ship-appears.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/84f891a2-c1e8-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16280687-invader-force-atom-theyre-getting-dangerously-close.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/84bd33e6-c1e8-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -214,17 +214,10 @@
                 "width": 256
             },
             {
-                "caption": "Start screen",
+                "caption": "The mother ship appears",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16280684-invader-force-atom-start-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/849c1fc6-c1e8-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "They're getting dangerously close",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16280687-invader-force-atom-theyre-getting-dangerously-close.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/84bd33e6-c1e8-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16280693-invader-force-atom-the-mother-ship-appears.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/84f891a2-c1e8-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -232,6 +225,13 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16280699-invader-force-atom-shooting-at-the-aliens.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/8544b50a-c1e8-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Start screen",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16280684-invader-force-atom-start-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/849c1fc6-c1e8-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -303,13 +303,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Killed several aliens",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/12425650-atom-invaders-atom-killed-several-aliens.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0ca3c104-ac21-11ed-96e1-02420a00012d.webp",
-                "width": 256
-            },
-            {
                 "caption": "Title screen",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/12425644-atom-invaders-atom-title-screen.png",
@@ -317,10 +310,10 @@
                 "width": 256
             },
             {
-                "caption": "Game over",
+                "caption": "Killed several aliens",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/12425273-atom-invaders-atom-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/061a024e-ac21-11ed-8d66-02420a000132.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/12425650-atom-invaders-atom-killed-several-aliens.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0ca3c104-ac21-11ed-96e1-02420a00012d.webp",
                 "width": 256
             },
             {
@@ -329,13 +322,20 @@
                 "image_url": "https://cdn.mobygames.com/screenshots/12425647-atom-invaders-atom-game-start.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/0c7f7402-ac21-11ed-96e1-02420a00012d.webp",
                 "width": 256
+            },
+            {
+                "caption": "Game over",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12425273-atom-invaders-atom-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/061a024e-ac21-11ed-8d66-02420a000132.webp",
+                "width": 256
             }
         ],
         "title": "Atom Invaders"
     },
     {
         "alternate_titles": [],
-        "description": "<p>The objective of <em>Demon Dungeon</em> is to escape from a dungeon full of monsters. The game is text based and the player makes his way through the dungeon by typing directional shortcuts (N, E, S, W). The player starts at level 1 and to escape has to make it to level 5 and beyond. To advance a level the player has to find a secret passage. Each level of the dungeon consists of 50x50 cells and a map shows the player's position. Each cell on the map has a number that represents the likelihood of it containing something. This can be either treasure, magic stones or monsters. The game helps the player by showing his status as either red or blue. Red means that the player is moving in the right direction.</p>\n<p>When coming across a monster the player can do three actions: cast a spell, throw a magic stone or run away. Spells and magic stones have a 90% chance of killing the monster but only one spell can be used on each type of monster. Running away should only be used when the spell has been used and there are no magic stones left, since there is a 25% chance that the monster will follow and kill the player. The player only has one life and has to restart from the beginning when killed. Once a game has ended the player gets a score based on if he made it out alive and how much treasure he has collected. Before starting a game the player can choose a skill level between 1 and 50.</p>",
+        "description": "<p>The objective of <em>Demon Dungeon</em> is to escape from a dungeon full of monsters. The game is text based and the the objective is to escape the dungeon by typing directional shortcuts (N, E, S, W). The player starts at level 1 and to escape has to make it to level 5 and beyond. To advance a level the player has to find a secret passage. Each level of the dungeon consists of 50x50 cells and a map shows the player's position. Each cell on the map has a number that represents the likelihood of it containing something. This can be either treasure, magic stones or monsters. The player is helped by a red and blue status indicator, red means that the player is moving in the right direction.</p>\n<p>When coming across a monster the player can do three actions: cast a spell, throw a magic stone or run away. Spells and magic stones have a 90% chance of killing the monster but only one spell can be used on each type of monster. Running away should only be used when the spell has been used and there are no magic stones left, since there is a 25% chance that the monster will follow and kill the player. The player only has one life and has to restart from the beginning when killed. Once a game has ended the player gets a score based on if they made it out alive and how much treasure they have collected. Before starting a game the player can choose a skill level between 1 and 50.</p>",
         "genres": [
             {
                 "category": {
@@ -424,17 +424,17 @@
                 "width": 256
             },
             {
+                "caption": "Game finished - getting a score",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8275358-demon-dungeon-atom-game-finished-getting-a-score.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dbd57258-abfc-11ed-82af-02420a000136.webp",
+                "width": 256
+            },
+            {
                 "caption": "Later level has more valuable treasure",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/8273272-demon-dungeon-atom-later-level-has-more-valuable-treasure.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/d9e30bfe-abfc-11ed-941d-02420a000132.webp",
-                "width": 256
-            },
-            {
-                "caption": "Starting out",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/8275529-demon-dungeon-atom-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/dbbfdb8c-abfc-11ed-9941-02420a000133.webp",
                 "width": 256
             },
             {
@@ -445,10 +445,10 @@
                 "width": 256
             },
             {
-                "caption": "Meeting and killing a wizard",
+                "caption": "Murdered by a fire demon",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/8275523-demon-dungeon-atom-meeting-and-killing-a-wizard.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/db17bf4c-abfc-11ed-9941-02420a000133.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/8275361-demon-dungeon-atom-murdered-by-a-fire-demon.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dc4b34c0-abfc-11ed-82af-02420a000136.webp",
                 "width": 256
             }
         ],
@@ -502,31 +502,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Spinning the reels",
+                "caption": "Got a match in the end",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/8689595-fruit-machine-atom-spinning-the-reels.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c9165e4e-ac00-11ed-8a97-02420a00012d.webp",
-                "width": 256
-            },
-            {
-                "caption": "Hold",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/8689589-fruit-machine-atom-hold.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c8c11f24-ac00-11ed-8a97-02420a00012d.webp",
-                "width": 256
-            },
-            {
-                "caption": "Instructions, pt 2",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/8689601-fruit-machine-atom-instructions-pt-2.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c96f75e2-ac00-11ed-8a97-02420a00012d.webp",
-                "width": 256
-            },
-            {
-                "caption": "Nudge option",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/8689592-fruit-machine-atom-nudge-option.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c8eda5b2-ac00-11ed-8a97-02420a00012d.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/8689586-fruit-machine-atom-got-a-match-in-the-end.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c888f234-ac00-11ed-8a97-02420a00012d.webp",
                 "width": 256
             },
             {
@@ -534,6 +513,27 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/8689604-fruit-machine-atom-instructions-pt-1.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/c9a4484e-ac00-11ed-8a97-02420a00012d.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting out",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8689598-fruit-machine-atom-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c94648e8-ac00-11ed-8a97-02420a00012d.webp",
+                "width": 256
+            },
+            {
+                "caption": "Title screen",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8689607-fruit-machine-atom-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c9cc23e6-ac00-11ed-8a97-02420a00012d.webp",
+                "width": 256
+            },
+            {
+                "caption": "Nudge option",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8689592-fruit-machine-atom-nudge-option.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c8eda5b2-ac00-11ed-8a97-02420a00012d.webp",
                 "width": 256
             }
         ],
@@ -623,6 +623,20 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Bees begin filling the columns",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8733000-swarm-atom-bees-begin-filling-the-columns.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3e554a26-ac01-11ed-b013-02420a00012e.webp",
+                "width": 256
+            },
+            {
+                "caption": "Once columns are full the bees begin attacking",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8689613-swarm-atom-once-columns-are-full-the-bees-begin-attacking.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ca1dd722-ac00-11ed-8a97-02420a00012d.webp",
+                "width": 256
+            },
+            {
                 "caption": "The queen leaves to get more bees",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/8689616-swarm-atom-the-queen-leaves-to-get-more-bees.png",
@@ -630,24 +644,10 @@
                 "width": 256
             },
             {
-                "caption": "Title screen / instructions, pt 1",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/8690731-swarm-atom-title-screen-instructions-pt-1.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c7ac573e-ac00-11ed-af3d-02420a00012f.webp",
-                "width": 256
-            },
-            {
                 "caption": "Game over and the queen can land",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/8689610-swarm-atom-game-over-and-the-queen-can-land.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/c9f55c98-ac00-11ed-8a97-02420a00012d.webp",
-                "width": 256
-            },
-            {
-                "caption": "Starting out",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/8690725-swarm-atom-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c74c0280-ac00-11ed-af3d-02420a00012f.webp",
                 "width": 256
             },
             {
@@ -662,7 +662,7 @@
     },
     {
         "alternate_titles": [],
-        "description": "<p><em>Minefield</em> is a tank game where the player has to clear all the mines on the screen. The player sees the minefield from a overhead perspective and the tank automatically moves forward until it reaches a wall or the player changes the direction. Mines will appear all over the field and the player has to clear them by shooting at them. The problem is that this creates chain reactions when other mines are within the range of the detonating mines. The player therefore, not only has to avoid driving into mines on the ground, but to keep a distance when shooting at them. The player can't take too long though since the mines will self detonate when their timers run out. The tank also has limited amount of fuel. A level is cleared once all mines have been detonated. The player has three tanks at his disposal and when all of them have been blown to pieces the game is over.</p>",
+        "description": "<p><em>Minefield</em> is a tank game where the player has to clear all the mines on the screen. The player sees the minefield from an overhead perspective and the tank automatically moves forward until it reaches a wall or the player changes the direction. Mines will appear all over the field and the player has to clear them by shooting at them. The problem is that this creates chain reactions when other mines are within the range of the detonating mines. The player therefore, not only has to avoid driving into mines on the ground, but to keep a distance when shooting at them. The player can't take too long though since the mines will self detonate when their timers run out. The tank also has limited amount of fuel. A level is cleared once all mines have been detonated. The player has three lives in the form of tanks and when all of them have been blown to pieces, the game is over.</p>",
         "genres": [
             {
                 "category": {
@@ -726,24 +726,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Shooting at a mine",
+                "caption": "Mine exploding",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/8698641-minefield-atom-shooting-at-a-mine.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/dbc2567e-ac00-11ed-9584-02420a000136.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/8698650-minefield-atom-mine-exploding.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dca720f6-ac00-11ed-9584-02420a000136.webp",
                 "width": 256
             },
             {
-                "caption": "Start screen",
+                "caption": "Mission complete",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/8698656-minefield-atom-start-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/dd56243e-ac00-11ed-9584-02420a000136.webp",
-                "width": 256
-            },
-            {
-                "caption": "Game over",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/8698638-minefield-atom-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/db729756-ac00-11ed-9584-02420a000136.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/8698644-minefield-atom-mission-complete.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dc114fea-ac00-11ed-9584-02420a000136.webp",
                 "width": 256
             },
             {
@@ -754,10 +747,17 @@
                 "width": 256
             },
             {
-                "caption": "Mine exploding",
+                "caption": "Start screen",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/8698650-minefield-atom-mine-exploding.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/dca720f6-ac00-11ed-9584-02420a000136.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/8698656-minefield-atom-start-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dd56243e-ac00-11ed-9584-02420a000136.webp",
+                "width": 256
+            },
+            {
+                "caption": "Tank hits a mine",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8698647-minefield-atom-tank-hits-a-mine.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dc668e38-ac00-11ed-9584-02420a000136.webp",
                 "width": 256
             }
         ],
@@ -829,6 +829,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Stage almost cleared",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8708970-atom-man-atom-stage-almost-cleared.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/01c18afc-ac01-11ed-9fde-02420a000132.webp",
+                "width": 256
+            },
+            {
                 "caption": "Instead of fruit there's a Hopesoft logo",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/8750660-atom-man-atom-instead-of-fruit-theres-a-hopesoft-logo.png",
@@ -836,10 +843,10 @@
                 "width": 256
             },
             {
-                "caption": "Starting out",
+                "caption": "Picking up a large dot",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/8750666-atom-man-atom-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/65238b18-ac01-11ed-9271-02420a000133.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/8750663-atom-man-atom-picking-up-a-large-dot.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/64e59ab0-ac01-11ed-9271-02420a000133.webp",
                 "width": 256
             },
             {
@@ -850,17 +857,10 @@
                 "width": 256
             },
             {
-                "caption": "Stage almost cleared",
+                "caption": "Starting out",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/8708970-atom-man-atom-stage-almost-cleared.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/01c18afc-ac01-11ed-9fde-02420a000132.webp",
-                "width": 256
-            },
-            {
-                "caption": "Picking up a large dot",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/8750663-atom-man-atom-picking-up-a-large-dot.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/64e59ab0-ac01-11ed-9271-02420a000133.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/8750666-atom-man-atom-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/65238b18-ac01-11ed-9271-02420a000133.webp",
                 "width": 256
             }
         ],
@@ -941,17 +941,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Refuelling",
+                "caption": "Title screen",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15741399-astro-warrior-atom-refuelling.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9c62c6be-bed7-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15741474-astro-warrior-atom-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a2ae2428-bed7-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "Trying to shoot an alien",
+                "caption": "Level 2",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15741447-astro-warrior-atom-trying-to-shoot-an-alien.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a03fca84-bed7-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15741432-astro-warrior-atom-level-2.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9fa5ec70-bed7-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
@@ -962,10 +962,10 @@
                 "width": 256
             },
             {
-                "caption": "Crashing",
+                "caption": "Refuelling",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15741441-astro-warrior-atom-crashing.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a0096c50-bed7-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15741399-astro-warrior-atom-refuelling.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9c62c6be-bed7-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
@@ -1093,6 +1093,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Game in color (Breakout)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4285054-acornsoft-games-pack-1-atom-game-in-color-breakout.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b536fcf2-abac-11ed-bd13-02420a00019c.webp",
+                "width": 256
+            },
+            {
                 "caption": "Starting out (Breakout)",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/4282445-acornsoft-games-pack-1-atom-starting-out-breakout.png",
@@ -1100,31 +1107,24 @@
                 "width": 256
             },
             {
-                "caption": "Breaking some bricks (Breakout)",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/4282273-acornsoft-games-pack-1-atom-breaking-some-bricks-breakout.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/99548efa-abac-11ed-9ae2-02420a0001a0.webp",
-                "width": 256
-            },
-            {
-                "caption": "Title screen (Breakout)",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/4282624-acornsoft-games-pack-1-atom-title-screen-breakout.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9c8e58da-abac-11ed-9ae2-02420a0001a0.webp",
-                "width": 256
-            },
-            {
-                "caption": "Shooting and destroying an asteroid (Asteroids)",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/4284091-acornsoft-games-pack-1-atom-shooting-and-destroying-an-asteroid-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ab5b8a86-abac-11ed-b951-02420a000197.webp",
-                "width": 256
-            },
-            {
                 "caption": "Starting out (Asteroids)",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/4282923-acornsoft-games-pack-1-atom-starting-out-asteroids.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/9fafc40e-abac-11ed-9ae2-02420a0001a0.webp",
+                "width": 256
+            },
+            {
+                "caption": "Getting closer to the submarine by entering commands  (Sub Hunt)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4284030-acornsoft-games-pack-1-atom-getting-closer-to-the-submarine-by-e.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/aadf4c8c-abac-11ed-a188-02420a00019a.webp",
+                "width": 256
+            },
+            {
+                "caption": "Getting a score (Asteroids)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4283919-acornsoft-games-pack-1-atom-getting-a-score-asteroids.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a9bb0da0-abac-11ed-b951-02420a000197.webp",
                 "width": 256
             }
         ],
@@ -1169,31 +1169,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "One plane chasing another (Dogfight)",
+                "caption": "Left player wins (Dogfight)",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/4294816-acornsoft-games-pack-2-atom-one-plane-chasing-another-dogfight.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/17ecb382-abad-11ed-b165-02420a000198.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/4312364-acornsoft-games-pack-2-atom-left-player-wins-dogfight.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cdb9c272-abad-11ed-8ed2-02420a0001a0.webp",
                 "width": 256
             },
             {
-                "caption": "A zombie falling into a swamp (Zombie)",
+                "caption": "Game in colour (Zombie)",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/4296988-acornsoft-games-pack-2-atom-a-zombie-falling-into-a-swamp-zombie.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2e005c0a-abad-11ed-aa5a-02420a0001a0.webp",
-                "width": 256
-            },
-            {
-                "caption": "Winning the game (Mastermind)",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/4294404-acornsoft-games-pack-2-atom-winning-the-game-mastermind.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/13fe7a44-abad-11ed-b165-02420a000198.webp",
-                "width": 256
-            },
-            {
-                "caption": "The computer will notice if you cheat (Mastermind)",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/4311199-acornsoft-games-pack-2-atom-the-computer-will-notice-if-you-chea.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c1f997f0-abad-11ed-81e3-02420a000199.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/4296669-acornsoft-games-pack-2-atom-game-in-colour-zombie.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2ae6538a-abad-11ed-aa5a-02420a0001a0.webp",
                 "width": 256
             },
             {
@@ -1201,6 +1187,20 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/4294548-acornsoft-games-pack-2-atom-computer-thinking-mastermind.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/156e271c-abad-11ed-b165-02420a000198.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting out (Zombie)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/31164-acornsoft-games-pack-2-atom-starting-out-zombie.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/10344c42-ab65-11ed-9f69-02420a00016f.webp",
+                "width": 256
+            },
+            {
+                "caption": "Introduction (Zombie)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4297118-acornsoft-games-pack-2-atom-introduction-zombie.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2f521792-abad-11ed-aa5a-02420a0001a0.webp",
                 "width": 256
             }
         ],
@@ -1299,24 +1299,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Guess mode (Black Box)",
+                "caption": "Atom mode (Black Box)",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/4305029-acornsoft-games-pack-3-atom-guess-mode-black-box.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/813fe8e0-abad-11ed-8d2b-02420a00019e.webp",
-                "width": 256
-            },
-            {
-                "caption": "Starting out (Lunar Lander)",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/4304880-acornsoft-games-pack-3-atom-starting-out-lunar-lander.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7fb1fe64-abad-11ed-8d2b-02420a00019e.webp",
-                "width": 256
-            },
-            {
-                "caption": "Crashing (Lunar Lander)",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/4304586-acornsoft-games-pack-3-atom-crashing-lunar-lander.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7c6a11d8-abad-11ed-8d2b-02420a00019e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/4303846-acornsoft-games-pack-3-atom-atom-mode-black-box.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/74a092ec-abad-11ed-aecf-02420a000198.webp",
                 "width": 256
             },
             {
@@ -1327,10 +1313,24 @@
                 "width": 256
             },
             {
+                "caption": "Starting out (Rat Trap)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4304230-acornsoft-games-pack-3-atom-starting-out-rat-trap.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/787aced2-abad-11ed-8d2b-02420a00019e.webp",
+                "width": 256
+            },
+            {
                 "caption": "Trying to guide the craft to the bottom (Lunar Lander)",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/4304743-acornsoft-games-pack-3-atom-trying-to-guide-the-craft-to-the-bot.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/7e336f6e-abad-11ed-8d2b-02420a00019e.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting out (Black Box)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4305161-acornsoft-games-pack-3-atom-starting-out-black-box.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8291b07a-abad-11ed-8d2b-02420a00019e.webp",
                 "width": 256
             }
         ],
@@ -1375,17 +1375,31 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Starting out (Four Row)",
+                "caption": "Game over (Space Attack)",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/4318399-acornsoft-games-pack-4-atom-starting-out-four-row.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0c8a2ff0-abae-11ed-9ae2-02420a0001a0.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/4320536-acornsoft-games-pack-4-atom-game-over-space-attack.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2297f7a0-abae-11ed-a13c-02420a00019f.webp",
                 "width": 256
             },
             {
-                "caption": "Starting out (Star Trek)",
+                "caption": "Getting killed (Star Trek)",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/4319287-acornsoft-games-pack-4-atom-starting-out-star-trek.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1604e05c-abae-11ed-9ae2-02420a0001a0.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/4318537-acornsoft-games-pack-4-atom-getting-killed-star-trek.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0de96316-abae-11ed-9ae2-02420a0001a0.webp",
+                "width": 256
+            },
+            {
+                "caption": "Game in progress (Four Row)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4318257-acornsoft-games-pack-4-atom-game-in-progress-four-row.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0b1bf0fe-abae-11ed-9ae2-02420a0001a0.webp",
+                "width": 256
+            },
+            {
+                "caption": "Long range scan (Star Trek)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4318828-acornsoft-games-pack-4-atom-long-range-scan-star-trek.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1100069a-abae-11ed-9ae2-02420a0001a0.webp",
                 "width": 256
             },
             {
@@ -1393,20 +1407,6 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/4319140-acornsoft-games-pack-4-atom-docking-at-a-base-star-trek.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/1493a7c6-abae-11ed-9ae2-02420a0001a0.webp",
-                "width": 256
-            },
-            {
-                "caption": "Game in colour (Four Row)",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/4321131-acornsoft-games-pack-4-atom-game-in-colour-four-row.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/287a7e68-abae-11ed-a13c-02420a00019f.webp",
-                "width": 256
-            },
-            {
-                "caption": "Shooting a torpedo (Star Trek)",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/4318989-acornsoft-games-pack-4-atom-shooting-a-torpedo-star-trek.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/12e1390c-abae-11ed-9ae2-02420a0001a0.webp",
                 "width": 256
             }
         ],
@@ -1451,10 +1451,31 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Starting out (Invaders)",
+                "caption": "Killed by the wumpus (Wumpus)",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/4325195-acornsoft-games-pack-5-atom-starting-out-invaders.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5247c386-abae-11ed-9505-02420a00019c.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/4324761-acornsoft-games-pack-5-atom-killed-by-the-wumpus-wumpus.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4e240de6-abae-11ed-9505-02420a00019c.webp",
+                "width": 256
+            },
+            {
+                "caption": "Game over (Invaders)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4327749-acornsoft-games-pack-5-atom-game-over-invaders.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6dc2da9c-abae-11ed-93d8-02420a000198.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting out (Reversi)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4325817-acornsoft-games-pack-5-atom-starting-out-reversi.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/593851b0-abae-11ed-b9a3-02420a000197.webp",
+                "width": 256
+            },
+            {
+                "caption": "Falling into a pit (Wumpus)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4328203-acornsoft-games-pack-5-atom-falling-into-a-pit-wumpus.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/72c666ee-abae-11ed-93d8-02420a000198.webp",
                 "width": 256
             },
             {
@@ -1462,27 +1483,6 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/4325243-acornsoft-games-pack-5-atom-end-game-in-colour-reversi.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/52940304-abae-11ed-b9a3-02420a000197.webp",
-                "width": 256
-            },
-            {
-                "caption": "Saucer appearing (Invaders)",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/4325045-acornsoft-games-pack-5-atom-saucer-appearing-invaders.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/50b19d4e-abae-11ed-9505-02420a00019c.webp",
-                "width": 256
-            },
-            {
-                "caption": "Title screen in colour (Invaders)",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/4327919-acornsoft-games-pack-5-atom-title-screen-in-colour-invaders.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6f569a60-abae-11ed-93d8-02420a000198.webp",
-                "width": 256
-            },
-            {
-                "caption": "Game in colour (Reversi)",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/4325419-acornsoft-games-pack-5-atom-game-in-colour-reversi.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5447980a-abae-11ed-b9a3-02420a000197.webp",
                 "width": 256
             }
         ],
@@ -1579,10 +1579,10 @@
                 "width": 256
             },
             {
-                "caption": "Player winning",
+                "caption": "Game in colour",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/4448546-3-d-noughts-and-crosses-atom-player-winning.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4dac6f52-abb3-11ed-8d2b-02420a00019e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/4363069-3-d-noughts-and-crosses-atom-game-in-colour.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dfc055d8-abaf-11ed-ba50-02420a000199.webp",
                 "width": 256
             },
             {
@@ -1593,17 +1593,17 @@
                 "width": 256
             },
             {
-                "caption": "Game in colour",
+                "caption": "Player winning",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/4363069-3-d-noughts-and-crosses-atom-game-in-colour.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/dfc055d8-abaf-11ed-ba50-02420a000199.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/4448546-3-d-noughts-and-crosses-atom-player-winning.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4dac6f52-abb3-11ed-8d2b-02420a00019e.webp",
                 "width": 256
             },
             {
-                "caption": "Starting out",
+                "caption": "Options screen",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/4448805-3-d-noughts-and-crosses-atom-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5020ec40-abb3-11ed-8d2b-02420a00019e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/4448941-3-d-noughts-and-crosses-atom-options-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/51ce9eac-abb3-11ed-8d2b-02420a00019e.webp",
                 "width": 256
             }
         ],
@@ -1693,24 +1693,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title screen (Simon)",
+                "caption": "Game in progress 2 (Simon)",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/2163787-acornsoft-games-pack-6-atom-title-screen-simon.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/eac4be12-ab7b-11ed-96f9-02420a00019a.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/3380324-acornsoft-games-pack-6-atom-game-in-progress-2-simon.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2ac5a424-ab8e-11ed-aecf-02420a000198.webp",
                 "width": 256
             },
             {
-                "caption": "Starting out (Amoeba)",
+                "caption": "Game in progress 1 (Simon)",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/3380019-acornsoft-games-pack-6-atom-starting-out-amoeba.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2982029c-ab8e-11ed-aecf-02420a000198.webp",
-                "width": 256
-            },
-            {
-                "caption": "Getting a score (Simon)",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/2167074-acornsoft-games-pack-6-atom-getting-a-score-simon.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f3f85a02-ab7b-11ed-bc1c-02420a00019a.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2172798-acornsoft-games-pack-6-atom-game-in-progress-1-simon.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/032fefe4-ab7c-11ed-a13c-02420a00019f.webp",
                 "width": 256
             },
             {
@@ -1721,10 +1714,17 @@
                 "width": 256
             },
             {
-                "caption": "Game in progress 1 (Simon)",
+                "caption": "Starting out (Amoeba)",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/2172798-acornsoft-games-pack-6-atom-game-in-progress-1-simon.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/032fefe4-ab7c-11ed-a13c-02420a00019f.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/3380019-acornsoft-games-pack-6-atom-starting-out-amoeba.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2982029c-ab8e-11ed-aecf-02420a000198.webp",
+                "width": 256
+            },
+            {
+                "caption": "Instructions (Simon)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/2173312-acornsoft-games-pack-6-atom-instructions-simon.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/04830822-ab7c-11ed-b165-02420a000198.webp",
                 "width": 256
             }
         ],
@@ -1850,6 +1850,27 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Movement options (Green Things)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/5330321-acornsoft-games-pack-7-atom-movement-options-green-things.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5f3fa95a-abdb-11ed-8437-02420a0001b0.webp",
+                "width": 256
+            },
+            {
+                "caption": "Snake grows longer (Snake)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/5332061-acornsoft-games-pack-7-atom-snake-grows-longer-snake.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7a3f5912-abdb-11ed-ad34-02420a0001b3.webp",
+                "width": 256
+            },
+            {
+                "caption": "Blowing up with a gas bomb (Green Things)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/5329922-acornsoft-games-pack-7-atom-blowing-up-with-a-gas-bomb-green-thi.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/58f69dc4-abdb-11ed-8437-02420a0001b0.webp",
+                "width": 256
+            },
+            {
                 "caption": "Starting out (Green Things)",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/5330549-acornsoft-games-pack-7-atom-starting-out-green-things.png",
@@ -1857,31 +1878,10 @@
                 "width": 256
             },
             {
-                "caption": "Starting out (Snake)",
+                "caption": "Map of the ship (Green Things)",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/5332196-acornsoft-games-pack-7-atom-starting-out-snake.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7be76afc-abdb-11ed-ad34-02420a0001b3.webp",
-                "width": 256
-            },
-            {
-                "caption": "Title screen (Snake)",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/5329832-acornsoft-games-pack-7-atom-title-screen-snake.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/57039396-abdb-11ed-8437-02420a0001b0.webp",
-                "width": 256
-            },
-            {
-                "caption": "Title screen (Green Things)",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/5330661-acornsoft-games-pack-7-atom-title-screen-green-things.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/647bfb58-abdb-11ed-8437-02420a0001b0.webp",
-                "width": 256
-            },
-            {
-                "caption": "Attacking with comm. beamer (Green Things)",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/5330194-acornsoft-games-pack-7-atom-attacking-with-comm-beamer-green-thi.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5d486c18-abdb-11ed-8437-02420a0001b0.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/5330445-acornsoft-games-pack-7-atom-map-of-the-ship-green-things.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/612f3e1a-abdb-11ed-8437-02420a0001b0.webp",
                 "width": 256
             }
         ],
@@ -1980,20 +1980,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Getting killed (Robots)",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/5413139-acornsoft-games-pack-8-atom-getting-killed-robots.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/99820108-abe5-11ed-abf4-02420a000114.webp",
-                "width": 256
-            },
-            {
-                "caption": "Game over (Stargate)",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/5415428-acornsoft-games-pack-8-atom-game-over-stargate.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b9b2645e-abe5-11ed-98f4-02420a00010c.webp",
-                "width": 256
-            },
-            {
                 "caption": "Starting out (Gomoku)",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/5413004-acornsoft-games-pack-8-atom-starting-out-gomoku.png",
@@ -2001,17 +1987,31 @@
                 "width": 256
             },
             {
-                "caption": "AI won (Gomoku)",
+                "caption": "Title screen with instructions (Stargate)",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/5413543-acornsoft-games-pack-8-atom-ai-won-gomoku.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9f10ceec-abe5-11ed-abf4-02420a000114.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/5411848-acornsoft-games-pack-8-atom-title-screen-with-instructions-starg.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/87dd11cc-abe5-11ed-98f4-02420a00010c.webp",
                 "width": 256
             },
             {
-                "caption": "Aliens attacking (Stargate)",
+                "caption": "Starting out (Robots)",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/5415397-acornsoft-games-pack-8-atom-aliens-attacking-stargate.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b97aa3fc-abe5-11ed-868b-02420a00010e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/5413335-acornsoft-games-pack-8-atom-starting-out-robots.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9bf04058-abe5-11ed-abf4-02420a000114.webp",
+                "width": 256
+            },
+            {
+                "caption": "About to begin (Stargate)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/5415593-acornsoft-games-pack-8-atom-about-to-begin-stargate.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bc8ce4c4-abe5-11ed-868b-02420a00010e.webp",
+                "width": 256
+            },
+            {
+                "caption": "Getting killed (Robots)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/5413139-acornsoft-games-pack-8-atom-getting-killed-robots.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/99820108-abe5-11ed-abf4-02420a000114.webp",
                 "width": 256
             }
         ],
@@ -2110,31 +2110,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Level cleared (Snapper)",
+                "caption": "Showing map (Minotaur)",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/5420229-acornsoft-games-pack-9-atom-level-cleared-snapper.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f92451ec-abe5-11ed-8dc4-02420a000113.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/5420644-acornsoft-games-pack-9-atom-showing-map-minotaur.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ff0758b6-abe5-11ed-8dc4-02420a000113.webp",
                 "width": 256
             },
             {
-                "caption": "Starting out (Snapper)",
+                "caption": "Game over (Babies)",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/5419539-acornsoft-games-pack-9-atom-starting-out-snapper.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f0443600-abe5-11ed-82f3-02420a000111.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/5419720-acornsoft-games-pack-9-atom-game-over-babies.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f31ddbce-abe5-11ed-9bc2-02420a00010a.webp",
                 "width": 256
             },
             {
-                "caption": "Seeing a chest in the distance (Minotaur)",
+                "caption": "Starting out (Minotaur)",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/5420870-acornsoft-games-pack-9-atom-seeing-a-chest-in-the-distance-minot.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/01f4ad26-abe6-11ed-8dc4-02420a000113.webp",
-                "width": 256
-            },
-            {
-                "caption": "Getting killed (Snapper)",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/5419759-acornsoft-games-pack-9-atom-getting-killed-snapper.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f3810532-abe5-11ed-8dc4-02420a000113.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/5420436-acornsoft-games-pack-9-atom-starting-out-minotaur.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fbabb4be-abe5-11ed-8dc4-02420a000113.webp",
                 "width": 256
             },
             {
@@ -2142,6 +2135,13 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/5419166-acornsoft-games-pack-9-atom-encounter-with-minotaur-minotaur.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/eb320246-abe5-11ed-82f3-02420a000111.webp",
+                "width": 256
+            },
+            {
+                "caption": "Getting killed (Snapper)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/5419759-acornsoft-games-pack-9-atom-getting-killed-snapper.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f3810532-abe5-11ed-8dc4-02420a000113.webp",
                 "width": 256
             }
         ],
@@ -2249,20 +2249,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Game over (Hectic)",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/5442582-acornsoft-games-pack-10-atom-game-over-hectic.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/75afb1d4-abe6-11ed-9eb0-02420a000136.webp",
-                "width": 256
-            },
-            {
-                "caption": "Game over (Squash)",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/5438307-acornsoft-games-pack-10-atom-game-over-squash.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/72d9105e-abe6-11ed-b6e7-02420a000135.webp",
-                "width": 256
-            },
-            {
                 "caption": "Crashing (Snake)",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/5440396-acornsoft-games-pack-10-atom-crashing-snake.png",
@@ -2270,17 +2256,31 @@
                 "width": 256
             },
             {
-                "caption": "Game in progress (Squash)",
+                "caption": "Start screen (Ski)",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/5438310-acornsoft-games-pack-10-atom-game-in-progress-squash.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/73012b52-abe6-11ed-b6e7-02420a000135.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/5439984-acornsoft-games-pack-10-atom-start-screen-ski.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/756920ac-abe6-11ed-ad33-02420a00012d.webp",
                 "width": 256
             },
             {
-                "caption": "Starting out (Mastermind)",
+                "caption": "Starting out (Breakout)",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/5442585-acornsoft-games-pack-10-atom-starting-out-mastermind.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/75d8e59a-abe6-11ed-9eb0-02420a000136.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/5442428-acornsoft-games-pack-10-atom-starting-out-breakout.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/77355c3e-abe6-11ed-a599-02420a000132.webp",
+                "width": 256
+            },
+            {
+                "caption": "Missing the ball (Breakout)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/5442431-acornsoft-games-pack-10-atom-missing-the-ball-breakout.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/77b767ec-abe6-11ed-a599-02420a000132.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting out (Snake)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/5440393-acornsoft-games-pack-10-atom-starting-out-snake.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/772594b6-abe6-11ed-9c12-02420a00012f.webp",
                 "width": 256
             }
         ],
@@ -2339,6 +2339,20 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Starting out with drawing some lines",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/5540117-acornsoft-life-atom-starting-out-with-drawing-some-lines.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/44efebf8-abe7-11ed-a599-02420a000132.webp",
+                "width": 256
+            },
+            {
+                "caption": "Predefined patterns evolving",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/5540123-acornsoft-life-atom-predefined-patterns-evolving.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/455097fa-abe7-11ed-a599-02420a000132.webp",
+                "width": 256
+            },
+            {
                 "caption": "The game can be run in four resolutions - this is the highest (256x192)",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/5540111-acornsoft-life-atom-the-game-can-be-run-in-four-resolutions-this.png",
@@ -2353,24 +2367,10 @@
                 "width": 256
             },
             {
-                "caption": "Starting out with drawing some lines",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/5540117-acornsoft-life-atom-starting-out-with-drawing-some-lines.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/44efebf8-abe7-11ed-a599-02420a000132.webp",
-                "width": 256
-            },
-            {
                 "caption": "Placing all the predefined patterns on the screen",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/5540126-acornsoft-life-atom-placing-all-the-predefined-patterns-on-the-s.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/456f9268-abe7-11ed-a599-02420a000132.webp",
-                "width": 256
-            },
-            {
-                "caption": "Predefined patterns evolving",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/5540123-acornsoft-life-atom-predefined-patterns-evolving.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/455097fa-abe7-11ed-a599-02420a000132.webp",
                 "width": 256
             }
         ],
@@ -2449,20 +2449,6 @@
                 "width": 256
             },
             {
-                "caption": "Starting out",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/8198125-warlords-atom-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3c03eda4-abfc-11ed-833b-02420a000131.webp",
-                "width": 256
-            },
-            {
-                "caption": "Not much defence left here",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/8196918-warlords-atom-not-much-defence-left-here.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/423f9d12-abfc-11ed-893a-02420a00012f.webp",
-                "width": 256
-            },
-            {
                 "caption": "Title screen",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/8197453-warlords-atom-title-screen.png",
@@ -2474,6 +2460,20 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/8200534-warlords-atom-these-targets-give-bonus-points-when-hit.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/453f5b1a-abfc-11ed-a161-02420a000136.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting out",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8198125-warlords-atom-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3c03eda4-abfc-11ed-833b-02420a000131.webp",
+                "width": 256
+            },
+            {
+                "caption": "Not much defence left here",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8196918-warlords-atom-not-much-defence-left-here.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/423f9d12-abfc-11ed-893a-02420a00012f.webp",
                 "width": 256
             }
         ],
@@ -2545,17 +2545,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Getting a score",
+                "caption": "Getting killed",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/8210333-dambusters-atom-getting-a-score.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5c29e0ca-abfc-11ed-a12e-02420a000130.webp",
-                "width": 256
-            },
-            {
-                "caption": "Starting out",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/8208619-dambusters-atom-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5ae7fcd8-abfc-11ed-ac61-02420a00012e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/8205198-dambusters-atom-getting-killed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/50fb3686-abfc-11ed-b85a-02420a000135.webp",
                 "width": 256
             },
             {
@@ -2566,6 +2559,13 @@
                 "width": 256
             },
             {
+                "caption": "Title screen",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8209499-dambusters-atom-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5c5fc4a6-abfc-11ed-9fde-02420a000132.webp",
+                "width": 256
+            },
+            {
                 "caption": "The dam has taken some damage",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/8212737-dambusters-atom-the-dam-has-taken-some-damage.png",
@@ -2573,10 +2573,10 @@
                 "width": 256
             },
             {
-                "caption": "The dame is destroyed",
+                "caption": "Starting out",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/8207435-dambusters-atom-the-dame-is-destroyed.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/55674e58-abfc-11ed-83f5-02420a000134.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/8208619-dambusters-atom-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5ae7fcd8-abfc-11ed-ac61-02420a00012e.webp",
                 "width": 256
             }
         ],
@@ -2657,17 +2657,17 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Countdown",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8280875-3d-asteroids-atom-countdown.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e3871272-abfc-11ed-927d-02420a00012f.webp",
+                "width": 256
+            },
+            {
                 "caption": "Game completed",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/8289048-3d-asteroids-atom-game-completed.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/fbe3ae20-abfc-11ed-893a-02420a00012f.webp",
-                "width": 256
-            },
-            {
-                "caption": "Asteroids getting dangerously close",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/8284192-3d-asteroids-atom-asteroids-getting-dangerously-close.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f1523710-abfc-11ed-8ce3-02420a000131.webp",
                 "width": 256
             },
             {
@@ -2678,17 +2678,17 @@
                 "width": 256
             },
             {
-                "caption": "Colliding with an asteroid",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/8739968-3d-asteroids-atom-colliding-with-an-asteroid.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4d791b22-ac01-11ed-af3d-02420a00012f.webp",
-                "width": 256
-            },
-            {
                 "caption": "Title screen with instructions",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/8280878-3d-asteroids-atom-title-screen-with-instructions.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/e3be5624-abfc-11ed-927d-02420a00012f.webp",
+                "width": 256
+            },
+            {
+                "caption": "Colliding with an asteroid",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8739968-3d-asteroids-atom-colliding-with-an-asteroid.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4d791b22-ac01-11ed-af3d-02420a00012f.webp",
                 "width": 256
             }
         ],

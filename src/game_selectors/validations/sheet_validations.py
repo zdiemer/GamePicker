@@ -142,6 +142,16 @@ def sheet_validations(
             g_copy.group_metadata = "Double Spaces"
             invalid_games.append(g_copy)
 
+        # Start Date After Completed Date
+        if (
+            game.date_started is not None
+            and game.date_completed is not None
+            and game.date_started > game.date_completed
+        ):
+            g_copy = copy.copy(game)
+            g_copy.group_metadata = "Start Date After Completed Date"
+            invalid_games.append(g_copy)
+
     games_dict = {g.hash_id: g for g in data_provider.get_games()}
 
     def round_to_2(num: float) -> float:
@@ -199,6 +209,12 @@ def sheet_validations(
                 g_copy.group_metadata = "Completed: Completed Date Mismatch"
                 invalid_games.append(g_copy)
 
+            # Started Date Mismatch
+            if game.date_started != games_dict[game.hash_id].date_started:
+                g_copy = copy.copy(game)
+                g_copy.group_metadata = "Completed: Completed Start Date Mismatch"
+                invalid_games.append(g_copy)
+
             # Missing VR Metadata
             if game.played_in_vr and not games_dict[game.hash_id].vr:
                 g_copy = copy.copy(game)
@@ -234,7 +250,7 @@ def sheet_validations(
     for game in merged_games:
         if any(game.child_games) and game.hash_id in games_dict:
             # Collection's Total Playtime Doesn't Match Individual Entries
-            if round_to_2(sum(g.completion_time or 0 for g in game.child_games)) != (
+            if round_to_2(sum(g.completion_time or 0 for g in game.child_games)) > (
                 round_to_2(games_dict[game.hash_id].completion_time or 0)
             ):
                 g_copy = copy.copy(game)

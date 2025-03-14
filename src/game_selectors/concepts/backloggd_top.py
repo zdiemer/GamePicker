@@ -5,6 +5,7 @@ from excel_game import ExcelGame
 from data_provider import DataProvider
 from game_grouping import GameGrouping
 from game_selector import GameSelector
+from picker_enums import PickerMode
 
 
 def backloggd_top(
@@ -47,4 +48,5 @@ def get_backloggd_top_selector(data_provider: DataProvider) -> GameSelector:
         skip_unless_specified=True,
         no_force=True,
         name="Backloggd Top",
+        run_on_modes=set([PickerMode.ALL]),
     )

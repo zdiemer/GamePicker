@@ -81,31 +81,31 @@
                 "width": 512
             },
             {
-                "caption": "Handy overview map",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16743541-die-bahnwelt-sharp-x68000-handy-overview-map.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3bacd746-c338-11ed-9a87-02420a0001b4.webp",
-                "width": 640
-            },
-            {
-                "caption": "Intro",
+                "caption": "and his henchman",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/15729093-die-bahnwelt-sharp-x68000-intro.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/65f76958-bed3-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15837844-die-bahnwelt-sharp-x68000-and-his-henchman.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b9ae9e6e-bef5-11ed-9c42-02420a000140.webp",
                 "width": 512
             },
             {
-                "caption": "Ouch... watch it! I don't want to be killed by... soap bubbles",
+                "caption": "Cozy cave, leg-only monsters, and a new fancy fire circle-spitting weapon in the hands of my green-haired anime girl friend... Life is good!",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16267087-die-bahnwelt-sharp-x68000-ouch-watch-it-i-dont-want-to-be-killed.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f32600ce-c1e3-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15852929-die-bahnwelt-sharp-x68000-cozy-cave-leg-only-monsters-and-a-new-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/45676234-befa-11ed-9c42-02420a000140.webp",
                 "width": 512
             },
             {
-                "caption": "Arrr, those turrets need to be dealt with! Fortunately, they never respawn",
+                "caption": "This intro takes up a whole disk (Opening disk)",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16267081-die-bahnwelt-sharp-x68000-arrr-those-turrets-need-to-be-dealt-wi.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f2c48af6-c1e3-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15665723-die-bahnwelt-sharp-x68000-this-intro-takes-up-a-whole-disk-openi.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d02e2994-bebd-11ed-9c42-02420a000140.webp",
+                "width": 512
+            },
+            {
+                "caption": "Title screen",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/15728937-die-bahnwelt-sharp-x68000-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5609b118-bed3-11ed-9c42-02420a000140.webp",
                 "width": 512
             }
         ],
@@ -186,13 +186,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Oops...",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/15635966-geograph-seal-sharp-x68000-oops.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bc5da3e0-bdeb-11ed-b791-02420a0001bb.webp",
-                "width": 640
-            },
-            {
                 "caption": "View of the plant",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/16743478-geograph-seal-sharp-x68000-view-of-the-plant.png",
@@ -200,24 +193,31 @@
                 "width": 640
             },
             {
-                "caption": "Let's go!..",
+                "caption": "Descending",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16743490-geograph-seal-sharp-x68000-lets-go.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/30c60d84-c338-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16743487-geograph-seal-sharp-x68000-descending.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2fb99122-c338-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
-                "caption": "Blasting at enemy. The enemy turns white",
+                "caption": "Taste my laser!..",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16743496-geograph-seal-sharp-x68000-blasting-at-enemy-the-enemy-turns-whi.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/310731e2-c338-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16743499-geograph-seal-sharp-x68000-taste-my-laser.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/312fb900-c338-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
-                "caption": "Mini-map and gun selection",
+                "caption": "Intro",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16743481-geograph-seal-sharp-x68000-mini-map-and-gun-selection.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2f7d3d44-c338-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16743472-geograph-seal-sharp-x68000-intro.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2f2130d0-c338-11ed-9a87-02420a0001b4.webp",
+                "width": 640
+            },
+            {
+                "caption": "Abstract 3D",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16743475-geograph-seal-sharp-x68000-abstract-3d.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2f3d9932-c338-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             }
         ],
@@ -334,39 +334,39 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Intro",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16744000-aquales-sharp-x68000-intro.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/80a84b6e-c338-11ed-9a87-02420a0001b4.webp",
-                "width": 640
-            },
-            {
-                "caption": "Whee! Robots ride little cute mine carts!",
+                "caption": "Weapon selection screen",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16267894-aquales-sharp-x68000-whee-robots-ride-little-cute-mine-carts.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3973fbda-c1e4-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16267897-aquales-sharp-x68000-weapon-selection-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3995f2b2-c1e4-11ed-ab6b-02420a000194.webp",
                 "width": 512
             },
             {
-                "caption": "Say hello to my deadly shields, my little red friend!",
+                "caption": "Title screen",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16744405-aquales-sharp-x68000-say-hello-to-my-deadly-shields-my-little-re.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c4afddae-c338-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16743988-aquales-sharp-x68000-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7ffae154-c338-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
-                "caption": "So, is she Leah or Rachel? Jacob might get confused :)",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16743985-aquales-sharp-x68000-so-is-she-leah-or-rachel-jacob-might-get-co.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7fd353aa-c338-11ed-9a87-02420a0001b4.webp",
-                "width": 640
-            },
-            {
-                "caption": "No, the boss is on the other side. Just turn around",
+                "caption": "Rocky cave, waterfall, and a flamethrower in my hands. Ahhh... vacation",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16268122-aquales-sharp-x68000-no-the-boss-is-on-the-other-side-just-turn-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5d1898c0-c1e4-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16268032-aquales-sharp-x68000-rocky-cave-waterfall-and-a-flamethrower-in-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4e321034-c1e4-11ed-ab6b-02420a000194.webp",
                 "width": 512
+            },
+            {
+                "caption": "Cutscene between missions",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16743991-aquales-sharp-x68000-cutscene-between-missions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8025d8f0-c338-11ed-9a87-02420a0001b4.webp",
+                "width": 640
+            },
+            {
+                "caption": "These guys shoot electric current if I just try to walk through them",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16743982-aquales-sharp-x68000-these-guys-shoot-electric-current-if-i-just.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7fad351c-c338-11ed-9a87-02420a0001b4.webp",
+                "width": 640
             }
         ],
         "title": "Aquales"
@@ -446,17 +446,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Part-time job",
+                "caption": "Shopping",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16234587-prostitute-maker-sharp-x68000-part-time-job.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/24903f6c-c1da-11ed-ab6b-02420a000194.webp",
-                "width": 512
-            },
-            {
-                "caption": "Working in a lingerie shop",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16234599-prostitute-maker-sharp-x68000-working-in-a-lingerie-shop.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/25522622-c1da-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16234896-prostitute-maker-sharp-x68000-shopping.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4b995af8-c1da-11ed-ab6b-02420a000194.webp",
                 "width": 512
             },
             {
@@ -467,17 +460,24 @@
                 "width": 512
             },
             {
-                "caption": "Shopping",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16234896-prostitute-maker-sharp-x68000-shopping.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4b995af8-c1da-11ed-ab6b-02420a000194.webp",
-                "width": 512
-            },
-            {
                 "caption": "The poor girl...",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/16234578-prostitute-maker-sharp-x68000-the-poor-girl.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/24112d30-c1da-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Full-screen event",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/16234602-prostitute-maker-sharp-x68000-full-screen-event.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/257b6e38-c1da-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Title screen",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/16234902-prostitute-maker-sharp-x68000-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4be6ff24-c1da-11ed-ab6b-02420a000194.webp",
                 "width": 512
             }
         ],
@@ -576,17 +576,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "I'm already afraid of this adversary...",
+                "caption": "Death from braindead, yet powerful enemies amidst repetitive backgrounds - what can be worse than that?..",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16235349-guerriere-lyeward-sharp-x68000-im-already-afraid-of-this-adversa.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7772664c-c1da-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16236070-guerriere-lyeward-sharp-x68000-death-from-braindead-yet-powerful.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/aefa6f9c-c1da-11ed-ab6b-02420a000194.webp",
                 "width": 512
             },
             {
-                "caption": "...and here it comes!..",
+                "caption": "...until women started behaving like... err... ahem!.. certain women already behave :)",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16235355-guerriere-lyeward-sharp-x68000-and-here-it-comes.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/77e44988-c1da-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16235836-guerriere-lyeward-sharp-x68000-until-women-started-behaving-like.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9a9bac6e-c1da-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "The first boss battle",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/16236067-guerriere-lyeward-sharp-x68000-the-first-boss-battle.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/aed7dc20-c1da-11ed-ab6b-02420a000194.webp",
                 "width": 512
             },
             {
@@ -597,17 +604,10 @@
                 "width": 512
             },
             {
-                "caption": "...needs some consolation...",
+                "caption": "Title screen",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16235352-guerriere-lyeward-sharp-x68000-needs-some-consolation.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/77b53fd0-c1da-11ed-ab6b-02420a000194.webp",
-                "width": 512
-            },
-            {
-                "caption": "Getting started",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16235833-guerriere-lyeward-sharp-x68000-getting-started.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9a71a874-c1da-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16235846-guerriere-lyeward-sharp-x68000-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9ae0f4c2-c1da-11ed-ab6b-02420a000194.webp",
                 "width": 512
             }
         ],
@@ -715,20 +715,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Killed by enemy fire...",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16235343-knight-arms-the-hyblid-framer-sharp-x68000-killed-by-enemy-fire.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/770e7db2-c1da-11ed-ab6b-02420a000194.webp",
-                "width": 512
-            },
-            {
-                "caption": "Altitude plays an important role",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16235484-knight-arms-the-hyblid-framer-sharp-x68000-altitude-plays-an-imp.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/837f975c-c1da-11ed-ab6b-02420a000194.webp",
-                "width": 512
-            },
-            {
                 "caption": "Title screen",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/16235481-knight-arms-the-hyblid-framer-sharp-x68000-title-screen.png",
@@ -736,17 +722,31 @@
                 "width": 512
             },
             {
+                "caption": "Killed by enemy fire...",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/16235343-knight-arms-the-hyblid-framer-sharp-x68000-killed-by-enemy-fire.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/770e7db2-c1da-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Getting on the ground",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/16235487-knight-arms-the-hyblid-framer-sharp-x68000-getting-on-the-ground.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/83a300b6-c1da-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Intro",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/15634502-knight-arms-the-hyblid-framer-sharp-x68000-intro.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/26406424-bdeb-11ed-b791-02420a0001bb.webp",
+                "width": 512
+            },
+            {
                 "caption": "Entering a side-scrolling stage",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/16235337-knight-arms-the-hyblid-framer-sharp-x68000-entering-a-side-scrol.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/76ad6d06-c1da-11ed-ab6b-02420a000194.webp",
-                "width": 512
-            },
-            {
-                "caption": "The protagonist...",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16235346-knight-arms-the-hyblid-framer-sharp-x68000-the-protagonist.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/773bb886-c1da-11ed-ab6b-02420a000194.webp",
                 "width": 512
             }
         ],
@@ -836,38 +836,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "What is this, the other guy's Dad?!..",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16236838-last-battalion-sharp-x68000-what-is-this-the-other-guys-dad.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/eb08a562-c1da-11ed-ab6b-02420a000194.webp",
+                "caption": "Intro",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16237507-last-battalion-sharp-x68000-intro.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/20397040-c1db-11ed-ab6b-02420a000194.webp",
                 "width": 512
             },
             {
-                "caption": "Title screen",
+                "caption": "Asteroids? Planetoids? Whatever it is",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16237366-last-battalion-sharp-x68000-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/156e7d5e-c1db-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16237375-last-battalion-sharp-x68000-asteroids-planetoids-whatever-it-is.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/15d7c426-c1db-11ed-ab6b-02420a000194.webp",
                 "width": 512
             },
             {
-                "caption": "Spreading fire",
+                "caption": "Nice option mode!..",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16236571-last-battalion-sharp-x68000-spreading-fire.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d52a90b6-c1da-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16236832-last-battalion-sharp-x68000-nice-option-mode.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/eac6d45c-c1da-11ed-ab6b-02420a000194.webp",
                 "width": 512
             },
             {
-                "caption": "Tricky enemy with little annoying guys",
+                "caption": "This boss looks... determined",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16236883-last-battalion-sharp-x68000-tricky-enemy-with-little-annoying-gu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/efb65d66-c1da-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16236841-last-battalion-sharp-x68000-this-boss-looks-determined.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/eb2d4282-c1da-11ed-ab6b-02420a000194.webp",
                 "width": 512
             },
             {
-                "caption": "Reclusive boss in an asteroid field",
+                "caption": "Getting started. Basic fire",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16236877-last-battalion-sharp-x68000-reclusive-boss-in-an-asteroid-field.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ef7140d2-c1da-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16236874-last-battalion-sharp-x68000-getting-started-basic-fire.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ef4b48f0-c1da-11ed-ab6b-02420a000194.webp",
                 "width": 512
             }
         ],
@@ -948,10 +948,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Ground enemies",
+                "caption": "Oh no!..",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16236850-naious-sharp-x68000-ground-enemies.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ebacc516-c1da-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16236730-naious-sharp-x68000-oh-no.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e25ff8fc-c1da-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Getting started",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/16236733-naious-sharp-x68000-getting-started.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e27d9682-c1da-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Indoor stage. Don't bump into walls!..",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/16236763-naious-sharp-x68000-indoor-stage-dont-bump-into-walls.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e5f59a1c-c1da-11ed-ab6b-02420a000194.webp",
                 "width": 512
             },
             {
@@ -962,24 +976,10 @@
                 "width": 512
             },
             {
-                "caption": "Asteroids, shmasteroids...",
+                "caption": "Ground enemies",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16236853-naious-sharp-x68000-asteroids-shmasteroids.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ed4f2cba-c1da-11ed-ab6b-02420a000194.webp",
-                "width": 512
-            },
-            {
-                "caption": "Interesting views here...",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16236760-naious-sharp-x68000-interesting-views-here.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e5cf8656-c1da-11ed-ab6b-02420a000194.webp",
-                "width": 512
-            },
-            {
-                "caption": "Oh no!..",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16236730-naious-sharp-x68000-oh-no.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e25ff8fc-c1da-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16236850-naious-sharp-x68000-ground-enemies.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ebacc516-c1da-11ed-ab6b-02420a000194.webp",
                 "width": 512
             }
         ],
@@ -1069,17 +1069,17 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Title screen A",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/16237360-nemesis-90-kai-sharp-x68000-title-screen-a.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1518e664-c1db-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
                 "caption": "Boss battle. Get out of there!..",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/16237240-nemesis-90-kai-sharp-x68000-boss-battle-get-out-of-there.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/0a20cf92-c1db-11ed-ab6b-02420a000194.webp",
-                "width": 512
-            },
-            {
-                "caption": "Dr. Venom looks like he failed an audition for the role of a minor orc commander in a Lord of the Rings movie",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16237300-nemesis-90-kai-sharp-x68000-dr-venom-looks-like-he-failed-an-aud.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/121cc7f0-c1db-11ed-ab6b-02420a000194.webp",
                 "width": 512
             },
             {
@@ -1090,17 +1090,17 @@
                 "width": 512
             },
             {
-                "caption": "Title screen B + Main menu",
+                "caption": "Getting started",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16237297-nemesis-90-kai-sharp-x68000-title-screen-b-main-menu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/11fb8734-c1db-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16236979-nemesis-90-kai-sharp-x68000-getting-started.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f7535f4c-c1da-11ed-ab6b-02420a000194.webp",
                 "width": 512
             },
             {
-                "caption": "Your ship",
+                "caption": "Treacherous turrets",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16236886-nemesis-90-kai-sharp-x68000-your-ship.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/efd3a362-c1da-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16237237-nemesis-90-kai-sharp-x68000-treacherous-turrets.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0a00a2ee-c1db-11ed-ab6b-02420a000194.webp",
                 "width": 512
             }
         ],
@@ -1190,10 +1190,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title screen",
+                "caption": "Lovely backgrounds. Deadly turrets",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16237369-scorpius-sharp-x68000-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1591efdc-c1db-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16237396-scorpius-sharp-x68000-lovely-backgrounds-deadly-turrets.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/17399f9c-c1db-11ed-ab6b-02420a000194.webp",
                 "width": 512
             },
             {
@@ -1204,17 +1204,17 @@
                 "width": 512
             },
             {
-                "caption": "Lovely backgrounds. Deadly turrets",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16237396-scorpius-sharp-x68000-lovely-backgrounds-deadly-turrets.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/17399f9c-c1db-11ed-ab6b-02420a000194.webp",
-                "width": 512
-            },
-            {
                 "caption": "Underwater stage",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/16237495-scorpius-sharp-x68000-underwater-stage.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/1f6b1286-c1db-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Title screen",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/16237369-scorpius-sharp-x68000-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1591efdc-c1db-11ed-ab6b-02420a000194.webp",
                 "width": 512
             },
             {
@@ -1289,13 +1289,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Sometimes there are just a few commands",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16244998-yami-no-ketsuzoku-sharp-x68000-sometimes-there-are-just-a-few-co.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/614eef7c-c1dd-11ed-ab6b-02420a000194.webp",
-                "width": 512
-            },
-            {
                 "caption": "Miyu's supernatural perception at work...",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/16244506-yami-no-ketsuzoku-sharp-x68000-miyus-supernatural-perception-at-.png",
@@ -1303,24 +1296,31 @@
                 "width": 512
             },
             {
-                "caption": "Chatting with Risa, a friend. Dialogue choices",
+                "caption": "...and of its people",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16244518-yami-no-ketsuzoku-sharp-x68000-chatting-with-risa-a-friend-dialo.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/447de4a2-c1dd-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16244503-yami-no-ketsuzoku-sharp-x68000-and-of-its-people.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/439b1fdc-c1dd-11ed-ab6b-02420a000194.webp",
                 "width": 512
             },
             {
-                "caption": "Realistic views of Tokyo...",
+                "caption": "Cinematic intro",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16244521-yami-no-ketsuzoku-sharp-x68000-realistic-views-of-tokyo.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/44cdb2de-c1dd-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16244995-yami-no-ketsuzoku-sharp-x68000-cinematic-intro.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6121c718-c1dd-11ed-ab6b-02420a000194.webp",
                 "width": 512
             },
             {
-                "caption": "The game has very large amounts of text",
+                "caption": "This looks like a nice place...",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16244500-yami-no-ketsuzoku-sharp-x68000-the-game-has-very-large-amounts-o.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/43640754-c1dd-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16244665-yami-no-ketsuzoku-sharp-x68000-this-looks-like-a-nice-place.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4e432ae2-c1dd-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Miyu is thinking",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/16244512-yami-no-ketsuzoku-sharp-x68000-miyu-is-thinking.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/441f016c-c1dd-11ed-ab6b-02420a000194.webp",
                 "width": 512
             }
         ],
@@ -1383,10 +1383,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The game begins far away from blood and murders...",
+                "caption": "One of the game's scary supernatural scenes",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16245301-yami-no-ketsuzoku-kanketsu-hen-sharp-x68000-the-game-begins-far-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/75dd26d4-c1dd-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16245316-yami-no-ketsuzoku-kanketsu-hen-sharp-x68000-one-of-the-games-sca.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/76abaa36-c1dd-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Looks impressive...",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/16245544-yami-no-ketsuzoku-kanketsu-hen-sharp-x68000-looks-impressive.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8848cb98-c1dd-11ed-ab6b-02420a000194.webp",
                 "width": 512
             },
             {
@@ -1397,24 +1404,17 @@
                 "width": 512
             },
             {
-                "caption": "...but also see some awful stuff",
+                "caption": "Uhm... okay, this is not a hentai game, but I guess the Japanese simply cannot do otherwise...",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16245322-yami-no-ketsuzoku-kanketsu-hen-sharp-x68000-but-also-see-some-aw.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/77d26878-c1dd-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16245535-yami-no-ketsuzoku-kanketsu-hen-sharp-x68000-uhm-okay-this-is-not.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/87cba2ee-c1dd-11ed-ab6b-02420a000194.webp",
                 "width": 512
             },
             {
-                "caption": "Title screen",
+                "caption": "An old acquaintance",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16245310-yami-no-ketsuzoku-kanketsu-hen-sharp-x68000-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/76586330-c1dd-11ed-ab6b-02420a000194.webp",
-                "width": 512
-            },
-            {
-                "caption": "Arrived and even speaking Spanish! :)",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16245307-yami-no-ketsuzoku-kanketsu-hen-sharp-x68000-arrived-and-even-spe.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/76399e96-c1dd-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16245313-yami-no-ketsuzoku-kanketsu-hen-sharp-x68000-an-old-acquaintance.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7685ffe8-c1dd-11ed-ab6b-02420a000194.webp",
                 "width": 512
             }
         ],
@@ -1495,38 +1495,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Whack-a-mole?.. Poor moles!..",
+                "caption": "Nothing ever works in Fail Land :)",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16268188-etoile-princesse-sharp-x68000-whack-a-mole-poor-moles.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/652fb282-c1e4-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16268317-etoile-princesse-sharp-x68000-nothing-ever-works-in-fail-land.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/72610302-c1e4-11ed-ab6b-02420a000194.webp",
                 "width": 512
             },
             {
-                "caption": "The green-haired girl has an area wind attack. Note that cool-looking armored guy waving his flail",
+                "caption": "Fighting zombies in a graveyard",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16268326-etoile-princesse-sharp-x68000-the-green-haired-girl-has-an-area-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/73d3de94-c1e4-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16268353-etoile-princesse-sharp-x68000-fighting-zombies-in-a-graveyard.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/755798aa-c1e4-11ed-ab6b-02420a000194.webp",
                 "width": 512
             },
             {
-                "caption": "Selecting areas on the map",
+                "caption": "It's dark here... and all I can see are hedgehogs",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16268404-etoile-princesse-sharp-x68000-selecting-areas-on-the-map.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7b3c9f90-c1e4-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16268644-etoile-princesse-sharp-x68000-its-dark-here-and-all-i-can-see-ar.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9d74c948-c1e4-11ed-ab6b-02420a000194.webp",
                 "width": 512
             },
             {
-                "caption": "A weird dude is trying to ambush me in the tower",
+                "caption": "Mountain pass. This new character can shoot fireballs",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16268329-etoile-princesse-sharp-x68000-a-weird-dude-is-trying-to-ambush-m.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7403c528-c1e4-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16268410-etoile-princesse-sharp-x68000-mountain-pass-this-new-character-c.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7b9a7912-c1e4-11ed-ab6b-02420a000194.webp",
                 "width": 512
             },
             {
-                "caption": "Fighting skeletons. Don't step into that brown liquid",
+                "caption": "Very simple platform-like challenges",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16268647-etoile-princesse-sharp-x68000-fighting-skeletons-dont-step-into-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9d9fb018-c1e4-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16268320-etoile-princesse-sharp-x68000-very-simple-platform-like-challeng.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/72989a06-c1e4-11ed-ab6b-02420a000194.webp",
                 "width": 512
             }
         ],
@@ -1598,6 +1598,20 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Pre-stage picture",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/16268224-valusa-no-fukushu-sharp-x68000-pre-stage-picture.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6804ba16-c1e4-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Stil finds Tia",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/16268221-valusa-no-fukushu-sharp-x68000-stil-finds-tia.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/67de6262-c1e4-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
                 "caption": "Uh-oh, massive flying demon / undead attack right away...",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/16268164-valusa-no-fukushu-sharp-x68000-uh-oh-massive-flying-demon-undead.png",
@@ -1605,31 +1619,17 @@
                 "width": 512
             },
             {
+                "caption": "Valusa poses for the camera. Quite the fashion designer",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/16268203-valusa-no-fukushu-sharp-x68000-valusa-poses-for-the-camera-quite.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/66d91100-c1e4-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
                 "caption": "You look tense, dude. Listening to mellow jazz might help",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/16268209-valusa-no-fukushu-sharp-x68000-you-look-tense-dude-listening-to-.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/67341b18-c1e4-11ed-ab6b-02420a000194.webp",
-                "width": 512
-            },
-            {
-                "caption": "The first boss battle is against a giant sea crab with his minions",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16268212-valusa-no-fukushu-sharp-x68000-the-first-boss-battle-is-against-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/675c0bdc-c1e4-11ed-ab6b-02420a000194.webp",
-                "width": 512
-            },
-            {
-                "caption": "Title screen",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16268218-valusa-no-fukushu-sharp-x68000-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/67bab2c2-c1e4-11ed-ab6b-02420a000194.webp",
-                "width": 512
-            },
-            {
-                "caption": "Main menu",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16268200-valusa-no-fukushu-sharp-x68000-main-menu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/65dff4c6-c1e4-11ed-ab6b-02420a000194.webp",
                 "width": 512
             }
         ],
@@ -1715,38 +1715,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "I could also swear this park and the fountain were not there, either!",
+                "caption": "Dungeon exploration",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16273895-ys-sharp-x68000-i-could-also-swear-this-park-and-the-fountain-we.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6af3364c-c1e6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16271617-ys-sharp-x68000-dungeon-exploration.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ac0f1624-c1e5-11ed-ab6b-02420a000194.webp",
                 "width": 512
             },
             {
-                "caption": "Visiting a village",
+                "caption": "Quest-giver portraits are also radically different!",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16271794-ys-sharp-x68000-visiting-a-village.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b7b06cbc-c1e5-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16271987-ys-sharp-x68000-quest-giver-portraits-are-also-radically-differe.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cdfdc5b4-c1e5-11ed-ab6b-02420a000194.webp",
                 "width": 512
             },
             {
-                "caption": "Starting location. Looks quite different, eh?",
+                "caption": "All the portraits are completely different, with realistic style! This is the armor shop seller",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16273934-ys-sharp-x68000-starting-location-looks-quite-different-eh.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6ed1231e-c1e6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16273931-ys-sharp-x68000-all-the-portraits-are-completely-different-with-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6ea2d8d8-c1e6-11ed-ab6b-02420a000194.webp",
                 "width": 512
             },
             {
-                "caption": "Title screen A",
+                "caption": "Wilderness. Re-designed enemies",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16271482-ys-sharp-x68000-title-screen-a.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a4564a92-c1e5-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16273898-ys-sharp-x68000-wilderness-re-designed-enemies.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6b296028-c1e6-11ed-ab6b-02420a000194.webp",
                 "width": 512
             },
             {
-                "caption": "Lovely view that wasn't there in the original",
+                "caption": "Hmm, I'm not sure I want to buy anything here...",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16271791-ys-sharp-x68000-lovely-view-that-wasnt-there-in-the-original.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b77ff654-c1e5-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16273901-ys-sharp-x68000-hmm-im-not-sure-i-want-to-buy-anything-here.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6b62207a-c1e6-11ed-ab6b-02420a000194.webp",
                 "width": 512
             }
         ],
@@ -1872,20 +1872,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "...and a couple of rounds later",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16767828-break-down-sharp-x68000-and-a-couple-of-rounds-later.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/56be716c-c346-11ed-9a87-02420a0001b4.webp",
-                "width": 768
-            },
-            {
-                "caption": "...but the second reveals more",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16766690-break-down-sharp-x68000-but-the-second-reveals-more.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/66faca5e-c345-11ed-9a87-02420a0001b4.webp",
-                "width": 768
-            },
-            {
                 "caption": "The first picture is fully dressed...",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/16766687-break-down-sharp-x68000-the-first-picture-is-fully-dressed.png",
@@ -1893,10 +1879,10 @@
                 "width": 768
             },
             {
-                "caption": "Moving on to the second one - nice clothes!",
+                "caption": "Competing against the third girl",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16766696-break-down-sharp-x68000-moving-on-to-the-second-one-nice-clothes.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6754124e-c345-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16765952-break-down-sharp-x68000-competing-against-the-third-girl.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cb4fc3e8-c344-11ed-9a87-02420a0001b4.webp",
                 "width": 768
             },
             {
@@ -1905,6 +1891,20 @@
                 "image_url": "https://cdn.mobygames.com/screenshots/16230207-break-down-sharp-x68000-title-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/c3fafce2-c1d8-11ed-ab6b-02420a000194.webp",
                 "width": 640
+            },
+            {
+                "caption": "Second girl in lingerie only",
+                "height": 400,
+                "image_url": "https://cdn.mobygames.com/screenshots/16229749-break-down-sharp-x68000-second-girl-in-lingerie-only.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9f66fd86-c1d8-11ed-ab6b-02420a000194.webp",
+                "width": 640
+            },
+            {
+                "caption": "...but the second reveals more",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/16766690-break-down-sharp-x68000-but-the-second-reveals-more.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/66faca5e-c345-11ed-9a87-02420a0001b4.webp",
+                "width": 768
             }
         ],
         "title": "Break Down"
@@ -1919,44 +1919,8 @@
                     "name": "Basic Genres"
                 },
                 "description": null,
-                "id": 1,
-                "name": "Action"
-            },
-            {
-                "category": {
-                    "id": 1,
-                    "name": "Basic Genres"
-                },
-                "description": null,
                 "id": 76,
                 "name": "Compilation"
-            },
-            {
-                "category": {
-                    "id": 2,
-                    "name": "Perspective"
-                },
-                "description": null,
-                "id": 17,
-                "name": "Side view"
-            },
-            {
-                "category": {
-                    "id": 12,
-                    "name": "Visual Presentation"
-                },
-                "description": null,
-                "id": 133,
-                "name": "Fixed / flip-screen"
-            },
-            {
-                "category": {
-                    "id": 4,
-                    "name": "Gameplay"
-                },
-                "description": null,
-                "id": 9,
-                "name": "Arcade"
             }
         ],
         "id": 59496,
@@ -1984,10 +1948,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "V.s Unicorns - later level with different colored blocks",
+                "caption": "V.s Unicorns - level 1. As this is not Mr. Do!'s Castle, cherry blocks are absent.",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16317588-video-game-anthology-vol-10-mr-do-mr-do-vs-unicorns-sharp-x68000.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/06c188fe-c1f5-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16317591-video-game-anthology-vol-10-mr-do-mr-do-vs-unicorns-sharp-x68000.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/06dcf13e-c1f5-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -1998,6 +1962,13 @@
                 "width": 256
             },
             {
+                "caption": "Mr. Do - second title screen, including insert coin message",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16317606-video-game-anthology-vol-10-mr-do-mr-do-vs-unicorns-sharp-x68000.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/07bc964a-c1f5-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
                 "caption": "Compilation title screen",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/16317585-video-game-anthology-vol-10-mr-do-mr-do-vs-unicorns-sharp-x68000.png",
@@ -2005,21 +1976,14 @@
                 "width": 512
             },
             {
-                "caption": "Mr. Do - title screen",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16317609-video-game-anthology-vol-10-mr-do-mr-do-vs-unicorns-sharp-x68000.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/082910a4-c1f5-11ed-ab6b-02420a000194.webp",
-                "width": 512
-            },
-            {
-                "caption": "Mr. Do - level 2",
+                "caption": "V.s Unicorns - later level with different colored blocks",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16317597-video-game-anthology-vol-10-mr-do-mr-do-vs-unicorns-sharp-x68000.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0718292a-c1f5-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16317588-video-game-anthology-vol-10-mr-do-mr-do-vs-unicorns-sharp-x68000.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/06c188fe-c1f5-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
-        "title": "Video Game: Anthology - Vol. 10: Mr. Do! / Mr. Do! v.s Unicorns"
+        "title": "Video Game Anthology Vol. 10: Mr. Do! / Mr. Do! v.s Unicorns"
     },
     {
         "alternate_titles": [],
@@ -2096,10 +2060,24 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Start of the game - World 1, stage 1",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16432529-flappy-2-the-resurrection-of-blue-star-sharp-x68000-start-of-the.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/64655af2-c219-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
                 "caption": "Picking up the clock item adds +1000 to the time",
                 "height": 256,
                 "image_url": "https://cdn.mobygames.com/screenshots/16432532-flappy-2-the-resurrection-of-blue-star-sharp-x68000-picking-up-t.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/647eaade-c219-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Throwing the grey mushroom at enemies turns them into stone blocks",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16432238-flappy-2-the-resurrection-of-blue-star-sharp-x68000-throwing-the.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5113998c-c219-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -2110,24 +2088,10 @@
                 "width": 256
             },
             {
-                "caption": "Game Over",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16432613-flappy-2-the-resurrection-of-blue-star-sharp-x68000-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6944f12c-c219-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "World 2",
                 "height": 256,
                 "image_url": "https://cdn.mobygames.com/screenshots/16432595-flappy-2-the-resurrection-of-blue-star-sharp-x68000-world-2.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/68377cbe-c219-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Start of the game - World 1, stage 1",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16432529-flappy-2-the-resurrection-of-blue-star-sharp-x68000-start-of-the.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/64655af2-c219-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -2143,26 +2107,8 @@
                     "name": "Basic Genres"
                 },
                 "description": null,
-                "id": 1,
-                "name": "Action"
-            },
-            {
-                "category": {
-                    "id": 1,
-                    "name": "Basic Genres"
-                },
-                "description": null,
                 "id": 76,
                 "name": "Compilation"
-            },
-            {
-                "category": {
-                    "id": 4,
-                    "name": "Gameplay"
-                },
-                "description": null,
-                "id": 9,
-                "name": "Arcade"
             }
         ],
         "id": 65520,
@@ -2204,7 +2150,7 @@
                 "width": 512
             }
         ],
-        "title": "Video Game: Anthology - Vol. 12: Dig Dug / Dig Dug II"
+        "title": "Video Game Anthology Vol. 12: Dig Dug / Dig Dug II"
     },
     {
         "alternate_titles": [],
@@ -2216,26 +2162,8 @@
                     "name": "Basic Genres"
                 },
                 "description": null,
-                "id": 1,
-                "name": "Action"
-            },
-            {
-                "category": {
-                    "id": 1,
-                    "name": "Basic Genres"
-                },
-                "description": null,
                 "id": 76,
                 "name": "Compilation"
-            },
-            {
-                "category": {
-                    "id": 4,
-                    "name": "Gameplay"
-                },
-                "description": null,
-                "id": 9,
-                "name": "Arcade"
             }
         ],
         "id": 65532,
@@ -2263,13 +2191,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Crazy Climber 2 title screen",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16472362-video-game-anthology-vol-5-crazy-climber-crazy-climber-2-sharp-x.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b2bd614e-c224-11ed-ab6b-02420a000194.webp",
-                "width": 512
-            },
-            {
                 "caption": "Compilation title screen",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/16472356-video-game-anthology-vol-5-crazy-climber-crazy-climber-2-sharp-x.png",
@@ -2282,9 +2203,16 @@
                 "image_url": "https://cdn.mobygames.com/screenshots/16472359-video-game-anthology-vol-5-crazy-climber-crazy-climber-2-sharp-x.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/b272083e-c224-11ed-ab6b-02420a000194.webp",
                 "width": 512
+            },
+            {
+                "caption": "Crazy Climber 2 title screen",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/16472362-video-game-anthology-vol-5-crazy-climber-crazy-climber-2-sharp-x.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b2bd614e-c224-11ed-ab6b-02420a000194.webp",
+                "width": 512
             }
         ],
-        "title": "Video Game: Anthology - Vol. 5: Crazy Climber / Crazy Climber 2"
+        "title": "Video Game Anthology Vol. 5: Crazy Climber / Crazy Climber 2"
     },
     {
         "alternate_titles": [],
@@ -2296,44 +2224,8 @@
                     "name": "Basic Genres"
                 },
                 "description": null,
-                "id": 1,
-                "name": "Action"
-            },
-            {
-                "category": {
-                    "id": 1,
-                    "name": "Basic Genres"
-                },
-                "description": null,
                 "id": 76,
                 "name": "Compilation"
-            },
-            {
-                "category": {
-                    "id": 2,
-                    "name": "Perspective"
-                },
-                "description": null,
-                "id": 13,
-                "name": "Top-down"
-            },
-            {
-                "category": {
-                    "id": 4,
-                    "name": "Gameplay"
-                },
-                "description": null,
-                "id": 9,
-                "name": "Arcade"
-            },
-            {
-                "category": {
-                    "id": 4,
-                    "name": "Gameplay"
-                },
-                "description": null,
-                "id": 22,
-                "name": "Shooter"
             }
         ],
         "id": 65728,
@@ -2375,7 +2267,7 @@
                 "width": 512
             }
         ],
-        "title": "Video Game: Anthology - Vol. 1: Terra Cresta / Moon Cresta"
+        "title": "Video Game Anthology Vol. 1: Terra Cresta / Moon Cresta"
     },
     {
         "alternate_titles": [],
@@ -2389,33 +2281,6 @@
                 "description": null,
                 "id": 76,
                 "name": "Compilation"
-            },
-            {
-                "category": {
-                    "id": 1,
-                    "name": "Basic Genres"
-                },
-                "description": null,
-                "id": 5,
-                "name": "Sports"
-            },
-            {
-                "category": {
-                    "id": 4,
-                    "name": "Gameplay"
-                },
-                "description": null,
-                "id": 9,
-                "name": "Arcade"
-            },
-            {
-                "category": {
-                    "id": 3,
-                    "name": "Sports Themes"
-                },
-                "description": null,
-                "id": 51,
-                "name": "Wrestling"
             }
         ],
         "id": 65747,
@@ -2443,17 +2308,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Anthology title screen for Shusse Oozumou",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16479169-video-game-anthology-vol-8-exciting-hour-shusse-ozumo-sharp-x680.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/957a9e6a-c226-11ed-ab6b-02420a000194.webp",
-                "width": 512
-            },
-            {
                 "caption": "Compilation title screen",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/16479175-video-game-anthology-vol-8-exciting-hour-shusse-ozumo-sharp-x680.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/95c0b3d2-c226-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Exciting Hour title screen",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16479343-video-game-anthology-vol-8-exciting-hour-shusse-ozumo-sharp-x680.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9fd06a70-c226-11ed-ab6b-02420a000194.webp",
+                "width": 240
+            },
+            {
+                "caption": "Anthology title screen for Shusse Oozumou",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/16479169-video-game-anthology-vol-8-exciting-hour-shusse-ozumo-sharp-x680.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/957a9e6a-c226-11ed-ab6b-02420a000194.webp",
                 "width": 512
             },
             {
@@ -2464,13 +2336,6 @@
                 "width": 240
             },
             {
-                "caption": "Exciting Hour title screen",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16479343-video-game-anthology-vol-8-exciting-hour-shusse-ozumo-sharp-x680.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9fd06a70-c226-11ed-ab6b-02420a000194.webp",
-                "width": 240
-            },
-            {
                 "caption": "Anthology title screen for Exciting Hour",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/16479172-video-game-anthology-vol-8-exciting-hour-shusse-ozumo-sharp-x680.png",
@@ -2478,7 +2343,7 @@
                 "width": 512
             }
         ],
-        "title": "Video Game: Anthology - Vol. 8: Exciting Hour / Shusse \u014czum\u014d"
+        "title": "Video Game Anthology Vol. 8: Exciting Hour / Shusse \u014czum\u014d"
     },
     {
         "alternate_titles": [],
@@ -2555,27 +2420,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title screen/main menu",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16501204-neural-gear-sharp-x68000-title-screenmain-menu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/aceb9a52-c22d-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Configuration mode, in addition to the standard easy, medium, and hard difficulties, there is also a special one called Panic",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16501171-neural-gear-sharp-x68000-configuration-mode-in-addition-to-the-s.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/aa7a182a-c22d-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Level 1",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16501261-neural-gear-sharp-x68000-level-1.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b08d9fde-c22d-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "Level 4",
                 "height": 256,
                 "image_url": "https://cdn.mobygames.com/screenshots/16501258-neural-gear-sharp-x68000-level-4.png",
@@ -2583,10 +2427,31 @@
                 "width": 256
             },
             {
+                "caption": "Title screen/main menu",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16501204-neural-gear-sharp-x68000-title-screenmain-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/aceb9a52-c22d-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
                 "caption": "Scientists invent the bio power suit \"U-inesu\"",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/16501198-neural-gear-sharp-x68000-scientists-invent-the-bio-power-suit-u-.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/aca6b2b6-c22d-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Level 2",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16501108-neural-gear-sharp-x68000-level-2.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a664e8c8-c22d-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Emi T. Fonon is appointed to carry out operations and wear that suit",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/16501111-neural-gear-sharp-x68000-emi-t-fonon-is-appointed-to-carry-out-o.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a68a863c-c22d-11ed-ab6b-02420a000194.webp",
                 "width": 512
             }
         ],
@@ -2672,6 +2537,20 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Reika's stage, up against her doppelg\u00e4nger ",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/16593778-the-queen-of-duellist-gaiden-sharp-x68000-reikas-stage-up-agains.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/28b42ace-c24b-11ed-ab6b-02420a000194.webp",
+                "width": 384
+            },
+            {
+                "caption": "Wardrobe malfunction for Reika",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/16593553-the-queen-of-duellist-gaiden-sharp-x68000-wardrobe-malfunction-f.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0e0d7932-c24b-11ed-ab6b-02420a000194.webp",
+                "width": 768
+            },
+            {
                 "caption": "Character selection",
                 "height": 256,
                 "image_url": "https://cdn.mobygames.com/screenshots/16593472-the-queen-of-duellist-gaiden-sharp-x68000-character-selection.png",
@@ -2679,31 +2558,17 @@
                 "width": 384
             },
             {
-                "caption": "Some post match talk between Ryuhou and Mai",
+                "caption": "Kiriko loses a button... amongst other clothing",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16593529-the-queen-of-duellist-gaiden-sharp-x68000-some-post-match-talk-b.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0b885bc8-c24b-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16593556-the-queen-of-duellist-gaiden-sharp-x68000-kiriko-loses-a-button-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0e4d0a20-c24b-11ed-ab6b-02420a000194.webp",
                 "width": 768
             },
             {
-                "caption": "Elza the wolf-girl and a photo of birch trees",
+                "caption": "Of all the initial pictures (on normal difficulty), Miyuki's is the most explicit. If you play on the hardest difficulty the pictures get more pornographic",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16593559-the-queen-of-duellist-gaiden-sharp-x68000-elza-the-wolf-girl-and.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0e93b9a2-c24b-11ed-ab6b-02420a000194.webp",
-                "width": 768
-            },
-            {
-                "caption": "Gold's stage, attacking one another with the Atomic Wave",
-                "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/16593769-the-queen-of-duellist-gaiden-sharp-x68000-golds-stage-attacking-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2851bd94-c24b-11ed-ab6b-02420a000194.webp",
-                "width": 384
-            },
-            {
-                "caption": "Mai has been defeated and therefore loses some clothes",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16593808-the-queen-of-duellist-gaiden-sharp-x68000-mai-has-been-defeated-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2d127148-c24b-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16593562-the-queen-of-duellist-gaiden-sharp-x68000-of-all-the-initial-pic.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0ee1e5e6-c24b-11ed-ab6b-02420a000194.webp",
                 "width": 768
             }
         ],
@@ -2775,6 +2640,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Title screen",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/15892729-buster-sharp-x68000-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8e072c16-bf06-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
                 "caption": "Third boss is a fire-breathing Dragon",
                 "height": 256,
                 "image_url": "https://cdn.mobygames.com/screenshots/15893122-buster-sharp-x68000-third-boss-is-a-fire-breathing-dragon.png",
@@ -2782,24 +2654,10 @@
                 "width": 256
             },
             {
-                "caption": "First boss is a Spider",
+                "caption": "Stage 3",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/15893017-buster-sharp-x68000-first-boss-is-a-spider.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a6026740-bf06-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Stage 2",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/15892771-buster-sharp-x68000-stage-2.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9192408c-bf06-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Stage 5",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/15892669-buster-sharp-x68000-stage-5.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8a843a52-bf06-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15893164-buster-sharp-x68000-stage-3.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/af674e40-bf06-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
@@ -2807,6 +2665,13 @@
                 "height": 256,
                 "image_url": "https://cdn.mobygames.com/screenshots/15892696-buster-sharp-x68000-the-final-battle.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/8b8372ce-bf06-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Stage 4, using the sliding kick (press the attack button at the same time as you hit the ground after a jump/fall)",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/15892627-buster-sharp-x68000-stage-4-using-the-sliding-kick-press-the-att.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/87e17116-bf06-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -2896,20 +2761,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Quick Race mode setup",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16194481-overtake-sharp-x68000-quick-race-mode-setup.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0c182212-c1ce-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "\"Quarify\"",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16194010-overtake-sharp-x68000-quarify.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/debf41ba-c1cd-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "Williams test run at Silverstone",
                 "height": 256,
                 "image_url": "https://cdn.mobygames.com/screenshots/16194484-overtake-sharp-x68000-williams-test-run-at-silverstone.png",
@@ -2917,17 +2768,31 @@
                 "width": 256
             },
             {
-                "caption": "Exiting the tunnel in Monaco on board Minardi (tachometer set to digital)",
+                "caption": "\"Congraturations\" screen is shown when you finish on the podium",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16193323-overtake-sharp-x68000-exiting-the-tunnel-in-monaco-on-board-mina.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a1af040e-c1cd-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16192435-overtake-sharp-x68000-congraturations-screen-is-shown-when-you-f.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5ae22970-c1cd-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
-                "caption": "In the end there is Excellent \"Congraturations\"",
+                "caption": "\"Blazilian\" Grand Prix, driving Senna's McLaren",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16207743-overtake-sharp-x68000-in-the-end-there-is-excellent-congraturati.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4bd6dbe2-c1d2-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16192210-overtake-sharp-x68000-blazilian-grand-prix-driving-sennas-mclare.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/49a6a5e6-c1cd-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Database: Team info (Ferrari)",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/16199303-overtake-sharp-x68000-database-team-info-ferrari.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/97ce79f4-c1cf-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "\"Formura1\" (ain't gonna be the last time they misspell something by substituting L for an R)",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16191610-overtake-sharp-x68000-formura1-aint-gonna-be-the-last-time-they-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/19f67376-c1cd-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -3008,10 +2873,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title screen/main menu",
+                "caption": "Stage 2",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16304938-zugya-sharp-x68000-title-screenmain-menu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d92eae2a-c1f0-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16304935-zugya-sharp-x68000-stage-2.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d913b19c-c1f0-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -3022,24 +2887,24 @@
                 "width": 256
             },
             {
-                "caption": "Collect the power-ups for a stronger shot",
+                "caption": "Manual",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/16304941-zugya-sharp-x68000-manual.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d9598cb2-c1f0-11ed-ab6b-02420a000194.webp",
+                "width": 768
+            },
+            {
+                "caption": "Cleared Stage 5",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16305409-zugya-sharp-x68000-collect-the-power-ups-for-a-stronger-shot.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/03781e82-c1f1-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16305172-zugya-sharp-x68000-cleared-stage-5.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ed51930e-c1f0-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
-                "caption": "Option mode",
+                "caption": "Some stages starts you very close to the enemy",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16305073-zugya-sharp-x68000-option-mode.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e4ce6b62-c1f0-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Plasma explosion",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16305487-zugya-sharp-x68000-plasma-explosion.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0ef8935e-c1f1-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16305079-zugya-sharp-x68000-some-stages-starts-you-very-close-to-the-enem.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e516af9e-c1f0-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -3120,24 +2985,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "First floor",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16886242-babel-sharp-x68000-first-floor.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c7f44bd6-c3ff-11ed-be63-02420a000121.webp",
-                "width": 256
-            },
-            {
                 "caption": "Floor 9 is your first encounter with a Priest of Ur",
                 "height": 256,
                 "image_url": "https://cdn.mobygames.com/screenshots/16885658-babel-sharp-x68000-floor-9-is-your-first-encounter-with-a-priest.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/90891ae6-c3ff-11ed-be63-02420a000121.webp",
-                "width": 256
-            },
-            {
-                "caption": "Title screen / Main menu",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16886248-babel-sharp-x68000-title-screen-main-menu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c8442480-c3ff-11ed-be63-02420a000121.webp",
                 "width": 256
             },
             {
@@ -3148,10 +2999,24 @@
                 "width": 256
             },
             {
+                "caption": "First floor",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16886242-babel-sharp-x68000-first-floor.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c7f44bd6-c3ff-11ed-be63-02420a000121.webp",
+                "width": 256
+            },
+            {
                 "caption": "Floor 1 completed",
                 "height": 256,
                 "image_url": "https://cdn.mobygames.com/screenshots/16885664-babel-sharp-x68000-floor-1-completed.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/90b7307a-c3ff-11ed-be63-02420a000121.webp",
+                "width": 256
+            },
+            {
+                "caption": "Story in English",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16886245-babel-sharp-x68000-story-in-english.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c81e2136-c3ff-11ed-be63-02420a000121.webp",
                 "width": 256
             }
         ],
@@ -3286,20 +3151,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Also Intro",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16869747-signatory-sharp-x68000-also-intro.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/04e965aa-c3f9-11ed-be63-02420a000121.webp",
-                "width": 512
-            },
-            {
-                "caption": "Title screen",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16869744-signatory-sharp-x68000-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0478a61c-c3f9-11ed-be63-02420a000121.webp",
-                "width": 512
-            },
-            {
                 "caption": "We interrupt this broadcast for a special announcement",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/16869753-signatory-sharp-x68000-we-interrupt-this-broadcast-for-a-special.png",
@@ -3307,17 +3158,31 @@
                 "width": 512
             },
             {
+                "caption": "World Strategy Plan 1998-2040",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/16869750-signatory-sharp-x68000-world-strategy-plan-1998-2040.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0512bb9e-c3f9-11ed-be63-02420a000121.webp",
+                "width": 512
+            },
+            {
+                "caption": "That guy looks like he had too much to drink",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/16869771-signatory-sharp-x68000-that-guy-looks-like-he-had-too-much-to-dr.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/07f9965c-c3f9-11ed-be63-02420a000121.webp",
+                "width": 512
+            },
+            {
+                "caption": "Inside Cafe Deggio; questioning people about stuff",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/16869759-signatory-sharp-x68000-inside-cafe-deggio-questioning-people-abo.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/06e3f46a-c3f9-11ed-be63-02420a000121.webp",
+                "width": 512
+            },
+            {
                 "caption": "Spanish Harlem; this game is a rare example of Japanese adventure games that use a point and click interface",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/16869774-signatory-sharp-x68000-spanish-harlem-this-game-is-a-rare-exampl.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/082e68b4-c3f9-11ed-be63-02420a000121.webp",
-                "width": 512
-            },
-            {
-                "caption": "Start of the game, Last Nation HQ",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16869756-signatory-sharp-x68000-start-of-the-game-last-nation-hq.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/058d2d2a-c3f9-11ed-be63-02420a000121.webp",
                 "width": 512
             }
         ],
@@ -3444,25 +3309,25 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Evading",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/12380325-code-zero-sharp-x68000-evading.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b1788bac-ac20-11ed-b85a-02420a000135.webp",
-                "width": 512
-            },
-            {
-                "caption": "Level 5; the item there is temporary weapon",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16529253-code-zero-sharp-x68000-level-5-the-item-there-is-temporary-weapo.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/29b0978e-c235-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "Title Screen",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/12383090-code-zero-sharp-x68000-title-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/b9b220a8-ac20-11ed-92cb-02420a000132.webp",
                 "width": 512
+            },
+            {
+                "caption": "Third boss",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16601693-code-zero-sharp-x68000-third-boss.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/952ceaaa-c251-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Fourth boss",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16529250-code-zero-sharp-x68000-fourth-boss.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2995b054-c235-11ed-ab6b-02420a000194.webp",
+                "width": 256
             },
             {
                 "caption": "Level 4; 1UP item",
@@ -3472,10 +3337,10 @@
                 "width": 256
             },
             {
-                "caption": "Third boss",
+                "caption": "Weapon power-up changes color; Red: wide shot / Yellow: floating options / Blue: laser",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16601693-code-zero-sharp-x68000-third-boss.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/952ceaaa-c251-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16529328-code-zero-sharp-x68000-weapon-power-up-changes-color-red-wide-sh.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2d85909e-c235-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -3563,8 +3428,8 @@
                     "name": "Other Attributes"
                 },
                 "description": null,
-                "id": 82,
-                "name": "Licensed"
+                "id": 231,
+                "name": "Fangame"
             }
         ],
         "id": 196508,

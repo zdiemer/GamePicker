@@ -74,27 +74,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Story",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16499164-phaid-memotech-mtx-story.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e29cfec6-c22c-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Individual aliens attack",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16501213-phaid-memotech-mtx-individual-aliens-attack.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ad351600-c22d-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Score table",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16501396-phaid-memotech-mtx-score-table.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b8445eca-c22d-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "Title screen",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16501153-phaid-memotech-mtx-title-screen.png",
@@ -102,10 +81,31 @@
                 "width": 256
             },
             {
+                "caption": "Loading screen",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16501390-phaid-memotech-mtx-loading-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b817aa56-c22d-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
                 "caption": "Just a few more left",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16501210-phaid-memotech-mtx-just-a-few-more-left.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/ad1ad862-c22d-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting out",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16501150-phaid-memotech-mtx-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a965beee-c22d-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Story",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16499164-phaid-memotech-mtx-story.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e29cfec6-c22c-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -186,17 +186,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title screen",
+                "caption": "Blocks change colour when jumped upon",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16501411-qogo-memotech-mtx-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b8de0c96-c22d-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "But don't jump too far!",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16501402-qogo-memotech-mtx-but-dont-jump-too-far.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b8956482-c22d-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16501405-qogo-memotech-mtx-blocks-change-colour-when-jumped-upon.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b8add72e-c22d-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -207,10 +200,17 @@
                 "width": 256
             },
             {
-                "caption": "Starting out",
+                "caption": "Here we need to jump across a block twice to get the right colour",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16501408-qogo-memotech-mtx-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b8c6f5d8-c22d-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16501348-qogo-memotech-mtx-here-we-need-to-jump-across-a-block-twice-to-g.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b578cc26-c22d-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "But don't jump too far!",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16501402-qogo-memotech-mtx-but-dont-jump-too-far.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b8956482-c22d-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -307,6 +307,20 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Stage 2",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16506334-astromilon-memotech-mtx-stage-2.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2ebd6712-c22f-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Stage 3",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16506328-astromilon-memotech-mtx-stage-3.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2e8b9f02-c22f-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
                 "caption": "Game over",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16506325-astromilon-memotech-mtx-game-over.png",
@@ -314,31 +328,17 @@
                 "width": 256
             },
             {
-                "caption": "Thrust can be used to move upwards",
+                "caption": "Title + controls",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16506337-astromilon-memotech-mtx-thrust-can-be-used-to-move-upwards.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2fa0d920-c22f-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16506552-astromilon-memotech-mtx-title-controls.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3cfeb81c-c22f-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
-                "caption": "Some of the aliens turn into mutants",
+                "caption": "Getting myself killed",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16506340-astromilon-memotech-mtx-some-of-the-aliens-turn-into-mutants.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2fb74e9e-c22f-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Starting out",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16506343-astromilon-memotech-mtx-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2fcfc99c-c22f-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Stage 2",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16506334-astromilon-memotech-mtx-stage-2.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2ebd6712-c22f-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16506331-astromilon-memotech-mtx-getting-myself-killed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2ea66b52-c22f-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -401,17 +401,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Eating cherries",
+                "caption": "Game over",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16506280-tapeworm-memotech-mtx-eating-cherries.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2ccbdc90-c22f-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Instructions, pt 1",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16506292-tapeworm-memotech-mtx-instructions-pt-1.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2d2cd25c-c22f-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16506274-tapeworm-memotech-mtx-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2bec21ea-c22f-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -422,17 +415,24 @@
                 "width": 256
             },
             {
-                "caption": "Starting out",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16506286-tapeworm-memotech-mtx-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2cfae1fc-c22f-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "Title screen",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16506295-tapeworm-memotech-mtx-title-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/2d437bb0-c22f-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Getting bonus points for clearing level",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16506385-tapeworm-memotech-mtx-getting-bonus-points-for-clearing-level.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3174416a-c22f-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Only one pip left",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16506388-tapeworm-memotech-mtx-only-one-pip-left.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/318da362-c22f-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -611,6 +611,20 @@
                 "width": 256
             },
             {
+                "caption": "Title screen",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/15934489-escape-from-zarcos-memotech-mtx-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/68390a9c-bf13-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Getting killed by a light bulb",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/15934366-escape-from-zarcos-memotech-mtx-getting-killed-by-a-light-bulb.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5f9d6266-bf13-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
                 "caption": "Starting out",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/15934465-escape-from-zarcos-memotech-mtx-starting-out.png",
@@ -622,20 +636,6 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/15934444-escape-from-zarcos-memotech-mtx-about-to-pick-up-a-ship-part.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/652e1504-bf13-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Room above starting location",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15934396-escape-from-zarcos-memotech-mtx-room-above-starting-location.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6171c186-bf13-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Getting killed by a light bulb",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15934366-escape-from-zarcos-memotech-mtx-getting-killed-by-a-light-bulb.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5f9d6266-bf13-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -716,10 +716,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title screen",
+                "caption": "Getting killed",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15935558-3d-tachyon-fighter-memotech-mtx-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b6d50f0c-bf13-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15935396-3d-tachyon-fighter-memotech-mtx-getting-killed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/abcadf42-bf13-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
@@ -730,6 +730,13 @@
                 "width": 256
             },
             {
+                "caption": "Starting out",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/15935528-3d-tachyon-fighter-memotech-mtx-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b474ab50-bf13-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
                 "caption": "Enemies appearing",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/15935429-3d-tachyon-fighter-memotech-mtx-enemies-appearing.png",
@@ -737,17 +744,10 @@
                 "width": 256
             },
             {
-                "caption": "Second stage",
+                "caption": "Loading screen",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15935468-3d-tachyon-fighter-memotech-mtx-second-stage.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b0c8d7e2-bf13-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Starting out",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15935528-3d-tachyon-fighter-memotech-mtx-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b474ab50-bf13-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15935579-3d-tachyon-fighter-memotech-mtx-loading-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b7aa3f6a-bf13-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -810,13 +810,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "A bomb going off",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15994623-obliteration-zone-memotech-mtx-a-bomb-going-off.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2c9f610a-bf24-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
                 "caption": "Controls",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/15998511-obliteration-zone-memotech-mtx-controls.png",
@@ -824,24 +817,31 @@
                 "width": 256
             },
             {
-                "caption": "Drone destroyed",
+                "caption": "Starting out",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15994680-obliteration-zone-memotech-mtx-drone-destroyed.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/307b7796-bf24-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15994722-obliteration-zone-memotech-mtx-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3420705e-bf24-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "Level 3",
+                "caption": "Losing a life",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15994671-obliteration-zone-memotech-mtx-level-3.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2feb41b2-bf24-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15994701-obliteration-zone-memotech-mtx-losing-a-life.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/32174f26-bf24-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "Title screen",
+                "caption": "Game over",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15998526-obliteration-zone-memotech-mtx-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3270d482-bf25-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15994641-obliteration-zone-memotech-mtx-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2dfa43b2-bf24-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Level 4",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/15994608-obliteration-zone-memotech-mtx-level-4.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2bf8690e-bf24-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -922,38 +922,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Starting out",
+                "caption": "Suddenly time runs out",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15995736-goldmine-memotech-mtx-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/75bf77f8-bf24-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15995466-goldmine-memotech-mtx-suddenly-time-runs-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6650f24c-bf24-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "Loading screen",
+                "caption": "Getting hit by a fireball",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15995469-goldmine-memotech-mtx-loading-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/668480d0-bf24-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15995646-goldmine-memotech-mtx-getting-hit-by-a-fireball.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7046b34a-bf24-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "Entering the third screen on an ore cart",
+                "caption": "The second screen",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15995670-goldmine-memotech-mtx-entering-the-third-screen-on-an-ore-cart.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/71452dd0-bf24-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15995703-goldmine-memotech-mtx-the-second-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/735b78d6-bf24-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "Getting caught by a ghost",
+                "caption": "Game over",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15998475-goldmine-memotech-mtx-getting-caught-by-a-ghost.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2e6adffe-bf25-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15995685-goldmine-memotech-mtx-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/72acaa36-bf24-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "Waiting for the ore cart to pass",
+                "caption": "Using axes do dig through barrier",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15995667-goldmine-memotech-mtx-waiting-for-the-ore-cart-to-pass.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/712dfe94-bf24-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15995721-goldmine-memotech-mtx-using-axes-do-dig-through-barrier.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7441306a-bf24-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -1039,20 +1039,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Projectiles falling aplenty",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16000467-continental-raiders-memotech-mtx-projectiles-falling-aplenty.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f63ab020-bf27-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Getting hit",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16000593-continental-raiders-memotech-mtx-getting-hit.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/01680b5a-bf28-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
                 "caption": "Mother ship passing by",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16000578-continental-raiders-memotech-mtx-mother-ship-passing-by.png",
@@ -1060,10 +1046,10 @@
                 "width": 256
             },
             {
-                "caption": "Aliens reaching the base - game over",
+                "caption": "Projectiles falling aplenty",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16000614-continental-raiders-memotech-mtx-aliens-reaching-the-base-game-o.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0440ffd0-bf28-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16000467-continental-raiders-memotech-mtx-projectiles-falling-aplenty.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f63ab020-bf27-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
@@ -1071,6 +1057,20 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16000644-continental-raiders-memotech-mtx-starting-out.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/067a6c64-bf28-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Aliens that get close change colour",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16000629-continental-raiders-memotech-mtx-aliens-that-get-close-change-co.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0563e86e-bf28-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Aliens reaching the base - game over",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16000614-continental-raiders-memotech-mtx-aliens-reaching-the-base-game-o.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0440ffd0-bf28-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -1133,27 +1133,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Getting killed",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16087719-fathoms-deep-memotech-mtx-getting-killed.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/718f24ea-bf6e-11ed-9521-02420a000152.webp",
-                "width": 256
-            },
-            {
-                "caption": "The submarine with the diving bell",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16111923-fathoms-deep-memotech-mtx-the-submarine-with-the-diving-bell.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d3735e40-bf75-11ed-9521-02420a000152.webp",
-                "width": 256
-            },
-            {
-                "caption": "Swimming away from a ship",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16089414-fathoms-deep-memotech-mtx-swimming-away-from-a-ship.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/efdce512-bf6e-11ed-9521-02420a000152.webp",
-                "width": 256
-            },
-            {
                 "caption": "Starting out",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16087815-fathoms-deep-memotech-mtx-starting-out.png",
@@ -1161,10 +1140,31 @@
                 "width": 256
             },
             {
+                "caption": "Octopus",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16089592-fathoms-deep-memotech-mtx-octopus.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fd1a6d44-bf6e-11ed-9521-02420a000152.webp",
+                "width": 256
+            },
+            {
+                "caption": "Swimming for the key",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16087716-fathoms-deep-memotech-mtx-swimming-for-the-key.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/717a7446-bf6e-11ed-9521-02420a000152.webp",
+                "width": 256
+            },
+            {
                 "caption": "Watch out for the shark!",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16089514-fathoms-deep-memotech-mtx-watch-out-for-the-shark.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/f9a3d1e6-bf6e-11ed-9521-02420a000152.webp",
+                "width": 256
+            },
+            {
+                "caption": "Falling barrel",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16089135-fathoms-deep-memotech-mtx-falling-barrel.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dc42777e-bf6e-11ed-9521-02420a000152.webp",
                 "width": 256
             }
         ],

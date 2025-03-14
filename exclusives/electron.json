@@ -88,24 +88,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Getting killed",
+                "caption": "Loading screen",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16483210-electron-invaders-electron-getting-killed.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c9e0e3de-c227-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
-                "caption": "A mothership passes by",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16483216-electron-invaders-electron-a-mothership-passes-by.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/caff77bc-c227-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
-                "caption": "High score list",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16483204-electron-invaders-electron-high-score-list.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c990243a-c227-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16483231-electron-invaders-electron-loading-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cbdfd29e-c227-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
@@ -116,10 +102,24 @@
                 "width": 320
             },
             {
+                "caption": "Getting killed",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16483210-electron-invaders-electron-getting-killed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c9e0e3de-c227-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
                 "caption": "Player 1 starts",
                 "height": 256,
                 "image_url": "https://cdn.mobygames.com/screenshots/16483222-electron-invaders-electron-player-1-starts.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/cb6571ac-c227-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "A mothership passes by",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16483216-electron-invaders-electron-a-mothership-passes-by.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/caff77bc-c227-11ed-ab6b-02420a000194.webp",
                 "width": 320
             }
         ],
@@ -218,24 +218,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Prices",
+                "caption": "Getting info while running through the year",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16191901-uk-pm-electron-prices.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2f52393a-c1cd-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16191814-uk-pm-electron-getting-info-while-running-through-the-year.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/28899f62-c1cd-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
-                "caption": "Changing product taxes",
+                "caption": "Showing areas of unemployment",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/15634574-uk-pm-electron-changing-product-taxes.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2bd4e43c-bdeb-11ed-b791-02420a0001bb.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16191817-uk-pm-electron-showing-areas-of-unemployment.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/28a09960-c1cd-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
-                "caption": "Statistics",
+                "caption": "Government income",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16191907-uk-pm-electron-statistics.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2f80b6fc-c1cd-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16191904-uk-pm-electron-government-income.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2f6a5434-c1cd-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
@@ -246,10 +246,10 @@
                 "width": 320
             },
             {
-                "caption": "Government income",
+                "caption": "Government spending",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16191904-uk-pm-electron-government-income.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2f6a5434-c1cd-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16191886-uk-pm-electron-government-spending.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2ec56c80-c1cd-11ed-ab6b-02420a000194.webp",
                 "width": 320
             }
         ],
@@ -328,6 +328,13 @@
                 "width": 320
             },
             {
+                "caption": "Options",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16219143-pirate-pedro-electron-options.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7d4432b2-c1d5-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
                 "caption": "Starting out",
                 "height": 256,
                 "image_url": "https://cdn.mobygames.com/screenshots/16219140-pirate-pedro-electron-starting-out.png",
@@ -339,13 +346,6 @@
                 "height": 256,
                 "image_url": "https://cdn.mobygames.com/screenshots/16219183-pirate-pedro-electron-getting-the-treasure-back.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/802c5b58-c1d5-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
-                "caption": "Title screen",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16219419-pirate-pedro-electron-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/90a2d0e8-c1d5-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
@@ -424,10 +424,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Starting out",
+                "caption": "Title screen",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16219243-felicity-farm-girl-electron-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/83d641c4-c1d5-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16219249-felicity-farm-girl-electron-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/84093912-c1d5-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
@@ -438,17 +438,10 @@
                 "width": 320
             },
             {
-                "caption": "Felicity show the correct amount after a wrong answer",
+                "caption": "Starting out",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16219300-felicity-farm-girl-electron-felicity-show-the-correct-amount-aft.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/86ef9694-c1d5-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
-                "caption": "More and more horses",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16219240-felicity-farm-girl-electron-more-and-more-horses.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/83ba7f66-c1d5-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16219243-felicity-farm-girl-electron-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/83d641c4-c1d5-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
@@ -456,6 +449,13 @@
                 "height": 256,
                 "image_url": "https://cdn.mobygames.com/screenshots/16219237-felicity-farm-girl-electron-results.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/83a17c14-c1d5-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "More and more horses",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16219240-felicity-farm-girl-electron-more-and-more-horses.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/83ba7f66-c1d5-11ed-ab6b-02420a000194.webp",
                 "width": 320
             }
         ],
@@ -616,24 +616,10 @@
                 "width": 640
             },
             {
-                "caption": "High Score Obtained",
+                "caption": "Stage 1 Complete",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/17875080-videos-revenge-electron-high-score-obtained.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cb1cd7ee-872a-11ee-89d6-02420a000166.webp",
-                "width": 640
-            },
-            {
-                "caption": "Title Screen",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/17875048-videos-revenge-electron-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c888c15a-872a-11ee-a89c-02420a000166.webp",
-                "width": 640
-            },
-            {
-                "caption": "Starting Stage 1",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/17875060-videos-revenge-electron-starting-stage-1.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c96ae5f8-872a-11ee-8bf6-02420a000162.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/17875072-videos-revenge-electron-stage-1-complete.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ca86202e-872a-11ee-bc28-02420a000163.webp",
                 "width": 640
             },
             {
@@ -641,6 +627,20 @@
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/17875076-videos-revenge-electron-red-enemy-attacks.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/cad57872-872a-11ee-89d6-02420a000166.webp",
+                "width": 640
+            },
+            {
+                "caption": "Engaging Green Enemies",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/17875064-videos-revenge-electron-engaging-green-enemies.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c9dfe010-872a-11ee-90fd-02420a000163.webp",
+                "width": 640
+            },
+            {
+                "caption": "Starting Stage 1",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/17875060-videos-revenge-electron-starting-stage-1.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c96ae5f8-872a-11ee-8bf6-02420a000162.webp",
                 "width": 640
             }
         ],
@@ -717,24 +717,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Q*Bix: Instructions",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/17931385-action-pack-2-electron-qbix-instructions.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c480f368-8fb6-11ee-888b-02420a000176.webp",
-                "width": 640
-            },
-            {
-                "caption": "Q*Bix: The Pyramid Changes Mid-Level",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/17931393-action-pack-2-electron-qbix-the-pyramid-changes-mid-level.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c51e34b6-8fb6-11ee-a54b-02420a000176.webp",
-                "width": 640
-            },
-            {
                 "caption": "Q*Bix: Title",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/17931381-action-pack-2-electron-qbix-title.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/c4353856-8fb6-11ee-a3e8-02420a000179.webp",
+                "width": 640
+            },
+            {
+                "caption": "Diamond Pete: Starting Digging",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/17931413-action-pack-2-electron-diamond-pete-starting-digging.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fd6fdf54-8fb6-11ee-a3bc-02420a000176.webp",
                 "width": 640
             },
             {
@@ -745,10 +738,17 @@
                 "width": 640
             },
             {
-                "caption": "Diamond Pete: High Score",
+                "caption": "Q*Bix: Instructions",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/17931421-action-pack-2-electron-diamond-pete-high-score.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/fe50519c-8fb6-11ee-bc6a-02420a000179.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/17931385-action-pack-2-electron-qbix-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c480f368-8fb6-11ee-888b-02420a000176.webp",
+                "width": 640
+            },
+            {
+                "caption": "Q*Bix: Moving on the Board",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/17931389-action-pack-2-electron-qbix-moving-on-the-board.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c4cacdee-8fb6-11ee-b8ed-02420a000176.webp",
                 "width": 640
             }
         ],
@@ -823,6 +823,13 @@
                 "width": 640
             },
             {
+                "caption": "It's a House",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/17931791-shuffle-electron-its-a-house.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2be685fc-8fbe-11ee-bc6a-02420a000179.webp",
+                "width": 640
+            },
+            {
                 "caption": "Shuffled Flag",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/17931787-shuffle-electron-shuffled-flag.png",
@@ -841,13 +848,6 @@
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/17931771-shuffle-electron-title-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/297623ea-8fbe-11ee-8590-02420a000174.webp",
-                "width": 640
-            },
-            {
-                "caption": "It's a House",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/17931791-shuffle-electron-its-a-house.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2be685fc-8fbe-11ee-bc6a-02420a000179.webp",
                 "width": 640
             }
         ],
@@ -955,10 +955,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The Crown Jewels: Title Screen",
+                "caption": "Hell-Hole: Need to be Careful on the Exit",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/17934033-bumper-bundle-electron-the-crown-jewels-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3963d438-9030-11ee-8cdb-02420a000174.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/17934175-bumper-bundle-electron-hell-hole-need-to-be-careful-on-the-exit.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f5a99f7c-9032-11ee-86d1-02420a000176.webp",
+                "width": 640
+            },
+            {
+                "caption": "The Crown Jewels: At the Bus Station",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/17934057-bumper-bundle-electron-the-crown-jewels-at-the-bus-station.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3b4b5f78-9030-11ee-a54b-02420a000176.webp",
+                "width": 640
+            },
+            {
+                "caption": "The Crown Jewels: The Jewels are Stolen",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/17934037-bumper-bundle-electron-the-crown-jewels-the-jewels-are-stolen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/39bcc2fa-9030-11ee-a7cc-02420a00017a.webp",
                 "width": 640
             },
             {
@@ -969,24 +983,10 @@
                 "width": 640
             },
             {
-                "caption": "The Crown Jewels: Drugs",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/17934065-bumper-bundle-electron-the-crown-jewels-drugs.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3bfdeb98-9030-11ee-888b-02420a000176.webp",
-                "width": 640
-            },
-            {
                 "caption": "The Crown Jewels: Found a Gold Ring",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/17934041-bumper-bundle-electron-the-crown-jewels-found-a-gold-ring.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/3a0c92e4-9030-11ee-bfcf-02420a000179.webp",
-                "width": 640
-            },
-            {
-                "caption": "The Crown Jewels: The Jewels are Stolen",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/17934037-bumper-bundle-electron-the-crown-jewels-the-jewels-are-stolen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/39bcc2fa-9030-11ee-a7cc-02420a00017a.webp",
                 "width": 640
             }
         ],
@@ -1058,13 +1058,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Diving In",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18039657-walk-the-plank-electron-diving-in.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/15a5af76-a56b-11ee-850a-02420a000149.webp",
-                "width": 640
-            },
-            {
                 "caption": "Choosing a Column",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/18039653-walk-the-plank-electron-choosing-a-column.png",
@@ -1083,6 +1076,13 @@
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/18039649-walk-the-plank-electron-title-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/14d6f654-a56b-11ee-8c2e-02420a000144.webp",
+                "width": 640
+            },
+            {
+                "caption": "Diving In",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18039657-walk-the-plank-electron-diving-in.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/15a5af76-a56b-11ee-850a-02420a000149.webp",
                 "width": 640
             }
         ],
@@ -1161,13 +1161,6 @@
                 "width": 640
             },
             {
-                "caption": "Found the Exit",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18042104-starmaze-2-electron-found-the-exit.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/892b5eae-a5ee-11ee-aa27-02420a000159.webp",
-                "width": 640
-            },
-            {
                 "caption": "Instructions",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/18042088-starmaze-2-electron-instructions.png",
@@ -1175,10 +1168,10 @@
                 "width": 640
             },
             {
-                "caption": "Twisting Corridors",
+                "caption": "I Made It!",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18042100-starmaze-2-electron-twisting-corridors.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/88d880e4-a5ee-11ee-a449-02420a000158.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/18042108-starmaze-2-electron-i-made-it.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8999d1f4-a5ee-11ee-8304-02420a000156.webp",
                 "width": 640
             },
             {
@@ -1186,6 +1179,13 @@
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/18042112-starmaze-2-electron-12-x-12-map.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/89fb7d00-a5ee-11ee-9294-02420a000157.webp",
+                "width": 640
+            },
+            {
+                "caption": "Twisting Corridors",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18042100-starmaze-2-electron-twisting-corridors.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/88d880e4-a5ee-11ee-a449-02420a000158.webp",
                 "width": 640
             }
         ],
@@ -1230,17 +1230,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Crossing a Platforms",
+                "caption": "High Scores",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18180145-four-great-games-volume-3-electron-crossing-a-platforms.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a3eb9cce-bfdc-11ee-af51-02420a0001c9.webp",
-                "width": 640
-            },
-            {
-                "caption": "A Dragon",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18180153-four-great-games-volume-3-electron-a-dragon.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a4a97bfe-bfdc-11ee-b892-02420a0001c9.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/18180125-four-great-games-volume-3-electron-high-scores.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a1ee1988-bfdc-11ee-9f26-02420a0001c5.webp",
                 "width": 640
             },
             {
@@ -1251,17 +1244,24 @@
                 "width": 640
             },
             {
-                "caption": "Climbing a Ladder",
+                "caption": "A Dragon",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18180141-four-great-games-volume-3-electron-climbing-a-ladder.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a388ab96-bfdc-11ee-b1ab-02420a0001c6.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/18180153-four-great-games-volume-3-electron-a-dragon.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a4a97bfe-bfdc-11ee-b892-02420a0001c9.webp",
                 "width": 640
             },
             {
-                "caption": "A Closed Gate",
+                "caption": "Moving Through a Door",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18180137-four-great-games-volume-3-electron-a-closed-gate.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a32bb7f6-bfdc-11ee-9e79-02420a0001c5.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/18180149-four-great-games-volume-3-electron-moving-through-a-door.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a441cf54-bfdc-11ee-b1ab-02420a0001c6.webp",
+                "width": 640
+            },
+            {
+                "caption": "Crossing a Platforms",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18180145-four-great-games-volume-3-electron-crossing-a-platforms.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a3eb9cce-bfdc-11ee-af51-02420a0001c9.webp",
                 "width": 640
             }
         ],
@@ -1502,6 +1502,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Next Landing",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18558953-lunar-lander-electron-next-landing.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/719740ae-0035-11ef-bd6d-02420a00012d.webp",
+                "width": 640
+            },
+            {
                 "caption": "Instructions",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/18558937-lunar-lander-electron-instructions.png",
@@ -1520,13 +1527,6 @@
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/18558941-lunar-lander-electron-preparing-to-land.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/70c0cd30-0035-11ef-b42a-02420a000131.webp",
-                "width": 640
-            },
-            {
-                "caption": "Next Landing",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18558953-lunar-lander-electron-next-landing.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/719740ae-0035-11ef-bd6d-02420a00012d.webp",
                 "width": 640
             },
             {
@@ -1596,10 +1596,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Choosing Bait",
+                "caption": "Fishing Far Out",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18569744-fishing-electron-choosing-bait.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/667baa2c-02e5-11ef-b2cf-02420a00012d.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/18569752-fishing-electron-fishing-far-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/674c864c-02e5-11ef-ae60-02420a000131.webp",
                 "width": 640
             },
             {
@@ -1610,13 +1610,6 @@
                 "width": 640
             },
             {
-                "caption": "Title Screen",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18569739-fishing-electron-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/66181dc2-02e5-11ef-bf26-02420a00012d.webp",
-                "width": 640
-            },
-            {
                 "caption": "Tournament Results",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/18569760-fishing-electron-tournament-results.png",
@@ -1624,10 +1617,17 @@
                 "width": 640
             },
             {
-                "caption": "Fishing Far Out",
+                "caption": "Title Screen",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18569752-fishing-electron-fishing-far-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/674c864c-02e5-11ef-ae60-02420a000131.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/18569739-fishing-electron-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/66181dc2-02e5-11ef-bf26-02420a00012d.webp",
+                "width": 640
+            },
+            {
+                "caption": "Choosing Bait",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18569744-fishing-electron-choosing-bait.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/667baa2c-02e5-11ef-b2cf-02420a00012d.webp",
                 "width": 640
             }
         ],
@@ -1690,17 +1690,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Run?",
+                "caption": "The Field",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18572823-howzat-electron-run.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/360608b8-0369-11ef-ae4d-02420a000133.webp",
-                "width": 640
-            },
-            {
-                "caption": "Run Out",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18572827-howzat-electron-run-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3665b3c6-0369-11ef-9288-02420a00012d.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/18572819-howzat-electron-the-field.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/358fd85a-0369-11ef-8a43-02420a000131.webp",
                 "width": 640
             },
             {
@@ -1711,6 +1704,13 @@
                 "width": 640
             },
             {
+                "caption": "Choose Batters",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18572811-howzat-electron-choose-batters.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/34b9da0c-0369-11ef-9288-02420a00012d.webp",
+                "width": 640
+            },
+            {
                 "caption": "Choose Teams",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/18572807-howzat-electron-choose-teams.png",
@@ -1718,10 +1718,10 @@
                 "width": 640
             },
             {
-                "caption": "Choose Batters",
+                "caption": "Run?",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18572811-howzat-electron-choose-batters.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/34b9da0c-0369-11ef-9288-02420a00012d.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/18572823-howzat-electron-run.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/360608b8-0369-11ef-ae4d-02420a000133.webp",
                 "width": 640
             }
         ],
@@ -1793,6 +1793,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Dangers",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18574515-golf-electron-dangers.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/97b0d5b2-03ae-11ef-bf26-02420a00012d.webp",
+                "width": 640
+            },
+            {
                 "caption": "Title Screen",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/18574511-golf-electron-title-screen.png",
@@ -1814,17 +1821,10 @@
                 "width": 640
             },
             {
-                "caption": "Dangers",
+                "caption": "A Bit of a Curve",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18574515-golf-electron-dangers.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/97b0d5b2-03ae-11ef-bf26-02420a00012d.webp",
-                "width": 640
-            },
-            {
-                "caption": "Choosing the Direction",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18574519-golf-electron-choosing-the-direction.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/980cd70e-03ae-11ef-b2cf-02420a00012d.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/18574532-golf-electron-a-bit-of-a-curve.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/99b2c168-03ae-11ef-86b2-02420a000131.webp",
                 "width": 640
             }
         ],
@@ -1892,10 +1892,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Game Setup",
+                "caption": "Ready to Play",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18579138-snap-dragon-electron-game-setup.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5e662ae4-043c-11ef-925f-02420a00013f.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/18579142-snap-dragon-electron-ready-to-play.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5ebbcbac-043c-11ef-9916-02420a00013e.webp",
                 "width": 640
             },
             {
@@ -2022,27 +2022,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "High Score Table",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18579214-cavern-capers-electron-high-score-table.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e5627942-043e-11ef-9943-02420a00013f.webp",
-                "width": 640
-            },
-            {
-                "caption": "Crashed",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18579206-cavern-capers-electron-crashed.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e4a9368a-043e-11ef-a9f6-02420a00013d.webp",
-                "width": 640
-            },
-            {
-                "caption": "Instructions",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18579198-cavern-capers-electron-instructions.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e3f4e23e-043e-11ef-9065-02420a00013f.webp",
-                "width": 640
-            },
-            {
                 "caption": "High Score",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/18579210-cavern-capers-electron-high-score.png",
@@ -2054,6 +2033,27 @@
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/18579202-cavern-capers-electron-starting-my-escape.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/e4594e18-043e-11ef-9a7a-02420a00013e.webp",
+                "width": 640
+            },
+            {
+                "caption": "High Score Table",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18579214-cavern-capers-electron-high-score-table.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e5627942-043e-11ef-9943-02420a00013f.webp",
+                "width": 640
+            },
+            {
+                "caption": "Instructions",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18579198-cavern-capers-electron-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e3f4e23e-043e-11ef-9065-02420a00013f.webp",
+                "width": 640
+            },
+            {
+                "caption": "Crashed",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18579206-cavern-capers-electron-crashed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e4a9368a-043e-11ef-a9f6-02420a00013d.webp",
                 "width": 640
             }
         ],
@@ -2125,17 +2125,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Sandworm Moves Across the Screen",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18580479-castles-of-sand-electron-sandworm-moves-across-the-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/06403cd2-0483-11ef-84e4-02420a00013d.webp",
-                "width": 640
-            },
-            {
                 "caption": "Level Complete",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/18580498-castles-of-sand-electron-level-complete.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/07a7359e-0483-11ef-b3bf-02420a00013f.webp",
+                "width": 640
+            },
+            {
+                "caption": "Instructions",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18580462-castles-of-sand-electron-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/04f4638a-0483-11ef-b068-02420a000140.webp",
                 "width": 640
             },
             {
@@ -2146,17 +2146,17 @@
                 "width": 640
             },
             {
-                "caption": "Title Screen",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18580458-castles-of-sand-electron-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/049ff246-0483-11ef-b3bf-02420a00013f.webp",
-                "width": 640
-            },
-            {
                 "caption": "Almost Complete",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/18580494-castles-of-sand-electron-almost-complete.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/0735d372-0483-11ef-a762-02420a000140.webp",
+                "width": 640
+            },
+            {
+                "caption": "Incoming Water",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18580474-castles-of-sand-electron-incoming-water.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/05ef83dc-0483-11ef-b3bf-02420a00013f.webp",
                 "width": 640
             }
         ],
@@ -2210,10 +2210,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Set a Bet",
+                "caption": "Choose a Horse",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18581171-a-day-at-the-races-electron-set-a-bet.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/34a21666-04ad-11ef-9144-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/18581167-a-day-at-the-races-electron-choose-a-horse.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3446c428-04ad-11ef-925f-02420a00013f.webp",
                 "width": 640
             },
             {
@@ -2231,10 +2231,10 @@
                 "width": 640
             },
             {
-                "caption": "Choose a Horse",
+                "caption": "Set a Bet",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18581167-a-day-at-the-races-electron-choose-a-horse.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3446c428-04ad-11ef-925f-02420a00013f.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/18581171-a-day-at-the-races-electron-set-a-bet.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/34a21666-04ad-11ef-9144-02420a000140.webp",
                 "width": 640
             },
             {
@@ -2322,17 +2322,17 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Instructions",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18582769-grand-prix-electron-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/09989a36-04d4-11ef-9065-02420a00013f.webp",
+                "width": 640
+            },
+            {
                 "caption": "I Lost",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/18582785-grand-prix-electron-i-lost.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/0baed204-04d4-11ef-9c0d-02420a00013d.webp",
-                "width": 640
-            },
-            {
-                "caption": "Game Over",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18582789-grand-prix-electron-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0c045d32-04d4-11ef-ac2b-02420a00013d.webp",
                 "width": 640
             },
             {
@@ -2343,17 +2343,17 @@
                 "width": 640
             },
             {
-                "caption": "Chasing the Lead",
+                "caption": "On the Track",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18582781-grand-prix-electron-chasing-the-lead.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0b57cc70-04d4-11ef-a6e1-02420a00013f.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/18582777-grand-prix-electron-on-the-track.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0ab91cb0-04d4-11ef-a6e1-02420a00013f.webp",
                 "width": 640
             },
             {
-                "caption": "Instructions",
+                "caption": "Ready to Race",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18582769-grand-prix-electron-instructions.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/09989a36-04d4-11ef-9065-02420a00013f.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/18582773-grand-prix-electron-ready-to-race.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0a442482-04d4-11ef-b3bf-02420a00013f.webp",
                 "width": 640
             }
         ],
@@ -2455,10 +2455,10 @@
                 "width": 640
             },
             {
-                "caption": "Reached the Diamond",
+                "caption": "List of Levels",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18583055-manic-mole-electron-reached-the-diamond.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/79004de2-04fc-11ef-87cb-02420a00013e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/18583047-manic-mole-electron-list-of-levels.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/78451446-04fc-11ef-9916-02420a00013e.webp",
                 "width": 640
             },
             {
@@ -2537,13 +2537,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Lots of Bunnies",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18585048-bunny-blitz-electron-lots-of-bunnies.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7b175604-0559-11ef-9c0d-02420a00013d.webp",
-                "width": 640
-            },
-            {
                 "caption": "Easy Level",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/18585044-bunny-blitz-electron-easy-level.png",
@@ -2551,17 +2544,24 @@
                 "width": 640
             },
             {
-                "caption": "Title Screen",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18585036-bunny-blitz-electron-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7a6c4520-0559-11ef-9c0d-02420a00013d.webp",
-                "width": 640
-            },
-            {
                 "caption": "Out of Time",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/18585052-bunny-blitz-electron-out-of-time.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/7b77cdcc-0559-11ef-9350-02420a000140.webp",
+                "width": 640
+            },
+            {
+                "caption": "Lots of Bunnies",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18585048-bunny-blitz-electron-lots-of-bunnies.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7b175604-0559-11ef-9c0d-02420a00013d.webp",
+                "width": 640
+            },
+            {
+                "caption": "Title Screen",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18585036-bunny-blitz-electron-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7a6c4520-0559-11ef-9c0d-02420a00013d.webp",
                 "width": 640
             }
         ],
@@ -2640,17 +2640,17 @@
                 "width": 640
             },
             {
-                "caption": "Caught by a Ghost",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18585122-money-maze-electron-caught-by-a-ghost.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a7961db8-055a-11ef-a198-02420a00013f.webp",
-                "width": 640
-            },
-            {
                 "caption": "Collecting Coins",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/18585114-money-maze-electron-collecting-coins.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/8df128b2-055a-11ef-a762-02420a000140.webp",
+                "width": 640
+            },
+            {
+                "caption": "Caught by a Ghost",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18585122-money-maze-electron-caught-by-a-ghost.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a7961db8-055a-11ef-a198-02420a00013f.webp",
                 "width": 640
             }
         ],
@@ -2731,24 +2731,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Final Score",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18587671-missile-jammer-electron-final-score.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/77a50e2c-059e-11ef-87cb-02420a00013e.webp",
-                "width": 640
-            },
-            {
-                "caption": "One Got Past",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18587667-missile-jammer-electron-one-got-past.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/774f4320-059e-11ef-a198-02420a00013f.webp",
-                "width": 640
-            },
-            {
                 "caption": "Missile Blocked",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/18587663-missile-jammer-electron-missile-blocked.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/76f93f70-059e-11ef-a762-02420a000140.webp",
+                "width": 640
+            },
+            {
+                "caption": "Incoming Missile",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18587659-missile-jammer-electron-incoming-missile.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7697eb6c-059e-11ef-947a-02420a00013d.webp",
+                "width": 640
+            },
+            {
+                "caption": "Final Score",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18587671-missile-jammer-electron-final-score.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/77a50e2c-059e-11ef-87cb-02420a00013e.webp",
                 "width": 640
             },
             {
@@ -2759,10 +2759,10 @@
                 "width": 640
             },
             {
-                "caption": "Incoming Missile",
+                "caption": "One Got Past",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18587659-missile-jammer-electron-incoming-missile.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7697eb6c-059e-11ef-947a-02420a00013d.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/18587667-missile-jammer-electron-one-got-past.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/774f4320-059e-11ef-a198-02420a00013f.webp",
                 "width": 640
             }
         ],
@@ -2816,13 +2816,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Puzzle Solved",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18591596-code-breaker-electron-puzzle-solved.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/62bb5556-068f-11ef-b068-02420a000140.webp",
-                "width": 640
-            },
-            {
                 "caption": "Choose Difficulty",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/18591584-code-breaker-electron-choose-difficulty.png",
@@ -2830,10 +2823,10 @@
                 "width": 640
             },
             {
-                "caption": "Instructions",
+                "caption": "Starting Core",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18591580-code-breaker-electron-instructions.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6185b6fe-068f-11ef-a805-02420a00013e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/18591588-code-breaker-electron-starting-core.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/621c9844-068f-11ef-b20a-02420a00013e.webp",
                 "width": 640
             },
             {
@@ -2844,10 +2837,17 @@
                 "width": 640
             },
             {
-                "caption": "Starting Core",
+                "caption": "Puzzle Solved",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18591588-code-breaker-electron-starting-core.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/621c9844-068f-11ef-b20a-02420a00013e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/18591596-code-breaker-electron-puzzle-solved.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/62bb5556-068f-11ef-b068-02420a000140.webp",
+                "width": 640
+            },
+            {
+                "caption": "Now 7 Colors",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18591600-code-breaker-electron-now-7-colors.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/63194184-068f-11ef-b4d9-02420a00013d.webp",
                 "width": 640
             }
         ],
@@ -2919,24 +2919,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Game Over",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18592083-breakfree-electron-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2200c318-06d3-11ef-8632-02420a00013e.webp",
-                "width": 640
-            },
-            {
-                "caption": "Ready to Bounce",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18592075-breakfree-electron-ready-to-bounce.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/214c93c0-06d3-11ef-a5cf-02420a000140.webp",
-                "width": 640
-            },
-            {
                 "caption": "High Scores",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/18592088-breakfree-electron-high-scores.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/225d290a-06d3-11ef-b068-02420a000140.webp",
+                "width": 640
+            },
+            {
+                "caption": "Title Screen",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18592067-breakfree-electron-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/208c1b0e-06d3-11ef-ae32-02420a00013e.webp",
                 "width": 640
             },
             {
@@ -2951,6 +2944,13 @@
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/18592079-breakfree-electron-ball-in-motion.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/21a24e5a-06d3-11ef-b068-02420a000140.webp",
+                "width": 640
+            },
+            {
+                "caption": "Game Over",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18592083-breakfree-electron-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2200c318-06d3-11ef-8632-02420a00013e.webp",
                 "width": 640
             }
         ],
@@ -3022,10 +3022,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title Screen",
+                "caption": "High Scores",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18601978-mr-freeze-electron-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d4b29f3a-0823-11ef-acbc-02420a00013e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/18601990-mr-freeze-electron-high-scores.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d62426a4-0823-11ef-a805-02420a00013e.webp",
                 "width": 640
             },
             {
@@ -3036,17 +3036,17 @@
                 "width": 640
             },
             {
+                "caption": "Title Screen",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18601978-mr-freeze-electron-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d4b29f3a-0823-11ef-acbc-02420a00013e.webp",
+                "width": 640
+            },
+            {
                 "caption": "Times Up",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/18601986-mr-freeze-electron-times-up.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/d5be958c-0823-11ef-9495-02420a00013f.webp",
-                "width": 640
-            },
-            {
-                "caption": "High Scores",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18601990-mr-freeze-electron-high-scores.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d62426a4-0823-11ef-a805-02420a00013e.webp",
                 "width": 640
             }
         ],
@@ -3127,10 +3127,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Next Level",
+                "caption": "Level Complete",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18605600-invasion-force-electron-next-level.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/08137fda-08eb-11ef-8d1c-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/18605604-invasion-force-electron-level-complete.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/086a8a82-08eb-11ef-ae32-02420a00013e.webp",
+                "width": 640
+            },
+            {
+                "caption": "Instructions",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18605592-invasion-force-electron-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/07749cbc-08eb-11ef-9495-02420a00013f.webp",
                 "width": 640
             },
             {
@@ -3141,24 +3148,17 @@
                 "width": 640
             },
             {
-                "caption": "Level Complete",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18605604-invasion-force-electron-level-complete.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/086a8a82-08eb-11ef-ae32-02420a00013e.webp",
-                "width": 640
-            },
-            {
-                "caption": "Starting Force",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18605596-invasion-force-electron-starting-force.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/07b930de-08eb-11ef-9dc0-02420a00013d.webp",
-                "width": 640
-            },
-            {
                 "caption": "Introduction",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/18605588-invasion-force-electron-introduction.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/071f0d6a-08eb-11ef-acbc-02420a00013e.webp",
+                "width": 640
+            },
+            {
+                "caption": "Next Level",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18605600-invasion-force-electron-next-level.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/08137fda-08eb-11ef-8d1c-02420a000140.webp",
                 "width": 640
             }
         ],
@@ -3246,17 +3246,17 @@
                 "width": 640
             },
             {
-                "caption": "Parachutists Descending",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18606029-parachute-electron-parachutists-descending.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0382ab20-092d-11ef-a805-02420a00013e.webp",
-                "width": 640
-            },
-            {
                 "caption": "Parachutist on a Raft",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/18606033-parachute-electron-parachutist-on-a-raft.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/03e1bd72-092d-11ef-9495-02420a00013f.webp",
+                "width": 640
+            },
+            {
+                "caption": "Parachutists Descending",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18606029-parachute-electron-parachutists-descending.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0382ab20-092d-11ef-a805-02420a00013e.webp",
                 "width": 640
             }
         ],
@@ -3337,10 +3337,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "High Scores",
+                "caption": "Final Score",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18610070-haunted-house-electron-high-scores.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5f4f5b4e-0a07-11ef-8d28-02420a00013f.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/18610062-haunted-house-electron-final-score.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5e875e50-0a07-11ef-9c31-02420a000140.webp",
                 "width": 640
             },
             {
@@ -3351,6 +3351,13 @@
                 "width": 640
             },
             {
+                "caption": "High Scores",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18610070-haunted-house-electron-high-scores.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5f4f5b4e-0a07-11ef-8d28-02420a00013f.webp",
+                "width": 640
+            },
+            {
                 "caption": "Dangerous Red Cans",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/18610066-haunted-house-electron-dangerous-red-cans.png",
@@ -3358,17 +3365,10 @@
                 "width": 640
             },
             {
-                "caption": "Final Score",
+                "caption": "Entering the Room",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18610062-haunted-house-electron-final-score.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5e875e50-0a07-11ef-9c31-02420a000140.webp",
-                "width": 640
-            },
-            {
-                "caption": "Instructions",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18610050-haunted-house-electron-instructions.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5d52756a-0a07-11ef-b5d0-02420a00013d.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/18610054-haunted-house-electron-entering-the-room.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5db03768-0a07-11ef-a2a6-02420a00013d.webp",
                 "width": 640
             }
         ],
@@ -3458,27 +3458,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Game Over",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18615504-night-strike-electron-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d8cc3a34-0acd-11ef-a9db-02420a00013f.webp",
-                "width": 640
-            },
-            {
-                "caption": "Long Corridors",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18615500-night-strike-electron-long-corridors.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d8761af0-0acd-11ef-9b3b-02420a000140.webp",
-                "width": 640
-            },
-            {
-                "caption": "Navigating the Maze",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18615488-night-strike-electron-navigating-the-maze.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d777388c-0acd-11ef-93cb-02420a00013e.webp",
-                "width": 640
-            },
-            {
                 "caption": "Poisonous Clouds",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/18615492-night-strike-electron-poisonous-clouds.png",
@@ -3490,6 +3469,27 @@
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/18615484-night-strike-electron-instructions.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/d7267de8-0acd-11ef-9852-02420a00013f.webp",
+                "width": 640
+            },
+            {
+                "caption": "Navigating the Maze",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18615488-night-strike-electron-navigating-the-maze.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d777388c-0acd-11ef-93cb-02420a00013e.webp",
+                "width": 640
+            },
+            {
+                "caption": "Title Screen",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18615480-night-strike-electron-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d6d1571e-0acd-11ef-9e76-02420a00013e.webp",
+                "width": 640
+            },
+            {
+                "caption": "Game Over",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18615504-night-strike-electron-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d8cc3a34-0acd-11ef-a9db-02420a00013f.webp",
                 "width": 640
             }
         ],
@@ -3561,10 +3561,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Instructions",
+                "caption": "Red Light",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18616192-reaction-tester-electron-instructions.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/78d0c042-0adb-11ef-9852-02420a00013f.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/18616196-reaction-tester-electron-red-light.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7936e2b4-0adb-11ef-96f3-02420a000140.webp",
                 "width": 640
             },
             {
@@ -3572,6 +3572,13 @@
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/18616200-reaction-tester-electron-timer-counting-down.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/7994454e-0adb-11ef-81fb-02420a00013d.webp",
+                "width": 640
+            },
+            {
+                "caption": "Instructions",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18616192-reaction-tester-electron-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/78d0c042-0adb-11ef-9852-02420a00013f.webp",
                 "width": 640
             },
             {
@@ -3586,13 +3593,6 @@
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/18616208-reaction-tester-electron-i-was-too-quick.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/7a8c6f12-0adb-11ef-9b3b-02420a000140.webp",
-                "width": 640
-            },
-            {
-                "caption": "Red Light",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18616196-reaction-tester-electron-red-light.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7936e2b4-0adb-11ef-96f3-02420a000140.webp",
                 "width": 640
             }
         ],
@@ -3669,17 +3669,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Final Score",
+                "caption": "Instructions",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18616298-knockout-electron-final-score.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d4952a38-0add-11ef-81fb-02420a00013d.webp",
-                "width": 640
-            },
-            {
-                "caption": "Knocking Out Pieces",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18616286-knockout-electron-knocking-out-pieces.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d3a58a8c-0add-11ef-9852-02420a00013f.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/18616278-knockout-electron-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d309aa72-0add-11ef-9852-02420a00013f.webp",
                 "width": 640
             },
             {
@@ -3690,10 +3683,17 @@
                 "width": 640
             },
             {
-                "caption": "Instructions",
+                "caption": "Green Blocks Coming",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18616278-knockout-electron-instructions.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d309aa72-0add-11ef-9852-02420a00013f.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/18616290-knockout-electron-green-blocks-coming.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d3f3ae56-0add-11ef-9852-02420a00013f.webp",
+                "width": 640
+            },
+            {
+                "caption": "Final Score",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18616298-knockout-electron-final-score.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d4952a38-0add-11ef-81fb-02420a00013d.webp",
                 "width": 640
             },
             {
@@ -3790,17 +3790,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Game Setup",
+                "caption": "Many Enemies",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18627832-skramble-electron-game-setup.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e6efc8da-0da5-11ef-b33b-02420a000140.webp",
-                "width": 640
-            },
-            {
-                "caption": "High Score",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18627852-skramble-electron-high-score.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e885181c-0da5-11ef-8670-02420a00013f.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/18627844-skramble-electron-many-enemies.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e7e98956-0da5-11ef-b33b-02420a000140.webp",
                 "width": 640
             },
             {
@@ -3811,10 +3804,10 @@
                 "width": 640
             },
             {
-                "caption": "Incoming Enemies",
+                "caption": "High Score",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18627836-skramble-electron-incoming-enemies.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e74c56a4-0da5-11ef-9c03-02420a00013d.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/18627852-skramble-electron-high-score.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e885181c-0da5-11ef-8670-02420a00013f.webp",
                 "width": 640
             },
             {
@@ -3822,6 +3815,13 @@
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/18627840-skramble-electron-yellow-saucers.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/e79af28c-0da5-11ef-a296-02420a00013d.webp",
+                "width": 640
+            },
+            {
+                "caption": "I'm Hit",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18627848-skramble-electron-im-hit.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e8358720-0da5-11ef-82dd-02420a00013f.webp",
                 "width": 640
             }
         ],
@@ -3902,27 +3902,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "High Scores",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18628845-star-fighter-electron-high-scores.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/65dbf030-0de5-11ef-80d2-02420a00013f.webp",
-                "width": 640
-            },
-            {
-                "caption": "Incoming Enemy",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18628833-star-fighter-electron-incoming-enemy.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/64d05622-0de5-11ef-9e82-02420a000140.webp",
-                "width": 640
-            },
-            {
-                "caption": "I'm Defeated",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18628841-star-fighter-electron-im-defeated.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/65838288-0de5-11ef-919f-02420a00013d.webp",
-                "width": 640
-            },
-            {
                 "caption": "Starting my Flight",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/18628829-star-fighter-electron-starting-my-flight.png",
@@ -3930,10 +3909,31 @@
                 "width": 640
             },
             {
+                "caption": "High Scores",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18628845-star-fighter-electron-high-scores.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/65dbf030-0de5-11ef-80d2-02420a00013f.webp",
+                "width": 640
+            },
+            {
                 "caption": "Introduction",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/18628824-star-fighter-electron-introduction.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/640d7706-0de5-11ef-9dc3-02420a000140.webp",
+                "width": 640
+            },
+            {
+                "caption": "Close Range",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18628837-star-fighter-electron-close-range.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/65281c90-0de5-11ef-9756-02420a00013e.webp",
+                "width": 640
+            },
+            {
+                "caption": "Incoming Enemy",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18628833-star-fighter-electron-incoming-enemy.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/64d05622-0de5-11ef-9e82-02420a000140.webp",
                 "width": 640
             }
         ],

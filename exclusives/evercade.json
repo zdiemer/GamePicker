@@ -1002,7 +1002,15 @@
                 "2021-04"
             ]
         ],
-        "sample_cover": null,
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/18771231-piko-interactive-collection-2-evercade-front-cover.jpg",
+            "platforms": [
+                "Evercade"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/15cfb766-28ed-11ef-a540-02420a0001c3.webp",
+            "width": 593
+        },
         "sample_screenshots": [],
         "title": "Piko Interactive Collection 2"
     },
@@ -1074,7 +1082,15 @@
                 "2021-07-30"
             ]
         ],
-        "sample_cover": null,
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/18269984-worms-collection-1-evercade-front-cover.png",
+            "platforms": [
+                "Evercade"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/a2d611aa-d1bd-11ee-9c76-02420a000135.webp",
+            "width": 587
+        },
         "sample_screenshots": [],
         "title": "Worms Collection 1"
     },
@@ -1798,7 +1814,15 @@
                 "2022-11-04"
             ]
         ],
-        "sample_cover": null,
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/18270023-alwas-awakening-cathedral-evercade-front-cover.png",
+            "platforms": [
+                "Evercade"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/ec6a5448-d1bd-11ee-9018-02420a000136.webp",
+            "width": 588
+        },
         "sample_screenshots": [],
         "title": "Alwa's Awakening / Cathedral"
     },
@@ -1943,7 +1967,7 @@
         "id": 213372,
         "moby_score": null,
         "moby_url": "https://www.mobygames.com/game/213372/duke-nukem-12-remastered-duke-nukem-3d-total-meltdown/",
-        "num_votes": 0,
+        "num_votes": 1,
         "official_url": "https://evercade.co.uk/cartridges/duke-nukem-collection-1/",
         "platforms": [
             [
@@ -2117,5 +2141,234 @@
         },
         "sample_screenshots": [],
         "title": "The C64 Collection 3"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><i>Jaleco Arcade 1</i> is the 5th arcade compilation release for the Evercade. It features 8 emulated games originally manufactured by Jaleco in the '80s &amp; '90s.</p>\n<p>The 8 titles are: </p><ul><p></p>\n<li>64th Street: A Detective Story</li>\n<li>Avenging Spirit</li>\n<li>Cybattler</li>\n<li>E.D.F.: Earth Defence Force</li>\n<li>P-47: The Phantom Fighter {a.k.a. P-47: Thunderbolt}</li>\n<li>Rod-Land</li>\n<li>Saint Dragon</li>\n<li>The Astyanax</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 117,
+                "name": "Beat 'em up / brawler"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 21,
+                "name": "Platform"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 225994,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/225994/jaleco-arcade-1/",
+        "num_votes": 0,
+        "official_url": "https://evercade.co.uk/cartridges/jaleco-arcade-1/",
+        "platforms": [
+            [
+                {
+                    "id": 284,
+                    "name": "Evercade"
+                },
+                "2022-07-29"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/18788320-jaleco-arcade-1-evercade-front-cover.jpg",
+            "platforms": [
+                "Evercade"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/40ec24f8-2b17-11ef-a2bf-02420a0001c5.webp",
+            "width": 593
+        },
+        "sample_screenshots": [],
+        "title": "Jaleco Arcade 1"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><i>Gaelco Arcade 2</i> is the 6th arcade compilation for the Evercade. It features 6 games originally manufactured by Gaelco in the '90s.</p>\n<p>The 6 titles are: </p><ul><p></p>\n<li>Big Karnak</li>\n<li>Maniac Square</li>\n<li>Squash</li>\n<li>TH Strikes Back</li>\n<li>Touch and Go</li>\n<li>World Rally 2: Twin Racing</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 226208,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/226208/gaelco-arcade-2/",
+        "num_votes": 0,
+        "official_url": "https://evercade.co.uk/cartridges/gaelco-arcade-2/",
+        "platforms": [
+            [
+                {
+                    "id": 284,
+                    "name": "Evercade"
+                },
+                "2022-07-29"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Gaelco Arcade 2"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><i>Toaplan Arcade 2</i> is the 9th arcade compilation for the Evercade. It features 7 games originally manufactured by Toaplan in the '80s &amp; '90s.</p>\n<p>The 7 titles are: </p><ul><p></p>\n<li>Demon's World {a.k.a. Horror Story}</li>\n<li>Fire Shark</li>\n<li>Hellfire</li>\n<li>Rally Bike</li>\n<li>Twin Cobra</li>\n<li>Twin Hawk</li>\n<li>Wardner {a.k.a. Pyros}</li>\n</ul>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 226229,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/226229/toaplan-arcade-2/",
+        "num_votes": 0,
+        "official_url": "https://evercade.co.uk/cartridges/toaplan-arcade-2/",
+        "platforms": [
+            [
+                {
+                    "id": 284,
+                    "name": "Evercade"
+                },
+                "2023-04-28"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/18801550-toaplan-arcade-2-evercade-front-cover.jpg",
+            "platforms": [
+                "Evercade"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/1bd1236c-2d88-11ef-8d1b-02420a0001c2.webp",
+            "width": 509
+        },
+        "sample_screenshots": [],
+        "title": "Toaplan Arcade 2"
     }
 ]

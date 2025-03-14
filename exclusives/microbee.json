@@ -74,31 +74,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Destroying rockets",
+                "caption": "Hitting a ground target",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16112526-scrambler-microbee-destroying-rockets.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/093c28fe-bf76-11ed-9521-02420a000152.webp",
-                "width": 512
-            },
-            {
-                "caption": "Title screen",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16112538-scrambler-microbee-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/09bba1ec-bf76-11ed-9521-02420a000152.webp",
-                "width": 512
-            },
-            {
-                "caption": "Getting killed",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16112469-scrambler-microbee-getting-killed.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0643cb98-bf76-11ed-9521-02420a000152.webp",
-                "width": 512
-            },
-            {
-                "caption": "Coming across a number of rockets",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16112532-scrambler-microbee-coming-across-a-number-of-rockets.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/097ac2f8-bf76-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16112529-scrambler-microbee-hitting-a-ground-target.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/095d678a-bf76-11ed-9521-02420a000152.webp",
                 "width": 512
             },
             {
@@ -106,6 +85,27 @@
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/16112466-scrambler-microbee-game-over.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/061f41a6-bf76-11ed-9521-02420a000152.webp",
+                "width": 512
+            },
+            {
+                "caption": "Destroying rockets",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16112526-scrambler-microbee-destroying-rockets.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/093c28fe-bf76-11ed-9521-02420a000152.webp",
+                "width": 512
+            },
+            {
+                "caption": "Starting out",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16112535-scrambler-microbee-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/099a1bf8-bf76-11ed-9521-02420a000152.webp",
+                "width": 512
+            },
+            {
+                "caption": "Score table",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16112541-scrambler-microbee-score-table.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/09d84eb4-bf76-11ed-9521-02420a000152.webp",
                 "width": 512
             }
         ],
@@ -218,17 +218,17 @@
                 "width": 512
             },
             {
-                "caption": "Initial opening screen.",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/6619368-halloween-harry-microbee-initial-opening-screen.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e0ea1f9e-abef-11ed-b83f-02420a000135.webp",
-                "width": 512
-            },
-            {
                 "caption": "Start of game play Level 1",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/6622299-halloween-harry-microbee-start-of-game-play-level-1.jpg",
                 "thumbnail_image_url": "https://cdn.mobygames.com/eb662cc4-abef-11ed-a161-02420a000136.webp",
+                "width": 512
+            },
+            {
+                "caption": "Initial opening screen.",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/6619368-halloween-harry-microbee-initial-opening-screen.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e0ea1f9e-abef-11ed-b83f-02420a000135.webp",
                 "width": 512
             },
             {

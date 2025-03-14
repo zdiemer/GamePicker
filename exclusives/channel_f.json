@@ -112,9 +112,9 @@
             }
         ],
         "id": 22831,
-        "moby_score": 5.1,
+        "moby_score": 5.0,
         "moby_url": "https://www.mobygames.com/game/22831/videocart-1-tic-tac-toe-shooting-gallery-doodle-quadra-doodle/",
-        "num_votes": 16,
+        "num_votes": 18,
         "official_url": null,
         "platforms": [
             [
@@ -136,10 +136,31 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Tic-Tac-Toe: lose game",
+                "caption": "Quadra-Doodle: screen 1",
                 "height": 116,
-                "image_url": "https://cdn.mobygames.com/screenshots/15772230-videocart-1-tic-tac-toe-shooting-gallery-doodle-quadra-doodle-ch.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bd049848-bee1-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15772338-videocart-1-tic-tac-toe-shooting-gallery-doodle-quadra-doodle-ch.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c5f3b5e2-bee1-11ed-9c42-02420a000140.webp",
+                "width": 204
+            },
+            {
+                "caption": "Tic-Tac-Toe: win game",
+                "height": 116,
+                "image_url": "https://cdn.mobygames.com/screenshots/15772251-videocart-1-tic-tac-toe-shooting-gallery-doodle-quadra-doodle-ch.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bfb19050-bee1-11ed-9c42-02420a000140.webp",
+                "width": 204
+            },
+            {
+                "caption": "Shooting Gallery: play with time limit",
+                "height": 116,
+                "image_url": "https://cdn.mobygames.com/screenshots/15772332-videocart-1-tic-tac-toe-shooting-gallery-doodle-quadra-doodle-ch.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c5a53548-bee1-11ed-9c42-02420a000140.webp",
+                "width": 204
+            },
+            {
+                "caption": "Doodle: draw another line",
+                "height": 116,
+                "image_url": "https://cdn.mobygames.com/screenshots/15772344-videocart-1-tic-tac-toe-shooting-gallery-doodle-quadra-doodle-ch.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c61f74de-bee1-11ed-9c42-02420a000140.webp",
                 "width": 204
             },
             {
@@ -147,27 +168,6 @@
                 "height": 116,
                 "image_url": "https://cdn.mobygames.com/screenshots/15772443-videocart-1-tic-tac-toe-shooting-gallery-doodle-quadra-doodle-ch.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/cce80e8e-bee1-11ed-9c42-02420a000140.webp",
-                "width": 204
-            },
-            {
-                "caption": "Tic-Tac-Toe: begin game",
-                "height": 116,
-                "image_url": "https://cdn.mobygames.com/screenshots/15772203-videocart-1-tic-tac-toe-shooting-gallery-doodle-quadra-doodle-ch.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bb788db8-bee1-11ed-9c42-02420a000140.webp",
-                "width": 204
-            },
-            {
-                "caption": "Shooting Gallery: shoot",
-                "height": 116,
-                "image_url": "https://cdn.mobygames.com/screenshots/15772296-videocart-1-tic-tac-toe-shooting-gallery-doodle-quadra-doodle-ch.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c2aaadf0-bee1-11ed-9c42-02420a000140.webp",
-                "width": 204
-            },
-            {
-                "caption": "Doodle: begin",
-                "height": 116,
-                "image_url": "https://cdn.mobygames.com/screenshots/15772374-videocart-1-tic-tac-toe-shooting-gallery-doodle-quadra-doodle-ch.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c947f9c4-bee1-11ed-9c42-02420a000140.webp",
                 "width": 204
             }
         ],
@@ -255,9 +255,9 @@
             }
         ],
         "id": 22849,
-        "moby_score": 5.8,
+        "moby_score": 5.7,
         "moby_url": "https://www.mobygames.com/game/22849/videocart-2-desert-fox-shooting-gallery/",
-        "num_votes": 13,
+        "num_votes": 15,
         "official_url": null,
         "platforms": [
             [
@@ -279,24 +279,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The game has begun...",
+                "caption": "Green tank about to get shot",
                 "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/15943028-videocart-2-desert-fox-shooting-gallery-channel-f-the-game-has-b.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e8b1dd50-bf15-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16060465-videocart-2-desert-fox-shooting-gallery-channel-f-green-tank-abo.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/18e9dce8-bf66-11ed-9521-02420a000152.webp",
                 "width": 102
             },
             {
-                "caption": "Shooting at the target",
+                "caption": "Start screen of Desert Fox",
                 "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/15652024-videocart-2-desert-fox-shooting-gallery-channel-f-shooting-at-th.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ceac7cb4-bdf1-11ed-b791-02420a0001bb.webp",
-                "width": 102
-            },
-            {
-                "caption": "Hit!",
-                "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/15943106-videocart-2-desert-fox-shooting-gallery-channel-f-hit.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/edab278a-bf15-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15942989-videocart-2-desert-fox-shooting-gallery-channel-f-start-screen-o.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e60f8a52-bf15-11ed-9c42-02420a000140.webp",
                 "width": 102
             },
             {
@@ -307,10 +300,17 @@
                 "width": 102
             },
             {
-                "caption": "Green tank about to get shot",
+                "caption": "Gameplay of Shooting Gallery",
                 "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16060465-videocart-2-desert-fox-shooting-gallery-channel-f-green-tank-abo.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/18e9dce8-bf66-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15943397-videocart-2-desert-fox-shooting-gallery-channel-f-gameplay-of-sh.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/03649d40-bf16-11ed-9c42-02420a000140.webp",
+                "width": 102
+            },
+            {
+                "caption": "Shooting at the target",
+                "height": 58,
+                "image_url": "https://cdn.mobygames.com/screenshots/15652024-videocart-2-desert-fox-shooting-gallery-channel-f-shooting-at-th.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ceac7cb4-bdf1-11ed-b791-02420a0001bb.webp",
                 "width": 102
             }
         ],
@@ -426,6 +426,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "The computer is shuffling the cards, the order of cards depends on when players confirm the \"CUT?\" message.",
+                "height": 58,
+                "image_url": "https://cdn.mobygames.com/screenshots/15943139-videocart-3-video-blackjack-channel-f-the-computer-is-shuffling-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f0a628e0-bf15-11ed-9c42-02420a000140.webp",
+                "width": 102
+            },
+            {
                 "caption": "Both players have won against the bank!",
                 "height": 58,
                 "image_url": "https://cdn.mobygames.com/screenshots/15943145-videocart-3-video-blackjack-channel-f-both-players-have-won-agai.png",
@@ -444,13 +451,6 @@
                 "height": 58,
                 "image_url": "https://cdn.mobygames.com/screenshots/15943118-videocart-3-video-blackjack-channel-f-both-players-are-placing-t.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/ee2f4b96-bf15-11ed-9c42-02420a000140.webp",
-                "width": 102
-            },
-            {
-                "caption": "The computer is shuffling the cards, the order of cards depends on when players confirm the \"CUT?\" message.",
-                "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/15943139-videocart-3-video-blackjack-channel-f-the-computer-is-shuffling-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f0a628e0-bf15-11ed-9c42-02420a000140.webp",
                 "width": 102
             }
         ],
@@ -538,7 +538,7 @@
             }
         ],
         "id": 22898,
-        "moby_score": 5.4,
+        "moby_score": 5.5,
         "moby_url": "https://www.mobygames.com/game/22898/videocart-4-spitfire/",
         "num_votes": 11,
         "official_url": null,
@@ -562,10 +562,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The red plane has been hit and tumbles down to the ground.",
+                "caption": "Score display after a hit.",
                 "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/15943250-videocart-4-spitfire-channel-f-the-red-plane-has-been-hit-and-tu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f7baf0a2-bf15-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15943271-videocart-4-spitfire-channel-f-score-display-after-a-hit.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f8a2411e-bf15-11ed-9c42-02420a000140.webp",
+                "width": 102
+            },
+            {
+                "caption": "The tower will disappear a few seconds into the round.",
+                "height": 58,
+                "image_url": "https://cdn.mobygames.com/screenshots/15943202-videocart-4-spitfire-channel-f-the-tower-will-disappear-a-few-se.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f4abc86e-bf15-11ed-9c42-02420a000140.webp",
                 "width": 102
             },
             {
@@ -583,17 +590,10 @@
                 "width": 102
             },
             {
-                "caption": "Score display after a hit.",
+                "caption": "The red plane has been hit and tumbles down to the ground.",
                 "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/15943271-videocart-4-spitfire-channel-f-score-display-after-a-hit.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f8a2411e-bf15-11ed-9c42-02420a000140.webp",
-                "width": 102
-            },
-            {
-                "caption": "The tower will disappear a few seconds into the round.",
-                "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/15943202-videocart-4-spitfire-channel-f-the-tower-will-disappear-a-few-se.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f4abc86e-bf15-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15943250-videocart-4-spitfire-channel-f-the-red-plane-has-been-hit-and-tu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f7baf0a2-bf15-11ed-9c42-02420a000140.webp",
                 "width": 102
             }
         ],
@@ -692,7 +692,7 @@
         "id": 23749,
         "moby_score": null,
         "moby_url": "https://www.mobygames.com/game/23749/videocart-5-space-war/",
-        "num_votes": 8,
+        "num_votes": 9,
         "official_url": null,
         "platforms": [
             [
@@ -714,10 +714,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The green player has been obliterated.",
+                "caption": "The green player is shooting at the blue player.",
                 "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16031142-videocart-5-space-war-channel-f-the-green-player-has-been-oblite.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ccc36060-bf32-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16031493-videocart-5-space-war-channel-f-the-green-player-is-shooting-at-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f5e94da6-bf32-11ed-9c42-02420a000140.webp",
                 "width": 102
             },
             {
@@ -728,10 +728,10 @@
                 "width": 102
             },
             {
-                "caption": "The green player is shooting at the blue player.",
+                "caption": "The green player has been obliterated.",
                 "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16031493-videocart-5-space-war-channel-f-the-green-player-is-shooting-at-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f5e94da6-bf32-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16031142-videocart-5-space-war-channel-f-the-green-player-has-been-oblite.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ccc36060-bf32-11ed-9c42-02420a000140.webp",
                 "width": 102
             }
         ],
@@ -828,6 +828,20 @@
                 "width": 102
             },
             {
+                "caption": "An addition problem",
+                "height": 58,
+                "image_url": "https://cdn.mobygames.com/screenshots/16031160-videocart-6-math-quiz-i-channel-f-an-addition-problem.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cfbeb300-bf32-11ed-9c42-02420a000140.webp",
+                "width": 102
+            },
+            {
+                "caption": "Start screen",
+                "height": 58,
+                "image_url": "https://cdn.mobygames.com/screenshots/16031151-videocart-6-math-quiz-i-channel-f-start-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ce8eb476-bf32-11ed-9c42-02420a000140.webp",
+                "width": 102
+            },
+            {
                 "caption": "Solved a subtraction problem.",
                 "height": 58,
                 "image_url": "https://cdn.mobygames.com/screenshots/16060516-videocart-6-math-quiz-i-channel-f-solved-a-subtraction-problem.png",
@@ -839,20 +853,6 @@
                 "height": 58,
                 "image_url": "https://cdn.mobygames.com/screenshots/16060492-videocart-6-math-quiz-i-channel-f-thats-it.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/19fda678-bf66-11ed-9521-02420a000152.webp",
-                "width": 102
-            },
-            {
-                "caption": "Wrong answer, try again!",
-                "height": 116,
-                "image_url": "https://cdn.mobygames.com/screenshots/15835297-videocart-6-math-quiz-i-channel-f-wrong-answer-try-again.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/dec4e650-bef4-11ed-9c42-02420a000140.webp",
-                "width": 204
-            },
-            {
-                "caption": "Start screen",
-                "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16031151-videocart-6-math-quiz-i-channel-f-start-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ce8eb476-bf32-11ed-9c42-02420a000140.webp",
                 "width": 102
             }
         ],
@@ -949,13 +949,6 @@
                 "width": 102
             },
             {
-                "caption": "Made a mistake.",
-                "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16031397-videocart-7-math-quiz-ii-channel-f-made-a-mistake.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ec213e6e-bf32-11ed-9c42-02420a000140.webp",
-                "width": 102
-            },
-            {
                 "caption": "Solved a division problem.",
                 "height": 58,
                 "image_url": "https://cdn.mobygames.com/screenshots/16031376-videocart-7-math-quiz-ii-channel-f-solved-a-division-problem.png",
@@ -974,6 +967,13 @@
                 "height": 58,
                 "image_url": "https://cdn.mobygames.com/screenshots/16031358-videocart-7-math-quiz-ii-channel-f-solved-a-multiplication-probl.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/e8f44b78-bf32-11ed-9c42-02420a000140.webp",
+                "width": 102
+            },
+            {
+                "caption": "Made a mistake.",
+                "height": 58,
+                "image_url": "https://cdn.mobygames.com/screenshots/16031397-videocart-7-math-quiz-ii-channel-f-made-a-mistake.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ec213e6e-bf32-11ed-9c42-02420a000140.webp",
                 "width": 102
             }
         ],
@@ -1060,9 +1060,9 @@
             }
         ],
         "id": 38858,
-        "moby_score": 5.8,
+        "moby_score": 5.9,
         "moby_url": "https://www.mobygames.com/game/38858/videocart-8-magic-numbers/",
-        "num_votes": 10,
+        "num_votes": 11,
         "official_url": null,
         "platforms": [
             [
@@ -1091,31 +1091,31 @@
                 "width": 102
             },
             {
-                "caption": "Guessing the number (3-digit)",
+                "caption": "Playing 3-digit Magic Number",
                 "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/5267226-videocart-8-magic-numbers-channel-f-guessing-the-number-3-digit.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/76c9ad86-abd7-11ed-be6f-02420a000197.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/4321589-videocart-8-magic-numbers-channel-f-playing-3-digit-magic-number.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2d66d656-abae-11ed-8bed-02420a00019f.webp",
                 "width": 102
             },
             {
-                "caption": "NIM - 6 piles",
+                "caption": "NIM - 9 piles (tough)",
                 "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/4326316-videocart-8-magic-numbers-channel-f-nim-6-piles.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5e6c006e-abae-11ed-96f9-02420a00019a.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/4325641-videocart-8-magic-numbers-channel-f-nim-9-piles-tough.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/571de750-abae-11ed-96f9-02420a00019a.webp",
                 "width": 102
             },
             {
-                "caption": "NIM - 3 piles",
+                "caption": "NIM - 9 piles (uh-oh)",
                 "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/4322898-videocart-8-magic-numbers-channel-f-nim-3-piles.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3b876566-abae-11ed-a5ec-02420a00019b.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/4325793-videocart-8-magic-numbers-channel-f-nim-9-piles-uh-oh.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/58eeff56-abae-11ed-96f9-02420a00019a.webp",
                 "width": 102
             },
             {
-                "caption": "Also plays 4 and 5 digit (shown here)",
+                "caption": "NIM - winning at 3 piles",
                 "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/4326493-videocart-8-magic-numbers-channel-f-also-plays-4-and-5-digit-sho.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/602426de-abae-11ed-b6ec-02420a00019b.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/4326589-videocart-8-magic-numbers-channel-f-nim-winning-at-3-piles.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6114dfca-abae-11ed-b6ec-02420a00019b.webp",
                 "width": 102
             }
         ],
@@ -1195,7 +1195,7 @@
         "id": 38861,
         "moby_score": null,
         "moby_url": "https://www.mobygames.com/game/38861/videocart-9-drag-strip/",
-        "num_votes": 7,
+        "num_votes": 8,
         "official_url": null,
         "platforms": [
             [
@@ -1217,17 +1217,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "All right!  7.9sec, not too shabby.",
+                "caption": "Finish Line!  11.6... gotta beat that",
                 "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/4336026-videocart-9-drag-strip-channel-f-all-right-79sec-not-too-shabby.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c22b4e3e-abae-11ed-89d0-02420a00019d.webp",
-                "width": 102
-            },
-            {
-                "caption": "Countdown at the starting line",
-                "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/4332089-videocart-9-drag-strip-channel-f-countdown-at-the-starting-line.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9a1ec074-abae-11ed-a188-02420a00019a.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/4334316-videocart-9-drag-strip-channel-f-finish-line-116-gotta-beat-that.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b16c959e-abae-11ed-a5ec-02420a00019b.webp",
                 "width": 102
             },
             {
@@ -1238,6 +1231,13 @@
                 "width": 102
             },
             {
+                "caption": "Off to a good start (single-player)",
+                "height": 58,
+                "image_url": "https://cdn.mobygames.com/screenshots/5267691-videocart-9-drag-strip-channel-f-off-to-a-good-start-single-play.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7dcf4f32-abd7-11ed-be6f-02420a000197.webp",
+                "width": 102
+            },
+            {
                 "caption": "DOH!  Blown engine.. pushing too hard",
                 "height": 58,
                 "image_url": "https://cdn.mobygames.com/screenshots/5267569-videocart-9-drag-strip-channel-f-doh-blown-engine-pushing-too-ha.png",
@@ -1245,10 +1245,10 @@
                 "width": 102
             },
             {
-                "caption": "Finish Line!  11.6... gotta beat that",
+                "caption": "Countdown at the starting line",
                 "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/4334316-videocart-9-drag-strip-channel-f-finish-line-116-gotta-beat-that.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b16c959e-abae-11ed-a5ec-02420a00019b.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/4332089-videocart-9-drag-strip-channel-f-countdown-at-the-starting-line.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9a1ec074-abae-11ed-a188-02420a00019a.webp",
                 "width": 102
             }
         ],
@@ -1355,6 +1355,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Trying to locate the exit",
+                "height": 58,
+                "image_url": "https://cdn.mobygames.com/screenshots/16125966-videocart-10-maze-channel-f-trying-to-locate-the-exit.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a0b1a026-bf79-11ed-9521-02420a000152.webp",
+                "width": 102
+            },
+            {
                 "caption": "Blazing a trail in Trailblazer mode",
                 "height": 58,
                 "image_url": "https://cdn.mobygames.com/screenshots/16126059-videocart-10-maze-channel-f-blazing-a-trail-in-trailblazer-mode.png",
@@ -1362,10 +1369,17 @@
                 "width": 102
             },
             {
-                "caption": "Starting a maze game",
+                "caption": "Almost finished with the maze",
                 "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16124949-videocart-10-maze-channel-f-starting-a-maze-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5937bb86-bf79-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16125969-videocart-10-maze-channel-f-almost-finished-with-the-maze.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a0c7d0f8-bf79-11ed-9521-02420a000152.webp",
+                "width": 102
+            },
+            {
+                "caption": "The screen flashes when the maze is finished",
+                "height": 58,
+                "image_url": "https://cdn.mobygames.com/screenshots/16126053-videocart-10-maze-channel-f-the-screen-flashes-when-the-maze-is-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a52ea54a-bf79-11ed-9521-02420a000152.webp",
                 "width": 102
             },
             {
@@ -1373,20 +1387,6 @@
                 "height": 58,
                 "image_url": "https://cdn.mobygames.com/screenshots/16124958-videocart-10-maze-channel-f-2-players-can-play-simultaneously.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/597dba32-bf79-11ed-9521-02420a000152.webp",
-                "width": 102
-            },
-            {
-                "caption": "Bumping into maze walls that can't be seen in Blind-Man's-Bluff mode",
-                "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16126056-videocart-10-maze-channel-f-bumping-into-maze-walls-that-cant-be.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a54130fc-bf79-11ed-9521-02420a000152.webp",
-                "width": 102
-            },
-            {
-                "caption": "Almost finished with the maze",
-                "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16125969-videocart-10-maze-channel-f-almost-finished-with-the-maze.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a0c7d0f8-bf79-11ed-9521-02420a000152.webp",
                 "width": 102
             }
         ],
@@ -1493,13 +1493,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Opening positions for Backgammon",
-                "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/4431944-videocart-11-backgammon-acey-deucey-channel-f-opening-positions-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a2bad4bc-abb2-11ed-9d80-02420a00019a.webp",
-                "width": 102
-            },
-            {
                 "caption": "All the pieces all the way around",
                 "height": 58,
                 "image_url": "https://cdn.mobygames.com/screenshots/5267475-videocart-11-backgammon-acey-deucey-channel-f-all-the-pieces-all.png",
@@ -1507,10 +1500,10 @@
                 "width": 102
             },
             {
-                "caption": "Starting position for Acey-Deucey",
+                "caption": "Opening positions for Backgammon",
                 "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/4432905-videocart-11-backgammon-acey-deucey-channel-f-starting-position-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ac4a7654-abb2-11ed-87ec-02420a00019c.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/4431944-videocart-11-backgammon-acey-deucey-channel-f-opening-positions-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a2bad4bc-abb2-11ed-9d80-02420a00019a.webp",
                 "width": 102
             },
             {
@@ -1518,6 +1511,13 @@
                 "height": 58,
                 "image_url": "https://cdn.mobygames.com/screenshots/4432981-videocart-11-backgammon-acey-deucey-channel-f-moving-the-pieces-.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/ad4f6c26-abb2-11ed-8bed-02420a00019f.webp",
+                "width": 102
+            },
+            {
+                "caption": "Starting position for Acey-Deucey",
+                "height": 58,
+                "image_url": "https://cdn.mobygames.com/screenshots/4432905-videocart-11-backgammon-acey-deucey-channel-f-starting-position-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ac4a7654-abb2-11ed-87ec-02420a00019c.webp",
                 "width": 102
             }
         ],
@@ -1611,13 +1611,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "and the fun goes on...",
-                "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/5268176-videocart-12-baseball-channel-f-and-the-fun-goes-on.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/85220c8e-abd7-11ed-be6f-02420a000197.webp",
-                "width": 102
-            },
-            {
                 "caption": "Starting Game Screen",
                 "height": 58,
                 "image_url": "https://cdn.mobygames.com/screenshots/2703859-videocart-12-baseball-channel-f-starting-game-screen.png",
@@ -1632,17 +1625,24 @@
                 "width": 102
             },
             {
+                "caption": "and the fun goes on...",
+                "height": 58,
+                "image_url": "https://cdn.mobygames.com/screenshots/5268176-videocart-12-baseball-channel-f-and-the-fun-goes-on.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/85220c8e-abd7-11ed-be6f-02420a000197.webp",
+                "width": 102
+            },
+            {
+                "caption": "Finally blue gets to bat",
+                "height": 58,
+                "image_url": "https://cdn.mobygames.com/screenshots/2703721-videocart-12-baseball-channel-f-finally-blue-gets-to-bat.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d2a31930-ab82-11ed-aaf5-02420a00019c.webp",
+                "width": 102
+            },
+            {
                 "caption": "Green team up to bat",
                 "height": 58,
                 "image_url": "https://cdn.mobygames.com/screenshots/2705438-videocart-12-baseball-channel-f-green-team-up-to-bat.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/da3c50f8-ab82-11ed-87d1-02420a000197.webp",
-                "width": 102
-            },
-            {
-                "caption": "Here comes the pitch",
-                "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/2702848-videocart-12-baseball-channel-f-here-comes-the-pitch.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cf897514-ab82-11ed-aaf5-02420a00019c.webp",
                 "width": 102
             }
         ],
@@ -1741,17 +1741,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "A 2 player simultaneous game",
+                "caption": "Starting screen",
                 "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16095243-videocart-26-alien-invasion-channel-f-a-2-player-simultaneous-ga.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ddaead10-bf70-11ed-9521-02420a000152.webp",
-                "width": 102
-            },
-            {
-                "caption": "A destroyed enemy",
-                "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16105297-videocart-26-alien-invasion-channel-f-a-destroyed-enemy.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a6c57182-bf73-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16095234-videocart-26-alien-invasion-channel-f-starting-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dd768aca-bf70-11ed-9521-02420a000152.webp",
                 "width": 102
             },
             {
@@ -1762,6 +1755,13 @@
                 "width": 102
             },
             {
+                "caption": "A 2 player simultaneous game",
+                "height": 58,
+                "image_url": "https://cdn.mobygames.com/screenshots/16095243-videocart-26-alien-invasion-channel-f-a-2-player-simultaneous-ga.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ddaead10-bf70-11ed-9521-02420a000152.webp",
+                "width": 102
+            },
+            {
                 "caption": "Dodging shots from the aliens",
                 "height": 58,
                 "image_url": "https://cdn.mobygames.com/screenshots/16095240-videocart-26-alien-invasion-channel-f-dodging-shots-from-the-ali.png",
@@ -1769,10 +1769,10 @@
                 "width": 102
             },
             {
-                "caption": "Starting screen",
+                "caption": "Hit the spaceship at the top of the screen for extra points",
                 "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16095234-videocart-26-alien-invasion-channel-f-starting-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/dd768aca-bf70-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16105300-videocart-26-alien-invasion-channel-f-hit-the-spaceship-at-the-t.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a6dd9672-bf73-11ed-9521-02420a000152.webp",
                 "width": 102
             }
         ],
@@ -1840,7 +1840,7 @@
         "id": 45530,
         "moby_score": null,
         "moby_url": "https://www.mobygames.com/game/45530/videocart-21-bowling/",
-        "num_votes": 7,
+        "num_votes": 8,
         "official_url": null,
         "platforms": [
             [
@@ -1862,10 +1862,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The start of a split game",
+                "caption": "Finished a game",
                 "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16095300-videocart-21-bowling-channel-f-the-start-of-a-split-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e5a607ca-bf70-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16095297-videocart-21-bowling-channel-f-finished-a-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e592115c-bf70-11ed-9521-02420a000152.webp",
                 "width": 102
             },
             {
@@ -1876,24 +1876,24 @@
                 "width": 102
             },
             {
-                "caption": "Finished a game",
-                "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16095297-videocart-21-bowling-channel-f-finished-a-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e592115c-bf70-11ed-9521-02420a000152.webp",
-                "width": 102
-            },
-            {
-                "caption": "The game keeps track of the frame number and the score",
-                "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16105309-videocart-21-bowling-channel-f-the-game-keeps-track-of-the-frame.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a723da9c-bf73-11ed-9521-02420a000152.webp",
-                "width": 102
-            },
-            {
                 "caption": "The ball goes back and forth at the bottom of the screen",
                 "height": 58,
                 "image_url": "https://cdn.mobygames.com/screenshots/16105306-videocart-21-bowling-channel-f-the-ball-goes-back-and-forth-at-t.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/a70cd680-bf73-11ed-9521-02420a000152.webp",
+                "width": 102
+            },
+            {
+                "caption": "Start screen",
+                "height": 58,
+                "image_url": "https://cdn.mobygames.com/screenshots/16105294-videocart-21-bowling-channel-f-start-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a6af9358-bf73-11ed-9521-02420a000152.webp",
+                "width": 102
+            },
+            {
+                "caption": "The start of a split game",
+                "height": 58,
+                "image_url": "https://cdn.mobygames.com/screenshots/16095300-videocart-21-bowling-channel-f-the-start-of-a-split-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e5a607ca-bf70-11ed-9521-02420a000152.webp",
                 "width": 102
             }
         ],
@@ -2018,17 +2018,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "There are no borders, so the player can wrap around the screen (Robot War)",
+                "caption": "The pink robots are swarming (Robot War)",
                 "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16104834-videocart-13-robot-war-torpedo-alley-channel-f-there-are-no-bord.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/81753a70-bf73-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16104828-videocart-13-robot-war-torpedo-alley-channel-f-the-pink-robots-a.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/814db248-bf73-11ed-9521-02420a000152.webp",
                 "width": 102
             },
             {
-                "caption": "The game ends when the player reaches 99 points (Torpedo Alley)",
+                "caption": "The player is in green (Robot War)",
                 "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16106398-videocart-13-robot-war-torpedo-alley-channel-f-the-game-ends-whe.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/03adc5e8-bf74-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16104735-videocart-13-robot-war-torpedo-alley-channel-f-the-player-is-in-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7b1385ec-bf73-11ed-9521-02420a000152.webp",
+                "width": 102
+            },
+            {
+                "caption": "Scored a point for defeating all the robots (Robot War)",
+                "height": 58,
+                "image_url": "https://cdn.mobygames.com/screenshots/16104831-videocart-13-robot-war-torpedo-alley-channel-f-scored-a-point-fo.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/81621b52-bf73-11ed-9521-02420a000152.webp",
                 "width": 102
             },
             {
@@ -2039,17 +2046,10 @@
                 "width": 102
             },
             {
-                "caption": "The higher the ship, the more points it's worth (Torpedo Alley)",
+                "caption": "There are no borders, so the player can wrap around the screen (Robot War)",
                 "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16105056-videocart-13-robot-war-torpedo-alley-channel-f-the-higher-the-sh.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/96eb3698-bf73-11ed-9521-02420a000152.webp",
-                "width": 102
-            },
-            {
-                "caption": "A torpedo about to hit it's target (Torpedo Alley)",
-                "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16104801-videocart-13-robot-war-torpedo-alley-channel-f-a-torpedo-about-t.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8063c390-bf73-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16104834-videocart-13-robot-war-torpedo-alley-channel-f-there-are-no-bord.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/81753a70-bf73-11ed-9521-02420a000152.webp",
                 "width": 102
             }
         ],
@@ -2163,6 +2163,13 @@
                 "width": 102
             },
             {
+                "caption": "Trying to figure out which way this ship is facing",
+                "height": 58,
+                "image_url": "https://cdn.mobygames.com/screenshots/16105588-videocart-14-sonar-search-channel-f-trying-to-figure-out-which-w.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bab8894a-bf73-11ed-9521-02420a000152.webp",
+                "width": 102
+            },
+            {
                 "caption": "Found a part of a ship",
                 "height": 58,
                 "image_url": "https://cdn.mobygames.com/screenshots/16105591-videocart-14-sonar-search-channel-f-found-a-part-of-a-ship.png",
@@ -2170,24 +2177,17 @@
                 "width": 102
             },
             {
-                "caption": "Firing a shot",
+                "caption": "Finally sunk that ship",
                 "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16105603-videocart-14-sonar-search-channel-f-firing-a-shot.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bb2f71a4-bf73-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16105597-videocart-14-sonar-search-channel-f-finally-sunk-that-ship.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bafe934a-bf73-11ed-9521-02420a000152.webp",
                 "width": 102
             },
             {
-                "caption": "Running out of shots",
+                "caption": "The game shows the player where the ships were after they run out of turns",
                 "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16105594-videocart-14-sonar-search-channel-f-running-out-of-shots.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bae504de-bf73-11ed-9521-02420a000152.webp",
-                "width": 102
-            },
-            {
-                "caption": "Trying to figure out which way this ship is facing",
-                "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16105588-videocart-14-sonar-search-channel-f-trying-to-figure-out-which-w.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bab8894a-bf73-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16106401-videocart-14-sonar-search-channel-f-the-game-shows-the-player-wh.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/03c1d8b2-bf74-11ed-9521-02420a000152.webp",
                 "width": 102
             }
         ],
@@ -2304,10 +2304,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Matched two blue 4's",
+                "caption": "The final pair is found",
                 "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16096770-videocart-15-memory-match-channel-f-matched-two-blue-4s.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3d22d92e-bf71-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16106719-videocart-15-memory-match-channel-f-the-final-pair-is-found.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1ea16e18-bf74-11ed-9521-02420a000152.webp",
+                "width": 102
+            },
+            {
+                "caption": "Playing a game of Symbol 24",
+                "height": 58,
+                "image_url": "https://cdn.mobygames.com/screenshots/16106548-videocart-15-memory-match-channel-f-playing-a-game-of-symbol-24.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0c8178fe-bf74-11ed-9521-02420a000152.webp",
+                "width": 102
+            },
+            {
+                "caption": "Turned over a blue 4",
+                "height": 58,
+                "image_url": "https://cdn.mobygames.com/screenshots/16106722-videocart-15-memory-match-channel-f-turned-over-a-blue-4.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1eb5eda2-bf74-11ed-9521-02420a000152.webp",
                 "width": 102
             },
             {
@@ -2318,24 +2332,10 @@
                 "width": 102
             },
             {
-                "caption": "The final pair is found",
+                "caption": "When a match is made, those matched cards are removed from the board",
                 "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16106719-videocart-15-memory-match-channel-f-the-final-pair-is-found.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1ea16e18-bf74-11ed-9521-02420a000152.webp",
-                "width": 102
-            },
-            {
-                "caption": "About to start a game of Super Cipher-40",
-                "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16106728-videocart-15-memory-match-channel-f-about-to-start-a-game-of-sup.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1edf34a0-bf74-11ed-9521-02420a000152.webp",
-                "width": 102
-            },
-            {
-                "caption": "Cleared the board",
-                "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16106551-videocart-15-memory-match-channel-f-cleared-the-board.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0c93e32c-bf74-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16106554-videocart-15-memory-match-channel-f-when-a-match-is-made-those-m.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0ca611f0-bf74-11ed-9521-02420a000152.webp",
                 "width": 102
             }
         ],
@@ -2442,6 +2442,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Now there's 3 balls that must be dodged",
+                "height": 58,
+                "image_url": "https://cdn.mobygames.com/screenshots/16105846-videocart-16-dodge-it-channel-f-now-theres-3-balls-that-must-be-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cc50d810-bf73-11ed-9521-02420a000152.webp",
+                "width": 102
+            },
+            {
                 "caption": "The clock in the left top corner counts how long the player has gone without being hit",
                 "height": 58,
                 "image_url": "https://cdn.mobygames.com/screenshots/16105834-videocart-16-dodge-it-channel-f-the-clock-in-the-left-top-corner.png",
@@ -2449,17 +2456,17 @@
                 "width": 102
             },
             {
-                "caption": "Keep dodging that red square as it bounces off the walls",
+                "caption": "Not that much room to manuever in such a tight space",
                 "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16105849-videocart-16-dodge-it-channel-f-keep-dodging-that-red-square-as-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cc6c0fa4-bf73-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16105831-videocart-16-dodge-it-channel-f-not-that-much-room-to-manuever-i.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cbc412fe-bf73-11ed-9521-02420a000152.webp",
                 "width": 102
             },
             {
-                "caption": "A more vertical looking playfield",
+                "caption": "4 balls are now out there, this is starting to get tough",
                 "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16105852-videocart-16-dodge-it-channel-f-a-more-vertical-looking-playfiel.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cc8780d6-bf73-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16105837-videocart-16-dodge-it-channel-f-4-balls-are-now-out-there-this-i.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cbf82990-bf73-11ed-9521-02420a000152.webp",
                 "width": 102
             },
             {
@@ -2467,13 +2474,6 @@
                 "height": 58,
                 "image_url": "https://cdn.mobygames.com/screenshots/16105828-videocart-16-dodge-it-channel-f-the-score-in-the-top-right-is-th.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/cbaa748e-bf73-11ed-9521-02420a000152.webp",
-                "width": 102
-            },
-            {
-                "caption": "Another playfield type",
-                "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16105918-videocart-16-dodge-it-channel-f-another-playfield-type.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d1706d9c-bf73-11ed-9521-02420a000152.webp",
                 "width": 102
             }
         ],
@@ -2494,7 +2494,7 @@
                 "title": "Videocart-15: Barriere"
             }
         ],
-        "description": "<p>Although the title of the game may lead players to believe it's a pinball game, this is actually a <a href=\"https://www.mobygames.com/search/?q=Breakout\">Breakout</a> variant. The basic gameplay features the player bouncing a ball off of a paddle into a wall of bricks, chipping them off one brick at a time. Each brick destroyed earns the player points with the low green bricks being worth 1 point each, the middle blue bricks being worth 4 points each, and the red bricks on top rewarding 7 points each. Once the ball bounces off the wall of bricks, it's up to the player to maneuver the paddle under the falling ball in order to hit it back up into the wall of bricks. The player loses a life if he happens to miss hitting the ball with his paddle and it falls into the abyss. The game ends when 7 balls are lost. To keep up with the pinball motif, the wall of bricks are referred to as different colored skill lanes, the walls on the side that the ball can bounce off of are labeled side rails, and the paddle is referred to as a flipper.</p>\n<p>The game offers 132 game variations of this basic gameplay idea, some of them for two simultaneous players. Game modes include Pinball Wiz, Crossover, Blok-Shot, Cooperation, Pro Challenge, and Double Blok, with each having variations that can include different sized paddles, ball speeds, invisible bricks, and even a variation where the paddle shrinks each time it hits the ball.</p>",
+        "description": "<p>Although the title of the game may lead players to believe it's a pinball game, this is actually a <a href=\"https://www.mobygames.com/search/?q=Breakout\">Breakout</a> variant. The basic gameplay features the player bouncing a ball off of a paddle into a wall of bricks, chipping them off one brick at a time. Each brick destroyed earns the player points with the low green bricks being worth 1 point each, the middle blue bricks being worth 4 points each, and the red bricks on top rewarding 7 points each. Once the ball bounces off the wall of bricks, it's up to the player to maneuver the paddle under the falling ball in order to hit it back up into the wall of bricks. The player loses a life if the ball is not hit with the paddle and it falls into the abyss. The game ends when 7 balls are lost. To keep up with the pinball motif, the wall of bricks are referred to as different colored skill lanes, the walls on the side that the ball can bounce off of are labeled side rails, and the paddle is referred to as a flipper.</p>\n<p>The game offers 132 game variations of this basic gameplay idea, some of them for two simultaneous players. Game modes include Pinball Wiz, Crossover, Blok-Shot, Cooperation, Pro Challenge, and Double Blok, with each having variations that can include different-sized paddles, ball speeds, invisible bricks, and even a variation where the paddle shrinks each time it hits the ball.</p>",
         "genres": [
             {
                 "category": {
@@ -2554,7 +2554,7 @@
         "id": 46767,
         "moby_score": null,
         "moby_url": "https://www.mobygames.com/game/46767/videocart-17-pinball-challenge/",
-        "num_votes": 7,
+        "num_votes": 8,
         "official_url": null,
         "platforms": [
             [
@@ -2576,24 +2576,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Select a mode to play",
+                "caption": "Playing a 1 player game",
                 "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16104759-videocart-17-pinball-challenge-channel-f-select-a-mode-to-play.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7d4aafde-bf73-11ed-9521-02420a000152.webp",
-                "width": 102
-            },
-            {
-                "caption": "The bricks at the top are worth the most points",
-                "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16105077-videocart-17-pinball-challenge-channel-f-the-bricks-at-the-top-a.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9826b42e-bf73-11ed-9521-02420a000152.webp",
-                "width": 102
-            },
-            {
-                "caption": "Game selection",
-                "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16104753-videocart-17-pinball-challenge-channel-f-game-selection.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7d15f1b8-bf73-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16104771-videocart-17-pinball-challenge-channel-f-playing-a-1-player-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7da3439c-bf73-11ed-9521-02420a000152.webp",
                 "width": 102
             },
             {
@@ -2604,10 +2590,24 @@
                 "width": 102
             },
             {
-                "caption": "Choose the size of the paddle",
+                "caption": "The bricks at the top are worth the most points",
                 "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16104756-videocart-17-pinball-challenge-channel-f-choose-the-size-of-the-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7d329318-bf73-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16105077-videocart-17-pinball-challenge-channel-f-the-bricks-at-the-top-a.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9826b42e-bf73-11ed-9521-02420a000152.webp",
+                "width": 102
+            },
+            {
+                "caption": "Breaking more bricks",
+                "height": 58,
+                "image_url": "https://cdn.mobygames.com/screenshots/16104765-videocart-17-pinball-challenge-channel-f-breaking-more-bricks.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7d78b82a-bf73-11ed-9521-02420a000152.webp",
+                "width": 102
+            },
+            {
+                "caption": "The walls have slits in the sides which the paddle can fit through",
+                "height": 58,
+                "image_url": "https://cdn.mobygames.com/screenshots/16104768-videocart-17-pinball-challenge-channel-f-the-walls-have-slits-in.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7d8dc440-bf73-11ed-9521-02420a000152.webp",
                 "width": 102
             }
         ],
@@ -2684,7 +2684,7 @@
         "id": 46798,
         "moby_score": null,
         "moby_url": "https://www.mobygames.com/game/46798/videocart-18-hangman/",
-        "num_votes": 7,
+        "num_votes": 8,
         "official_url": null,
         "platforms": [
             [
@@ -2706,24 +2706,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Another wrong guess adds another body part",
+                "caption": "Starting a 1 player game",
                 "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16108127-videocart-18-hangman-channel-f-another-wrong-guess-adds-another-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b7aa7636-bf74-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16108109-videocart-18-hangman-channel-f-starting-a-1-player-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b7265de2-bf74-11ed-9521-02420a000152.webp",
                 "width": 102
             },
             {
-                "caption": "Select a game",
+                "caption": "Guessed a wrong letter",
                 "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16108106-videocart-18-hangman-channel-f-select-a-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b710fcd6-bf74-11ed-9521-02420a000152.webp",
-                "width": 102
-            },
-            {
-                "caption": "About to start a 2 player game with scores",
-                "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16107473-videocart-18-hangman-channel-f-about-to-start-a-2-player-game-wi.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/79c340b4-bf74-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16108115-videocart-18-hangman-channel-f-guessed-a-wrong-letter.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b74e962c-bf74-11ed-9521-02420a000152.webp",
                 "width": 102
             },
             {
@@ -2734,10 +2727,17 @@
                 "width": 102
             },
             {
-                "caption": "About to guess the correct letter",
+                "caption": "Another wrong guess adds another body part",
                 "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16108118-videocart-18-hangman-channel-f-about-to-guess-the-correct-letter.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b760d666-bf74-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16108127-videocart-18-hangman-channel-f-another-wrong-guess-adds-another-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b7aa7636-bf74-11ed-9521-02420a000152.webp",
+                "width": 102
+            },
+            {
+                "caption": "The man's life has been spared",
+                "height": 58,
+                "image_url": "https://cdn.mobygames.com/screenshots/16108124-videocart-18-hangman-channel-f-the-mans-life-has-been-spared.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b78ce4ea-bf74-11ed-9521-02420a000152.webp",
                 "width": 102
             }
         ],
@@ -2745,7 +2745,7 @@
     },
     {
         "alternate_titles": [],
-        "description": "<p>A playable version of the board game of <a href=\"https://www.mobygames.com/search/?q=Checkers\">Checkers</a>. The player controls the 12 checkers at the bottom of the screen and attempts to remove the 12 checkers at the top of the screen, controlled by the computer. A player can only move his checkers diagonally toward his opponent's side of the board. A checker can be jumped when two opposing checkers are adjacent to each other and there is an empty space directly across the checker being jumped. If there's a checker in the board that a player can jump, he is forced to do so. If a checker reaches the other side of the board, that checker is kinged and is allowed to move and jump both back and forth in diagonal movements. The game is won by the player who removes all of his opponent's checkers from the board.</p>",
+        "description": "<p>A playable version of the board game of <a href=\"https://www.mobygames.com/search/?q=Checkers\">Checkers</a>. The player controls the 12 checkers at the bottom of the screen and attempts to remove the 12 checkers at the top of the screen, controlled by the computer. A player can only move checkers diagonally toward the opponent's side of the board. A checker can be jumped when two opposing checkers are adjacent to each other and there is an empty space directly across the checker being jumped. A player is forced to jump a checker that can be jumped. If a checker reaches the other side of the board, that checker is kinged and is allowed to move and jump both back and forth in diagonal movements. The game is won by the player who removes all of his or her opponent's checkers from the board.</p>",
         "genres": [
             {
                 "category": {
@@ -2836,24 +2836,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The opponent's checker has been kinged",
+                "caption": "The computer player makes a move",
                 "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16109721-videocart-19-checkers-channel-f-the-opponents-checker-has-been-k.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3d5801e0-bf75-11ed-9521-02420a000152.webp",
-                "width": 102
-            },
-            {
-                "caption": "Cleared the board of the opponent's checkers and won the game",
-                "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16109727-videocart-19-checkers-channel-f-cleared-the-board-of-the-opponen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3d7c70f2-bf75-11ed-9521-02420a000152.webp",
-                "width": 102
-            },
-            {
-                "caption": "About to jump an opponent's checker",
-                "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16109718-videocart-19-checkers-channel-f-about-to-jump-an-opponents-check.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3d43cf90-bf75-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16109396-videocart-19-checkers-channel-f-the-computer-player-makes-a-move.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/27d748c6-bf75-11ed-9521-02420a000152.webp",
                 "width": 102
             },
             {
@@ -2864,10 +2850,24 @@
                 "width": 102
             },
             {
-                "caption": "The jumped checker gets removed from the board",
+                "caption": "About to jump an opponent's checker",
                 "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16109730-videocart-19-checkers-channel-f-the-jumped-checker-gets-removed-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3d90e8b6-bf75-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16109718-videocart-19-checkers-channel-f-about-to-jump-an-opponents-check.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3d43cf90-bf75-11ed-9521-02420a000152.webp",
+                "width": 102
+            },
+            {
+                "caption": "Moved the checker diagonally",
+                "height": 58,
+                "image_url": "https://cdn.mobygames.com/screenshots/16109402-videocart-19-checkers-channel-f-moved-the-checker-diagonally.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/27fd6204-bf75-11ed-9521-02420a000152.webp",
+                "width": 102
+            },
+            {
+                "caption": "Selecting a checker to move",
+                "height": 58,
+                "image_url": "https://cdn.mobygames.com/screenshots/16109724-videocart-19-checkers-channel-f-selecting-a-checker-to-move.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3d6ac1ae-bf75-11ed-9521-02420a000152.webp",
                 "width": 102
             }
         ],
@@ -2946,10 +2946,10 @@
                 "width": 102
             },
             {
-                "caption": "Hit a nice payout and the purse rolled over (should actually be $131.50)",
+                "caption": "Went broke",
                 "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16083416-videocart-22-slot-machine-channel-f-hit-a-nice-payout-and-the-pu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2f082136-bf6d-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16068205-videocart-22-slot-machine-channel-f-went-broke.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/75395a94-bf68-11ed-9521-02420a000152.webp",
                 "width": 102
             },
             {
@@ -2960,17 +2960,17 @@
                 "width": 102
             },
             {
-                "caption": "The wheels are spinning",
+                "caption": "Hit a nice payout and the purse rolled over (should actually be $131.50)",
                 "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16083179-videocart-22-slot-machine-channel-f-the-wheels-are-spinning.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1d76a2ee-bf6d-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16083416-videocart-22-slot-machine-channel-f-hit-a-nice-payout-and-the-pu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2f082136-bf6d-11ed-9521-02420a000152.webp",
                 "width": 102
             },
             {
-                "caption": "Went broke",
+                "caption": "Starting out with the highest purse possible",
                 "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16068205-videocart-22-slot-machine-channel-f-went-broke.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/75395a94-bf68-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16077488-videocart-22-slot-machine-channel-f-starting-out-with-the-highes.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5f3e352c-bf6b-11ed-9521-02420a000152.webp",
                 "width": 102
             }
         ],
@@ -3043,7 +3043,7 @@
         "id": 46853,
         "moby_score": null,
         "moby_url": "https://www.mobygames.com/game/46853/videocart-20-video-whizball/",
-        "num_votes": 5,
+        "num_votes": 7,
         "official_url": null,
         "platforms": [
             [
@@ -3065,20 +3065,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "This is a close game",
-                "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16110834-videocart-20-video-whizball-channel-f-this-is-a-close-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8c18cd3c-bf75-11ed-9521-02420a000152.webp",
-                "width": 102
-            },
-            {
-                "caption": "Select a game type",
-                "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16113495-videocart-20-video-whizball-channel-f-select-a-game-type.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5e0bb9e4-bf76-11ed-9521-02420a000152.webp",
-                "width": 102
-            },
-            {
                 "caption": "Select a score to play to",
                 "height": 58,
                 "image_url": "https://cdn.mobygames.com/screenshots/16110588-videocart-20-video-whizball-channel-f-select-a-score-to-play-to.png",
@@ -3086,10 +3072,24 @@
                 "width": 102
             },
             {
-                "caption": "Some modes have numbered wizballs",
+                "caption": "This is a close game",
                 "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16110534-videocart-20-video-whizball-channel-f-some-modes-have-numbered-w.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7718f40c-bf75-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16110834-videocart-20-video-whizball-channel-f-this-is-a-close-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8c18cd3c-bf75-11ed-9521-02420a000152.webp",
+                "width": 102
+            },
+            {
+                "caption": "Shooting an angled shot",
+                "height": 58,
+                "image_url": "https://cdn.mobygames.com/screenshots/16110540-videocart-20-video-whizball-channel-f-shooting-an-angled-shot.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7742b166-bf75-11ed-9521-02420a000152.webp",
+                "width": 102
+            },
+            {
+                "caption": "The most wizballs that can appear on screen at once",
+                "height": 58,
+                "image_url": "https://cdn.mobygames.com/screenshots/16110762-videocart-20-video-whizball-channel-f-the-most-wizballs-that-can.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8852d9cc-bf75-11ed-9521-02420a000152.webp",
                 "width": 102
             },
             {
@@ -3231,24 +3231,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Won the match 18-16 (Galactic Space Wars)",
+                "caption": "Firing lasers (Galactic Space Wars)",
                 "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16113633-videocart-23-galactic-space-wars-channel-f-won-the-match-18-16-g.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/672d37a0-bf76-11ed-9521-02420a000152.webp",
-                "width": 102
-            },
-            {
-                "caption": "Over the landing platfom (Lunar Lander)",
-                "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16113621-videocart-23-galactic-space-wars-channel-f-over-the-landing-plat.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/66e4fdbe-bf76-11ed-9521-02420a000152.webp",
-                "width": 102
-            },
-            {
-                "caption": "Even landing on the platform too hard will result in a crash (Lunar Lander)",
-                "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16113681-videocart-23-galactic-space-wars-channel-f-even-landing-on-the-p.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6b5a365c-bf76-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16113684-videocart-23-galactic-space-wars-channel-f-firing-lasers-galacti.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6b6d4d82-bf76-11ed-9521-02420a000152.webp",
                 "width": 102
             },
             {
@@ -3259,10 +3245,24 @@
                 "width": 102
             },
             {
-                "caption": "Missed the platform and crashed (Lunar Lander)",
+                "caption": "Firing the engines consumes fuel, but slows descent (Lunar Lander)",
                 "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16113612-videocart-23-galactic-space-wars-channel-f-missed-the-platform-a.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/66aab71c-bf76-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16113627-videocart-23-galactic-space-wars-channel-f-firing-the-engines-co.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/670b0054-bf76-11ed-9521-02420a000152.webp",
+                "width": 102
+            },
+            {
+                "caption": "Even landing on the platform too hard will result in a crash (Lunar Lander)",
+                "height": 58,
+                "image_url": "https://cdn.mobygames.com/screenshots/16113681-videocart-23-galactic-space-wars-channel-f-even-landing-on-the-p.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6b5a365c-bf76-11ed-9521-02420a000152.webp",
+                "width": 102
+            },
+            {
+                "caption": "How a typical game starts (Lunar Lander)",
+                "height": 58,
+                "image_url": "https://cdn.mobygames.com/screenshots/16113615-videocart-23-galactic-space-wars-channel-f-how-a-typical-game-st.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/66bc487e-bf76-11ed-9521-02420a000152.webp",
                 "width": 102
             }
         ],
@@ -3350,13 +3350,6 @@
                 "width": 102
             },
             {
-                "caption": "Choosing a defensive play",
-                "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16113492-videocart-24-pro-football-channel-f-choosing-a-defensive-play.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5df32c08-bf76-11ed-9521-02420a000152.webp",
-                "width": 102
-            },
-            {
                 "caption": "Select a game speed",
                 "height": 58,
                 "image_url": "https://cdn.mobygames.com/screenshots/16113642-videocart-24-pro-football-channel-f-select-a-game-speed.png",
@@ -3368,6 +3361,13 @@
                 "height": 58,
                 "image_url": "https://cdn.mobygames.com/screenshots/16113639-videocart-24-pro-football-channel-f-the-current-score.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/68180fa0-bf76-11ed-9521-02420a000152.webp",
+                "width": 102
+            },
+            {
+                "caption": "Choosing a defensive play",
+                "height": 58,
+                "image_url": "https://cdn.mobygames.com/screenshots/16113492-videocart-24-pro-football-channel-f-choosing-a-defensive-play.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5df32c08-bf76-11ed-9521-02420a000152.webp",
                 "width": 102
             }
         ],
@@ -3444,27 +3444,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Choosing which cards to discard",
-                "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16113711-videocart-25-casino-poker-channel-f-choosing-which-cards-to-disc.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6e09bd14-bf76-11ed-9521-02420a000152.webp",
-                "width": 102
-            },
-            {
-                "caption": "The showdown with $123 in the pot",
-                "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16113717-videocart-25-casino-poker-channel-f-the-showdown-with-123-in-the.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6e368dee-bf76-11ed-9521-02420a000152.webp",
-                "width": 102
-            },
-            {
-                "caption": "Each player gets dealt 5 cards",
-                "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16113705-videocart-25-casino-poker-channel-f-each-player-gets-dealt-5-car.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6dd78b50-bf76-11ed-9521-02420a000152.webp",
-                "width": 102
-            },
-            {
                 "caption": "This hand contains a 3 of a kind",
                 "height": 58,
                 "image_url": "https://cdn.mobygames.com/screenshots/16113720-videocart-25-casino-poker-channel-f-this-hand-contains-a-3-of-a-.png",
@@ -3476,6 +3455,27 @@
                 "height": 58,
                 "image_url": "https://cdn.mobygames.com/screenshots/16113723-videocart-25-casino-poker-channel-f-won-the-hand-with-a-pair-of-.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/6e5ff706-bf76-11ed-9521-02420a000152.webp",
+                "width": 102
+            },
+            {
+                "caption": "Calling a bet of $12",
+                "height": 58,
+                "image_url": "https://cdn.mobygames.com/screenshots/16113708-videocart-25-casino-poker-channel-f-calling-a-bet-of-12.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6deeaee8-bf76-11ed-9521-02420a000152.webp",
+                "width": 102
+            },
+            {
+                "caption": "The showdown with $123 in the pot",
+                "height": 58,
+                "image_url": "https://cdn.mobygames.com/screenshots/16113717-videocart-25-casino-poker-channel-f-the-showdown-with-123-in-the.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6e368dee-bf76-11ed-9521-02420a000152.webp",
+                "width": 102
+            },
+            {
+                "caption": "A player that folded has their hand disappear from the screen",
+                "height": 58,
+                "image_url": "https://cdn.mobygames.com/screenshots/16113714-videocart-25-casino-poker-channel-f-a-player-that-folded-has-the.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6e2035b2-bf76-11ed-9521-02420a000152.webp",
                 "width": 102
             }
         ],
@@ -3688,7 +3688,7 @@
         "id": 60541,
         "moby_score": null,
         "moby_url": "https://www.mobygames.com/game/60541/videocart-20-schach/",
-        "num_votes": 4,
+        "num_votes": 5,
         "official_url": null,
         "platforms": [
             [
@@ -3717,17 +3717,17 @@
                 "width": 102
             },
             {
-                "caption": "The title screen.",
-                "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16334052-videocart-20-schach-channel-f-the-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/55784bd6-c1fa-11ed-ab6b-02420a000194.webp",
-                "width": 102
-            },
-            {
                 "caption": "During gameplay.",
                 "height": 58,
                 "image_url": "https://cdn.mobygames.com/screenshots/16334169-videocart-20-schach-channel-f-during-gameplay.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/5e65a180-c1fa-11ed-ab6b-02420a000194.webp",
+                "width": 102
+            },
+            {
+                "caption": "The title screen.",
+                "height": 58,
+                "image_url": "https://cdn.mobygames.com/screenshots/16334052-videocart-20-schach-channel-f-the-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/55784bd6-c1fa-11ed-ab6b-02420a000194.webp",
                 "width": 102
             }
         ],
@@ -3808,10 +3808,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Get ready",
+                "caption": "Game over",
                 "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16404695-videocart-27-pac-man-channel-f-get-ready.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3a24f08e-c211-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16404659-videocart-27-pac-man-channel-f-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/37e399d8-c211-11ed-ab6b-02420a000194.webp",
                 "width": 102
             },
             {
@@ -3829,17 +3829,17 @@
                 "width": 102
             },
             {
-                "caption": "Game over",
-                "height": 58,
-                "image_url": "https://cdn.mobygames.com/screenshots/16404659-videocart-27-pac-man-channel-f-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/37e399d8-c211-11ed-ab6b-02420a000194.webp",
-                "width": 102
-            },
-            {
                 "caption": "Title screen",
                 "height": 58,
                 "image_url": "https://cdn.mobygames.com/screenshots/16404689-videocart-27-pac-man-channel-f-title-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/39f96090-c211-11ed-ab6b-02420a000194.webp",
+                "width": 102
+            },
+            {
+                "caption": "Select the number of players",
+                "height": 58,
+                "image_url": "https://cdn.mobygames.com/screenshots/16404692-videocart-27-pac-man-channel-f-select-the-number-of-players.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3a0f46b2-c211-11ed-ab6b-02420a000194.webp",
                 "width": 102
             }
         ],

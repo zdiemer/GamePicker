@@ -267,17 +267,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Snow leaves a protective coating in its wake",
+                "caption": "Fine-tuning an attack",
                 "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/4437320-tornado-linux-snow-leaves-a-protective-coating-in-its-wake.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d9898c5e-abb2-11ed-8b6f-02420a00019c.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/4436106-tornado-linux-fine-tuning-an-attack.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cd216770-abb2-11ed-b6ec-02420a00019b.webp",
                 "width": 640
             },
             {
-                "caption": "High score table",
+                "caption": "Hail takes its toll",
                 "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/4437441-tornado-linux-high-score-table.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/dadc19a0-abb2-11ed-8b6f-02420a00019c.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/5185275-tornado-linux-hail-takes-its-toll.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b61131ee-abd2-11ed-b721-02420a00019b.webp",
+                "width": 640
+            },
+            {
+                "caption": "Lightning strikes!",
+                "height": 400,
+                "image_url": "https://cdn.mobygames.com/screenshots/4437186-tornado-linux-lightning-strikes.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d82011a8-abb2-11ed-8b6f-02420a00019c.webp",
                 "width": 640
             },
             {
@@ -285,13 +292,6 @@
                 "height": 400,
                 "image_url": "https://cdn.mobygames.com/screenshots/4435948-tornado-linux-keys.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/cb940b74-abb2-11ed-b6ec-02420a00019b.webp",
-                "width": 640
-            },
-            {
-                "caption": "Instructions",
-                "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/4435823-tornado-linux-instructions.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ca33097e-abb2-11ed-b6ec-02420a00019b.webp",
                 "width": 640
             },
             {
@@ -343,24 +343,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Overview of the beginners games category. Most sections have further subcategories, however those don't have separate HTML pages and have to be viewed with the browser's file browser instead.",
-                "height": 800,
-                "image_url": "https://cdn.mobygames.com/screenshots/12261934-linux-spiele-games-linux-overview-of-the-beginners-games-categor.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bc15f046-ac1f-11ed-8ce3-02420a000131.webp",
-                "width": 770
-            },
-            {
-                "caption": "Overview of the games for advanced users.",
-                "height": 800,
-                "image_url": "https://cdn.mobygames.com/screenshots/12262876-linux-spiele-games-linux-overview-of-the-games-for-advanced-user.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bb852f66-ac1f-11ed-b075-02420a00012f.webp",
-                "width": 770
-            },
-            {
                 "caption": "Games are usually only available as source code without any further instructions. Here you also find a .lsm file with a short summary similar to .NFO files often found on FTP / BBS servers.",
                 "height": 800,
                 "image_url": "https://cdn.mobygames.com/screenshots/12262897-linux-spiele-games-linux-games-are-usually-only-available-as-sou.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/bedfffba-ac1f-11ed-b075-02420a00012f.webp",
+                "width": 770
+            },
+            {
+                "caption": "Start page of CD 1",
+                "height": 800,
+                "image_url": "https://cdn.mobygames.com/screenshots/12261970-linux-spiele-games-linux-start-page-of-cd-1.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bf6c72ba-ac1f-11ed-8ce3-02420a000131.webp",
+                "width": 770
+            },
+            {
+                "caption": "Overview of the beginners games category. Most sections have further subcategories, however those don't have separate HTML pages and have to be viewed with the browser's file browser instead.",
+                "height": 800,
+                "image_url": "https://cdn.mobygames.com/screenshots/12261934-linux-spiele-games-linux-overview-of-the-beginners-games-categor.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bc15f046-ac1f-11ed-8ce3-02420a000131.webp",
                 "width": 770
             },
             {
@@ -472,6 +472,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Browsing the Shoot 'm Up section. Some game descriptions also have references to further information or even screenshots.",
+                "height": 800,
+                "image_url": "https://cdn.mobygames.com/screenshots/16826699-linux-spiele-linux-browsing-the-shoot-m-up-section-some-game-des.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bd5ae2fa-c398-11ed-9226-02420a000121.webp",
+                "width": 740
+            },
+            {
                 "caption": "Main page with list of genres",
                 "height": 800,
                 "image_url": "https://cdn.mobygames.com/screenshots/16826591-linux-spiele-linux-main-page-with-list-of-genres.png",
@@ -484,20 +491,13 @@
                 "image_url": "https://cdn.mobygames.com/screenshots/15698728-linux-spiele-linux-browsing-the-adventure-section-the-left-colum.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/ed7b2ae6-bec8-11ed-9c42-02420a000140.webp",
                 "width": 740
-            },
-            {
-                "caption": "Browsing the Shoot 'm Up section. Some game descriptions also have references to further information or even screenshots.",
-                "height": 800,
-                "image_url": "https://cdn.mobygames.com/screenshots/16826699-linux-spiele-linux-browsing-the-shoot-m-up-section-some-game-des.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bd5ae2fa-c398-11ed-9226-02420a000121.webp",
-                "width": 740
             }
         ],
         "title": "Linux Spiele"
     },
     {
         "alternate_titles": [],
-        "description": "<p>This compilation contains over 100 open source games, emulators and tools for Linux. Almost all of them are included in source code form, some of them are also provided as binary or RPM files. Additionally almost 100 development libraries useful for game development are included.</p>\n<p>The included programs are split into the categories \"Software development\" and \"Entertainment\" and presented on HTML pages containing a short textual description of the program and potential special library dependencies.</p>\n<p>Among others (the \"Entertainment\" list mixes games, tools and emulators) the following games are included:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/search/?q=BlockOut\">BlockOut</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Bomb+Squad\">Bomb Squad</a></li>\n<li><a href=\"https://www.mobygames.com/game/60588/flightgear/\">FlightGear</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Maelstrom\">Maelstrom</a></li>\n<li><a href=\"https://www.mobygames.com/game/89740/terroid/\">Terroid</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=XFrisk\">XFrisk</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Xinsane\">Xinsane</a></li>\n<li><a href=\"https://www.mobygames.com/game/152255/the-ace-of-penguins/\">The Ace of Penguins</a> game collection</li>\n<li><a href=\"https://www.mobygames.com/search/?q=BattleBall\">BattleBall</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Blockade\">Blockade</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=BZFlag\">BZFlag</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=ClanBomber\">ClanBomber</a></li>\n<li><a href=\"https://www.mobygames.com/game/77341/craft/\">Craft</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Crafty\">Crafty</a></li>\n<li><a href=\"https://www.mobygames.com/game/58381/hextris/\">xhextris</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Emperor\">Emperor</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Final+Battle\">Final Battle</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Flying\">Flying</a></li>\n<li><a href=\"https://www.mobygames.com/game/16148/freeciv/\">Freeciv</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=FW\">FW</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=GalaXa\">GalaXa</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Batalla+Naval\">Batalla Naval</a></li>\n<li><a href=\"https://www.mobygames.com/game/145945/gem-drop-x/\">Gem Drop X</a></li>\n<li><a href=\"https://www.mobygames.com/game/46916/gipf-for-one/\">Gipf for One</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Gnome-Games\">Gnome-Games</a> collection</li>\n<li><a href=\"https://www.mobygames.com/search/?q=Nethack+3.0\">GnomeHack</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Groundhog\">Groundhog</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=GSokoban\">GSokoban</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=GTetrinet\">GTetrinet</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=GtkBalls\">GtkBalls</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=gtkgo\">gtkgo</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=The+Guild\">The Guild</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Hatman\">Hatman</a></li>\n<li><a href=\"https://www.mobygames.com/game/145946/icbm3d/\">ICBM3D</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=iMaze\">iMaze</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Katchit\">Katchit</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=KBlackJack\">KBlackJack</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=KDEGames\">KDEGames</a> collection</li>\n<li><a href=\"https://www.mobygames.com/search/?q=kgo\">kgo</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=KGryzzles\">KGryzzles</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Klack\">Klack</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=KMastermind\">KMastermind</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Koules\">Koules</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=KPipe\">KPipe</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=KRepton\">KRepton</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Krossword\">Krossword</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=KSlide\">KSlide</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Kugel\">Kugel</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=KZacman\">KZacman</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Linux+Letters+and+Numbers\">Linux Letters and Numbers</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=The+L.O.S.E.R.+Corps\">The L.O.S.E.R. Corps</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=ManIX\">ManIX</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Nighthawk\">Nighthawk</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=NiwiE\">NiwiE</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Paradise+Netrek\">Paradise Netrek</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=PySol\">PySol</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=sol\">sol</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Spellcast\">Spellcast</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Spider\">Spider</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Tom+Bombem:+The+Invasion+of+the+Inanimate+Objects\">Tom Bombem: The Invasion of the Inanimate Objects</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Theatre+Commander\">Theatre Commander</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Hangman\">Hangman</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=TUD\">TUD</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=xbattle\">xbattle</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=XBlast\">XBlast</a></li>\n<li><a href=\"https://www.mobygames.com/game/145963/x-bomber/\">X-Bomber</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Chain+Reaction\">Chain Reaction</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=xchomp\">xchomp</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Xconq\">Xconq</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=xfreecell\">xfreecell</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=XInvaders\">XInvaders</a></li>\n<li><a href=\"https://www.mobygames.com/game/148069/xpacman/\">XPacman</a></li>\n<li><a href=\"https://www.mobygames.com/game/151758/xpat2/\">XPat2</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=XPilot\">XPilot</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Xroach\">Xroach</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=X+Solitare\">X Solitare</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=xtet42\">xtet42</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Yiff!\">Yiff!</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Zarch\">Zarch</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=ZeroPoint\">ZeroPoint</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=ZNibbles\">ZNibbles</a></li>\n</ul>",
+        "description": "<p>This compilation contains over 100 open source games, emulators and tools for Linux. Almost all of them are included in source code form, some of them are also provided as binary or RPM files. Additionally almost 100 development libraries useful for game development are included.</p>\n<p>The included programs are split into the categories \"Software development\" and \"Entertainment\" and presented on HTML pages containing a short textual description of the program and potential special library dependencies.</p>\n<p>Among others (the \"Entertainment\" list mixes games, tools and emulators) the following games are included:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/search/?q=BlockOut\">BlockOut</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Bomb+Squad\">Bomb Squad</a></li>\n<li><a href=\"https://www.mobygames.com/game/60588/flightgear/\">FlightGear</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Maelstrom\">Maelstrom</a></li>\n<li><a href=\"https://www.mobygames.com/game/89740/terroid/\">Terroid</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=XFrisk\">XFrisk</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Xinsane\">Xinsane</a></li>\n<li><a href=\"https://www.mobygames.com/game/152255/the-ace-of-penguins/\">The Ace of Penguins</a> game collection</li>\n<li><a href=\"https://www.mobygames.com/search/?q=BattleBall\">BattleBall</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Blockade\">Blockade</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=BZFlag\">BZFlag</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=ClanBomber\">ClanBomber</a></li>\n<li><a href=\"https://www.mobygames.com/game/77341/craft/\">Craft</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Crafty\">Crafty</a></li>\n<li><a href=\"https://www.mobygames.com/game/58381/hextris/\">xhextris</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Emperor\">Emperor</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Final+Battle\">Final Battle</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Flying\">Flying</a></li>\n<li><a href=\"https://www.mobygames.com/game/16148/freeciv/\">Freeciv</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=FW\">FW</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=GalaXa\">GalaXa</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Batalla+Naval\">Batalla Naval</a></li>\n<li><a href=\"https://www.mobygames.com/game/145945/gem-drop-x/\">Gem Drop X</a></li>\n<li><a href=\"https://www.mobygames.com/game/46916/gipf-for-one/\">Gipf for One</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Gnome-Games\">Gnome-Games</a> collection</li>\n<li><a href=\"https://www.mobygames.com/search/?q=Nethack+3.0\">GnomeHack</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Groundhog\">Groundhog</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=GSokoban\">GSokoban</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=GTetrinet\">GTetrinet</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=GtkBalls\">GtkBalls</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=gtkgo\">gtkgo</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=The+Guild\">The Guild</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Hatman\">Hatman</a></li>\n<li><a href=\"https://www.mobygames.com/game/145946/icbm3d/\">ICBM3D</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=iMaze\">iMaze</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Katchit\">Katchit</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=KBlackJack\">KBlackJack</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=KDEGames\">KDEGames</a> collection</li>\n<li><a href=\"https://www.mobygames.com/search/?q=kgo\">kgo</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=KGryzzles\">KGryzzles</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Klack\">Klack</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=KMastermind\">KMastermind</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Koules\">Koules</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=KPipe\">KPipe</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=KRepton\">KRepton</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Krossword\">Krossword</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=KSlide\">KSlide</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Kugel\">Kugel</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=KZacman\">KZacman</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Linux+Letters+and+Numbers\">Linux Letters and Numbers</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=The+L.O.S.E.R.+Corps\">The L.O.S.E.R. Corps</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=ManIX\">ManIX</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Nighthawk\">Nighthawk</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=NiwiE\">NiwiE</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Paradise+Netrek\">Paradise Netrek</a></li>\n<li><a href=\"https://www.mobygames.com/game/229139/pysol/\">PySol</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=sol\">sol</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Spellcast\">Spellcast</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Spider\">Spider</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Tom+Bombem:+The+Invasion+of+the+Inanimate+Objects\">Tom Bombem: The Invasion of the Inanimate Objects</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Theatre+Commander\">Theatre Commander</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Hangman\">Hangman</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=TUD\">TUD</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=xbattle\">xbattle</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=XBlast\">XBlast</a></li>\n<li><a href=\"https://www.mobygames.com/game/145963/x-bomber/\">X-Bomber</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Chain+Reaction\">Chain Reaction</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=xchomp\">xchomp</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Xconq\">Xconq</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=xfreecell\">xfreecell</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=XInvaders\">XInvaders</a></li>\n<li><a href=\"https://www.mobygames.com/game/148069/xpacman/\">XPacman</a></li>\n<li><a href=\"https://www.mobygames.com/game/151758/xpat2/\">XPat2</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=XPilot\">XPilot</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Xroach\">Xroach</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=X+Solitare\">X Solitare</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=xtet42\">xtet42</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Yiff!\">Yiff!</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Zarch\">Zarch</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=ZeroPoint\">ZeroPoint</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=ZNibbles\">ZNibbles</a></li>\n</ul>",
         "genres": [
             {
                 "category": {
@@ -541,17 +541,17 @@
                 "width": 891
             },
             {
-                "caption": "Development libraries - this time the English version.",
-                "height": 657,
-                "image_url": "https://cdn.mobygames.com/screenshots/12305386-linux-spiele-und-entertainment-fur-x-windows-linux-development-l.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/18174e44-ac20-11ed-803a-02420a000131.webp",
-                "width": 876
-            },
-            {
                 "caption": "\"Entertainment\" category; games, emulators and tools are all thrown together into the same category.",
                 "height": 657,
                 "image_url": "https://cdn.mobygames.com/screenshots/9924418-linux-spiele-und-entertainment-fur-x-windows-linux-entertainment.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/6c0d9ffe-ac0b-11ed-a710-02420a000136.webp",
+                "width": 876
+            },
+            {
+                "caption": "Development libraries - this time the English version.",
+                "height": 657,
+                "image_url": "https://cdn.mobygames.com/screenshots/12305386-linux-spiele-und-entertainment-fur-x-windows-linux-development-l.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/18174e44-ac20-11ed-803a-02420a000131.webp",
                 "width": 876
             }
         ],
@@ -632,18 +632,11 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Alternative layout, tileset and background",
-                "height": 733,
-                "image_url": "https://cdn.mobygames.com/screenshots/2924509-kmahjongg-linux-alternative-layout-tileset-and-background.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/53bb5944-ab86-11ed-bd13-02420a00019c.webp",
-                "width": 1108
-            },
-            {
-                "caption": "The letter tile-set is recommended for beginners",
-                "height": 733,
-                "image_url": "https://cdn.mobygames.com/screenshots/2929343-kmahjongg-linux-the-letter-tile-set-is-recommended-for-beginners.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/67d71dc8-ab86-11ed-a218-02420a00019e.webp",
-                "width": 1108
+                "caption": "Selection of different tile sets",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/2926482-kmahjongg-linux-selection-of-different-tile-sets.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5c31d6e8-ab86-11ed-b951-02420a000197.webp",
+                "width": 689
             },
             {
                 "caption": "Another board layout",
@@ -660,10 +653,17 @@
                 "width": 768
             },
             {
-                "caption": "Default layout and tile set (version 0.8)",
+                "caption": "In-game, still many options available (info left bottom corner)",
+                "height": 706,
+                "image_url": "https://cdn.mobygames.com/screenshots/2923159-kmahjongg-linux-in-game-still-many-options-available-info-left-b.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4eaf3a9c-ab86-11ed-99ae-02420a00019e.webp",
+                "width": 1104
+            },
+            {
+                "caption": "Alternative layout, tileset and background",
                 "height": 733,
-                "image_url": "https://cdn.mobygames.com/screenshots/2922907-kmahjongg-linux-default-layout-and-tile-set-version-08.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4d8d441a-ab86-11ed-99ae-02420a00019e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2924509-kmahjongg-linux-alternative-layout-tileset-and-background.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/53bb5944-ab86-11ed-bd13-02420a00019c.webp",
                 "width": 1108
             }
         ],
@@ -749,18 +749,11 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Game options: gravity, \"Chinese mode\", board size and difficulty can be set to your personal preferences",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/2802875-kshisen-linux-game-options-gravity-chinese-mode-board-size-and-d.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5e169f72-ab84-11ed-b6ec-02420a00019b.webp",
-                "width": 666
-            },
-            {
-                "caption": "The smallest board (14x6) allows very short games",
-                "height": 626,
-                "image_url": "https://cdn.mobygames.com/screenshots/2275017-kshisen-linux-the-smallest-board-14x6-allows-very-short-games.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1bbf8a82-ab7d-11ed-9e47-02420a00019f.webp",
-                "width": 1200
+                "caption": "You can only reach the high-score table by clearing the board completely",
+                "height": 418,
+                "image_url": "https://cdn.mobygames.com/screenshots/2281208-kshisen-linux-you-can-only-reach-the-high-score-table-by-clearin.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2cd24274-ab7d-11ed-9e18-02420a00019a.webp",
+                "width": 372
             },
             {
                 "caption": "Creating a very huge (30x16) board",
@@ -770,18 +763,25 @@
                 "width": 1200
             },
             {
-                "caption": "Default board size with default tile set (Version 1.8.4, 2013)",
+                "caption": "Playing without gravity: gaps and wholes stay in place",
                 "height": 626,
-                "image_url": "https://cdn.mobygames.com/screenshots/2273521-kshisen-linux-default-board-size-with-default-tile-set-version-1.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/17e5cb2e-ab7d-11ed-9ae2-02420a0001a0.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2274553-kshisen-linux-playing-without-gravity-gaps-and-wholes-stay-in-pl.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1a831eae-ab7d-11ed-9ae2-02420a0001a0.webp",
                 "width": 1200
             },
             {
-                "caption": "You can only reach the high-score table by clearing the board completely",
-                "height": 418,
-                "image_url": "https://cdn.mobygames.com/screenshots/2281208-kshisen-linux-you-can-only-reach-the-high-score-table-by-clearin.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2cd24274-ab7d-11ed-9e18-02420a00019a.webp",
-                "width": 372
+                "caption": "Playing with gravity (the default) let stones fall into wholes created by removals",
+                "height": 626,
+                "image_url": "https://cdn.mobygames.com/screenshots/2274026-kshisen-linux-playing-with-gravity-the-default-let-stones-fall-i.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/190eaf8e-ab7d-11ed-9d05-02420a000198.webp",
+                "width": 1200
+            },
+            {
+                "caption": "The alphabet tile set: for a novice like me this helps a lot, as symbols are separated very clearly (not like those four different flower stones in the traditional set)",
+                "height": 626,
+                "image_url": "https://cdn.mobygames.com/screenshots/2274827-kshisen-linux-the-alphabet-tile-set-for-a-novice-like-me-this-he.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1b4c3730-ab7d-11ed-9377-02420a000197.webp",
+                "width": 1200
             }
         ],
         "title": "KShisen"
@@ -861,24 +861,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title screen with basic menu (KDE 5, game version 1.40)",
-                "height": 728,
-                "image_url": "https://cdn.mobygames.com/screenshots/2281321-kfourinline-linux-title-screen-with-basic-menu-kde-5-game-versio.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2d33c120-ab7d-11ed-81e3-02420a000199.webp",
-                "width": 834
-            },
-            {
-                "caption": "Options window: set names, AI strength, and player control",
-                "height": 600,
-                "image_url": "https://cdn.mobygames.com/screenshots/2282184-kfourinline-linux-options-window-set-names-ai-strength-and-playe.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2f9661b6-ab7d-11ed-b325-02420a00019e.webp",
-                "width": 504
-            },
-            {
                 "caption": "First game",
                 "height": 728,
                 "image_url": "https://cdn.mobygames.com/screenshots/2289750-kfourinline-linux-first-game.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/44c95d2c-ab7d-11ed-9d80-02420a00019a.webp",
+                "width": 834
+            },
+            {
+                "caption": "Configure network settings for multi-player games over the network",
+                "height": 560,
+                "image_url": "https://cdn.mobygames.com/screenshots/2289704-kfourinline-linux-configure-network-settings-for-multi-player-ga.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/44a23954-ab7d-11ed-a5ec-02420a00019b.webp",
+                "width": 414
+            },
+            {
+                "caption": "I think not. But I am simply blind.",
+                "height": 728,
+                "image_url": "https://cdn.mobygames.com/screenshots/2288451-kfourinline-linux-i-think-not-but-i-am-simply-blind.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4168b0a6-ab7d-11ed-aecf-02420a000198.webp",
                 "width": 834
             },
             {
@@ -889,10 +889,10 @@
                 "width": 834
             },
             {
-                "caption": "I think not. But I am simply blind.",
+                "caption": "Using another theme",
                 "height": 728,
-                "image_url": "https://cdn.mobygames.com/screenshots/2288451-kfourinline-linux-i-think-not-but-i-am-simply-blind.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4168b0a6-ab7d-11ed-aecf-02420a000198.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2286203-kfourinline-linux-using-another-theme.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3b0de384-ab7d-11ed-99ae-02420a00019e.webp",
                 "width": 834
             }
         ],
@@ -964,18 +964,18 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Lost lots of height and still many stones around",
-                "height": 668,
-                "image_url": "https://cdn.mobygames.com/screenshots/2301315-bomber-linux-lost-lots-of-height-and-still-many-stones-around.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/66762a5e-ab7d-11ed-837d-02420a00019b.webp",
-                "width": 819
+                "caption": "Simple thing: drop some bombs!",
+                "height": 779,
+                "image_url": "https://cdn.mobygames.com/screenshots/2300935-bomber-linux-simple-thing-drop-some-bombs.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6558b542-ab7d-11ed-ab77-02420a000198.webp",
+                "width": 991
             },
             {
-                "caption": "High-score table",
-                "height": 537,
-                "image_url": "https://cdn.mobygames.com/screenshots/2305516-bomber-linux-high-score-table.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/71754d2c-ab7d-11ed-8b6f-02420a00019c.webp",
-                "width": 361
+                "caption": "Game start: the plane on the top, the enemies to destroy on the ground",
+                "height": 779,
+                "image_url": "https://cdn.mobygames.com/screenshots/2300973-bomber-linux-game-start-the-plane-on-the-top-the-enemies-to-dest.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/656d9b88-ab7d-11ed-837d-02420a00019b.webp",
+                "width": 991
             },
             {
                 "caption": "Title screen",
@@ -985,18 +985,18 @@
                 "width": 819
             },
             {
+                "caption": "Instructions in the manual",
+                "height": 800,
+                "image_url": "https://cdn.mobygames.com/screenshots/2305128-bomber-linux-instructions-in-the-manual.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/70526fba-ab7d-11ed-a061-02420a00019d.webp",
+                "width": 768
+            },
+            {
                 "caption": "Playing the lava level. You now control a zeppelin and destroy stones",
                 "height": 668,
                 "image_url": "https://cdn.mobygames.com/screenshots/2301966-bomber-linux-playing-the-lava-level-you-now-control-a-zeppelin-a.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/6806e336-ab7d-11ed-a5ec-02420a00019b.webp",
                 "width": 819
-            },
-            {
-                "caption": "Simple thing: drop some bombs!",
-                "height": 779,
-                "image_url": "https://cdn.mobygames.com/screenshots/2300935-bomber-linux-simple-thing-drop-some-bombs.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6558b542-ab7d-11ed-ab77-02420a000198.webp",
-                "width": 991
             }
         ],
         "title": "Bomber"
@@ -1058,27 +1058,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "In becomes some kind of abstract art",
-                "height": 658,
-                "image_url": "https://cdn.mobygames.com/screenshots/2338899-ksquares-linux-in-becomes-some-kind-of-abstract-art.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cfb2b280-ab7d-11ed-a44e-02420a000199.webp",
-                "width": 922
-            },
-            {
-                "caption": "Starting with an empty board of medium size (20x10)",
-                "height": 658,
-                "image_url": "https://cdn.mobygames.com/screenshots/2335642-ksquares-linux-starting-with-an-empty-board-of-medium-size-20x10.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c6efd326-ab7d-11ed-ab77-02420a000198.webp",
-                "width": 922
-            },
-            {
-                "caption": "The final result of the AI game",
-                "height": 658,
-                "image_url": "https://cdn.mobygames.com/screenshots/2340526-ksquares-linux-the-final-result-of-the-ai-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d4d0d9ae-ab7d-11ed-934f-02420a0001a0.webp",
-                "width": 922
-            },
-            {
                 "caption": "Quick starting games has many lines already on the board, so the repetitive starting phase is skipped",
                 "height": 658,
                 "image_url": "https://cdn.mobygames.com/screenshots/2336388-ksquares-linux-quick-starting-games-has-many-lines-already-on-th.png",
@@ -1086,10 +1065,31 @@
                 "width": 922
             },
             {
+                "caption": "The biggest possible board (50x30) in a quick start game",
+                "height": 658,
+                "image_url": "https://cdn.mobygames.com/screenshots/2337694-ksquares-linux-the-biggest-possible-board-50x30-in-a-quick-start.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cc647a96-ab7d-11ed-8ed2-02420a0001a0.webp",
+                "width": 922
+            },
+            {
+                "caption": "Player settings: up to four players and any player can be either human or played by the AI",
+                "height": 481,
+                "image_url": "https://cdn.mobygames.com/screenshots/2333746-ksquares-linux-player-settings-up-to-four-players-and-any-player.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c171b2fc-ab7d-11ed-bc1c-02420a00019a.webp",
+                "width": 390
+            },
+            {
                 "caption": "Four AI players compete on the maximum size board",
                 "height": 658,
                 "image_url": "https://cdn.mobygames.com/screenshots/2337952-ksquares-linux-four-ai-players-compete-on-the-maximum-size-board.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/ccf80a72-ab7d-11ed-8ed2-02420a0001a0.webp",
+                "width": 922
+            },
+            {
+                "caption": "Starting with an empty board of medium size (20x10)",
+                "height": 658,
+                "image_url": "https://cdn.mobygames.com/screenshots/2335642-ksquares-linux-starting-with-an-empty-board-of-medium-size-20x10.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c6efd326-ab7d-11ed-ab77-02420a000198.webp",
                 "width": 922
             }
         ],
@@ -1152,17 +1152,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Game start",
-                "height": 435,
-                "image_url": "https://cdn.mobygames.com/screenshots/2922341-pacman-linux-game-start.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4aeacf84-ab86-11ed-96f9-02420a00019a.webp",
-                "width": 672
-            },
-            {
                 "caption": "After eating the power pill you can hunt the ghosts",
                 "height": 435,
                 "image_url": "https://cdn.mobygames.com/screenshots/2920578-pacman-linux-after-eating-the-power-pill-you-can-hunt-the-ghosts.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/43d5f502-ab86-11ed-a061-02420a00019d.webp",
+                "width": 672
+            },
+            {
+                "caption": "Game start",
+                "height": 435,
+                "image_url": "https://cdn.mobygames.com/screenshots/2922341-pacman-linux-game-start.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4aeacf84-ab86-11ed-96f9-02420a00019a.webp",
                 "width": 672
             }
         ],
@@ -1243,13 +1243,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Such lines appear if one of the growing parts was hit by a ball - this is a useful technique to split the field",
-                "height": 800,
-                "image_url": "https://cdn.mobygames.com/screenshots/2372945-kbounce-linux-such-lines-appear-if-one-of-the-growing-parts-was-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/32ebd4f8-ab7e-11ed-a13c-02420a00019f.webp",
-                "width": 912
-            },
-            {
                 "caption": "It's game over for me. But it's the green theme, so there may be hope...",
                 "height": 800,
                 "image_url": "https://cdn.mobygames.com/screenshots/2370293-kbounce-linux-its-game-over-for-me-but-its-the-green-theme-so-th.png",
@@ -1257,24 +1250,31 @@
                 "width": 912
             },
             {
-                "caption": "Finishing a level is rewarded with bonus points for remaining lives and time",
-                "height": 800,
-                "image_url": "https://cdn.mobygames.com/screenshots/2370676-kbounce-linux-finishing-a-level-is-rewarded-with-bonus-points-fo.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2b845500-ab7e-11ed-bc1c-02420a00019a.webp",
-                "width": 912
-            },
-            {
-                "caption": "The high-score table is initially empty",
-                "height": 537,
-                "image_url": "https://cdn.mobygames.com/screenshots/2922150-kbounce-linux-the-high-score-table-is-initially-empty.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4a3e3bfc-ab86-11ed-96f9-02420a00019a.webp",
-                "width": 361
-            },
-            {
                 "caption": "Although two areas were created, no fill happened because balls were inside each of them. But those separation lines are also helping a lot",
                 "height": 800,
                 "image_url": "https://cdn.mobygames.com/screenshots/1520943-kbounce-linux-although-two-areas-were-created-no-fill-happened-b.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/d836ed02-ab75-11ed-93d8-02420a000198.webp",
+                "width": 912
+            },
+            {
+                "caption": "Second level, three balls, different theme",
+                "height": 800,
+                "image_url": "https://cdn.mobygames.com/screenshots/2371745-kbounce-linux-second-level-three-balls-different-theme.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2e916a08-ab7e-11ed-934f-02420a0001a0.webp",
+                "width": 912
+            },
+            {
+                "caption": "The manual gives some tips for playing the game",
+                "height": 800,
+                "image_url": "https://cdn.mobygames.com/screenshots/2921736-kbounce-linux-the-manual-gives-some-tips-for-playing-the-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4840b69a-ab86-11ed-8048-02420a000198.webp",
+                "width": 879
+            },
+            {
+                "caption": "Level 3 (four balls) with the Beach theme",
+                "height": 800,
+                "image_url": "https://cdn.mobygames.com/screenshots/2371529-kbounce-linux-level-3-four-balls-with-the-beach-theme.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2dbe75e4-ab7e-11ed-a218-02420a00019e.webp",
                 "width": 912
             }
         ],
@@ -1346,17 +1346,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The first level in another graphical theme",
+                "caption": "Broader bat in red (ball is not bouncing from it but glued until button is pressed)",
                 "height": 706,
-                "image_url": "https://cdn.mobygames.com/screenshots/2927565-kbreakout-linux-the-first-level-in-another-graphical-theme.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/609e62b4-ab86-11ed-b165-02420a000198.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2927888-kbreakout-linux-broader-bat-in-red-ball-is-not-bouncing-from-it-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/61e5fc7c-ab86-11ed-b165-02420a000198.webp",
                 "width": 906
             },
             {
-                "caption": "Level 2",
+                "caption": "Second level in another theme",
                 "height": 706,
-                "image_url": "https://cdn.mobygames.com/screenshots/2928052-kbreakout-linux-level-2.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/624cba2a-ab86-11ed-b325-02420a00019e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2928328-kbreakout-linux-second-level-in-another-theme.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6351d482-ab86-11ed-b325-02420a00019e.webp",
                 "width": 906
             },
             {
@@ -1367,17 +1367,17 @@
                 "width": 989
             },
             {
-                "caption": "The high-score table is initially empty",
-                "height": 388,
-                "image_url": "https://cdn.mobygames.com/screenshots/3070288-kbreakout-linux-the-high-score-table-is-initially-empty.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b5ece572-ab88-11ed-8e21-02420a00019b.webp",
-                "width": 418
+                "caption": "Level 3",
+                "height": 706,
+                "image_url": "https://cdn.mobygames.com/screenshots/2930280-kbreakout-linux-level-3.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6ba27d3a-ab86-11ed-9ab3-02420a0001a0.webp",
+                "width": 906
             },
             {
-                "caption": "Level 1 (Version 1.1.0)",
+                "caption": "The first level in another graphical theme",
                 "height": 706,
-                "image_url": "https://cdn.mobygames.com/screenshots/2927660-kbreakout-linux-level-1-version-110.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/60f3e2d4-ab86-11ed-b325-02420a00019e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2927565-kbreakout-linux-the-first-level-in-another-graphical-theme.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/609e62b4-ab86-11ed-b165-02420a000198.webp",
                 "width": 906
             }
         ],
@@ -1440,10 +1440,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The AI clearly takes another strategy",
+                "caption": "High-scores are saved for each difficulty mode separately ",
+                "height": 437,
+                "image_url": "https://cdn.mobygames.com/screenshots/2958290-kblocks-linux-high-scores-are-saved-for-each-difficulty-mode-sep.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e11bb0fe-ab86-11ed-b951-02420a000197.webp",
+                "width": 321
+            },
+            {
+                "caption": "Playing against the AI: the AI is using the stone falling next on your side, you have to stack the stones better than the computer",
                 "height": 733,
-                "image_url": "https://cdn.mobygames.com/screenshots/2955846-kblocks-linux-the-ai-clearly-takes-another-strategy.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d7873630-ab86-11ed-8b6f-02420a00019c.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2954135-kblocks-linux-playing-against-the-ai-the-ai-is-using-the-stone-f.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cff99d04-ab86-11ed-a519-02420a00019d.webp",
+                "width": 812
+            },
+            {
+                "caption": "Starting game (Version 0.3, KDE 4.14)",
+                "height": 733,
+                "image_url": "https://cdn.mobygames.com/screenshots/2950641-kblocks-linux-starting-game-version-03-kde-414.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c14696f4-ab86-11ed-91fb-02420a00019f.webp",
                 "width": 812
             },
             {
@@ -1454,24 +1468,10 @@
                 "width": 812
             },
             {
-                "caption": "High-scores are saved for each difficulty mode separately ",
-                "height": 437,
-                "image_url": "https://cdn.mobygames.com/screenshots/2958290-kblocks-linux-high-scores-are-saved-for-each-difficulty-mode-sep.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e11bb0fe-ab86-11ed-b951-02420a000197.webp",
-                "width": 321
-            },
-            {
-                "caption": "Even though, it is an even game",
+                "caption": "The AI clearly takes another strategy",
                 "height": 733,
-                "image_url": "https://cdn.mobygames.com/screenshots/2956322-kblocks-linux-even-though-it-is-an-even-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d9587b04-ab86-11ed-ab77-02420a000198.webp",
-                "width": 812
-            },
-            {
-                "caption": "Playing against the AI: the AI is using the stone falling next on your side, you have to stack the stones better than the computer",
-                "height": 733,
-                "image_url": "https://cdn.mobygames.com/screenshots/2954135-kblocks-linux-playing-against-the-ai-the-ai-is-using-the-stone-f.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cff99d04-ab86-11ed-a519-02420a00019d.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2955846-kblocks-linux-the-ai-clearly-takes-another-strategy.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d7873630-ab86-11ed-8b6f-02420a00019c.webp",
                 "width": 812
             }
         ],
@@ -1525,20 +1525,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Finished game",
-                "height": 733,
-                "image_url": "https://cdn.mobygames.com/screenshots/2954446-kigo-linux-finished-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d12e785c-ab86-11ed-8048-02420a000198.webp",
-                "width": 926
-            },
-            {
-                "caption": "Starting screen with tiny (9x9) board size (Version 0.5.6)",
-                "height": 733,
-                "image_url": "https://cdn.mobygames.com/screenshots/2951243-kigo-linux-starting-screen-with-tiny-9x9-board-size-version-056.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c3b53d3c-ab86-11ed-91fb-02420a00019f.webp",
-                "width": 926
-            },
-            {
                 "caption": "Naturally, games on the normal board (19x19) take much longer (also: switched to alternative theme)",
                 "height": 733,
                 "image_url": "https://cdn.mobygames.com/screenshots/2953618-kigo-linux-naturally-games-on-the-normal-board-19x19-take-much-l.png",
@@ -1546,10 +1532,17 @@
                 "width": 926
             },
             {
-                "caption": "As I am a lousy Go player, I let the AI battle itself",
+                "caption": "Board after 114 moves",
                 "height": 733,
-                "image_url": "https://cdn.mobygames.com/screenshots/2952299-kigo-linux-as-i-am-a-lousy-go-player-i-let-the-ai-battle-itself.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c864776c-ab86-11ed-8048-02420a000198.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2954894-kigo-linux-board-after-114-moves.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d323d9e0-ab86-11ed-8b6f-02420a00019c.webp",
+                "width": 926
+            },
+            {
+                "caption": "Loaded the board situation of a historical game",
+                "height": 733,
+                "image_url": "https://cdn.mobygames.com/screenshots/2954964-kigo-linux-loaded-the-board-situation-of-a-historical-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d357d4ca-ab86-11ed-a13c-02420a00019f.webp",
                 "width": 926
             },
             {
@@ -1557,6 +1550,13 @@
                 "height": 733,
                 "image_url": "https://cdn.mobygames.com/screenshots/2955870-kigo-linux-the-sequence-of-settings-can-be-turned-on-and-off.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/d7b0d68e-ab86-11ed-ab77-02420a000198.webp",
+                "width": 926
+            },
+            {
+                "caption": "As I am a lousy Go player, I let the AI battle itself",
+                "height": 733,
+                "image_url": "https://cdn.mobygames.com/screenshots/2952299-kigo-linux-as-i-am-a-lousy-go-player-i-let-the-ai-battle-itself.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c864776c-ab86-11ed-8048-02420a000198.webp",
                 "width": 926
             }
         ],
@@ -1708,13 +1708,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "In the middle, the level is open to the left and right. Beware running there too fast, you will fall and die if passing the last field",
-                "height": 644,
-                "image_url": "https://cdn.mobygames.com/screenshots/2146495-granatier-linux-in-the-middle-the-level-is-open-to-the-left-and-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bd3191aa-ab7b-11ed-b042-02420a00019f.webp",
-                "width": 1200
-            },
-            {
                 "caption": "Found a bonus item which allows kicking of bombs (by running on them). Nice!",
                 "height": 644,
                 "image_url": "https://cdn.mobygames.com/screenshots/2499564-granatier-linux-found-a-bonus-item-which-allows-kicking-of-bombs.png",
@@ -1729,11 +1722,18 @@
                 "width": 1200
             },
             {
-                "caption": "The manual has extensive information about all items and stones",
+                "caption": "Starting screen",
                 "height": 644,
-                "image_url": "https://cdn.mobygames.com/screenshots/2499647-granatier-linux-the-manual-has-extensive-information-about-all-i.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bb998f4c-ab7f-11ed-81e3-02420a000199.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2495238-granatier-linux-starting-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/adf0c89c-ab7f-11ed-b165-02420a000198.webp",
                 "width": 1200
+            },
+            {
+                "caption": "Selecting an arena -- choosing \"randomly\" the game alters the level after each game",
+                "height": 550,
+                "image_url": "https://cdn.mobygames.com/screenshots/2495473-granatier-linux-selecting-an-arena-choosing-randomly-the-game-al.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/aebd0d44-ab7f-11ed-b165-02420a000198.webp",
+                "width": 806
             },
             {
                 "caption": "Another maze in another graphical theme",
@@ -1802,10 +1802,31 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The matches theme",
+                "caption": "After eating a power-pill the ghosts can be killed (blue color)",
                 "height": 772,
-                "image_url": "https://cdn.mobygames.com/screenshots/2505229-kapman-linux-the-matches-theme.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ce3c57f6-ab7f-11ed-b325-02420a00019e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2504385-kapman-linux-after-eating-a-power-pill-the-ghosts-can-be-killed-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cb76972a-ab7f-11ed-b325-02420a00019e.webp",
+                "width": 641
+            },
+            {
+                "caption": "Theme selection",
+                "height": 516,
+                "image_url": "https://cdn.mobygames.com/screenshots/2507809-kapman-linux-theme-selection.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d5e46778-ab7f-11ed-b721-02420a00019b.webp",
+                "width": 519
+            },
+            {
+                "caption": "Level 2",
+                "height": 772,
+                "image_url": "https://cdn.mobygames.com/screenshots/2504713-kapman-linux-level-2.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cc99a93a-ab7f-11ed-b325-02420a00019e.webp",
+                "width": 641
+            },
+            {
+                "caption": "The invisible theme is adding some challenge with invisible walls",
+                "height": 772,
+                "image_url": "https://cdn.mobygames.com/screenshots/2505538-kapman-linux-the-invisible-theme-is-adding-some-challenge-with-i.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cf19172c-ab7f-11ed-9ae2-02420a0001a0.webp",
                 "width": 641
             },
             {
@@ -1814,27 +1835,6 @@
                 "image_url": "https://cdn.mobygames.com/screenshots/2501642-kapman-linux-i-got-caught-in-another-graphical-theme.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/c1a4ea26-ab7f-11ed-98cd-02420a00019e.webp",
                 "width": 641
-            },
-            {
-                "caption": "After eating a power-pill the ghosts can be killed (blue color)",
-                "height": 772,
-                "image_url": "https://cdn.mobygames.com/screenshots/2504385-kapman-linux-after-eating-a-power-pill-the-ghosts-can-be-killed-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cb76972a-ab7f-11ed-b325-02420a00019e.webp",
-                "width": 641
-            },
-            {
-                "caption": "Playing the traditional graphic theme. And an bonus item appeared which I should collect quickly",
-                "height": 772,
-                "image_url": "https://cdn.mobygames.com/screenshots/2501385-kapman-linux-playing-the-traditional-graphic-theme-and-an-bonus-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c0cd4ba2-ab7f-11ed-98cd-02420a00019e.webp",
-                "width": 641
-            },
-            {
-                "caption": "The manual describes all items and elements of the game",
-                "height": 644,
-                "image_url": "https://cdn.mobygames.com/screenshots/2505573-kapman-linux-the-manual-describes-all-items-and-elements-of-the-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cf35bf30-ab7f-11ed-b325-02420a00019e.webp",
-                "width": 1200
             }
         ],
         "title": "Kapman"
@@ -1923,20 +1923,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Starting position",
-                "height": 783,
-                "image_url": "https://cdn.mobygames.com/screenshots/2547142-kreversi-linux-starting-position.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/68e5bc0c-ab80-11ed-87ec-02420a00019c.webp",
-                "width": 892
-            },
-            {
-                "caption": "The manual gives you some advice for the tactic",
-                "height": 644,
-                "image_url": "https://cdn.mobygames.com/screenshots/2550856-kreversi-linux-the-manual-gives-you-some-advice-for-the-tactic.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7768f2da-ab80-11ed-93d8-02420a000198.webp",
-                "width": 1200
-            },
-            {
                 "caption": "First moves",
                 "height": 783,
                 "image_url": "https://cdn.mobygames.com/screenshots/2546423-kreversi-linux-first-moves.png",
@@ -1951,10 +1937,24 @@
                 "width": 892
             },
             {
+                "caption": "The manual gives you some advice for the tactic",
+                "height": 644,
+                "image_url": "https://cdn.mobygames.com/screenshots/2550856-kreversi-linux-the-manual-gives-you-some-advice-for-the-tactic.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7768f2da-ab80-11ed-93d8-02420a000198.webp",
+                "width": 1200
+            },
+            {
                 "caption": "The last move can also be marked visually",
                 "height": 783,
                 "image_url": "https://cdn.mobygames.com/screenshots/2550785-kreversi-linux-the-last-move-can-also-be-marked-visually.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/773d5846-ab80-11ed-9e47-02420a00019f.webp",
+                "width": 892
+            },
+            {
+                "caption": "The game can mark any legal spot for a stone to set",
+                "height": 783,
+                "image_url": "https://cdn.mobygames.com/screenshots/2552193-kreversi-linux-the-game-can-mark-any-legal-spot-for-a-stone-to-s.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7d55c6a0-ab80-11ed-a061-02420a00019d.webp",
                 "width": 892
             }
         ],
@@ -2044,13 +2044,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Starting board in the \"Diamond\" theme",
-                "height": 771,
-                "image_url": "https://cdn.mobygames.com/screenshots/2554267-kdiamond-linux-starting-board-in-the-diamond-theme.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/84ea8db0-ab80-11ed-ab77-02420a000198.webp",
-                "width": 811
-            },
-            {
                 "caption": "Medium sized board",
                 "height": 771,
                 "image_url": "https://cdn.mobygames.com/screenshots/2555662-kdiamond-linux-medium-sized-board.png",
@@ -2058,11 +2051,18 @@
                 "width": 811
             },
             {
-                "caption": "Theme selection",
-                "height": 441,
-                "image_url": "https://cdn.mobygames.com/screenshots/2553921-kdiamond-linux-theme-selection.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/83cf7242-ab80-11ed-9ab3-02420a0001a0.webp",
-                "width": 510
+                "caption": "The high-score table is initially empty. So even with 0 points the top was reached",
+                "height": 438,
+                "image_url": "https://cdn.mobygames.com/screenshots/2554496-kdiamond-linux-the-high-score-table-is-initially-empty-so-even-w.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/85a149c4-ab80-11ed-aa5a-02420a0001a0.webp",
+                "width": 371
+            },
+            {
+                "caption": "Alternative graphical tileset",
+                "height": 771,
+                "image_url": "https://cdn.mobygames.com/screenshots/2556079-kdiamond-linux-alternative-graphical-tileset.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8bee83d2-ab80-11ed-beab-02420a000199.webp",
+                "width": 811
             },
             {
                 "caption": "Difficulty \"Very Hard\": very small board, fewer options to find three matching tiles",
@@ -2072,11 +2072,11 @@
                 "width": 811
             },
             {
-                "caption": "The high-score table is initially empty. So even with 0 points the top was reached",
-                "height": 438,
-                "image_url": "https://cdn.mobygames.com/screenshots/2554496-kdiamond-linux-the-high-score-table-is-initially-empty-so-even-w.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/85a149c4-ab80-11ed-aa5a-02420a0001a0.webp",
-                "width": 371
+                "caption": "Starting board in the \"Diamond\" theme",
+                "height": 771,
+                "image_url": "https://cdn.mobygames.com/screenshots/2554267-kdiamond-linux-starting-board-in-the-diamond-theme.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/84ea8db0-ab80-11ed-ab77-02420a000198.webp",
+                "width": 811
             }
         ],
         "title": "KDiamond"
@@ -2138,6 +2138,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Separate high-score tables are kept for each difficulty level",
+                "height": 438,
+                "image_url": "https://cdn.mobygames.com/screenshots/2555019-kollision-linux-separate-high-score-tables-are-kept-for-each-dif.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8795c516-ab80-11ed-8d2b-02420a00019e.webp",
+                "width": 371
+            },
+            {
                 "caption": "Another red ball added",
                 "height": 633,
                 "image_url": "https://cdn.mobygames.com/screenshots/2554795-kollision-linux-another-red-ball-added.png",
@@ -2157,13 +2164,6 @@
                 "image_url": "https://cdn.mobygames.com/screenshots/2554570-kollision-linux-in-any-difficulty-level-the-game-starts-with-fou.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/85e4b326-ab80-11ed-8d2b-02420a00019e.webp",
                 "width": 554
-            },
-            {
-                "caption": "Separate high-score tables are kept for each difficulty level",
-                "height": 438,
-                "image_url": "https://cdn.mobygames.com/screenshots/2555019-kollision-linux-separate-high-score-tables-are-kept-for-each-dif.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8795c516-ab80-11ed-8d2b-02420a00019e.webp",
-                "width": 371
             }
         ],
         "title": "Kollision"
@@ -2232,6 +2232,13 @@
                 "width": 1200
             },
             {
+                "caption": "Starting screen",
+                "height": 644,
+                "image_url": "https://cdn.mobygames.com/screenshots/2582864-ksnakeduel-linux-starting-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f3c59ba8-ab80-11ed-aecf-02420a000198.webp",
+                "width": 1200
+            },
+            {
                 "caption": "Another two player game in the alternative theme",
                 "height": 644,
                 "image_url": "https://cdn.mobygames.com/screenshots/2585982-ksnakeduel-linux-another-two-player-game-in-the-alternative-them.png",
@@ -2239,24 +2246,17 @@
                 "width": 1200
             },
             {
+                "caption": "Avoiding obstacles with a long tail",
+                "height": 626,
+                "image_url": "https://cdn.mobygames.com/screenshots/2586131-ksnakeduel-linux-avoiding-obstacles-with-a-long-tail.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/00813686-ab81-11ed-a061-02420a00019d.webp",
+                "width": 1200
+            },
+            {
                 "caption": "Two player game: tails are solid and do not disappear",
                 "height": 644,
                 "image_url": "https://cdn.mobygames.com/screenshots/2582770-ksnakeduel-linux-two-player-game-tails-are-solid-and-do-not-disa.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/f37e10ee-ab80-11ed-bd13-02420a00019c.webp",
-                "width": 1200
-            },
-            {
-                "caption": "Single player game: you start as a snake without tail",
-                "height": 644,
-                "image_url": "https://cdn.mobygames.com/screenshots/2585822-ksnakeduel-linux-single-player-game-you-start-as-a-snake-without.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ff45900a-ab80-11ed-a44e-02420a000199.webp",
-                "width": 1200
-            },
-            {
-                "caption": "Starting screen",
-                "height": 644,
-                "image_url": "https://cdn.mobygames.com/screenshots/2582864-ksnakeduel-linux-starting-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f3c59ba8-ab80-11ed-aecf-02420a000198.webp",
                 "width": 1200
             }
         ],
@@ -2319,13 +2319,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Fighting if optionally shown in an animated arena (but based on the dice rules of risk)",
-                "height": 644,
-                "image_url": "https://cdn.mobygames.com/screenshots/2955024-ksirk-linux-fighting-if-optionally-shown-in-an-animated-arena-bu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d3815890-ab86-11ed-a5ec-02420a00019b.webp",
-                "width": 1200
-            },
-            {
                 "caption": "With the goal to conquer Asia and North America, things does not look too bad, as Australia is a good starting point for this",
                 "height": 644,
                 "image_url": "https://cdn.mobygames.com/screenshots/1633680-ksirk-linux-with-the-goal-to-conquer-asia-and-north-america-thin.png",
@@ -2340,6 +2333,13 @@
                 "width": 1200
             },
             {
+                "caption": "The world map: flags indicate the owners of the specific countries",
+                "height": 644,
+                "image_url": "https://cdn.mobygames.com/screenshots/3070654-ksirk-linux-the-world-map-flags-indicate-the-owners-of-the-speci.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b7968518-ab88-11ed-b325-02420a00019e.webp",
+                "width": 1200
+            },
+            {
                 "caption": "Starting screen with main menu",
                 "height": 644,
                 "image_url": "https://cdn.mobygames.com/screenshots/2953140-ksirk-linux-starting-screen-with-main-menu.png",
@@ -2347,10 +2347,10 @@
                 "width": 1200
             },
             {
-                "caption": "The world map: flags indicate the owners of the specific countries",
+                "caption": "Fighting if optionally shown in an animated arena (but based on the dice rules of risk)",
                 "height": 644,
-                "image_url": "https://cdn.mobygames.com/screenshots/3070654-ksirk-linux-the-world-map-flags-indicate-the-owners-of-the-speci.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b7968518-ab88-11ed-b325-02420a00019e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2955024-ksirk-linux-fighting-if-optionally-shown-in-an-animated-arena-bu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d3815890-ab86-11ed-a5ec-02420a00019b.webp",
                 "width": 1200
             }
         ],
@@ -2413,10 +2413,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "In such situation teleporting helps :)",
+                "caption": "The \"Easy\" game type with lots of junk randomly on the board",
                 "height": 800,
-                "image_url": "https://cdn.mobygames.com/screenshots/2596454-killbots-linux-in-such-situation-teleporting-helps.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2a1bcfa6-ab81-11ed-b6ec-02420a00019b.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2594184-killbots-linux-the-easy-game-type-with-lots-of-junk-randomly-on-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2107bc5e-ab81-11ed-bddc-02420a00019e.webp",
                 "width": 874
             },
             {
@@ -2427,24 +2427,24 @@
                 "width": 874
             },
             {
-                "caption": "The \"Easy\" game type with lots of junk randomly on the board",
+                "caption": "Another tile set",
                 "height": 800,
-                "image_url": "https://cdn.mobygames.com/screenshots/2594184-killbots-linux-the-easy-game-type-with-lots-of-junk-randomly-on-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2107bc5e-ab81-11ed-bddc-02420a00019e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2596559-killbots-linux-another-tile-set.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2aa96a82-ab81-11ed-81b6-02420a00019d.webp",
                 "width": 874
             },
             {
-                "caption": "Robots collided: they leave junk. Moving up now would cause on robot run into the garbage also killit it",
-                "height": 800,
-                "image_url": "https://cdn.mobygames.com/screenshots/2595487-killbots-linux-robots-collided-they-leave-junk-moving-up-now-wou.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/268e1fce-ab81-11ed-81b6-02420a00019d.webp",
-                "width": 874
+                "caption": "The high-score table is initially empty",
+                "height": 454,
+                "image_url": "https://cdn.mobygames.com/screenshots/2596563-killbots-linux-the-high-score-table-is-initially-empty.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2a86ff56-ab81-11ed-8b70-02420a00019a.webp",
+                "width": 361
             },
             {
-                "caption": "Default game type with default tile set. My guy is starting in the middle",
+                "caption": "In such situation teleporting helps :)",
                 "height": 800,
-                "image_url": "https://cdn.mobygames.com/screenshots/2593747-killbots-linux-default-game-type-with-default-tile-set-my-guy-is.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1f3b4648-ab81-11ed-bddc-02420a00019e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2596454-killbots-linux-in-such-situation-teleporting-helps.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2a1bcfa6-ab81-11ed-b6ec-02420a00019b.webp",
                 "width": 874
             }
         ],
@@ -2525,27 +2525,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Final blink on the board: four stones couldn't be removed",
-                "height": 670,
-                "image_url": "https://cdn.mobygames.com/screenshots/2602185-klickety-linux-final-blink-on-the-board-four-stones-couldnt-be-r.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4221b2fa-ab81-11ed-89d0-02420a00019d.webp",
-                "width": 589
-            },
-            {
-                "caption": "Medium difficulty shown in the second theme",
-                "height": 670,
-                "image_url": "https://cdn.mobygames.com/screenshots/2606306-klickety-linux-medium-difficulty-shown-in-the-second-theme.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/51c4073a-ab81-11ed-b9a3-02420a000197.webp",
-                "width": 589
-            },
-            {
-                "caption": "A column was cleared and the board becomes more narrow",
-                "height": 670,
-                "image_url": "https://cdn.mobygames.com/screenshots/2603008-klickety-linux-a-column-was-cleared-and-the-board-becomes-more-n.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/45656e02-ab81-11ed-934f-02420a0001a0.webp",
-                "width": 589
-            },
-            {
                 "caption": "The highest difficulty with six colors shown in the third graphical theme",
                 "height": 670,
                 "image_url": "https://cdn.mobygames.com/screenshots/2601886-klickety-linux-the-highest-difficulty-with-six-colors-shown-in-t.png",
@@ -2553,10 +2532,31 @@
                 "width": 589
             },
             {
+                "caption": "My attempt to include the right green stones in the super green field failed",
+                "height": 670,
+                "image_url": "https://cdn.mobygames.com/screenshots/2603516-klickety-linux-my-attempt-to-include-the-right-green-stones-in-t.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/47b91be0-ab81-11ed-9377-02420a000197.webp",
+                "width": 589
+            },
+            {
+                "caption": "I am carefully planning how to remove the rest of the stones",
+                "height": 670,
+                "image_url": "https://cdn.mobygames.com/screenshots/2602737-klickety-linux-i-am-carefully-planning-how-to-remove-the-rest-of.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4438c664-ab81-11ed-934f-02420a0001a0.webp",
+                "width": 589
+            },
+            {
                 "caption": "Starting board (\"Easy\", 4 colors). Any colored are with at least two stones can be removed",
                 "height": 670,
                 "image_url": "https://cdn.mobygames.com/screenshots/2599410-klickety-linux-starting-board-easy-4-colors-any-colored-are-with.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/36c1de9e-ab81-11ed-8e21-02420a00019b.webp",
+                "width": 589
+            },
+            {
+                "caption": "Starting the game in \"SameGame\" option gives a much broader gamefield",
+                "height": 670,
+                "image_url": "https://cdn.mobygames.com/screenshots/2611217-klickety-linux-starting-the-game-in-samegame-option-gives-a-much.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/64dc2db6-ab81-11ed-bddc-02420a00019e.webp",
                 "width": 589
             }
         ],
@@ -2619,10 +2619,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Clicking on an atom shows directions you can move it (either by mouse or keyboard)",
+                "caption": "Level two has a four way connector (In the upper right corner the final build is shown)",
                 "height": 800,
-                "image_url": "https://cdn.mobygames.com/screenshots/2642513-katomic-linux-clicking-on-an-atom-shows-directions-you-can-move-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/de88ead2-ab81-11ed-b6ec-02420a00019b.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2642128-katomic-linux-level-two-has-a-four-way-connector-in-the-upper-ri.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dcd34994-ab81-11ed-81e3-02420a000199.webp",
                 "width": 889
             },
             {
@@ -2633,13 +2633,6 @@
                 "width": 889
             },
             {
-                "caption": "With the Ethylene molecule the first atom with diagonal connectors appeared",
-                "height": 800,
-                "image_url": "https://cdn.mobygames.com/screenshots/2643563-katomic-linux-with-the-ethylene-molecule-the-first-atom-with-dia.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e3341c6e-ab81-11ed-8b6f-02420a00019c.webp",
-                "width": 889
-            },
-            {
                 "caption": "Placing the blue atom was essential to solve this",
                 "height": 800,
                 "image_url": "https://cdn.mobygames.com/screenshots/2642764-katomic-linux-placing-the-blue-atom-was-essential-to-solve-this.png",
@@ -2647,10 +2640,17 @@
                 "width": 889
             },
             {
-                "caption": "Level two has a four way connector (In the upper right corner the final build is shown)",
+                "caption": "Clicking on an atom shows directions you can move it (either by mouse or keyboard)",
                 "height": 800,
-                "image_url": "https://cdn.mobygames.com/screenshots/2642128-katomic-linux-level-two-has-a-four-way-connector-in-the-upper-ri.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/dcd34994-ab81-11ed-81e3-02420a000199.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2642513-katomic-linux-clicking-on-an-atom-shows-directions-you-can-move-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/de88ead2-ab81-11ed-b6ec-02420a00019b.webp",
+                "width": 889
+            },
+            {
+                "caption": "Starting screen with level 1 loaded (Version 3.0)",
+                "height": 800,
+                "image_url": "https://cdn.mobygames.com/screenshots/2642102-katomic-linux-starting-screen-with-level-1-loaded-version-30.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dcb46aec-ab81-11ed-b6ec-02420a00019b.webp",
                 "width": 889
             }
         ],
@@ -2722,6 +2722,20 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Suddenly blue is in the defense",
+                "height": 800,
+                "image_url": "https://cdn.mobygames.com/screenshots/2647538-kjumpingcube-linux-suddenly-blue-is-in-the-defense.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f31dbc7a-ab81-11ed-ab77-02420a000198.webp",
+                "width": 824
+            },
+            {
+                "caption": "And green wins",
+                "height": 800,
+                "image_url": "https://cdn.mobygames.com/screenshots/2647884-kjumpingcube-linux-and-green-wins.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f48a03c0-ab81-11ed-9e47-02420a00019f.webp",
+                "width": 824
+            },
+            {
                 "caption": "Green counters with an attack on the lower side",
                 "height": 800,
                 "image_url": "https://cdn.mobygames.com/screenshots/2647149-kjumpingcube-linux-green-counters-with-an-attack-on-the-lower-si.png",
@@ -2729,17 +2743,10 @@
                 "width": 824
             },
             {
-                "caption": "Game on a very small board",
+                "caption": "Further on",
                 "height": 800,
-                "image_url": "https://cdn.mobygames.com/screenshots/2649416-kjumpingcube-linux-game-on-a-very-small-board.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/faa9e13a-ab81-11ed-8e21-02420a00019b.webp",
-                "width": 824
-            },
-            {
-                "caption": "Game on the biggest possible board",
-                "height": 800,
-                "image_url": "https://cdn.mobygames.com/screenshots/2648013-kjumpingcube-linux-game-on-the-biggest-possible-board.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f4d9bde8-ab81-11ed-ba50-02420a000199.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2644390-kjumpingcube-linux-further-on.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e638eaf2-ab81-11ed-8b6f-02420a00019c.webp",
                 "width": 824
             },
             {
@@ -2747,13 +2754,6 @@
                 "height": 800,
                 "image_url": "https://cdn.mobygames.com/screenshots/2644720-kjumpingcube-linux-medium-sized-board-after-first-two-moves-brow.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/e7a5525e-ab81-11ed-8b6f-02420a00019c.webp",
-                "width": 824
-            },
-            {
-                "caption": "Suddenly blue is in the defense",
-                "height": 800,
-                "image_url": "https://cdn.mobygames.com/screenshots/2647538-kjumpingcube-linux-suddenly-blue-is-in-the-defense.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f31dbc7a-ab81-11ed-ab77-02420a000198.webp",
                 "width": 824
             }
         ],
@@ -2839,13 +2839,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The board in another graphical theme",
-                "height": 800,
-                "image_url": "https://cdn.mobygames.com/screenshots/2665081-kolor-lines-linux-the-board-in-another-graphical-theme.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/387c484a-ab82-11ed-be6f-02420a000197.webp",
-                "width": 754
-            },
-            {
                 "caption": "And the fourth theme",
                 "height": 800,
                 "image_url": "https://cdn.mobygames.com/screenshots/2663075-kolor-lines-linux-and-the-fourth-theme.png",
@@ -2853,10 +2846,10 @@
                 "width": 754
             },
             {
-                "caption": "A nearly filled board",
+                "caption": "I am about to fill a line (highlighted is the selected stone/figure)",
                 "height": 800,
-                "image_url": "https://cdn.mobygames.com/screenshots/2662538-kolor-lines-linux-a-nearly-filled-board.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2ec3e290-ab82-11ed-bd13-02420a00019c.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2659824-kolor-lines-linux-i-am-about-to-fill-a-line-highlighted-is-the-s.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/24a01aae-ab82-11ed-b325-02420a00019e.webp",
                 "width": 754
             },
             {
@@ -2867,10 +2860,17 @@
                 "width": 754
             },
             {
-                "caption": "The starting position with the first batch of three stones arrived",
+                "caption": "The board in another graphical theme",
                 "height": 800,
-                "image_url": "https://cdn.mobygames.com/screenshots/2659961-kolor-lines-linux-the-starting-position-with-the-first-batch-of-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/252d80f6-ab82-11ed-ac16-02420a000199.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2665081-kolor-lines-linux-the-board-in-another-graphical-theme.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/387c484a-ab82-11ed-be6f-02420a000197.webp",
+                "width": 754
+            },
+            {
+                "caption": "A nearly filled board",
+                "height": 800,
+                "image_url": "https://cdn.mobygames.com/screenshots/2662538-kolor-lines-linux-a-nearly-filled-board.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2ec3e290-ab82-11ed-bd13-02420a00019c.webp",
                 "width": 754
             }
         ],
@@ -2949,6 +2949,13 @@
                 "width": 769
             },
             {
+                "caption": "Finally the classic theme",
+                "height": 800,
+                "image_url": "https://cdn.mobygames.com/screenshots/2944668-kmines-linux-finally-the-classic-theme.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a81bfbf6-ab86-11ed-934f-02420a0001a0.webp",
+                "width": 769
+            },
+            {
                 "caption": "The high-score table is initially empty",
                 "height": 471,
                 "image_url": "https://cdn.mobygames.com/screenshots/2947109-kmines-linux-the-high-score-table-is-initially-empty.png",
@@ -2956,10 +2963,10 @@
                 "width": 305
             },
             {
-                "caption": "The graveyard theme",
+                "caption": "The second theme",
                 "height": 800,
-                "image_url": "https://cdn.mobygames.com/screenshots/2944415-kmines-linux-the-graveyard-theme.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a72839c6-ab86-11ed-b325-02420a00019e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2944359-kmines-linux-the-second-theme.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a702b386-ab86-11ed-bddc-02420a00019e.webp",
                 "width": 769
             },
             {
@@ -2967,13 +2974,6 @@
                 "height": 800,
                 "image_url": "https://cdn.mobygames.com/screenshots/2943853-kmines-linux-hard-mode-is-played-on-an-rectangular-board.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/a500657e-ab86-11ed-bddc-02420a00019e.webp",
-                "width": 769
-            },
-            {
-                "caption": "Start: an empty board in easy mode",
-                "height": 800,
-                "image_url": "https://cdn.mobygames.com/screenshots/2942926-kmines-linux-start-an-empty-board-in-easy-mode.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a18650fc-ab86-11ed-81b6-02420a00019d.webp",
                 "width": 769
             }
         ],
@@ -3036,20 +3036,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The high-score table is initially empty",
-                "height": 471,
-                "image_url": "https://cdn.mobygames.com/screenshots/2785319-knetwalk-linux-the-high-score-table-is-initially-empty.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/17d29e9e-ab84-11ed-a218-02420a00019e.webp",
-                "width": 455
-            },
-            {
-                "caption": "Custom boards can even be bigger: up to 11x11",
-                "height": 800,
-                "image_url": "https://cdn.mobygames.com/screenshots/2782913-knetwalk-linux-custom-boards-can-even-be-bigger-up-to-11x11.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0ddc6104-ab84-11ed-a5ec-02420a00019b.webp",
-                "width": 692
-            },
-            {
                 "caption": "\"Very hard\" level has a big board",
                 "height": 800,
                 "image_url": "https://cdn.mobygames.com/screenshots/2783782-knetwalk-linux-very-hard-level-has-a-big-board.png",
@@ -3057,10 +3043,10 @@
                 "width": 692
             },
             {
-                "caption": "A solved board in the alternate difficulty theme",
+                "caption": "By rotating many of the tiles, finally all servers got connection to the internet.",
                 "height": 800,
-                "image_url": "https://cdn.mobygames.com/screenshots/2783659-knetwalk-linux-a-solved-board-in-the-alternate-difficulty-theme.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/10a227e8-ab84-11ed-87d1-02420a000197.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2779698-knetwalk-linux-by-rotating-many-of-the-tiles-finally-all-servers.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/019078d6-ab84-11ed-9201-02420a00019c.webp",
                 "width": 692
             },
             {
@@ -3068,6 +3054,20 @@
                 "height": 800,
                 "image_url": "https://cdn.mobygames.com/screenshots/2780016-knetwalk-linux-medium-difficulty-has-a-bigger-board-and-more-ser.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/02b22ce6-ab84-11ed-93d8-02420a000198.webp",
+                "width": 692
+            },
+            {
+                "caption": "The high-score table is initially empty",
+                "height": 471,
+                "image_url": "https://cdn.mobygames.com/screenshots/2785319-knetwalk-linux-the-high-score-table-is-initially-empty.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/17d29e9e-ab84-11ed-a218-02420a00019e.webp",
+                "width": 455
+            },
+            {
+                "caption": "A starting board in \"Easy\" difficulty",
+                "height": 800,
+                "image_url": "https://cdn.mobygames.com/screenshots/2779562-knetwalk-linux-a-starting-board-in-easy-difficulty.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/01067668-ab84-11ed-a13c-02420a00019f.webp",
                 "width": 692
             }
         ],
@@ -3130,17 +3130,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "I have still three ships left, it looks quite good",
+                "caption": "Starting screen",
                 "height": 626,
-                "image_url": "https://cdn.mobygames.com/screenshots/1960792-naval-battle-linux-i-have-still-three-ships-left-it-looks-quite-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/dc388484-ab79-11ed-be6f-02420a000197.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/1960665-naval-battle-linux-starting-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dbf034fe-ab79-11ed-837d-02420a00019b.webp",
                 "width": 982
             },
             {
-                "caption": "Placing the four own ships. Ships can be set vertically or horizontally",
+                "caption": "Fighting phase: each white cloud is a shot in the water. Hits are marked as explosions",
                 "height": 626,
-                "image_url": "https://cdn.mobygames.com/screenshots/1957722-naval-battle-linux-placing-the-four-own-ships-ships-can-be-set-v.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d43cb7f0-ab79-11ed-b325-02420a00019e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/1958761-naval-battle-linux-fighting-phase-each-white-cloud-is-a-shot-in-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d7207376-ab79-11ed-8b6f-02420a00019c.webp",
+                "width": 982
+            },
+            {
+                "caption": "Sunk the enemy carrier!",
+                "height": 626,
+                "image_url": "https://cdn.mobygames.com/screenshots/1990339-naval-battle-linux-sunk-the-enemy-carrier.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/25b8337a-ab7a-11ed-a061-02420a00019d.webp",
                 "width": 982
             },
             {
@@ -3151,17 +3158,10 @@
                 "width": 429
             },
             {
-                "caption": "After a lengthy bombardment my smallest ship is undetected -- I won!",
+                "caption": "I have still three ships left, it looks quite good",
                 "height": 626,
-                "image_url": "https://cdn.mobygames.com/screenshots/1962657-naval-battle-linux-after-a-lengthy-bombardment-my-smallest-ship-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e0c0e7ee-ab79-11ed-87d1-02420a000197.webp",
-                "width": 982
-            },
-            {
-                "caption": "Starting screen",
-                "height": 626,
-                "image_url": "https://cdn.mobygames.com/screenshots/1960665-naval-battle-linux-starting-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/dbf034fe-ab79-11ed-837d-02420a00019b.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/1960792-naval-battle-linux-i-have-still-three-ships-left-it-looks-quite-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dc388484-ab79-11ed-be6f-02420a000197.webp",
                 "width": 982
             }
         ],
@@ -3288,11 +3288,18 @@
         },
         "sample_screenshots": [
             {
-                "caption": "A game in progress",
+                "caption": "I just cleared a row!",
                 "height": 555,
-                "image_url": "https://cdn.mobygames.com/screenshots/16225391-quadrapassel-linux-a-game-in-progress.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5547c010-c1d7-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16225529-quadrapassel-linux-i-just-cleared-a-row.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5f0bf81e-c1d7-11ed-ab6b-02420a000194.webp",
                 "width": 585
+            },
+            {
+                "caption": "Cleaning up my mess later",
+                "height": 569,
+                "image_url": "https://cdn.mobygames.com/screenshots/16840251-quadrapassel-linux-cleaning-up-my-mess-later.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8858ed88-c3a0-11ed-9226-02420a000121.webp",
+                "width": 442
             },
             {
                 "caption": "About page for an older version still known as Gnometris",
@@ -3302,25 +3309,18 @@
                 "width": 442
             },
             {
-                "caption": "Placed a few more blocks making a slight mess",
-                "height": 569,
-                "image_url": "https://cdn.mobygames.com/screenshots/16840248-quadrapassel-linux-placed-a-few-more-blocks-making-a-slight-mess.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/88395b08-c3a0-11ed-9226-02420a000121.webp",
-                "width": 442
-            },
-            {
-                "caption": "I just cleared a row!",
-                "height": 555,
-                "image_url": "https://cdn.mobygames.com/screenshots/16225529-quadrapassel-linux-i-just-cleared-a-row.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5f0bf81e-c1d7-11ed-ab6b-02420a000194.webp",
-                "width": 585
-            },
-            {
                 "caption": "Playing the older Gnometris version",
                 "height": 569,
                 "image_url": "https://cdn.mobygames.com/screenshots/16840116-quadrapassel-linux-playing-the-older-gnometris-version.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/7b686f5e-c3a0-11ed-9226-02420a000121.webp",
                 "width": 442
+            },
+            {
+                "caption": "The high scores",
+                "height": 300,
+                "image_url": "https://cdn.mobygames.com/screenshots/16225448-quadrapassel-linux-the-high-scores.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/57e6d3b0-c1d7-11ed-ab6b-02420a000194.webp",
+                "width": 210
             }
         ],
         "title": "Quadrapassel"
@@ -3418,31 +3418,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Mille: Traveling 50 miles compared to the computer's 200",
+                "caption": "Arithmetic: Enabling multiplication and division",
                 "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/16282004-bsdgames-linux-mille-traveling-50-miles-compared-to-the-computer.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f856680e-c1e8-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16296674-bsdgames-linux-arithmetic-enabling-multiplication-and-division.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c1fcf67e-c1ed-11ed-ab6b-02420a000194.webp",
                 "width": 484
             },
             {
-                "caption": "Cribbage: Failing to count the number of points after a hand",
+                "caption": "Worm: Heading towards number 6",
                 "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/16296668-bsdgames-linux-cribbage-failing-to-count-the-number-of-points-af.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c1c36918-c1ed-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16282739-bsdgames-linux-worm-heading-towards-number-6.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/38a68cea-c1e9-11ed-ab6b-02420a000194.webp",
                 "width": 484
             },
             {
-                "caption": "Pig converts the message to pig latin",
+                "caption": "Canfield: Displaying betting information",
                 "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/16283156-bsdgames-linux-pig-converts-the-message-to-pig-latin.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5afb3732-c1e9-11ed-ab6b-02420a000194.webp",
-                "width": 484
-            },
-            {
-                "caption": "Rain is a screensaver that displays rain drops",
-                "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/16296164-bsdgames-linux-rain-is-a-screensaver-that-displays-rain-drops.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/80287aa2-c1ed-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16282286-bsdgames-linux-canfield-displaying-betting-information.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0e518e68-c1e9-11ed-ab6b-02420a000194.webp",
                 "width": 484
             },
             {
@@ -3450,6 +3443,13 @@
                 "height": 316,
                 "image_url": "https://cdn.mobygames.com/screenshots/16296665-bsdgames-linux-dab-almost-done-a-3-x-3-game.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/c1a82bd0-c1ed-11ed-ab6b-02420a000194.webp",
+                "width": 484
+            },
+            {
+                "caption": "Pig converts the message to pig latin",
+                "height": 316,
+                "image_url": "https://cdn.mobygames.com/screenshots/16283156-bsdgames-linux-pig-converts-the-message-to-pig-latin.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5afb3732-c1e9-11ed-ab6b-02420a000194.webp",
                 "width": 484
             }
         ],
@@ -3548,6 +3548,20 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Approaching the landing pad",
+                "height": 400,
+                "image_url": "https://cdn.mobygames.com/screenshots/15815390-xlander-linux-approaching-the-landing-pad.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1a8205a2-beef-11ed-9c42-02420a000140.webp",
+                "width": 600
+            },
+            {
+                "caption": "A successful landing!",
+                "height": 400,
+                "image_url": "https://cdn.mobygames.com/screenshots/15815411-xlander-linux-a-successful-landing.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1c0b61fc-beef-11ed-9c42-02420a000140.webp",
+                "width": 600
+            },
+            {
                 "caption": "Starting the game",
                 "height": 400,
                 "image_url": "https://cdn.mobygames.com/screenshots/15789834-xlander-linux-starting-the-game.png",
@@ -3559,20 +3573,6 @@
                 "height": 400,
                 "image_url": "https://cdn.mobygames.com/screenshots/15815825-xlander-linux-flying-over-the-moonscape.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/34d9f676-beef-11ed-9c42-02420a000140.webp",
-                "width": 600
-            },
-            {
-                "caption": "A successful landing!",
-                "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/15815411-xlander-linux-a-successful-landing.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1c0b61fc-beef-11ed-9c42-02420a000140.webp",
-                "width": 600
-            },
-            {
-                "caption": "Approaching the landing pad",
-                "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/15815390-xlander-linux-approaching-the-landing-pad.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1a8205a2-beef-11ed-9c42-02420a000140.webp",
                 "width": 600
             }
         ],
@@ -3662,17 +3662,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Further still",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/9490222-xtetris-linux-further-still.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7abc603e-ac07-11ed-aeca-02420a000130.webp",
-                "width": 276
-            },
-            {
                 "caption": "Playing a game in B&W mode",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/16537098-xtetris-linux-playing-a-game-in-bw-mode.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/98ba3b6a-c237-11ed-ab6b-02420a000194.webp",
+                "width": 276
+            },
+            {
+                "caption": "Further still",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/9490222-xtetris-linux-further-still.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7abc603e-ac07-11ed-aeca-02420a000130.webp",
                 "width": 276
             },
             {
@@ -3683,17 +3683,17 @@
                 "width": 276
             },
             {
-                "caption": "Starting in B&W mode",
+                "caption": "Playing a bit further after the Tetris",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16537101-xtetris-linux-starting-in-bw-mode.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/98dac7ea-c237-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/9489450-xtetris-linux-playing-a-bit-further-after-the-tetris.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/77bc4048-ac07-11ed-87d3-02420a000134.webp",
                 "width": 276
             },
             {
-                "caption": "Main application window with no game in progress",
+                "caption": "A bit further into the game",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/9491445-xtetris-linux-main-application-window-with-no-game-in-progress.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/759c542e-ac07-11ed-80b1-02420a000133.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/9490103-xtetris-linux-a-bit-further-into-the-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/72e65c20-ac07-11ed-b7c8-02420a000136.webp",
                 "width": 276
             }
         ],
@@ -4091,13 +4091,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "A slightly smaller maze",
-                "height": 368,
-                "image_url": "https://cdn.mobygames.com/screenshots/9905230-xpacman-linux-a-slightly-smaller-maze.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/44402c30-ac0b-11ed-b351-02420a00012e.webp",
-                "width": 368
-            },
-            {
                 "caption": "A very small \"maze\"",
                 "height": 80,
                 "image_url": "https://cdn.mobygames.com/screenshots/9888984-xpacman-linux-a-very-small-maze.png",
@@ -4105,11 +4098,18 @@
                 "width": 80
             },
             {
-                "caption": "A different maze layout at the default size",
-                "height": 528,
-                "image_url": "https://cdn.mobygames.com/screenshots/9908738-xpacman-linux-a-different-maze-layout-at-the-default-size.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4e4d129c-ac0b-11ed-b950-02420a00012d.webp",
-                "width": 528
+                "caption": "A slightly smaller maze",
+                "height": 368,
+                "image_url": "https://cdn.mobygames.com/screenshots/9905230-xpacman-linux-a-slightly-smaller-maze.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/44402c30-ac0b-11ed-b351-02420a00012e.webp",
+                "width": 368
+            },
+            {
+                "caption": "A rather large maze",
+                "height": 800,
+                "image_url": "https://cdn.mobygames.com/screenshots/9905233-xpacman-linux-a-rather-large-maze.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/464f85a2-ac0b-11ed-b351-02420a00012e.webp",
+                "width": 800
             },
             {
                 "caption": "Starting the game at the default maze size",
@@ -4119,11 +4119,11 @@
                 "width": 528
             },
             {
-                "caption": "A rather large maze",
-                "height": 800,
-                "image_url": "https://cdn.mobygames.com/screenshots/9905233-xpacman-linux-a-rather-large-maze.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/464f85a2-ac0b-11ed-b351-02420a00012e.webp",
-                "width": 800
+                "caption": "A different maze layout at the default size",
+                "height": 528,
+                "image_url": "https://cdn.mobygames.com/screenshots/9908738-xpacman-linux-a-different-maze-layout-at-the-default-size.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4e4d129c-ac0b-11ed-b950-02420a00012d.webp",
+                "width": 528
             }
         ],
         "title": "XPacman"
@@ -4194,18 +4194,25 @@
         },
         "sample_screenshots": [
             {
-                "caption": "One box placed in level 1",
-                "height": 492,
-                "image_url": "https://cdn.mobygames.com/screenshots/11941061-xsok-linux-one-box-placed-in-level-1.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d84fe206-ac1c-11ed-9b47-02420a000133.webp",
-                "width": 682
-            },
-            {
                 "caption": "Sokoban levels, level 2",
                 "height": 460,
                 "image_url": "https://cdn.mobygames.com/screenshots/11941058-xsok-linux-sokoban-levels-level-2.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/d7b35788-ac1c-11ed-9b47-02420a000133.webp",
                 "width": 522
+            },
+            {
+                "caption": "Cyberbox levels, level 1",
+                "height": 556,
+                "image_url": "https://cdn.mobygames.com/screenshots/11946326-xsok-linux-cyberbox-levels-level-1.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e93bd7aa-ac1c-11ed-b013-02420a00012e.webp",
+                "width": 618
+            },
+            {
+                "caption": "First level in the xsok level set.",
+                "height": 460,
+                "image_url": "https://cdn.mobygames.com/screenshots/6050871-xsok-linux-first-level-in-the-xsok-level-set.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7314ed18-abeb-11ed-9eb0-02420a000136.webp",
+                "width": 746
             },
             {
                 "caption": "Start of the Sokoban levels",
@@ -4220,13 +4227,6 @@
                 "image_url": "https://cdn.mobygames.com/screenshots/6050874-xsok-linux-a-later-level-in-the-xsok-level-set.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/73fc4992-abeb-11ed-9eb0-02420a000136.webp",
                 "width": 938
-            },
-            {
-                "caption": "A later level in the Cyberbox level set",
-                "height": 556,
-                "image_url": "https://cdn.mobygames.com/screenshots/11955689-xsok-linux-a-later-level-in-the-cyberbox-level-set.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d85bc116-ac1c-11ed-bbce-02420a000133.webp",
-                "width": 618
             }
         ],
         "title": "xsok"
@@ -4315,39 +4315,39 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Monte Carlo",
-                "height": 768,
-                "image_url": "https://cdn.mobygames.com/screenshots/12360399-xpat2-linux-monte-carlo.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/85fb62ce-ac20-11ed-b4f3-02420a000135.webp",
-                "width": 678
-            },
-            {
-                "caption": "Michael's Fantasy, which was invented to test slot rotation features in this specific collection",
-                "height": 575,
-                "image_url": "https://cdn.mobygames.com/screenshots/10175385-xpat2-linux-michaels-fantasy-which-was-invented-to-test-slot-rot.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d13eae48-ac0d-11ed-a484-02420a000130.webp",
-                "width": 788
-            },
-            {
-                "caption": "Klondike is included, of course",
+                "caption": "Several card reverse images are included, and selected randomly on startup",
                 "height": 588,
-                "image_url": "https://cdn.mobygames.com/screenshots/12360411-xpat2-linux-klondike-is-included-of-course.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/88811c32-ac20-11ed-b4f3-02420a000135.webp",
-                "width": 678
+                "image_url": "https://cdn.mobygames.com/screenshots/12360393-xpat2-linux-several-card-reverse-images-are-included-and-selecte.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/85295fcc-ac20-11ed-b4f3-02420a000135.webp",
+                "width": 595
             },
             {
-                "caption": "Baker's Dozen",
-                "height": 655,
-                "image_url": "https://cdn.mobygames.com/screenshots/10175391-xpat2-linux-bakers-dozen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d257bff4-ac0d-11ed-a484-02420a000130.webp",
-                "width": 734
+                "caption": "Royal Cotillion",
+                "height": 650,
+                "image_url": "https://cdn.mobygames.com/screenshots/10175388-xpat2-linux-royal-cotillion.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d1d35da4-ac0d-11ed-a484-02420a000130.webp",
+                "width": 741
             },
             {
-                "caption": "Canfield",
-                "height": 557,
-                "image_url": "https://cdn.mobygames.com/screenshots/10175382-xpat2-linux-canfield.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d0adec0a-ac0d-11ed-a484-02420a000130.webp",
-                "width": 564
+                "caption": "Blue Moon",
+                "height": 614,
+                "image_url": "https://cdn.mobygames.com/screenshots/12360417-xpat2-linux-blue-moon.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8a311d02-ac20-11ed-b4f3-02420a000135.webp",
+                "width": 1200
+            },
+            {
+                "caption": "The hint system provides a clear indication of an available valid move, without performing it on your behalf",
+                "height": 597,
+                "image_url": "https://cdn.mobygames.com/screenshots/12360396-xpat2-linux-the-hint-system-provides-a-clear-indication-of-an-av.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/85899afe-ac20-11ed-b4f3-02420a000135.webp",
+                "width": 615
+            },
+            {
+                "caption": "Modified Canfield",
+                "height": 519,
+                "image_url": "https://cdn.mobygames.com/screenshots/10164294-xpat2-linux-modified-canfield.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b9cacc06-ac0d-11ed-833b-02420a000131.webp",
+                "width": 604
             }
         ],
         "title": "XPat2"
@@ -4418,11 +4418,25 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Stepped on another mine",
+                "caption": "A bit further in the intermediate game",
                 "height": 394,
-                "image_url": "https://cdn.mobygames.com/screenshots/12357614-xmine-linux-stepped-on-another-mine.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/85753712-ac20-11ed-ad33-02420a00012d.webp",
-                "width": 522
+                "image_url": "https://cdn.mobygames.com/screenshots/11776199-xmine-linux-a-bit-further-in-the-intermediate-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/780a92f2-ac1b-11ed-9584-02420a000136.webp",
+                "width": 298
+            },
+            {
+                "caption": "Starting a blank beginner game",
+                "height": 266,
+                "image_url": "https://cdn.mobygames.com/screenshots/12357620-xmine-linux-starting-a-blank-beginner-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/85c6ef80-ac20-11ed-ad33-02420a00012d.webp",
+                "width": 170
+            },
+            {
+                "caption": "Testing a region of the board and flagging a couple mines",
+                "height": 266,
+                "image_url": "https://cdn.mobygames.com/screenshots/12357617-xmine-linux-testing-a-region-of-the-board-and-flagging-a-couple-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/85a24e00-ac20-11ed-ad33-02420a00012d.webp",
+                "width": 170
             },
             {
                 "caption": "Starting the advanced game",
@@ -4436,20 +4450,6 @@
                 "height": 266,
                 "image_url": "https://cdn.mobygames.com/screenshots/11774889-xmine-linux-accidentally-stepped-on-a-mine.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/728622b0-ac1b-11ed-a631-02420a000135.webp",
-                "width": 170
-            },
-            {
-                "caption": "Starting the intermediate game",
-                "height": 394,
-                "image_url": "https://cdn.mobygames.com/screenshots/11776202-xmine-linux-starting-the-intermediate-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/78948b74-ac1b-11ed-9584-02420a000136.webp",
-                "width": 298
-            },
-            {
-                "caption": "Starting a blank beginner game",
-                "height": 266,
-                "image_url": "https://cdn.mobygames.com/screenshots/12357620-xmine-linux-starting-a-blank-beginner-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/85c6ef80-ac20-11ed-ad33-02420a00012d.webp",
                 "width": 170
             }
         ],
@@ -4546,17 +4546,17 @@
                 "width": 460
             },
             {
-                "caption": "The computer won again",
-                "height": 340,
-                "image_url": "https://cdn.mobygames.com/screenshots/11787180-xvier-linux-the-computer-won-again.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9860c436-ac1b-11ed-a7ec-02420a000134.webp",
-                "width": 460
-            },
-            {
                 "caption": "A rather symmetric second game",
                 "height": 340,
                 "image_url": "https://cdn.mobygames.com/screenshots/11786042-xvier-linux-a-rather-symmetric-second-game.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/936886d0-ac1b-11ed-96e1-02420a00012d.webp",
+                "width": 460
+            },
+            {
+                "caption": "The computer won again",
+                "height": 340,
+                "image_url": "https://cdn.mobygames.com/screenshots/11787180-xvier-linux-the-computer-won-again.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9860c436-ac1b-11ed-a7ec-02420a000134.webp",
                 "width": 460
             },
             {
@@ -4665,18 +4665,25 @@
         },
         "sample_screenshots": [
             {
-                "caption": "I think I'm just about out of moves",
-                "height": 778,
-                "image_url": "https://cdn.mobygames.com/screenshots/16848509-mahjongg-linux-i-think-im-just-about-out-of-moves.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bb68275e-c3a3-11ed-9226-02420a000121.webp",
-                "width": 1002
+                "caption": "Removing a couple tiles",
+                "height": 644,
+                "image_url": "https://cdn.mobygames.com/screenshots/12361303-mahjongg-linux-removing-a-couple-tiles.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8a472d04-ac20-11ed-8a97-02420a00012d.webp",
+                "width": 1016
             },
             {
-                "caption": "Starting with the default layout and tileset",
-                "height": 644,
-                "image_url": "https://cdn.mobygames.com/screenshots/12361300-mahjongg-linux-starting-with-the-default-layout-and-tileset.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/88fab286-ac20-11ed-8a97-02420a00012d.webp",
-                "width": 1016
+                "caption": "Starting a new game on version 2.0",
+                "height": 779,
+                "image_url": "https://cdn.mobygames.com/screenshots/16848500-mahjongg-linux-starting-a-new-game-on-version-20.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bac49ae4-c3a3-11ed-9226-02420a000121.webp",
+                "width": 1003
+            },
+            {
+                "caption": "Selecting the Horse layout with the thick tileset",
+                "height": 640,
+                "image_url": "https://cdn.mobygames.com/screenshots/11808703-mahjongg-linux-selecting-the-horse-layout-with-the-thick-tileset.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cafaea66-ac1b-11ed-ad33-02420a00012d.webp",
+                "width": 1012
             },
             {
                 "caption": "Removing some tiles",
@@ -4686,18 +4693,11 @@
                 "width": 1002
             },
             {
-                "caption": "Removing more tiles",
-                "height": 644,
-                "image_url": "https://cdn.mobygames.com/screenshots/12361306-mahjongg-linux-removing-more-tiles.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8b208a0e-ac20-11ed-8a97-02420a00012d.webp",
-                "width": 1016
-            },
-            {
-                "caption": "Removing a couple tiles",
-                "height": 644,
-                "image_url": "https://cdn.mobygames.com/screenshots/12361303-mahjongg-linux-removing-a-couple-tiles.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8a472d04-ac20-11ed-8a97-02420a00012d.webp",
-                "width": 1016
+                "caption": "Selecting the Ox layout with Dorothy's tileset",
+                "height": 694,
+                "image_url": "https://cdn.mobygames.com/screenshots/12361309-mahjongg-linux-selecting-the-ox-layout-with-dorothys-tileset.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8c157d52-ac20-11ed-8a97-02420a00012d.webp",
+                "width": 814
             }
         ],
         "title": "Mahjongg"
@@ -4786,24 +4786,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "A new, fresh game",
-                "height": 490,
-                "image_url": "https://cdn.mobygames.com/screenshots/12243312-x-solitaire-linux-a-new-fresh-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/926f1024-ac1f-11ed-941d-02420a000132.webp",
-                "width": 700
-            },
-            {
-                "caption": "Almost won this game",
-                "height": 490,
-                "image_url": "https://cdn.mobygames.com/screenshots/12371087-x-solitaire-linux-almost-won-this-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a2609592-ac20-11ed-8d2f-02420a00012e.webp",
-                "width": 700
-            },
-            {
                 "caption": "A game in progress",
                 "height": 490,
                 "image_url": "https://cdn.mobygames.com/screenshots/12371084-x-solitaire-linux-a-game-in-progress.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/a1edd66a-ac20-11ed-8d2f-02420a00012e.webp",
+                "width": 700
+            },
+            {
+                "caption": "A new, fresh game",
+                "height": 490,
+                "image_url": "https://cdn.mobygames.com/screenshots/12243312-x-solitaire-linux-a-new-fresh-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/926f1024-ac1f-11ed-941d-02420a000132.webp",
                 "width": 700
             },
             {
@@ -4818,6 +4811,13 @@
                 "height": 490,
                 "image_url": "https://cdn.mobygames.com/screenshots/12370556-x-solitaire-linux-and-all-cards-are-now-in-the-foundation-since-.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/9c43dc5a-ac20-11ed-8ce3-02420a000131.webp",
+                "width": 700
+            },
+            {
+                "caption": "Almost won this game",
+                "height": 490,
+                "image_url": "https://cdn.mobygames.com/screenshots/12371087-x-solitaire-linux-almost-won-this-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a2609592-ac20-11ed-8d2f-02420a00012e.webp",
                 "width": 700
             }
         ],
@@ -4925,32 +4925,11 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Playing Minesweeper on a medium board",
-                "height": 461,
-                "image_url": "https://cdn.mobygames.com/screenshots/12317703-the-ace-of-penguins-linux-playing-minesweeper-on-a-medium-board.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2eaa7212-ac20-11ed-b351-02420a00012e.webp",
-                "width": 405
-            },
-            {
-                "caption": "A different Pegged layout",
-                "height": 354,
-                "image_url": "https://cdn.mobygames.com/screenshots/12316743-the-ace-of-penguins-linux-a-different-pegged-layout.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2de5315a-ac20-11ed-a631-02420a000135.webp",
-                "width": 324
-            },
-            {
-                "caption": "Showing the help screen for Mastermind",
-                "height": 255,
-                "image_url": "https://cdn.mobygames.com/screenshots/12316752-the-ace-of-penguins-linux-showing-the-help-screen-for-mastermind.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2e7ede40-ac20-11ed-a631-02420a000135.webp",
-                "width": 262
-            },
-            {
-                "caption": "Freecell after a few cards have been moved",
-                "height": 514,
-                "image_url": "https://cdn.mobygames.com/screenshots/12316755-the-ace-of-penguins-linux-freecell-after-a-few-cards-have-been-m.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2ef0b9ac-ac20-11ed-a631-02420a000135.webp",
-                "width": 644
+                "caption": "Solitaire after some moves",
+                "height": 523,
+                "image_url": "https://cdn.mobygames.com/screenshots/12319255-the-ace-of-penguins-linux-solitaire-after-some-moves.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/325664c0-ac20-11ed-9941-02420a000133.webp",
+                "width": 563
             },
             {
                 "caption": "Playing a different Taipei layout",
@@ -4958,6 +4937,27 @@
                 "image_url": "https://cdn.mobygames.com/screenshots/12316731-the-ace-of-penguins-linux-playing-a-different-taipei-layout.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/2ca23de2-ac20-11ed-a631-02420a000135.webp",
                 "width": 578
+            },
+            {
+                "caption": "Playing Spider solitaire in one-suit mode",
+                "height": 634,
+                "image_url": "https://cdn.mobygames.com/screenshots/12316927-the-ace-of-penguins-linux-playing-spider-solitaire-in-one-suit-m.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/304519ce-ac20-11ed-803a-02420a000131.webp",
+                "width": 800
+            },
+            {
+                "caption": "A new game of Pegged on the default layout",
+                "height": 354,
+                "image_url": "https://cdn.mobygames.com/screenshots/12316749-the-ace-of-penguins-linux-a-new-game-of-pegged-on-the-default-la.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2e57308e-ac20-11ed-a631-02420a000135.webp",
+                "width": 324
+            },
+            {
+                "caption": "Playing Freecell",
+                "height": 514,
+                "image_url": "https://cdn.mobygames.com/screenshots/12317934-the-ace-of-penguins-linux-playing-freecell.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2bb41bf8-ac20-11ed-bdca-02420a000133.webp",
+                "width": 644
             }
         ],
         "title": "The Ace of Penguins"
@@ -5062,6 +5062,13 @@
                 "width": 1200
             },
             {
+                "caption": "After starting the game, the tiles are shuffled",
+                "height": 668,
+                "image_url": "https://cdn.mobygames.com/screenshots/12337602-xshisen-linux-after-starting-the-game-the-tiles-are-shuffled.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5bc7bb42-ac20-11ed-897b-02420a00012d.webp",
+                "width": 844
+            },
+            {
                 "caption": "At the start of the game, all tiles are displayed in a sorted format. This is the Regular layout.",
                 "height": 668,
                 "image_url": "https://cdn.mobygames.com/screenshots/12337599-xshisen-linux-at-the-start-of-the-game-all-tiles-are-displayed-i.png",
@@ -5074,13 +5081,6 @@
                 "image_url": "https://cdn.mobygames.com/screenshots/12372589-xshisen-linux-a-separate-game-on-the-large-layout-this-time-grav.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/a2d5dc3a-ac20-11ed-9941-02420a000133.webp",
                 "width": 974
-            },
-            {
-                "caption": "After starting the game, the tiles are shuffled",
-                "height": 668,
-                "image_url": "https://cdn.mobygames.com/screenshots/12337602-xshisen-linux-after-starting-the-game-the-tiles-are-shuffled.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5bc7bb42-ac20-11ed-897b-02420a00012d.webp",
-                "width": 844
             },
             {
                 "caption": "After removing a few tiles, without gravity enabled. Note the blue line drawn to show the three segments connecting the selected tiles.",
@@ -5190,18 +5190,18 @@
                 "width": 311
             },
             {
-                "caption": "The in-game help includes a handy diagram of suits and rankings for Hanafuda cards",
-                "height": 567,
-                "image_url": "https://cdn.mobygames.com/screenshots/16840998-oonsoo-linux-the-in-game-help-includes-a-handy-diagram-of-suits-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cf925cfc-c3a0-11ed-9226-02420a000121.webp",
-                "width": 914
-            },
-            {
                 "caption": "The same game, after sorting a few cards and dealing another row of cards",
                 "height": 600,
                 "image_url": "https://cdn.mobygames.com/screenshots/16841001-oonsoo-linux-the-same-game-after-sorting-a-few-cards-and-dealing.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/cfb7d612-c3a0-11ed-9226-02420a000121.webp",
                 "width": 800
+            },
+            {
+                "caption": "The in-game help includes a handy diagram of suits and rankings for Hanafuda cards",
+                "height": 567,
+                "image_url": "https://cdn.mobygames.com/screenshots/16840998-oonsoo-linux-the-in-game-help-includes-a-handy-diagram-of-suits-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cf925cfc-c3a0-11ed-9226-02420a000121.webp",
+                "width": 914
             }
         ],
         "title": "Oonsoo"
@@ -5335,10 +5335,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Start of a game",
+                "caption": "The race is in progress. I have reached 300 kilometers, while the computer is at 250.",
                 "height": 800,
-                "image_url": "https://cdn.mobygames.com/screenshots/12348995-xmille-linux-start-of-a-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7481f472-ac20-11ed-9b47-02420a000133.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/12348992-xmille-linux-the-race-is-in-progress-i-have-reached-300-kilomete.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/737f298c-ac20-11ed-9b47-02420a000133.webp",
                 "width": 933
             },
             {
@@ -5356,10 +5356,10 @@
                 "width": 933
             },
             {
-                "caption": "The race is in progress. I have reached 300 kilometers, while the computer is at 250.",
+                "caption": "Start of a game",
                 "height": 800,
-                "image_url": "https://cdn.mobygames.com/screenshots/12348992-xmille-linux-the-race-is-in-progress-i-have-reached-300-kilomete.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/737f298c-ac20-11ed-9b47-02420a000133.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/12348995-xmille-linux-start-of-a-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7481f472-ac20-11ed-9b47-02420a000133.webp",
                 "width": 933
             }
         ],
@@ -5449,13 +5449,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Organized a few cards, and started one ace on the foundation.",
-                "height": 526,
-                "image_url": "https://cdn.mobygames.com/screenshots/16846251-xsol-linux-organized-a-few-cards-and-started-one-ace-on-the-foun.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/dba58c4c-c3a2-11ed-9226-02420a000121.webp",
-                "width": 362
-            },
-            {
                 "caption": "The end state for my game. The deck has been exhausted, and no more moves are available.",
                 "height": 526,
                 "image_url": "https://cdn.mobygames.com/screenshots/16846248-xsol-linux-the-end-state-for-my-game-the-deck-has-been-exhausted.png",
@@ -5467,6 +5460,13 @@
                 "height": 526,
                 "image_url": "https://cdn.mobygames.com/screenshots/16846254-xsol-linux-starting-a-game.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/dbbe37ba-c3a2-11ed-9226-02420a000121.webp",
+                "width": 362
+            },
+            {
+                "caption": "Organized a few cards, and started one ace on the foundation.",
+                "height": 526,
+                "image_url": "https://cdn.mobygames.com/screenshots/16846251-xsol-linux-organized-a-few-cards-and-started-one-ace-on-the-foun.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dba58c4c-c3a2-11ed-9226-02420a000121.webp",
                 "width": 362
             }
         ],

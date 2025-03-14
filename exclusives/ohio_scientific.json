@@ -74,20 +74,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title with instructions",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16004879-seawolfe-ohio-scientific-title-with-instructions.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9b094638-bf29-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Getting a score",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16004852-seawolfe-ohio-scientific-getting-a-score.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/97facb74-bf29-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
                 "caption": "Shooting two torpedoes towards a boat",
                 "height": 256,
                 "image_url": "https://cdn.mobygames.com/screenshots/16004942-seawolfe-ohio-scientific-shooting-two-torpedoes-towards-a-boat.png",
@@ -99,6 +85,20 @@
                 "height": 256,
                 "image_url": "https://cdn.mobygames.com/screenshots/16004867-seawolfe-ohio-scientific-starting-out.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/9a8dd138-bf29-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Getting a score",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16004852-seawolfe-ohio-scientific-getting-a-score.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/97facb74-bf29-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Title with instructions",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16004879-seawolfe-ohio-scientific-title-with-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9b094638-bf29-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -202,6 +202,13 @@
                 "width": 512
             },
             {
+                "caption": "Game over",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16006691-invaders-ohio-scientific-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5c13842e-bf2a-11ed-9c42-02420a000140.webp",
+                "width": 512
+            },
+            {
                 "caption": "Starting out",
                 "height": 256,
                 "image_url": "https://cdn.mobygames.com/screenshots/16006784-invaders-ohio-scientific-starting-out.png",
@@ -213,13 +220,6 @@
                 "height": 256,
                 "image_url": "https://cdn.mobygames.com/screenshots/16006745-invaders-ohio-scientific-blasting-some-aliens.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/631f86dc-bf2a-11ed-9c42-02420a000140.webp",
-                "width": 512
-            },
-            {
-                "caption": "Getting killed",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16006763-invaders-ohio-scientific-getting-killed.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6431731e-bf2a-11ed-9c42-02420a000140.webp",
                 "width": 512
             }
         ],
@@ -300,38 +300,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Hole 12",
+                "caption": "Hole 17",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16007981-golf-challenger-ohio-scientific-hole-12.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d0703bfa-bf2a-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16007906-golf-challenger-ohio-scientific-hole-17.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c9c1a1d6-bf2a-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "Hole 9",
+                "caption": "Hole 1",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16007663-golf-challenger-ohio-scientific-hole-9.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b33433f2-bf2a-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16007846-golf-challenger-ohio-scientific-hole-1.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c1e4dd20-bf2a-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "Hole 6",
+                "caption": "Hole 2",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16007726-golf-challenger-ohio-scientific-hole-6.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b7dd085c-bf2a-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16007831-golf-challenger-ohio-scientific-hole-2.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c05a1556-bf2a-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "Title screen",
+                "caption": "Hole 8",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16007861-golf-challenger-ohio-scientific-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c2af2a44-bf2a-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16007684-golf-challenger-ohio-scientific-hole-8.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b539cae0-bf2a-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "Hole 4",
+                "caption": "Hole 18",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16007774-golf-challenger-ohio-scientific-hole-4.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bb158710-bf2a-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16007879-golf-challenger-ohio-scientific-hole-18.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c53f8c9a-bf2a-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -428,6 +428,20 @@
                 "width": 256
             },
             {
+                "caption": "A game with bumpers",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/15898005-breakthru-ohio-scientific-a-game-with-bumpers.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/986489d6-bf08-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Instructions",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/15898260-breakthru-ohio-scientific-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b74a9106-bf08-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
                 "caption": "Last ball",
                 "height": 256,
                 "image_url": "https://cdn.mobygames.com/screenshots/15898047-breakthru-ohio-scientific-last-ball.png",
@@ -435,24 +449,10 @@
                 "width": 256
             },
             {
-                "caption": "Starting out",
+                "caption": "Game over",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/15898083-breakthru-ohio-scientific-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a02cde48-bf08-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Breaking some bricks",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/15898128-breakthru-ohio-scientific-breaking-some-bricks.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a3cd8e9e-bf08-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "A game with bumpers",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/15898005-breakthru-ohio-scientific-a-game-with-bumpers.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/986489d6-bf08-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15898029-breakthru-ohio-scientific-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9a340890-bf08-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -524,10 +524,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Tank 1 wins!",
+                "caption": "Title screen",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16209523-tank-for-two-ohio-scientific-tank-1-wins.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c5c61954-c1d2-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16209538-tank-for-two-ohio-scientific-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c6321500-c1d2-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Instructions",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16209535-tank-for-two-ohio-scientific-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c61e1f1e-c1d2-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -538,10 +545,10 @@
                 "width": 256
             },
             {
-                "caption": "One tanks fires at another",
+                "caption": "Tank 1 wins!",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16209529-tank-for-two-ohio-scientific-one-tanks-fires-at-another.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c5f31094-c1d2-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16209523-tank-for-two-ohio-scientific-tank-1-wins.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c5c61954-c1d2-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -549,13 +556,6 @@
                 "height": 256,
                 "image_url": "https://cdn.mobygames.com/screenshots/16209532-tank-for-two-ohio-scientific-start-of-game.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/c606b662-c1d2-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Instructions",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16209535-tank-for-two-ohio-scientific-instructions.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c61e1f1e-c1d2-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -636,17 +636,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "AI makes the first move",
+                "caption": "Launching the game",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16404296-backgammon-ohio-scientific-ai-makes-the-first-move.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/205c70d2-c211-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Moving from M to P",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16404293-backgammon-ohio-scientific-moving-from-m-to-p.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2045434e-c211-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16404269-backgammon-ohio-scientific-launching-the-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1f32a9b0-c211-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -664,10 +657,17 @@
                 "width": 256
             },
             {
-                "caption": "Launching the game",
+                "caption": "AI makes the first move",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16404269-backgammon-ohio-scientific-launching-the-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1f32a9b0-c211-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16404296-backgammon-ohio-scientific-ai-makes-the-first-move.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/205c70d2-c211-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Moving from M to P",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16404293-backgammon-ohio-scientific-moving-from-m-to-p.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2045434e-c211-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -952,17 +952,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Protagonist's gun shot",
+                "caption": "In-game instructions",
                 "height": 768,
-                "image_url": "https://cdn.mobygames.com/screenshots/18160731-star-wars-ohio-scientific-protagonists-gun-shot.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a177434c-bb8d-11ee-888e-02420a0001bc.webp",
-                "width": 768
-            },
-            {
-                "caption": "The enemy is firing",
-                "height": 768,
-                "image_url": "https://cdn.mobygames.com/screenshots/18160727-star-wars-ohio-scientific-the-enemy-is-firing.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9fec1692-bb8d-11ee-8dd1-02420a0001b9.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/18160719-star-wars-ohio-scientific-in-game-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/703adca8-bb8d-11ee-b935-02420a0001bc.webp",
                 "width": 768
             },
             {
@@ -973,10 +966,10 @@
                 "width": 768
             },
             {
-                "caption": "Win screen",
+                "caption": "Protagonist's gun shot",
                 "height": 768,
-                "image_url": "https://cdn.mobygames.com/screenshots/18160743-star-wars-ohio-scientific-win-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a491ea5a-bb8d-11ee-be3f-02420a0001b8.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/18160731-star-wars-ohio-scientific-protagonists-gun-shot.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a177434c-bb8d-11ee-888e-02420a0001bc.webp",
                 "width": 768
             },
             {
@@ -984,6 +977,13 @@
                 "height": 768,
                 "image_url": "https://cdn.mobygames.com/screenshots/18160735-star-wars-ohio-scientific-protagonists-gun-explosion.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/a2ae5b74-bb8d-11ee-be3f-02420a0001b8.webp",
+                "width": 768
+            },
+            {
+                "caption": "Win screen",
+                "height": 768,
+                "image_url": "https://cdn.mobygames.com/screenshots/18160743-star-wars-ohio-scientific-win-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a491ea5a-bb8d-11ee-be3f-02420a0001b8.webp",
                 "width": 768
             }
         ],
@@ -2228,7 +2228,7 @@
     },
     {
         "alternate_titles": [],
-        "description": "<p><em>Game Disk 2</em> is a compilation of seven arcade games for the Ohio Scientific CP4 and CP8. The games are:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/search/?q=Sketch\">Sketch</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Racer\">Racer</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Destroyer\">Destroyer</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Lander\">Lander</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Hide+'n+Seek\">Hide 'n Seek</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Bomber\">Bomber</a></li>\n<li><a href=\"https://www.mobygames.com/game/34552/tiger-tank/\">Tiger Tank</a></li>\n</ul>",
+        "description": "<p><em>Game Disk 2</em> is a compilation of seven arcade games for the Ohio Scientific CP4 and CP8. The games are:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/search/?q=Sketch\">Sketch</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Racer\">Racer</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Destroyer\">Destroyer</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Lander\">Lander</a></li>\n<li><a href=\"https://www.mobygames.com/game/226676/hide-n-seek/\">Hide 'n Seek</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Bomber\">Bomber</a></li>\n<li><a href=\"https://www.mobygames.com/game/34552/tiger-tank/\">Tiger Tank</a></li>\n</ul>",
         "genres": [
             {
                 "category": {
@@ -3160,7 +3160,7 @@
     },
     {
         "alternate_titles": [],
-        "description": "<p><em>Awari</em> is traditional African board game for two players. In turns players can pick up seeds in one of the \"houses\" in their control. Seeds that are picked up have to be redistributed by placing one in each adjacent house in counter-clockwise fashion. If the final seed falls in the player's scoring house the player is awarded an additional turn. If the final seed falls into an empty house owned by the player, that seed and any seeds in the opposing house are added to the scoring house of the player. The game ends when one player no longer has any seeds in his houses. The player with the most seeds in his scoring house wins.</p>",
+        "description": "<p><em>Awari</em> is a traditional African board game for two players. In turns players can pick up seeds in one of the \"houses\" in their control. Seeds that are picked up have to be redistributed by placing one in each adjacent house in counter-clockwise fashion. If the final seed falls in the player's scoring house the player is awarded an additional turn. If the final seed falls into an empty house owned by the player, that seed and any seeds in the opposing house are added to the scoring house of the player. The game ends when one player no longer has any seeds left. The player with the most seeds in a scoring house wins.</p>",
         "genres": [
             {
                 "category": {
@@ -4568,20 +4568,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The invaders are persistent. Inevitably your ground installations are taken out one by one.",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18771074-interceptor-ohio-scientific-the-invaders-are-persistent-inevitab.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/40dd3cc6-28e8-11ef-859a-02420a0001c3.webp",
-                "width": 512
-            },
-            {
-                "caption": "Your vessel can move towards 8 different directions.",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18771059-interceptor-ohio-scientific-your-vessel-can-move-towards-8-diffe.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0b12e000-28e8-11ef-9cd8-02420a0001c6.webp",
-                "width": 512
-            },
-            {
                 "caption": "The arrow-shaped thingy is your fighter aircraft.",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/18771043-interceptor-ohio-scientific-the-arrow-shaped-thingy-is-your-figh.jpg",
@@ -4593,6 +4579,20 @@
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/18771063-interceptor-ohio-scientific-got-some-bonus-points.jpg",
                 "thumbnail_image_url": "https://cdn.mobygames.com/2c21f7e0-28e8-11ef-87ce-02420a0001c2.webp",
+                "width": 512
+            },
+            {
+                "caption": "Your vessel can move towards 8 different directions.",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18771059-interceptor-ohio-scientific-your-vessel-can-move-towards-8-diffe.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0b12e000-28e8-11ef-9cd8-02420a0001c6.webp",
+                "width": 512
+            },
+            {
+                "caption": "The invaders are persistent. Inevitably your ground installations are taken out one by one.",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18771074-interceptor-ohio-scientific-the-invaders-are-persistent-inevitab.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/40dd3cc6-28e8-11ef-859a-02420a0001c3.webp",
                 "width": 512
             },
             {

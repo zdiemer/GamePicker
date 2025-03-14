@@ -83,17 +83,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Playing",
+                "caption": "Menu",
                 "height": 250,
-                "image_url": "https://cdn.mobygames.com/screenshots/16168417-tetris-philips-vg-5000-playing.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/de2e1aa8-c1c5-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16168414-tetris-philips-vg-5000-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/de1481c4-c1c5-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
                 "caption": "Playing",
                 "height": 250,
-                "image_url": "https://cdn.mobygames.com/screenshots/16168411-tetris-philips-vg-5000-playing.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ddfe43e6-c1c5-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16168417-tetris-philips-vg-5000-playing.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/de2e1aa8-c1c5-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
@@ -104,17 +104,17 @@
                 "width": 320
             },
             {
+                "caption": "Instructions",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/16168405-tetris-philips-vg-5000-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ddc8d6ca-c1c5-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
                 "caption": "Game over",
                 "height": 250,
                 "image_url": "https://cdn.mobygames.com/screenshots/16168420-tetris-philips-vg-5000-game-over.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/de47cb9c-c1c5-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
-                "caption": "Menu",
-                "height": 250,
-                "image_url": "https://cdn.mobygames.com/screenshots/16168414-tetris-philips-vg-5000-menu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/de1481c4-c1c5-11ed-ab6b-02420a000194.webp",
                 "width": 320
             }
         ],
@@ -186,10 +186,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Almost done",
+                "caption": "Level 2",
                 "height": 250,
-                "image_url": "https://cdn.mobygames.com/screenshots/16357742-sokoban-philips-vg-5000-almost-done.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/28b1c7b8-c203-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16169293-sokoban-philips-vg-5000-level-2.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2916ab7a-c1c6-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
@@ -200,6 +200,13 @@
                 "width": 320
             },
             {
+                "caption": "Almost done",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/16357742-sokoban-philips-vg-5000-almost-done.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/28b1c7b8-c203-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
                 "caption": "Level 3",
                 "height": 250,
                 "image_url": "https://cdn.mobygames.com/screenshots/16169281-sokoban-philips-vg-5000-level-3.png",
@@ -207,17 +214,10 @@
                 "width": 320
             },
             {
-                "caption": "Almost done",
+                "caption": "Level 1",
                 "height": 250,
-                "image_url": "https://cdn.mobygames.com/screenshots/16169290-sokoban-philips-vg-5000-almost-done.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/283c687a-c1c6-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
-                "caption": "Level 2",
-                "height": 250,
-                "image_url": "https://cdn.mobygames.com/screenshots/16169293-sokoban-philips-vg-5000-level-2.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2916ab7a-c1c6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16169284-sokoban-philips-vg-5000-level-1.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2805cd4c-c1c6-11ed-ab6b-02420a000194.webp",
                 "width": 320
             }
         ],
@@ -233,26 +233,8 @@
                     "name": "Basic Genres"
                 },
                 "description": null,
-                "id": 1,
-                "name": "Action"
-            },
-            {
-                "category": {
-                    "id": 1,
-                    "name": "Basic Genres"
-                },
-                "description": null,
                 "id": 6,
                 "name": "Racing / Driving"
-            },
-            {
-                "category": {
-                    "id": 1,
-                    "name": "Basic Genres"
-                },
-                "description": null,
-                "id": 5,
-                "name": "Sports"
             },
             {
                 "category": {
@@ -262,6 +244,24 @@
                 "description": null,
                 "id": 7,
                 "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 15,
+                "name": "Real-time"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
             },
             {
                 "category": {
@@ -298,6 +298,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Gameplay",
+                "height": 270,
+                "image_url": "https://cdn.mobygames.com/screenshots/7002787-la-moto-infernale-scarfinger-philips-vg-5000-gameplay.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/edaf8126-abf2-11ed-9f52-02420a000130.webp",
+                "width": 336
+            },
+            {
                 "caption": "Loading screen",
                 "height": 270,
                 "image_url": "https://cdn.mobygames.com/screenshots/7003842-la-moto-infernale-scarfinger-philips-vg-5000-loading-screen.png",
@@ -309,13 +316,6 @@
                 "height": 270,
                 "image_url": "https://cdn.mobygames.com/screenshots/7003845-la-moto-infernale-scarfinger-philips-vg-5000-game-mode-selection.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/f2c13524-abf2-11ed-83f5-02420a000134.webp",
-                "width": 336
-            },
-            {
-                "caption": "Gameplay",
-                "height": 270,
-                "image_url": "https://cdn.mobygames.com/screenshots/7002787-la-moto-infernale-scarfinger-philips-vg-5000-gameplay.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/edaf8126-abf2-11ed-9f52-02420a000130.webp",
                 "width": 336
             }
         ],
@@ -369,17 +369,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Loading screen",
-                "height": 250,
-                "image_url": "https://cdn.mobygames.com/screenshots/15649057-labeille-philips-vg-5000-loading-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/833c18da-bdf0-11ed-b791-02420a0001bb.webp",
-                "width": 320
-            },
-            {
                 "caption": "Gameplay",
                 "height": 250,
                 "image_url": "https://cdn.mobygames.com/screenshots/15649204-labeille-philips-vg-5000-gameplay.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/8fdb8030-bdf0-11ed-b791-02420a0001bb.webp",
+                "width": 320
+            },
+            {
+                "caption": "Loading screen",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/15649057-labeille-philips-vg-5000-loading-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/833c18da-bdf0-11ed-b791-02420a0001bb.webp",
                 "width": 320
             },
             {
@@ -458,17 +458,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Loading screen",
-                "height": 270,
-                "image_url": "https://cdn.mobygames.com/screenshots/7023391-backgammon-philips-vg-5000-loading-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1b0b0ee2-abf3-11ed-83c1-02420a000131.webp",
-                "width": 336
-            },
-            {
                 "caption": "Gameplay",
                 "height": 270,
                 "image_url": "https://cdn.mobygames.com/screenshots/7023388-backgammon-philips-vg-5000-gameplay.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/1adb6250-abf3-11ed-83c1-02420a000131.webp",
+                "width": 336
+            },
+            {
+                "caption": "Game mode selection screen",
+                "height": 270,
+                "image_url": "https://cdn.mobygames.com/screenshots/7023385-backgammon-philips-vg-5000-game-mode-selection-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1aa9edf6-abf3-11ed-83c1-02420a000131.webp",
                 "width": 336
             },
             {
@@ -479,10 +479,10 @@
                 "width": 336
             },
             {
-                "caption": "Game mode selection screen",
+                "caption": "Loading screen",
                 "height": 270,
-                "image_url": "https://cdn.mobygames.com/screenshots/7023385-backgammon-philips-vg-5000-game-mode-selection-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1aa9edf6-abf3-11ed-83c1-02420a000131.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/7023391-backgammon-philips-vg-5000-loading-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1b0b0ee2-abf3-11ed-83c1-02420a000131.webp",
                 "width": 336
             }
         ],
@@ -609,17 +609,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "A swarm of enemies are ahead!",
+                "caption": "Enemies, oil tanks, and rockets",
                 "height": 270,
-                "image_url": "https://cdn.mobygames.com/screenshots/6546930-staroc-philips-vg-5000-a-swarm-of-enemies-are-ahead.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/527c498a-abef-11ed-9584-02420a000136.webp",
-                "width": 336
-            },
-            {
-                "caption": "Title screen",
-                "height": 270,
-                "image_url": "https://cdn.mobygames.com/screenshots/6546906-staroc-philips-vg-5000-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4de52e50-abef-11ed-9584-02420a000136.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/6546909-staroc-philips-vg-5000-enemies-oil-tanks-and-rockets.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4e248456-abef-11ed-9584-02420a000136.webp",
                 "width": 336
             },
             {
@@ -630,10 +623,17 @@
                 "width": 336
             },
             {
-                "caption": "Enemies, oil tanks, and rockets",
+                "caption": "Title screen",
                 "height": 270,
-                "image_url": "https://cdn.mobygames.com/screenshots/6546909-staroc-philips-vg-5000-enemies-oil-tanks-and-rockets.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4e248456-abef-11ed-9584-02420a000136.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/6546906-staroc-philips-vg-5000-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4de52e50-abef-11ed-9584-02420a000136.webp",
+                "width": 336
+            },
+            {
+                "caption": "A swarm of enemies are ahead!",
+                "height": 270,
+                "image_url": "https://cdn.mobygames.com/screenshots/6546930-staroc-philips-vg-5000-a-swarm-of-enemies-are-ahead.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/527c498a-abef-11ed-9584-02420a000136.webp",
                 "width": 336
             }
         ],

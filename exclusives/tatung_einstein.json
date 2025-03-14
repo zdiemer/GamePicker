@@ -47,13 +47,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Game over",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16514669-time-trap-tatung-einstein-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/416db0c2-c231-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "Title screen",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16514675-time-trap-tatung-einstein-title-screen.png",
@@ -61,17 +54,10 @@
                 "width": 256
             },
             {
-                "caption": "The floor is brittle!",
+                "caption": "Game over",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16514666-time-trap-tatung-einstein-the-floor-is-brittle.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/41574b7a-c231-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Starting out",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16514672-time-trap-tatung-einstein-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/41850dee-c231-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16514669-time-trap-tatung-einstein-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/416db0c2-c231-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -79,6 +65,20 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16514657-time-trap-tatung-einstein-the-roman-fort.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/4114adba-c231-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Down At Dollis Brook",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16514663-time-trap-tatung-einstein-down-at-dollis-brook.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/413f99a8-c231-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting out",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16514672-time-trap-tatung-einstein-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/41850dee-c231-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -141,38 +141,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Planet 24 in the trees",
+                "caption": "Title screen; Einsoft handed the rights over to Solo Software",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16515542-space-trap-tatung-einstein-planet-24-in-the-trees.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/726f1aee-c231-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16515632-space-trap-tatung-einstein-title-screen-einsoft-handed-the-right.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/771f0e96-c231-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
-                "caption": "And a set of jaws to be killed by",
+                "caption": "At the root of the tree\u2026",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16515560-space-trap-tatung-einstein-and-a-set-of-jaws-to-be-killed-by.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/73b87ab2-c231-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16515551-space-trap-tatung-einstein-at-the-root-of-the-tree.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/72b56dc8-c231-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
-                "caption": "But as soon as you take it, the landscape closes behind you",
+                "caption": "The sea is full of deadly fish",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16515629-space-trap-tatung-einstein-but-as-soon-as-you-take-it-the-landsc.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7706465e-c231-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16515296-space-trap-tatung-einstein-the-sea-is-full-of-deadly-fish.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6464fed2-c231-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
-                "caption": "Planet 22, or Pollux 3, high in the sky",
+                "caption": "The mazelike planet 17 \u2014 Algol 6",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16515473-space-trap-tatung-einstein-planet-22-or-pollux-3-high-in-the-sky.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6f32ecf2-c231-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16515767-space-trap-tatung-einstein-the-mazelike-planet-17-algol-6.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7f261256-c231-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
-                "caption": "Jumping to the next building",
+                "caption": "Z.Z. falls (sinks) toward his death",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16515302-space-trap-tatung-einstein-jumping-to-the-next-building.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/64943012-c231-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16515617-space-trap-tatung-einstein-zz-falls-sinks-toward-his-death.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7681dc20-c231-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -253,6 +253,27 @@
         },
         "sample_screenshots": [
             {
+                "caption": "The spider enters the screen",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16468924-pakmanmillipede-tatung-einstein-the-spider-enters-the-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bc51fb12-c223-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Score table",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16468927-pakmanmillipede-tatung-einstein-score-table.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bc6c7cda-c223-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Score table",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/15719686-pakmanmillipede-tatung-einstein-score-table.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/303a99f0-bed0-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
                 "caption": "Title screen",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/15722532-pakmanmillipede-tatung-einstein-title-screen.png",
@@ -260,31 +281,10 @@
                 "width": 256
             },
             {
-                "caption": "Instructions",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15722520-pakmanmillipede-tatung-einstein-instructions.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/208b37ca-bed1-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Game end",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15722538-pakmanmillipede-tatung-einstein-game-end.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/21e8a602-bed1-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Eating some dots",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15723014-pakmanmillipede-tatung-einstein-eating-some-dots.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/46374d74-bed1-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
                 "caption": "Starting out",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15724469-pakmanmillipede-tatung-einstein-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c2ad1da2-bed1-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16469062-pakmanmillipede-tatung-einstein-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c7f8d1fc-c223-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],

@@ -74,13 +74,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Attack of the bigger fish.",
-                "height": 64,
-                "image_url": "https://cdn.mobygames.com/screenshots/6828066-sirene-arduboy-attack-of-the-bigger-fish.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/91ab0de2-abf1-11ed-8d2f-02420a00012e.webp",
-                "width": 128
-            },
-            {
                 "caption": "Attack of the small fish.",
                 "height": 64,
                 "image_url": "https://cdn.mobygames.com/screenshots/6828512-sirene-arduboy-attack-of-the-small-fish.png",
@@ -88,10 +81,17 @@
                 "width": 128
             },
             {
-                "caption": "Game Over",
+                "caption": "Attack of the bigger fish.",
                 "height": 64,
-                "image_url": "https://cdn.mobygames.com/screenshots/6826978-sirene-arduboy-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8fa908e6-abf1-11ed-b6e7-02420a000135.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/6828066-sirene-arduboy-attack-of-the-bigger-fish.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/91ab0de2-abf1-11ed-8d2f-02420a00012e.webp",
+                "width": 128
+            },
+            {
+                "caption": "Beginning the first stage.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/6826987-sirene-arduboy-beginning-the-first-stage.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/90502f90-abf1-11ed-b6e7-02420a000135.webp",
                 "width": 128
             },
             {
@@ -102,10 +102,10 @@
                 "width": 128
             },
             {
-                "caption": "Beginning the first stage.",
+                "caption": "Title Screen",
                 "height": 64,
-                "image_url": "https://cdn.mobygames.com/screenshots/6826987-sirene-arduboy-beginning-the-first-stage.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/90502f90-abf1-11ed-b6e7-02420a000135.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/6826990-sirene-arduboy-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9083eccc-abf1-11ed-b6e7-02420a000135.webp",
                 "width": 128
             }
         ],
@@ -195,10 +195,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Game Over",
+                "caption": "Start Screen",
                 "height": 64,
-                "image_url": "https://cdn.mobygames.com/screenshots/6835034-blob-attack-arduboy-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9e3909ce-abf1-11ed-941d-02420a000132.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/6834943-blob-attack-arduboy-start-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9d71b3d8-abf1-11ed-8ce3-02420a000131.webp",
                 "width": 128
             },
             {
@@ -216,17 +216,17 @@
                 "width": 128
             },
             {
-                "caption": "Start Screen",
-                "height": 64,
-                "image_url": "https://cdn.mobygames.com/screenshots/6834943-blob-attack-arduboy-start-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9d71b3d8-abf1-11ed-8ce3-02420a000131.webp",
-                "width": 128
-            },
-            {
                 "caption": "Beginning the game.",
                 "height": 64,
                 "image_url": "https://cdn.mobygames.com/screenshots/6833622-blob-attack-arduboy-beginning-the-game.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/9fadd6ea-abf1-11ed-81c5-02420a00012f.webp",
+                "width": 128
+            },
+            {
+                "caption": "Game Over",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/6835034-blob-attack-arduboy-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9e3909ce-abf1-11ed-941d-02420a000132.webp",
                 "width": 128
             }
         ],
@@ -307,6 +307,20 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Jumping over the rock.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/6865725-shadow-runner-arduboy-jumping-over-the-rock.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/db111224-abf1-11ed-b013-02420a00012e.webp",
+                "width": 128
+            },
+            {
+                "caption": "Sliding under the bird.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/6866478-shadow-runner-arduboy-sliding-under-the-bird.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/df13d596-abf1-11ed-9f52-02420a000130.webp",
+                "width": 128
+            },
+            {
                 "caption": "The running begins.",
                 "height": 64,
                 "image_url": "https://cdn.mobygames.com/screenshots/6849542-shadow-runner-arduboy-the-running-begins.png",
@@ -321,24 +335,10 @@
                 "width": 128
             },
             {
-                "caption": "Jumping over the rock.",
-                "height": 64,
-                "image_url": "https://cdn.mobygames.com/screenshots/6865725-shadow-runner-arduboy-jumping-over-the-rock.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/db111224-abf1-11ed-b013-02420a00012e.webp",
-                "width": 128
-            },
-            {
                 "caption": "Game Over",
                 "height": 64,
                 "image_url": "https://cdn.mobygames.com/screenshots/6867045-shadow-runner-arduboy-game-over.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/dd4a262a-abf1-11ed-aca6-02420a000132.webp",
-                "width": 128
-            },
-            {
-                "caption": "Sliding under the bird.",
-                "height": 64,
-                "image_url": "https://cdn.mobygames.com/screenshots/6866478-shadow-runner-arduboy-sliding-under-the-bird.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/df13d596-abf1-11ed-9f52-02420a000130.webp",
                 "width": 128
             }
         ],
@@ -437,10 +437,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "YES! you've won.",
+                "caption": "Setting the goal.",
                 "height": 64,
-                "image_url": "https://cdn.mobygames.com/screenshots/6877641-reverse-mermaid-hockey-arduboy-yes-youve-won.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f47fa39c-abf1-11ed-a599-02420a000132.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/6871299-reverse-mermaid-hockey-arduboy-setting-the-goal.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/eae49fae-abf1-11ed-8949-02420a00012e.webp",
                 "width": 128
             },
             {
@@ -451,13 +451,6 @@
                 "width": 128
             },
             {
-                "caption": "You lose Fishstick!",
-                "height": 64,
-                "image_url": "https://cdn.mobygames.com/screenshots/6876223-reverse-mermaid-hockey-arduboy-you-lose-fishstick.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ef49e996-abf1-11ed-9c12-02420a00012f.webp",
-                "width": 128
-            },
-            {
                 "caption": "Kicking the shrimp.",
                 "height": 64,
                 "image_url": "https://cdn.mobygames.com/screenshots/6890259-reverse-mermaid-hockey-arduboy-kicking-the-shrimp.png",
@@ -465,10 +458,17 @@
                 "width": 128
             },
             {
-                "caption": "The game starts.",
+                "caption": "You lose Fishstick!",
                 "height": 64,
-                "image_url": "https://cdn.mobygames.com/screenshots/6874087-reverse-mermaid-hockey-arduboy-the-game-starts.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ef4e64ee-abf1-11ed-b075-02420a00012f.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/6876223-reverse-mermaid-hockey-arduboy-you-lose-fishstick.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ef49e996-abf1-11ed-9c12-02420a00012f.webp",
+                "width": 128
+            },
+            {
+                "caption": "YES! you've won.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/6877641-reverse-mermaid-hockey-arduboy-yes-youve-won.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f47fa39c-abf1-11ed-a599-02420a000132.webp",
                 "width": 128
             }
         ],
@@ -658,17 +658,17 @@
                 "width": 128
             },
             {
-                "caption": "Game Over",
-                "height": 64,
-                "image_url": "https://cdn.mobygames.com/screenshots/6890133-epic-crates-of-mass-destruction-arduboy-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0dbd4062-abf2-11ed-b85a-02420a000135.webp",
-                "width": 128
-            },
-            {
                 "caption": "Shooting hordes of enemies.",
                 "height": 64,
                 "image_url": "https://cdn.mobygames.com/screenshots/6890136-epic-crates-of-mass-destruction-arduboy-shooting-hordes-of-enemi.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/0de0ea76-abf2-11ed-b85a-02420a000135.webp",
+                "width": 128
+            },
+            {
+                "caption": "Game Over",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/6890133-epic-crates-of-mass-destruction-arduboy-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0dbd4062-abf2-11ed-b85a-02420a000135.webp",
                 "width": 128
             },
             {
@@ -861,17 +861,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Encroaching zombie.",
+                "caption": "Time is running out.",
                 "height": 64,
-                "image_url": "https://cdn.mobygames.com/screenshots/7776839-virus-lqp-79-arduboy-encroaching-zombie.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/fdc47a20-abf8-11ed-8a97-02420a00012d.webp",
-                "width": 128
-            },
-            {
-                "caption": "Game Over",
-                "height": 64,
-                "image_url": "https://cdn.mobygames.com/screenshots/7778291-virus-lqp-79-arduboy-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/fd5fb388-abf8-11ed-8949-02420a00012e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/7775415-virus-lqp-79-arduboy-time-is-running-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f957d8ba-abf8-11ed-b6e7-02420a000135.webp",
                 "width": 128
             },
             {
@@ -882,17 +875,24 @@
                 "width": 128
             },
             {
+                "caption": "Game Over",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/7778291-virus-lqp-79-arduboy-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fd5fb388-abf8-11ed-8949-02420a00012e.webp",
+                "width": 128
+            },
+            {
+                "caption": "Title Screen",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/7776842-virus-lqp-79-arduboy-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fdf7369a-abf8-11ed-8a97-02420a00012d.webp",
+                "width": 128
+            },
+            {
                 "caption": "Beginning the first level.",
                 "height": 64,
                 "image_url": "https://cdn.mobygames.com/screenshots/7775421-virus-lqp-79-arduboy-beginning-the-first-level.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/f9a3a93e-abf8-11ed-b6e7-02420a000135.webp",
-                "width": 128
-            },
-            {
-                "caption": "Time is running out.",
-                "height": 64,
-                "image_url": "https://cdn.mobygames.com/screenshots/7775415-virus-lqp-79-arduboy-time-is-running-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f957d8ba-abf8-11ed-b6e7-02420a000135.webp",
                 "width": 128
             }
         ],
@@ -982,6 +982,27 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Title Screen",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/7777102-mystic-balloon-arduboy-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fee6ef50-abf8-11ed-927d-02420a00012f.webp",
+                "width": 128
+            },
+            {
+                "caption": "Floating through the sky.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/7777060-mystic-balloon-arduboy-floating-through-the-sky.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fbb5f038-abf8-11ed-927d-02420a00012f.webp",
+                "width": 128
+            },
+            {
+                "caption": "Beginning the first level.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/7777351-mystic-balloon-arduboy-beginning-the-first-level.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fb3368ac-abf8-11ed-a631-02420a000135.webp",
+                "width": 128
+            },
+            {
                 "caption": "The end is in sight.",
                 "height": 64,
                 "image_url": "https://cdn.mobygames.com/screenshots/7777054-mystic-balloon-arduboy-the-end-is-in-sight.png",
@@ -989,31 +1010,10 @@
                 "width": 128
             },
             {
-                "caption": "Sucking up the strange spider.",
-                "height": 64,
-                "image_url": "https://cdn.mobygames.com/screenshots/7776448-mystic-balloon-arduboy-sucking-up-the-strange-spider.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f690f436-abf8-11ed-af3d-02420a00012f.webp",
-                "width": 128
-            },
-            {
-                "caption": "Game Over",
-                "height": 64,
-                "image_url": "https://cdn.mobygames.com/screenshots/7777345-mystic-balloon-arduboy-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f9da6942-abf8-11ed-a631-02420a000135.webp",
-                "width": 128
-            },
-            {
                 "caption": "Onto the next level.",
                 "height": 64,
                 "image_url": "https://cdn.mobygames.com/screenshots/7778057-mystic-balloon-arduboy-onto-the-next-level.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/fcf374c0-abf8-11ed-b950-02420a00012d.webp",
-                "width": 128
-            },
-            {
-                "caption": "Title Screen",
-                "height": 64,
-                "image_url": "https://cdn.mobygames.com/screenshots/7777102-mystic-balloon-arduboy-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/fee6ef50-abf8-11ed-927d-02420a00012f.webp",
                 "width": 128
             }
         ],
@@ -1085,20 +1085,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Beginning of the first round.",
-                "height": 64,
-                "image_url": "https://cdn.mobygames.com/screenshots/7788509-fantasy-rampage-arduboy-beginning-of-the-first-round.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1067e4dc-abf9-11ed-a710-02420a000136.webp",
-                "width": 128
-            },
-            {
-                "caption": "Selecting number of players.",
-                "height": 64,
-                "image_url": "https://cdn.mobygames.com/screenshots/7786469-fantasy-rampage-arduboy-selecting-number-of-players.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0dd72ade-abf9-11ed-9b47-02420a000133.webp",
-                "width": 128
-            },
-            {
                 "caption": "The computer is victorious for now.",
                 "height": 64,
                 "image_url": "https://cdn.mobygames.com/screenshots/7786466-fantasy-rampage-arduboy-the-computer-is-victorious-for-now.png",
@@ -1106,17 +1092,31 @@
                 "width": 128
             },
             {
-                "caption": "Selecting the game mode.",
-                "height": 64,
-                "image_url": "https://cdn.mobygames.com/screenshots/7788512-fantasy-rampage-arduboy-selecting-the-game-mode.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/109cb5e0-abf9-11ed-a710-02420a000136.webp",
-                "width": 128
-            },
-            {
                 "caption": "Selecting a card to play.",
                 "height": 64,
                 "image_url": "https://cdn.mobygames.com/screenshots/7788506-fantasy-rampage-arduboy-selecting-a-card-to-play.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/103439fc-abf9-11ed-a710-02420a000136.webp",
+                "width": 128
+            },
+            {
+                "caption": "The computer plays their card.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/7786463-fantasy-rampage-arduboy-the-computer-plays-their-card.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0d5c271c-abf9-11ed-9b47-02420a000133.webp",
+                "width": 128
+            },
+            {
+                "caption": "Title Screen",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/7786472-fantasy-rampage-arduboy-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0e00b7d2-abf9-11ed-9b47-02420a000133.webp",
+                "width": 128
+            },
+            {
+                "caption": "Selecting number of players.",
+                "height": 64,
+                "image_url": "https://cdn.mobygames.com/screenshots/7786469-fantasy-rampage-arduboy-selecting-number-of-players.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0dd72ade-abf9-11ed-9b47-02420a000133.webp",
                 "width": 128
             }
         ],

@@ -1,6 +1,83 @@
 [
     {
         "alternate_titles": [],
+        "description": "<p>Terry Pratchett's popular books of comedic fantasies set in Discworld provide the backdrop for this free MUD (a Multi-User Dungeon which is an early text version of an MMO). It uses its own open source LPMud codebase (the LPC programming language which was designed specifically for MUDs enabling all of Discworld's creators to write different code for every room and every object).  Initially you could connect to it through the internet to its server by using one of several MUD clients but now can also use a browser to connect directly by using a Java client.</p>\n<p>The world is made up of areas simulating several big cities (Ankh-Morpork, Djelibeybi, Bes Pelargic, and Genua) on two continents, plus more smaller towns, and more than a million rooms representing the countryside.  The first two cities are run by councils of elected player magistrates.  </p>\n<p>When you first make a new character, you begin with a limited inventory and some play money in a separate newbie area where you can learn the fundamentals on quests, guilds, etiquette, interacting with NPCs, fighting and shop interaction. Before leaving the newbie area to enter the game, you will have to choose a nationality to determine your start location and native tongue.  There are a number of chat channels for individuals and clubs. Player versus Player interaction is on an opt-in basis. </p>\n<p>Each character can join one of the guilds where you will have some unique abilities not available to others. Some common attributes like hit points, perceptiveness, and swimming skill are the same for everyone but divine magic for priests or the 'backstab' command for covert-based guilds are limited to guilds.  There's six main classes - wizard, priest, witch, warrior, thief, and assassin with the last 3 being split into several sub-guilds.</p>\n<p>The game mechanics are based on a semi-permanent stats dealing with your essential nature and skills relating to your aptitude in performing certain tasks which can be increased by spending experience points to learn yourself or from other  players/NPCs.  Levels are uncapped, but rise in cost of experience points per level.  To gain these experience points, you can  defeat NPCs in combat, use guild points (categorised action points), explore areas, solve puzzle-like quests, accomplish in-game achievements, or just being online will very slowly give you some.</p>\n<p>Characters start with seven lives, which can be replaced in-game, but if all are lost you cannot be revived.  Most of the game world is not persistent - areas and objects are reset, except players' inventories, contents of rentable houses, and safe deposit box-like vaults which are saved.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 50,
+                "name": "Role-playing (RPG)"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 23,
+                "name": "Interactive fiction / text adventure"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 160,
+                "name": "Massively Multiplayer"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 30,
+                "name": "Puzzle elements"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 45963,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/45963/discworld-mud/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 209,
+                    "name": "Terminal"
+                },
+                "1992-05-09"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Discworld MUD"
+    },
+    {
+        "alternate_titles": [],
         "description": "<p><em>Bamboozle!</em> was a simple quiz game available through UK television broadcaster Channel 4's teletext service from 1993 to 2009. Hosted by Bamber Boozler and his family, the quiz consisted of between 12 to 25 multiple choice questions. Each question had four choices which the player selected using one of the four coloured buttons on their Fastext television remote, either red, green, yellow, or blue. To complete the quiz you have to answer all of the questions correctly. Originally if a player answered a question incorrectly they'd have to start the quiz again from the very beginning, however this was later changed so that the player would only have to re-answer a maximum of three questions.</p>",
         "genres": [
             {
@@ -323,12 +400,43 @@
         ],
         "sample_cover": {
             "height": 512,
-            "image_url": "https://cdn.mobygames.com/promos/4588608-empire-iii-screenshot-empire-3-command-display-1974-75.png",
-            "platforms": [],
-            "thumbnail_image_url": "https://cdn.mobygames.com/e4091072-abb8-11ed-b165-02420a000198.webp",
+            "image_url": "https://cdn.mobygames.com/screenshots/18144711-empire-iii-terminal-title-screen.png",
+            "platforms": [
+                "Terminal"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/79f05474-b86f-11ee-97bf-02420a0001a7.webp",
             "width": 512
         },
-        "sample_screenshots": [],
+        "sample_screenshots": [
+            {
+                "caption": "Gameplay",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18144723-empire-iii-terminal-gameplay.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a0672cc2-b86f-11ee-b600-02420a0001a7.webp",
+                "width": 512
+            },
+            {
+                "caption": "Helpfile",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18144719-empire-iii-terminal-helpfile.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/960715a8-b86f-11ee-aa3f-02420a0001a6.webp",
+                "width": 512
+            },
+            {
+                "caption": "Captain's signin",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18144715-empire-iii-terminal-captains-signin.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/87c509d2-b86f-11ee-bf7b-02420a0001a4.webp",
+                "width": 512
+            },
+            {
+                "caption": "Title screen",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18144711-empire-iii-terminal-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/79f05474-b86f-11ee-97bf-02420a0001a7.webp",
+                "width": 512
+            }
+        ],
         "title": "Empire III"
     },
     {
@@ -533,13 +641,51 @@
             ]
         ],
         "sample_cover": {
-            "height": 512,
-            "image_url": "https://cdn.mobygames.com/promos/4589341-empire-iv-screenshot-empire-iv-help-page-ship-team-types-ca-1977.png",
-            "platforms": [],
-            "thumbnail_image_url": "https://cdn.mobygames.com/eba37610-abb8-11ed-8b6f-02420a00019c.webp",
-            "width": 512
+            "height": 400,
+            "image_url": "https://cdn.mobygames.com/screenshots/18144727-empire-iv-terminal-status.png",
+            "platforms": [
+                "Terminal"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/c2dcdfa4-b86f-11ee-a93c-02420a0001a5.webp",
+            "width": 400
         },
-        "sample_screenshots": [],
+        "sample_screenshots": [
+            {
+                "caption": "Status",
+                "height": 400,
+                "image_url": "https://cdn.mobygames.com/screenshots/18144727-empire-iv-terminal-status.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c2dcdfa4-b86f-11ee-a93c-02420a0001a5.webp",
+                "width": 400
+            },
+            {
+                "caption": "Bombing an unfriendly planet",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18144739-empire-iv-terminal-bombing-an-unfriendly-planet.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fa326e9c-b86f-11ee-97b6-02420a0001a5.webp",
+                "width": 512
+            },
+            {
+                "caption": "Spaceship combat",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18144743-empire-iv-terminal-spaceship-combat.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/11f97570-b870-11ee-b7c3-02420a0001a4.webp",
+                "width": 512
+            },
+            {
+                "caption": "Firing phasers",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18144747-empire-iv-terminal-firing-phasers.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1ed8dcae-b870-11ee-8ce5-02420a0001a5.webp",
+                "width": 512
+            },
+            {
+                "caption": "Helpfile",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18144731-empire-iv-terminal-helpfile.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d05c5196-b86f-11ee-b7c3-02420a0001a4.webp",
+                "width": 512
+            }
+        ],
         "title": "Empire IV"
     },
     {
@@ -660,13 +806,6 @@
                 "width": 512
             },
             {
-                "caption": "Four ships orbit my homeworld",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18144675-conquest-terminal-four-ships-orbit-my-homeworld.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e1e095cc-b86e-11ee-97b6-02420a0001a5.webp",
-                "width": 512
-            },
-            {
                 "caption": "Helpfile",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/18144667-conquest-terminal-helpfile.png",
@@ -674,10 +813,10 @@
                 "width": 512
             },
             {
-                "caption": "Archons conquer the (otherwise uninhabited) universe!",
+                "caption": "Four ships orbit my homeworld",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/18144683-conquest-terminal-archons-conquer-the-otherwise-uninhabited-univ.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/049e2ad4-b86f-11ee-8e22-02420a0001a5.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/18144675-conquest-terminal-four-ships-orbit-my-homeworld.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e1e095cc-b86e-11ee-97b6-02420a0001a5.webp",
                 "width": 512
             },
             {
@@ -685,6 +824,13 @@
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/18144679-conquest-terminal-expanding-to-neighboring-planets.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/f67fa6a8-b86e-11ee-b09a-02420a0001a7.webp",
+                "width": 512
+            },
+            {
+                "caption": "Archons conquer the (otherwise uninhabited) universe!",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18144683-conquest-terminal-archons-conquer-the-otherwise-uninhabited-univ.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/049e2ad4-b86f-11ee-8e22-02420a0001a5.webp",
                 "width": 512
             }
         ],
@@ -1509,11 +1655,11 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Welcomescreen",
-                "height": 431,
-                "image_url": "https://cdn.mobygames.com/screenshots/17140587-the-dungeon-terminal-welcomescreen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7bad45b4-fe67-11ed-9b22-02420a000111.webp",
-                "width": 417
+                "caption": "Deathscreen",
+                "height": 225,
+                "image_url": "https://cdn.mobygames.com/screenshots/17140567-the-dungeon-terminal-deathscreen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7a3decce-fe67-11ed-9d7f-02420a000111.webp",
+                "width": 454
             },
             {
                 "caption": "Stats",
@@ -1523,10 +1669,10 @@
                 "width": 396
             },
             {
-                "caption": "The Monsters",
-                "height": 435,
-                "image_url": "https://cdn.mobygames.com/screenshots/17140571-the-dungeon-terminal-the-monsters.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7a876fca-fe67-11ed-9b22-02420a000111.webp",
+                "caption": "You made it!",
+                "height": 184,
+                "image_url": "https://cdn.mobygames.com/screenshots/17140563-the-dungeon-terminal-you-made-it.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/79f1a846-fe67-11ed-8ed5-02420a000111.webp",
                 "width": 485
             },
             {
@@ -1537,11 +1683,11 @@
                 "width": 422
             },
             {
-                "caption": "Gameplay",
-                "height": 440,
-                "image_url": "https://cdn.mobygames.com/screenshots/17140575-the-dungeon-terminal-gameplay.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7acf577c-fe67-11ed-9ee8-02420a000111.webp",
-                "width": 481
+                "caption": "Welcomescreen",
+                "height": 431,
+                "image_url": "https://cdn.mobygames.com/screenshots/17140587-the-dungeon-terminal-welcomescreen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7bad45b4-fe67-11ed-9b22-02420a000111.webp",
+                "width": 417
             }
         ],
         "title": "The Dungeon"
@@ -1671,6 +1817,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "New character",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18146176-moria-terminal-new-character.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/12427a82-b8b5-11ee-8f11-02420a0001a6.webp",
+                "width": 512
+            },
+            {
                 "caption": "Fighting a Troll",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/16574990-moria-terminal-fighting-a-troll.png",
@@ -1678,10 +1831,17 @@
                 "width": 512
             },
             {
-                "caption": "Title screen",
+                "caption": "Jailed for robbing the knight's guild. Bail, anyone?",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16574783-moria-terminal-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/926165d8-c244-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/18146220-moria-terminal-jailed-for-robbing-the-knights-guild-bail-anyone.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/82f2f040-b8b5-11ee-9307-02420a0001a4.webp",
+                "width": 512
+            },
+            {
+                "caption": "Fighting a reaper in the desert",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/18146216-moria-terminal-fighting-a-reaper-in-the-desert.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/691fbcfc-b8b5-11ee-ad26-02420a0001a7.webp",
                 "width": 512
             },
             {
@@ -3101,11 +3261,11 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The Stats",
-                "height": 209,
-                "image_url": "https://cdn.mobygames.com/screenshots/17140539-orthanc-terminal-the-stats.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/39ae91e6-fe66-11ed-8ed5-02420a000111.webp",
-                "width": 473
+                "caption": "Gameplay",
+                "height": 472,
+                "image_url": "https://cdn.mobygames.com/screenshots/17140543-orthanc-terminal-gameplay.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/39fcda22-fe66-11ed-9ee8-02420a000111.webp",
+                "width": 521
             },
             {
                 "caption": "Welcome",
@@ -3113,13 +3273,6 @@
                 "image_url": "https://cdn.mobygames.com/screenshots/17140527-orthanc-terminal-welcome.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/38babba2-fe66-11ed-8ed5-02420a000111.webp",
                 "width": 521
-            },
-            {
-                "caption": "Deathscreen",
-                "height": 174,
-                "image_url": "https://cdn.mobygames.com/screenshots/17140523-orthanc-terminal-deathscreen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3861155c-fe66-11ed-8281-02420a000110.webp",
-                "width": 447
             },
             {
                 "caption": "Gameplay",
@@ -3134,6 +3287,13 @@
                 "image_url": "https://cdn.mobygames.com/screenshots/17140531-orthanc-terminal-dungeonlevels.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/390a0716-fe66-11ed-9249-02420a000110.webp",
                 "width": 491
+            },
+            {
+                "caption": "Gameplay",
+                "height": 479,
+                "image_url": "https://cdn.mobygames.com/screenshots/17140547-orthanc-terminal-gameplay.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3a4f0bf8-fe66-11ed-8281-02420a000110.webp",
+                "width": 522
             }
         ],
         "title": "Orthanc"
@@ -5359,6 +5519,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Killed by bone enemy.",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/9227256-futurewar-terminal-killed-by-bone-enemy.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/52d24752-ac05-11ed-a599-02420a000132.webp",
+                "width": 512
+            },
+            {
                 "caption": "Combat with a robot in Futurewar.",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/9227253-futurewar-terminal-combat-with-a-robot-in-futurewar.png",
@@ -5377,13 +5544,6 @@
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/9244462-futurewar-terminal-found-first-aid-kit.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/776a5708-ac05-11ed-b6e7-02420a000135.webp",
-                "width": 512
-            },
-            {
-                "caption": "Killed by bone enemy.",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/9227256-futurewar-terminal-killed-by-bone-enemy.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/52d24752-ac05-11ed-a599-02420a000132.webp",
                 "width": 512
             }
         ],
@@ -6180,18 +6340,18 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Clerically examining a magic item and finding it \"harmless\" is one of the best things that can happen in this game.",
-                "height": 401,
-                "image_url": "https://cdn.mobygames.com/screenshots/17140619-dnd-terminal-clerically-examining-a-magic-item-and-finding-it-ha.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4480dde2-fe69-11ed-b05f-02420a000110.webp",
-                "width": 461
+                "caption": "\"Fight all below\" is a useful command that has you automatically attack trivially-easy monsters.",
+                "height": 462,
+                "image_url": "https://cdn.mobygames.com/screenshots/17140615-dnd-terminal-fight-all-below-is-a-useful-command-that-has-you-au.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4430cf6e-fe69-11ed-8ed5-02420a000111.webp",
+                "width": 484
             },
             {
-                "caption": "Welcome Screen",
-                "height": 521,
-                "image_url": "https://cdn.mobygames.com/screenshots/17140627-dnd-terminal-welcome-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/451c80e4-fe69-11ed-9b22-02420a000111.webp",
-                "width": 519
+                "caption": "Attribute rolls are generous during character creation.",
+                "height": 258,
+                "image_url": "https://cdn.mobygames.com/screenshots/17140611-dnd-terminal-attribute-rolls-are-generous-during-character-creat.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/43e67f86-fe69-11ed-9b22-02420a000111.webp",
+                "width": 441
             },
             {
                 "caption": "Gameplay",
@@ -6208,11 +6368,11 @@
                 "width": 435
             },
             {
-                "caption": "Attribute rolls are generous during character creation.",
-                "height": 258,
-                "image_url": "https://cdn.mobygames.com/screenshots/17140611-dnd-terminal-attribute-rolls-are-generous-during-character-creat.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/43e67f86-fe69-11ed-9b22-02420a000111.webp",
-                "width": 441
+                "caption": "Welcome Screen",
+                "height": 521,
+                "image_url": "https://cdn.mobygames.com/screenshots/17140627-dnd-terminal-welcome-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/451c80e4-fe69-11ed-9b22-02420a000111.webp",
+                "width": 519
             }
         ],
         "title": "dnd"
@@ -6531,6 +6691,13 @@
                 "width": 512
             },
             {
+                "caption": "Club distance help",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/17146494-plato-flats-terminal-club-distance-help.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/146fb73a-fff0-11ed-9776-02420a000111.webp",
+                "width": 512
+            },
+            {
                 "caption": "Approaching Hole 1",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/17146478-plato-flats-terminal-approaching-hole-1.png",
@@ -6538,24 +6705,17 @@
                 "width": 512
             },
             {
-                "caption": "In the hole!",
+                "caption": "In the bunker!",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/17146482-plato-flats-terminal-in-the-hole.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/138da5a2-fff0-11ed-8439-02420a000110.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/17146474-plato-flats-terminal-in-the-bunker.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/12f2b768-fff0-11ed-8713-02420a000110.webp",
                 "width": 512
             },
             {
-                "caption": "Credits",
+                "caption": "Welcome to GOLF",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/17146502-plato-flats-terminal-credits.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/598284fa-fff1-11ed-8d87-02420a000110.webp",
-                "width": 512
-            },
-            {
-                "caption": "GOLF HELP",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/17146506-plato-flats-terminal-golf-help.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a0cbf0c6-fff1-11ed-9776-02420a000111.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/17146466-plato-flats-terminal-welcome-to-golf.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/11ca7006-fff0-11ed-b38f-02420a000111.webp",
                 "width": 512
             }
         ],

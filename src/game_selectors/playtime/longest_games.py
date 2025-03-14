@@ -7,5 +7,5 @@ LONGEST_GAMES = GameSelector(
     reverse_sort=True,
     include_platform=False,
     name="Longest Games",
-    grouping=GameGrouping(take=10),
+    grouping=GameGrouping(group_size=10),
 )

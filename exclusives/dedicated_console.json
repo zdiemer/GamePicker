@@ -585,24 +585,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "H-R games (you have to scroll to see all games)",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16173184-master-system-evolution-dedicated-console-h-r-games-you-have-to-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/425a92ee-c1c7-11ed-ab6b-02420a000194.webp",
-                "width": 640
-            },
-            {
                 "caption": "Main menu",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/16173187-master-system-evolution-dedicated-console-main-menu.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/42c51f4c-c1c7-11ed-ab6b-02420a000194.webp",
-                "width": 640
-            },
-            {
-                "caption": "A-B games (you have to scroll to see all games)",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16173091-master-system-evolution-dedicated-console-a-b-games-you-have-to-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3b693d28-c1c7-11ed-ab6b-02420a000194.webp",
                 "width": 640
             },
             {
@@ -617,6 +603,20 @@
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/16173085-master-system-evolution-dedicated-console-c-g-games-you-have-to-.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/3b00d3dc-c1c7-11ed-ab6b-02420a000194.webp",
+                "width": 640
+            },
+            {
+                "caption": "A-B games (you have to scroll to see all games)",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16173091-master-system-evolution-dedicated-console-a-b-games-you-have-to-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3b693d28-c1c7-11ed-ab6b-02420a000194.webp",
+                "width": 640
+            },
+            {
+                "caption": "H-R games (you have to scroll to see all games)",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16173184-master-system-evolution-dedicated-console-h-r-games-you-have-to-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/425a92ee-c1c7-11ed-ab6b-02420a000194.webp",
                 "width": 640
             }
         ],
@@ -1416,24 +1416,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Lunar Rescue",
-                "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/16878080-arcade-legends-space-invaders-dedicated-console-lunar-rescue.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8656dcaa-c3fc-11ed-be63-02420a000121.webp",
-                "width": 256
-            },
-            {
                 "caption": "Colony 7",
                 "height": 224,
                 "image_url": "https://cdn.mobygames.com/screenshots/16878083-arcade-legends-space-invaders-dedicated-console-colony-7.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/867340c0-c3fc-11ed-be63-02420a000121.webp",
-                "width": 256
-            },
-            {
-                "caption": "The main menu.",
-                "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/16878074-arcade-legends-space-invaders-dedicated-console-the-main-menu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8627f8e0-c3fc-11ed-be63-02420a000121.webp",
                 "width": 256
             },
             {
@@ -1444,10 +1430,24 @@
                 "width": 256
             },
             {
+                "caption": "The main menu.",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/16878074-arcade-legends-space-invaders-dedicated-console-the-main-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8627f8e0-c3fc-11ed-be63-02420a000121.webp",
+                "width": 256
+            },
+            {
                 "caption": "Qix",
                 "height": 224,
                 "image_url": "https://cdn.mobygames.com/screenshots/16878086-arcade-legends-space-invaders-dedicated-console-qix.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/868bb4fc-c3fc-11ed-be63-02420a000121.webp",
+                "width": 256
+            },
+            {
+                "caption": "Lunar Rescue",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/16878080-arcade-legends-space-invaders-dedicated-console-lunar-rescue.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8656dcaa-c3fc-11ed-be63-02420a000121.webp",
                 "width": 256
             }
         ],
@@ -3009,10 +3009,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Feels like flying through the Death Star...",
+                "caption": "More space combat with asteroids",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/9885082-star-wars-republic-squadron-dedicated-console-feels-like-flying-.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/17389ede-ac0b-11ed-9f52-02420a000130.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/9883710-star-wars-republic-squadron-dedicated-console-more-space-combat-.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/123a40c2-ac0b-11ed-b6e7-02420a000135.webp",
                 "width": 640
             },
             {
@@ -3020,6 +3020,13 @@
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/9883707-star-wars-republic-squadron-dedicated-console-space-combat.jpg",
                 "thumbnail_image_url": "https://cdn.mobygames.com/11f35770-ac0b-11ed-b6e7-02420a000135.webp",
+                "width": 640
+            },
+            {
+                "caption": "Feels like flying through the Death Star...",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/9885082-star-wars-republic-squadron-dedicated-console-feels-like-flying-.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/17389ede-ac0b-11ed-9f52-02420a000130.webp",
                 "width": 640
             },
             {
@@ -3034,13 +3041,6 @@
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/9884773-star-wars-republic-squadron-dedicated-console-3rd-person-ground-.jpg",
                 "thumbnail_image_url": "https://cdn.mobygames.com/1574742e-ac0b-11ed-98b0-02420a000130.webp",
-                "width": 640
-            },
-            {
-                "caption": "3rd person ground combat in the city",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/9884687-star-wars-republic-squadron-dedicated-console-3rd-person-ground-.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1477bba8-ac0b-11ed-941d-02420a000132.webp",
                 "width": 640
             }
         ],
@@ -3223,6 +3223,13 @@
                 "width": 320
             },
             {
+                "caption": "Gunship Battle",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16878724-star-wars-revenge-of-the-sith-dedicated-console-gunship-battle.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cf3966ae-c3fc-11ed-be63-02420a000121.webp",
+                "width": 320
+            },
+            {
                 "caption": "The main menu.",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16878715-star-wars-revenge-of-the-sith-dedicated-console-the-main-menu.png",
@@ -3230,24 +3237,17 @@
                 "width": 320
             },
             {
+                "caption": "Droid Invasion",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16878709-star-wars-revenge-of-the-sith-dedicated-console-droid-invasion.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ce8675a8-c3fc-11ed-be63-02420a000121.webp",
+                "width": 320
+            },
+            {
                 "caption": "Before a game starts, the plot and controls are explained to the player.",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16878718-star-wars-revenge-of-the-sith-dedicated-console-before-a-game-st.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/ceead520-c3fc-11ed-be63-02420a000121.webp",
-                "width": 320
-            },
-            {
-                "caption": "Grevious Onslaught",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16878721-star-wars-revenge-of-the-sith-dedicated-console-grevious-onslaug.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cf108a90-c3fc-11ed-be63-02420a000121.webp",
-                "width": 320
-            },
-            {
-                "caption": "Coruscant Attack",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16878712-star-wars-revenge-of-the-sith-dedicated-console-coruscant-attack.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ceac6eb6-c3fc-11ed-be63-02420a000121.webp",
                 "width": 320
             }
         ],
@@ -5280,24 +5280,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Bowling",
+                "caption": "Extreme Power Soccer",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16880612-zone-wireless-gaming-dedicated-console-bowling.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a00b25e2-c3fd-11ed-be63-02420a000121.webp",
-                "width": 256
-            },
-            {
-                "caption": "Master Golf",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16880609-zone-wireless-gaming-dedicated-console-master-golf.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9fe45a02-c3fd-11ed-be63-02420a000121.webp",
-                "width": 256
-            },
-            {
-                "caption": "The main menu.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16880606-zone-wireless-gaming-dedicated-console-the-main-menu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9fbaf928-c3fd-11ed-be63-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16880600-zone-wireless-gaming-dedicated-console-extreme-power-soccer.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9f6f874a-c3fd-11ed-be63-02420a000121.webp",
                 "width": 256
             },
             {
@@ -5308,10 +5294,24 @@
                 "width": 256
             },
             {
-                "caption": "A shot of Fishing Master, the seventh game from the PAL version of the console.",
+                "caption": "Bowling",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16880615-zone-wireless-gaming-dedicated-console-a-shot-of-fishing-master-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a042d6fe-c3fd-11ed-be63-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16880612-zone-wireless-gaming-dedicated-console-bowling.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a00b25e2-c3fd-11ed-be63-02420a000121.webp",
+                "width": 256
+            },
+            {
+                "caption": "A shot of World Series, the seventh game from the USA version of the console.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16880618-zone-wireless-gaming-dedicated-console-a-shot-of-world-series-th.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a068b360-c3fd-11ed-be63-02420a000121.webp",
+                "width": 256
+            },
+            {
+                "caption": "Master Golf",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16880609-zone-wireless-gaming-dedicated-console-master-golf.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9fe45a02-c3fd-11ed-be63-02420a000121.webp",
                 "width": 256
             }
         ],
@@ -6477,7 +6477,7 @@
     },
     {
         "alternate_titles": [],
-        "description": "<p><em>Super Pong IV</em> is the second dedicated <em>Pong</em> console. It features four player variants of the games found in <a href=\"https://www.mobygames.com/game/86551/super-pong/\">Super Pong</a>:</p>\n<ul>\n<li>\n<p><em>Catch</em> is a version of Pong where instead of hitting the ball with the paddle, the goal is to catch it in the gap between two long bars.</p>\n</li>\n<li>\n<p><em>Solitaire</em> is a one player game where there is a wall on the right side of the screen and the goal is to hit the hole located above the wall. The difficulty can be adjusted by increasing the height of the wall.</p>\n</li>\n<li>\n<p><em>Super Pong</em> is like the original Pong but each player controls two paddles.</p>\n</li>\n<li>\n<p><em>Pong</em> is identical to the original Pong game.</p>\n</li>\n</ul>\n<p>In all games the aim is to first reach a score of fifteen.</p>",
+        "description": "<p><em>Super Pong IV</em> is the second dedicated <em>Pong</em> console. It features four player variants of the games found in <a href=\"https://www.mobygames.com/search/?q=Super+Pong\">Super Pong</a>:</p>\n<ul>\n<li>\n<p><em>Catch</em> is a version of Pong where instead of hitting the ball with the paddle, the goal is to catch it in the gap between two long bars.</p>\n</li>\n<li>\n<p><em>Solitaire</em> is a one player game where there is a wall on the right side of the screen and the goal is to hit the hole located above the wall. The difficulty can be adjusted by increasing the height of the wall.</p>\n</li>\n<li>\n<p><em>Super Pong</em> is like the original Pong but each player controls two paddles.</p>\n</li>\n<li>\n<p><em>Pong</em> is identical to the original Pong game.</p>\n</li>\n</ul>\n<p>In all games the aim is to first reach a score of fifteen.</p>",
         "genres": [
             {
                 "category": {
@@ -16231,13 +16231,6 @@
                 "width": 1067
             },
             {
-                "caption": "Practice",
-                "height": 800,
-                "image_url": "https://cdn.mobygames.com/screenshots/12119775-sportron-101-dedicated-console-practice.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/22e5eb16-ac1e-11ed-a12e-02420a000130.webp",
-                "width": 1067
-            },
-            {
                 "caption": "Squash",
                 "height": 800,
                 "image_url": "https://cdn.mobygames.com/screenshots/12119784-sportron-101-dedicated-console-squash.png",
@@ -16249,6 +16242,13 @@
                 "height": 800,
                 "image_url": "https://cdn.mobygames.com/screenshots/12119781-sportron-101-dedicated-console-tennis.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/32372648-ac1e-11ed-a12e-02420a000130.webp",
+                "width": 1067
+            },
+            {
+                "caption": "Practice",
+                "height": 800,
+                "image_url": "https://cdn.mobygames.com/screenshots/12119775-sportron-101-dedicated-console-practice.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/22e5eb16-ac1e-11ed-a12e-02420a000130.webp",
                 "width": 1067
             }
         ],
@@ -40741,7 +40741,7 @@
     },
     {
         "alternate_titles": [],
-        "description": "<p>The Activision Flashback Blast! features twenty Atari 2600 games:* <a href=\"https://www.mobygames.com/game/10248/atlantis/\">Atlantis</a></p>\n<ul>\n<li><a href=\"https://www.mobygames.com/game/8929/beamrider/\">Beamrider</a></li>\n<li><a href=\"https://www.mobygames.com/game/9331/chopper-command/\">Chopper Command</a></li>\n<li><a href=\"https://www.mobygames.com/game/11498/cosmic-commuter/\">Cosmic Commuter</a></li>\n<li><a href=\"https://www.mobygames.com/game/10005/crackpots/\">Crackpots</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Decathlon\">Decathlon</a></li>\n<li><a href=\"https://www.mobygames.com/game/10474/dragster/\">Dragster</a></li>\n<li><a href=\"https://www.mobygames.com/game/11588/enduro/\">Enduro</a></li>\n<li><a href=\"https://www.mobygames.com/game/10429/fishing-derby/\">Fishing Derby</a></li>\n<li><a href=\"https://www.mobygames.com/game/9173/freeway/\">Freeway</a></li>\n<li><a href=\"https://www.mobygames.com/game/11428/frostbite/\">Frostbite</a></li>\n<li><a href=\"https://www.mobygames.com/game/10150/hero/\">H.E.R.O.</a></li>\n<li><a href=\"https://www.mobygames.com/game/9475/keystone-kapers/\">Keystone Kapers</a></li>\n<li><a href=\"https://www.mobygames.com/game/9011/megamania/\">Megamania</a></li>\n<li><a href=\"https://www.mobygames.com/game/8793/pitfall/\">Pitfall!</a></li>\n<li><a href=\"https://www.mobygames.com/game/9807/pressure-cooker/\">Pressure Cooker</a></li>\n<li><a href=\"https://www.mobygames.com/game/6947/river-raid/\">River Raid</a></li>\n<li><a href=\"https://www.mobygames.com/game/10455/seaquest/\">Seaquest</a></li>\n<li><a href=\"https://www.mobygames.com/game/9067/stampede/\">Stampede</a></li>\n<li><a href=\"https://www.mobygames.com/game/19166/starmaster/\">Starmaster</a></li>\n</ul>\n<p>The system is completely self-contained in an HDMI dongle and uses wireless controllers for gameplay. While the system only includes one controller, additional ones are available separately.</p>",
+        "description": "<p>The Activision Flashback Blast! features twenty Atari 2600 games:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/game/10248/atlantis/\">Atlantis</a></li>\n<li><a href=\"https://www.mobygames.com/game/8929/beamrider/\">Beamrider</a></li>\n<li><a href=\"https://www.mobygames.com/game/9331/chopper-command/\">Chopper Command</a></li>\n<li><a href=\"https://www.mobygames.com/game/11498/cosmic-commuter/\">Cosmic Commuter</a></li>\n<li><a href=\"https://www.mobygames.com/game/10005/crackpots/\">Crackpots</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Decathlon\">Decathlon</a></li>\n<li><a href=\"https://www.mobygames.com/game/10474/dragster/\">Dragster</a></li>\n<li><a href=\"https://www.mobygames.com/game/11588/enduro/\">Enduro</a></li>\n<li><a href=\"https://www.mobygames.com/game/10429/fishing-derby/\">Fishing Derby</a></li>\n<li><a href=\"https://www.mobygames.com/game/9173/freeway/\">Freeway</a></li>\n<li><a href=\"https://www.mobygames.com/game/11428/frostbite/\">Frostbite</a></li>\n<li><a href=\"https://www.mobygames.com/game/10150/hero/\">H.E.R.O.</a></li>\n<li><a href=\"https://www.mobygames.com/game/9475/keystone-kapers/\">Keystone Kapers</a></li>\n<li><a href=\"https://www.mobygames.com/game/9011/megamania/\">Megamania</a></li>\n<li><a href=\"https://www.mobygames.com/game/8793/pitfall/\">Pitfall!</a></li>\n<li><a href=\"https://www.mobygames.com/game/9807/pressure-cooker/\">Pressure Cooker</a></li>\n<li><a href=\"https://www.mobygames.com/game/6947/river-raid/\">River Raid</a></li>\n<li><a href=\"https://www.mobygames.com/game/10455/seaquest/\">Seaquest</a></li>\n<li><a href=\"https://www.mobygames.com/game/9067/stampede/\">Stampede</a></li>\n<li><a href=\"https://www.mobygames.com/game/19166/starmaster/\">Starmaster</a></li>\n</ul>\n<p>The system is completely self-contained in an HDMI dongle and uses wireless controllers for gameplay. While the system only includes one controller, additional ones are available separately.</p>",
         "genres": [
             {
                 "category": {
@@ -45972,7 +45972,7 @@
     },
     {
         "alternate_titles": [],
-        "description": "<p>The <em>Nintendo Classic Mini: Family Computer</em>, is a miniature replica of the Nintendo Famicom Entertainment System with 30 pre-installed games running on emulation software, with the option to save data only. Of the thirty games in this compilation, <strong>eight</strong> games were Japanese NTSC region specific, when compared to the USA (NTSC) / PAL <a href=\"https://www.mobygames.com/game/86364/nintendo-entertainment-system-nes-classic-edition/\">Nintendo Entertainment System: NES Classic Edition</a>:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/game/26328/atlantis-no-nazo/\">Atlantis no Nazo</a></li>\n<li><a href=\"https://www.mobygames.com/game/8391/balloon-fight/\">Balloon Fight</a></li>\n<li><a href=\"https://www.mobygames.com/game/2062/castlevania/\">Castlevania</a></li>\n<li><a href=\"https://www.mobygames.com/game/574/donkey-kong/\">Donkey Kong</a></li>\n<li><a href=\"https://www.mobygames.com/game/141632/double-dragon-ii-the-revenge/\">Double Dragon II: The Revenge</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Downtown+Nekketsu+Monogatari\">Downtown Nekketsu Monogatari</a></li>\n<li><a href=\"https://www.mobygames.com/game/25003/downtown-nekketsu-koshinkyoku-soreyuke-daiundokai/\">Downtown Nekketsu K\u014dshinkyoku: Soreyuke Daiund\u014dkai</a></li>\n<li><a href=\"https://www.mobygames.com/game/6116/dr-mario/\">Dr. Mario</a></li>\n<li><a href=\"https://www.mobygames.com/game/7469/excitebike/\">Excitebike</a></li>\n<li><a href=\"https://www.mobygames.com/game/7322/final-fantasy-iii/\">Final Fantasy III</a></li>\n<li><a href=\"https://www.mobygames.com/game/8402/galaga/\">Galaga</a></li>\n<li><a href=\"https://www.mobygames.com/game/582/ghosts-n-goblins/\">Ghosts 'N Goblins</a></li>\n<li><a href=\"https://www.mobygames.com/game/4512/gradius/\">Gradius</a></li>\n<li><a href=\"https://www.mobygames.com/game/8544/ice-climber/\">Ice Climber</a></li>\n<li><a href=\"https://www.mobygames.com/game/8146/kirbys-adventure/\">Kirby's Adventure</a></li>\n<li><a href=\"https://www.mobygames.com/game/7301/mario-bros/\">Mario Bros.</a></li>\n<li><a href=\"https://www.mobygames.com/game/5084/mega-man-2/\">Mega Man 2</a></li>\n<li><a href=\"https://www.mobygames.com/game/7303/metroid/\">Metroid</a></li>\n<li><a href=\"https://www.mobygames.com/game/8590/nes-open-tournament-golf/\">NES Open Tournament Golf</a></li>\n<li><a href=\"https://www.mobygames.com/game/7356/ninja-gaiden/\">Ninja Gaiden</a></li>\n<li><a href=\"https://www.mobygames.com/game/138/pac-man/\">Pac-Man</a></li>\n<li><a href=\"https://www.mobygames.com/game/13104/solomons-key/\">Solomon's Key</a></li>\n<li><a href=\"https://www.mobygames.com/game/7208/super-contra/\">Super Contra</a></li>\n<li><a href=\"https://www.mobygames.com/game/7298/super-mario-bros/\">Super Mario Bros.</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Super+Mario+Bros.+2\">Super Mario Bros. 2</a></li>\n<li><a href=\"https://www.mobygames.com/game/7300/super-mario-bros-3/\">Super Mario Bros. 3</a></li>\n<li><a href=\"https://www.mobygames.com/game/3393/the-legend-of-zelda/\">The Legend of Zelda</a></li>\n<li><a href=\"https://www.mobygames.com/game/61931/tsuppari-ozumo/\">Tsuppari \u014czum\u014d</a></li>\n<li><a href=\"https://www.mobygames.com/game/52051/yie-ar-kung-fu/\">Yie Ar Kung-Fu</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Zelda+II:+The+Adventure+of+Link+\">Zelda II: The Adventure of Link </a></li>\n</ul>",
+        "description": "<p>The <em>Nintendo Classic Mini: Family Computer</em>, is a miniature replica of the Nintendo Famicom Entertainment System with 30 pre-installed games running on emulation software, with the option to save data only. Of the thirty games in this compilation, <strong>eight</strong> games were Japanese NTSC region specific, when compared to the USA (NTSC) / PAL <a href=\"https://www.mobygames.com/game/86364/nintendo-entertainment-system-nes-classic-edition/\">Nintendo Entertainment System: NES Classic Edition</a>:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/search/?q=Atlantis+no+Nazo\">Atlantis no Nazo</a></li>\n<li><a href=\"https://www.mobygames.com/game/8391/balloon-fight/\">Balloon Fight</a></li>\n<li><a href=\"https://www.mobygames.com/game/2062/castlevania/\">Castlevania</a></li>\n<li><a href=\"https://www.mobygames.com/game/574/donkey-kong/\">Donkey Kong</a></li>\n<li><a href=\"https://www.mobygames.com/game/141632/double-dragon-ii-the-revenge/\">Double Dragon II: The Revenge</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Downtown+Nekketsu+Monogatari\">Downtown Nekketsu Monogatari</a></li>\n<li><a href=\"https://www.mobygames.com/game/25003/downtown-nekketsu-koshinkyoku-soreyuke-daiundokai/\">Downtown Nekketsu K\u014dshinkyoku: Soreyuke Daiund\u014dkai</a></li>\n<li><a href=\"https://www.mobygames.com/game/6116/dr-mario/\">Dr. Mario</a></li>\n<li><a href=\"https://www.mobygames.com/game/7469/excitebike/\">Excitebike</a></li>\n<li><a href=\"https://www.mobygames.com/game/7322/final-fantasy-iii/\">Final Fantasy III</a></li>\n<li><a href=\"https://www.mobygames.com/game/8402/galaga/\">Galaga</a></li>\n<li><a href=\"https://www.mobygames.com/game/582/ghosts-n-goblins/\">Ghosts 'N Goblins</a></li>\n<li><a href=\"https://www.mobygames.com/game/4512/gradius/\">Gradius</a></li>\n<li><a href=\"https://www.mobygames.com/game/8544/ice-climber/\">Ice Climber</a></li>\n<li><a href=\"https://www.mobygames.com/game/8146/kirbys-adventure/\">Kirby's Adventure</a></li>\n<li><a href=\"https://www.mobygames.com/game/7301/mario-bros/\">Mario Bros.</a></li>\n<li><a href=\"https://www.mobygames.com/game/5084/mega-man-2/\">Mega Man 2</a></li>\n<li><a href=\"https://www.mobygames.com/game/7303/metroid/\">Metroid</a></li>\n<li><a href=\"https://www.mobygames.com/game/8590/nes-open-tournament-golf/\">NES Open Tournament Golf</a></li>\n<li><a href=\"https://www.mobygames.com/game/7356/ninja-gaiden/\">Ninja Gaiden</a></li>\n<li><a href=\"https://www.mobygames.com/game/138/pac-man/\">Pac-Man</a></li>\n<li><a href=\"https://www.mobygames.com/game/13104/solomons-key/\">Solomon's Key</a></li>\n<li><a href=\"https://www.mobygames.com/game/7208/super-contra/\">Super Contra</a></li>\n<li><a href=\"https://www.mobygames.com/game/7298/super-mario-bros/\">Super Mario Bros.</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Super+Mario+Bros.+2\">Super Mario Bros. 2</a></li>\n<li><a href=\"https://www.mobygames.com/game/7300/super-mario-bros-3/\">Super Mario Bros. 3</a></li>\n<li><a href=\"https://www.mobygames.com/game/3393/the-legend-of-zelda/\">The Legend of Zelda</a></li>\n<li><a href=\"https://www.mobygames.com/game/61931/tsuppari-ozumo/\">Tsuppari \u014czum\u014d</a></li>\n<li><a href=\"https://www.mobygames.com/game/52051/yie-ar-kung-fu/\">Yie Ar Kung-Fu</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Zelda+II:+The+Adventure+of+Link+\">Zelda II: The Adventure of Link </a></li>\n</ul>",
         "genres": [
             {
                 "category": {
@@ -47920,7 +47920,7 @@
     },
     {
         "alternate_titles": [],
-        "description": "<p>This dedicated console contains 42 different arcade games (plus one SNES game) by Irem, Data East and Jaleco:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/game/44292/motorace-usa/\">Traverse USA</a> (MotoRace USA)</li>\n<li><a href=\"https://www.mobygames.com/game/48760/10-yard-fight/\">10-Yard Fight</a></li>\n<li><a href=\"https://www.mobygames.com/game/33143/kid-niki-radical-ninja/\">Kaiketsu Yanchamaru</a> (Kid Niki: Radical Ninja)</li>\n<li><a href=\"https://www.mobygames.com/game/5960/r-type/\">R-Type</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=R-Type+II\">R-Type II</a></li>\n<li><a href=\"https://www.mobygames.com/game/66079/r-type-leo/\">R-Type Leo</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Battle+Chopper\">Mr. Heli no Daib\u014dken</a> (Battle Chopper)</li>\n<li><a href=\"https://www.mobygames.com/game/10650/vigilante/\">Vigilante</a></li>\n<li><a href=\"https://www.mobygames.com/game/26089/kickle-cubicle/\">Meiky\u016bjima</a> (Kickle Cubicle)</li>\n<li><a href=\"https://www.mobygames.com/search/?q=Ninja+Spirit\">Saigo no Nind\u014d</a> (Ninja Spirit)</li>\n<li><a href=\"https://www.mobygames.com/game/27229/imagefight/\">ImageFight</a></li>\n<li><a href=\"https://www.mobygames.com/game/24538/legend-of-hero-tonma/\">Legend of Hero Tonma</a></li>\n<li><a href=\"https://www.mobygames.com/game/20621/dragon-breed/\">Dragon Breed</a></li>\n<li><a href=\"https://www.mobygames.com/game/66304/x-multiply/\">X Multiply</a></li>\n<li><a href=\"https://www.mobygames.com/game/24401/hammerin-harry/\">Daiku no Gen-san: Beranme-ch\u014d S\u014dd\u014dki</a> (Hammerin' Harry)</li>\n<li><a href=\"https://www.mobygames.com/search/?q=Air+Duel\">Air Duel</a></li>\n<li><a href=\"https://www.mobygames.com/game/74905/blade-master/\">Cross Blades</a> (Blade Master)</li>\n<li><a href=\"https://www.mobygames.com/game/73143/mystic-riders/\">Mahou Keibitai Gun Hoki</a> (Mystic Riders)</li>\n<li><a href=\"https://www.mobygames.com/game/15169/thunderblade/\">ThunderBlade</a></li>\n<li><a href=\"https://www.mobygames.com/game/67986/cosmic-cop/\">Gallop-Armed Police Unit</a> (Cosmic Cop)</li>\n<li><a href=\"https://www.mobygames.com/search/?q=Ken-Go\">Ken-Go</a></li>\n<li><a href=\"https://www.mobygames.com/game/7148/super-r-type/\">Super R-Type</a> (Super Famicom version)</li>\n<li><a href=\"https://www.mobygames.com/game/41715/srd-super-real-darwin/\">SRD: Super Real Darwin</a></li>\n<li><a href=\"https://www.mobygames.com/game/144662/kamikaze-cabbie/\">Yellow Cab</a> (Kamikaze Cabbie)</li>\n<li><a href=\"https://www.mobygames.com/game/16136/express-raider/\">Western Express</a> (Express Raider)</li>\n<li><a href=\"https://www.mobygames.com/game/13749/captain-silver/\">Captain Silver</a></li>\n<li><a href=\"https://www.mobygames.com/game/63256/the-cliffhanger-edward-randy/\">The Cliffhanger: Edward Randy</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=BreakThru\">Kyohkoh Toppa</a> (BreakThru)</li>\n<li><a href=\"https://www.mobygames.com/search/?q=Psycho-Nics+Oscar+\">Psycho-Nics Oscar</a></li>\n<li><a href=\"https://www.mobygames.com/game/167674/darwin-4078/\">Darwin 4078</a></li>\n<li><a href=\"https://www.mobygames.com/game/46394/gate-of-doom/\">Dark Seal</a> (Gate of Doom)</li>\n<li><a href=\"https://www.mobygames.com/search/?q=Night+Star\">Night Star</a></li>\n<li><a href=\"https://www.mobygames.com/game/63100/hippodrome/\">Fighting Fantasy</a> (Hippodrome)</li>\n<li><a href=\"https://www.mobygames.com/search/?q=Meikyuu+Hunter+G\">Meikyuu Hunter G</a></li>\n<li><a href=\"https://www.mobygames.com/game/20001/last-mission/\">Last Mission</a></li>\n<li><a href=\"https://www.mobygames.com/game/67096/liberation/\">Liberation</a></li>\n<li><a href=\"https://www.mobygames.com/game/126234/trio-the-punch-never-forget-me/\">Trio The Punch: Never Forget Me...</a></li>\n<li><a href=\"https://www.mobygames.com/game/106754/the-astyanax/\">The Lord of King</a> (The Astyanax)</li>\n<li><a href=\"https://www.mobygames.com/search/?q=Chameleon\">Chameleon</a></li>\n<li><a href=\"https://www.mobygames.com/game/51339/field-combat/\">Field Combat</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Formation+Z\">Formation Z</a></li>\n<li><a href=\"https://www.mobygames.com/game/14263/saint-dragon/\">Teisenryuu: Saint Dragon</a></li>\n</ul>\n<p>All included games are Japanese versions. The system also has on-screen instructions for all games, and allows you to save game data to internal memory or to an SD Card.</p>",
+        "description": "<p>This dedicated console contains 42 different arcade games (plus one SNES game) by Irem, Data East and Jaleco:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/game/44292/motorace-usa/\">Traverse USA</a> (MotoRace USA)</li>\n<li><a href=\"https://www.mobygames.com/game/48760/10-yard-fight/\">10-Yard Fight</a></li>\n<li><a href=\"https://www.mobygames.com/game/33143/kid-niki-radical-ninja/\">Kaiketsu Yanchamaru</a> (Kid Niki: Radical Ninja)</li>\n<li><a href=\"https://www.mobygames.com/game/5960/r-type/\">R-Type</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=R-Type+II\">R-Type II</a></li>\n<li><a href=\"https://www.mobygames.com/game/66079/r-type-leo/\">R-Type Leo</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Battle+Chopper\">Mr. Heli no Daib\u014dken</a> (Battle Chopper)</li>\n<li><a href=\"https://www.mobygames.com/game/10650/vigilante/\">Vigilante</a></li>\n<li><a href=\"https://www.mobygames.com/game/26089/kickle-cubicle/\">Meiky\u016bjima</a> (Kickle Cubicle)</li>\n<li><a href=\"https://www.mobygames.com/search/?q=Ninja+Spirit\">Saigo no Nind\u014d</a> (Ninja Spirit)</li>\n<li><a href=\"https://www.mobygames.com/game/27229/imagefight/\">ImageFight</a></li>\n<li><a href=\"https://www.mobygames.com/game/24538/legend-of-hero-tonma/\">Legend of Hero Tonma</a></li>\n<li><a href=\"https://www.mobygames.com/game/20621/dragon-breed/\">Dragon Breed</a></li>\n<li><a href=\"https://www.mobygames.com/game/66304/x-multiply/\">X Multiply</a></li>\n<li><a href=\"https://www.mobygames.com/game/24401/hammerin-harry/\">Daiku no Gen-san: Beranme-ch\u014d S\u014dd\u014dki</a> (Hammerin' Harry)</li>\n<li><a href=\"https://www.mobygames.com/search/?q=Air+Duel\">Air Duel</a></li>\n<li><a href=\"https://www.mobygames.com/game/74905/blade-master/\">Cross Blades</a> (Blade Master)</li>\n<li><a href=\"https://www.mobygames.com/game/73143/mystic-riders/\">Mahou Keibitai Gun Hoki</a> (Mystic Riders)</li>\n<li><a href=\"https://www.mobygames.com/search/?q=ThunderBlade\">ThunderBlade</a></li>\n<li><a href=\"https://www.mobygames.com/game/67986/cosmic-cop/\">Gallop-Armed Police Unit</a> (Cosmic Cop)</li>\n<li><a href=\"https://www.mobygames.com/search/?q=Ken-Go\">Ken-Go</a></li>\n<li><a href=\"https://www.mobygames.com/game/7148/super-r-type/\">Super R-Type</a> (Super Famicom version)</li>\n<li><a href=\"https://www.mobygames.com/game/41715/srd-super-real-darwin/\">SRD: Super Real Darwin</a></li>\n<li><a href=\"https://www.mobygames.com/game/144662/kamikaze-cabbie/\">Yellow Cab</a> (Kamikaze Cabbie)</li>\n<li><a href=\"https://www.mobygames.com/game/16136/express-raider/\">Western Express</a> (Express Raider)</li>\n<li><a href=\"https://www.mobygames.com/game/13749/captain-silver/\">Captain Silver</a></li>\n<li><a href=\"https://www.mobygames.com/game/63256/the-cliffhanger-edward-randy/\">The Cliffhanger: Edward Randy</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=BreakThru\">Kyohkoh Toppa</a> (BreakThru)</li>\n<li><a href=\"https://www.mobygames.com/search/?q=Psycho-Nics+Oscar+\">Psycho-Nics Oscar</a></li>\n<li><a href=\"https://www.mobygames.com/game/167674/darwin-4078/\">Darwin 4078</a></li>\n<li><a href=\"https://www.mobygames.com/game/46394/gate-of-doom/\">Dark Seal</a> (Gate of Doom)</li>\n<li><a href=\"https://www.mobygames.com/search/?q=Night+Star\">Night Star</a></li>\n<li><a href=\"https://www.mobygames.com/game/63100/hippodrome/\">Fighting Fantasy</a> (Hippodrome)</li>\n<li><a href=\"https://www.mobygames.com/search/?q=Meikyuu+Hunter+G\">Meikyuu Hunter G</a></li>\n<li><a href=\"https://www.mobygames.com/game/20001/last-mission/\">Last Mission</a></li>\n<li><a href=\"https://www.mobygames.com/game/67096/liberation/\">Liberation</a></li>\n<li><a href=\"https://www.mobygames.com/game/126234/trio-the-punch-never-forget-me/\">Trio The Punch: Never Forget Me...</a></li>\n<li><a href=\"https://www.mobygames.com/game/106754/the-astyanax/\">The Lord of King</a> (The Astyanax)</li>\n<li><a href=\"https://www.mobygames.com/search/?q=Chameleon\">Chameleon</a></li>\n<li><a href=\"https://www.mobygames.com/game/51339/field-combat/\">Field Combat</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Formation+Z\">Formation Z</a></li>\n<li><a href=\"https://www.mobygames.com/game/14263/saint-dragon/\">Teisenryuu: Saint Dragon</a></li>\n</ul>\n<p>All included games are Japanese versions. The system also has on-screen instructions for all games, and allows you to save game data to internal memory or to an SD Card.</p>",
         "genres": [
             {
                 "category": {
@@ -49500,7 +49500,12 @@
         "title": "Arcade1Up: Marvel Super Heroes Arcade Cabinet"
     },
     {
-        "alternate_titles": [],
+        "alternate_titles": [
+            {
+                "description": "Re-release title",
+                "title": "Star Wars Arcade Game"
+            }
+        ],
         "description": "<p><em>Arcade1Up Arcade</em> is a series of build-your-own arcade cabinet kits that include all needed parts to build a classic arcade system including the cabinet itself, arcade style artwork, a 17\" LCD monitor and the appropriate controls.<br>\n<em>The Star Wars Home Arcade Game</em> includes three classic Atari Star Wars arcade games and comes in two versions, a traditional stand-up cabinet and a sit down \"cockpit\", mimicking the original arcade release. It comes with four button analog flight yoke and the stand-up version a custom riser with original artwork.</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/game/3929/star-wars/\">Star Wars: A New Hope</a></li>\n<li><a href=\"https://www.mobygames.com/game/21280/star-wars-the-empire-strikes-back/\">Star Wars: The Empire Strikes Back</a></li>\n<li><a href=\"https://www.mobygames.com/game/17500/star-wars-return-of-the-jedi/\">Star Wars: Return of the Jedi</a></li>\n</ul>",
         "genres": [
             {
@@ -49690,24 +49695,6 @@
                 "description": null,
                 "id": 76,
                 "name": "Compilation"
-            },
-            {
-                "category": {
-                    "id": 1,
-                    "name": "Basic Genres"
-                },
-                "description": null,
-                "id": 5,
-                "name": "Sports"
-            },
-            {
-                "category": {
-                    "id": 3,
-                    "name": "Sports Themes"
-                },
-                "description": null,
-                "id": 35,
-                "name": "Golf"
             }
         ],
         "id": 149651,
@@ -49853,13 +49840,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Commando",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16876512-capcom-3-in-1-dedicated-console-commando.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c69baba2-c3fb-11ed-be63-02420a000121.webp",
-                "width": 320
-            },
-            {
                 "caption": "The main menu, where the player can select the three games.",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16876890-capcom-3-in-1-dedicated-console-the-main-menu-where-the-player-c.png",
@@ -49867,10 +49847,10 @@
                 "width": 320
             },
             {
-                "caption": "1942",
+                "caption": "Commando",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16876887-capcom-3-in-1-dedicated-console-1942.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/fdee6cc0-c3fb-11ed-be63-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16876512-capcom-3-in-1-dedicated-console-commando.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c69baba2-c3fb-11ed-be63-02420a000121.webp",
                 "width": 320
             },
             {
@@ -49878,6 +49858,13 @@
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16876509-capcom-3-in-1-dedicated-console-ghosts-n-goblins.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/c67c23d6-c3fb-11ed-be63-02420a000121.webp",
+                "width": 320
+            },
+            {
+                "caption": "1942",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16876887-capcom-3-in-1-dedicated-console-1942.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fdee6cc0-c3fb-11ed-be63-02420a000121.webp",
                 "width": 320
             }
         ],

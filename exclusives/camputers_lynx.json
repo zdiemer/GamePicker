@@ -124,13 +124,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Crashing into another car",
-                "height": 248,
-                "image_url": "https://cdn.mobygames.com/screenshots/16528698-racer-camputers-lynx-crashing-into-another-car.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/fd6ec844-c234-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "Refuelling",
                 "height": 248,
                 "image_url": "https://cdn.mobygames.com/screenshots/16528686-racer-camputers-lynx-refuelling.png",
@@ -152,10 +145,17 @@
                 "width": 256
             },
             {
-                "caption": "Countdown",
+                "caption": "Crashing into another car",
                 "height": 248,
-                "image_url": "https://cdn.mobygames.com/screenshots/16528458-racer-camputers-lynx-countdown.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e0c0b3ba-c234-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16528698-racer-camputers-lynx-crashing-into-another-car.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fd6ec844-c234-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Out of fuel!",
+                "height": 248,
+                "image_url": "https://cdn.mobygames.com/screenshots/16528695-racer-camputers-lynx-out-of-fuel.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fd58f82a-c234-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -218,31 +218,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Cherries appear",
+                "caption": "High score",
                 "height": 248,
-                "image_url": "https://cdn.mobygames.com/screenshots/16528821-gobble-de-spook-camputers-lynx-cherries-appear.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/07292208-c235-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16528827-gobble-de-spook-camputers-lynx-high-score.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/08320552-c235-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
-                "caption": "Instructions",
+                "caption": "Scoring",
                 "height": 248,
-                "image_url": "https://cdn.mobygames.com/screenshots/16531345-gobble-de-spook-camputers-lynx-instructions.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d3898054-c235-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16528157-gobble-de-spook-camputers-lynx-scoring.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cf963a9c-c234-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
-                "caption": "Invisible walls",
+                "caption": "Controls",
                 "height": 248,
-                "image_url": "https://cdn.mobygames.com/screenshots/16528833-gobble-de-spook-camputers-lynx-invisible-walls.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/08615960-c235-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Grabbing the power pill",
-                "height": 248,
-                "image_url": "https://cdn.mobygames.com/screenshots/16528836-gobble-de-spook-camputers-lynx-grabbing-the-power-pill.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/08793954-c235-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16531384-gobble-de-spook-camputers-lynx-controls.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d8bfa30a-c235-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -250,6 +243,13 @@
                 "height": 248,
                 "image_url": "https://cdn.mobygames.com/screenshots/16528815-gobble-de-spook-camputers-lynx-title-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/0697cf24-c235-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Invisible walls",
+                "height": 248,
+                "image_url": "https://cdn.mobygames.com/screenshots/16528833-gobble-de-spook-camputers-lynx-invisible-walls.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/08615960-c235-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -339,24 +339,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title with controls",
+                "caption": "Game over",
                 "height": 248,
-                "image_url": "https://cdn.mobygames.com/screenshots/16565448-lynx-invaders-camputers-lynx-title-with-controls.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e4fbc3c8-c240-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Mystery ship appears",
-                "height": 248,
-                "image_url": "https://cdn.mobygames.com/screenshots/16565436-lynx-invaders-camputers-lynx-mystery-ship-appears.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e497cb0c-c240-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Starting out",
-                "height": 248,
-                "image_url": "https://cdn.mobygames.com/screenshots/16565442-lynx-invaders-camputers-lynx-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e4c9f0d2-c240-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16565427-lynx-invaders-camputers-lynx-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e3724ee6-c240-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -367,10 +353,24 @@
                 "width": 256
             },
             {
-                "caption": "Destroying an alien",
+                "caption": "Getting lots of points for shooting it down",
                 "height": 248,
-                "image_url": "https://cdn.mobygames.com/screenshots/16565439-lynx-invaders-camputers-lynx-destroying-an-alien.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e4b23618-c240-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16565433-lynx-invaders-camputers-lynx-getting-lots-of-points-for-shooting.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e3a394d8-c240-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting out",
+                "height": 248,
+                "image_url": "https://cdn.mobygames.com/screenshots/16565442-lynx-invaders-camputers-lynx-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e4c9f0d2-c240-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Mystery ship appears",
+                "height": 248,
+                "image_url": "https://cdn.mobygames.com/screenshots/16565436-lynx-invaders-camputers-lynx-mystery-ship-appears.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e497cb0c-c240-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -442,10 +442,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "In play - Level 1",
+                "caption": "Launch screen",
                 "height": 248,
-                "image_url": "https://cdn.mobygames.com/screenshots/9986335-panik-camputers-lynx-in-play-level-1.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/fb40e690-ac0b-11ed-833b-02420a000131.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/9986332-panik-camputers-lynx-launch-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fb187cd2-ac0b-11ed-833b-02420a000131.webp",
                 "width": 256
             },
             {
@@ -456,10 +456,10 @@
                 "width": 256
             },
             {
-                "caption": "Launch screen",
+                "caption": "In play - Level 1",
                 "height": 248,
-                "image_url": "https://cdn.mobygames.com/screenshots/9986332-panik-camputers-lynx-launch-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/fb187cd2-ac0b-11ed-833b-02420a000131.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/9986335-panik-camputers-lynx-in-play-level-1.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fb40e690-ac0b-11ed-833b-02420a000131.webp",
                 "width": 256
             }
         ],
@@ -540,17 +540,31 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Entering cave with torch",
+                "caption": "Avoid the water!",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16070176-treasure-island-camputers-lynx-entering-cave-with-torch.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1d4076aa-bf69-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16070866-treasure-island-camputers-lynx-avoid-the-water.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/50dcdf26-bf69-11ed-9521-02420a000152.webp",
                 "width": 256
             },
             {
-                "caption": "Getting killed by a dragon",
+                "caption": "Instructions, page 1",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16070155-treasure-island-camputers-lynx-getting-killed-by-a-dragon.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1bebf9fa-bf69-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16070905-treasure-island-camputers-lynx-instructions-page-1.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5474acea-bf69-11ed-9521-02420a000152.webp",
+                "width": 256
+            },
+            {
+                "caption": "Picking up a map only to get killed by a scorpion hiding under it",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16070140-treasure-island-camputers-lynx-picking-up-a-map-only-to-get-kill.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1b6d5c08-bf69-11ed-9521-02420a000152.webp",
+                "width": 256
+            },
+            {
+                "caption": "Instructions, page 2",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16070899-treasure-island-camputers-lynx-instructions-page-2.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/54430cee-bf69-11ed-9521-02420a000152.webp",
                 "width": 256
             },
             {
@@ -558,20 +572,6 @@
                 "height": 256,
                 "image_url": "https://cdn.mobygames.com/screenshots/16070920-treasure-island-camputers-lynx-loading-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/56b8400c-bf69-11ed-9521-02420a000152.webp",
-                "width": 256
-            },
-            {
-                "caption": "Entering a cave",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16070881-treasure-island-camputers-lynx-entering-a-cave.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/51a769b2-bf69-11ed-9521-02420a000152.webp",
-                "width": 256
-            },
-            {
-                "caption": "Starting out",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16070890-treasure-island-camputers-lynx-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/53387bcc-bf69-11ed-9521-02420a000152.webp",
                 "width": 256
             }
         ],

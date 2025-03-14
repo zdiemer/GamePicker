@@ -132,17 +132,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Options (Life)",
+                "caption": "Title / instructions (Life)",
                 "height": 416,
-                "image_url": "https://cdn.mobygames.com/screenshots/15874626-gamepac-1-sol-20-options-life.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/929f590c-bf00-11ed-9c42-02420a000140.webp",
-                "width": 576
-            },
-            {
-                "caption": "Launching a missile (Target)",
-                "height": 416,
-                "image_url": "https://cdn.mobygames.com/screenshots/15874794-gamepac-1-sol-20-launching-a-missile-target.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a1295aa4-bf00-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15874662-gamepac-1-sol-20-title-instructions-life.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/97d6b5b4-bf00-11ed-9c42-02420a000140.webp",
                 "width": 576
             },
             {
@@ -160,10 +153,17 @@
                 "width": 576
             },
             {
-                "caption": "Starting out (Target)",
+                "caption": "Title screen / instructions (Target)",
                 "height": 416,
-                "image_url": "https://cdn.mobygames.com/screenshots/15874767-gamepac-1-sol-20-starting-out-target.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a01e5fa6-bf00-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15874731-gamepac-1-sol-20-title-screen-instructions-target.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9d03e75a-bf00-11ed-9c42-02420a000140.webp",
+                "width": 576
+            },
+            {
+                "caption": "Pattern no 1 (Life)",
+                "height": 416,
+                "image_url": "https://cdn.mobygames.com/screenshots/15874605-gamepac-1-sol-20-pattern-no-1-life.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/90a3ca8e-bf00-11ed-9c42-02420a000140.webp",
                 "width": 576
             }
         ],
@@ -289,20 +289,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Getting hanged (Hangman)",
-                "height": 416,
-                "image_url": "https://cdn.mobygames.com/screenshots/15875706-gamepac-2-sol-20-getting-hanged-hangman.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ea8cf99e-bf00-11ed-9c42-02420a000140.webp",
-                "width": 576
-            },
-            {
-                "caption": "Starting out (Hangman)",
-                "height": 416,
-                "image_url": "https://cdn.mobygames.com/screenshots/15875772-gamepac-2-sol-20-starting-out-hangman.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f195b3a2-bf00-11ed-9c42-02420a000140.webp",
-                "width": 576
-            },
-            {
                 "caption": "Title and menu (Hangman)",
                 "height": 416,
                 "image_url": "https://cdn.mobygames.com/screenshots/15875805-gamepac-2-sol-20-title-and-menu-hangman.png",
@@ -310,10 +296,10 @@
                 "width": 576
             },
             {
-                "caption": "Start screen (Qubic)",
+                "caption": "Make an error and the body is drawn (Hangman)",
                 "height": 416,
-                "image_url": "https://cdn.mobygames.com/screenshots/15875769-gamepac-2-sol-20-start-screen-qubic.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f17d84c6-bf00-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15875850-gamepac-2-sol-20-make-an-error-and-the-body-is-drawn-hangman.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f87a36de-bf00-11ed-9c42-02420a000140.webp",
                 "width": 576
             },
             {
@@ -321,6 +307,20 @@
                 "height": 416,
                 "image_url": "https://cdn.mobygames.com/screenshots/15876081-gamepac-2-sol-20-game-in-progress-qubic.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/0fa25c7e-bf01-11ed-9c42-02420a000140.webp",
+                "width": 576
+            },
+            {
+                "caption": "Getting hanged (Hangman)",
+                "height": 416,
+                "image_url": "https://cdn.mobygames.com/screenshots/15875706-gamepac-2-sol-20-getting-hanged-hangman.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ea8cf99e-bf00-11ed-9c42-02420a000140.webp",
+                "width": 576
+            },
+            {
+                "caption": "Start screen (Qubic)",
+                "height": 416,
+                "image_url": "https://cdn.mobygames.com/screenshots/15875769-gamepac-2-sol-20-start-screen-qubic.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f17d84c6-bf00-11ed-9c42-02420a000140.webp",
                 "width": 576
             }
         ],
@@ -494,13 +494,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Starting out",
-                "height": 416,
-                "image_url": "https://cdn.mobygames.com/screenshots/16103195-mine-field-sol-20-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/facdefe4-bf72-11ed-9521-02420a000152.webp",
-                "width": 576
-            },
-            {
                 "caption": "A game with machine gun nests and mortars",
                 "height": 416,
                 "image_url": "https://cdn.mobygames.com/screenshots/16103201-mine-field-sol-20-a-game-with-machine-gun-nests-and-mortars.png",
@@ -508,10 +501,24 @@
                 "width": 576
             },
             {
-                "caption": "Getting killed",
+                "caption": "Graphics explained",
                 "height": 416,
-                "image_url": "https://cdn.mobygames.com/screenshots/16103192-mine-field-sol-20-getting-killed.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f9e512f6-bf72-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16103198-mine-field-sol-20-graphics-explained.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fae7cbe4-bf72-11ed-9521-02420a000152.webp",
+                "width": 576
+            },
+            {
+                "caption": "Starting out",
+                "height": 416,
+                "image_url": "https://cdn.mobygames.com/screenshots/16103195-mine-field-sol-20-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/facdefe4-bf72-11ed-9521-02420a000152.webp",
+                "width": 576
+            },
+            {
+                "caption": "Title screen",
+                "height": 416,
+                "image_url": "https://cdn.mobygames.com/screenshots/16103204-mine-field-sol-20-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fb153f66-bf72-11ed-9521-02420a000152.webp",
                 "width": 576
             },
             {
@@ -519,13 +526,6 @@
                 "height": 416,
                 "image_url": "https://cdn.mobygames.com/screenshots/16103186-mine-field-sol-20-making-it-across.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/f9b8cbc4-bf72-11ed-9521-02420a000152.webp",
-                "width": 576
-            },
-            {
-                "caption": "End results",
-                "height": 416,
-                "image_url": "https://cdn.mobygames.com/screenshots/16103180-mine-field-sol-20-end-results.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f97e25d2-bf72-11ed-9521-02420a000152.webp",
                 "width": 576
             }
         ],

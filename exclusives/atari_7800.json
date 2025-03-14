@@ -90,6 +90,20 @@
                 "width": 320
             },
             {
+                "caption": "Title screen",
+                "height": 225,
+                "image_url": "https://cdn.mobygames.com/screenshots/531391-super-skateboardin-atari-7800-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d2c29b44-ab6d-11ed-9377-02420a000197.webp",
+                "width": 320
+            },
+            {
+                "caption": "Some skateboardin'",
+                "height": 225,
+                "image_url": "https://cdn.mobygames.com/screenshots/531531-super-skateboardin-atari-7800-some-skateboardin.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d317292a-ab6d-11ed-9377-02420a000197.webp",
+                "width": 320
+            },
+            {
                 "caption": "Atari logo",
                 "height": 225,
                 "image_url": "https://cdn.mobygames.com/screenshots/531709-super-skateboardin-atari-7800-atari-logo.png",
@@ -101,20 +115,6 @@
                 "height": 225,
                 "image_url": "https://cdn.mobygames.com/screenshots/531662-super-skateboardin-atari-7800-skateboardin-past-a-waterfountain.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/d34fd734-ab6d-11ed-9377-02420a000197.webp",
-                "width": 320
-            },
-            {
-                "caption": "Some skateboardin'",
-                "height": 225,
-                "image_url": "https://cdn.mobygames.com/screenshots/531531-super-skateboardin-atari-7800-some-skateboardin.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d317292a-ab6d-11ed-9377-02420a000197.webp",
-                "width": 320
-            },
-            {
-                "caption": "Title screen",
-                "height": 225,
-                "image_url": "https://cdn.mobygames.com/screenshots/531391-super-skateboardin-atari-7800-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d2c29b44-ab6d-11ed-9377-02420a000197.webp",
                 "width": 320
             }
         ],
@@ -186,10 +186,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title screen",
+                "caption": "Beginning the first level",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/2024535-meltdown-atari-7800-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7d7f11be-ab7a-11ed-87ec-02420a00019c.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2024942-meltdown-atari-7800-beginning-the-first-level.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7ed52c56-ab7a-11ed-87ec-02420a00019c.webp",
                 "width": 320
             },
             {
@@ -200,24 +200,24 @@
                 "width": 320
             },
             {
-                "caption": "Beginning the first level",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/2024942-meltdown-atari-7800-beginning-the-first-level.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7ed52c56-ab7a-11ed-87ec-02420a00019c.webp",
-                "width": 320
-            },
-            {
-                "caption": "Atari logo",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/711645-meltdown-atari-7800-atari-logo.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4ac3827e-ab6f-11ed-b325-02420a00019e.webp",
-                "width": 320
-            },
-            {
                 "caption": "The reactor walls are caving in",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/2025079-meltdown-atari-7800-the-reactor-walls-are-caving-in.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/7f2ae9de-ab7a-11ed-87ec-02420a00019c.webp",
+                "width": 320
+            },
+            {
+                "caption": "Overview of the next level",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/2024761-meltdown-atari-7800-overview-of-the-next-level.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7e4b01f2-ab7a-11ed-87ec-02420a00019c.webp",
+                "width": 320
+            },
+            {
+                "caption": "Game over",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/2025201-meltdown-atari-7800-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7f7285fa-ab7a-11ed-87ec-02420a00019c.webp",
                 "width": 320
             }
         ],
@@ -298,10 +298,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title screen",
+                "caption": "Game over",
                 "height": 225,
-                "image_url": "https://cdn.mobygames.com/screenshots/726574-water-ski-atari-7800-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/69eb36c4-ab6f-11ed-9d05-02420a000198.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/726955-water-ski-atari-7800-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6ab5cdb2-ab6f-11ed-9d05-02420a000198.webp",
                 "width": 320
             },
             {
@@ -319,10 +319,10 @@
                 "width": 320
             },
             {
-                "caption": "Game over",
+                "caption": "Atari logo",
                 "height": 225,
-                "image_url": "https://cdn.mobygames.com/screenshots/726955-water-ski-atari-7800-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6ab5cdb2-ab6f-11ed-9d05-02420a000198.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/726327-water-ski-atari-7800-atari-logo.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/69723fee-ab6f-11ed-aa5a-02420a0001a0.webp",
                 "width": 320
             },
             {
@@ -410,13 +410,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Watch out for incoming enemy fire",
-                "height": 225,
-                "image_url": "https://cdn.mobygames.com/screenshots/731241-tank-command-atari-7800-watch-out-for-incoming-enemy-fire.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7368bd52-ab6f-11ed-81b6-02420a00019d.webp",
-                "width": 320
-            },
-            {
                 "caption": "Atari logo",
                 "height": 225,
                 "image_url": "https://cdn.mobygames.com/screenshots/730707-tank-command-atari-7800-atari-logo.png",
@@ -424,17 +417,24 @@
                 "width": 320
             },
             {
-                "caption": "Destroying an enemy pillbox",
-                "height": 225,
-                "image_url": "https://cdn.mobygames.com/screenshots/731100-tank-command-atari-7800-destroying-an-enemy-pillbox.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7324d204-ab6f-11ed-81b6-02420a00019d.webp",
-                "width": 320
-            },
-            {
                 "caption": "Narrowly escaped an explosion!",
                 "height": 225,
                 "image_url": "https://cdn.mobygames.com/screenshots/731236-tank-command-atari-7800-narrowly-escaped-an-explosion.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/73637ffe-ab6f-11ed-b325-02420a00019e.webp",
+                "width": 320
+            },
+            {
+                "caption": "Try to destroy these enemy tanks",
+                "height": 225,
+                "image_url": "https://cdn.mobygames.com/screenshots/730966-tank-command-atari-7800-try-to-destroy-these-enemy-tanks.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/72e49cac-ab6f-11ed-81b6-02420a00019d.webp",
+                "width": 320
+            },
+            {
+                "caption": "Title screen",
+                "height": 225,
+                "image_url": "https://cdn.mobygames.com/screenshots/730843-tank-command-atari-7800-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/72a6e3b2-ab6f-11ed-81b6-02420a00019d.webp",
                 "width": 320
             },
             {
@@ -536,6 +536,20 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Death by attack dog!",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/2050599-midnight-mutants-atari-7800-death-by-attack-dog.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c2fa943e-ab7a-11ed-9505-02420a00019c.webp",
+                "width": 320
+            },
+            {
+                "caption": "The graveyard is spooky",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/2049803-midnight-mutants-atari-7800-the-graveyard-is-spooky.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c0839e94-ab7a-11ed-9505-02420a00019c.webp",
+                "width": 320
+            },
+            {
                 "caption": "I have found the knife",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/2050210-midnight-mutants-atari-7800-i-have-found-the-knife.png",
@@ -543,31 +557,17 @@
                 "width": 320
             },
             {
-                "caption": "Title screen",
+                "caption": "A deadly path through the woods",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/2048529-midnight-mutants-atari-7800-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bd6478be-ab7a-11ed-9505-02420a00019c.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2050397-midnight-mutants-atari-7800-a-deadly-path-through-the-woods.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c2610634-ab7a-11ed-9505-02420a00019c.webp",
                 "width": 320
             },
             {
-                "caption": "Exploring the lands",
+                "caption": "Zombies in the dining room",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/2048890-midnight-mutants-atari-7800-exploring-the-lands.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/be4932a6-ab7a-11ed-9505-02420a00019c.webp",
-                "width": 320
-            },
-            {
-                "caption": "The starting location",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/2048686-midnight-mutants-atari-7800-the-starting-location.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bdc8a3ac-ab7a-11ed-9505-02420a00019c.webp",
-                "width": 320
-            },
-            {
-                "caption": "Death by attack dog!",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/2050599-midnight-mutants-atari-7800-death-by-attack-dog.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c2fa943e-ab7a-11ed-9505-02420a00019c.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2050006-midnight-mutants-atari-7800-zombies-in-the-dining-room.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c123e48a-ab7a-11ed-9505-02420a00019c.webp",
                 "width": 320
             }
         ],
@@ -791,13 +791,6 @@
                 "width": 320
             },
             {
-                "caption": "Title screen and main menu",
-                "height": 223,
-                "image_url": "https://cdn.mobygames.com/screenshots/16190572-bnq-atari-7800-title-screen-and-main-menu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/dca0812e-c1cc-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
                 "caption": "I lost all my lives. Game over.",
                 "height": 223,
                 "image_url": "https://cdn.mobygames.com/screenshots/16191664-bnq-atari-7800-i-lost-all-my-lives-game-over.png",
@@ -805,17 +798,24 @@
                 "width": 320
             },
             {
-                "caption": "Starting level 1",
-                "height": 223,
-                "image_url": "https://cdn.mobygames.com/screenshots/16198658-bnq-atari-7800-starting-level-1.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4c89a3d8-c1cf-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
                 "caption": "I completed the level",
                 "height": 223,
                 "image_url": "https://cdn.mobygames.com/screenshots/16190578-bnq-atari-7800-i-completed-the-level.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/dcd03d56-c1cc-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Enter your initials for high score.",
+                "height": 223,
+                "image_url": "https://cdn.mobygames.com/screenshots/16198832-bnq-atari-7800-enter-your-initials-for-high-score.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/62b2d8b4-c1cf-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Title screen and main menu",
+                "height": 223,
+                "image_url": "https://cdn.mobygames.com/screenshots/16190572-bnq-atari-7800-title-screen-and-main-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dca0812e-c1cc-11ed-ab6b-02420a000194.webp",
                 "width": 320
             }
         ],

@@ -74,20 +74,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "(Mode 5) The blue tanks come out to hunt",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16050100-armoured-assault-spectravideo-mode-5-the-blue-tanks-come-out-to-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0c324e04-bf39-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "(Mode 1) A hit!",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15941652-armoured-assault-spectravideo-mode-1-a-hit.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/839da8e0-bf15-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
                 "caption": "Title screen",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/15914442-armoured-assault-spectravideo-title-screen.png",
@@ -95,10 +81,24 @@
                 "width": 256
             },
             {
+                "caption": "(Mode 5) The blue tanks come out to hunt",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16050100-armoured-assault-spectravideo-mode-5-the-blue-tanks-come-out-to-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0c324e04-bf39-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
                 "caption": "(Mode 3) A double hit",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16050073-armoured-assault-spectravideo-mode-3-a-double-hit.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/0b08d73c-bf39-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "(Mode 1) A hit!",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/15941652-armoured-assault-spectravideo-mode-1-a-hit.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/839da8e0-bf15-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
@@ -173,10 +173,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Reached the hole on stroke 4",
+                "caption": "Instructions",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15954935-mini-golf-spectravideo-reached-the-hole-on-stroke-4.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6a616d22-bf19-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15993394-mini-golf-spectravideo-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e807fe94-bf23-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "You're good if you make course 5 in less than 8 shots",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/15993403-mini-golf-spectravideo-youre-good-if-you-make-course-5-in-less-t.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e85e152c-bf23-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Made it in 5 strokes",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/15946888-mini-golf-spectravideo-made-it-in-5-strokes.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/10511712-bf17-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
@@ -187,24 +201,10 @@
                 "width": 256
             },
             {
-                "caption": "Title screen",
+                "caption": "Course 6",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15947074-mini-golf-spectravideo-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1db9316e-bf17-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "The little small dot represents the club",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15947098-mini-golf-spectravideo-the-little-small-dot-represents-the-club.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/200901ce-bf17-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Course 2 with a corner and an obstacle",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15955229-mini-golf-spectravideo-course-2-with-a-corner-and-an-obstacle.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7d584efa-bf19-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15993412-mini-golf-spectravideo-course-6.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e8abe5e0-bf23-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -267,17 +267,31 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Going to the next level",
+                "caption": "Top score",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15723785-crazy-teeth-spectravideo-going-to-the-next-level.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/887bb9c2-bed1-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15944352-crazy-teeth-spectravideo-top-score.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/501f7312-bf16-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "Moving the stop sign",
+                "caption": "Title screen",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15936722-crazy-teeth-spectravideo-moving-the-stop-sign.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/04969f80-bf14-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15943995-crazy-teeth-spectravideo-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2e73daa0-bf16-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting out in the top left corner",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/15936569-crazy-teeth-spectravideo-starting-out-in-the-top-left-corner.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fb5396c6-bf13-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "That cake looks delicious",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/15936305-crazy-teeth-spectravideo-that-cake-looks-delicious.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e6ad093c-bf13-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
@@ -285,20 +299,6 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/15936347-crazy-teeth-spectravideo-game-over.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/ea0a7a6a-bf13-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "An encounter with an enemy",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15936275-crazy-teeth-spectravideo-an-encounter-with-an-enemy.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e51e75ba-bf13-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "When you flash, you can eat enemies",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15944007-crazy-teeth-spectravideo-when-you-flash-you-can-eat-enemies.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2f7e13ca-bf16-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -544,17 +544,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Start",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16275302-graphic-chess-spectravideo-start.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e454f318-c1e6-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "Playing",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16275209-graphic-chess-spectravideo-playing.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/dd6547b0-c1e6-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Start",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16275302-graphic-chess-spectravideo-start.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e454f318-c1e6-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -635,17 +635,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Action",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16294262-hubert-spectravideo-action.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ba85dac4-c1ec-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "Intro",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16364506-hubert-spectravideo-intro.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/4c910480-c205-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Action",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16294262-hubert-spectravideo-action.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ba85dac4-c1ec-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -708,10 +708,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The larva has died",
+                "caption": "Settings screen",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16399340-larv-competition-spectravideo-the-larva-has-died.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ecd64b12-c20f-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16399322-larv-competition-spectravideo-settings-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/eb8cf9a4-c20f-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -729,17 +729,17 @@
                 "width": 256
             },
             {
-                "caption": "Starting out",
+                "caption": "The end is near",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16403720-larv-competition-spectravideo-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/00d3b3e2-c211-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16399316-larv-competition-spectravideo-the-end-is-near.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/eb5c0d58-c20f-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
-                "caption": "A dead end",
+                "caption": "Instructions",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16399313-larv-competition-spectravideo-a-dead-end.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/eb447094-c20f-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16399319-larv-competition-spectravideo-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/eb754480-c20f-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -802,10 +802,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Growing a lot",
+                "caption": "This time, it didn't overflow",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16403729-masken-spectravideo-growing-a-lot.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/012f3730-c211-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16399331-masken-spectravideo-this-time-it-didnt-overflow.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ec901796-c20f-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -813,6 +813,13 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16399334-masken-spectravideo-growing-too-much.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/eca77f9e-c20f-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Worming around",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16399328-masken-spectravideo-worming-around.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ec79dab2-c20f-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -827,13 +834,6 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16399337-masken-spectravideo-growing-some-more.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/ecbd8532-c20f-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Worming around",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16399328-masken-spectravideo-worming-around.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ec79dab2-c20f-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -896,17 +896,17 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Instructions",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16408901-explorer-iii-spectravideo-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/662c2840-c212-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
                 "caption": "You stand in a forest in front of a large rock",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16408820-explorer-iii-spectravideo-you-stand-in-a-forest-in-front-of-a-la.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/5d59049a-c212-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "You find a knife near the creek",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16408145-explorer-iii-spectravideo-you-find-a-knife-near-the-creek.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/300fb966-c212-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -917,10 +917,10 @@
                 "width": 256
             },
             {
-                "caption": "Instructions",
+                "caption": "You find a knife near the creek",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16408901-explorer-iii-spectravideo-instructions.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/662c2840-c212-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16408145-explorer-iii-spectravideo-you-find-a-knife-near-the-creek.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/300fb966-c212-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -992,17 +992,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Lost another ball",
+                "caption": "Your number of remaining balls on the left, score on the right",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16411559-spectra-break-spectravideo-lost-another-ball.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4d5c682e-c213-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Start\u00edng out",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16411562-spectra-break-spectravideo-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4d720aee-c213-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16411565-spectra-break-spectravideo-your-number-of-remaining-balls-on-the.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4e4e1232-c213-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -1017,6 +1010,13 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16411550-spectra-break-spectravideo-title-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/4d17e97e-c213-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Final score",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16411568-spectra-break-spectravideo-final-score.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4e61a9aa-c213-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -1086,17 +1086,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Going for the exit",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16414208-sweewos-partner-spectravideo-going-for-the-exit.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/09a3d940-c214-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "You are the blue ball in the top left corner",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16414205-sweewos-partner-spectravideo-you-are-the-blue-ball-in-the-top-le.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/0986c4cc-c214-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Level 2",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16414220-sweewos-partner-spectravideo-level-2.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0a0238dc-c214-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Sneaking below the moving green platform to pick up the red dot",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16414211-sweewos-partner-spectravideo-sneaking-below-the-moving-green-pla.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/09bcce6e-c214-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -1107,17 +1114,10 @@
                 "width": 256
             },
             {
-                "caption": "Game over",
+                "caption": "Moving past the ratcheting \"S\" shape",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16414217-sweewos-partner-spectravideo-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/09ebd93e-c214-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Level 2",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16414220-sweewos-partner-spectravideo-level-2.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0a0238dc-c214-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16414214-sweewos-partner-spectravideo-moving-past-the-ratcheting-s-shape.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/09d3fb98-c214-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -1180,13 +1180,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Instructions",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16415135-bomb-man-spectravideo-instructions.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/47cc35b4-c214-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "All clear",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16415147-bomb-man-spectravideo-all-clear.png",
@@ -1194,17 +1187,24 @@
                 "width": 256
             },
             {
+                "caption": "Bonus round",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16415150-bomb-man-spectravideo-bonus-round.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/483c2ac2-c214-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Instructions",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16415135-bomb-man-spectravideo-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/47cc35b4-c214-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
                 "caption": "Disarming bombs",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16415141-bomb-man-spectravideo-disarming-bombs.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/47fc3020-c214-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Cornered by the green man",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16415138-bomb-man-spectravideo-cornered-by-the-green-man.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/47e41cce-c214-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -1290,13 +1290,6 @@
                 "width": 282
             },
             {
-                "caption": "Generation 3",
-                "height": 218,
-                "image_url": "https://cdn.mobygames.com/screenshots/16415159-game-of-life-spectravideo-generation-3.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/487e0ad2-c214-11ed-ab6b-02420a000194.webp",
-                "width": 282
-            },
-            {
                 "caption": "Title screen",
                 "height": 218,
                 "image_url": "https://cdn.mobygames.com/screenshots/16415132-game-of-life-spectravideo-title-screen.png",
@@ -1304,17 +1297,24 @@
                 "width": 282
             },
             {
-                "caption": "Choose to design your own or use the preset pattern",
-                "height": 218,
-                "image_url": "https://cdn.mobygames.com/screenshots/16415153-game-of-life-spectravideo-choose-to-design-your-own-or-use-the-p.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/48506aaa-c214-11ed-ab6b-02420a000194.webp",
-                "width": 282
-            },
-            {
                 "caption": "Splash screen",
                 "height": 218,
                 "image_url": "https://cdn.mobygames.com/screenshots/16415024-game-of-life-spectravideo-splash-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/3ef84e5a-c214-11ed-ab6b-02420a000194.webp",
+                "width": 282
+            },
+            {
+                "caption": "Generation 3",
+                "height": 218,
+                "image_url": "https://cdn.mobygames.com/screenshots/16415159-game-of-life-spectravideo-generation-3.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/487e0ad2-c214-11ed-ab6b-02420a000194.webp",
+                "width": 282
+            },
+            {
+                "caption": "Choose to design your own or use the preset pattern",
+                "height": 218,
+                "image_url": "https://cdn.mobygames.com/screenshots/16415153-game-of-life-spectravideo-choose-to-design-your-own-or-use-the-p.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/48506aaa-c214-11ed-ab6b-02420a000194.webp",
                 "width": 282
             }
         ],
@@ -1386,24 +1386,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Avoid the birds...",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16436507-hollow-spectravideo-avoid-the-birds.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5f22b1c4-c21a-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Instructions",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16433192-hollow-spectravideo-instructions.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8a47ca02-c219-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "Starting out on the ground",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16436510-hollow-spectravideo-starting-out-on-the-ground.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/5f3bf8dc-c21a-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Title screen",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16433195-hollow-spectravideo-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8a5e84b8-c219-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Stumbling on a mound on the ground",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16433372-hollow-spectravideo-stumbling-on-a-mound-on-the-ground.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/93974592-c219-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -1414,10 +1414,10 @@
                 "width": 256
             },
             {
-                "caption": "Died",
+                "caption": "Instructions",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16433369-hollow-spectravideo-died.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/937edf2a-c219-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16433192-hollow-spectravideo-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8a47ca02-c219-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -1498,24 +1498,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Instructions",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15989321-solitaire-spectravideo-instructions.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f80c8d60-bf22-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Title screen",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16430327-solitaire-spectravideo-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c8b59a5e-c218-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "Main menu",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16430324-solitaire-spectravideo-main-menu.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/c89d2168-c218-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Instructions",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/15989321-solitaire-spectravideo-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f80c8d60-bf22-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
@@ -1526,10 +1519,17 @@
                 "width": 256
             },
             {
-                "caption": "Starting out",
+                "caption": "Title screen",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16430321-solitaire-spectravideo-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c882a2c0-c218-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16430327-solitaire-spectravideo-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c8b59a5e-c218-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "One X eliminated",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16430318-solitaire-spectravideo-one-x-eliminated.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c869c994-c218-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -1619,17 +1619,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Rolling towards the goal",
+                "caption": "Title screen",
                 "height": 218,
-                "image_url": "https://cdn.mobygames.com/screenshots/16445555-ballbounce-spectravideo-rolling-towards-the-goal.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4945819e-c21d-11ed-ab6b-02420a000194.webp",
-                "width": 282
-            },
-            {
-                "caption": "Getting back on track",
-                "height": 218,
-                "image_url": "https://cdn.mobygames.com/screenshots/16445558-ballbounce-spectravideo-getting-back-on-track.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/495da76a-c21d-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16445333-ballbounce-spectravideo-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3b1c06ba-c21d-11ed-ab6b-02420a000194.webp",
                 "width": 282
             },
             {
@@ -1640,10 +1633,10 @@
                 "width": 282
             },
             {
-                "caption": "Title screen",
+                "caption": "Getting back on track",
                 "height": 218,
-                "image_url": "https://cdn.mobygames.com/screenshots/16445333-ballbounce-spectravideo-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3b1c06ba-c21d-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16445558-ballbounce-spectravideo-getting-back-on-track.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/495da76a-c21d-11ed-ab6b-02420a000194.webp",
                 "width": 282
             },
             {
@@ -1651,6 +1644,13 @@
                 "height": 218,
                 "image_url": "https://cdn.mobygames.com/screenshots/16445336-ballbounce-spectravideo-not-that-way.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/3b34d4ba-c21d-11ed-ab6b-02420a000194.webp",
+                "width": 282
+            },
+            {
+                "caption": "Rolling towards the goal",
+                "height": 218,
+                "image_url": "https://cdn.mobygames.com/screenshots/16445555-ballbounce-spectravideo-rolling-towards-the-goal.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4945819e-c21d-11ed-ab6b-02420a000194.webp",
                 "width": 282
             }
         ],
@@ -1740,10 +1740,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The editor menu",
+                "caption": "The first puzzle",
                 "height": 218,
-                "image_url": "https://cdn.mobygames.com/screenshots/16444841-diamond-luis-2-spectravideo-the-editor-menu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1e4c0fc6-c21d-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16444832-diamond-luis-2-spectravideo-the-first-puzzle.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1dfc8e24-c21d-11ed-ab6b-02420a000194.webp",
                 "width": 282
             },
             {
@@ -1754,6 +1754,13 @@
                 "width": 282
             },
             {
+                "caption": "TITLE SCREEN",
+                "height": 218,
+                "image_url": "https://cdn.mobygames.com/screenshots/16444838-diamond-luis-2-spectravideo-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1e311ff4-c21d-11ed-ab6b-02420a000194.webp",
+                "width": 282
+            },
+            {
                 "caption": "Starting a game",
                 "height": 218,
                 "image_url": "https://cdn.mobygames.com/screenshots/16444835-diamond-luis-2-spectravideo-starting-a-game.png",
@@ -1761,17 +1768,10 @@
                 "width": 282
             },
             {
-                "caption": "The first puzzle",
+                "caption": "The editor menu",
                 "height": 218,
-                "image_url": "https://cdn.mobygames.com/screenshots/16444832-diamond-luis-2-spectravideo-the-first-puzzle.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1dfc8e24-c21d-11ed-ab6b-02420a000194.webp",
-                "width": 282
-            },
-            {
-                "caption": "TITLE SCREEN",
-                "height": 218,
-                "image_url": "https://cdn.mobygames.com/screenshots/16444838-diamond-luis-2-spectravideo-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1e311ff4-c21d-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16444841-diamond-luis-2-spectravideo-the-editor-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1e4c0fc6-c21d-11ed-ab6b-02420a000194.webp",
                 "width": 282
             }
         ],
@@ -1843,6 +1843,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Choose difficulty level",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16222845-grave-digger-spectravideo-choose-difficulty-level.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a74c4c9c-c1d6-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
                 "caption": "Title screen",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/15727341-grave-digger-spectravideo-title-screen.png",
@@ -1857,10 +1864,10 @@
                 "width": 256
             },
             {
-                "caption": "Choose difficulty level",
+                "caption": "There you are, digging holes in the graveyard",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16222845-grave-digger-spectravideo-choose-difficulty-level.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a74c4c9c-c1d6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16222197-grave-digger-spectravideo-there-you-are-digging-holes-in-the-gra.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/73843852-c1d6-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -1868,13 +1875,6 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16222215-grave-digger-spectravideo-drawing-a-line-of-holes.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/7444ef16-c1d6-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "There you are, digging holes in the graveyard",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16222197-grave-digger-spectravideo-there-you-are-digging-holes-in-the-gra.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/73843852-c1d6-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],

@@ -1601,7 +1601,15 @@
                 "2007"
             ]
         ],
-        "sample_cover": null,
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/18826186-creature-create-leapster-front-cover.jpg",
+            "platforms": [
+                "Leapster"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/3773ad1a-3251-11ef-9182-02420a0001c3.webp",
+            "width": 567
+        },
         "sample_screenshots": [],
         "title": "Creature Create"
     },
@@ -1703,7 +1711,7 @@
         "id": 174894,
         "moby_score": null,
         "moby_url": "https://www.mobygames.com/game/174894/thomas-friends-calling-all-engines/",
-        "num_votes": 0,
+        "num_votes": 1,
         "official_url": null,
         "platforms": [
             [
@@ -1798,7 +1806,7 @@
         "id": 174895,
         "moby_score": null,
         "moby_url": "https://www.mobygames.com/game/174895/spongebob-squarepants-saves-the-day/",
-        "num_votes": 0,
+        "num_votes": 1,
         "official_url": null,
         "platforms": [
             [
@@ -4220,7 +4228,15 @@
                 "2007"
             ]
         ],
-        "sample_cover": null,
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/18826164-disneypixar-cars-leapster-front-cover.jpg",
+            "platforms": [
+                "Leapster"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/af7506a2-324b-11ef-80f5-02420a0001c6.webp",
+            "width": 566
+        },
         "sample_screenshots": [],
         "title": "Disney\u25cfPixar Cars"
     },
@@ -4410,7 +4426,15 @@
                 "2010"
             ]
         ],
-        "sample_cover": null,
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/18826110-disney-tangled-leapster-front-cover.jpg",
+            "platforms": [
+                "Leapster"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/cf633be4-3248-11ef-b859-02420a0001c2.webp",
+            "width": 569
+        },
         "sample_screenshots": [],
         "title": "Disney Tangled"
     },

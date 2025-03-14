@@ -401,10 +401,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The beginning of an Outcasters match",
+                "caption": "In Gold Rush mode, two teams of four compete to control a bank spot where they can turn in the coins they've collected.",
                 "height": 675,
-                "image_url": "https://cdn.mobygames.com/screenshots/4476133-outcasters-stadia-the-beginning-of-an-outcasters-match.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6413dc16-abb4-11ed-b6ec-02420a00019b.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/4492434-outcasters-stadia-in-gold-rush-mode-two-teams-of-four-compete-to.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0a8ce1f0-abb5-11ed-aa5a-02420a0001a0.webp",
+                "width": 1200
+            },
+            {
+                "caption": "After dying, players briefly spectate other members of their team in the game's two team-based modes.",
+                "height": 675,
+                "image_url": "https://cdn.mobygames.com/screenshots/4493101-outcasters-stadia-after-dying-players-briefly-spectate-other-mem.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/11811576-abb5-11ed-aa5a-02420a0001a0.webp",
+                "width": 1200
+            },
+            {
+                "caption": "The player's character can be customized in a variety of ways with items they earn by spending tickets.",
+                "height": 675,
+                "image_url": "https://cdn.mobygames.com/screenshots/4617509-outcasters-stadia-the-players-character-can-be-customized-in-a-v.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/11849926-abba-11ed-9e18-02420a00019a.webp",
                 "width": 1200
             },
             {
@@ -419,20 +433,6 @@
                 "height": 675,
                 "image_url": "https://cdn.mobygames.com/screenshots/4506943-outcasters-stadia-the-main-mechanic-of-outcasters-demonstrated-b.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/a1acfc5a-abb5-11ed-a5ec-02420a00019b.webp",
-                "width": 1200
-            },
-            {
-                "caption": "In the victory screen on the computer-based map, a scene depicts the losing team being digitized by the winners.",
-                "height": 675,
-                "image_url": "https://cdn.mobygames.com/screenshots/4493537-outcasters-stadia-in-the-victory-screen-on-the-computer-based-ma.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/155eec5e-abb5-11ed-aa5a-02420a0001a0.webp",
-                "width": 1200
-            },
-            {
-                "caption": "The player's character can be customized in a variety of ways with items they earn by spending tickets.",
-                "height": 675,
-                "image_url": "https://cdn.mobygames.com/screenshots/4617509-outcasters-stadia-the-players-character-can-be-customized-in-a-v.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/11849926-abba-11ed-9e18-02420a00019a.webp",
                 "width": 1200
             }
         ],
@@ -607,17 +607,17 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Rescuing a survivor.",
+                "height": 675,
+                "image_url": "https://cdn.mobygames.com/screenshots/1705532-pixeljunk-raiders-stadia-rescuing-a-survivor.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/82b69812-ab77-11ed-91fb-02420a00019f.webp",
+                "width": 1200
+            },
+            {
                 "caption": "Tracking the missions and other options.",
                 "height": 675,
                 "image_url": "https://cdn.mobygames.com/screenshots/3860942-pixeljunk-raiders-stadia-tracking-the-missions-and-other-options.jpg",
                 "thumbnail_image_url": "https://cdn.mobygames.com/824e93c2-ab9d-11ed-93d8-02420a000198.webp",
-                "width": 1200
-            },
-            {
-                "caption": "A scene from the introduction sequence",
-                "height": 675,
-                "image_url": "https://cdn.mobygames.com/screenshots/1696469-pixeljunk-raiders-stadia-a-scene-from-the-introduction-sequence.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6d639b0e-ab77-11ed-aecf-02420a000198.webp",
                 "width": 1200
             },
             {
@@ -628,10 +628,10 @@
                 "width": 1200
             },
             {
-                "caption": "First title screen",
+                "caption": "A scene from the introduction sequence",
                 "height": 675,
-                "image_url": "https://cdn.mobygames.com/screenshots/3913190-pixeljunk-raiders-stadia-first-title-screen.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/59f4883a-ab9f-11ed-a188-02420a00019a.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/1696469-pixeljunk-raiders-stadia-a-scene-from-the-introduction-sequence.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6d639b0e-ab77-11ed-aecf-02420a000198.webp",
                 "width": 1200
             },
             {
@@ -831,10 +831,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Level selection with some to be unlocked.",
+                "caption": "The worm is getting big.",
                 "height": 675,
-                "image_url": "https://cdn.mobygames.com/screenshots/2042819-worm-game-stadia-level-selection-with-some-to-be-unlocked.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ae2fad14-ab7a-11ed-9ab3-02420a0001a0.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/1704601-worm-game-stadia-the-worm-is-getting-big.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/80bad24e-ab77-11ed-91fb-02420a00019f.webp",
+                "width": 1200
+            },
+            {
+                "caption": "Late part of playing the Laser Box stage. Since some of the worm's body is on a green switch, the green lasers are disabled.",
+                "height": 675,
+                "image_url": "https://cdn.mobygames.com/screenshots/16026797-worm-game-stadia-late-part-of-playing-the-laser-box-stage-since-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5d8bceea-bf31-11ed-9c42-02420a000140.webp",
                 "width": 1200
             },
             {
@@ -845,24 +852,17 @@
                 "width": 1200
             },
             {
-                "caption": "Game Over",
+                "caption": "Growing.",
                 "height": 675,
-                "image_url": "https://cdn.mobygames.com/screenshots/1702211-worm-game-stadia-game-over.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7b3368ea-ab77-11ed-aaf5-02420a00019c.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/1703817-worm-game-stadia-growing.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7f02416c-ab77-11ed-91fb-02420a00019f.webp",
                 "width": 1200
             },
             {
-                "caption": "Main menu",
+                "caption": "Title screen",
                 "height": 675,
-                "image_url": "https://cdn.mobygames.com/screenshots/2029349-worm-game-stadia-main-menu.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8a8662ea-ab7a-11ed-b165-02420a000198.webp",
-                "width": 1200
-            },
-            {
-                "caption": "Late part of playing the Laser Box stage. Since some of the worm's body is on a green switch, the green lasers are disabled.",
-                "height": 675,
-                "image_url": "https://cdn.mobygames.com/screenshots/16026797-worm-game-stadia-late-part-of-playing-the-laser-box-stage-since-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5d8bceea-bf31-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2034033-worm-game-stadia-title-screen.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/96871544-ab7a-11ed-87d1-02420a000197.webp",
                 "width": 1200
             }
         ],

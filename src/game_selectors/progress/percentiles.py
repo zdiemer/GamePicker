@@ -6,6 +6,9 @@ from picker_enums import PickerMode
 
 
 def group_by_percentile(game: ExcelGame, data_provider: DataProvider) -> str:
+    p1 = data_provider.get_percentile_ranking(Percentile.P1)
+    p5 = data_provider.get_percentile_ranking(Percentile.P5)
+    p10 = data_provider.get_percentile_ranking(Percentile.P10)
     p25 = data_provider.get_percentile_ranking(Percentile.P25)
     med = data_provider.get_percentile_ranking(Percentile.MED)
     p75 = data_provider.get_percentile_ranking(Percentile.P75)
@@ -13,8 +16,17 @@ def group_by_percentile(game: ExcelGame, data_provider: DataProvider) -> str:
     p95 = data_provider.get_percentile_ranking(Percentile.P95)
     p99 = data_provider.get_percentile_ranking(Percentile.P99)
 
+    if game.combined_rating < p1:
+        return f"1st (<{p1:.02%})"
+
+    if game.combined_rating < p5:
+        return f"1-5th ({p1:.02%}-{p5:.02%})"
+
+    if game.combined_rating < p10:
+        return f"5-10th ({p5:.02%}-{p10:.02%})"
+
     if game.combined_rating < p25:
-        return f"0-24th (<{p25:.02%})"
+        return f"10-25th ({p10:.02%}-{p25:.02%})"
 
     if game.combined_rating < med:
         return f"25-49th ({p25:.02%}-{med:.02%})"
@@ -40,6 +52,7 @@ def get_percentiles_selector(data_provider: DataProvider) -> GameSelector:
         grouping=GameGrouping(
             lambda g: group_by_percentile(g, data_provider),
             reverse=True,
+            sort=lambda kvp: max(g.game.combined_rating for g in kvp[1]),
         ),
         custom_suffix=lambda g: f" - {g.combined_rating:.0%}",
         sort=lambda g: g.game.combined_rating,

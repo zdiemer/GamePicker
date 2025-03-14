@@ -6,5 +6,4 @@ LIMITED_PRINT_GAMES = GameSelector(
     _filter=lambda g: g.limited_print_company is not None,
     name="Limited Print Games",
     grouping=GameGrouping(lambda g: g.limited_print_company),
-    run_on_modes=set([PickerMode.ALL]),
 )

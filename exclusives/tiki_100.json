@@ -83,20 +83,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "An UFO appears",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16306048-tiki-invaders-tiki-100-an-ufo-appears.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3916cb92-c1f1-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Getting killed",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16306045-tiki-invaders-tiki-100-getting-killed.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/38fed6a4-c1f1-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "Level 4",
                 "height": 256,
                 "image_url": "https://cdn.mobygames.com/screenshots/16306036-tiki-invaders-tiki-100-level-4.png",
@@ -104,17 +90,31 @@
                 "width": 256
             },
             {
-                "caption": "Only two enemies left",
+                "caption": "Title screen with instructions",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16306051-tiki-invaders-tiki-100-only-two-enemies-left.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/392fa888-c1f1-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16306063-tiki-invaders-tiki-100-title-screen-with-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/398f9edc-c1f1-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
-                "caption": "Starting out",
+                "caption": "An UFO appears",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16306057-tiki-invaders-tiki-100-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/395f018c-c1f1-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16306048-tiki-invaders-tiki-100-an-ufo-appears.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3916cb92-c1f1-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Level 3",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16306039-tiki-invaders-tiki-100-level-3.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/38cc0a3a-c1f1-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Level 2",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16306042-tiki-invaders-tiki-100-level-2.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/38e68ca2-c1f1-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -184,10 +184,10 @@
                 "width": 256
             },
             {
-                "caption": "Menu",
+                "caption": "Title screen with instructions",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16306765-femten-spill-tiki-100-menu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6b4135ee-c1f1-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16306678-femten-spill-tiki-100-title-screen-with-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/664429d4-c1f1-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -198,10 +198,10 @@
                 "width": 256
             },
             {
-                "caption": "Title screen with instructions",
+                "caption": "Menu",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16306678-femten-spill-tiki-100-title-screen-with-instructions.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/664429d4-c1f1-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16306765-femten-spill-tiki-100-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6b4135ee-c1f1-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -291,10 +291,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Options",
+                "caption": "Title screen",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16378187-verdensgeografi-tiki-100-options.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4263fce8-c209-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16378193-verdensgeografi-tiki-100-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4294ee52-c209-11ed-ab6b-02420a000194.webp",
                 "width": 512
             },
             {
@@ -305,24 +305,24 @@
                 "width": 512
             },
             {
+                "caption": "Instructions",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16378190-verdensgeografi-tiki-100-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/427d7ea2-c209-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "First question: locate Japan on the map",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16310106-verdensgeografi-tiki-100-first-question-locate-japan-on-the-map.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6b8af354-c1f2-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
                 "caption": "Capital question",
                 "height": 256,
                 "image_url": "https://cdn.mobygames.com/screenshots/16310103-verdensgeografi-tiki-100-capital-question.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/6b6df6c8-c1f2-11ed-ab6b-02420a000194.webp",
-                "width": 512
-            },
-            {
-                "caption": "Results",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16310094-verdensgeografi-tiki-100-results.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6b148cfa-c1f2-11ed-ab6b-02420a000194.webp",
-                "width": 512
-            },
-            {
-                "caption": "Getting Canada right",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16310100-verdensgeografi-tiki-100-getting-canada-right.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6b529c70-c1f2-11ed-ab6b-02420a000194.webp",
                 "width": 512
             }
         ],

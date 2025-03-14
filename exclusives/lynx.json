@@ -74,10 +74,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "First Kill",
+                "caption": "Set the parameters of your airplane.",
                 "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/16084601-warbirds-lynx-first-kill.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/820ef616-bf6d-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15778483-warbirds-lynx-set-the-parameters-of-your-airplane.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/72806c00-bee3-11ed-9c42-02420a000140.webp",
                 "width": 160
             },
             {
@@ -88,13 +88,6 @@
                 "width": 160
             },
             {
-                "caption": "The enemy plane",
-                "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/15778051-warbirds-lynx-the-enemy-plane.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4b67549e-bee3-11ed-9c42-02420a000140.webp",
-                "width": 160
-            },
-            {
                 "caption": "KIA",
                 "height": 102,
                 "image_url": "https://cdn.mobygames.com/screenshots/16896632-warbirds-lynx-kia.png",
@@ -102,10 +95,17 @@
                 "width": 160
             },
             {
-                "caption": "Set the parameters of your airplane.",
+                "caption": "The enemy plane",
                 "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/15778483-warbirds-lynx-set-the-parameters-of-your-airplane.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/72806c00-bee3-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15778051-warbirds-lynx-the-enemy-plane.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4b67549e-bee3-11ed-9c42-02420a000140.webp",
+                "width": 160
+            },
+            {
+                "caption": "Title screen",
+                "height": 102,
+                "image_url": "https://cdn.mobygames.com/screenshots/15778138-warbirds-lynx-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/52ffecca-bee3-11ed-9c42-02420a000140.webp",
                 "width": 160
             }
         ],
@@ -162,7 +162,7 @@
             }
         ],
         "id": 10417,
-        "moby_score": null,
+        "moby_score": 6.9,
         "moby_url": "https://www.mobygames.com/game/10417/battlewheels/",
         "num_votes": 4,
         "official_url": null,
@@ -186,17 +186,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Long-range radar",
+                "caption": "Your fate if you fail to perform",
                 "height": 306,
-                "image_url": "https://cdn.mobygames.com/screenshots/15734520-battlewheels-lynx-long-range-radar.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5602dd78-bed5-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15734553-battlewheels-lynx-your-fate-if-you-fail-to-perform.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/57785368-bed5-11ed-9c42-02420a000140.webp",
                 "width": 480
             },
             {
-                "caption": "Beginning a round of play.",
+                "caption": "End of a successful match (successful meaning \"where you are still alive\")",
                 "height": 306,
-                "image_url": "https://cdn.mobygames.com/screenshots/15734469-battlewheels-lynx-beginning-a-round-of-play.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/524eef8c-bed5-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15734502-battlewheels-lynx-end-of-a-successful-match-successful-meaning-w.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/54b0928a-bed5-11ed-9c42-02420a000140.webp",
+                "width": 480
+            },
+            {
+                "caption": "Up close and personal",
+                "height": 306,
+                "image_url": "https://cdn.mobygames.com/screenshots/15734535-battlewheels-lynx-up-close-and-personal.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/56a83c82-bed5-11ed-9c42-02420a000140.webp",
                 "width": 480
             },
             {
@@ -207,17 +214,10 @@
                 "width": 480
             },
             {
-                "caption": "Battling it out in Dead City",
+                "caption": "Beginning a round of play.",
                 "height": 306,
-                "image_url": "https://cdn.mobygames.com/screenshots/15734574-battlewheels-lynx-battling-it-out-in-dead-city.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/59f4c5d6-bed5-11ed-9c42-02420a000140.webp",
-                "width": 480
-            },
-            {
-                "caption": "The game is very customizable",
-                "height": 306,
-                "image_url": "https://cdn.mobygames.com/screenshots/15734445-battlewheels-lynx-the-game-is-very-customizable.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4ff87852-bed5-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15734469-battlewheels-lynx-beginning-a-round-of-play.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/524eef8c-bed5-11ed-9c42-02420a000140.webp",
                 "width": 480
             }
         ],
@@ -265,7 +265,7 @@
             }
         ],
         "id": 10418,
-        "moby_score": 6.5,
+        "moby_score": 6.6,
         "moby_url": "https://www.mobygames.com/game/10418/pinball-jam/",
         "num_votes": 3,
         "official_url": null,
@@ -289,6 +289,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Elvira title screen",
+                "height": 306,
+                "image_url": "https://cdn.mobygames.com/screenshots/15747330-pinball-jam-lynx-elvira-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/936c3930-bed9-11ed-9c42-02420a000140.webp",
+                "width": 480
+            },
+            {
                 "caption": "Elvira and the Party Monsters (full table)",
                 "height": 718,
                 "image_url": "https://cdn.mobygames.com/screenshots/15747375-pinball-jam-lynx-elvira-and-the-party-monsters-full-table.png",
@@ -300,13 +307,6 @@
                 "height": 306,
                 "image_url": "https://cdn.mobygames.com/screenshots/15747309-pinball-jam-lynx-cart-boot-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/9280c40a-bed9-11ed-9c42-02420a000140.webp",
-                "width": 480
-            },
-            {
-                "caption": "Elvira title screen",
-                "height": 306,
-                "image_url": "https://cdn.mobygames.com/screenshots/15747330-pinball-jam-lynx-elvira-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/936c3930-bed9-11ed-9c42-02420a000140.webp",
                 "width": 480
             },
             {
@@ -388,38 +388,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "So many scorpions!",
+                "caption": "The computers give you useful advice",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/15762897-gauntlet-the-third-encounter-lynx-so-many-scorpions.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f9e6a92a-bede-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15763044-gauntlet-the-third-encounter-lynx-the-computers-give-you-useful-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/05d0d896-bedf-11ed-9c42-02420a000140.webp",
                 "width": 102
             },
             {
-                "caption": "The second level has ghosts instead of scorpions",
+                "caption": "...but other enemies as well",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/15762984-gauntlet-the-third-encounter-lynx-the-second-level-has-ghosts-in.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/020a6a88-bedf-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15762849-gauntlet-the-third-encounter-lynx-but-other-enemies-as-well.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f6685e74-bede-11ed-9c42-02420a000140.webp",
                 "width": 102
             },
             {
-                "caption": "Choose your warrior",
+                "caption": "A computer?",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/15980807-gauntlet-the-third-encounter-lynx-choose-your-warrior.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/058d49c2-bf21-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15763179-gauntlet-the-third-encounter-lynx-a-computer.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/10fb77ee-bedf-11ed-9c42-02420a000140.webp",
                 "width": 102
             },
             {
-                "caption": "This level also has ghosts...",
+                "caption": "The bottom left box works as a kind of radar",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/15762831-gauntlet-the-third-encounter-lynx-this-level-also-has-ghosts.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f475794e-bede-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15980852-gauntlet-the-third-encounter-lynx-the-bottom-left-box-works-as-a.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/08194e84-bf21-11ed-9c42-02420a000140.webp",
                 "width": 102
             },
             {
-                "caption": "A key will let you through this door",
+                "caption": "On to the third level",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/15980780-gauntlet-the-third-encounter-lynx-a-key-will-let-you-through-thi.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0495b068-bf21-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15763002-gauntlet-the-third-encounter-lynx-on-to-the-third-level.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/03308a14-bedf-11ed-9c42-02420a000140.webp",
                 "width": 102
             }
         ],
@@ -491,17 +491,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "First Level",
-                "height": 204,
-                "image_url": "https://cdn.mobygames.com/screenshots/714791-crystal-mines-ii-lynx-first-level.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/52015b38-ab6f-11ed-9377-02420a000197.webp",
-                "width": 320
-            },
-            {
                 "caption": "Title screen",
                 "height": 204,
                 "image_url": "https://cdn.mobygames.com/screenshots/714134-crystal-mines-ii-lynx-title-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/50c4aa9a-ab6f-11ed-9377-02420a000197.webp",
+                "width": 320
+            },
+            {
+                "caption": "First Level",
+                "height": 204,
+                "image_url": "https://cdn.mobygames.com/screenshots/714791-crystal-mines-ii-lynx-first-level.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/52015b38-ab6f-11ed-9377-02420a000197.webp",
                 "width": 320
             }
         ],
@@ -562,17 +562,17 @@
                 "width": 102
             },
             {
-                "caption": "Game over",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/15795992-lexis-lynx-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/78efd020-bee9-11ed-9c42-02420a000140.webp",
-                "width": 102
-            },
-            {
                 "caption": "Setup menu",
                 "height": 159,
                 "image_url": "https://cdn.mobygames.com/screenshots/15795962-lexis-lynx-setup-menu.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/750ef1ca-bee9-11ed-9c42-02420a000140.webp",
+                "width": 102
+            },
+            {
+                "caption": "High scores",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/15796016-lexis-lynx-high-scores.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/79e68b0e-bee9-11ed-9c42-02420a000140.webp",
                 "width": 102
             },
             {
@@ -583,10 +583,10 @@
                 "width": 102
             },
             {
-                "caption": "Title screen",
-                "height": 159,
-                "image_url": "https://cdn.mobygames.com/screenshots/15795908-lexis-lynx-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/723eed88-bee9-11ed-9c42-02420a000140.webp",
+                "caption": "Started game",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/15796133-lexis-lynx-started-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/81543e22-bee9-11ed-9c42-02420a000140.webp",
                 "width": 102
             }
         ],
@@ -1253,27 +1253,20 @@
             ]
         ],
         "sample_cover": {
-            "height": 614,
-            "image_url": "https://cdn.mobygames.com/covers/11090264-bubble-trouble-lynx-front-cover.jpg",
+            "height": 102,
+            "image_url": "https://cdn.mobygames.com/screenshots/15801415-bubble-trouble-lynx-title-screen.png",
             "platforms": [
                 "Lynx"
             ],
-            "thumbnail_image_url": "https://cdn.mobygames.com/b13ba1ca-ac15-11ed-803a-02420a000131.webp",
-            "width": 500
+            "thumbnail_image_url": "https://cdn.mobygames.com/29445832-beeb-11ed-9c42-02420a000140.webp",
+            "width": 160
         },
         "sample_screenshots": [
             {
-                "caption": "Game over",
+                "caption": "My bubble burst",
                 "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/15801745-bubble-trouble-lynx-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/410ec47a-beeb-11ed-9c42-02420a000140.webp",
-                "width": 160
-            },
-            {
-                "caption": "The radar scanner",
-                "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/15801694-bubble-trouble-lynx-the-radar-scanner.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3e7bf4b2-beeb-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15801715-bubble-trouble-lynx-my-bubble-burst.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3f5ab490-beeb-11ed-9c42-02420a000140.webp",
                 "width": 160
             },
             {
@@ -1284,10 +1277,10 @@
                 "width": 160
             },
             {
-                "caption": "Starting location",
+                "caption": "You shouldn't be experimenting like that.",
                 "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/15801649-bubble-trouble-lynx-starting-location.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3c0a27d0-beeb-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16038838-bubble-trouble-lynx-you-shouldnt-be-experimenting-like-that.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d5b98336-bf35-11ed-9c42-02420a000140.webp",
                 "width": 160
             },
             {
@@ -1295,6 +1288,13 @@
                 "height": 102,
                 "image_url": "https://cdn.mobygames.com/screenshots/15801631-bubble-trouble-lynx-section-1-world-core.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/39d7669e-beeb-11ed-9c42-02420a000140.webp",
+                "width": 160
+            },
+            {
+                "caption": "I lost my last bubble and am falling.",
+                "height": 102,
+                "image_url": "https://cdn.mobygames.com/screenshots/15801730-bubble-trouble-lynx-i-lost-my-last-bubble-and-am-falling.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/40660614-beeb-11ed-9c42-02420a000140.webp",
                 "width": 160
             }
         ],
@@ -1366,10 +1366,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "I tried to make an illegal move",
+                "caption": "I am in check",
                 "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/15813908-the-fidelity-ultimate-chess-challenge-lynx-i-tried-to-make-an-il.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bb01417e-beee-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15813869-the-fidelity-ultimate-chess-challenge-lynx-i-am-in-check.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b80508ca-beee-11ed-9c42-02420a000140.webp",
+                "width": 160
+            },
+            {
+                "caption": "Beginning a game, 3D view.",
+                "height": 102,
+                "image_url": "https://cdn.mobygames.com/screenshots/15813467-the-fidelity-ultimate-chess-challenge-lynx-beginning-a-game-3d-v.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9d517ce8-beee-11ed-9c42-02420a000140.webp",
                 "width": 160
             },
             {
@@ -1380,24 +1387,17 @@
                 "width": 160
             },
             {
-                "caption": "I am in check",
+                "caption": "I tried to make an illegal move",
                 "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/15813869-the-fidelity-ultimate-chess-challenge-lynx-i-am-in-check.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b80508ca-beee-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15813908-the-fidelity-ultimate-chess-challenge-lynx-i-tried-to-make-an-il.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bb01417e-beee-11ed-9c42-02420a000140.webp",
                 "width": 160
             },
             {
-                "caption": "Beginning a game, top-down view.",
+                "caption": "Title screen",
                 "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/15857475-the-fidelity-ultimate-chess-challenge-lynx-beginning-a-game-top-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6b1577ae-befb-11ed-9c42-02420a000140.webp",
-                "width": 160
-            },
-            {
-                "caption": "Checkmate! I lose.",
-                "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/15857454-the-fidelity-ultimate-chess-challenge-lynx-checkmate-i-lose.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/69f9be0c-befb-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15857433-the-fidelity-ultimate-chess-challenge-lynx-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/67b94d60-befb-11ed-9c42-02420a000140.webp",
                 "width": 160
             }
         ],
@@ -1450,22 +1450,15 @@
             ]
         ],
         "sample_cover": {
-            "height": 614,
-            "image_url": "https://cdn.mobygames.com/covers/11090273-krazy-ace-miniature-golf-lynx-front-cover.jpg",
+            "height": 102,
+            "image_url": "https://cdn.mobygames.com/screenshots/15861217-krazy-ace-miniature-golf-lynx-loading-screen.png",
             "platforms": [
                 "Lynx"
             ],
-            "thumbnail_image_url": "https://cdn.mobygames.com/b263b31c-ac15-11ed-803a-02420a000131.webp",
-            "width": 500
+            "thumbnail_image_url": "https://cdn.mobygames.com/682bf88c-befc-11ed-9c42-02420a000140.webp",
+            "width": 160
         },
         "sample_screenshots": [
-            {
-                "caption": "Here is the score after hole number 1.",
-                "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/15804341-krazy-ace-miniature-golf-lynx-here-is-the-score-after-hole-numbe.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d8c2c956-beeb-11ed-9c42-02420a000140.webp",
-                "width": 160
-            },
             {
                 "caption": "Very well, player 1, what is your name?",
                 "height": 102,
@@ -1474,24 +1467,31 @@
                 "width": 160
             },
             {
-                "caption": "How many people want to play?",
-                "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/15804770-krazy-ace-miniature-golf-lynx-how-many-people-want-to-play.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f22a0f12-beeb-11ed-9c42-02420a000140.webp",
-                "width": 160
-            },
-            {
-                "caption": "Ready for tee time on hole number 2.",
-                "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/15989309-krazy-ace-miniature-golf-lynx-ready-for-tee-time-on-hole-number-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f6c8b1c2-bf22-11ed-9c42-02420a000140.webp",
-                "width": 160
-            },
-            {
                 "caption": "Yuck! Double bogie!",
                 "height": 102,
                 "image_url": "https://cdn.mobygames.com/screenshots/15804467-krazy-ace-miniature-golf-lynx-yuck-double-bogie.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/de93f18e-beeb-11ed-9c42-02420a000140.webp",
+                "width": 160
+            },
+            {
+                "caption": "Title screen",
+                "height": 102,
+                "image_url": "https://cdn.mobygames.com/screenshots/15861469-krazy-ace-miniature-golf-lynx-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7f050df0-befc-11ed-9c42-02420a000140.webp",
+                "width": 160
+            },
+            {
+                "caption": "Ready to tee off at hole number 1.",
+                "height": 102,
+                "image_url": "https://cdn.mobygames.com/screenshots/15989279-krazy-ace-miniature-golf-lynx-ready-to-tee-off-at-hole-number-1.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f5ab3878-bf22-11ed-9c42-02420a000140.webp",
+                "width": 160
+            },
+            {
+                "caption": "Now, player 1, what color will your golf ball be?",
+                "height": 102,
+                "image_url": "https://cdn.mobygames.com/screenshots/15804443-krazy-ace-miniature-golf-lynx-now-player-1-what-color-will-your-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ddbe3e22-beeb-11ed-9c42-02420a000140.webp",
                 "width": 160
             }
         ],
@@ -1553,13 +1553,13 @@
             ]
         ],
         "sample_cover": {
-            "height": 614,
-            "image_url": "https://cdn.mobygames.com/covers/11090258-awesome-golf-lynx-front-cover.jpg",
+            "height": 102,
+            "image_url": "https://cdn.mobygames.com/screenshots/16051492-awesome-golf-lynx-title-screen.png",
             "platforms": [
                 "Lynx"
             ],
-            "thumbnail_image_url": "https://cdn.mobygames.com/aff2f8d6-ac15-11ed-803a-02420a000131.webp",
-            "width": 500
+            "thumbnail_image_url": "https://cdn.mobygames.com/7a831be0-bf39-11ed-9c42-02420a000140.webp",
+            "width": 160
         },
         "sample_screenshots": [
             {
@@ -1577,24 +1577,24 @@
                 "width": 160
             },
             {
-                "caption": "The camera follows the ball as it flies through the air.",
-                "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/15884846-awesome-golf-lynx-the-camera-follows-the-ball-as-it-flies-throug.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/18f0eb44-bf04-11ed-9c42-02420a000140.webp",
-                "width": 160
-            },
-            {
-                "caption": "When the ball lands you are show how far it went and what type of land it has stopped on.",
-                "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/16051540-awesome-golf-lynx-when-the-ball-lands-you-are-show-how-far-it-we.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7c1b20ba-bf39-11ed-9c42-02420a000140.webp",
-                "width": 160
-            },
-            {
                 "caption": "Select which course you want to play.",
                 "height": 102,
                 "image_url": "https://cdn.mobygames.com/screenshots/15884604-awesome-golf-lynx-select-which-course-you-want-to-play.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/03d4d0d6-bf04-11ed-9c42-02420a000140.webp",
+                "width": 160
+            },
+            {
+                "caption": "Select which club you want to use from you bag.",
+                "height": 102,
+                "image_url": "https://cdn.mobygames.com/screenshots/15884708-awesome-golf-lynx-select-which-club-you-want-to-use-from-you-bag.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0b651e0a-bf04-11ed-9c42-02420a000140.webp",
+                "width": 160
+            },
+            {
+                "caption": "The camera follows the ball as it flies through the air.",
+                "height": 102,
+                "image_url": "https://cdn.mobygames.com/screenshots/15884846-awesome-golf-lynx-the-camera-follows-the-ball-as-it-flies-throug.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/18f0eb44-bf04-11ed-9c42-02420a000140.webp",
                 "width": 160
             }
         ],
@@ -1666,10 +1666,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Selecting which tank you want to drive.",
+                "caption": "The variuos power-ups that are available.",
                 "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/15884646-battlezone-2000-lynx-selecting-which-tank-you-want-to-drive.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0612d12c-bf04-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15884831-battlezone-2000-lynx-the-variuos-power-ups-that-are-available.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/16bbced4-bf04-11ed-9c42-02420a000140.webp",
                 "width": 160
             },
             {
@@ -1680,10 +1680,17 @@
                 "width": 160
             },
             {
-                "caption": "Lose all your armour and you will lose a life.",
+                "caption": "Searching round for a tank.",
                 "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/15884813-battlezone-2000-lynx-lose-all-your-armour-and-you-will-lose-a-li.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/142b0810-bf04-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15833536-battlezone-2000-lynx-searching-round-for-a-tank.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/72ae58b6-bef4-11ed-9c42-02420a000140.webp",
+                "width": 160
+            },
+            {
+                "caption": "Selecting which tank you want to drive.",
+                "height": 102,
+                "image_url": "https://cdn.mobygames.com/screenshots/15884646-battlezone-2000-lynx-selecting-which-tank-you-want-to-drive.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0612d12c-bf04-11ed-9c42-02420a000140.webp",
                 "width": 160
             },
             {
@@ -1691,13 +1698,6 @@
                 "height": 102,
                 "image_url": "https://cdn.mobygames.com/screenshots/15833530-battlezone-2000-lynx-when-you-are-hit-you-see-these-explosions-a.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/726448de-bef4-11ed-9c42-02420a000140.webp",
-                "width": 160
-            },
-            {
-                "caption": "The variuos power-ups that are available.",
-                "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/15884831-battlezone-2000-lynx-the-variuos-power-ups-that-are-available.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/16bbced4-bf04-11ed-9c42-02420a000140.webp",
                 "width": 160
             }
         ],
@@ -1774,13 +1774,6 @@
                 "width": 160
             },
             {
-                "caption": "When you win you are greeted by this screen.",
-                "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/15885428-lynx-casino-lynx-when-you-win-you-are-greeted-by-this-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/43730dc0-bf04-11ed-9c42-02420a000140.webp",
-                "width": 160
-            },
-            {
                 "caption": "You control this character and select which game to play by walking up to the table.",
                 "height": 102,
                 "image_url": "https://cdn.mobygames.com/screenshots/15887379-lynx-casino-lynx-you-control-this-character-and-select-which-gam.png",
@@ -1788,10 +1781,17 @@
                 "width": 160
             },
             {
-                "caption": "The Video Poker machine allows you to play a very good replication of poker.",
+                "caption": "Selecting how much to bet on the Craps table.",
                 "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/15885419-lynx-casino-lynx-the-video-poker-machine-allows-you-to-play-a-ve.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/43310998-bf04-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15887406-lynx-casino-lynx-selecting-how-much-to-bet-on-the-craps-table.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ee446e42-bf04-11ed-9c42-02420a000140.webp",
+                "width": 160
+            },
+            {
+                "caption": "When you win you are greeted by this screen.",
+                "height": 102,
+                "image_url": "https://cdn.mobygames.com/screenshots/15885428-lynx-casino-lynx-when-you-win-you-are-greeted-by-this-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/43730dc0-bf04-11ed-9c42-02420a000140.webp",
                 "width": 160
             }
         ],
@@ -1861,20 +1861,6 @@
                 "width": 160
             },
             {
-                "caption": "Title screen",
-                "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/15885629-hockey-lynx-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/50bf3882-bf04-11ed-9c42-02420a000140.webp",
-                "width": 160
-            },
-            {
-                "caption": "The teams skate into their positions.",
-                "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/15983733-hockey-lynx-the-teams-skate-into-their-positions.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b053d1e6-bf21-11ed-9c42-02420a000140.webp",
-                "width": 160
-            },
-            {
                 "caption": "Hitting the puck into the opponents net results in a goal.",
                 "height": 102,
                 "image_url": "https://cdn.mobygames.com/screenshots/15983745-hockey-lynx-hitting-the-puck-into-the-opponents-net-results-in-a.png",
@@ -1886,6 +1872,20 @@
                 "height": 102,
                 "image_url": "https://cdn.mobygames.com/screenshots/15983721-hockey-lynx-select-your-team.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/af317d86-bf21-11ed-9c42-02420a000140.webp",
+                "width": 160
+            },
+            {
+                "caption": "The teams skate into their positions.",
+                "height": 102,
+                "image_url": "https://cdn.mobygames.com/screenshots/15983733-hockey-lynx-the-teams-skate-into-their-positions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b053d1e6-bf21-11ed-9c42-02420a000140.webp",
+                "width": 160
+            },
+            {
+                "caption": "Title screen",
+                "height": 102,
+                "image_url": "https://cdn.mobygames.com/screenshots/15885629-hockey-lynx-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/50bf3882-bf04-11ed-9c42-02420a000140.webp",
                 "width": 160
             }
         ],
@@ -1975,6 +1975,20 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Title screen",
+                "height": 102,
+                "image_url": "https://cdn.mobygames.com/screenshots/15811379-dracula-the-undead-lynx-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/da1688ae-beed-11ed-9c42-02420a000140.webp",
+                "width": 160
+            },
+            {
+                "caption": "Searching around at the back of the room yields no results.",
+                "height": 102,
+                "image_url": "https://cdn.mobygames.com/screenshots/15827366-dracula-the-undead-lynx-searching-around-at-the-back-of-the-room.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a29b79fc-bef2-11ed-9c42-02420a000140.webp",
+                "width": 160
+            },
+            {
                 "caption": "This is Jonatan Harker the character who you control.",
                 "height": 102,
                 "image_url": "https://cdn.mobygames.com/screenshots/15827198-dracula-the-undead-lynx-this-is-jonatan-harker-the-character-who.png",
@@ -1993,20 +2007,6 @@
                 "height": 102,
                 "image_url": "https://cdn.mobygames.com/screenshots/15827207-dracula-the-undead-lynx-the-fourth-wall-is-also-part-of-the-puzz.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/969255c2-bef2-11ed-9c42-02420a000140.webp",
-                "width": 160
-            },
-            {
-                "caption": "Searching around at the back of the room yields no results.",
-                "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/15827366-dracula-the-undead-lynx-searching-around-at-the-back-of-the-room.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a29b79fc-bef2-11ed-9c42-02420a000140.webp",
-                "width": 160
-            },
-            {
-                "caption": "Title screen",
-                "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/15811379-dracula-the-undead-lynx-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/da1688ae-beed-11ed-9c42-02420a000140.webp",
                 "width": 160
             }
         ],
@@ -2081,13 +2081,6 @@
                 "width": 160
             },
             {
-                "caption": "Title screen",
-                "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/2481672-gordo-106-lynx-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/82805c86-ab7f-11ed-9e18-02420a00019a.webp",
-                "width": 160
-            },
-            {
                 "caption": "Level Complete screen",
                 "height": 102,
                 "image_url": "https://cdn.mobygames.com/screenshots/902825-gordo-106-lynx-level-complete-screen.png",
@@ -2095,17 +2088,24 @@
                 "width": 160
             },
             {
-                "caption": "Story",
+                "caption": "A dungeon",
                 "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/905208-gordo-106-lynx-story.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d247d0dc-ab70-11ed-81e3-02420a000199.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2477557-gordo-106-lynx-a-dungeon.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7666d6dc-ab7f-11ed-8b6f-02420a00019c.webp",
                 "width": 160
             },
             {
-                "caption": "Falling into a dungeon",
+                "caption": "Title screen",
                 "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/965774-gordo-106-lynx-falling-into-a-dungeon.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4be15fc6-ab71-11ed-96f9-02420a00019a.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2481672-gordo-106-lynx-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/82805c86-ab7f-11ed-9e18-02420a00019a.webp",
+                "width": 160
+            },
+            {
+                "caption": "Freeing a bunny",
+                "height": 102,
+                "image_url": "https://cdn.mobygames.com/screenshots/965936-gordo-106-lynx-freeing-a-bunny.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4c349ac4-ab71-11ed-81b6-02420a00019d.webp",
                 "width": 160
             }
         ],
@@ -2186,10 +2186,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Two 90s fashion victims and one dynamite throwing robot",
+                "caption": "Look at the nice little details, like the parking machine",
                 "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/15930149-batman-returns-lynx-two-90s-fashion-victims-and-one-dynamite-thr.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/fd3ea61c-bf11-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16052467-batman-returns-lynx-look-at-the-nice-little-details-like-the-par.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c253b9ac-bf39-11ed-9c42-02420a000140.webp",
                 "width": 160
             },
             {
@@ -2200,24 +2200,24 @@
                 "width": 160
             },
             {
-                "caption": "Look at the nice little details, like the parking machine",
+                "caption": "Unfortunately, it is too hard for me",
                 "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/16052467-batman-returns-lynx-look-at-the-nice-little-details-like-the-par.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c253b9ac-bf39-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15930176-batman-returns-lynx-unfortunately-it-is-too-hard-for-me.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fe5d29a6-bf11-11ed-9c42-02420a000140.webp",
                 "width": 160
             },
             {
-                "caption": "Title screen",
+                "caption": "Splash screen",
                 "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/15930062-batman-returns-lynx-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f7705eba-bf11-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15930035-batman-returns-lynx-splash-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f58a37a6-bf11-11ed-9c42-02420a000140.webp",
                 "width": 160
             },
             {
-                "caption": "Hard-hitting Batman",
+                "caption": "Two 90s fashion victims and one dynamite throwing robot",
                 "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/15930128-batman-returns-lynx-hard-hitting-batman.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/fb425e6c-bf11-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15930149-batman-returns-lynx-two-90s-fashion-victims-and-one-dynamite-thr.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fd3ea61c-bf11-11ed-9c42-02420a000140.webp",
                 "width": 160
             }
         ],
@@ -2280,20 +2280,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Getting through Thunder Zone unscathed is more than a breeze.",
-                "height": 204,
-                "image_url": "https://cdn.mobygames.com/screenshots/5288337-zaku-lynx-getting-through-thunder-zone-unscathed-is-more-than-a-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b681bf9e-abd8-11ed-b325-02420a00019e.webp",
-                "width": 320
-            },
-            {
-                "caption": "The Penguin Bros. assemble to display their combined might.",
-                "height": 204,
-                "image_url": "https://cdn.mobygames.com/screenshots/5287988-zaku-lynx-the-penguin-bros-assemble-to-display-their-combined-mi.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b0a727da-abd8-11ed-b325-02420a00019e.webp",
-                "width": 320
-            },
-            {
                 "caption": "Zaku must keep Iremsha's \"handy\" robotic suit from being a smashing success.",
                 "height": 204,
                 "image_url": "https://cdn.mobygames.com/screenshots/5288462-zaku-lynx-zaku-must-keep-iremshas-handy-robotic-suit-from-being-.png",
@@ -2301,17 +2287,31 @@
                 "width": 320
             },
             {
-                "caption": "Emp's explosive personality is a force to be reckoned with.",
+                "caption": "Zaku encounters one of the game's many large enemies.",
                 "height": 204,
-                "image_url": "https://cdn.mobygames.com/screenshots/6953872-zaku-lynx-emps-explosive-personality-is-a-force-to-be-reckoned-w.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/86ae60e6-abf2-11ed-a7ec-02420a000134.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/5288091-zaku-lynx-zaku-encounters-one-of-the-games-many-large-enemies.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b22f74ea-abd8-11ed-b325-02420a00019e.webp",
                 "width": 320
             },
             {
-                "caption": "Zaku splashes into Marine Zone.",
+                "caption": "A surprise guest appearance by Plok, who previously starred in his own self-titled game for the Super Nintendo Entertainment System.",
                 "height": 204,
-                "image_url": "https://cdn.mobygames.com/screenshots/5287716-zaku-lynx-zaku-splashes-into-marine-zone.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ad38bed8-abd8-11ed-b325-02420a00019e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/6776022-zaku-lynx-a-surprise-guest-appearance-by-plok-who-previously-sta.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/25bad432-abf1-11ed-a599-02420a000132.webp",
+                "width": 320
+            },
+            {
+                "caption": "Zaku wallops a group of fuse flies using her charged shot.",
+                "height": 204,
+                "image_url": "https://cdn.mobygames.com/screenshots/2963121-zaku-lynx-zaku-wallops-a-group-of-fuse-flies-using-her-charged-s.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f5346cd4-ab86-11ed-bddc-02420a00019e.webp",
+                "width": 320
+            },
+            {
+                "caption": "Getting through Thunder Zone unscathed is more than a breeze.",
+                "height": 204,
+                "image_url": "https://cdn.mobygames.com/screenshots/5288337-zaku-lynx-getting-through-thunder-zone-unscathed-is-more-than-a-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b681bf9e-abd8-11ed-b325-02420a00019e.webp",
                 "width": 320
             }
         ],
@@ -2382,7 +2382,7 @@
             }
         ],
         "id": 45868,
-        "moby_score": 5.6,
+        "moby_score": 5.7,
         "moby_url": "https://www.mobygames.com/game/45868/bill-teds-excellent-adventure/",
         "num_votes": 7,
         "official_url": null,
@@ -2406,17 +2406,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title screen",
+                "caption": "Killed by rats (I guess)",
                 "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/2840405-bill-teds-excellent-adventure-lynx-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f72ac512-ab84-11ed-99ae-02420a00019e.webp",
-                "width": 160
-            },
-            {
-                "caption": "New game / Password screen",
-                "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/2840734-bill-teds-excellent-adventure-lynx-new-game-password-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f86835b8-ab84-11ed-a13c-02420a00019f.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2841520-bill-teds-excellent-adventure-lynx-killed-by-rats-i-guess.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fb77c048-ab84-11ed-a13c-02420a00019f.webp",
                 "width": 160
             },
             {
@@ -2427,10 +2420,10 @@
                 "width": 160
             },
             {
-                "caption": "Killed by rats (I guess)",
+                "caption": "Title screen",
                 "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/2841520-bill-teds-excellent-adventure-lynx-killed-by-rats-i-guess.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/fb77c048-ab84-11ed-a13c-02420a00019f.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2840405-bill-teds-excellent-adventure-lynx-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f72ac512-ab84-11ed-99ae-02420a00019e.webp",
                 "width": 160
             },
             {
@@ -2438,6 +2431,13 @@
                 "height": 102,
                 "image_url": "https://cdn.mobygames.com/screenshots/2841138-bill-teds-excellent-adventure-lynx-quicksand-alert.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/f9dc44fc-ab84-11ed-a13c-02420a00019f.webp",
+                "width": 160
+            },
+            {
+                "caption": "You found a note.",
+                "height": 102,
+                "image_url": "https://cdn.mobygames.com/screenshots/2841292-bill-teds-excellent-adventure-lynx-you-found-a-note.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fa72be32-ab84-11ed-a13c-02420a00019f.webp",
                 "width": 160
             }
         ],
@@ -2499,34 +2499,27 @@
             ]
         ],
         "sample_cover": {
-            "height": 614,
-            "image_url": "https://cdn.mobygames.com/covers/11090279-nfl-football-lynx-front-cover.jpg",
+            "height": 160,
+            "image_url": "https://cdn.mobygames.com/screenshots/16011953-nfl-football-lynx-title-screen.png",
             "platforms": [
                 "Lynx"
             ],
-            "thumbnail_image_url": "https://cdn.mobygames.com/b2eae918-ac15-11ed-803a-02420a000131.webp",
-            "width": 500
+            "thumbnail_image_url": "https://cdn.mobygames.com/5d53b2a8-bf2c-11ed-9c42-02420a000140.webp",
+            "width": 102
         },
         "sample_screenshots": [
+            {
+                "caption": "Select a team",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16011965-nfl-football-lynx-select-a-team.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5e8ab4be-bf2c-11ed-9c42-02420a000140.webp",
+                "width": 102
+            },
             {
                 "caption": "Kick off",
                 "height": 160,
                 "image_url": "https://cdn.mobygames.com/screenshots/16011971-nfl-football-lynx-kick-off.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/5eb68abc-bf2c-11ed-9c42-02420a000140.webp",
-                "width": 102
-            },
-            {
-                "caption": "Let the match begin",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16011968-nfl-football-lynx-let-the-match-begin.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5ea2241e-bf2c-11ed-9c42-02420a000140.webp",
-                "width": 102
-            },
-            {
-                "caption": "Choose an option",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16012796-nfl-football-lynx-choose-an-option.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9d5e7b8a-bf2c-11ed-9c42-02420a000140.webp",
                 "width": 102
             },
             {
@@ -2537,10 +2530,17 @@
                 "width": 102
             },
             {
-                "caption": "Select a team",
+                "caption": "Choose an option",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16011965-nfl-football-lynx-select-a-team.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5e8ab4be-bf2c-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16012796-nfl-football-lynx-choose-an-option.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9d5e7b8a-bf2c-11ed-9c42-02420a000140.webp",
+                "width": 102
+            },
+            {
+                "caption": "Let the match begin",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16011968-nfl-football-lynx-let-the-match-begin.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5ea2241e-bf2c-11ed-9c42-02420a000140.webp",
                 "width": 102
             }
         ],
@@ -2639,17 +2639,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "This ball-shaped device creates an energy barrier.",
+                "caption": "Title screen",
                 "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/16181753-power-factor-lynx-this-ball-shaped-device-creates-an-energy-barr.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6818cb4c-c1ca-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Logo and copyright",
-                "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/16181009-power-factor-lynx-logo-and-copyright.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/35b25542-c1ca-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16181012-power-factor-lynx-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/35c8b60c-c1ca-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -2660,17 +2653,24 @@
                 "width": 160
             },
             {
-                "caption": "It's getting colourful...",
+                "caption": "Logo and copyright",
                 "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/16181750-power-factor-lynx-its-getting-colourful.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/66f950e2-c1ca-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16181009-power-factor-lynx-logo-and-copyright.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/35b25542-c1ca-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "Notice the allusion ...",
+                "caption": "There are many fireball-throwing stationary guns in this level.",
                 "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/16181015-power-factor-lynx-notice-the-allusion.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/35de77d0-c1ca-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16181756-power-factor-lynx-there-are-many-fireball-throwing-stationary-gu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/683421e4-c1ca-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "First level",
+                "height": 102,
+                "image_url": "https://cdn.mobygames.com/screenshots/16181021-power-factor-lynx-first-level.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/360b5ce6-c1ca-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -2732,13 +2732,13 @@
             ]
         ],
         "sample_cover": {
-            "height": 614,
-            "image_url": "https://cdn.mobygames.com/covers/11090261-baseball-heroes-lynx-front-cover.jpg",
+            "height": 102,
+            "image_url": "https://cdn.mobygames.com/screenshots/16017867-baseball-heroes-lynx-title-screen.png",
             "platforms": [
                 "Lynx"
             ],
-            "thumbnail_image_url": "https://cdn.mobygames.com/b02edd88-ac15-11ed-803a-02420a000131.webp",
-            "width": 500
+            "thumbnail_image_url": "https://cdn.mobygames.com/4b1d1168-bf2e-11ed-9c42-02420a000140.webp",
+            "width": 160
         },
         "sample_screenshots": [
             {
@@ -2799,10 +2799,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Missed the ball",
+                "caption": "Intro",
                 "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/16188313-robo-squash-lynx-missed-the-ball.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/514e5ede-c1cc-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16188304-robo-squash-lynx-intro.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/510dd8d2-c1cc-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -2827,10 +2827,10 @@
                 "width": 160
             },
             {
-                "caption": "Intro",
+                "caption": "Missed the ball",
                 "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/16188304-robo-squash-lynx-intro.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/510dd8d2-c1cc-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16188313-robo-squash-lynx-missed-the-ball.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/514e5ede-c1cc-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -2920,17 +2920,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "I dove under the water",
+                "caption": "Flying above the sea",
                 "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/16251227-turbo-sub-lynx-i-dove-under-the-water.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e644d3ee-c1de-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Title screen",
-                "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/16251212-turbo-sub-lynx-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e5c54ac0-c1de-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16251224-turbo-sub-lynx-flying-above-the-sea.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e62d3810-c1de-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -2941,17 +2934,24 @@
                 "width": 160
             },
             {
-                "caption": "When you come out of the water, a windshield wiper clears your window.",
+                "caption": "I have been hit.",
                 "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/15719868-turbo-sub-lynx-when-you-come-out-of-the-water-a-windshield-wiper.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3893de40-bed0-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16251233-turbo-sub-lynx-i-have-been-hit.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e6754966-c1de-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "Flying above the sea",
+                "caption": "Enemy list",
                 "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/16251224-turbo-sub-lynx-flying-above-the-sea.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e62d3810-c1de-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16251218-turbo-sub-lynx-enemy-list.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e5f36914-c1de-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "I dove under the water",
+                "height": 102,
+                "image_url": "https://cdn.mobygames.com/screenshots/16251227-turbo-sub-lynx-i-dove-under-the-water.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e644d3ee-c1de-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -3022,13 +3022,13 @@
             ]
         ],
         "sample_cover": {
-            "height": 614,
-            "image_url": "https://cdn.mobygames.com/covers/11090285-world-class-soccer-lynx-front-cover.jpg",
+            "height": 102,
+            "image_url": "https://cdn.mobygames.com/screenshots/16456360-world-class-soccer-lynx-title-screen.png",
             "platforms": [
                 "Lynx"
             ],
-            "thumbnail_image_url": "https://cdn.mobygames.com/b386fef2-ac15-11ed-803a-02420a000131.webp",
-            "width": 500
+            "thumbnail_image_url": "https://cdn.mobygames.com/4bd91332-c220-11ed-ab6b-02420a000194.webp",
+            "width": 160
         },
         "sample_screenshots": [
             {
@@ -3115,36 +3115,15 @@
             ]
         ],
         "sample_cover": {
-            "height": 614,
-            "image_url": "https://cdn.mobygames.com/covers/11090276-malibu-bikini-volleyball-lynx-front-cover.jpg",
+            "height": 204,
+            "image_url": "https://cdn.mobygames.com/screenshots/5314582-malibu-bikini-volleyball-lynx-boot-screen.png",
             "platforms": [
                 "Lynx"
             ],
-            "thumbnail_image_url": "https://cdn.mobygames.com/b2a31cf0-ac15-11ed-803a-02420a000131.webp",
-            "width": 500
+            "thumbnail_image_url": "https://cdn.mobygames.com/68285766-abda-11ed-9e41-02420a0001b7.webp",
+            "width": 320
         },
         "sample_screenshots": [
-            {
-                "caption": "Introduction screen",
-                "height": 204,
-                "image_url": "https://cdn.mobygames.com/screenshots/5314468-malibu-bikini-volleyball-lynx-introduction-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/667c8d6a-abda-11ed-9e41-02420a0001b7.webp",
-                "width": 320
-            },
-            {
-                "caption": "The ball is bouncing",
-                "height": 204,
-                "image_url": "https://cdn.mobygames.com/screenshots/5314739-malibu-bikini-volleyball-lynx-the-ball-is-bouncing.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6a5c1a86-abda-11ed-9df4-02420a0001b3.webp",
-                "width": 320
-            },
-            {
-                "caption": "\"CD Player\" feature",
-                "height": 204,
-                "image_url": "https://cdn.mobygames.com/screenshots/5314874-malibu-bikini-volleyball-lynx-cd-player-feature.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6c6b75a6-abda-11ed-9df4-02420a0001b3.webp",
-                "width": 320
-            },
             {
                 "caption": "Title screen",
                 "height": 204,
@@ -3153,10 +3132,31 @@
                 "width": 320
             },
             {
-                "caption": "Winners",
+                "caption": "Coin toss",
                 "height": 204,
-                "image_url": "https://cdn.mobygames.com/screenshots/5314993-malibu-bikini-volleyball-lynx-winners.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6eada078-abda-11ed-9df4-02420a0001b3.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/5314216-malibu-bikini-volleyball-lynx-coin-toss.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6305e2bc-abda-11ed-9e41-02420a0001b7.webp",
+                "width": 320
+            },
+            {
+                "caption": "Introduction screen",
+                "height": 204,
+                "image_url": "https://cdn.mobygames.com/screenshots/5314468-malibu-bikini-volleyball-lynx-introduction-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/667c8d6a-abda-11ed-9e41-02420a0001b7.webp",
+                "width": 320
+            },
+            {
+                "caption": "Need to catch that one!",
+                "height": 204,
+                "image_url": "https://cdn.mobygames.com/screenshots/5315109-malibu-bikini-volleyball-lynx-need-to-catch-that-one.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/70b85638-abda-11ed-9df4-02420a0001b3.webp",
+                "width": 320
+            },
+            {
+                "caption": "\"CD Player\" feature",
+                "height": 204,
+                "image_url": "https://cdn.mobygames.com/screenshots/5314874-malibu-bikini-volleyball-lynx-cd-player-feature.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6c6b75a6-abda-11ed-9df4-02420a0001b3.webp",
                 "width": 320
             }
         ],
@@ -3396,20 +3396,27 @@
             ]
         ],
         "sample_cover": {
-            "height": 614,
-            "image_url": "https://cdn.mobygames.com/covers/11090267-fat-bobby-lynx-front-cover.png",
+            "height": 102,
+            "image_url": "https://cdn.mobygames.com/screenshots/6843542-fat-bobby-lynx-title-screen.png",
             "platforms": [
                 "Lynx"
             ],
-            "thumbnail_image_url": "https://cdn.mobygames.com/b16be038-ac15-11ed-803a-02420a000131.webp",
-            "width": 500
+            "thumbnail_image_url": "https://cdn.mobygames.com/b3b9829c-abf1-11ed-803a-02420a000131.webp",
+            "width": 160
         },
         "sample_screenshots": [
             {
-                "caption": "This guy is up to no good.",
+                "caption": "Title screen",
                 "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/6843783-fat-bobby-lynx-this-guy-is-up-to-no-good.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b096681e-abf1-11ed-8949-02420a00012e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/6843542-fat-bobby-lynx-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b3b9829c-abf1-11ed-803a-02420a000131.webp",
+                "width": 160
+            },
+            {
+                "caption": "Dr Mephisto is abducting Fat Bobby's bandmates!",
+                "height": 102,
+                "image_url": "https://cdn.mobygames.com/screenshots/6843777-fat-bobby-lynx-dr-mephisto-is-abducting-fat-bobbys-bandmates.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b041d81c-abf1-11ed-8949-02420a00012e.webp",
                 "width": 160
             },
             {
@@ -3420,24 +3427,17 @@
                 "width": 160
             },
             {
-                "caption": "Title screen",
+                "caption": "Game over, man!",
                 "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/6843542-fat-bobby-lynx-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b3b9829c-abf1-11ed-803a-02420a000131.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/6842811-fat-bobby-lynx-game-over-man.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ada2db2e-abf1-11ed-a484-02420a000130.webp",
                 "width": 160
             },
             {
-                "caption": "Fat Bobby at band practice",
+                "caption": "Between a rock and a hard place",
                 "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/6844130-fat-bobby-lynx-fat-bobby-at-band-practice.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b4699b00-abf1-11ed-b075-02420a00012f.webp",
-                "width": 160
-            },
-            {
-                "caption": "Look out for those cacti!",
-                "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/6842805-fat-bobby-lynx-look-out-for-those-cacti.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ad522b48-abf1-11ed-a484-02420a000130.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/6842808-fat-bobby-lynx-between-a-rock-and-a-hard-place.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ad7dd05e-abf1-11ed-a484-02420a000130.webp",
                 "width": 160
             }
         ],
@@ -3898,20 +3898,20 @@
             ]
         ],
         "sample_cover": {
-            "height": 614,
-            "image_url": "https://cdn.mobygames.com/covers/11090270-jimmy-connors-tennis-lynx-front-cover.jpg",
+            "height": 102,
+            "image_url": "https://cdn.mobygames.com/screenshots/2508978-jimmy-connors-tennis-lynx-title-screen-where-jimmy-connors-greet.png",
             "platforms": [
                 "Lynx"
             ],
-            "thumbnail_image_url": "https://cdn.mobygames.com/b22a1bde-ac15-11ed-803a-02420a000131.webp",
-            "width": 500
+            "thumbnail_image_url": "https://cdn.mobygames.com/d9f48b5e-ab7f-11ed-aaf5-02420a00019c.webp",
+            "width": 160
         },
         "sample_screenshots": [
             {
-                "caption": "Rolling Ball title screen",
+                "caption": "Options",
                 "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/2508379-jimmy-connors-tennis-lynx-rolling-ball-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d7f3a948-ab7f-11ed-8d2b-02420a00019e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2490297-jimmy-connors-tennis-lynx-options.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9ef3837a-ab7f-11ed-8bed-02420a00019f.webp",
                 "width": 160
             },
             {
@@ -3922,17 +3922,17 @@
                 "width": 160
             },
             {
-                "caption": "Options",
-                "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/2490297-jimmy-connors-tennis-lynx-options.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9ef3837a-ab7f-11ed-8bed-02420a00019f.webp",
-                "width": 160
-            },
-            {
                 "caption": "Title Screen where Jimmy Connors greets you.",
                 "height": 102,
                 "image_url": "https://cdn.mobygames.com/screenshots/2508978-jimmy-connors-tennis-lynx-title-screen-where-jimmy-connors-greet.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/d9f48b5e-ab7f-11ed-aaf5-02420a00019c.webp",
+                "width": 160
+            },
+            {
+                "caption": "Rolling Ball title screen",
+                "height": 102,
+                "image_url": "https://cdn.mobygames.com/screenshots/2508379-jimmy-connors-tennis-lynx-rolling-ball-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d7f3a948-ab7f-11ed-8d2b-02420a00019e.webp",
                 "width": 160
             }
         ],
@@ -4181,7 +4181,7 @@
         "id": 172546,
         "moby_score": 6.5,
         "moby_url": "https://www.mobygames.com/game/172546/scrapyard-dog/",
-        "num_votes": 5,
+        "num_votes": 6,
         "official_url": null,
         "platforms": [
             [
@@ -4203,6 +4203,20 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Beginning of first level",
+                "height": 102,
+                "image_url": "https://cdn.mobygames.com/screenshots/16037404-scrapyard-dog-lynx-beginning-of-first-level.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/28d8bff6-bf35-11ed-9c42-02420a000140.webp",
+                "width": 160
+            },
+            {
+                "caption": "Scraps is stolen!",
+                "height": 102,
+                "image_url": "https://cdn.mobygames.com/screenshots/16036948-scrapyard-dog-lynx-scraps-is-stolen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e74429a4-bf34-11ed-9c42-02420a000140.webp",
+                "width": 160
+            },
+            {
                 "caption": "Intro",
                 "height": 102,
                 "image_url": "https://cdn.mobygames.com/screenshots/16891769-scrapyard-dog-lynx-intro.png",
@@ -4217,24 +4231,10 @@
                 "width": 160
             },
             {
-                "caption": "Game over!",
+                "caption": "Title screen",
                 "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/16891784-scrapyard-dog-lynx-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/31fa1c16-c402-11ed-be63-02420a000121.webp",
-                "width": 160
-            },
-            {
-                "caption": "Beginning of second level",
-                "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/16891778-scrapyard-dog-lynx-beginning-of-second-level.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/31cd0e24-c402-11ed-be63-02420a000121.webp",
-                "width": 160
-            },
-            {
-                "caption": "Scraps is stolen!",
-                "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/16036948-scrapyard-dog-lynx-scraps-is-stolen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e74429a4-bf34-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15683514-scrapyard-dog-lynx-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/82178a1a-bec3-11ed-9c42-02420a000140.webp",
                 "width": 160
             }
         ],
@@ -4303,7 +4303,7 @@
         "moby_score": null,
         "moby_url": "https://www.mobygames.com/game/200608/assembloids/",
         "num_votes": 0,
-        "official_url": null,
+        "official_url": "http://priorartgames.eu",
         "platforms": [
             [
                 {
@@ -4324,10 +4324,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "game over screen",
+                "caption": "In-game help screen",
                 "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/17950525-assembloids-lynx-game-over-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1b48f184-9352-11ee-80f9-02420a00018f.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/17950501-assembloids-lynx-in-game-help-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/185c54a2-9352-11ee-91f5-02420a00018b.webp",
                 "width": 160
             },
             {
@@ -4338,6 +4338,13 @@
                 "width": 160
             },
             {
+                "caption": "In-game menu screen",
+                "height": 102,
+                "image_url": "https://cdn.mobygames.com/screenshots/17950497-assembloids-lynx-in-game-menu-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1810df4a-9352-11ee-8e8f-02420a00018f.webp",
+                "width": 160
+            },
+            {
                 "caption": "In-game credits",
                 "height": 102,
                 "image_url": "https://cdn.mobygames.com/screenshots/17950509-assembloids-lynx-in-game-credits.png",
@@ -4345,17 +4352,10 @@
                 "width": 160
             },
             {
-                "caption": "In-game highscore view",
+                "caption": "Title screen in full color mode (more than 16 colors)",
                 "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/17950517-assembloids-lynx-in-game-highscore-view.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/19975f42-9352-11ee-91f5-02420a00018b.webp",
-                "width": 160
-            },
-            {
-                "caption": "In-game help screen",
-                "height": 102,
-                "image_url": "https://cdn.mobygames.com/screenshots/17950501-assembloids-lynx-in-game-help-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/185c54a2-9352-11ee-91f5-02420a00018b.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/17950485-assembloids-lynx-title-screen-in-full-color-mode-more-than-16-co.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/16d93be0-9352-11ee-95f0-02420a00018c.webp",
                 "width": 160
             }
         ],

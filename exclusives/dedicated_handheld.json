@@ -208,10 +208,10 @@
                 "width": 640
             },
             {
-                "caption": "Main menu, page 3/4.",
+                "caption": "Tectoy's logo (from the Brazilian release)",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/5892467-the-arcade-portable-dedicated-handheld-main-menu-page-34.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1f637fc8-abea-11ed-9b47-02420a000133.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/979659-the-arcade-portable-dedicated-handheld-tectoys-logo-from-the-bra.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/679754be-ab71-11ed-9e18-02420a00019a.webp",
                 "width": 640
             },
             {
@@ -222,17 +222,17 @@
                 "width": 640
             },
             {
+                "caption": "Main menu, page 3/4.",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/5892467-the-arcade-portable-dedicated-handheld-main-menu-page-34.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1f637fc8-abea-11ed-9b47-02420a000133.webp",
+                "width": 640
+            },
+            {
                 "caption": "Main menu, page 1/4.",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/5870357-the-arcade-portable-dedicated-handheld-main-menu-page-14.jpg",
                 "thumbnail_image_url": "https://cdn.mobygames.com/ebefefa0-abe9-11ed-803a-02420a000131.webp",
-                "width": 640
-            },
-            {
-                "caption": "Tectoy's logo (from the Brazilian release)",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/979659-the-arcade-portable-dedicated-handheld-tectoys-logo-from-the-bra.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/679754be-ab71-11ed-9e18-02420a00019a.webp",
                 "width": 640
             }
         ],
@@ -2067,6 +2067,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Starting the device shows all LCD segments",
+                "height": 735,
+                "image_url": "https://cdn.mobygames.com/screenshots/16143228-game-watch-multi-screen-mario-bros-dedicated-handheld-starting-t.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a77a3ed6-bf7e-11ed-9521-02420a000152.webp",
+                "width": 1200
+            },
+            {
                 "caption": "Playing on game A difficulty",
                 "height": 735,
                 "image_url": "https://cdn.mobygames.com/screenshots/15704812-game-watch-multi-screen-mario-bros-dedicated-handheld-playing-on.png",
@@ -2078,13 +2085,6 @@
                 "height": 651,
                 "image_url": "https://cdn.mobygames.com/screenshots/16500961-game-watch-multi-screen-mario-bros-dedicated-handheld-game-watch.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/98bd7190-c22d-11ed-ab6b-02420a000194.webp",
-                "width": 1200
-            },
-            {
-                "caption": "Starting the device shows all LCD segments",
-                "height": 735,
-                "image_url": "https://cdn.mobygames.com/screenshots/16143228-game-watch-multi-screen-mario-bros-dedicated-handheld-starting-t.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a77a3ed6-bf7e-11ed-9521-02420a000152.webp",
                 "width": 1200
             }
         ],
@@ -2174,17 +2174,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Playing on pro1 difficulty",
-                "height": 800,
-                "image_url": "https://cdn.mobygames.com/screenshots/15715143-sea-ranger-dedicated-handheld-playing-on-pro1-difficulty.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/96c249f4-bece-11ed-9c42-02420a000140.webp",
-                "width": 1170
-            },
-            {
                 "caption": "When not playing it displays the time",
                 "height": 800,
                 "image_url": "https://cdn.mobygames.com/screenshots/16063171-sea-ranger-dedicated-handheld-when-not-playing-it-displays-the-t.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/c630d4a6-bf66-11ed-9521-02420a000152.webp",
+                "width": 1170
+            },
+            {
+                "caption": "Playing on pro1 difficulty",
+                "height": 800,
+                "image_url": "https://cdn.mobygames.com/screenshots/15715143-sea-ranger-dedicated-handheld-playing-on-pro1-difficulty.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/96c249f4-bece-11ed-9c42-02420a000140.webp",
                 "width": 1170
             }
         ],
@@ -2274,17 +2274,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Starting the device",
-                "height": 680,
-                "image_url": "https://cdn.mobygames.com/screenshots/16084658-toms-adventure-dedicated-handheld-starting-the-device.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/86cc78e0-bf6d-11ed-9521-02420a000152.webp",
-                "width": 1200
-            },
-            {
                 "caption": "Device turned off",
                 "height": 680,
                 "image_url": "https://cdn.mobygames.com/screenshots/16086047-toms-adventure-dedicated-handheld-device-turned-off.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/ddcd11cc-bf6d-11ed-9521-02420a000152.webp",
+                "width": 1200
+            },
+            {
+                "caption": "Starting the device",
+                "height": 680,
+                "image_url": "https://cdn.mobygames.com/screenshots/16084658-toms-adventure-dedicated-handheld-starting-the-device.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/86cc78e0-bf6d-11ed-9521-02420a000152.webp",
                 "width": 1200
             }
         ],
@@ -3575,18 +3575,18 @@
                 "width": 653
             },
             {
-                "caption": "The first lock is opened. Working my way back up from the bottom screen",
-                "height": 706,
-                "image_url": "https://cdn.mobygames.com/screenshots/7210485-game-watch-multi-screen-donkey-kong-ii-dedicated-handheld-the-fi.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8da291a4-abf4-11ed-b57a-02420a000130.webp",
-                "width": 532
-            },
-            {
                 "caption": "At the top screen, preparing to grab the key",
                 "height": 710,
                 "image_url": "https://cdn.mobygames.com/screenshots/7209203-game-watch-multi-screen-donkey-kong-ii-dedicated-handheld-at-the.jpg",
                 "thumbnail_image_url": "https://cdn.mobygames.com/8dcf3100-abf4-11ed-893a-02420a00012f.webp",
                 "width": 540
+            },
+            {
+                "caption": "The first lock is opened. Working my way back up from the bottom screen",
+                "height": 706,
+                "image_url": "https://cdn.mobygames.com/screenshots/7210485-game-watch-multi-screen-donkey-kong-ii-dedicated-handheld-the-fi.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8da291a4-abf4-11ed-b57a-02420a000130.webp",
+                "width": 532
             }
         ],
         "title": "Game & Watch Multi Screen: Donkey Kong II"
@@ -4563,18 +4563,18 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Hiding in the nook on the left. The hoppers on the right side are getting full",
-                "height": 344,
-                "image_url": "https://cdn.mobygames.com/screenshots/7209791-game-watch-wide-screen-marios-cement-factory-dedicated-handheld-.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8b58dbb0-abf4-11ed-941d-02420a000132.webp",
-                "width": 506
-            },
-            {
                 "caption": "Getting ready to transfer cement to the lower hopper",
                 "height": 342,
                 "image_url": "https://cdn.mobygames.com/screenshots/7209200-game-watch-wide-screen-marios-cement-factory-dedicated-handheld-.jpg",
                 "thumbnail_image_url": "https://cdn.mobygames.com/8d6aad52-abf4-11ed-893a-02420a00012f.webp",
                 "width": 500
+            },
+            {
+                "caption": "Hiding in the nook on the left. The hoppers on the right side are getting full",
+                "height": 344,
+                "image_url": "https://cdn.mobygames.com/screenshots/7209791-game-watch-wide-screen-marios-cement-factory-dedicated-handheld-.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8b58dbb0-abf4-11ed-941d-02420a000132.webp",
+                "width": 506
             },
             {
                 "caption": "Game & Watch - Mario's Cement Factory",
@@ -9569,7 +9569,7 @@
                 "title": "Electronic Auto Race"
             }
         ],
-        "description": "<p><em>Raceway</em> is a game very similar to <a href=\"https://www.mobygames.com/game/107901/auto-race/\">Mattel's Auto Race</a>. While gameplay is similar the layout of the device is completely different. Instead of a slider the device uses a wheel and also the slider is more in theme shaped like a throttle stick. The race track is shown horizontally instead of vertically with the lap and time display shown above. Gameplay remains identical with the player avoiding collision with incoming LED lights on the three different lanes while trying to throttle faster and faster.</p>",
+        "description": "<p><em>Raceway</em> is a game very similar to <a href=\"https://www.mobygames.com/search/?q=Auto+Race\">Mattel's Auto Race</a>. While gameplay is similar the layout of the device is completely different. Instead of a slider the device uses a wheel and also the slider is more in theme shaped like a throttle stick. The race track is shown horizontally instead of vertically with the lap and time display shown above. Gameplay remains identical with the player avoiding collision with incoming LED lights on the three different lanes while trying to throttle faster and faster.</p>",
         "genres": [
             {
                 "category": {
@@ -11052,7 +11052,7 @@
                 "title": "Teenage Mutant Hero Turtles"
             }
         ],
-        "description": "<p><em>Teenage Mutant Ninja Turtles</em> is an LCD game created by Konami to tie-in with their Arcade &amp; NES game <a href=\"https://www.mobygames.com/search/?q=Teenage+Mutant+Ninja+Turtles\">of the same name</a>. The device's primary controls consist of a circle shaped 4-way directional pad, and a second similarly shaped pad that acts as two buttons. In the game the player controls Leonardo and must rescue April who has been kidnapped and tied up by Shredder. The game has three game modes. In mode 1, the player must first fight a bunch of enemies until they are allowed into the water. Once in the water they have past two obstacles to retrieve a key and then swim back. After that they can walk up to April and unlock her restrains to win the game.</p>\n<p>Mode 2 follows the same basic formula as game one, except now there is a shield around April which the player has to destroy with bombs. The bombs are located where the key is, and the player must collect the bomb and bring it to the shield were it will explode. They then need to do that a second time to completely destroy the shield and allow the player to collect the key. Additionally, the player can only be in the water for 10 seconds, and will lose the game if the time runs out. Game 3 is identical to game 2, except the player has to use 3 bombs instead of 2 to destroy the shield.</p>",
+        "description": "<p><em>Teenage Mutant Ninja Turtles</em> is an LCD game created by Konami to tie-in with their Arcade &amp; NES game <a href=\"https://www.mobygames.com/game/7470/teenage-mutant-ninja-turtles/\">of the same name</a>. The device's primary controls consist of a circle shaped 4-way directional pad, and a second similarly shaped pad that acts as two buttons. In the game the player controls Leonardo and must rescue April who has been kidnapped and tied up by Shredder. The game has three game modes. In mode 1, the player must first fight a bunch of enemies until they are allowed into the water. Once in the water they have past two obstacles to retrieve a key and then swim back. After that they can walk up to April and unlock her restrains to win the game.</p>\n<p>Mode 2 follows the same basic formula as game one, except now there is a shield around April which the player has to destroy with bombs. The bombs are located where the key is, and the player must collect the bomb and bring it to the shield were it will explode. They then need to do that a second time to completely destroy the shield and allow the player to collect the key. Additionally, the player can only be in the water for 10 seconds, and will lose the game if the time runs out. Game 3 is identical to game 2, except the player has to use 3 bombs instead of 2 to destroy the shield.</p>",
         "genres": [
             {
                 "category": {
@@ -12368,7 +12368,12 @@
         "title": "Mega Man 2"
     },
     {
-        "alternate_titles": [],
+        "alternate_titles": [
+            {
+                "description": "TV commercial title",
+                "title": "Mega Man III"
+            }
+        ],
         "description": null,
         "genres": [
             {
@@ -17382,7 +17387,12 @@
         "title": "Wayne Gretzky / Brett Hull ShootOut"
     },
     {
-        "alternate_titles": [],
+        "alternate_titles": [
+            {
+                "description": "1994 re-release title",
+                "title": "Fast Lane Bowling"
+            }
+        ],
         "description": null,
         "genres": [
             {
@@ -18189,6 +18199,10 @@
     },
     {
         "alternate_titles": [
+            {
+                "description": "UK title",
+                "title": "Football"
+            },
             {
                 "description": "Re-release title",
                 "title": "World Wide Soccer"
@@ -19684,7 +19698,7 @@
         ],
         "id": 180706,
         "moby_score": null,
-        "moby_url": "https://www.mobygames.com/game/180706/marvel-comics-x-men/",
+        "moby_url": "https://www.mobygames.com/game/180706/talking-marvel-comics-x-men/",
         "num_votes": 0,
         "official_url": null,
         "platforms": [
@@ -19698,7 +19712,7 @@
         ],
         "sample_cover": null,
         "sample_screenshots": [],
-        "title": "Marvel Comics: X-Men"
+        "title": "Talking Marvel Comics: X-Men"
     },
     {
         "alternate_titles": [],
@@ -20530,7 +20544,16 @@
         "title": "Snake's Revenge"
     },
     {
-        "alternate_titles": [],
+        "alternate_titles": [
+            {
+                "description": "French title",
+                "title": "Labyrinthe"
+            },
+            {
+                "description": "German title",
+                "title": "Maus-Labyrinth"
+            }
+        ],
         "description": null,
         "genres": [
             {
@@ -32800,7 +32823,12 @@
         "title": "Sonic Adventure"
     },
     {
-        "alternate_titles": [],
+        "alternate_titles": [
+            {
+                "description": "Re-release title",
+                "title": "World Cup Soccer"
+            }
+        ],
         "description": null,
         "genres": [
             {
@@ -32851,7 +32879,7 @@
         ],
         "id": 194767,
         "moby_score": null,
-        "moby_url": "https://www.mobygames.com/game/194767/world-cup-soccer/",
+        "moby_url": "https://www.mobygames.com/game/194767/mgas-lcd-soccer/",
         "num_votes": 0,
         "official_url": null,
         "platforms": [
@@ -32860,12 +32888,12 @@
                     "id": 205,
                     "name": "Dedicated handheld"
                 },
-                "1995"
+                "1992"
             ]
         ],
         "sample_cover": null,
         "sample_screenshots": [],
-        "title": "World Cup Soccer"
+        "title": "MGA's LCD Soccer"
     },
     {
         "alternate_titles": [],
@@ -38394,7 +38422,12 @@
         "title": "Barbie: Mountain Bike Riding"
     },
     {
-        "alternate_titles": [],
+        "alternate_titles": [
+            {
+                "description": "Italian title",
+                "title": "Barbie: Barbie Guardia Costiera"
+            }
+        ],
         "description": null,
         "genres": [
             {
@@ -52878,5 +52911,4979 @@
         "sample_cover": null,
         "sample_screenshots": [],
         "title": "Reader Rabbit: Reading Readiness"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 200,
+                "name": "Contemporary"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 229222,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/229222/the-perils-of-mickey/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1993"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "The Perils of Mickey"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 229224,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/229224/taz-mania/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1994"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Taz-Mania"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 200,
+                "name": "Contemporary"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 83,
+                "name": "Horror"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 229228,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/229228/beetlejuice/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1991"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Beetlejuice"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 229266,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/229266/silver-surfer/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1998"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Silver Surfer"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 229270,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/229270/robocop-the-series/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1995"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "RoboCop: The Series"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 229390,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/229390/area-51/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1995"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Area 51"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 48,
+                "name": "Fighting"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 229521,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/229521/tiger-stix-klobber/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1995"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Tiger Stix: Klobber"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 190,
+                "name": "Prehistoric"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 229540,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/229540/the-flintstones/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1994"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "The Flintstones"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 190,
+                "name": "Prehistoric"
+            }
+        ],
+        "id": 229541,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/229541/caveman/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1982"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Caveman"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 56,
+                "name": "Helicopter"
+            }
+        ],
+        "id": 229542,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/229542/thunderblade/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1989"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "ThunderBlade"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 200,
+                "name": "Contemporary"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 55,
+                "name": "Detective / mystery"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 229543,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/229543/yo-yogi/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1990"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Yo, Yogi!"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 229544,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/229544/sabans-power-rangers-turbo/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1997"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Saban's Power Rangers: Turbo"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 48,
+                "name": "Fighting"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 39,
+                "name": "Martial arts"
+            }
+        ],
+        "id": 229545,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/229545/vrt-x-mk3/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1995"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "VRT-X: MK3"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 6,
+                "name": "Racing / Driving"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 128,
+                "name": "Behind view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 20,
+                "name": "Motorcycle"
+            }
+        ],
+        "id": 229616,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/229616/3d-motocross/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1993"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "3D Motocross"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 229638,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/229638/daring-dolphin/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1994"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Daring Dolphin"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 229639,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/229639/harry-potter-mini-action-game-harry-potter/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "2001"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Harry Potter: Mini Action Game - Harry Potter"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 53,
+                "name": "Pinball"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 229641,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/229641/attack-from-mars/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1998"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Attack from Mars"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 53,
+                "name": "Pinball"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 229643,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/229643/electronic-game-pinball/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1991"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Electronic Game: Pinball"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            }
+        ],
+        "id": 229828,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/229828/beauty-and-the-beast/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1993"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Beauty and the Beast"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 53,
+                "name": "Pinball"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 229830,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/229830/barbie-shakin-pinball/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1995"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Barbie: Shakin' Pinball"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 229863,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/229863/the-mask-from-zero-to-hero/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1996"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "The Mask: From Zero to Hero"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 53,
+                "name": "Pinball"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 229864,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/229864/electronic-shakin-pinball/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1998"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Electronic Shakin' Pinball"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 53,
+                "name": "Pinball"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 229865,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/229865/star-wars-shakin-pinball/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1995"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Star Wars: Shakin' Pinball"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "On-device title",
+                "title": "Track Star"
+            }
+        ],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 135,
+                "name": "Athletics"
+            }
+        ],
+        "id": 229895,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/229895/electronic-lcd-track-star/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1983"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Electronic LCD Track Star"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 128,
+                "name": "Behind view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 207,
+                "name": "North America"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 213,
+                "name": "Western"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 229901,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/229901/the-lone-ranger/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1990"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "The Lone Ranger"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 21,
+                "name": "Platform"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            }
+        ],
+        "id": 229916,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/229916/sonic/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1998"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Sonic"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 139,
+                "name": "Life / social simulation"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 229936,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/229936/rugrats-giga-pets-plus/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1997"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Rugrats: Giga Pets Plus"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 140,
+                "name": "Mini-games"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 200,
+                "name": "Contemporary"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 229937,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/229937/rugrats/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1997"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Rugrats"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 139,
+                "name": "Life / social simulation"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 229938,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/229938/oreo-giga-pets/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1998"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Oreo: Giga Pets"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "Barbie-licensed title",
+                "title": "Barbie: Giga Pets - Precious Puppy"
+            },
+            {
+                "description": "KFC-licensed title",
+                "title": "Micropup: Giga Pets - KFC"
+            }
+        ],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 139,
+                "name": "Life / social simulation"
+            }
+        ],
+        "id": 229939,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/229939/digital-doggie-giga-pets/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1997"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Digital Doggie: Giga Pets"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "Barbie-licensed title",
+                "title": "Barbie: Giga Pets - Precious Kitty"
+            },
+            {
+                "description": "KFC-licensed title",
+                "title": "Kitty Kitty: Giga Pets - KFC"
+            }
+        ],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 139,
+                "name": "Life / social simulation"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 229940,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/229940/compu-kitty-giga-pets/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1997"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Compu Kitty: Giga Pets"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 139,
+                "name": "Life / social simulation"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 229942,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/229942/sabrina-the-teenage-witch-giga-pets-salem-the-cat/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1997"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Sabrina: The Teenage Witch - Giga Pets: Salem the Cat"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 139,
+                "name": "Life / social simulation"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 200,
+                "name": "Contemporary"
+            }
+        ],
+        "id": 229964,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/229964/giga-farm-giga-pets-plus/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1997"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Giga Farm: Giga Pets Plus"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 139,
+                "name": "Life / social simulation"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 229965,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/229965/looney-tunes-giga-pets/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1997"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Looney Tunes: Giga Pets"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 139,
+                "name": "Life / social simulation"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 229967,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/229967/virtual-alien-giga-pets/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1997"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Virtual Alien: Giga Pets"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 139,
+                "name": "Life / social simulation"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 229968,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/229968/disneys-the-little-mermaid-giga-pets/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1997"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Disney's The Little Mermaid: Giga Pets"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 139,
+                "name": "Life / social simulation"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 229984,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/229984/star-wars-giga-pets-r2-d2/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1997"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Star Wars: Giga Pets - R2-D2"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 139,
+                "name": "Life / social simulation"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 229985,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/229985/star-wars-giga-pets-yoda/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1997"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Star Wars: Giga Pets - Yoda"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 139,
+                "name": "Life / social simulation"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 229986,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/229986/star-wars-giga-pets-rancor/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1997"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Star Wars: Giga Pets - Rancor"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 139,
+                "name": "Life / social simulation"
+            }
+        ],
+        "id": 229987,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/229987/microchimp-giga-pets/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1997"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Microchimp: Giga Pets"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 139,
+                "name": "Life / social simulation"
+            }
+        ],
+        "id": 229988,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/229988/computer-koala-giga-pets/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1997"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Computer Koala: Giga Pets"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 139,
+                "name": "Life / social simulation"
+            }
+        ],
+        "id": 229989,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/229989/bit-critter-giga-pets/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1997"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Bit Critter: Giga Pets"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 139,
+                "name": "Life / social simulation"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 229996,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/229996/looney-tunes-giga-pets-taz-mania/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1998"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Looney Tunes: Giga Pets - Taz-Mania"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 139,
+                "name": "Life / social simulation"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 230000,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/230000/baby-t-rex-giga-pets-the-lost-world-jurassic-park/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1997"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Baby T-Rex: Giga Pets - The Lost World: Jurassic Park"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 139,
+                "name": "Life / social simulation"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 230004,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/230004/disneys-101-dalmatians-giga-pets/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1997"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Disney's 101 Dalmatians: Giga Pets"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 139,
+                "name": "Life / social simulation"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 230007,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/230007/floppy-frog-giga-pets/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1997"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Floppy Frog: Giga Pets"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 3,
+                "name": "Simulation"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 139,
+                "name": "Life / social simulation"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 230044,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/230044/small-soldiers-giga-pets-plus/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1998"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Small Soldiers: Giga Pets Plus"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 213,
+                "name": "Western"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 230110,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/230110/an-american-tail-fievel-goes-west/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1991"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "An American Tail: Fievel Goes West"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 29,
+                "name": "Game show / trivia / quiz"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 230152,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/230152/name-that-tune/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1997"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Name that Tune"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 230597,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/230597/marvel-comics-x-men/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1991"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Marvel Comics: X-Men"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 29,
+                "name": "Game show / trivia / quiz"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 172,
+                "name": "Menu structures"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 231056,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/231056/the-price-is-right/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1998"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "The Price Is Right"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            }
+        ],
+        "id": 231057,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/231057/giga-faces/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1997"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Giga Faces"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 6,
+                "name": "Racing / Driving"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 128,
+                "name": "Behind view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 188,
+                "name": "Automobile"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 200,
+                "name": "Contemporary"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 207,
+                "name": "North America"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 231118,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/231118/beverly-hills-90210/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1993"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Beverly Hills, 90210"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 13,
+                    "name": "Art Style"
+                },
+                "description": null,
+                "id": 57,
+                "name": "Anime / Manga"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 117,
+                "name": "Beat 'em up / brawler"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 39,
+                "name": "Martial arts"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 231119,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/231119/dragon-ball-z-battle-for-namek/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1999"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Dragon Ball Z: Battle for Namek"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 12,
+                "name": "Educational"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 43,
+                "name": "Math / logic"
+            },
+            {
+                "category": {
+                    "id": 5,
+                    "name": "Educational Categories"
+                },
+                "description": null,
+                "id": 46,
+                "name": "Pre-school / toddler"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 231121,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/231121/mickeys-stuff-for-kids-magical-shapes/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1996"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Mickey's Stuff for Kids: Magical Shapes"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 51,
+                "name": "Wrestling"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 231140,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/231140/wwf-in-the-ring/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1998"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "WWF in the Ring"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 19,
+                "name": "Flight / aviation"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 206,
+                "name": "Middle East"
+            }
+        ],
+        "id": 231141,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/231141/aladdins-adventure/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1993"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Aladdin's Adventure"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 200,
+                "name": "Contemporary"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 93,
+                "name": "Spy / espionage"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 231142,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/231142/mission-impossible/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1996"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Mission: Impossible"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 231182,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/231182/american-gladiators/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1992"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "American Gladiators"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 190,
+                "name": "Prehistoric"
+            }
+        ],
+        "id": 231183,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/231183/giant-dinosaurs/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1992"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Giant Dinosaurs"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            }
+        ],
+        "id": 231185,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/231185/the-pretty-little-mermaid/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1992"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "The Pretty Little Mermaid"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 231277,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/231277/flash-gordon/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1996"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Flash Gordon"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 93,
+                "name": "Spy / espionage"
+            }
+        ],
+        "id": 231362,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/231362/rolling-thunder-electronic-lcd-game/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1986"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Rolling Thunder Electronic LCD Game"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 129,
+                "name": "Diagonal-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 88,
+                "name": "Bowling"
+            }
+        ],
+        "id": 231728,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/231728/bowl-a-rama/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1997"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Bowl-a-Rama"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 140,
+                "name": "Mini-games"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 38,
+                "name": "Olympiad / mixed sports"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 95,
+                "name": "Snowboarding / skiing"
+            }
+        ],
+        "id": 231740,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/231740/world-games/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 205,
+                    "name": "Dedicated handheld"
+                },
+                "1988"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "World Games"
     }
 ]

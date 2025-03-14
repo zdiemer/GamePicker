@@ -83,13 +83,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Leona executes her guillotine-style move Baltic Launcher in Mai: the combo counter rushes 5 hits!",
-                "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/15650866-king-of-fighters-r-1-neo-geo-pocket-leona-executes-her-guillotin.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4f866e18-bdf1-11ed-b791-02420a0001bb.webp",
-                "width": 160
-            },
-            {
                 "caption": "Yuri tries, but she didn't get to escape of Orochi Yashiro's DM Araburu Daichi: Orochi Power rules?",
                 "height": 152,
                 "image_url": "https://cdn.mobygames.com/screenshots/15987802-king-of-fighters-r-1-neo-geo-pocket-yuri-tries-but-she-didnt-get.png",
@@ -97,24 +90,31 @@
                 "width": 160
             },
             {
-                "caption": "Fighting against Ryo (with a power bar on), Shingo hits him with his DM Kake Hou Rin: critical hit!",
+                "caption": "Athena Asamiya in one of her usual post-round quotes.",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/15650851-king-of-fighters-r-1-neo-geo-pocket-fighting-against-ryo-with-a-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4e8f9930-bdf1-11ed-b791-02420a0001bb.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15650770-king-of-fighters-r-1-neo-geo-pocket-athena-asamiya-in-one-of-her.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/47cb3d84-bdf1-11ed-b791-02420a0001bb.webp",
                 "width": 160
             },
             {
-                "caption": "Kim Kaphwan shows a lot of Tae Kwon Do skills to Shermie, starting by his anti-air move Kuu Sa Jin.",
+                "caption": "Terry's DM High Angle Geyser is used to stop Athena's jump: he now finishes it with a Power Geyser.",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/15650848-king-of-fighters-r-1-neo-geo-pocket-kim-kaphwan-shows-a-lot-of-t.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4e74dd8e-bdf1-11ed-b791-02420a0001bb.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15650836-king-of-fighters-r-1-neo-geo-pocket-terrys-dm-high-angle-geyser-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4d2be666-bdf1-11ed-b791-02420a0001bb.webp",
                 "width": 160
             },
             {
-                "caption": "Introduction frame: Kyo Kusanagi and Iori Yagami comparing powers like the old time...",
+                "caption": "Thanks to her DM Rebel Spark, Orochi Leona could put a quick finish in Iori: Round 1 is all of her!",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/15650734-king-of-fighters-r-1-neo-geo-pocket-introduction-frame-kyo-kusan.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4696ceba-bdf1-11ed-b791-02420a0001bb.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15987772-king-of-fighters-r-1-neo-geo-pocket-thanks-to-her-dm-rebel-spark.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9fcd4b94-bf22-11ed-9c42-02420a000140.webp",
+                "width": 160
+            },
+            {
+                "caption": "Shermie giving a looping in Leona in her move Shermie Spiral: the impact promises to be strong...",
+                "height": 152,
+                "image_url": "https://cdn.mobygames.com/screenshots/15650761-king-of-fighters-r-1-neo-geo-pocket-shermie-giving-a-looping-in-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/47854266-bdf1-11ed-b791-02420a0001bb.webp",
                 "width": 160
             }
         ],
@@ -179,13 +179,6 @@
             {
                 "caption": "Gameplay",
                 "height": 133,
-                "image_url": "https://cdn.mobygames.com/screenshots/17500017-neo-geo-cup-98-neo-geo-pocket-gameplay.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5b133b36-398d-11ee-9e14-02420a000149.webp",
-                "width": 160
-            },
-            {
-                "caption": "Gameplay",
-                "height": 133,
                 "image_url": "https://cdn.mobygames.com/screenshots/17500029-neo-geo-cup-98-neo-geo-pocket-gameplay.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/5bcd3dba-398d-11ee-a193-02420a00014a.webp",
                 "width": 160
@@ -200,6 +193,13 @@
             {
                 "caption": "Gameplay",
                 "height": 133,
+                "image_url": "https://cdn.mobygames.com/screenshots/17500017-neo-geo-cup-98-neo-geo-pocket-gameplay.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5b133b36-398d-11ee-9e14-02420a000149.webp",
+                "width": 160
+            },
+            {
+                "caption": "Gameplay",
+                "height": 133,
                 "image_url": "https://cdn.mobygames.com/screenshots/17500021-neo-geo-cup-98-neo-geo-pocket-gameplay.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/5b509170-398d-11ee-b3c6-02420a00014a.webp",
                 "width": 160
@@ -207,8 +207,8 @@
             {
                 "caption": "Gameplay",
                 "height": 133,
-                "image_url": "https://cdn.mobygames.com/screenshots/17500025-neo-geo-cup-98-neo-geo-pocket-gameplay.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5b8cb98e-398d-11ee-8a6d-02420a000149.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/17500033-neo-geo-cup-98-neo-geo-pocket-gameplay.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5c0bc314-398d-11ee-9e14-02420a000149.webp",
                 "width": 160
             }
         ],
@@ -289,24 +289,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "3...2..1...",
+                "caption": "Item selection screen",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16430777-melon-chan-no-seichoki-neo-geo-pocket-321.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ea43d33e-c218-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16432577-melon-chan-no-seichoki-neo-geo-pocket-item-selection-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/671a0450-c219-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "Sleeping time",
+                "caption": "Title screen",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16481701-melon-chan-no-seichoki-neo-geo-pocket-sleeping-time.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/576ac7de-c227-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Hello, Melon!",
-                "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16431644-melon-chan-no-seichoki-neo-geo-pocket-hello-melon.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2e844d62-c219-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16431227-melon-chan-no-seichoki-neo-geo-pocket-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0ad3e346-c219-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -317,10 +310,17 @@
                 "width": 160
             },
             {
-                "caption": "Melon searches something",
+                "caption": "Second shop",
                 "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16459993-melon-chan-no-seichoki-neo-geo-pocket-melon-searches-something.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/693e9658-c221-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16432760-melon-chan-no-seichoki-neo-geo-pocket-second-shop.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/71ebe7fe-c219-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Daytime\u2026",
+                "height": 152,
+                "image_url": "https://cdn.mobygames.com/screenshots/16433276-melon-chan-no-seichoki-neo-geo-pocket-daytime.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8e4d46d6-c219-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -428,6 +428,20 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Selecting a grade level.",
+                "height": 152,
+                "image_url": "https://cdn.mobygames.com/screenshots/16377824-samurai-shodown-pocket-fighting-series-neo-geo-pocket-selecting-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2b35de56-c209-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Title screen.",
+                "height": 152,
+                "image_url": "https://cdn.mobygames.com/screenshots/16377785-samurai-shodown-pocket-fighting-series-neo-geo-pocket-title-scre.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/28e3fafc-c209-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
                 "caption": "Title screen (Japanese).",
                 "height": 152,
                 "image_url": "https://cdn.mobygames.com/screenshots/15839296-samurai-shodown-pocket-fighting-series-neo-geo-pocket-title-scre.png",
@@ -439,20 +453,6 @@
                 "height": 152,
                 "image_url": "https://cdn.mobygames.com/screenshots/16377821-samurai-shodown-pocket-fighting-series-neo-geo-pocket-character-.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/2b1c9f68-c209-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Title screen.",
-                "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16377785-samurai-shodown-pocket-fighting-series-neo-geo-pocket-title-scre.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/28e3fafc-c209-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Selecting a grade level.",
-                "height": 152,
-                "image_url": "https://cdn.mobygames.com/screenshots/16377824-samurai-shodown-pocket-fighting-series-neo-geo-pocket-selecting-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2b35de56-c209-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {

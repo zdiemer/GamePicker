@@ -501,7 +501,13 @@
                 "1954"
             ]
         ],
-        "sample_cover": null,
+        "sample_cover": {
+            "height": 537,
+            "image_url": "https://cdn.mobygames.com/promos/9778648-pool-screenshot-photo.jpg",
+            "platforms": [],
+            "thumbnail_image_url": "https://cdn.mobygames.com/0384efe2-ac0a-11ed-82af-02420a000136.webp",
+            "width": 560
+        },
         "sample_screenshots": [],
         "title": "Pool"
     },
@@ -1406,17 +1412,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Needle vs. Wedge standoff",
-                "height": 800,
-                "image_url": "https://cdn.mobygames.com/screenshots/18131488-spacewar-mainframe-needle-vs-wedge-standoff.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/61fa53ee-b6e7-11ee-85da-02420a000195.webp",
-                "width": 976
-            },
-            {
                 "caption": "Got 'em!",
                 "height": 800,
                 "image_url": "https://cdn.mobygames.com/screenshots/18131492-spacewar-mainframe-got-em.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/77696d32-b6e7-11ee-9b26-02420a000192.webp",
+                "width": 976
+            },
+            {
+                "caption": "Needle vs. Wedge standoff",
+                "height": 800,
+                "image_url": "https://cdn.mobygames.com/screenshots/18131488-spacewar-mainframe-needle-vs-wedge-standoff.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/61fa53ee-b6e7-11ee-85da-02420a000195.webp",
                 "width": 976
             }
         ],
@@ -1918,7 +1924,7 @@
         "id": 89857,
         "moby_score": null,
         "moby_url": "https://www.mobygames.com/game/89857/carmonette-iv/",
-        "num_votes": 0,
+        "num_votes": 1,
         "official_url": null,
         "platforms": [
             [
@@ -2699,8 +2705,24 @@
                 "1965-01-13"
             ]
         ],
-        "sample_cover": null,
-        "sample_screenshots": [],
+        "sample_cover": {
+            "height": 380,
+            "image_url": "https://cdn.mobygames.com/screenshots/18012040-the-pdp-10-timesharing-world-series-mainframe-screenshot-of-the-.jpg",
+            "platforms": [
+                "Mainframe"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/6f252284-9fee-11ee-89eb-02420a0001ca.webp",
+            "width": 674
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Screenshot of the game (Running on BASICA for DOS) ",
+                "height": 380,
+                "image_url": "https://cdn.mobygames.com/screenshots/18012040-the-pdp-10-timesharing-world-series-mainframe-screenshot-of-the-.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6f252284-9fee-11ee-89eb-02420a0001ca.webp",
+                "width": 674
+            }
+        ],
         "title": "The PDP-10 Timesharing World Series"
     },
     {
@@ -3548,11 +3570,11 @@
             ]
         ],
         "sample_cover": {
-            "height": 415,
-            "image_url": "https://cdn.mobygames.com/promos/3477612-mac-hack-vi-screenshot-ap-wirephoto.jpg",
+            "height": 191,
+            "image_url": "https://cdn.mobygames.com/promos/3477813-mac-hack-vi-screenshot-mac-hack-gui-dec-340-display.jpg",
             "platforms": [],
-            "thumbnail_image_url": "https://cdn.mobygames.com/db186fd0-ab90-11ed-91fb-02420a00019f.webp",
-            "width": 568
+            "thumbnail_image_url": "https://cdn.mobygames.com/dcfa9062-ab90-11ed-91fb-02420a00019f.webp",
+            "width": 178
         },
         "sample_screenshots": [],
         "title": "Mac Hack VI"
@@ -3677,7 +3699,7 @@
     },
     {
         "alternate_titles": [],
-        "description": "<p><em>101 BASIC Computer Games</em> is a compilation of BASIC games and applications released by DEC. It was later <a href=\"https://www.mobygames.com/game/63702/basic-computer-games/\">re-released</a> independently in a slightly different format. A portion of the games were ported from DEC's FOCAL language to BASIC.</p>\n<p>It includes the following games:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/search/?q=Acey+Ducey\">Acey Ducey</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Animal\">Animal</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Awari\">Awari</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Bagels\">Bagles</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Baseball\">Baseball</a></li>\n<li><a href=\"https://www.mobygames.com/game/90782/pdp-10-timesharing-basketball/\">Basketball</a></li>\n<li><a href=\"https://www.mobygames.com/game/99266/batnum/\">Battle of Numbers</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Battle\">Naval Ship Battle</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Bingo\">Bingo</a></li>\n<li><a href=\"https://www.mobygames.com/game/105601/blkjac/\">Blackjack</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Blkjak\">Blackjack (alternate version)</a></li>\n<li><a href=\"https://www.mobygames.com/game/105608/boat/\">Boat</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Bomber\">Bomber</a></li>\n<li><a href=\"https://www.mobygames.com/game/105776/the-alley/\">The Alley</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Olympic+Boxing\">Olympic Boxing</a></li>\n<li><a href=\"https://www.mobygames.com/game/105778/bug/\">Bug</a></li>\n<li><a href=\"https://www.mobygames.com/game/195511/bulls-and-cows/\">Bulls and Cows</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Bullseye\">Bullseye</a></li>\n<li><a href=\"https://www.mobygames.com/game/105922/bull/\">Bull</a></li>\n<li><a href=\"https://www.mobygames.com/game/105924/can-am/\">Can-Am</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Checkers\">Checkers</a></li>\n<li><a href=\"https://www.mobygames.com/game/106062/chief/\">Chief</a></li>\n<li><a href=\"https://www.mobygames.com/game/100786/the-game-of-chomp/\">Chomp</a></li>\n<li><a href=\"https://www.mobygames.com/game/8703/civil-war/\">Civil War</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Craps\">Craps</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Cube\">Cube</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Digits\">Digits</a></li>\n<li><a href=\"https://www.mobygames.com/game/106064/dog-race-game/\">Dog Race Game</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Get+Event\">Get Even</a> and <a href=\"https://www.mobygames.com/search/?q=Get+Event:+Cybernetic+Version\">a cybernetic version</a></li>\n<li><a href=\"https://www.mobygames.com/game/106077/flip-flop-game/\">Flip-Flop Game</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Football\">Football</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=N+F+U+Football\">N. F. U. Football</a></li>\n<li><a href=\"https://www.mobygames.com/game/62740/french-fur-trader/\">Furs</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Golf\">Golf</a></li>\n<li><a href=\"https://www.mobygames.com/game/106157/gomoko/\">Gomoko</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Guess\">Guess</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Gunner\">Gunner</a></li>\n<li><a href=\"https://www.mobygames.com/game/106219/artillery-firing-range/\">Artillery Firing Range</a></li>\n<li><a href=\"https://www.mobygames.com/game/106234/game-of-hangman/\">Game of Hangman</a></li>\n<li><a href=\"https://www.mobygames.com/game/106269/hello/\">Hello</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Hexapawn\">Hexapawn</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Hi-Lo\">Hi-Lo</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Hi-Q\">Hi-Q</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Hamurabi\">Hamurabi</a></li>\n<li><a href=\"https://www.mobygames.com/game/106316/cornell-u-hockey/\">Cornell U. Hockey</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Horse+Race\">Horse Race</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Hurkle\">Hurkle</a></li>\n<li><a href=\"https://www.mobygames.com/game/106321/pollution-game/\">Pollution Game</a></li>\n<li><a href=\"https://www.mobygames.com/game/99710/letter-a-letter-guessing-game/\">Letter: A Letter Guessing Game</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Life\">Life</a></li>\n<li><a href=\"https://www.mobygames.com/game/51478/life-ii/\">Life II</a></li>\n<li><a href=\"https://www.mobygames.com/game/106353/lit-qz/\">Lit Qz</a></li>\n<li><a href=\"https://www.mobygames.com/game/103517/mathdice/\">Mathdice</a></li>\n<li><a href=\"https://www.mobygames.com/game/106354/matildas-monopoly-for-two/\">Matilda's Monopoly for Two</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Mugwump\">Mugwump</a></li>\n<li><a href=\"https://www.mobygames.com/game/106362/boomerang-puzzle/\">Boomerang Puzzle</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Nim\">Nim</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Number+Game\">Number Game</a></li>\n<li><a href=\"https://www.mobygames.com/game/106392/solitaire-checker-puzzle/\">Solitaire Checker Puzzle</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Orbit\">Orbit</a></li>\n<li><a href=\"https://www.mobygames.com/game/50990/pizza/\">Pizza</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Poker\">Poker</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Qubic\">Qubic</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Queen\">Queen</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Reverse\">Reverse</a></li>\n<li><a href=\"https://www.mobygames.com/game/89874/lunar/\">Lunar</a>, <a href=\"https://www.mobygames.com/search/?q=Rocket\">Rocket</a>, and <a href=\"https://www.mobygames.com/search/?q=LEM\">LEM</a></li>\n<li><a href=\"https://www.mobygames.com/game/106399/rocks-paper-and-scissors/\">Rocks, Paper, and Scissors</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Roulette\">Roulette</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Russian+Roulette\">Russian Roulette</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Salvo\">Salvo</a></li>\n<li><a href=\"https://www.mobygames.com/game/106456/salvo1/\">Salvo1</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Slots\">Slots</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Spacewar\">Spacewar (Star Trek)</a></li>\n<li><a href=\"https://www.mobygames.com/game/106463/splat/\">Splat</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Stars\">Stars</a></li>\n<li><a href=\"https://www.mobygames.com/game/106464/stock-stock-market-simulation/\">Stock: Stock Market Simulation</a></li>\n<li><a href=\"https://www.mobygames.com/game/106465/synonym/\">Synonym</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Target\">Target</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Tic-Tac-Toe\">Tic-Tac-Toe</a></li>\n<li><a href=\"https://www.mobygames.com/game/106519/towers-of-hanoi-puzzle/\">Towers of Hanoi Puzzle</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Trap\">Trap</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Game+of+23+Matches\">Game of 23 Matches</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=War\">War (card game)</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=War\">War</a></li>\n<li><a href=\"https://www.mobygames.com/game/106522/word/\">Word</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Yahtzee\">Yahtzee</a></li>\n</ul>",
+        "description": "<p><em>101 BASIC Computer Games</em> is a compilation of BASIC games and applications released by DEC. It was later <a href=\"https://www.mobygames.com/game/63702/basic-computer-games/\">re-released</a> independently in a slightly different format. A portion of the games were ported from DEC's FOCAL language to BASIC.</p>\n<p>It includes the following games:</p>\n<ul>\n<li><a href=\"https://www.mobygames.com/search/?q=Acey+Ducey\">Acey Ducey</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Animal\">Animal</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Awari\">Awari</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Bagels\">Bagles</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Baseball\">Baseball</a></li>\n<li><a href=\"https://www.mobygames.com/game/90782/pdp-10-timesharing-basketball/\">Basketball</a></li>\n<li><a href=\"https://www.mobygames.com/game/99266/batnum/\">Battle of Numbers</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Battle\">Naval Ship Battle</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Bingo\">Bingo</a></li>\n<li><a href=\"https://www.mobygames.com/game/105601/blkjac/\">Blackjack</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Blkjak\">Blackjack (alternate version)</a></li>\n<li><a href=\"https://www.mobygames.com/game/105608/boat/\">Boat</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Bomber\">Bomber</a></li>\n<li><a href=\"https://www.mobygames.com/game/105776/the-alley/\">The Alley</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Olympic+Boxing\">Olympic Boxing</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Bug\">Bug</a></li>\n<li><a href=\"https://www.mobygames.com/game/195511/bulls-and-cows/\">Bulls and Cows</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Bullseye\">Bullseye</a></li>\n<li><a href=\"https://www.mobygames.com/game/105922/bull/\">Bull</a></li>\n<li><a href=\"https://www.mobygames.com/game/105924/can-am/\">Can-Am</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Checkers\">Checkers</a></li>\n<li><a href=\"https://www.mobygames.com/game/106062/chief/\">Chief</a></li>\n<li><a href=\"https://www.mobygames.com/game/100786/the-game-of-chomp/\">Chomp</a></li>\n<li><a href=\"https://www.mobygames.com/game/8703/civil-war/\">Civil War</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Craps\">Craps</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Cube\">Cube</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Digits\">Digits</a></li>\n<li><a href=\"https://www.mobygames.com/game/106064/dog-race-game/\">Dog Race Game</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Get+Event\">Get Even</a> and <a href=\"https://www.mobygames.com/search/?q=Get+Event:+Cybernetic+Version\">a cybernetic version</a></li>\n<li><a href=\"https://www.mobygames.com/game/106077/flip-flop-game/\">Flip-Flop Game</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Football\">Football</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=N+F+U+Football\">N. F. U. Football</a></li>\n<li><a href=\"https://www.mobygames.com/game/62740/french-fur-trader/\">Furs</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Golf\">Golf</a></li>\n<li><a href=\"https://www.mobygames.com/game/106157/gomoko/\">Gomoko</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Guess\">Guess</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Gunner\">Gunner</a></li>\n<li><a href=\"https://www.mobygames.com/game/106219/artillery-firing-range/\">Artillery Firing Range</a></li>\n<li><a href=\"https://www.mobygames.com/game/106234/game-of-hangman/\">Game of Hangman</a></li>\n<li><a href=\"https://www.mobygames.com/game/106269/hello/\">Hello</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Hexapawn\">Hexapawn</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Hi-Lo\">Hi-Lo</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Hi-Q\">Hi-Q</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Hamurabi\">Hamurabi</a></li>\n<li><a href=\"https://www.mobygames.com/game/106316/cornell-u-hockey/\">Cornell U. Hockey</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Horse+Race\">Horse Race</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Hurkle\">Hurkle</a></li>\n<li><a href=\"https://www.mobygames.com/game/106321/pollution-game/\">Pollution Game</a></li>\n<li><a href=\"https://www.mobygames.com/game/99710/letter-a-letter-guessing-game/\">Letter: A Letter Guessing Game</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Life\">Life</a></li>\n<li><a href=\"https://www.mobygames.com/game/51478/life-ii/\">Life II</a></li>\n<li><a href=\"https://www.mobygames.com/game/106353/lit-qz/\">Lit Qz</a></li>\n<li><a href=\"https://www.mobygames.com/game/103517/mathdice/\">Mathdice</a></li>\n<li><a href=\"https://www.mobygames.com/game/106354/matildas-monopoly-for-two/\">Matilda's Monopoly for Two</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Mugwump\">Mugwump</a></li>\n<li><a href=\"https://www.mobygames.com/game/106362/boomerang-puzzle/\">Boomerang Puzzle</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Nim\">Nim</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Number+Game\">Number Game</a></li>\n<li><a href=\"https://www.mobygames.com/game/106392/solitaire-checker-puzzle/\">Solitaire Checker Puzzle</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Orbit\">Orbit</a></li>\n<li><a href=\"https://www.mobygames.com/game/50990/pizza/\">Pizza</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Poker\">Poker</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Qubic\">Qubic</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Queen\">Queen</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Reverse\">Reverse</a></li>\n<li><a href=\"https://www.mobygames.com/game/89874/lunar/\">Lunar</a>, <a href=\"https://www.mobygames.com/search/?q=Rocket\">Rocket</a>, and <a href=\"https://www.mobygames.com/search/?q=LEM\">LEM</a></li>\n<li><a href=\"https://www.mobygames.com/game/106399/rocks-paper-and-scissors/\">Rocks, Paper, and Scissors</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Roulette\">Roulette</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Russian+Roulette\">Russian Roulette</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Salvo\">Salvo</a></li>\n<li><a href=\"https://www.mobygames.com/game/106456/salvo1/\">Salvo1</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Slots\">Slots</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Spacewar\">Spacewar (Star Trek)</a></li>\n<li><a href=\"https://www.mobygames.com/game/106463/splat/\">Splat</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Stars\">Stars</a></li>\n<li><a href=\"https://www.mobygames.com/game/106464/stock-stock-market-simulation/\">Stock: Stock Market Simulation</a></li>\n<li><a href=\"https://www.mobygames.com/game/106465/synonym/\">Synonym</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Target\">Target</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Tic-Tac-Toe\">Tic-Tac-Toe</a></li>\n<li><a href=\"https://www.mobygames.com/game/106519/towers-of-hanoi-puzzle/\">Towers of Hanoi Puzzle</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Trap\">Trap</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Game+of+23+Matches\">Game of 23 Matches</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=War\">War (card game)</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=War\">War</a></li>\n<li><a href=\"https://www.mobygames.com/game/106522/word/\">Word</a></li>\n<li><a href=\"https://www.mobygames.com/search/?q=Yahtzee\">Yahtzee</a></li>\n</ul>",
         "genres": [
             {
                 "category": {
@@ -3995,7 +4017,7 @@
         "id": 92969,
         "moby_score": null,
         "moby_url": "https://www.mobygames.com/game/92969/the-technology-chess-program/",
-        "num_votes": 0,
+        "num_votes": 1,
         "official_url": null,
         "platforms": [
             [
@@ -4081,7 +4103,7 @@
         "id": 92970,
         "moby_score": null,
         "moby_url": "https://www.mobygames.com/game/92970/kaissa/",
-        "num_votes": 0,
+        "num_votes": 1,
         "official_url": null,
         "platforms": [
             [
@@ -4398,6 +4420,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "The earlier 2.11 BSD version of arithmetic running on SIMH. Answering a few basic questions correctly.",
+                "height": 316,
+                "image_url": "https://cdn.mobygames.com/screenshots/16221921-arithmetic-mainframe-the-earlier-211-bsd-version-of-arithmetic-r.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/63c21efc-c1d6-11ed-ab6b-02420a000194.webp",
+                "width": 484
+            },
+            {
                 "caption": "The summary page is displayed after 20 responses. Unlike the later version, this version pauses for a few seconds before prompting to continue.",
                 "height": 316,
                 "image_url": "https://cdn.mobygames.com/screenshots/16221924-arithmetic-mainframe-the-summary-page-is-displayed-after-20-resp.png",
@@ -4409,13 +4438,6 @@
                 "height": 316,
                 "image_url": "https://cdn.mobygames.com/screenshots/16221927-arithmetic-mainframe-running-with-multiplication-and-division-en.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/63f43da6-c1d6-11ed-ab6b-02420a000194.webp",
-                "width": 484
-            },
-            {
-                "caption": "The earlier 2.11 BSD version of arithmetic running on SIMH. Answering a few basic questions correctly.",
-                "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/16221921-arithmetic-mainframe-the-earlier-211-bsd-version-of-arithmetic-r.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/63c21efc-c1d6-11ed-ab6b-02420a000194.webp",
                 "width": 484
             }
         ],
@@ -4505,10 +4527,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Starting the tutorial (aka teachgammon)",
+                "caption": "Instructions",
                 "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/16228965-backgammon-mainframe-starting-the-tutorial-aka-teachgammon.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/61d5df50-c1d8-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16229148-backgammon-mainframe-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/712eb940-c1d8-11ed-ab6b-02420a000194.webp",
                 "width": 484
             },
             {
@@ -4519,10 +4541,10 @@
                 "width": 484
             },
             {
-                "caption": "Instructions",
+                "caption": "Starting the tutorial (aka teachgammon)",
                 "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/16229148-backgammon-mainframe-instructions.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/712eb940-c1d8-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16228965-backgammon-mainframe-starting-the-tutorial-aka-teachgammon.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/61d5df50-c1d8-11ed-ab6b-02420a000194.webp",
                 "width": 484
             }
         ],
@@ -4621,10 +4643,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Dead bodies in the dining hall. Cylons, huh? You don't say.",
+                "caption": "Starting the game",
                 "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/16227858-battlestar-mainframe-dead-bodies-in-the-dining-hall-cylons-huh-y.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1e19d1ea-c1d8-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16227846-battlestar-mainframe-starting-the-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1cf1063a-c1d8-11ed-ab6b-02420a000194.webp",
                 "width": 484
             },
             {
@@ -4635,17 +4657,10 @@
                 "width": 484
             },
             {
-                "caption": "A rather bumpy landing on the planet's surface. Some mistakes will penalize you with injuries, which then reduce your carry capacity",
+                "caption": "Dead bodies in the dining hall. Cylons, huh? You don't say.",
                 "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/16227722-battlestar-mainframe-a-rather-bumpy-landing-on-the-planets-surfa.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/15ed3598-c1d8-11ed-ab6b-02420a000194.webp",
-                "width": 484
-            },
-            {
-                "caption": "Starting the game",
-                "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/16227846-battlestar-mainframe-starting-the-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1cf1063a-c1d8-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16227858-battlestar-mainframe-dead-bodies-in-the-dining-hall-cylons-huh-y.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1e19d1ea-c1d8-11ed-ab6b-02420a000194.webp",
                 "width": 484
             },
             {
@@ -4653,6 +4668,13 @@
                 "height": 316,
                 "image_url": "https://cdn.mobygames.com/screenshots/16227734-battlestar-mainframe-taking-the-viper-out-to-escape-our-doomed-b.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/17236b76-c1d8-11ed-ab6b-02420a000194.webp",
+                "width": 484
+            },
+            {
+                "caption": "A rather bumpy landing on the planet's surface. Some mistakes will penalize you with injuries, which then reduce your carry capacity",
+                "height": 316,
+                "image_url": "https://cdn.mobygames.com/screenshots/16227722-battlestar-mainframe-a-rather-bumpy-landing-on-the-planets-surfa.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/15ed3598-c1d8-11ed-ab6b-02420a000194.webp",
                 "width": 484
             }
         ],
@@ -4833,20 +4855,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "I hit to get to 19, but the dealer ends up at 20 and I lose. My next deal is a pair of tens, and I'm given the option to split.",
-                "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/16222620-bj-mainframe-i-hit-to-get-to-19-but-the-dealer-ends-up-at-20-and.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9775fa7a-c1d6-11ed-ab6b-02420a000194.webp",
-                "width": 484
-            },
-            {
-                "caption": "I choose not to split and win with the 20 points. The next game starts me with a 5 and 8.",
-                "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/16222560-bj-mainframe-i-choose-not-to-split-and-win-with-the-20-points-th.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9425bf36-c1d6-11ed-ab6b-02420a000194.webp",
-                "width": 484
-            },
-            {
                 "caption": "Starting a game with the 4 of spades and 8 of diamonds",
                 "height": 316,
                 "image_url": "https://cdn.mobygames.com/screenshots/16222551-bj-mainframe-starting-a-game-with-the-4-of-spades-and-8-of-diamo.png",
@@ -4858,6 +4866,20 @@
                 "height": 316,
                 "image_url": "https://cdn.mobygames.com/screenshots/16222557-bj-mainframe-i-take-a-rather-risky-double-hit-and-end-up-with-21.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/940c26a2-c1d6-11ed-ab6b-02420a000194.webp",
+                "width": 484
+            },
+            {
+                "caption": "I choose not to split and win with the 20 points. The next game starts me with a 5 and 8.",
+                "height": 316,
+                "image_url": "https://cdn.mobygames.com/screenshots/16222560-bj-mainframe-i-choose-not-to-split-and-win-with-the-20-points-th.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9425bf36-c1d6-11ed-ab6b-02420a000194.webp",
+                "width": 484
+            },
+            {
+                "caption": "I hit to get to 19, but the dealer ends up at 20 and I lose. My next deal is a pair of tens, and I'm given the option to split.",
+                "height": 316,
+                "image_url": "https://cdn.mobygames.com/screenshots/16222620-bj-mainframe-i-hit-to-get-to-19-but-the-dealer-ends-up-at-20-and.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9775fa7a-c1d6-11ed-ab6b-02420a000194.webp",
                 "width": 484
             }
         ],
@@ -4956,6 +4978,27 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Starting the game and displaying the help text, which does not completely fit on the screen.",
+                "height": 316,
+                "image_url": "https://cdn.mobygames.com/screenshots/16222959-boggle-mainframe-starting-the-game-and-displaying-the-help-text-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/af14490c-c1d6-11ed-ab6b-02420a000194.webp",
+                "width": 484
+            },
+            {
+                "caption": "The first game board. Entering a couple word choices",
+                "height": 316,
+                "image_url": "https://cdn.mobygames.com/screenshots/16223412-boggle-mainframe-the-first-game-board-entering-a-couple-word-cho.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c69e6c7e-c1d6-11ed-ab6b-02420a000194.webp",
+                "width": 484
+            },
+            {
+                "caption": "At the end of the game. Note that I accidentally typed 'h' as the answer to the another game prompt, as I was still typing when the game ended.",
+                "height": 316,
+                "image_url": "https://cdn.mobygames.com/screenshots/16223771-boggle-mainframe-at-the-end-of-the-game-note-that-i-accidentally.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/df7f541a-c1d6-11ed-ab6b-02420a000194.webp",
+                "width": 484
+            },
+            {
                 "caption": "Starting a fresh game. I don't know what I was thinking with 'neer'.",
                 "height": 316,
                 "image_url": "https://cdn.mobygames.com/screenshots/16223406-boggle-mainframe-starting-a-fresh-game-i-dont-know-what-i-was-th.png",
@@ -4967,27 +5010,6 @@
                 "height": 316,
                 "image_url": "https://cdn.mobygames.com/screenshots/16249362-boggle-mainframe-ending-the-second-game-early-with-ctrl-c-the-co.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/63588b9c-c1de-11ed-ab6b-02420a000194.webp",
-                "width": 484
-            },
-            {
-                "caption": "The first game board. Entering a couple word choices",
-                "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/16223412-boggle-mainframe-the-first-game-board-entering-a-couple-word-cho.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c69e6c7e-c1d6-11ed-ab6b-02420a000194.webp",
-                "width": 484
-            },
-            {
-                "caption": "Starting the game and displaying the help text, which does not completely fit on the screen.",
-                "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/16222959-boggle-mainframe-starting-the-game-and-displaying-the-help-text-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/af14490c-c1d6-11ed-ab6b-02420a000194.webp",
-                "width": 484
-            },
-            {
-                "caption": "At the end of the game. Note that I accidentally typed 'h' as the answer to the another game prompt, as I was still typing when the game ended.",
-                "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/16223771-boggle-mainframe-at-the-end-of-the-game-note-that-i-accidentally.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/df7f541a-c1d6-11ed-ab6b-02420a000194.webp",
                 "width": 484
             }
         ],
@@ -5098,13 +5120,6 @@
                 "width": 484
             },
             {
-                "caption": "A couple rolls later in the game",
-                "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/16223765-btlgammon-mainframe-a-couple-rolls-later-in-the-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/de90c78c-c1d6-11ed-ab6b-02420a000194.webp",
-                "width": 484
-            },
-            {
                 "caption": "I moved two pieces each from positions 19 and 1. Next role is a 6 and 1",
                 "height": 316,
                 "image_url": "https://cdn.mobygames.com/screenshots/16223681-btlgammon-mainframe-i-moved-two-pieces-each-from-positions-19-an.png",
@@ -5116,6 +5131,13 @@
                 "height": 316,
                 "image_url": "https://cdn.mobygames.com/screenshots/16223747-btlgammon-mainframe-instructions.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/dcc9a70c-c1d6-11ed-ab6b-02420a000194.webp",
+                "width": 484
+            },
+            {
+                "caption": "A couple rolls later in the game",
+                "height": 316,
+                "image_url": "https://cdn.mobygames.com/screenshots/16223765-btlgammon-mainframe-a-couple-rolls-later-in-the-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/de90c78c-c1d6-11ed-ab6b-02420a000194.webp",
                 "width": 484
             }
         ],
@@ -5205,10 +5227,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Instructions screen",
+                "caption": "Adding a couple cards to the foundation and tableau",
                 "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/16224050-canfield-mainframe-instructions-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/efbd6d80-c1d6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16224170-canfield-mainframe-adding-a-couple-cards-to-the-foundation-and-t.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fc1d3a6a-c1d6-11ed-ab6b-02420a000194.webp",
                 "width": 484
             },
             {
@@ -5219,10 +5241,10 @@
                 "width": 484
             },
             {
-                "caption": "Adding a couple cards to the foundation and tableau",
+                "caption": "Instructions screen",
                 "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/16224170-canfield-mainframe-adding-a-couple-cards-to-the-foundation-and-t.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/fc1d3a6a-c1d6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16224050-canfield-mainframe-instructions-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/efbd6d80-c1d6-11ed-ab6b-02420a000194.webp",
                 "width": 484
             },
             {
@@ -5319,10 +5341,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Playing the first hand. The current total has reached 24 points, but I am unable to get to 31 points from here.",
+                "caption": "Reaching 30 points; I am unable to place more cards, so the computer is told to 'GO'",
                 "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/16226972-cribbage-mainframe-playing-the-first-hand-the-current-total-has-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/dbcd42b8-c1d7-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16227173-cribbage-mainframe-reaching-30-points-i-am-unable-to-place-more-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/eaf5d110-c1d7-11ed-ab6b-02420a000194.webp",
                 "width": 484
             },
             {
@@ -5333,17 +5355,17 @@
                 "width": 484
             },
             {
-                "caption": "Reaching 30 points; I am unable to place more cards, so the computer is told to 'GO'",
-                "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/16227173-cribbage-mainframe-reaching-30-points-i-am-unable-to-place-more-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/eaf5d110-c1d7-11ed-ab6b-02420a000194.webp",
-                "width": 484
-            },
-            {
                 "caption": "Selecting the discard points for the second hand. The computer has a 3 point lead on me.",
                 "height": 316,
                 "image_url": "https://cdn.mobygames.com/screenshots/16226897-cribbage-mainframe-selecting-the-discard-points-for-the-second-h.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/d5bd4ecc-c1d7-11ed-ab6b-02420a000194.webp",
+                "width": 484
+            },
+            {
+                "caption": "Playing the first hand. The current total has reached 24 points, but I am unable to get to 31 points from here.",
+                "height": 316,
+                "image_url": "https://cdn.mobygames.com/screenshots/16226972-cribbage-mainframe-playing-the-first-hand-the-current-total-has-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dbcd42b8-c1d7-11ed-ab6b-02420a000194.webp",
                 "width": 484
             }
         ],
@@ -5622,20 +5644,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "And I guessed it!",
-                "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/16229628-hangman-mainframe-and-i-guessed-it.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/93f2d466-c1d8-11ed-ab6b-02420a000194.webp",
-                "width": 484
-            },
-            {
-                "caption": "Starting a game with an empty gallows",
-                "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/16229673-hangman-mainframe-starting-a-game-with-an-empty-gallows.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/95960784-c1d8-11ed-ab6b-02420a000194.webp",
-                "width": 484
-            },
-            {
                 "caption": "Guessing a few letters. Two body parts are added to the hanged man for my failures",
                 "height": 316,
                 "image_url": "https://cdn.mobygames.com/screenshots/16230008-hangman-mainframe-guessing-a-few-letters-two-body-parts-are-adde.png",
@@ -5643,10 +5651,24 @@
                 "width": 484
             },
             {
+                "caption": "And I guessed it!",
+                "height": 316,
+                "image_url": "https://cdn.mobygames.com/screenshots/16229628-hangman-mainframe-and-i-guessed-it.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/93f2d466-c1d8-11ed-ab6b-02420a000194.webp",
+                "width": 484
+            },
+            {
                 "caption": "Making some more progress",
                 "height": 316,
                 "image_url": "https://cdn.mobygames.com/screenshots/16233408-hangman-mainframe-making-some-more-progress.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/bf962bd0-c1d9-11ed-ab6b-02420a000194.webp",
+                "width": 484
+            },
+            {
+                "caption": "Starting a game with an empty gallows",
+                "height": 316,
+                "image_url": "https://cdn.mobygames.com/screenshots/16229673-hangman-mainframe-starting-a-game-with-an-empty-gallows.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/95960784-c1d8-11ed-ab6b-02420a000194.webp",
                 "width": 484
             }
         ],
@@ -5827,6 +5849,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Both of us have started the race and traveled 100 miles. The CPU has inflicted a speed limit on me, blocking the 75 and 100 mile cards.",
+                "height": 316,
+                "image_url": "https://cdn.mobygames.com/screenshots/16239916-mille-mainframe-both-of-us-have-started-the-race-and-traveled-10.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/10b98640-c1dc-11ed-ab6b-02420a000194.webp",
+                "width": 484
+            },
+            {
                 "caption": "I managed to end the speed limit, only to run out of gas.",
                 "height": 316,
                 "image_url": "https://cdn.mobygames.com/screenshots/16240249-mille-mainframe-i-managed-to-end-the-speed-limit-only-to-run-out.png",
@@ -5838,13 +5867,6 @@
                 "height": 316,
                 "image_url": "https://cdn.mobygames.com/screenshots/16239913-mille-mainframe-high-value-distances-are-starting-to-stack-up-in.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/10a19ea4-c1dc-11ed-ab6b-02420a000194.webp",
-                "width": 484
-            },
-            {
-                "caption": "Both of us have started the race and traveled 100 miles. The CPU has inflicted a speed limit on me, blocking the 75 and 100 mile cards.",
-                "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/16239916-mille-mainframe-both-of-us-have-started-the-race-and-traveled-10.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/10b98640-c1dc-11ed-ab6b-02420a000194.webp",
                 "width": 484
             },
             {
@@ -5979,7 +6001,7 @@
         "id": 98887,
         "moby_score": null,
         "moby_url": "https://www.mobygames.com/game/98887/moo/",
-        "num_votes": 0,
+        "num_votes": 1,
         "official_url": null,
         "platforms": [
             [
@@ -6001,13 +6023,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Making more deductions. I have now confirmed that 1, 3, 7, and 9 are the selected numbers, but not in that order. However, I already have enough clues to guess the order next.",
-                "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/16247116-moo-mainframe-making-more-deductions-i-have-now-confirmed-that-1.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e0d04c82-c1dd-11ed-ab6b-02420a000194.webp",
-                "width": 484
-            },
-            {
                 "caption": "Starting a game with the obvious starting sequences. Backspace doesn't work, so I needed to re-do my second guess.",
                 "height": 316,
                 "image_url": "https://cdn.mobygames.com/screenshots/16247316-moo-mainframe-starting-a-game-with-the-obvious-starting-sequence.png",
@@ -6015,17 +6030,24 @@
                 "width": 484
             },
             {
-                "caption": "And complete!",
-                "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/16247146-moo-mainframe-and-complete.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e2c408f8-c1dd-11ed-ab6b-02420a000194.webp",
-                "width": 484
-            },
-            {
                 "caption": "Continuing to guess. I have isolated that neither 5 nor 6 is used, so I can use that pair to isolate other pairs.",
                 "height": 316,
                 "image_url": "https://cdn.mobygames.com/screenshots/16247313-moo-mainframe-continuing-to-guess-i-have-isolated-that-neither-5.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/ed764040-c1dd-11ed-ab6b-02420a000194.webp",
+                "width": 484
+            },
+            {
+                "caption": "Making more deductions. I have now confirmed that 1, 3, 7, and 9 are the selected numbers, but not in that order. However, I already have enough clues to guess the order next.",
+                "height": 316,
+                "image_url": "https://cdn.mobygames.com/screenshots/16247116-moo-mainframe-making-more-deductions-i-have-now-confirmed-that-1.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e0d04c82-c1dd-11ed-ab6b-02420a000194.webp",
+                "width": 484
+            },
+            {
+                "caption": "And complete!",
+                "height": 316,
+                "image_url": "https://cdn.mobygames.com/screenshots/16247146-moo-mainframe-and-complete.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e2c408f8-c1dd-11ed-ab6b-02420a000194.webp",
                 "width": 484
             }
         ],
@@ -6133,10 +6155,24 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Starting out in Gondor",
+                "height": 316,
+                "image_url": "https://cdn.mobygames.com/screenshots/16252478-phantasia-mainframe-starting-out-in-gondor.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3cde2048-c1df-11ed-ab6b-02420a000194.webp",
+                "width": 484
+            },
+            {
                 "caption": "Generating a character",
                 "height": 316,
                 "image_url": "https://cdn.mobygames.com/screenshots/16252487-phantasia-mainframe-generating-a-character.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/3e2f8dc4-c1df-11ed-ab6b-02420a000194.webp",
+                "width": 484
+            },
+            {
+                "caption": "The other player sent us a message",
+                "height": 316,
+                "image_url": "https://cdn.mobygames.com/screenshots/16252976-phantasia-mainframe-the-other-player-sent-us-a-message.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6f520d50-c1df-11ed-ab6b-02420a000194.webp",
                 "width": 484
             },
             {
@@ -6147,24 +6183,10 @@
                 "width": 484
             },
             {
-                "caption": "Starting the game",
+                "caption": "Replying with a boast and checking our stats.",
                 "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/16252979-phantasia-mainframe-starting-the-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7033e1ee-c1df-11ed-ab6b-02420a000194.webp",
-                "width": 484
-            },
-            {
-                "caption": "Starting out in Gondor",
-                "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/16252478-phantasia-mainframe-starting-out-in-gondor.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3cde2048-c1df-11ed-ab6b-02420a000194.webp",
-                "width": 484
-            },
-            {
-                "caption": "Checking the player list",
-                "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/16252652-phantasia-mainframe-checking-the-player-list.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/497c6666-c1df-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16252874-phantasia-mainframe-replying-with-a-boast-and-checking-our-stats.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6a0bcfe8-c1df-11ed-ab6b-02420a000194.webp",
                 "width": 484
             }
         ],
@@ -6290,24 +6312,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Summary of results on the second element quiz",
+                "caption": "If you enter a blank answer, quiz will report the correct one. My Chemistry is rather rusty.",
                 "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/16257418-quiz-mainframe-summary-of-results-on-the-second-element-quiz.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/eb661f02-c1e0-11ed-ab6b-02420a000194.webp",
-                "width": 484
-            },
-            {
-                "caption": "Starting a new quiz: I must name the element for a given symbol",
-                "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/16257349-quiz-mainframe-starting-a-new-quiz-i-must-name-the-element-for-a.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e536c5f0-c1e0-11ed-ab6b-02420a000194.webp",
-                "width": 484
-            },
-            {
-                "caption": "Running the reverse quiz; I must provide the symbol for a given element name.",
-                "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/16257343-quiz-mainframe-running-the-reverse-quiz-i-must-provide-the-symbo.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e50abc8a-c1e0-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16257346-quiz-mainframe-if-you-enter-a-blank-answer-quiz-will-report-the-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e5219680-c1e0-11ed-ab6b-02420a000194.webp",
                 "width": 484
             },
             {
@@ -6318,10 +6326,24 @@
                 "width": 484
             },
             {
-                "caption": "If you enter a blank answer, quiz will report the correct one. My Chemistry is rather rusty.",
+                "caption": "Starting a new quiz with the rather easy positive/negative topic.",
                 "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/16257346-quiz-mainframe-if-you-enter-a-blank-answer-quiz-will-report-the-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e5219680-c1e0-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16257415-quiz-mainframe-starting-a-new-quiz-with-the-rather-easy-positive.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/eb482880-c1e0-11ed-ab6b-02420a000194.webp",
+                "width": 484
+            },
+            {
+                "caption": "Starting a new quiz: I must name the element for a given symbol",
+                "height": 316,
+                "image_url": "https://cdn.mobygames.com/screenshots/16257349-quiz-mainframe-starting-a-new-quiz-i-must-name-the-element-for-a.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e536c5f0-c1e0-11ed-ab6b-02420a000194.webp",
+                "width": 484
+            },
+            {
+                "caption": "Summary of results on the second element quiz",
+                "height": 316,
+                "image_url": "https://cdn.mobygames.com/screenshots/16257418-quiz-mainframe-summary-of-results-on-the-second-element-quiz.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/eb661f02-c1e0-11ed-ab6b-02420a000194.webp",
                 "width": 484
             }
         ],
@@ -6465,10 +6487,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Starting up the 'Star Trek' scenario. Who knew the Enterprise had 450 guns and used round shot?",
+                "caption": "Selecting a scenario",
                 "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/16258893-sail-mainframe-starting-up-the-star-trek-scenario-who-knew-the-e.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6e20e972-c1e1-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16258761-sail-mainframe-selecting-a-scenario.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/600dc6c0-c1e1-11ed-ab6b-02420a000194.webp",
+                "width": 484
+            },
+            {
+                "caption": "Launching a broadside at my enemy",
+                "height": 316,
+                "image_url": "https://cdn.mobygames.com/screenshots/16258947-sail-mainframe-launching-a-broadside-at-my-enemy.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/72afddf4-c1e1-11ed-ab6b-02420a000194.webp",
                 "width": 484
             },
             {
@@ -6476,13 +6505,6 @@
                 "height": 316,
                 "image_url": "https://cdn.mobygames.com/screenshots/16258671-sail-mainframe-starting-the-game-my-ship-a-is-facing-to-the-nort.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/54995084-c1e1-11ed-ab6b-02420a000194.webp",
-                "width": 484
-            },
-            {
-                "caption": "Selecting a scenario",
-                "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/16258761-sail-mainframe-selecting-a-scenario.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/600dc6c0-c1e1-11ed-ab6b-02420a000194.webp",
                 "width": 484
             },
             {
@@ -6604,17 +6626,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Starting the game",
+                "caption": "Cornered again. I've caused a couple robots to crash now",
                 "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/16261175-robots-mainframe-starting-the-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0e627aae-c1e2-11ed-ab6b-02420a000194.webp",
-                "width": 484
-            },
-            {
-                "caption": "Cornered by the robots. Time to teleport!",
-                "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/16260705-robots-mainframe-cornered-by-the-robots-time-to-teleport.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/eac380de-c1e1-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16259949-robots-mainframe-cornered-again-ive-caused-a-couple-robots-to-cr.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c031729a-c1e1-11ed-ab6b-02420a000194.webp",
                 "width": 484
             },
             {
@@ -6625,17 +6640,24 @@
                 "width": 484
             },
             {
-                "caption": "Cornered again. I've caused a couple robots to crash now",
-                "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/16259949-robots-mainframe-cornered-again-ive-caused-a-couple-robots-to-cr.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c031729a-c1e1-11ed-ab6b-02420a000194.webp",
-                "width": 484
-            },
-            {
                 "caption": "Starting on the second stage",
                 "height": 316,
                 "image_url": "https://cdn.mobygames.com/screenshots/16260699-robots-mainframe-starting-on-the-second-stage.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/ea91080c-c1e1-11ed-ab6b-02420a000194.webp",
+                "width": 484
+            },
+            {
+                "caption": "Cornered by the robots. Time to teleport!",
+                "height": 316,
+                "image_url": "https://cdn.mobygames.com/screenshots/16260705-robots-mainframe-cornered-by-the-robots-time-to-teleport.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/eac380de-c1e1-11ed-ab6b-02420a000194.webp",
+                "width": 484
+            },
+            {
+                "caption": "Starting the game",
+                "height": 316,
+                "image_url": "https://cdn.mobygames.com/screenshots/16261175-robots-mainframe-starting-the-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0e627aae-c1e2-11ed-ab6b-02420a000194.webp",
                 "width": 484
             }
         ],
@@ -6725,17 +6747,17 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Starting the game. Note that on some terminals, the I for the player appears misaligned from the terminal cursor.",
+                "height": 316,
+                "image_url": "https://cdn.mobygames.com/screenshots/16261172-snake-mainframe-starting-the-game-note-that-on-some-terminals-th.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0e46e2da-c1e2-11ed-ab6b-02420a000194.webp",
+                "width": 484
+            },
+            {
                 "caption": "I've collecting $50 and the snake is getting a bit close",
                 "height": 316,
                 "image_url": "https://cdn.mobygames.com/screenshots/16260696-snake-mainframe-ive-collecting-50-and-the-snake-is-getting-a-bit.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/ea78d23c-c1e1-11ed-ab6b-02420a000194.webp",
-                "width": 484
-            },
-            {
-                "caption": "Taking my winnings and leaving with a score of $50.",
-                "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/16259919-snake-mainframe-taking-my-winnings-and-leaving-with-a-score-of-5.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bf3785f0-c1e1-11ed-ab6b-02420a000194.webp",
                 "width": 484
             },
             {
@@ -6746,10 +6768,10 @@
                 "width": 484
             },
             {
-                "caption": "Starting the game. Note that on some terminals, the I for the player appears misaligned from the terminal cursor.",
+                "caption": "Taking my winnings and leaving with a score of $50.",
                 "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/16261172-snake-mainframe-starting-the-game-note-that-on-some-terminals-th.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0e46e2da-c1e2-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16259919-snake-mainframe-taking-my-winnings-and-leaving-with-a-score-of-5.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bf3785f0-c1e1-11ed-ab6b-02420a000194.webp",
                 "width": 484
             }
         ],
@@ -6799,7 +6821,7 @@
         "id": 99268,
         "moby_score": null,
         "moby_url": "https://www.mobygames.com/game/99268/nim/",
-        "num_votes": 0,
+        "num_votes": 1,
         "official_url": null,
         "platforms": [
             [
@@ -6953,10 +6975,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Making some compromises",
+                "caption": "Building taller. I'm not getting very many L, J or line pieces",
                 "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/7356899-tromp-mainframe-making-some-compromises.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b212a528-abf5-11ed-8d66-02420a000132.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/7357059-tromp-mainframe-building-taller-im-not-getting-very-many-l-j-or-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b2c37ee8-abf5-11ed-aca6-02420a000132.webp",
                 "width": 484
             },
             {
@@ -6967,10 +6989,10 @@
                 "width": 484
             },
             {
-                "caption": "Building taller. I'm not getting very many L, J or line pieces",
+                "caption": "A few pieces later",
                 "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/7357059-tromp-mainframe-building-taller-im-not-getting-very-many-l-j-or-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b2c37ee8-abf5-11ed-aca6-02420a000132.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/7358718-tromp-mainframe-a-few-pieces-later.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b241c006-abf5-11ed-bdca-02420a000133.webp",
                 "width": 484
             },
             {
@@ -6981,10 +7003,10 @@
                 "width": 484
             },
             {
-                "caption": "A few pieces later",
+                "caption": "Making some compromises",
                 "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/7358718-tromp-mainframe-a-few-pieces-later.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b241c006-abf5-11ed-bdca-02420a000133.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/7356899-tromp-mainframe-making-some-compromises.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b212a528-abf5-11ed-8d66-02420a000132.webp",
                 "width": 484
             }
         ],
@@ -7110,17 +7132,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Starting a game. There is one Klingon (K) on the map, with both the Enterprise (E) and Starbase (B) available for player control",
-                "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/16272113-warp-mainframe-starting-a-game-there-is-one-klingon-k-on-the-map.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d9387f3c-c1e5-11ed-ab6b-02420a000194.webp",
-                "width": 484
-            },
-            {
                 "caption": "The Enterprise is somewhat fruitlessly chasing the Klingon ship. I fired one torpedo, which got left behind fairly quickly.",
                 "height": 316,
                 "image_url": "https://cdn.mobygames.com/screenshots/16272005-warp-mainframe-the-enterprise-is-somewhat-fruitlessly-chasing-th.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/d09d0fc8-c1e5-11ed-ab6b-02420a000194.webp",
+                "width": 484
+            },
+            {
+                "caption": "Starting a game. There is one Klingon (K) on the map, with both the Enterprise (E) and Starbase (B) available for player control",
+                "height": 316,
+                "image_url": "https://cdn.mobygames.com/screenshots/16272113-warp-mainframe-starting-a-game-there-is-one-klingon-k-on-the-map.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d9387f3c-c1e5-11ed-ab6b-02420a000194.webp",
                 "width": 484
             },
             {
@@ -7664,6 +7686,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Living a bit dangerously",
+                "height": 316,
+                "image_url": "https://cdn.mobygames.com/screenshots/16278110-worm-mainframe-living-a-bit-dangerously.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bda40a28-c1e7-11ed-ab6b-02420a000194.webp",
+                "width": 484
+            },
+            {
                 "caption": "The worm has grown a bit. Heading towards #8 now",
                 "height": 316,
                 "image_url": "https://cdn.mobygames.com/screenshots/16278113-worm-mainframe-the-worm-has-grown-a-bit-heading-towards-8-now.png",
@@ -7682,13 +7711,6 @@
                 "height": 316,
                 "image_url": "https://cdn.mobygames.com/screenshots/16278116-worm-mainframe-starting-out-and-heading-towards-the-number-4.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/bdd01d34-c1e7-11ed-ab6b-02420a000194.webp",
-                "width": 484
-            },
-            {
-                "caption": "Living a bit dangerously",
-                "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/16278110-worm-mainframe-living-a-bit-dangerously.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bda40a28-c1e7-11ed-ab6b-02420a000194.webp",
                 "width": 484
             }
         ],
@@ -7769,6 +7791,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Winning easily",
+                "height": 316,
+                "image_url": "https://cdn.mobygames.com/screenshots/16279892-ttt-mainframe-winning-easily.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/41a26126-c1e8-11ed-ab6b-02420a000194.webp",
+                "width": 484
+            },
+            {
                 "caption": "The computer has learned enough to cause a draw",
                 "height": 316,
                 "image_url": "https://cdn.mobygames.com/screenshots/16279766-ttt-mainframe-the-computer-has-learned-enough-to-cause-a-draw.png",
@@ -7780,13 +7809,6 @@
                 "height": 316,
                 "image_url": "https://cdn.mobygames.com/screenshots/16279289-ttt-mainframe-starting-a-game.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/1994c66a-c1e8-11ed-ab6b-02420a000194.webp",
-                "width": 484
-            },
-            {
-                "caption": "Winning easily",
-                "height": 316,
-                "image_url": "https://cdn.mobygames.com/screenshots/16279892-ttt-mainframe-winning-easily.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/41a26126-c1e8-11ed-ab6b-02420a000194.webp",
                 "width": 484
             }
         ],
@@ -8545,7 +8567,7 @@
         "id": 102555,
         "moby_score": null,
         "moby_url": "https://www.mobygames.com/game/102555/nuclear-destruction/",
-        "num_votes": 0,
+        "num_votes": 1,
         "official_url": null,
         "platforms": [
             [
@@ -10878,7 +10900,7 @@
     },
     {
         "alternate_titles": [],
-        "description": "<p><em>Bull</em> is a text-based bull fighting game. Each turn the bull's action is described and the player has the option between five different moves, three waves of the cape of various difficulties and two methods of going for the kill. The player will be rated on his bravery, posthumously if necessary.</p>",
+        "description": "<p><em>Bull</em> is a text-based bull fighting game. Each turn the bull's action is described and the player has the option between five different moves, three waves of the cape of various difficulties and two methods of going for the kill. The bravery of the player will then be rated, posthumously if necessary.</p>",
         "genres": [
             {
                 "category": {
@@ -11540,7 +11562,7 @@
     },
     {
         "alternate_titles": [],
-        "description": "<p><em>Artillery Firing Range</em> is a text-based artillery game. The player can decide on a target speed and blast radius. The target will move randomly. The player must give an elevation angle for his gun to try and destroy it.</p>",
+        "description": "<p><em>Artillery Firing Range</em> is a text-based artillery game. The player can decide on a target speed and blast radius. The player must give an elevation angle for the gun to try and destroy the random moving target.</p>",
         "genres": [
             {
                 "category": {
@@ -12406,7 +12428,7 @@
     },
     {
         "alternate_titles": [],
-        "description": "<p><em>Splat</em> is a parachute jumping game. The player will fall to the ground and must open the parachute at the last possible moment. The player can choose his own terminal velocity and gravity, or can let the computer decide. In the latter case the computer will pick one of the eight inner planets, the moon or the sun's characteristics. The computer will give a height and the player must respond how many seconds to wait until opening the parachute.</p>",
+        "description": "<p><em>Splat</em> is a parachute jumping game. The player will fall to the ground and must open the parachute at the last possible moment. The player can choose the terminal velocity and gravity, or can let the computer decide. In the latter case the computer will pick one of the eight inner planets, the moon or the sun's characteristics. The computer will give a height and the player must respond with how many seconds to wait until opening the parachute.</p>",
         "genres": [
             {
                 "category": {
@@ -18801,7 +18823,7 @@
         "id": 128934,
         "moby_score": null,
         "moby_url": "https://www.mobygames.com/game/128934/daly-cp/",
-        "num_votes": 0,
+        "num_votes": 1,
         "official_url": null,
         "platforms": [
             [
@@ -22763,7 +22785,7 @@
         "id": 134337,
         "moby_score": null,
         "moby_url": "https://www.mobygames.com/game/134337/metro-apex/",
-        "num_votes": 0,
+        "num_votes": 1,
         "official_url": null,
         "platforms": [
             [
@@ -23593,18 +23615,18 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Close up of game map - credit: Don Worth",
-                "height": 800,
-                "image_url": "https://cdn.mobygames.com/screenshots/7433712-fron-v40-mainframe-close-up-of-game-map-credit-don-worth.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4a5ee1e8-abf6-11ed-962d-02420a000135.webp",
-                "width": 1067
-            },
-            {
                 "caption": "Full gameplay map - credit: Don Worth",
                 "height": 800,
                 "image_url": "https://cdn.mobygames.com/screenshots/12404761-fron-v40-mainframe-full-gameplay-map-credit-don-worth.jpg",
                 "thumbnail_image_url": "https://cdn.mobygames.com/dff86254-ac20-11ed-a484-02420a000130.webp",
                 "width": 600
+            },
+            {
+                "caption": "Close up of game map - credit: Don Worth",
+                "height": 800,
+                "image_url": "https://cdn.mobygames.com/screenshots/7433712-fron-v40-mainframe-close-up-of-game-map-credit-don-worth.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4a5ee1e8-abf6-11ed-962d-02420a000135.webp",
+                "width": 1067
             }
         ],
         "title": "FRON v4.0"
@@ -30937,20 +30959,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title screen.",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/17494890-solitaire-mainframe-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8edcec6a-37ac-11ee-9bef-02420a000131.webp",
-                "width": 512
-            },
-            {
-                "caption": "Starting a new game.",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/17494996-solitaire-mainframe-starting-a-new-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8b35d764-37ae-11ee-8dbb-02420a000131.webp",
-                "width": 512
-            },
-            {
                 "caption": "Finishing a hand.",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/17495008-solitaire-mainframe-finishing-a-hand.png",
@@ -30962,6 +30970,20 @@
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/17495002-solitaire-mainframe-playing-a-hand.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/91e1ce9c-37ae-11ee-9854-02420a000132.webp",
+                "width": 512
+            },
+            {
+                "caption": "Title screen.",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/17494890-solitaire-mainframe-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8edcec6a-37ac-11ee-9bef-02420a000131.webp",
+                "width": 512
+            },
+            {
+                "caption": "Starting a new game.",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/17494996-solitaire-mainframe-starting-a-new-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8b35d764-37ae-11ee-8dbb-02420a000131.webp",
                 "width": 512
             }
         ],
@@ -31623,5 +31645,73 @@
         "sample_cover": null,
         "sample_screenshots": [],
         "title": "Clash"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Pontoon</em> is a card game that's very similar to Blackjack. This British variant still requires the player to accumulate cards to get as close to a value of 21 without going over. The player can buy multiple cards at the risk of of busting. The player can also twist a card which is dealt face-up, but afterwards no further cards can be bought. If the player starts with a hand of 13 points, they can burn it to receive a new hand. The player plays against the bank.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 231479,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/231479/pontoon/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 208,
+                    "name": "Mainframe"
+                },
+                "1980-01"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Pontoon"
     }
 ]

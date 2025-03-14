@@ -83,6 +83,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Instructions",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/15912930-galaxians-exidy-sorcerer-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1f809604-bf0d-11ed-9c42-02420a000140.webp",
+                "width": 512
+            },
+            {
                 "caption": "Single enemy left",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/15913392-galaxians-exidy-sorcerer-single-enemy-left.png",
@@ -94,13 +101,6 @@
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/15913419-galaxians-exidy-sorcerer-player-getting-hit.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/40124ca0-bf0d-11ed-9c42-02420a000140.webp",
-                "width": 512
-            },
-            {
-                "caption": "Instructions",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/15912930-galaxians-exidy-sorcerer-instructions.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1f809604-bf0d-11ed-9c42-02420a000140.webp",
                 "width": 512
             },
             {
@@ -238,6 +238,20 @@
                 "width": 512
             },
             {
+                "caption": "Shooting a missile",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/15913242-arrows-and-alleys-exidy-sorcerer-shooting-a-missile.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/34484500-bf0d-11ed-9c42-02420a000140.webp",
+                "width": 512
+            },
+            {
+                "caption": "A single arrow left",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/15913221-arrows-and-alleys-exidy-sorcerer-a-single-arrow-left.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/33008856-bf0d-11ed-9c42-02420a000140.webp",
+                "width": 512
+            },
+            {
                 "caption": "A rocket appears",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/15913131-arrows-and-alleys-exidy-sorcerer-a-rocket-appears.png",
@@ -245,24 +259,10 @@
                 "width": 512
             },
             {
-                "caption": "Title screen",
+                "caption": "Clearing a level and getting a bonus car",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/15913332-arrows-and-alleys-exidy-sorcerer-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3aa58d90-bf0d-11ed-9c42-02420a000140.webp",
-                "width": 512
-            },
-            {
-                "caption": "Pre-race screen",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/15913164-arrows-and-alleys-exidy-sorcerer-pre-race-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2faaa6be-bf0d-11ed-9c42-02420a000140.webp",
-                "width": 512
-            },
-            {
-                "caption": "Instructions and options",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/15913302-arrows-and-alleys-exidy-sorcerer-instructions-and-options.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/37f4e8ca-bf0d-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15913188-arrows-and-alleys-exidy-sorcerer-clearing-a-level-and-getting-a-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3071db4e-bf0d-11ed-9c42-02420a000140.webp",
                 "width": 512
             }
         ],
@@ -361,10 +361,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title screen",
+                "caption": "Alien getting blasted",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/15913515-martian-invaders-exidy-sorcerer-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4580eeb2-bf0d-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15913464-martian-invaders-exidy-sorcerer-alien-getting-blasted.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/428e3b74-bf0d-11ed-9c42-02420a000140.webp",
+                "width": 512
+            },
+            {
+                "caption": "Player getting killed",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/15913740-martian-invaders-exidy-sorcerer-player-getting-killed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5a01d518-bf0d-11ed-9c42-02420a000140.webp",
                 "width": 512
             },
             {
@@ -375,24 +382,17 @@
                 "width": 512
             },
             {
-                "caption": "Alien getting blasted",
+                "caption": "UFO appears",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/15913464-martian-invaders-exidy-sorcerer-alien-getting-blasted.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/428e3b74-bf0d-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15913755-martian-invaders-exidy-sorcerer-ufo-appears.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5c18fbf6-bf0d-11ed-9c42-02420a000140.webp",
                 "width": 512
             },
             {
-                "caption": "Starting out",
+                "caption": "Title screen",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/15924260-martian-invaders-exidy-sorcerer-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/592c599e-bf10-11ed-9c42-02420a000140.webp",
-                "width": 512
-            },
-            {
-                "caption": "Aliens dropping bombs",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/15913485-martian-invaders-exidy-sorcerer-aliens-dropping-bombs.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/437c1934-bf0d-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15913515-martian-invaders-exidy-sorcerer-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4580eeb2-bf0d-11ed-9c42-02420a000140.webp",
                 "width": 512
             }
         ],
@@ -455,10 +455,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Eating the berries",
+                "caption": "About to begin",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/15933129-chomp-exidy-sorcerer-eating-the-berries.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e73ca854-bf12-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15933441-chomp-exidy-sorcerer-about-to-begin.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fd4f3c92-bf12-11ed-9c42-02420a000140.webp",
                 "width": 512
             },
             {
@@ -469,24 +469,24 @@
                 "width": 512
             },
             {
-                "caption": "Chomp getting killed",
+                "caption": "Starting out",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/15933537-chomp-exidy-sorcerer-chomp-getting-killed.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/06246446-bf13-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15933411-chomp-exidy-sorcerer-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fbd9c846-bf12-11ed-9c42-02420a000140.webp",
                 "width": 512
             },
             {
-                "caption": "Catching a ghost",
+                "caption": "Eating the berries",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/15933084-chomp-exidy-sorcerer-catching-a-ghost.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e385d3d4-bf12-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15933129-chomp-exidy-sorcerer-eating-the-berries.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e73ca854-bf12-11ed-9c42-02420a000140.webp",
                 "width": 512
             },
             {
-                "caption": "Level cleared",
+                "caption": "Eating a power pill",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/15933045-chomp-exidy-sorcerer-level-cleared.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e19ef8d4-bf12-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15933387-chomp-exidy-sorcerer-eating-a-power-pill.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fadd9c92-bf12-11ed-9c42-02420a000140.webp",
                 "width": 512
             }
         ],
@@ -576,6 +576,27 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Blasting an enemy",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16110153-astro-attacker-exidy-sorcerer-blasting-an-enemy.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5b908c54-bf75-11ed-9521-02420a000152.webp",
+                "width": 512
+            },
+            {
+                "caption": "Running out of fuel",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16110144-astro-attacker-exidy-sorcerer-running-out-of-fuel.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5b31e2c6-bf75-11ed-9521-02420a000152.webp",
+                "width": 512
+            },
+            {
+                "caption": "Game over",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16110156-astro-attacker-exidy-sorcerer-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5bb15be6-bf75-11ed-9521-02420a000152.webp",
+                "width": 512
+            },
+            {
                 "caption": "The game starts with a docking",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/16119327-astro-attacker-exidy-sorcerer-the-game-starts-with-a-docking.png",
@@ -583,31 +604,10 @@
                 "width": 512
             },
             {
-                "caption": "Then we move on to level 1",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16119324-astro-attacker-exidy-sorcerer-then-we-move-on-to-level-1.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e54b076a-bf77-11ed-9521-02420a000152.webp",
-                "width": 512
-            },
-            {
-                "caption": "Third wave",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16110753-astro-attacker-exidy-sorcerer-third-wave.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/87291bf6-bf75-11ed-9521-02420a000152.webp",
-                "width": 512
-            },
-            {
                 "caption": "Fourth wave",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/16110150-astro-attacker-exidy-sorcerer-fourth-wave.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/5b6dfc2a-bf75-11ed-9521-02420a000152.webp",
-                "width": 512
-            },
-            {
-                "caption": "Second wave",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16110756-astro-attacker-exidy-sorcerer-second-wave.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/87446488-bf75-11ed-9521-02420a000152.webp",
                 "width": 512
             }
         ],
@@ -670,20 +670,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Toughest level with lots of aircraft",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16464339-nike-ii-exidy-sorcerer-toughest-level-with-lots-of-aircraft.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7d24691c-c222-11ed-ab6b-02420a000194.webp",
-                "width": 512
-            },
-            {
-                "caption": "Title screen",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16464354-nike-ii-exidy-sorcerer-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7da613c2-c222-11ed-ab6b-02420a000194.webp",
-                "width": 512
-            },
-            {
                 "caption": "Starting out",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/16464351-nike-ii-exidy-sorcerer-starting-out.png",
@@ -698,10 +684,24 @@
                 "width": 512
             },
             {
-                "caption": "Shooting missiles",
+                "caption": "Bombs falling over the cities",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16464348-nike-ii-exidy-sorcerer-shooting-missiles.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7d73043c-c222-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16464342-nike-ii-exidy-sorcerer-bombs-falling-over-the-cities.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7d4260f2-c222-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Toughest level with lots of aircraft",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16464339-nike-ii-exidy-sorcerer-toughest-level-with-lots-of-aircraft.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7d24691c-c222-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Title screen",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16464354-nike-ii-exidy-sorcerer-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7da613c2-c222-11ed-ab6b-02420a000194.webp",
                 "width": 512
             }
         ],
@@ -773,17 +773,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Pits are shown ahead of a game and mode is chosen",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16198190-magic-maze-exidy-sorcerer-pits-are-shown-ahead-of-a-game-and-mod.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1d426baa-c1cf-11ed-ab6b-02420a000194.webp",
-                "width": 512
-            },
-            {
                 "caption": "In the M mode walls are only visible when bumped into",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/16197827-magic-maze-exidy-sorcerer-in-the-m-mode-walls-are-only-visible-w.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/f44263f4-c1ce-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Maze being created",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16199126-magic-maze-exidy-sorcerer-maze-being-created.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/86a652a0-c1cf-11ed-ab6b-02420a000194.webp",
                 "width": 512
             },
             {
@@ -801,10 +801,10 @@
                 "width": 512
             },
             {
-                "caption": "Maze being created",
+                "caption": "Pits are shown ahead of a game and mode is chosen",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16199126-magic-maze-exidy-sorcerer-maze-being-created.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/86a652a0-c1cf-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16198190-magic-maze-exidy-sorcerer-pits-are-shown-ahead-of-a-game-and-mod.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1d426baa-c1cf-11ed-ab6b-02420a000194.webp",
                 "width": 512
             }
         ],
@@ -885,24 +885,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Crashing",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16198511-head-on-collision-exidy-sorcerer-crashing.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3c74c9dc-c1cf-11ed-ab6b-02420a000194.webp",
-                "width": 512
-            },
-            {
-                "caption": "Game over",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16198499-head-on-collision-exidy-sorcerer-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3b431bf4-c1cf-11ed-ab6b-02420a000194.webp",
-                "width": 512
-            },
-            {
                 "caption": "Starting out",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/16198514-head-on-collision-exidy-sorcerer-starting-out.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/3c95d6f4-c1cf-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Crashing",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16198511-head-on-collision-exidy-sorcerer-crashing.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3c74c9dc-c1cf-11ed-ab6b-02420a000194.webp",
                 "width": 512
             },
             {
@@ -917,6 +910,13 @@
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/16199123-head-on-collision-exidy-sorcerer-title-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/868bb18e-c1cf-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Game over",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16198499-head-on-collision-exidy-sorcerer-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3b431bf4-c1cf-11ed-ab6b-02420a000194.webp",
                 "width": 512
             }
         ],
@@ -1006,6 +1006,20 @@
         },
         "sample_screenshots": [
             {
+                "caption": "First moves being made",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16205412-military-encounter-exidy-sorcerer-first-moves-being-made.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b26559b6-c1d1-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "The enemy forfeits",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16204745-military-encounter-exidy-sorcerer-the-enemy-forfeits.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/73c33e08-c1d1-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
                 "caption": "Board setup in progress",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/16214004-military-encounter-exidy-sorcerer-board-setup-in-progress.png",
@@ -1013,17 +1027,10 @@
                 "width": 512
             },
             {
-                "caption": "Losing a low rank unit in combat",
+                "caption": "Mode selection",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16205409-military-encounter-exidy-sorcerer-losing-a-low-rank-unit-in-comb.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b2434be6-c1d1-11ed-ab6b-02420a000194.webp",
-                "width": 512
-            },
-            {
-                "caption": "Title screen",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16204061-military-encounter-exidy-sorcerer-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1cf1d558-c1d1-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16214370-military-encounter-exidy-sorcerer-mode-selection.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/364d2e14-c1d4-11ed-ab6b-02420a000194.webp",
                 "width": 512
             },
             {
@@ -1031,13 +1038,6 @@
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/16204406-military-encounter-exidy-sorcerer-ais-turn-to-setup.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/403d36d8-c1d1-11ed-ab6b-02420a000194.webp",
-                "width": 512
-            },
-            {
-                "caption": "First moves being made",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16205412-military-encounter-exidy-sorcerer-first-moves-being-made.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b26559b6-c1d1-11ed-ab6b-02420a000194.webp",
                 "width": 512
             }
         ],
@@ -1127,31 +1127,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Rockets taking off",
+                "caption": "Blasting an enemy",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16221684-interceptor-exidy-sorcerer-rockets-taking-off.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5325e704-c1d6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16221681-interceptor-exidy-sorcerer-blasting-an-enemy.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/530b5038-c1d6-11ed-ab6b-02420a000194.webp",
                 "width": 512
             },
             {
-                "caption": "Getting killed",
+                "caption": "Another horizontally flying enemy",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16221894-interceptor-exidy-sorcerer-getting-killed.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5f6fea50-c1d6-11ed-ab6b-02420a000194.webp",
-                "width": 512
-            },
-            {
-                "caption": "Title screen",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16221408-interceptor-exidy-sorcerer-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3de59844-c1d6-11ed-ab6b-02420a000194.webp",
-                "width": 512
-            },
-            {
-                "caption": "Dropping bombs at ground targets",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16232760-interceptor-exidy-sorcerer-dropping-bombs-at-ground-targets.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8dfda27e-c1d9-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16222101-interceptor-exidy-sorcerer-another-horizontally-flying-enemy.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6df5b91a-c1d6-11ed-ab6b-02420a000194.webp",
                 "width": 512
             },
             {
@@ -1159,6 +1145,20 @@
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/16221930-interceptor-exidy-sorcerer-shooting-at-one-of-the-faster-enemy-t.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/640d9b8e-c1d6-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Starting out",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16221687-interceptor-exidy-sorcerer-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/533f078e-c1d6-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Another enemy attacks from the top",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16222098-interceptor-exidy-sorcerer-another-enemy-attacks-from-the-top.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6ddb17f4-c1d6-11ed-ab6b-02420a000194.webp",
                 "width": 512
             }
         ],
@@ -1248,10 +1248,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Instructions",
+                "caption": "Running out of money",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16232757-blackjack-exidy-sorcerer-instructions.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8de04c38-c1d9-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16222956-blackjack-exidy-sorcerer-running-out-of-money.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ae358122-c1d6-11ed-ab6b-02420a000194.webp",
                 "width": 512
             },
             {
@@ -1269,17 +1269,17 @@
                 "width": 512
             },
             {
-                "caption": "Running out of money",
+                "caption": "Instructions",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16222956-blackjack-exidy-sorcerer-running-out-of-money.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ae358122-c1d6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16232757-blackjack-exidy-sorcerer-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8de04c38-c1d9-11ed-ab6b-02420a000194.webp",
                 "width": 512
             },
             {
-                "caption": "Losing the insurance bet",
+                "caption": "Entering the amount of money",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16222962-blackjack-exidy-sorcerer-losing-the-insurance-bet.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/af33c7a0-c1d6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16222593-blackjack-exidy-sorcerer-entering-the-amount-of-money.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/95ac4e6a-c1d6-11ed-ab6b-02420a000194.webp",
                 "width": 512
             }
         ],
@@ -1351,13 +1351,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Instructions",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16225091-yahtzee-exidy-sorcerer-instructions.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/36299776-c1d7-11ed-ab6b-02420a000194.webp",
-                "width": 512
-            },
-            {
                 "caption": "Getting a score",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/16225181-yahtzee-exidy-sorcerer-getting-a-score.png",
@@ -1365,17 +1358,10 @@
                 "width": 512
             },
             {
-                "caption": "Starting out by rerolling the dice",
+                "caption": "Quitting the game",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16225187-yahtzee-exidy-sorcerer-starting-out-by-rerolling-the-dice.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4228f904-c1d7-11ed-ab6b-02420a000194.webp",
-                "width": 512
-            },
-            {
-                "caption": "Title screen",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16225094-yahtzee-exidy-sorcerer-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/364a1d70-c1d7-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16225178-yahtzee-exidy-sorcerer-quitting-the-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/41d0be60-c1d7-11ed-ab6b-02420a000194.webp",
                 "width": 512
             },
             {
@@ -1383,6 +1369,20 @@
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/16225184-yahtzee-exidy-sorcerer-categories-are-removed-after-every-use.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/4208c8dc-c1d7-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Instructions",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16225091-yahtzee-exidy-sorcerer-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/36299776-c1d7-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Starting out by rerolling the dice",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16225187-yahtzee-exidy-sorcerer-starting-out-by-rerolling-the-dice.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4228f904-c1d7-11ed-ab6b-02420a000194.webp",
                 "width": 512
             }
         ],

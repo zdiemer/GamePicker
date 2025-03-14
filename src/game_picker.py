@@ -111,7 +111,12 @@ class GamesPicker:
             else ""
         )
 
+        g_count = 0
+
         for group_name, group in groups.items():
+            if selector.group_count is not None and g_count > selector.group_count - 1:
+                break
+            g_count += 1
             level = 0
             group_name = selector.grouping.get_group_name((group_name, group))
 

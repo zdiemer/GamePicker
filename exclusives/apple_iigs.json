@@ -56,20 +56,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Introduction movie",
-                "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16854723-task-force-apple-iigs-introduction-movie.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/01b06bd8-c3a7-11ed-9226-02420a000121.webp",
-                "width": 672
-            },
-            {
-                "caption": "Fighting mafia",
-                "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16854717-task-force-apple-iigs-fighting-mafia.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/016c5754-c3a7-11ed-9226-02420a000121.webp",
-                "width": 672
-            },
-            {
                 "caption": "Introduction",
                 "height": 432,
                 "image_url": "https://cdn.mobygames.com/screenshots/16855995-task-force-apple-iigs-introduction.png",
@@ -77,17 +63,31 @@
                 "width": 672
             },
             {
-                "caption": "Choosing a mission",
+                "caption": "Mission failed",
                 "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16854726-task-force-apple-iigs-choosing-a-mission.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/01d41fa6-c3a7-11ed-9226-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16854741-task-force-apple-iigs-mission-failed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/035032de-c3a7-11ed-9226-02420a000121.webp",
                 "width": 672
             },
             {
-                "caption": "Area cleared",
+                "caption": "Introduction movie",
                 "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16854738-task-force-apple-iigs-area-cleared.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0330d4d4-c3a7-11ed-9226-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16854723-task-force-apple-iigs-introduction-movie.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/01b06bd8-c3a7-11ed-9226-02420a000121.webp",
+                "width": 672
+            },
+            {
+                "caption": "Shooting gang members",
+                "height": 432,
+                "image_url": "https://cdn.mobygames.com/screenshots/16856160-task-force-apple-iigs-shooting-gang-members.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b5e08eda-c3a7-11ed-9226-02420a000121.webp",
+                "width": 672
+            },
+            {
+                "caption": "Game setup",
+                "height": 432,
+                "image_url": "https://cdn.mobygames.com/screenshots/16854720-task-force-apple-iigs-game-setup.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0190406a-c3a7-11ed-9226-02420a000121.webp",
                 "width": 672
             }
         ],
@@ -177,11 +177,11 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Loading screen",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/16850844-sea-strike-apple-iigs-loading-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e648a286-c3a4-11ed-9226-02420a000121.webp",
-                "width": 320
+                "caption": "Title Screen",
+                "height": 432,
+                "image_url": "https://cdn.mobygames.com/screenshots/16851354-sea-strike-apple-iigs-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/295e651a-c3a5-11ed-9226-02420a000121.webp",
+                "width": 672
             },
             {
                 "caption": "Game start. Alert! Alert! Alert!",
@@ -191,11 +191,11 @@
                 "width": 320
             },
             {
-                "caption": "Title Screen",
-                "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16851354-sea-strike-apple-iigs-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/295e651a-c3a5-11ed-9226-02420a000121.webp",
-                "width": 672
+                "caption": "About / Credits",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/16850847-sea-strike-apple-iigs-about-credits.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e6712954-c3a4-11ed-9226-02420a000121.webp",
+                "width": 320
             },
             {
                 "caption": "Game over",
@@ -205,10 +205,10 @@
                 "width": 320
             },
             {
-                "caption": "About / Credits",
+                "caption": "Save your convoy",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/16850847-sea-strike-apple-iigs-about-credits.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e6712954-c3a4-11ed-9226-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16222788-sea-strike-apple-iigs-save-your-convoy.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a2a1ae9e-c1d6-11ed-ab6b-02420a000194.webp",
                 "width": 320
             }
         ],
@@ -249,7 +249,7 @@
         "id": 32994,
         "moby_score": null,
         "moby_url": "https://www.mobygames.com/game/32994/alien-mind/",
-        "num_votes": 0,
+        "num_votes": 1,
         "official_url": null,
         "platforms": [
             [
@@ -271,17 +271,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Credits continued",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/16224992-alien-mind-apple-iigs-credits-continued.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/311c9576-c1d7-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
                 "caption": "Death awaits me",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/16225361-alien-mind-apple-iigs-death-awaits-me.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/538e06b2-c1d7-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Roaming around on a vehicle of some kind",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/16225760-alien-mind-apple-iigs-roaming-around-on-a-vehicle-of-some-kind.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/749ee826-c1d7-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Credits continued",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/16224992-alien-mind-apple-iigs-credits-continued.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/311c9576-c1d7-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
@@ -292,17 +299,10 @@
                 "width": 320
             },
             {
-                "caption": "Game start",
+                "caption": "Credits",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/16224995-alien-mind-apple-iigs-game-start.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/31352280-c1d7-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
-                "caption": "High scores",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/16225496-alien-mind-apple-iigs-high-scores.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5bacab32-c1d7-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16225358-alien-mind-apple-iigs-credits.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/537344b2-c1d7-11ed-ab6b-02420a000194.webp",
                 "width": 320
             }
         ],
@@ -361,38 +361,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "You will curse at this bridge hard, and many times",
+                "caption": "Eww, dung monsters!",
                 "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/8146395-tower-of-myraglen-apple-iigs-you-will-curse-at-this-bridge-hard-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/dcc13068-abfb-11ed-b075-02420a00012f.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/8146365-tower-of-myraglen-apple-iigs-eww-dung-monsters.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d9dedd00-abfb-11ed-b075-02420a00012f.webp",
                 "width": 640
             },
             {
-                "caption": "You gain HP by finding strength potions in chests",
+                "caption": "Be wary of the paths you choose!",
                 "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/8149155-tower-of-myraglen-apple-iigs-you-gain-hp-by-finding-strength-pot.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/dff28f20-abfb-11ed-bbce-02420a000133.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/8149176-tower-of-myraglen-apple-iigs-be-wary-of-the-paths-you-choose.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e3d355c0-abfb-11ed-bbce-02420a000133.webp",
                 "width": 640
             },
             {
-                "caption": "Black to white, white to black... It's so confusing",
+                "caption": "Make sure you bring a present!",
                 "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/8146371-tower-of-myraglen-apple-iigs-black-to-white-white-to-black-its-s.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/da41b8c6-abfb-11ed-b075-02420a00012f.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/8146407-tower-of-myraglen-apple-iigs-make-sure-you-bring-a-present.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ddf8f056-abfb-11ed-b075-02420a00012f.webp",
                 "width": 640
             },
             {
-                "caption": "Charity is an important virtue, Avatar!",
+                "caption": "The game just loves to mock you in any way it can",
                 "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/8146380-tower-of-myraglen-apple-iigs-charity-is-an-important-virtue-avat.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/db42ecc2-abfb-11ed-b075-02420a00012f.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/8146383-tower-of-myraglen-apple-iigs-the-game-just-loves-to-mock-you-in-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dbf6c2b0-abfb-11ed-b075-02420a00012f.webp",
                 "width": 640
             },
             {
-                "caption": "Sometimes, there's no escape from sudden death inside a trap room.",
+                "caption": "Another trap room. Dammit.",
                 "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/8149170-tower-of-myraglen-apple-iigs-sometimes-theres-no-escape-from-sud.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e2c9c59c-abfb-11ed-bbce-02420a000133.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/8146386-tower-of-myraglen-apple-iigs-another-trap-room-dammit.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dc2a28da-abfb-11ed-b075-02420a00012f.webp",
                 "width": 640
             }
         ],
@@ -455,24 +455,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "A health pack appears",
+                "caption": "At the bank",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/16300888-great-western-shootout-apple-iigs-a-health-pack-appears.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/adcea1f0-c1ef-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
-                "caption": "Getting hit",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/16301011-great-western-shootout-apple-iigs-getting-hit.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b68c616a-c1ef-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
-                "caption": "Got a high score",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/16300879-great-western-shootout-apple-iigs-got-a-high-score.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ad7340c6-c1ef-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16300882-great-western-shootout-apple-iigs-at-the-bank.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ad92827e-c1ef-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
@@ -480,6 +466,20 @@
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/16301008-great-western-shootout-apple-iigs-at-the-hotel.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/b674c262-c1ef-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Inside the bank",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/16301017-great-western-shootout-apple-iigs-inside-the-bank.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b6c9f480-c1ef-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Got a high score",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/16300879-great-western-shootout-apple-iigs-got-a-high-score.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ad7340c6-c1ef-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
@@ -558,6 +558,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Killed",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/16413635-laser-force-apple-iigs-killed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e073747c-c213-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
                 "caption": "Level 2",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/16413623-laser-force-apple-iigs-level-2.png",
@@ -576,13 +583,6 @@
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/16413632-laser-force-apple-iigs-picking-chips-while-hunted.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/e057f512-c213-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
-                "caption": "Killed",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/16413635-laser-force-apple-iigs-killed.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e073747c-c213-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
@@ -679,10 +679,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Main menu",
+                "caption": "Level 2",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/16232082-lemmings-apple-iigs-main-menu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5c384910-c1d9-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16232085-lemmings-apple-iigs-level-2.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5c546c3a-c1d9-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
@@ -693,24 +693,24 @@
                 "width": 320
             },
             {
-                "caption": "Level 2",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/16232085-lemmings-apple-iigs-level-2.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5c546c3a-c1d9-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
-                "caption": "Another level",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/16232232-lemmings-apple-iigs-another-level.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/66b7ca00-c1d9-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
                 "caption": "Success in Level 2",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/16232028-lemmings-apple-iigs-success-in-level-2.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/57cb5480-c1d9-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Start of Level 2",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/16232127-lemmings-apple-iigs-start-of-level-2.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5fe9c9f8-c1d9-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Main menu",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/16232082-lemmings-apple-iigs-main-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5c384910-c1d9-11ed-ab6b-02420a000194.webp",
                 "width": 320
             }
         ],
@@ -764,17 +764,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Capitals quiz",
+                "caption": "Whole USA map",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15782113-talking-usa-map-apple-iigs-capitals-quiz.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b7ac6fbc-bee4-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15782185-talking-usa-map-apple-iigs-whole-usa-map.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bb8ca818-bee4-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
-                "caption": "Showing facts",
+                "caption": "Louisiana",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15761319-talking-usa-map-apple-iigs-showing-facts.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/838777e6-bede-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15782137-talking-usa-map-apple-iigs-louisiana.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b8976864-bee4-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -792,10 +792,10 @@
                 "width": 320
             },
             {
-                "caption": "Correct answer",
+                "caption": "Capitals quiz",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15782092-talking-usa-map-apple-iigs-correct-answer.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b6b54d86-bee4-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15782113-talking-usa-map-apple-iigs-capitals-quiz.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b7ac6fbc-bee4-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -890,38 +890,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Florida needs to be flipped to fit",
+                "caption": "Main menu",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15768723-geographic-jigsaw-usa-apple-iigs-florida-needs-to-be-flipped-to-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b9d4fd26-bee0-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15766833-geographic-jigsaw-usa-apple-iigs-main-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2db1fe98-bee0-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
-                "caption": "Statistical map: Acquisitions",
+                "caption": "GeoPuzzle USA: Stat maps",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15768654-geographic-jigsaw-usa-apple-iigs-statistical-map-acquisitions.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b61578a0-bee0-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15788568-geographic-jigsaw-usa-apple-iigs-geopuzzle-usa-stat-maps.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f57a5672-bee6-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
-                "caption": "Click on the right state",
+                "caption": "GeoPuzzle USA: Main menu",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15767340-geographic-jigsaw-usa-apple-iigs-click-on-the-right-state.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5f592976-bee0-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15767808-geographic-jigsaw-usa-apple-iigs-geopuzzle-usa-main-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/81bf4aae-bee0-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
-                "caption": "GeoPuzzle USA: Facts",
+                "caption": "GeoPuzzle USA: Map quiz question",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15768678-geographic-jigsaw-usa-apple-iigs-geopuzzle-usa-facts.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b713dfbc-bee0-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15768780-geographic-jigsaw-usa-apple-iigs-geopuzzle-usa-map-quiz-question.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bf6bb52c-bee0-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
-                "caption": "Once placed some info is shown",
+                "caption": "Statistical map: Population",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15768708-geographic-jigsaw-usa-apple-iigs-once-placed-some-info-is-shown.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b9011c40-bee0-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15768573-geographic-jigsaw-usa-apple-iigs-statistical-map-population.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b13d632e-bee0-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -973,17 +973,10 @@
                 "width": 320
             },
             {
-                "caption": "Main menu",
+                "caption": "About screen",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15896876-monte-carlo-apple-iigs-main-menu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/22c265f4-bf08-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Poker",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15906748-monte-carlo-apple-iigs-poker.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4fd31856-bf0b-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15896849-monte-carlo-apple-iigs-about-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1e8e26ee-bf08-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -994,10 +987,17 @@
                 "width": 320
             },
             {
-                "caption": "About screen",
+                "caption": "Main menu",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15896849-monte-carlo-apple-iigs-about-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1e8e26ee-bf08-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15896876-monte-carlo-apple-iigs-main-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/22c265f4-bf08-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Craps",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/15906763-monte-carlo-apple-iigs-craps.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/50541df2-bf0b-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -1083,6 +1083,20 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Found the club",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/15906943-ancient-glory-apple-iigs-found-the-club.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5e521198-bf0b-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "One of the molionids",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/15905062-ancient-glory-apple-iigs-one-of-the-molionids.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dce5c5dc-bf0a-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
                 "caption": "Starting out in Thebes",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/15905221-ancient-glory-apple-iigs-starting-out-in-thebes.png",
@@ -1090,31 +1104,17 @@
                 "width": 320
             },
             {
-                "caption": "Being given a bow by Athena",
+                "caption": "Wrestling a large lion",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15905035-ancient-glory-apple-iigs-being-given-a-bow-by-athena.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/db09c1f0-bf0a-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15907058-ancient-glory-apple-iigs-wrestling-a-large-lion.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6588c45c-bf0b-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
-                "caption": "Title screen",
+                "caption": "Fighting a bull",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15905158-ancient-glory-apple-iigs-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e41169b0-bf0a-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Travelling on the world map",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15905110-ancient-glory-apple-iigs-travelling-on-the-world-map.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/df805442-bf0a-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Fighting a lion",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15905083-ancient-glory-apple-iigs-fighting-a-lion.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/de3aec96-bf0a-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15905053-ancient-glory-apple-iigs-fighting-a-bull.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dbc1a298-bf0a-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -1168,38 +1168,38 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Theseus and the Minotaur",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/15960088-talking-cloze-technique-greek-mythology-apple-iigs-theseus-and-t.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d35a4cee-bf1a-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "...and a key",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/15960440-talking-cloze-technique-greek-mythology-apple-iigs-and-a-key.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/edee0d02-bf1a-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Perseus and Medusa",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/15960419-talking-cloze-technique-greek-mythology-apple-iigs-perseus-and-m.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ed11c4c8-bf1a-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Persephone and Pluto",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/15959986-talking-cloze-technique-greek-mythology-apple-iigs-persephone-an.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cb4eea1e-bf1a-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
                 "caption": "Choosing the right word",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/15960488-talking-cloze-technique-greek-mythology-apple-iigs-choosing-the-.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/f223108e-bf1a-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Odysseus",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15960013-talking-cloze-technique-greek-mythology-apple-iigs-odysseus.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cd90fdd0-bf1a-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Daedalus and Icarus",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15960034-talking-cloze-technique-greek-mythology-apple-iigs-daedalus-and-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cf02d350-bf1a-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Pandora",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15960067-talking-cloze-technique-greek-mythology-apple-iigs-pandora.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d19ad194-bf1a-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Getting a score...",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15960509-talking-cloze-technique-greek-mythology-apple-iigs-getting-a-sco.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f2dfc81e-bf1a-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -1271,38 +1271,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Colliding with an obstacle",
+                "caption": "Getting ready",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15971960-hover-blade-apple-iigs-colliding-with-an-obstacle.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9e7fb442-bf1e-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15971954-hover-blade-apple-iigs-getting-ready.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9d8a1b04-bf1e-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
-                "caption": "Game over",
+                "caption": "Controls explained",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15971882-hover-blade-apple-iigs-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/99675190-bf1e-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15972107-hover-blade-apple-iigs-controls-explained.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a7302d60-bf1e-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
-                "caption": "Black sphere recharges weapons",
+                "caption": "Main menu",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15971912-hover-blade-apple-iigs-black-sphere-recharges-weapons.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9bce0dde-bf1e-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15971993-hover-blade-apple-iigs-main-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9fc13cd6-bf1e-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
-                "caption": "Start of level 2",
+                "caption": "Avoid these bushes",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15971900-hover-blade-apple-iigs-start-of-level-2.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9b4ec510-bf1e-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15971924-hover-blade-apple-iigs-avoid-these-bushes.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9c4ecc62-bf1e-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
-                "caption": "Level completed",
+                "caption": "Flying through gates",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15971918-hover-blade-apple-iigs-level-completed.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9c0e821a-bf1e-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15971894-hover-blade-apple-iigs-flying-through-gates.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9a471ff0-bf1e-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -1365,17 +1365,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Hole 5: Skyscraper",
+                "caption": "Hole 6: Eye",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15981263-gnarly-golf-apple-iigs-hole-5-skyscraper.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2019239c-bf21-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Hole 2: Pool Hall",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15980975-gnarly-golf-apple-iigs-hole-2-pool-hall.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0e36814c-bf21-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15981242-gnarly-golf-apple-iigs-hole-6-eye.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1e77c96c-bf21-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -1386,17 +1379,24 @@
                 "width": 320
             },
             {
-                "caption": "Hole 4: The Dock",
+                "caption": "Choosing colour of the ball",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15994114-gnarly-golf-apple-iigs-hole-4-the-dock.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0f60cf2a-bf24-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15981068-gnarly-golf-apple-iigs-choosing-colour-of-the-ball.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1358d15c-bf21-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
-                "caption": "Hole 1: Kaleidoscope",
+                "caption": "Hole 10: The Cafe",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15994060-gnarly-golf-apple-iigs-hole-1-kaleidoscope.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0be2dd0c-bf24-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15981185-gnarly-golf-apple-iigs-hole-10-the-cafe.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1b2dfd4e-bf21-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Moving on to the second hole",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/15981029-gnarly-golf-apple-iigs-moving-on-to-the-second-hole.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/111d6ea2-bf21-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -1486,31 +1486,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title screen",
+                "caption": "Getting killed",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/16066660-cavern-cobra-apple-iigs-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/006f144c-bf68-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16066504-cavern-cobra-apple-iigs-getting-killed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f19e9e24-bf67-11ed-9521-02420a000152.webp",
                 "width": 320
             },
             {
-                "caption": "Starting out",
+                "caption": "Trying to launch some grenades",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/16066633-cavern-cobra-apple-iigs-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/fea4cbd4-bf67-11ed-9521-02420a000152.webp",
-                "width": 320
-            },
-            {
-                "caption": "A gun balloon",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/16066630-cavern-cobra-apple-iigs-a-gun-balloon.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/fe8b7b70-bf67-11ed-9521-02420a000152.webp",
-                "width": 320
-            },
-            {
-                "caption": "Dropping bombs",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/16066528-cavern-cobra-apple-iigs-dropping-bombs.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f3bb26d2-bf67-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16066564-cavern-cobra-apple-iigs-trying-to-launch-some-grenades.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f93324d4-bf67-11ed-9521-02420a000152.webp",
                 "width": 320
             },
             {
@@ -1518,6 +1504,20 @@
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/16066609-cavern-cobra-apple-iigs-this-screen-appear-every-time-you-leave-.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/fdb1d3f2-bf67-11ed-9521-02420a000152.webp",
+                "width": 320
+            },
+            {
+                "caption": "This helipad leads to the next level (if you're able to land on it)",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/16066480-cavern-cobra-apple-iigs-this-helipad-leads-to-the-next-level-if-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f06672ac-bf67-11ed-9521-02420a000152.webp",
+                "width": 320
+            },
+            {
+                "caption": "Scramble-like rockets",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/16066588-cavern-cobra-apple-iigs-scramble-like-rockets.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fc09198e-bf67-11ed-9521-02420a000152.webp",
                 "width": 320
             }
         ],
@@ -1603,6 +1603,20 @@
         },
         "sample_screenshots": [
             {
+                "caption": "This passage seem to be blocked by two lava lamps",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/16010179-mazer-ii-apple-iigs-this-passage-seem-to-be-blocked-by-two-lava-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cca1cc40-bf2b-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Starting out",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/16010236-mazer-ii-apple-iigs-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d58ac69a-bf2b-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
                 "caption": "Chatting with some snails",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/16010176-mazer-ii-apple-iigs-chatting-with-some-snails.png",
@@ -1610,31 +1624,17 @@
                 "width": 320
             },
             {
-                "caption": "Rat being killed",
+                "caption": "Saving the invisible guy",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/16010146-mazer-ii-apple-iigs-rat-being-killed.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c930868c-bf2b-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16010200-mazer-ii-apple-iigs-saving-the-invisible-guy.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ce088fe2-bf2b-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
-                "caption": "A seahorse-like creature",
+                "caption": "Being attacked by an enormous rat",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/16009981-mazer-ii-apple-iigs-a-seahorse-like-creature.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b45b4bb6-bf2b-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Getting killed",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/16010092-mazer-ii-apple-iigs-getting-killed.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c4c58188-bf2b-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "This path is being guarded",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/16010119-mazer-ii-apple-iigs-this-path-is-being-guarded.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c7769a20-bf2b-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16075287-mazer-ii-apple-iigs-being-attacked-by-an-enormous-rat.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a0685484-bf6a-11ed-9521-02420a000152.webp",
                 "width": 320
             }
         ],
@@ -1706,10 +1706,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Each number has different objects (Sets and numbers)",
+                "caption": "Picture finished (Colouring through Math)",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/16010618-talking-addition-subtraction-apple-iigs-each-number-has-differen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ef4cb0de-bf2b-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16011029-talking-addition-subtraction-apple-iigs-picture-finished-colouri.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0ddc27a0-bf2c-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Number 7 is displayed (Sets and numbers)",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/16011269-talking-addition-subtraction-apple-iigs-number-7-is-displayed-se.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2277ac84-bf2c-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Starting out (Colouring through Math)",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/16010774-talking-addition-subtraction-apple-iigs-starting-out-colouring-t.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f779aa0a-bf2b-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -1720,24 +1734,10 @@
                 "width": 320
             },
             {
-                "caption": "Main menu",
+                "caption": "Working with a number line",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/16010672-talking-addition-subtraction-apple-iigs-main-menu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f1151a96-bf2b-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "A third one (Picture Problems)",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/16010828-talking-addition-subtraction-apple-iigs-a-third-one-picture-prob.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/faf63130-bf2b-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Number two (Sets and numbers)",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/16010584-talking-addition-subtraction-apple-iigs-number-two-sets-and-numb.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ee15e4c4-bf2b-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16010798-talking-addition-subtraction-apple-iigs-working-with-a-number-li.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f9a2deaa-bf2b-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -1800,20 +1800,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Clicking the help button to show next letter (Easy)",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/16019944-talking-speller-apple-iigs-clicking-the-help-button-to-show-next.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/10aefb8a-bf2f-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Activity menu",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/16019758-talking-speller-apple-iigs-activity-menu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/03047c08-bf2f-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
                 "caption": "Travel words (Hard)",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/16019497-talking-speller-apple-iigs-travel-words-hard.png",
@@ -1821,10 +1807,24 @@
                 "width": 320
             },
             {
-                "caption": "Correct answer (Easy)",
+                "caption": "Word scramble (Easy)",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/16020049-talking-speller-apple-iigs-correct-answer-easy.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1aa74746-bf2f-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16019905-talking-speller-apple-iigs-word-scramble-easy.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0ddc0e5c-bf2f-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Outdoor words (Hard)",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/16019581-talking-speller-apple-iigs-outdoor-words-hard.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f6eba3e2-bf2e-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Main menu",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/16019476-talking-speller-apple-iigs-main-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/eaa4f5d4-bf2e-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -1930,17 +1930,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The AI has a tire problem",
+                "caption": "Reaching 1500 km",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15893308-milestones-2000-apple-iigs-the-ai-has-a-tire-problem.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/be724f20-bf06-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15892852-milestones-2000-apple-iigs-reaching-1500-km.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9837e004-bf06-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
-                "caption": "Right of way power card",
+                "caption": "Reaching the finish",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15921357-milestones-2000-apple-iigs-right-of-way-power-card.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/94efacca-bf0f-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15921408-milestones-2000-apple-iigs-reaching-the-finish.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/98fd0bd2-bf0f-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -1951,17 +1951,17 @@
                 "width": 320
             },
             {
-                "caption": "Reliefware info",
+                "caption": "Coin flip deciding who starts",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15921714-milestones-2000-apple-iigs-reliefware-info.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ac01f51c-bf0f-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15921684-milestones-2000-apple-iigs-coin-flip-deciding-who-starts.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/aadbff20-bf0f-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
-                "caption": "Playing a Go! card to start",
+                "caption": "The landscape changes the further we drive",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15921624-milestones-2000-apple-iigs-playing-a-go-card-to-start.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a5fc2354-bf0f-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15921606-milestones-2000-apple-iigs-the-landscape-changes-the-further-we-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a4419530-bf0f-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -2033,17 +2033,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Starting Level 1",
+                "caption": "Main Menu",
                 "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16874022-bouncing-bluster-apple-iigs-starting-level-1.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b2076420-c3fa-11ed-be63-02420a000121.webp",
-                "width": 672
-            },
-            {
-                "caption": "Hall of Fame",
-                "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16874028-bouncing-bluster-apple-iigs-hall-of-fame.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b463ab20-c3fa-11ed-be63-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16874025-bouncing-bluster-apple-iigs-main-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b4480abe-c3fa-11ed-be63-02420a000121.webp",
                 "width": 672
             },
             {
@@ -2054,10 +2047,10 @@
                 "width": 672
             },
             {
-                "caption": "Main Menu",
+                "caption": "Game Over",
                 "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16874025-bouncing-bluster-apple-iigs-main-menu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b4480abe-c3fa-11ed-be63-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16873032-bouncing-bluster-apple-iigs-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/50b16e00-c3fa-11ed-be63-02420a000121.webp",
                 "width": 672
             },
             {
@@ -2065,6 +2058,13 @@
                 "height": 432,
                 "image_url": "https://cdn.mobygames.com/screenshots/16874031-bouncing-bluster-apple-iigs-title-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/b48bb6ec-c3fa-11ed-be63-02420a000121.webp",
+                "width": 672
+            },
+            {
+                "caption": "Starting Level 1",
+                "height": 432,
+                "image_url": "https://cdn.mobygames.com/screenshots/16874022-bouncing-bluster-apple-iigs-starting-level-1.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b2076420-c3fa-11ed-be63-02420a000121.webp",
                 "width": 672
             }
         ],
@@ -2152,17 +2152,17 @@
                 "width": 672
             },
             {
-                "caption": "1-Player Game with a Bomb",
+                "caption": "I Achieve a High Score",
                 "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16876761-dueltris-apple-iigs-1-player-game-with-a-bomb.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ebbf1ba8-c3fb-11ed-be63-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16876767-dueltris-apple-iigs-i-achieve-a-high-score.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ec1f89ac-c3fb-11ed-be63-02420a000121.webp",
                 "width": 672
             },
             {
-                "caption": "The Computer Plays Better ",
+                "caption": "Title Screen",
                 "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16874808-dueltris-apple-iigs-the-computer-plays-better.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0e198b80-c3fb-11ed-be63-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16874814-dueltris-apple-iigs-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0e7f4f9c-c3fb-11ed-be63-02420a000121.webp",
                 "width": 672
             },
             {
@@ -2173,10 +2173,10 @@
                 "width": 672
             },
             {
-                "caption": "Title Screen",
+                "caption": "The Computer Plays Better ",
                 "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16874814-dueltris-apple-iigs-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0e7f4f9c-c3fb-11ed-be63-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16874808-dueltris-apple-iigs-the-computer-plays-better.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0e198b80-c3fb-11ed-be63-02420a000121.webp",
                 "width": 672
             }
         ],
@@ -2266,24 +2266,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Healing my Team",
+                "caption": "Conversation",
                 "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16874711-2088-the-cryllan-mission-apple-iigs-healing-my-team.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/063a16d2-c3fb-11ed-be63-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16874726-2088-the-cryllan-mission-apple-iigs-conversation.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/06e66658-c3fb-11ed-be63-02420a000121.webp",
                 "width": 672
             },
             {
-                "caption": "Combat in the Desert",
+                "caption": "Equipping my Characters",
                 "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16274993-2088-the-cryllan-mission-apple-iigs-combat-in-the-desert.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cef9e1ae-c1e6-11ed-ab6b-02420a000194.webp",
-                "width": 672
-            },
-            {
-                "caption": "Terrain Scan",
-                "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16874720-2088-the-cryllan-mission-apple-iigs-terrain-scan.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/06a54434-c3fb-11ed-be63-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16874714-2088-the-cryllan-mission-apple-iigs-equipping-my-characters.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/065c3186-c3fb-11ed-be63-02420a000121.webp",
                 "width": 672
             },
             {
@@ -2294,10 +2287,17 @@
                 "width": 672
             },
             {
-                "caption": "Equipping my Characters",
+                "caption": "Title Screen",
                 "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16874714-2088-the-cryllan-mission-apple-iigs-equipping-my-characters.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/065c3186-c3fb-11ed-be63-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16874820-2088-the-cryllan-mission-apple-iigs-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0ed87df6-c3fb-11ed-be63-02420a000121.webp",
+                "width": 672
+            },
+            {
+                "caption": "Exploring the OverWorld",
+                "height": 432,
+                "image_url": "https://cdn.mobygames.com/screenshots/16874817-2088-the-cryllan-mission-apple-iigs-exploring-the-overworld.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0eb14268-c3fb-11ed-be63-02420a000121.webp",
                 "width": 672
             }
         ],
@@ -2378,24 +2378,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Main Menu",
+                "caption": "Filling in the Game Field",
                 "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16875772-fun-columns-apple-iigs-main-menu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6a8a5aac-c3fb-11ed-be63-02420a000121.webp",
-                "width": 672
-            },
-            {
-                "caption": "I Make a Group of 3",
-                "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16874971-fun-columns-apple-iigs-i-make-a-group-of-3.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1ca520ec-c3fb-11ed-be63-02420a000121.webp",
-                "width": 672
-            },
-            {
-                "caption": "Almost Game Over",
-                "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16874968-fun-columns-apple-iigs-almost-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1c7fbbe0-c3fb-11ed-be63-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16874974-fun-columns-apple-iigs-filling-in-the-game-field.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1cca6884-c3fb-11ed-be63-02420a000121.webp",
                 "width": 672
             },
             {
@@ -2406,10 +2392,24 @@
                 "width": 672
             },
             {
-                "caption": "Filling in the Game Field",
+                "caption": "Main Menu",
                 "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16874974-fun-columns-apple-iigs-filling-in-the-game-field.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1cca6884-c3fb-11ed-be63-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16875772-fun-columns-apple-iigs-main-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6a8a5aac-c3fb-11ed-be63-02420a000121.webp",
+                "width": 672
+            },
+            {
+                "caption": "Almost Game Over",
+                "height": 432,
+                "image_url": "https://cdn.mobygames.com/screenshots/16874968-fun-columns-apple-iigs-almost-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1c7fbbe0-c3fb-11ed-be63-02420a000121.webp",
+                "width": 672
+            },
+            {
+                "caption": "I Make a Group of 3",
+                "height": 432,
+                "image_url": "https://cdn.mobygames.com/screenshots/16874971-fun-columns-apple-iigs-i-make-a-group-of-3.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1ca520ec-c3fb-11ed-be63-02420a000121.webp",
                 "width": 672
             }
         ],
@@ -2499,20 +2499,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Journey to Calibus - Taking Heavy Damage",
-                "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16875757-cosmocade-the-arcade-of-tomorrow-apple-iigs-journey-to-calibus-t.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/690fa830-c3fb-11ed-be63-02420a000121.webp",
-                "width": 672
-            },
-            {
-                "caption": "Journey to Calibus - Engaging Enemies",
-                "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16875760-cosmocade-the-arcade-of-tomorrow-apple-iigs-journey-to-calibus-e.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/69320f2e-c3fb-11ed-be63-02420a000121.webp",
-                "width": 672
-            },
-            {
                 "caption": "Main Menu",
                 "height": 432,
                 "image_url": "https://cdn.mobygames.com/screenshots/16875766-cosmocade-the-arcade-of-tomorrow-apple-iigs-main-menu.png",
@@ -2520,10 +2506,24 @@
                 "width": 672
             },
             {
+                "caption": "Journey to Calibus - Taking Heavy Damage",
+                "height": 432,
+                "image_url": "https://cdn.mobygames.com/screenshots/16875757-cosmocade-the-arcade-of-tomorrow-apple-iigs-journey-to-calibus-t.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/690fa830-c3fb-11ed-be63-02420a000121.webp",
+                "width": 672
+            },
+            {
                 "caption": "Journey to Calibus - Title",
                 "height": 432,
                 "image_url": "https://cdn.mobygames.com/screenshots/16875763-cosmocade-the-arcade-of-tomorrow-apple-iigs-journey-to-calibus-t.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/69520e82-c3fb-11ed-be63-02420a000121.webp",
+                "width": 672
+            },
+            {
+                "caption": "Journey to Calibus - Engaging Enemies",
+                "height": 432,
+                "image_url": "https://cdn.mobygames.com/screenshots/16875760-cosmocade-the-arcade-of-tomorrow-apple-iigs-journey-to-calibus-e.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/69320f2e-c3fb-11ed-be63-02420a000121.webp",
                 "width": 672
             }
         ],
@@ -2613,6 +2613,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "A Notice in a Jail Cell",
+                "height": 432,
+                "image_url": "https://cdn.mobygames.com/screenshots/16878816-gate-apple-iigs-a-notice-in-a-jail-cell.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d3474194-c3fc-11ed-be63-02420a000121.webp",
+                "width": 672
+            },
+            {
                 "caption": "Choose the Input Type",
                 "height": 432,
                 "image_url": "https://cdn.mobygames.com/screenshots/16878798-gate-apple-iigs-choose-the-input-type.png",
@@ -2620,17 +2627,17 @@
                 "width": 672
             },
             {
-                "caption": "Shopping at a Store",
+                "caption": "Title Screen",
                 "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16878807-gate-apple-iigs-shopping-at-a-store.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d2e27ff2-c3fc-11ed-be63-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16878801-gate-apple-iigs-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d2a21bd8-c3fc-11ed-be63-02420a000121.webp",
                 "width": 672
             },
             {
-                "caption": "A Notice in a Jail Cell",
+                "caption": "Receiving a Clue",
                 "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16878816-gate-apple-iigs-a-notice-in-a-jail-cell.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d3474194-c3fc-11ed-be63-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16878810-gate-apple-iigs-receiving-a-clue.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d3037338-c3fc-11ed-be63-02420a000121.webp",
                 "width": 672
             },
             {
@@ -2639,119 +2646,9 @@
                 "image_url": "https://cdn.mobygames.com/screenshots/16878804-gate-apple-iigs-starting-level-2.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/d2c1c8d4-c3fc-11ed-be63-02420a000121.webp",
                 "width": 672
-            },
-            {
-                "caption": "The Story",
-                "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16878795-gate-apple-iigs-the-story.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d2654ed8-c3fc-11ed-be63-02420a000121.webp",
-                "width": 672
             }
         ],
         "title": "Gate"
-    },
-    {
-        "alternate_titles": [],
-        "description": "<p><em>Mighty Marvel vs. the Forces of Evil</em> is a 1 - 2 player action game for the Apple IIgs.</p>\n<p>The player chooses a superhero and their opponent. The player has a number of superhero skills including: running, leaping, swimming, punching, lifting, and throwing. Each character has their own unique skills as well. There are 4 different scenarios, and 5 possible heroes. The player can explore the bank, the city, underground tunnels, and maze.</p>",
-        "genres": [
-            {
-                "category": {
-                    "id": 1,
-                    "name": "Basic Genres"
-                },
-                "description": null,
-                "id": 1,
-                "name": "Action"
-            },
-            {
-                "category": {
-                    "id": 2,
-                    "name": "Perspective"
-                },
-                "description": null,
-                "id": 13,
-                "name": "Top-down"
-            },
-            {
-                "category": {
-                    "id": 12,
-                    "name": "Visual Presentation"
-                },
-                "description": null,
-                "id": 134,
-                "name": "Free camera"
-            },
-            {
-                "category": {
-                    "id": 7,
-                    "name": "Interface/Control"
-                },
-                "description": null,
-                "id": 168,
-                "name": "Direct control"
-            }
-        ],
-        "id": 165653,
-        "moby_score": null,
-        "moby_url": "https://www.mobygames.com/game/165653/mighty-marvel-vs-the-forces-of-evil/",
-        "num_votes": 0,
-        "official_url": null,
-        "platforms": [
-            [
-                {
-                    "id": 51,
-                    "name": "Apple IIgs"
-                },
-                "1988"
-            ]
-        ],
-        "sample_cover": {
-            "height": 432,
-            "image_url": "https://cdn.mobygames.com/screenshots/16890189-mighty-marvel-vs-the-forces-of-evil-apple-iigs-picked-up-magic-p.png",
-            "platforms": [
-                "Apple IIgs"
-            ],
-            "thumbnail_image_url": "https://cdn.mobygames.com/6f9cb4da-c401-11ed-be63-02420a000121.webp",
-            "width": 672
-        },
-        "sample_screenshots": [
-            {
-                "caption": "Game Setup",
-                "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16890186-mighty-marvel-vs-the-forces-of-evil-apple-iigs-game-setup.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6f76886e-c401-11ed-be63-02420a000121.webp",
-                "width": 672
-            },
-            {
-                "caption": "Picked up Magic Powers",
-                "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16890189-mighty-marvel-vs-the-forces-of-evil-apple-iigs-picked-up-magic-p.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6f9cb4da-c401-11ed-be63-02420a000121.webp",
-                "width": 672
-            },
-            {
-                "caption": "Exploring the Bank",
-                "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16889824-mighty-marvel-vs-the-forces-of-evil-apple-iigs-exploring-the-ban.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/49ecd332-c401-11ed-be63-02420a000121.webp",
-                "width": 672
-            },
-            {
-                "caption": "Exploring the City",
-                "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16888576-mighty-marvel-vs-the-forces-of-evil-apple-iigs-exploring-the-cit.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c3228e46-c400-11ed-be63-02420a000121.webp",
-                "width": 672
-            },
-            {
-                "caption": "Exploring Underground Tunnels",
-                "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16888573-mighty-marvel-vs-the-forces-of-evil-apple-iigs-exploring-undergr.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c3004b74-c400-11ed-be63-02420a000121.webp",
-                "width": 672
-            }
-        ],
-        "title": "Mighty Marvel vs. the Forces of Evil"
     },
     {
         "alternate_titles": [],
@@ -2828,10 +2725,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title Screen",
+                "caption": "Incoming Asteroids",
                 "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16891271-orbizone-apple-iigs-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e9d7131c-c401-11ed-be63-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16866070-orbizone-apple-iigs-incoming-asteroids.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7d86da80-c3f7-11ed-be63-02420a000121.webp",
+                "width": 672
+            },
+            {
+                "caption": "Game Over",
+                "height": 432,
+                "image_url": "https://cdn.mobygames.com/screenshots/16866067-orbizone-apple-iigs-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7d6760b0-c3f7-11ed-be63-02420a000121.webp",
                 "width": 672
             },
             {
@@ -2849,17 +2753,10 @@
                 "width": 672
             },
             {
-                "caption": "Game Over",
+                "caption": "Vessel Destroyed",
                 "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16866067-orbizone-apple-iigs-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7d6760b0-c3f7-11ed-be63-02420a000121.webp",
-                "width": 672
-            },
-            {
-                "caption": "Incoming Asteroids",
-                "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16866070-orbizone-apple-iigs-incoming-asteroids.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7d86da80-c3f7-11ed-be63-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16866073-orbizone-apple-iigs-vessel-destroyed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7f51f0a2-c3f7-11ed-be63-02420a000121.webp",
                 "width": 672
             }
         ],
@@ -2947,10 +2844,10 @@
                 "width": 672
             },
             {
-                "caption": "Locking Wheels",
+                "caption": "Goal is Set",
                 "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16866148-one-arm-battle-apple-iigs-locking-wheels.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/86901376-c3f7-11ed-be63-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16892418-one-arm-battle-apple-iigs-goal-is-set.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6f29b286-c402-11ed-be63-02420a000121.webp",
                 "width": 672
             },
             {
@@ -2961,17 +2858,17 @@
                 "width": 672
             },
             {
-                "caption": "Challenging Pick",
-                "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16866384-one-arm-battle-apple-iigs-challenging-pick.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9d95a6c6-c3f7-11ed-be63-02420a000121.webp",
-                "width": 672
-            },
-            {
                 "caption": "Title Screen",
                 "height": 432,
                 "image_url": "https://cdn.mobygames.com/screenshots/16866058-one-arm-battle-apple-iigs-title-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/7cc04c9e-c3f7-11ed-be63-02420a000121.webp",
+                "width": 672
+            },
+            {
+                "caption": "Locking Wheels",
+                "height": 432,
+                "image_url": "https://cdn.mobygames.com/screenshots/16866148-one-arm-battle-apple-iigs-locking-wheels.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/86901376-c3f7-11ed-be63-02420a000121.webp",
                 "width": 672
             }
         ],
@@ -3043,17 +2940,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Game Setup",
+                "caption": "I Found Dynamite",
                 "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16882578-plunder-apple-iigs-game-setup.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/57f4bc72-c3fe-11ed-be63-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16882581-plunder-apple-iigs-i-found-dynamite.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/58183b7a-c3fe-11ed-be63-02420a000121.webp",
                 "width": 672
             },
             {
-                "caption": "Pick a Container",
+                "caption": "Cash in the Bag",
                 "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16892412-plunder-apple-iigs-pick-a-container.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6ede8338-c402-11ed-be63-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16892409-plunder-apple-iigs-cash-in-the-bag.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6eb6d22a-c402-11ed-be63-02420a000121.webp",
                 "width": 672
             },
             {
@@ -3071,10 +2968,10 @@
                 "width": 672
             },
             {
-                "caption": "A Cash Prize",
+                "caption": "Game Setup",
                 "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16892406-plunder-apple-iigs-a-cash-prize.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6e34c5d2-c402-11ed-be63-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16882578-plunder-apple-iigs-game-setup.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/57f4bc72-c3fe-11ed-be63-02420a000121.webp",
                 "width": 672
             }
         ],
@@ -3155,6 +3052,27 @@
         },
         "sample_screenshots": [
             {
+                "caption": "I Ruined the Treasure",
+                "height": 432,
+                "image_url": "https://cdn.mobygames.com/screenshots/16884356-quest-for-the-hoard-apple-iigs-i-ruined-the-treasure.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1a3172c6-c3ff-11ed-be63-02420a000121.webp",
+                "width": 672
+            },
+            {
+                "caption": "Starting a Level",
+                "height": 432,
+                "image_url": "https://cdn.mobygames.com/screenshots/16884524-quest-for-the-hoard-apple-iigs-starting-a-level.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2e4314ea-c3ff-11ed-be63-02420a000121.webp",
+                "width": 672
+            },
+            {
+                "caption": "Level Completed",
+                "height": 432,
+                "image_url": "https://cdn.mobygames.com/screenshots/16884350-quest-for-the-hoard-apple-iigs-level-completed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/19f0b880-c3ff-11ed-be63-02420a000121.webp",
+                "width": 672
+            },
+            {
                 "caption": "I Found a Treasure",
                 "height": 432,
                 "image_url": "https://cdn.mobygames.com/screenshots/16884521-quest-for-the-hoard-apple-iigs-i-found-a-treasure.png",
@@ -3166,27 +3084,6 @@
                 "height": 432,
                 "image_url": "https://cdn.mobygames.com/screenshots/16884533-quest-for-the-hoard-apple-iigs-title-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/2ea260d0-c3ff-11ed-be63-02420a000121.webp",
-                "width": 672
-            },
-            {
-                "caption": "I Ruined the Treasure",
-                "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16884356-quest-for-the-hoard-apple-iigs-i-ruined-the-treasure.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1a3172c6-c3ff-11ed-be63-02420a000121.webp",
-                "width": 672
-            },
-            {
-                "caption": "I Found the Vault",
-                "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16884353-quest-for-the-hoard-apple-iigs-i-found-the-vault.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1a0f10fa-c3ff-11ed-be63-02420a000121.webp",
-                "width": 672
-            },
-            {
-                "caption": "Level Completed",
-                "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16884350-quest-for-the-hoard-apple-iigs-level-completed.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/19f0b880-c3ff-11ed-be63-02420a000121.webp",
                 "width": 672
             }
         ],
@@ -3276,10 +3173,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Main Menu",
+                "caption": "Shopping in a Town",
                 "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16861226-the-secrets-of-bharas-apple-iigs-main-menu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/309a4484-c3aa-11ed-9226-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16861220-the-secrets-of-bharas-apple-iigs-shopping-in-a-town.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3061a70a-c3aa-11ed-9226-02420a000121.webp",
+                "width": 672
+            },
+            {
+                "caption": "In a Dungeon",
+                "height": 432,
+                "image_url": "https://cdn.mobygames.com/screenshots/16861544-the-secrets-of-bharas-apple-iigs-in-a-dungeon.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/622cf5dc-c3aa-11ed-9226-02420a000121.webp",
                 "width": 672
             },
             {
@@ -3290,24 +3194,17 @@
                 "width": 672
             },
             {
-                "caption": "Combat in the Forest",
+                "caption": "Character Creation",
                 "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16861538-the-secrets-of-bharas-apple-iigs-combat-in-the-forest.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/61d7cb84-c3aa-11ed-9226-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16861223-the-secrets-of-bharas-apple-iigs-character-creation.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/307f9ea4-c3aa-11ed-9226-02420a000121.webp",
                 "width": 672
             },
             {
-                "caption": "Character Statistics",
+                "caption": "Along the Coast",
                 "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16861547-the-secrets-of-bharas-apple-iigs-character-statistics.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/625143ba-c3aa-11ed-9226-02420a000121.webp",
-                "width": 672
-            },
-            {
-                "caption": "I Discover a Coastal City",
-                "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16861532-the-secrets-of-bharas-apple-iigs-i-discover-a-coastal-city.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/609bcfd6-c3aa-11ed-9226-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16861541-the-secrets-of-bharas-apple-iigs-along-the-coast.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/620290e4-c3aa-11ed-9226-02420a000121.webp",
                 "width": 672
             }
         ],
@@ -3388,27 +3285,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Main Menu",
-                "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16885688-sensei-apple-iigs-main-menu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/92bb2ba6-c3ff-11ed-be63-02420a000121.webp",
-                "width": 672
-            },
-            {
-                "caption": "High Scores",
-                "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16884875-sensei-apple-iigs-high-scores.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4f48ab00-c3ff-11ed-be63-02420a000121.webp",
-                "width": 672
-            },
-            {
-                "caption": "Beginning the Match",
-                "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16884947-sensei-apple-iigs-beginning-the-match.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5438b0ba-c3ff-11ed-be63-02420a000121.webp",
-                "width": 672
-            },
-            {
                 "caption": "Starting the Fight",
                 "height": 432,
                 "image_url": "https://cdn.mobygames.com/screenshots/16884878-sensei-apple-iigs-starting-the-fight.png",
@@ -3416,10 +3292,31 @@
                 "width": 672
             },
             {
-                "caption": "Delete Publisher Logo Please",
+                "caption": "White Scores a Point",
                 "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16887267-sensei-apple-iigs-delete-publisher-logo-please.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/275c936c-c400-11ed-be63-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16885685-sensei-apple-iigs-white-scores-a-point.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/929a2e88-c3ff-11ed-be63-02420a000121.webp",
+                "width": 672
+            },
+            {
+                "caption": "Game Over",
+                "height": 432,
+                "image_url": "https://cdn.mobygames.com/screenshots/16886188-sensei-apple-iigs-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c48c48f4-c3ff-11ed-be63-02420a000121.webp",
+                "width": 672
+            },
+            {
+                "caption": "List of Moves",
+                "height": 432,
+                "image_url": "https://cdn.mobygames.com/screenshots/16886191-sensei-apple-iigs-list-of-moves.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c4b67c00-c3ff-11ed-be63-02420a000121.webp",
+                "width": 672
+            },
+            {
+                "caption": "High Scores",
+                "height": 432,
+                "image_url": "https://cdn.mobygames.com/screenshots/16884875-sensei-apple-iigs-high-scores.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4f48ab00-c3ff-11ed-be63-02420a000121.webp",
                 "width": 672
             }
         ],
@@ -3500,10 +3397,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title Screen",
+                "caption": "Points",
                 "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16871745-space-clusters-apple-iigs-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cef3126a-c3f9-11ed-be63-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16871742-space-clusters-apple-iigs-points.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ced9391c-c3f9-11ed-be63-02420a000121.webp",
                 "width": 672
             },
             {
@@ -3514,10 +3411,10 @@
                 "width": 672
             },
             {
-                "caption": "Points",
+                "caption": "Title Screen",
                 "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16871742-space-clusters-apple-iigs-points.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ced9391c-c3f9-11ed-be63-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16871745-space-clusters-apple-iigs-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cef3126a-c3f9-11ed-be63-02420a000121.webp",
                 "width": 672
             }
         ],
@@ -3684,6 +3581,20 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Title Screen",
+                "height": 432,
+                "image_url": "https://cdn.mobygames.com/screenshots/16877289-space-shark-apple-iigs-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3494f4c4-c3fc-11ed-be63-02420a000121.webp",
+                "width": 672
+            },
+            {
+                "caption": "Developer.  Please delete this screenshot",
+                "height": 432,
+                "image_url": "https://cdn.mobygames.com/screenshots/16877286-space-shark-apple-iigs-developer-please-delete-this-screenshot.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/34745da4-c3fc-11ed-be63-02420a000121.webp",
+                "width": 672
+            },
+            {
                 "caption": "Game Over",
                 "height": 432,
                 "image_url": "https://cdn.mobygames.com/screenshots/16895720-space-shark-apple-iigs-game-over.png",
@@ -3691,10 +3602,10 @@
                 "width": 672
             },
             {
-                "caption": "Incoming Aliens",
+                "caption": "The Story",
                 "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16895723-space-shark-apple-iigs-incoming-aliens.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f52bfd8e-c403-11ed-be63-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16877256-space-shark-apple-iigs-the-story.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/325f1dec-c3fc-11ed-be63-02420a000121.webp",
                 "width": 672
             },
             {
@@ -3702,20 +3613,6 @@
                 "height": 432,
                 "image_url": "https://cdn.mobygames.com/screenshots/16879327-space-shark-apple-iigs-i-am-overwhelmed.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/1127aac6-c3fd-11ed-be63-02420a000121.webp",
-                "width": 672
-            },
-            {
-                "caption": "Level Cleared",
-                "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16879330-space-shark-apple-iigs-level-cleared.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1147ea8e-c3fd-11ed-be63-02420a000121.webp",
-                "width": 672
-            },
-            {
-                "caption": "Looking for Aliens",
-                "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16894971-space-shark-apple-iigs-looking-for-aliens.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a01789f8-c403-11ed-be63-02420a000121.webp",
                 "width": 672
             }
         ],
@@ -3787,6 +3684,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Everything Goes Dark",
+                "height": 432,
+                "image_url": "https://cdn.mobygames.com/screenshots/16854147-as-the-link-turns-operation-bug-apple-iigs-everything-goes-dark.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b1fce3d2-c3a6-11ed-9226-02420a000121.webp",
+                "width": 672
+            },
+            {
                 "caption": "Introduction",
                 "height": 432,
                 "image_url": "https://cdn.mobygames.com/screenshots/16854141-as-the-link-turns-operation-bug-apple-iigs-introduction.png",
@@ -3794,10 +3698,10 @@
                 "width": 672
             },
             {
-                "caption": "Game Over",
+                "caption": "Entering the Applelink Hotel",
                 "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16854144-as-the-link-turns-operation-bug-apple-iigs-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b1e20ee0-c3a6-11ed-9226-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16854150-as-the-link-turns-operation-bug-apple-iigs-entering-the-applelin.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b21aa264-c3a6-11ed-9226-02420a000121.webp",
                 "width": 672
             },
             {
@@ -3808,17 +3712,10 @@
                 "width": 672
             },
             {
-                "caption": "Everything Goes Dark",
+                "caption": "Game Over",
                 "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16854147-as-the-link-turns-operation-bug-apple-iigs-everything-goes-dark.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b1fce3d2-c3a6-11ed-9226-02420a000121.webp",
-                "width": 672
-            },
-            {
-                "caption": "Entering the Applelink Hotel",
-                "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/16854150-as-the-link-turns-operation-bug-apple-iigs-entering-the-applelin.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b21aa264-c3a6-11ed-9226-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16854144-as-the-link-turns-operation-bug-apple-iigs-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b1e20ee0-c3a6-11ed-9226-02420a000121.webp",
                 "width": 672
             }
         ],
@@ -3890,24 +3787,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Matching Words and Planets",
+                "caption": "Title Screen",
                 "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/12525818-stars-planets-apple-iigs-matching-words-and-planets.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cd5d237c-ac21-11ed-ad33-02420a00012d.webp",
-                "width": 672
-            },
-            {
-                "caption": "Aligning Planets",
-                "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/12525481-stars-planets-apple-iigs-aligning-planets.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ccd7c95c-ac21-11ed-96e1-02420a00012d.webp",
-                "width": 672
-            },
-            {
-                "caption": "Matching a Constellation",
-                "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/12525821-stars-planets-apple-iigs-matching-a-constellation.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cdd61b42-ac21-11ed-ad33-02420a00012d.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/12525487-stars-planets-apple-iigs-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ce00f3e4-ac21-11ed-96e1-02420a00012d.webp",
                 "width": 672
             },
             {
@@ -3922,6 +3805,20 @@
                 "height": 432,
                 "image_url": "https://cdn.mobygames.com/screenshots/12525824-stars-planets-apple-iigs-filling-in-blanks.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/ce1d598a-ac21-11ed-ad33-02420a00012d.webp",
+                "width": 672
+            },
+            {
+                "caption": "Main Menu",
+                "height": 432,
+                "image_url": "https://cdn.mobygames.com/screenshots/12525484-stars-planets-apple-iigs-main-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cd784062-ac21-11ed-96e1-02420a00012d.webp",
+                "width": 672
+            },
+            {
+                "caption": "Matching a Constellation",
+                "height": 432,
+                "image_url": "https://cdn.mobygames.com/screenshots/12525821-stars-planets-apple-iigs-matching-a-constellation.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cdd61b42-ac21-11ed-ad33-02420a00012d.webp",
                 "width": 672
             }
         ],
@@ -4002,20 +3899,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "North's Statistics",
-                "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/12495161-tarot-apple-iigs-norths-statistics.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/91d74cc4-ac21-11ed-8949-02420a00012e.webp",
-                "width": 672
-            },
-            {
-                "caption": "Title Screen",
-                "height": 432,
-                "image_url": "https://cdn.mobygames.com/screenshots/12531211-tarot-apple-iigs-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cdef0ad0-ac21-11ed-81c5-02420a00012f.webp",
-                "width": 672
-            },
-            {
                 "caption": "Add to West",
                 "height": 432,
                 "image_url": "https://cdn.mobygames.com/screenshots/10045329-tarot-apple-iigs-add-to-west.png",
@@ -4030,10 +3913,24 @@
                 "width": 672
             },
             {
+                "caption": "North's Statistics",
+                "height": 432,
+                "image_url": "https://cdn.mobygames.com/screenshots/12495161-tarot-apple-iigs-norths-statistics.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/91d74cc4-ac21-11ed-8949-02420a00012e.webp",
+                "width": 672
+            },
+            {
                 "caption": "Choosing a Card",
                 "height": 432,
                 "image_url": "https://cdn.mobygames.com/screenshots/12495170-tarot-apple-iigs-choosing-a-card.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/93d5ba38-ac21-11ed-8949-02420a00012e.webp",
+                "width": 672
+            },
+            {
+                "caption": "Choosing to Pass or Keep",
+                "height": 432,
+                "image_url": "https://cdn.mobygames.com/screenshots/12495167-tarot-apple-iigs-choosing-to-pass-or-keep.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/93347970-ac21-11ed-8949-02420a00012e.webp",
                 "width": 672
             }
         ],

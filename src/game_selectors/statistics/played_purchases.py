@@ -32,6 +32,7 @@ def get_played_purchases_selector(data_provider: DataProvider) -> GameSelector:
             ),
             reverse=True,
             get_group_name=get_group_name,
+            should_rank=False,
         ),
         custom_prefix=lambda g: f"{g.date_purchased.strftime('%m/%d: ')}",
         custom_suffix=lambda g: f" - ${g.purchase_price:0.2f}",

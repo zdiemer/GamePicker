@@ -16,7 +16,7 @@ async def unordered_amazon_games(data_provider: DataProvider) -> List[ExcelGame]
     logging.basicConfig(level=logging.DEBUG)
 
     amazon_client = AmazonClient(
-        data_provider.get_validator(), pages_without_unreleased_threshold=20
+        data_provider.get_validator(), pages_without_unreleased_threshold=25
     )
 
     unordered_games = await amazon_client.get_unordered_games()

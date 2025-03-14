@@ -26,5 +26,4 @@ def get_alternate_editions_selector(data_provider: DataProvider) -> GameSelector
             )
         ),
         name="Alternate Editions",
-        run_on_modes=set([PickerMode.ALL]),
     )

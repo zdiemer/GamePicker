@@ -51,7 +51,7 @@ def get_largest_rating_differences_selector(
         custom_suffix=get_custom_suffix,
         grouping=GameGrouping(
             lambda _: "Largest Rating Differences",
-            take=100,
+            group_size=100,
             should_rank=False,
         ),
         run_on_modes=set([PickerMode.ALL]),

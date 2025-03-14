@@ -10,7 +10,9 @@ from picker_enums import PickerMode
 
 
 def franchise_playthroughs(
-    data_provider: DataProvider, mode: PickerMode
+    data_provider: DataProvider,
+    mode: PickerMode,
+    franchises: Optional[Tuple[str]] = None,
 ) -> List[ExcelGame]:
     by_franchise = GameGrouping(lambda g: g.franchise).get_groups(
         list(
@@ -30,7 +32,11 @@ def franchise_playthroughs(
     by_franchise_played = GameGrouping(lambda g: g.franchise).get_groups(
         list(
             filter(
-                lambda g: g.franchise is not None,
+                (
+                    (lambda g: g.franchise is not None)
+                    if franchises is None
+                    else (lambda g: g.franchise in franchises)
+                ),
                 data_provider.get_played_games(),
             )
         ),
@@ -52,7 +58,7 @@ def get_franchise_playthroughs_selector(
     name: str = "Franchise Playthroughs",
 ):
     return GameSelector(
-        lambda _: franchise_playthroughs(data_provider, mode),
+        lambda _: franchise_playthroughs(data_provider, mode, franchises),
         grouping=GameGrouping(
             lambda g: g.franchise,
             progress_indicator=lambda kvp: (
@@ -76,13 +82,9 @@ def get_franchise_playthroughs_selector(
             ),
         ),
         sort=lambda g: g.game.release_date,
-        _filter=(
-            (lambda g: g.franchise is not None)
-            if franchises is None
-            else (lambda g: g.franchise in franchises)
-        ),
         include_in_picks=False,
         name=name,
+        run_on_modes=set([PickerMode.ALL]),
     )
 
 
@@ -172,7 +174,7 @@ FRANCHISE_CONTENDERS = (
     "Jak and Daxter",
     "Ratchet & Clank",
     "Resistance",
-    "Spyro the Dragon",
+    "Spyro",
     "Crash Bandicoot",
     "Sly Cooper",
     "Killzone",

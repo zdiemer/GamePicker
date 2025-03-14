@@ -74,17 +74,17 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Player one getting knocked",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/15930425-kung-fu-exelvision-player-one-getting-knocked.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/121d09ca-bf12-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
                 "caption": "End of game - player one wins",
                 "height": 250,
                 "image_url": "https://cdn.mobygames.com/screenshots/15930668-kung-fu-exelvision-end-of-game-player-one-wins.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/2af3d942-bf12-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Another kick",
-                "height": 250,
-                "image_url": "https://cdn.mobygames.com/screenshots/15930350-kung-fu-exelvision-another-kick.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0d8541ca-bf12-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -95,17 +95,17 @@
                 "width": 320
             },
             {
+                "caption": "Punching",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/15930452-kung-fu-exelvision-punching.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/15f5e36e-bf12-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
                 "caption": "Starting out",
                 "height": 250,
                 "image_url": "https://cdn.mobygames.com/screenshots/15930479-kung-fu-exelvision-starting-out.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/18a75b06-bf12-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Title screen",
-                "height": 250,
-                "image_url": "https://cdn.mobygames.com/screenshots/15930326-kung-fu-exelvision-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0c1909fc-bf12-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -177,24 +177,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Crashing",
-                "height": 250,
-                "image_url": "https://cdn.mobygames.com/screenshots/15932394-car-crash-exelvision-crashing.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b6a33960-bf12-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Title screen",
-                "height": 250,
-                "image_url": "https://cdn.mobygames.com/screenshots/15932010-car-crash-exelvision-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9e634dea-bf12-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
                 "caption": "Collecting the dots",
                 "height": 250,
                 "image_url": "https://cdn.mobygames.com/screenshots/15932427-car-crash-exelvision-collecting-the-dots.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/b8f922d8-bf12-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Starting out",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/15931941-car-crash-exelvision-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/98e03c5c-bf12-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Game over",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/15932409-car-crash-exelvision-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b738aed2-bf12-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -205,10 +205,10 @@
                 "width": 320
             },
             {
-                "caption": "Starting out",
+                "caption": "Crashing",
                 "height": 250,
-                "image_url": "https://cdn.mobygames.com/screenshots/15931941-car-crash-exelvision-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/98e03c5c-bf12-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15932394-car-crash-exelvision-crashing.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b6a33960-bf12-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -280,24 +280,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Serving",
+                "caption": "Getting close to the net",
                 "height": 250,
-                "image_url": "https://cdn.mobygames.com/screenshots/16012778-tennis-exelvision-serving.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9cadb37c-bf2c-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Game in progress",
-                "height": 250,
-                "image_url": "https://cdn.mobygames.com/screenshots/16012751-tennis-exelvision-game-in-progress.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9aa982ae-bf2c-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Title screen with court selection",
-                "height": 250,
-                "image_url": "https://cdn.mobygames.com/screenshots/16012814-tennis-exelvision-title-screen-with-court-selection.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9e27bc7a-bf2c-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16012733-tennis-exelvision-getting-close-to-the-net.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/99de4616-bf2c-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -308,10 +294,24 @@
                 "width": 320
             },
             {
+                "caption": "Serving",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/16012778-tennis-exelvision-serving.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9cadb37c-bf2c-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
                 "caption": "Red and blue court",
                 "height": 250,
                 "image_url": "https://cdn.mobygames.com/screenshots/16012682-tennis-exelvision-red-and-blue-court.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/9307a710-bf2c-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Hitting the net",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/16012763-tennis-exelvision-hitting-the-net.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9bf82098-bf2c-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -383,10 +383,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Fifth maze",
+                "caption": "Second maze",
                 "height": 250,
-                "image_url": "https://cdn.mobygames.com/screenshots/16134105-guppy-exelvision-fifth-maze.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a607ff78-bf7b-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16134117-guppy-exelvision-second-maze.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a67b45fa-bf7b-11ed-9521-02420a000152.webp",
+                "width": 320
+            },
+            {
+                "caption": "Third maze",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/16134114-guppy-exelvision-third-maze.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a65eb228-bf7b-11ed-9521-02420a000152.webp",
                 "width": 320
             },
             {
@@ -397,17 +404,10 @@
                 "width": 320
             },
             {
-                "caption": "Fourth maze",
+                "caption": "Getting killed",
                 "height": 250,
-                "image_url": "https://cdn.mobygames.com/screenshots/16134111-guppy-exelvision-fourth-maze.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a6459270-bf7b-11ed-9521-02420a000152.webp",
-                "width": 320
-            },
-            {
-                "caption": "Starting out",
-                "height": 250,
-                "image_url": "https://cdn.mobygames.com/screenshots/16134123-guppy-exelvision-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a6a8938e-bf7b-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16134108-guppy-exelvision-getting-killed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a62b3038-bf7b-11ed-9521-02420a000152.webp",
                 "width": 320
             },
             {
@@ -495,6 +495,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Start of level 2",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/16096542-robix-exelvision-start-of-level-2.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2f74cad0-bf71-11ed-9521-02420a000152.webp",
+                "width": 320
+            },
+            {
                 "caption": "Level completed",
                 "height": 250,
                 "image_url": "https://cdn.mobygames.com/screenshots/16096647-robix-exelvision-level-completed.png",
@@ -502,10 +509,17 @@
                 "width": 320
             },
             {
-                "caption": "Climbing a ladder",
+                "caption": "Jumping over a bush (or whatever it is)",
                 "height": 250,
-                "image_url": "https://cdn.mobygames.com/screenshots/16096659-robix-exelvision-climbing-a-ladder.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/35e94ea4-bf71-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16096650-robix-exelvision-jumping-over-a-bush-or-whatever-it-is.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/359b92ae-bf71-11ed-9521-02420a000152.webp",
+                "width": 320
+            },
+            {
+                "caption": "Getting killed by a closing gate",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/16096653-robix-exelvision-getting-killed-by-a-closing-gate.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/35b60d00-bf71-11ed-9521-02420a000152.webp",
                 "width": 320
             },
             {
@@ -513,20 +527,6 @@
                 "height": 250,
                 "image_url": "https://cdn.mobygames.com/screenshots/16096665-robix-exelvision-title-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/361df0dc-bf71-11ed-9521-02420a000152.webp",
-                "width": 320
-            },
-            {
-                "caption": "Starting out",
-                "height": 250,
-                "image_url": "https://cdn.mobygames.com/screenshots/16096662-robix-exelvision-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/360846c4-bf71-11ed-9521-02420a000152.webp",
-                "width": 320
-            },
-            {
-                "caption": "Game over",
-                "height": 250,
-                "image_url": "https://cdn.mobygames.com/screenshots/16096656-robix-exelvision-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/35cc8e5e-bf71-11ed-9521-02420a000152.webp",
                 "width": 320
             }
         ],

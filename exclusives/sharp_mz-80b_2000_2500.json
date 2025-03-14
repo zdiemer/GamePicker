@@ -74,13 +74,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "When I opened the rack and searched it, I found a hammer.",
-                "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/18514189-monster-house-sharp-mz-80b20002500-when-i-opened-the-rack-and-se.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e2f9fb96-f834-11ee-b62e-02420a00010f.webp",
-                "width": 640
-            },
-            {
                 "caption": "Title Screen and Copyright.",
                 "height": 400,
                 "image_url": "https://cdn.mobygames.com/screenshots/18487370-monster-house-sharp-mz-80b20002500-title-screen-and-copyright.png",
@@ -88,24 +81,31 @@
                 "width": 640
             },
             {
+                "caption": "When I searched the vase, I found a key. The locations where monsters appear are determined randomly as well as the appearance location of each item.",
+                "height": 400,
+                "image_url": "https://cdn.mobygames.com/screenshots/18514185-monster-house-sharp-mz-80b20002500-when-i-searched-the-vase-i-fo.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/de93bc04-f834-11ee-b0cd-02420a000111.webp",
+                "width": 640
+            },
+            {
+                "caption": "When I opened the rack and searched it, I found a hammer.",
+                "height": 400,
+                "image_url": "https://cdn.mobygames.com/screenshots/18514189-monster-house-sharp-mz-80b20002500-when-i-opened-the-rack-and-se.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e2f9fb96-f834-11ee-b62e-02420a00010f.webp",
+                "width": 640
+            },
+            {
+                "caption": "A monster appeared in the small room to the northeast. The power of this real-time input method is the \"B key\" (BATTLE). If you don't press the \"B key\" within a certain amount of time when a monster appears, your character will die and it is game over.",
+                "height": 400,
+                "image_url": "https://cdn.mobygames.com/screenshots/18514467-monster-house-sharp-mz-80b20002500-a-monster-appeared-in-the-sma.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4f268704-f839-11ee-b700-02420a000112.webp",
+                "width": 640
+            },
+            {
                 "caption": "Starting Location. This is the entrance to the mansion.",
                 "height": 400,
                 "image_url": "https://cdn.mobygames.com/screenshots/18514125-monster-house-sharp-mz-80b20002500-starting-location-this-is-the.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/ab9352d8-f834-11ee-b700-02420a000112.webp",
-                "width": 640
-            },
-            {
-                "caption": "The explanation screen.",
-                "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/18487374-monster-house-sharp-mz-80b20002500-the-explanation-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/10dce0ac-f397-11ee-838c-02420a0001a8.webp",
-                "width": 640
-            },
-            {
-                "caption": "Other times there is chance that you will get bitten by a cobra!",
-                "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/18514393-monster-house-sharp-mz-80b20002500-other-times-there-is-chance-t.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/033f3ef4-f838-11ee-8340-02420a000112.webp",
                 "width": 640
             }
         ],

@@ -141,13 +141,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "A game in progress",
-                "height": 800,
-                "image_url": "https://cdn.mobygames.com/screenshots/6816619-rune-legend-windows-phone-a-game-in-progress.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7c7d660e-abf1-11ed-9584-02420a000136.webp",
-                "width": 480
-            },
-            {
                 "caption": "Main menu",
                 "height": 800,
                 "image_url": "https://cdn.mobygames.com/screenshots/7276977-rune-legend-windows-phone-main-menu.png",
@@ -159,6 +152,13 @@
                 "height": 800,
                 "image_url": "https://cdn.mobygames.com/screenshots/7276980-rune-legend-windows-phone-story.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/0e15453e-abf5-11ed-bbce-02420a000133.webp",
+                "width": 480
+            },
+            {
+                "caption": "A game in progress",
+                "height": 800,
+                "image_url": "https://cdn.mobygames.com/screenshots/6816619-rune-legend-windows-phone-a-game-in-progress.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7c7d660e-abf1-11ed-9584-02420a000136.webp",
                 "width": 480
             }
         ],
@@ -861,10 +861,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Main menu",
+                "caption": "A game in progress",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/7279801-pinball-league-the-juggler-windows-phone-main-menu.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1583045a-abf5-11ed-bc39-02420a000131.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/7279549-pinball-league-the-juggler-windows-phone-a-game-in-progress.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/12bf0e12-abf5-11ed-9271-02420a000133.webp",
                 "width": 800
             },
             {
@@ -875,10 +875,10 @@
                 "width": 800
             },
             {
-                "caption": "A game in progress",
+                "caption": "Main menu",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/7279549-pinball-league-the-juggler-windows-phone-a-game-in-progress.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/12bf0e12-abf5-11ed-9271-02420a000133.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/7279801-pinball-league-the-juggler-windows-phone-main-menu.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1583045a-abf5-11ed-bc39-02420a000131.webp",
                 "width": 800
             }
         ],
@@ -1017,24 +1017,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Bomb activated",
+                "caption": "Chapter 3 map",
                 "height": 800,
-                "image_url": "https://cdn.mobygames.com/screenshots/10022641-the-path-of-kara-windows-phone-bomb-activated.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/603df77c-ac0c-11ed-b6e7-02420a000135.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/10036716-the-path-of-kara-windows-phone-chapter-3-map.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/87e4b964-ac0c-11ed-83f5-02420a000134.webp",
                 "width": 480
             },
             {
-                "caption": "Match items next to the stone heads",
+                "caption": "Collecting meat",
                 "height": 800,
-                "image_url": "https://cdn.mobygames.com/screenshots/9909079-the-path-of-kara-windows-phone-match-items-next-to-the-stone-hea.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4f696c3e-ac0b-11ed-887e-02420a00012e.webp",
-                "width": 480
-            },
-            {
-                "caption": "Tutorial",
-                "height": 800,
-                "image_url": "https://cdn.mobygames.com/screenshots/10010820-the-path-of-kara-windows-phone-tutorial.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4649a42e-ac0c-11ed-962d-02420a000135.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/10020796-the-path-of-kara-windows-phone-collecting-meat.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/589223e0-ac0c-11ed-b83f-02420a000135.webp",
                 "width": 480
             },
             {
@@ -1045,10 +1038,17 @@
                 "width": 480
             },
             {
-                "caption": "Chapter 2 unlocked",
+                "caption": "Gather fireflies",
                 "height": 800,
-                "image_url": "https://cdn.mobygames.com/screenshots/10236607-the-path-of-kara-windows-phone-chapter-2-unlocked.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7ee1c3e6-ac0e-11ed-b83f-02420a000135.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/10029420-the-path-of-kara-windows-phone-gather-fireflies.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/70925a1e-ac0c-11ed-98b0-02420a000130.webp",
+                "width": 480
+            },
+            {
+                "caption": "Bomb activated",
+                "height": 800,
+                "image_url": "https://cdn.mobygames.com/screenshots/10022641-the-path-of-kara-windows-phone-bomb-activated.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/603df77c-ac0c-11ed-b6e7-02420a000135.webp",
                 "width": 480
             }
         ],
@@ -1138,27 +1138,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Medium game",
-                "height": 720,
-                "image_url": "https://cdn.mobygames.com/screenshots/12260746-dragon-windows-phone-medium-game.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b9967250-ac1f-11ed-b4f3-02420a000135.webp",
-                "width": 1200
-            },
-            {
-                "caption": "Very hard game",
-                "height": 720,
-                "image_url": "https://cdn.mobygames.com/screenshots/12307789-dragon-windows-phone-very-hard-game.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1c90103c-ac20-11ed-aeca-02420a000130.webp",
-                "width": 1200
-            },
-            {
-                "caption": "Hard game",
-                "height": 720,
-                "image_url": "https://cdn.mobygames.com/screenshots/12311042-dragon-windows-phone-hard-game.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1b2c67a4-ac20-11ed-9271-02420a000133.webp",
-                "width": 1200
-            },
-            {
                 "caption": "Select difficulty",
                 "height": 720,
                 "image_url": "https://cdn.mobygames.com/screenshots/12263042-dragon-windows-phone-select-difficulty.jpg",
@@ -1170,6 +1149,27 @@
                 "height": 720,
                 "image_url": "https://cdn.mobygames.com/screenshots/12307786-dragon-windows-phone-instructions.jpg",
                 "thumbnail_image_url": "https://cdn.mobygames.com/1c4cb1e8-ac20-11ed-aeca-02420a000130.webp",
+                "width": 1200
+            },
+            {
+                "caption": "Medium game",
+                "height": 720,
+                "image_url": "https://cdn.mobygames.com/screenshots/12260746-dragon-windows-phone-medium-game.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b9967250-ac1f-11ed-b4f3-02420a000135.webp",
+                "width": 1200
+            },
+            {
+                "caption": "Hard game",
+                "height": 720,
+                "image_url": "https://cdn.mobygames.com/screenshots/12311042-dragon-windows-phone-hard-game.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1b2c67a4-ac20-11ed-9271-02420a000133.webp",
+                "width": 1200
+            },
+            {
+                "caption": "Very hard game",
+                "height": 720,
+                "image_url": "https://cdn.mobygames.com/screenshots/12307789-dragon-windows-phone-very-hard-game.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1c90103c-ac20-11ed-aeca-02420a000130.webp",
                 "width": 1200
             }
         ],
@@ -1442,17 +1442,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Flyswatter instructions",
+                "caption": "Shoot to the left",
                 "height": 720,
-                "image_url": "https://cdn.mobygames.com/screenshots/9043998-toy-soldiers-boot-camp-windows-phone-flyswatter-instructions.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d701f056-ac03-11ed-b85a-02420a000135.webp",
-                "width": 1200
-            },
-            {
-                "caption": "Achievements screen",
-                "height": 720,
-                "image_url": "https://cdn.mobygames.com/screenshots/9049420-toy-soldiers-boot-camp-windows-phone-achievements-screen.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e0e5dc7c-ac03-11ed-9f52-02420a000130.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/9061527-toy-soldiers-boot-camp-windows-phone-shoot-to-the-left.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fb4d7994-ac03-11ed-8d2f-02420a00012e.webp",
                 "width": 1200
             },
             {
@@ -1463,17 +1456,24 @@
                 "width": 1200
             },
             {
-                "caption": "Shoot to the right",
+                "caption": "Achievements screen",
                 "height": 720,
-                "image_url": "https://cdn.mobygames.com/screenshots/9061521-toy-soldiers-boot-camp-windows-phone-shoot-to-the-right.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/faa7f4d8-ac03-11ed-8d2f-02420a00012e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/9049420-toy-soldiers-boot-camp-windows-phone-achievements-screen.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e0e5dc7c-ac03-11ed-9f52-02420a000130.webp",
                 "width": 1200
             },
             {
-                "caption": "End of game",
+                "caption": "Main menu",
                 "height": 720,
-                "image_url": "https://cdn.mobygames.com/screenshots/9057671-toy-soldiers-boot-camp-windows-phone-end-of-game.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e9558d62-ac03-11ed-bbce-02420a000133.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/10030448-toy-soldiers-boot-camp-windows-phone-main-menu.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6d67c040-ac0c-11ed-a12e-02420a000130.webp",
+                "width": 1200
+            },
+            {
+                "caption": "Guided missile view",
+                "height": 720,
+                "image_url": "https://cdn.mobygames.com/screenshots/9061524-toy-soldiers-boot-camp-windows-phone-guided-missile-view.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/faf6f736-ac03-11ed-8d2f-02420a00012e.webp",
                 "width": 1200
             }
         ],
@@ -1563,6 +1563,27 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Level completion data",
+                "height": 720,
+                "image_url": "https://cdn.mobygames.com/screenshots/12508014-ionballex-windows-phone-level-completion-data.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a3ea272e-ac21-11ed-a161-02420a000136.webp",
+                "width": 1200
+            },
+            {
+                "caption": "Level 2",
+                "height": 720,
+                "image_url": "https://cdn.mobygames.com/screenshots/12504130-ionballex-windows-phone-level-2.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a5a0bd44-ac21-11ed-887e-02420a00012e.webp",
+                "width": 1200
+            },
+            {
+                "caption": "Level 9",
+                "height": 720,
+                "image_url": "https://cdn.mobygames.com/screenshots/12505219-ionballex-windows-phone-level-9.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a10d85b4-ac21-11ed-8d2f-02420a00012e.webp",
+                "width": 1200
+            },
+            {
                 "caption": "Boss at the end of level 5",
                 "height": 720,
                 "image_url": "https://cdn.mobygames.com/screenshots/12504124-ionballex-windows-phone-boss-at-the-end-of-level-5.jpg",
@@ -1570,31 +1591,10 @@
                 "width": 1200
             },
             {
-                "caption": "Level 8",
+                "caption": "Level 1",
                 "height": 720,
-                "image_url": "https://cdn.mobygames.com/screenshots/12508029-ionballex-windows-phone-level-8.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a7b05b4e-ac21-11ed-a161-02420a000136.webp",
-                "width": 1200
-            },
-            {
-                "caption": "Game over",
-                "height": 720,
-                "image_url": "https://cdn.mobygames.com/screenshots/12508038-ionballex-windows-phone-game-over.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/aa2a74a4-ac21-11ed-a161-02420a000136.webp",
-                "width": 1200
-            },
-            {
-                "caption": "Loading screen",
-                "height": 720,
-                "image_url": "https://cdn.mobygames.com/screenshots/12504121-ionballex-windows-phone-loading-screen.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a36dd570-ac21-11ed-887e-02420a00012e.webp",
-                "width": 1200
-            },
-            {
-                "caption": "Achievements ",
-                "height": 720,
-                "image_url": "https://cdn.mobygames.com/screenshots/12508041-ionballex-windows-phone-achievements.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ab2007ca-ac21-11ed-a161-02420a000136.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/12505213-ionballex-windows-phone-level-1.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a0b35c60-ac21-11ed-8d2f-02420a00012e.webp",
                 "width": 1200
             }
         ],
@@ -1675,38 +1675,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Chapter 2, level 4",
+                "caption": "Level 12 showing a power-up that allows the puck to cut trees.",
                 "height": 800,
-                "image_url": "https://cdn.mobygames.com/screenshots/10382342-fable-coin-golf-windows-phone-chapter-2-level-4.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ba941514-ac0f-11ed-98b0-02420a000130.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/12379309-fable-coin-golf-windows-phone-level-12-showing-a-power-up-that-a.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/af7f5650-ac20-11ed-887e-02420a00012e.webp",
                 "width": 480
             },
             {
-                "caption": "A defeated boss means chapter 1 is complete!",
+                "caption": "Hole in one!",
                 "height": 800,
-                "image_url": "https://cdn.mobygames.com/screenshots/12203036-fable-coin-golf-windows-phone-a-defeated-boss-means-chapter-1-is.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0f11b3da-ac1f-11ed-b7c8-02420a000136.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/12015346-fable-coin-golf-windows-phone-hole-in-one.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/725a1948-ac1d-11ed-927d-02420a00012f.webp",
                 "width": 480
             },
             {
-                "caption": "Chapter selection",
+                "caption": "Initial instructions",
                 "height": 800,
-                "image_url": "https://cdn.mobygames.com/screenshots/12004107-fable-coin-golf-windows-phone-chapter-selection.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5705bf76-ac1d-11ed-962d-02420a000135.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/12375993-fable-coin-golf-windows-phone-initial-instructions.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a7aafed4-ac20-11ed-83c1-02420a000131.webp",
                 "width": 480
             },
             {
-                "caption": "Chapter 2, level 3",
+                "caption": "Chapter 2, level 11",
                 "height": 800,
-                "image_url": "https://cdn.mobygames.com/screenshots/10369951-fable-coin-golf-windows-phone-chapter-2-level-3.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a028a488-ac0f-11ed-b013-02420a00012e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/10375960-fable-coin-golf-windows-phone-chapter-2-level-11.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ae163c22-ac0f-11ed-9915-02420a000134.webp",
                 "width": 480
             },
             {
-                "caption": "Lovely introduction to level 7",
+                "caption": "A beautiful introduction",
                 "height": 800,
-                "image_url": "https://cdn.mobygames.com/screenshots/12376746-fable-coin-golf-windows-phone-lovely-introduction-to-level-7.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/aa06d900-ac20-11ed-b7c8-02420a000136.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/12376426-fable-coin-golf-windows-phone-a-beautiful-introduction.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/aac79654-ac20-11ed-b950-02420a00012d.webp",
                 "width": 480
             }
         ],

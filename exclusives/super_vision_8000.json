@@ -81,8 +81,38 @@
                 "1978-12"
             ]
         ],
-        "sample_cover": null,
-        "sample_screenshots": [],
+        "sample_cover": {
+            "height": 381,
+            "image_url": "https://cdn.mobygames.com/screenshots/18545996-missilevader-super-vision-8000-choose-game-mode-on-0-aliens-cant.png",
+            "platforms": [
+                "Super Vision 8000"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/8a0199d8-fe4a-11ee-ba37-02420a00010f.webp",
+            "width": 511
+        },
+        "sample_screenshots": [
+            {
+                "caption": "I lost. ",
+                "height": 476,
+                "image_url": "https://cdn.mobygames.com/screenshots/18546008-missilevader-super-vision-8000-i-lost.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d83e8fa2-fe4a-11ee-bb56-02420a00010f.webp",
+                "width": 641
+            },
+            {
+                "caption": "Choose Game Mode. On 0 Aliens can't fire.  ",
+                "height": 381,
+                "image_url": "https://cdn.mobygames.com/screenshots/18545996-missilevader-super-vision-8000-choose-game-mode-on-0-aliens-cant.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8a0199d8-fe4a-11ee-ba37-02420a00010f.webp",
+                "width": 511
+            },
+            {
+                "caption": "Uh oh, the boss is approaching!",
+                "height": 476,
+                "image_url": "https://cdn.mobygames.com/screenshots/18546004-missilevader-super-vision-8000-uh-oh-the-boss-is-approaching.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c3fc21da-fe4a-11ee-b464-02420a000110.webp",
+                "width": 639
+            }
+        ],
         "title": "Missilevader"
     },
     {
@@ -317,8 +347,52 @@
                 "1979"
             ]
         ],
-        "sample_cover": null,
-        "sample_screenshots": [],
+        "sample_cover": {
+            "height": 383,
+            "image_url": "https://cdn.mobygames.com/screenshots/18546056-gunprofessional-super-vision-8000-mode-select-screen.png",
+            "platforms": [
+                "Super Vision 8000"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/ceeddc40-fe4b-11ee-bb56-02420a00010f.webp",
+            "width": 514
+        },
+        "sample_screenshots": [
+            {
+                "caption": "The shootout has started",
+                "height": 389,
+                "image_url": "https://cdn.mobygames.com/screenshots/18546060-gunprofessional-super-vision-8000-the-shootout-has-started.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cf661228-fe4b-11ee-bd6e-02420a000111.webp",
+                "width": 512
+            },
+            {
+                "caption": "Better give up, there's a new Sheriff in town!",
+                "height": 385,
+                "image_url": "https://cdn.mobygames.com/screenshots/18546072-gunprofessional-super-vision-8000-better-give-up-theres-a-new-sh.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d0a2f804-fe4b-11ee-9ccc-02420a000112.webp",
+                "width": 513
+            },
+            {
+                "caption": "Mode select screen",
+                "height": 383,
+                "image_url": "https://cdn.mobygames.com/screenshots/18546056-gunprofessional-super-vision-8000-mode-select-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ceeddc40-fe4b-11ee-bb56-02420a00010f.webp",
+                "width": 514
+            },
+            {
+                "caption": "Not well aimed",
+                "height": 385,
+                "image_url": "https://cdn.mobygames.com/screenshots/18546068-gunprofessional-super-vision-8000-not-well-aimed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d04624d0-fe4b-11ee-b585-02420a000110.webp",
+                "width": 513
+            },
+            {
+                "caption": "He got me",
+                "height": 387,
+                "image_url": "https://cdn.mobygames.com/screenshots/18546064-gunprofessional-super-vision-8000-he-got-me.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cfd729e0-fe4b-11ee-bb56-02420a00010f.webp",
+                "width": 511
+            }
+        ],
         "title": "Gunprofessional"
     },
     {

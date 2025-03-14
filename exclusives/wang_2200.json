@@ -382,17 +382,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "And the Ball hits the Pin 444",
-                "height": 352,
-                "image_url": "https://cdn.mobygames.com/screenshots/17165309-bowl2-wang-2200-and-the-ball-hits-the-pin-444.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4e060cda-05cf-11ee-9253-02420a000128.webp",
-                "width": 640
-            },
-            {
                 "caption": "And a Strike!",
                 "height": 352,
                 "image_url": "https://cdn.mobygames.com/screenshots/17165317-bowl2-wang-2200-and-a-strike.jpg",
                 "thumbnail_image_url": "https://cdn.mobygames.com/50724cf4-05cf-11ee-ad89-02420a000127.webp",
+                "width": 640
+            },
+            {
+                "caption": "The Startsceen without any Instructions",
+                "height": 352,
+                "image_url": "https://cdn.mobygames.com/screenshots/17165297-bowl2-wang-2200-the-startsceen-without-any-instructions.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4a0e55f6-05cf-11ee-9253-02420a000128.webp",
                 "width": 640
             },
             {
@@ -403,10 +403,10 @@
                 "width": 640
             },
             {
-                "caption": "First Throw",
+                "caption": "The Points at the End for me :)",
                 "height": 352,
-                "image_url": "https://cdn.mobygames.com/screenshots/17165301-bowl2-wang-2200-first-throw.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4b91e942-05cf-11ee-aff1-02420a000127.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/17165321-bowl2-wang-2200-the-points-at-the-end-for-me.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/516d1a62-05cf-11ee-9253-02420a000128.webp",
                 "width": 640
             },
             {
@@ -512,24 +512,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "A Collision!",
-                "height": 352,
-                "image_url": "https://cdn.mobygames.com/screenshots/17164578-asteroid-space-challenge-wang-2200-a-collision.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/07719a8c-0570-11ee-a124-02420a000127.webp",
-                "width": 640
-            },
-            {
-                "caption": "I made it to the Right :)",
-                "height": 352,
-                "image_url": "https://cdn.mobygames.com/screenshots/17164574-asteroid-space-challenge-wang-2200-i-made-it-to-the-right.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/062da652-0570-11ee-90fb-02420a000127.webp",
-                "width": 640
-            },
-            {
                 "caption": "Instructions",
                 "height": 352,
                 "image_url": "https://cdn.mobygames.com/screenshots/17164566-asteroid-space-challenge-wang-2200-instructions.jpg",
                 "thumbnail_image_url": "https://cdn.mobygames.com/03468a62-0570-11ee-90fb-02420a000127.webp",
+                "width": 640
+            },
+            {
+                "caption": "Gameplay",
+                "height": 352,
+                "image_url": "https://cdn.mobygames.com/screenshots/17164570-asteroid-space-challenge-wang-2200-gameplay.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0500c35e-0570-11ee-90fb-02420a000127.webp",
+                "width": 640
+            },
+            {
+                "caption": "A Collision!",
+                "height": 352,
+                "image_url": "https://cdn.mobygames.com/screenshots/17164578-asteroid-space-challenge-wang-2200-a-collision.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/07719a8c-0570-11ee-a124-02420a000127.webp",
                 "width": 640
             },
             {
@@ -540,10 +540,10 @@
                 "width": 640
             },
             {
-                "caption": "Gameplay",
+                "caption": "I made it to the Right :)",
                 "height": 352,
-                "image_url": "https://cdn.mobygames.com/screenshots/17164570-asteroid-space-challenge-wang-2200-gameplay.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0500c35e-0570-11ee-90fb-02420a000127.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/17164574-asteroid-space-challenge-wang-2200-i-made-it-to-the-right.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/062da652-0570-11ee-90fb-02420a000127.webp",
                 "width": 640
             }
         ],
@@ -810,17 +810,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Startscreen with the Two Teams",
-                "height": 352,
-                "image_url": "https://cdn.mobygames.com/screenshots/17165338-fball-wang-2200-startscreen-with-the-two-teams.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b71ea83e-05d0-11ee-ad89-02420a000127.webp",
-                "width": 640
-            },
-            {
                 "caption": "The Gameboard",
                 "height": 352,
                 "image_url": "https://cdn.mobygames.com/screenshots/17165342-fball-wang-2200-the-gameboard.jpg",
                 "thumbnail_image_url": "https://cdn.mobygames.com/b7cabf52-05d0-11ee-9253-02420a000128.webp",
+                "width": 640
+            },
+            {
+                "caption": "Startscreen with the Two Teams",
+                "height": 352,
+                "image_url": "https://cdn.mobygames.com/screenshots/17165338-fball-wang-2200-startscreen-with-the-two-teams.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b71ea83e-05d0-11ee-ad89-02420a000127.webp",
                 "width": 640
             }
         ],
@@ -1071,13 +1071,6 @@
                 "width": 640
             },
             {
-                "caption": "The Shot is Blocked",
-                "height": 352,
-                "image_url": "https://cdn.mobygames.com/screenshots/17165550-wang-2200t-hockey-game-wang-2200-the-shot-is-blocked.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0f891c32-05d3-11ee-ac64-02420a000127.webp",
-                "width": 640
-            },
-            {
                 "caption": "The Statistics between the Periods",
                 "height": 352,
                 "image_url": "https://cdn.mobygames.com/screenshots/17165554-wang-2200t-hockey-game-wang-2200-the-statistics-between-the-peri.jpg",
@@ -1085,17 +1078,24 @@
                 "width": 640
             },
             {
-                "caption": "A Goal is Scored",
-                "height": 352,
-                "image_url": "https://cdn.mobygames.com/screenshots/17165538-wang-2200t-hockey-game-wang-2200-a-goal-is-scored.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0e9e5fa8-05d3-11ee-9b21-02420a000128.webp",
-                "width": 640
-            },
-            {
                 "caption": "The Game",
                 "height": 352,
                 "image_url": "https://cdn.mobygames.com/screenshots/17165518-wang-2200t-hockey-game-wang-2200-the-game.jpg",
                 "thumbnail_image_url": "https://cdn.mobygames.com/0db7d952-05d3-11ee-ad89-02420a000127.webp",
+                "width": 640
+            },
+            {
+                "caption": "The Shot is Blocked",
+                "height": 352,
+                "image_url": "https://cdn.mobygames.com/screenshots/17165550-wang-2200t-hockey-game-wang-2200-the-shot-is-blocked.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0f891c32-05d3-11ee-ac64-02420a000127.webp",
+                "width": 640
+            },
+            {
+                "caption": "A Goal is Scored",
+                "height": 352,
+                "image_url": "https://cdn.mobygames.com/screenshots/17165538-wang-2200t-hockey-game-wang-2200-a-goal-is-scored.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0e9e5fa8-05d3-11ee-9b21-02420a000128.webp",
                 "width": 640
             }
         ],
@@ -1889,17 +1889,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Control Room getting Destroyed so i Lost",
+                "caption": "The Starscreen with Instructions",
                 "height": 352,
-                "image_url": "https://cdn.mobygames.com/screenshots/17165279-ballistic-missile-war-game-wang-2200-control-room-getting-destro.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9690bb32-05cd-11ee-a445-02420a000128.webp",
-                "width": 640
-            },
-            {
-                "caption": "Got a Missile",
-                "height": 352,
-                "image_url": "https://cdn.mobygames.com/screenshots/17165266-ballistic-missile-war-game-wang-2200-got-a-missile.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/91bf9a42-05cd-11ee-9b77-02420a000128.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/17165262-ballistic-missile-war-game-wang-2200-the-starscreen-with-instruc.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9023814e-05cd-11ee-aff1-02420a000127.webp",
                 "width": 640
             },
             {
@@ -1917,10 +1910,17 @@
                 "width": 640
             },
             {
-                "caption": "The Starscreen with Instructions",
+                "caption": "Got a Missile",
                 "height": 352,
-                "image_url": "https://cdn.mobygames.com/screenshots/17165262-ballistic-missile-war-game-wang-2200-the-starscreen-with-instruc.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9023814e-05cd-11ee-aff1-02420a000127.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/17165266-ballistic-missile-war-game-wang-2200-got-a-missile.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/91bf9a42-05cd-11ee-9b77-02420a000128.webp",
+                "width": 640
+            },
+            {
+                "caption": "Control Room getting Destroyed so i Lost",
+                "height": 352,
+                "image_url": "https://cdn.mobygames.com/screenshots/17165279-ballistic-missile-war-game-wang-2200-control-room-getting-destro.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9690bb32-05cd-11ee-a445-02420a000128.webp",
                 "width": 640
             }
         ],
@@ -2069,6 +2069,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "The Game begins",
+                "height": 352,
+                "image_url": "https://cdn.mobygames.com/screenshots/17174302-3-dimensional-tic-tac-toe-wang-2200-the-game-begins.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/de95dbf8-0846-11ee-947b-02420a000140.webp",
+                "width": 640
+            },
+            {
                 "caption": "I Lost :(",
                 "height": 352,
                 "image_url": "https://cdn.mobygames.com/screenshots/17174306-3-dimensional-tic-tac-toe-wang-2200-i-lost.jpg",
@@ -2080,13 +2087,6 @@
                 "height": 352,
                 "image_url": "https://cdn.mobygames.com/screenshots/17174298-3-dimensional-tic-tac-toe-wang-2200-startscreen.jpg",
                 "thumbnail_image_url": "https://cdn.mobygames.com/dd6bd304-0846-11ee-bb75-02420a000140.webp",
-                "width": 640
-            },
-            {
-                "caption": "The Game begins",
-                "height": 352,
-                "image_url": "https://cdn.mobygames.com/screenshots/17174302-3-dimensional-tic-tac-toe-wang-2200-the-game-begins.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/de95dbf8-0846-11ee-947b-02420a000140.webp",
                 "width": 640
             }
         ],

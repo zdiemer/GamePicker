@@ -102,6 +102,13 @@
                 "width": 320
             },
             {
+                "caption": "Character and ability selection",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16524695-her-knights-all-for-the-princess-gp32-character-and-ability-sele.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fe1fbcf4-c233-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
                 "caption": "Title screen",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16524689-her-knights-all-for-the-princess-gp32-title-screen.png",
@@ -109,17 +116,10 @@
                 "width": 320
             },
             {
-                "caption": "Intro before the action",
+                "caption": "Moving to collect the spoils after slaughtering everyone",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16525653-her-knights-all-for-the-princess-gp32-intro-before-the-action.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3a0477aa-c234-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
-                "caption": "Training mode is still a bloody affair",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16525650-her-knights-all-for-the-princess-gp32-training-mode-is-still-a-b.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/39e14654-c234-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16524611-her-knights-all-for-the-princess-gp32-moving-to-collect-the-spoi.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f49b021a-c233-11ed-ab6b-02420a000194.webp",
                 "width": 320
             }
         ],
@@ -227,13 +227,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Ruby vs Goritabum!",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16663941-little-wizard-gp32-ruby-vs-goritabum.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/95237438-c27a-11ed-bae4-02420a0001a1.webp",
-                "width": 320
-            },
-            {
                 "caption": "Ruby vs Ruby mirror match.",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16543620-little-wizard-gp32-ruby-vs-ruby-mirror-match.png",
@@ -241,24 +234,31 @@
                 "width": 320
             },
             {
-                "caption": "Title screen",
+                "caption": "In the single-player mode, professors teach new magic in between fights.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16543545-little-wizard-gp32-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b18babe0-c239-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16544046-little-wizard-gp32-in-the-single-player-mode-professors-teach-ne.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/df9c54f8-c239-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
-                "caption": "Slide kick might not be too effective while she's jumping...",
+                "caption": "You win!",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16543617-little-wizard-gp32-slide-kick-might-not-be-too-effective-while-s.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b9e129c8-c239-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16544049-little-wizard-gp32-you-win.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dfc87d76-c239-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
-                "caption": "Main menu",
+                "caption": "Starting off round 1.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16543542-little-wizard-gp32-main-menu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b14a5460-c239-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16664049-little-wizard-gp32-starting-off-round-1.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b8e5d14a-c27a-11ed-bae4-02420a0001a1.webp",
+                "width": 320
+            },
+            {
+                "caption": "Ruby vs Goritabum!",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16663941-little-wizard-gp32-ruby-vs-goritabum.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/95237438-c27a-11ed-bae4-02420a0001a1.webp",
                 "width": 320
             }
         ],

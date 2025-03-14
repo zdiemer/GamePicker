@@ -83,13 +83,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Third stage",
-                "height": 250,
-                "image_url": "https://cdn.mobygames.com/screenshots/4018885-galaxion-alice-3290-third-stage.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ff181dd8-aba2-11ed-9d05-02420a000198.webp",
-                "width": 320
-            },
-            {
                 "caption": "Title screen",
                 "height": 250,
                 "image_url": "https://cdn.mobygames.com/screenshots/4048100-galaxion-alice-3290-title-screen.png",
@@ -97,24 +90,31 @@
                 "width": 320
             },
             {
-                "caption": "Sole alien remaining",
-                "height": 250,
-                "image_url": "https://cdn.mobygames.com/screenshots/4019305-galaxion-alice-3290-sole-alien-remaining.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0323ddae-aba3-11ed-9d05-02420a000198.webp",
-                "width": 320
-            },
-            {
-                "caption": "Player getting killed",
-                "height": 250,
-                "image_url": "https://cdn.mobygames.com/screenshots/4019507-galaxion-alice-3290-player-getting-killed.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0510c8fc-aba3-11ed-9d05-02420a000198.webp",
-                "width": 320
-            },
-            {
                 "caption": "Instructions",
                 "height": 250,
                 "image_url": "https://cdn.mobygames.com/screenshots/4020194-galaxion-alice-3290-instructions.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/0a8ae060-aba3-11ed-9d05-02420a000198.webp",
+                "width": 320
+            },
+            {
+                "caption": "Second stage",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/4019080-galaxion-alice-3290-second-stage.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/00e31c94-aba3-11ed-9d05-02420a000198.webp",
+                "width": 320
+            },
+            {
+                "caption": "Invader getting blasted",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/4019697-galaxion-alice-3290-invader-getting-blasted.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/068d388c-aba3-11ed-9d05-02420a000198.webp",
+                "width": 320
+            },
+            {
+                "caption": "Game over",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/4018708-galaxion-alice-3290-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fdb6fc70-aba2-11ed-9d05-02420a000198.webp",
                 "width": 320
             }
         ],
@@ -195,10 +195,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title screen",
+                "caption": "Loading screen",
                 "height": 250,
-                "image_url": "https://cdn.mobygames.com/screenshots/4047375-alberthe-alice-3290-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f8cff1ca-aba3-11ed-a5ec-02420a00019b.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/4047193-alberthe-alice-3290-loading-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f6d396b0-aba3-11ed-a5ec-02420a00019b.webp",
                 "width": 320
             },
             {
@@ -209,24 +209,24 @@
                 "width": 320
             },
             {
+                "caption": "Title screen",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/4047375-alberthe-alice-3290-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f8cff1ca-aba3-11ed-a5ec-02420a00019b.webp",
+                "width": 320
+            },
+            {
+                "caption": "Getting knocked off the pyramid",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/4046188-alberthe-alice-3290-getting-knocked-off-the-pyramid.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ee7e8240-aba3-11ed-a5ec-02420a00019b.webp",
+                "width": 320
+            },
+            {
                 "caption": "Enemies appearing",
                 "height": 250,
                 "image_url": "https://cdn.mobygames.com/screenshots/4046390-alberthe-alice-3290-enemies-appearing.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/f027dfba-aba3-11ed-a5ec-02420a00019b.webp",
-                "width": 320
-            },
-            {
-                "caption": "Second stage - here each platform has to be moved over twice",
-                "height": 250,
-                "image_url": "https://cdn.mobygames.com/screenshots/4045961-alberthe-alice-3290-second-stage-here-each-platform-has-to-be-mo.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ec89696e-aba3-11ed-a5ec-02420a00019b.webp",
-                "width": 320
-            },
-            {
-                "caption": "Control setup",
-                "height": 250,
-                "image_url": "https://cdn.mobygames.com/screenshots/4046791-alberthe-alice-3290-control-setup.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f38d0ae0-aba3-11ed-a5ec-02420a00019b.webp",
                 "width": 320
             }
         ],
@@ -316,11 +316,18 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Loading screen",
-                "height": 270,
-                "image_url": "https://cdn.mobygames.com/screenshots/4825699-galixian-alice-3290-loading-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/afc9b406-abc2-11ed-be6f-02420a000197.webp",
-                "width": 504
+                "caption": "Stage 2",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/4825297-galixian-alice-3290-stage-2.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ab01a33e-abc2-11ed-be6f-02420a000197.webp",
+                "width": 320
+            },
+            {
+                "caption": "Title screen",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/4825568-galixian-alice-3290-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ae4d4b4c-abc2-11ed-be6f-02420a000197.webp",
+                "width": 320
             },
             {
                 "caption": "Stage 5",
@@ -341,13 +348,6 @@
                 "height": 250,
                 "image_url": "https://cdn.mobygames.com/screenshots/4856652-galixian-alice-3290-stage-1.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/f7c02e38-abc3-11ed-9ae2-02420a0001a0.webp",
-                "width": 320
-            },
-            {
-                "caption": "Stage 6",
-                "height": 250,
-                "image_url": "https://cdn.mobygames.com/screenshots/4856529-galixian-alice-3290-stage-6.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f61f6058-abc3-11ed-9ae2-02420a0001a0.webp",
                 "width": 320
             }
         ],
@@ -437,17 +437,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Instructions",
+                "caption": "Starting out",
                 "height": 250,
-                "image_url": "https://cdn.mobygames.com/screenshots/4448952-pillage-cosmique-alice-3290-instructions.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/51ec9bbe-abb3-11ed-9e47-02420a00019f.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/4445719-pillage-cosmique-alice-3290-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/30f86e88-abb3-11ed-b951-02420a000197.webp",
                 "width": 320
             },
             {
-                "caption": "Getting a high score",
+                "caption": "Getting killed",
                 "height": 250,
-                "image_url": "https://cdn.mobygames.com/screenshots/4449952-pillage-cosmique-alice-3290-getting-a-high-score.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5c22506a-abb3-11ed-87d1-02420a000197.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/4448176-pillage-cosmique-alice-3290-getting-killed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4a42c546-abb3-11ed-8b6f-02420a00019c.webp",
                 "width": 320
             },
             {
@@ -458,17 +458,17 @@
                 "width": 320
             },
             {
-                "caption": "Alien shot down",
-                "height": 250,
-                "image_url": "https://cdn.mobygames.com/screenshots/4445447-pillage-cosmique-alice-3290-alien-shot-down.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2e629c20-abb3-11ed-b951-02420a000197.webp",
-                "width": 320
-            },
-            {
                 "caption": "Aliens are getting away with the fuel. Stop them!",
                 "height": 250,
                 "image_url": "https://cdn.mobygames.com/screenshots/4448554-pillage-cosmique-alice-3290-aliens-are-getting-away-with-the-fue.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/4dbc8a90-abb3-11ed-8048-02420a000198.webp",
+                "width": 320
+            },
+            {
+                "caption": "Alien shot down",
+                "height": 250,
+                "image_url": "https://cdn.mobygames.com/screenshots/4445447-pillage-cosmique-alice-3290-alien-shot-down.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2e629c20-abb3-11ed-b951-02420a000197.webp",
                 "width": 320
             }
         ],

@@ -3,6 +3,7 @@ import datetime
 from excel_game import FuzzyDateType
 from game_grouping import GameGrouping
 from game_selector import GameSelector
+from picker_enums import PickerMode
 
 ALL_GAMES = GameSelector(
     name="All Games",
@@ -21,4 +22,5 @@ ALL_GAMES = GameSelector(
         lambda g: g.release_year,
         reverse=True,
     ),
+    run_on_modes=set([PickerMode.ALL]),
 )

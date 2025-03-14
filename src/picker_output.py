@@ -32,9 +32,9 @@ def get_group_output(
     if len(selector.grouping.subgroupings) == level:
         games: List[PickedGame] = sorted(
             group, key=selector.sort, reverse=selector.reverse_sort
-        )[: grouping.take]
+        )[: grouping.group_size]
 
-        if grouping.take is not None and grouping.should_rank:
+        if grouping.group_size is not None and grouping.should_rank:
             # May need to elect a new highest priority game
             highest: Optional[PickedGame] = None
 
@@ -52,7 +52,7 @@ def get_group_output(
 
             highest.highest_priority = True
 
-        def get_game_string(g: PickedGame) -> str:
+        def get_game_string(index: int, g: PickedGame) -> str:
             with_year = (
                 g.game.game_platform_hash_id in name_collisions
                 and name_collisions[g.game.game_platform_hash_id] > 1
@@ -60,6 +60,7 @@ def get_group_output(
 
             return g.as_str(
                 selector.include_platform,
+                # TODO: Include index in prefix/suffix.
                 selector.custom_prefix(g.game),
                 selector.custom_suffix(g.game),
                 with_year=with_year,
@@ -70,8 +71,8 @@ def get_group_output(
 
         output += (
             "\n".join(
-                f"{spacer * (level + 1)}{markdown_indent}{get_game_string(g)}"
-                for g in games
+                f"{spacer * (level + 1)}{markdown_indent}{get_game_string(i, g)}"
+                for i, g in enumerate(games)
             )
             + "\n\n"
         )

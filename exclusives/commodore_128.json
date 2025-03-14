@@ -23,15 +23,6 @@
             },
             {
                 "category": {
-                    "id": 1,
-                    "name": "Basic Genres"
-                },
-                "description": null,
-                "id": 5,
-                "name": "Sports"
-            },
-            {
-                "category": {
                     "id": 2,
                     "name": "Perspective"
                 },
@@ -47,6 +38,15 @@
                 "description": null,
                 "id": 131,
                 "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 15,
+                "name": "Real-time"
             },
             {
                 "category": {
@@ -99,10 +99,10 @@
                 "width": 384
             },
             {
-                "caption": "Loading text",
+                "caption": "Loading screen",
                 "height": 272,
-                "image_url": "https://cdn.mobygames.com/screenshots/6775986-kikstart-off-road-simulator-commodore-128-loading-text.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/21105754-abf1-11ed-a599-02420a000132.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/6775125-kikstart-off-road-simulator-commodore-128-loading-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/20ee8aa2-abf1-11ed-8ce3-02420a000131.webp",
                 "width": 384
             },
             {
@@ -113,10 +113,10 @@
                 "width": 384
             },
             {
-                "caption": "Loading screen",
+                "caption": "Loading text",
                 "height": 272,
-                "image_url": "https://cdn.mobygames.com/screenshots/6775125-kikstart-off-road-simulator-commodore-128-loading-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/20ee8aa2-abf1-11ed-8ce3-02420a000131.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/6775986-kikstart-off-road-simulator-commodore-128-loading-text.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/21105754-abf1-11ed-a599-02420a000132.webp",
                 "width": 384
             },
             {
@@ -186,17 +186,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Starting out",
+                "caption": "Crashing into a wall",
                 "height": 216,
-                "image_url": "https://cdn.mobygames.com/screenshots/2609138-the-last-v8-commodore-128-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5ca1a004-ab81-11ed-b9a3-02420a000197.webp",
-                "width": 336
-            },
-            {
-                "caption": "Loading screen",
-                "height": 216,
-                "image_url": "https://cdn.mobygames.com/screenshots/2608960-the-last-v8-commodore-128-loading-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5c000866-ab81-11ed-b9a3-02420a000197.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2609732-the-last-v8-commodore-128-crashing-into-a-wall.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5ea1caf0-ab81-11ed-b9a3-02420a000197.webp",
                 "width": 336
             },
             {
@@ -214,10 +207,17 @@
                 "width": 336
             },
             {
-                "caption": "Crashing into a wall",
+                "caption": "Loading screen",
                 "height": 216,
-                "image_url": "https://cdn.mobygames.com/screenshots/2609732-the-last-v8-commodore-128-crashing-into-a-wall.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5ea1caf0-ab81-11ed-b9a3-02420a000197.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2608960-the-last-v8-commodore-128-loading-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5c000866-ab81-11ed-b9a3-02420a000197.webp",
+                "width": 336
+            },
+            {
+                "caption": "Starting out",
+                "height": 216,
+                "image_url": "https://cdn.mobygames.com/screenshots/2609138-the-last-v8-commodore-128-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5ca1a004-ab81-11ed-b9a3-02420a000197.webp",
                 "width": 336
             }
         ],

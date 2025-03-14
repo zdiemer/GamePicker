@@ -1,5 +1,6 @@
 from game_grouping import GameGrouping
 from game_selector import GameSelector
+from picker_enums import PickerMode
 
 TOP_GAMES = GameSelector(
     lambda games: [
@@ -15,4 +16,5 @@ TOP_GAMES = GameSelector(
     reverse_sort=True,
     custom_suffix=lambda g: f" - {g.combined_rating:.0%}",
     name="Top Games",
+    run_on_modes=set([PickerMode.ALL]),
 )

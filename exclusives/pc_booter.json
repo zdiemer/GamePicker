@@ -65,24 +65,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The (rather trippy) high score screen.",
+                "caption": "Scoring (demo version)",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/6798688-digger-pc-booter-the-rather-trippy-high-score-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4f7e2332-abf1-11ed-a599-02420a000132.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/8236546-digger-pc-booter-scoring-demo-version.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8f558d3c-abfc-11ed-b013-02420a00012e.webp",
                 "width": 320
             },
             {
-                "caption": "Level 2",
+                "caption": "Level 8 (If you manage to complete this level you will return to level 6)",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/1778183-digger-pc-booter-level-2.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/280f1c76-ab78-11ed-837d-02420a00019b.webp",
-                "width": 320
-            },
-            {
-                "caption": "Level 4",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/1779383-digger-pc-booter-level-4.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2a649f78-ab78-11ed-837d-02420a00019b.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/173445-digger-pc-booter-level-8-if-you-manage-to-complete-this-level-yo.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f6ca57dc-ab6a-11ed-b042-02420a00019f.webp",
                 "width": 320
             },
             {
@@ -93,10 +86,17 @@
                 "width": 320
             },
             {
-                "caption": "Level 8 (If you manage to complete this level you will return to level 6)",
+                "caption": "Level 2",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/173445-digger-pc-booter-level-8-if-you-manage-to-complete-this-level-yo.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f6ca57dc-ab6a-11ed-b042-02420a00019f.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/1778183-digger-pc-booter-level-2.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/280f1c76-ab78-11ed-837d-02420a00019b.webp",
+                "width": 320
+            },
+            {
+                "caption": "Digger gameplay",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1778931-digger-pc-booter-digger-gameplay.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/298458e6-ab78-11ed-837d-02420a00019b.webp",
                 "width": 320
             }
         ],
@@ -191,10 +191,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Slowly painting the board...",
+                "caption": "'Title' screen",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/2372071-rollo-and-the-brush-brothers-pc-booter-slowly-painting-the-board.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2fbf3d4c-ab7e-11ed-a44e-02420a000199.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2371652-rollo-and-the-brush-brothers-pc-booter-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2e445d4e-ab7e-11ed-a44e-02420a000199.webp",
                 "width": 320
             },
             {
@@ -202,6 +202,13 @@
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/2371825-rollo-and-the-brush-brothers-pc-booter-start-of-game.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/2eccda16-ab7e-11ed-a44e-02420a000199.webp",
+                "width": 320
+            },
+            {
+                "caption": "Slowly painting the board...",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/2372071-rollo-and-the-brush-brothers-pc-booter-slowly-painting-the-board.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2fbf3d4c-ab7e-11ed-a44e-02420a000199.webp",
                 "width": 320
             },
             {
@@ -216,13 +223,6 @@
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/2371938-rollo-and-the-brush-brothers-pc-booter-a-game-in-progress.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/2f441eaa-ab7e-11ed-a44e-02420a000199.webp",
-                "width": 320
-            },
-            {
-                "caption": "'Title' screen",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/2371652-rollo-and-the-brush-brothers-pc-booter-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2e445d4e-ab7e-11ed-a44e-02420a000199.webp",
                 "width": 320
             }
         ],
@@ -312,20 +312,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Round 4 - In this level, the upper left platform was eliminated...giving more space to fly. The wind now is blowing upwards.",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/1970233-conquest-pc-booter-round-4-in-this-level-the-upper-left-platform.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f4b70c9c-ab79-11ed-a188-02420a00019a.webp",
-                "width": 320
-            },
-            {
-                "caption": "The Conquest Title Screen",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/1971205-conquest-pc-booter-the-conquest-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f708373c-ab79-11ed-b721-02420a00019b.webp",
-                "width": 320
-            },
-            {
                 "caption": "Watch out for dragons...you don't want to be the next flying fried chicken!",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/1970403-conquest-pc-booter-watch-out-for-dragonsyou-dont-want-to-be-the-.png",
@@ -333,17 +319,31 @@
                 "width": 320
             },
             {
-                "caption": "ACTION!",
+                "caption": "Instructions (demo version)",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/1971380-conquest-pc-booter-action.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f7803476-ab79-11ed-b721-02420a00019b.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/8236549-conquest-pc-booter-instructions-demo-version.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8f800828-abfc-11ed-b013-02420a00012e.webp",
                 "width": 320
             },
             {
-                "caption": "At the start of each new level, the enemy birds \"spawn\" first. While in they are in protection mode, you can wait and hover above them and land on them when they try to take off.",
+                "caption": "Round 4 - In this level, the upper left platform was eliminated...giving more space to fly. The wind now is blowing upwards.",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/1970068-conquest-pc-booter-at-the-start-of-each-new-level-the-enemy-bird.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f44a1290-ab79-11ed-a188-02420a00019a.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/1970233-conquest-pc-booter-round-4-in-this-level-the-upper-left-platform.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f4b70c9c-ab79-11ed-a188-02420a00019a.webp",
+                "width": 320
+            },
+            {
+                "caption": "Defeat the enemy birds by flying over them and landing on them. This will make them turn into eggs which you can collect for points.",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1692046-conquest-pc-booter-defeat-the-enemy-birds-by-flying-over-them-an.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/634669da-ab77-11ed-a44e-02420a000199.webp",
+                "width": 320
+            },
+            {
+                "caption": "Scoring (demo version)",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/8170970-conquest-pc-booter-scoring-demo-version.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/103cc574-abfc-11ed-897b-02420a00012d.webp",
                 "width": 320
             }
         ],
@@ -422,10 +422,10 @@
                 "width": 320
             },
             {
-                "caption": "A moon bug steals some uranium.",
+                "caption": "Playing the combat round.",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/1756556-moon-bugs-pc-booter-a-moon-bug-steals-some-uranium.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f7193066-ab77-11ed-8b6f-02420a00019c.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/1769225-moon-bugs-pc-booter-playing-the-combat-round.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1396bf38-ab78-11ed-bc1c-02420a00019a.webp",
                 "width": 320
             },
             {
@@ -436,17 +436,17 @@
                 "width": 320
             },
             {
-                "caption": "Game over",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/1760001-moon-bugs-pc-booter-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/feabf1ba-ab77-11ed-ba04-02420a00019f.webp",
-                "width": 320
-            },
-            {
                 "caption": "Protect the uranium from the moon bugs!",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/2080991-moon-bugs-pc-booter-protect-the-uranium-from-the-moon-bugs.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/11090aca-ab7b-11ed-837d-02420a00019b.webp",
+                "width": 320
+            },
+            {
+                "caption": "A moon bug steals some uranium.",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1756556-moon-bugs-pc-booter-a-moon-bug-steals-some-uranium.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f7193066-ab77-11ed-8b6f-02420a00019c.webp",
                 "width": 320
             }
         ],
@@ -602,24 +602,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title Screen",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/427557-big-top-pc-booter-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/02d1ec32-ab6d-11ed-87d1-02420a000197.webp",
-                "width": 640
-            },
-            {
-                "caption": "Ring 1, upper level (CGA card with RGBI monitor, color palette 1)",
+                "caption": "Title screen (CGA card with RGBI monitor, color palette 0)",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/9966341-big-top-pc-booter-ring-1-upper-level-cga-card-with-rgbi-monitor-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cd95bbee-ac0b-11ed-9b47-02420a000133.webp",
-                "width": 320
-            },
-            {
-                "caption": "Information (CGA card with RGBI monitor, color palette 1)",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/9966335-big-top-pc-booter-information-cga-card-with-rgbi-monitor-color-p.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cd199ffa-ac0b-11ed-9b47-02420a000133.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/9966344-big-top-pc-booter-title-screen-cga-card-with-rgbi-monitor-color-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cdc844f6-ac0b-11ed-9b47-02420a000133.webp",
                 "width": 320
             },
             {
@@ -630,10 +616,24 @@
                 "width": 320
             },
             {
+                "caption": "Ring 1, upper level (CGA card with RGBI monitor, color palette 0)",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/9960187-big-top-pc-booter-ring-1-upper-level-cga-card-with-rgbi-monitor-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c1e816de-ac0b-11ed-8a97-02420a00012d.webp",
+                "width": 320
+            },
+            {
                 "caption": "Information (CGA card with composite monitor, color palette 1)",
                 "height": 400,
                 "image_url": "https://cdn.mobygames.com/screenshots/9966323-big-top-pc-booter-information-cga-card-with-composite-monitor-co.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/cbff1a46-ac0b-11ed-9b47-02420a000133.webp",
+                "width": 640
+            },
+            {
+                "caption": "Title Screen",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/427557-big-top-pc-booter-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/02d1ec32-ab6d-11ed-87d1-02420a000197.webp",
                 "width": 640
             }
         ],
@@ -690,9 +690,9 @@
             }
         ],
         "id": 66,
-        "moby_score": 7.0,
+        "moby_score": 7.1,
         "moby_url": "https://www.mobygames.com/game/66/cosmic-crusader/",
-        "num_votes": 15,
+        "num_votes": 16,
         "official_url": null,
         "platforms": [
             [
@@ -714,13 +714,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "High Score and Keyboard Info",
-                "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/2007970-cosmic-crusader-pc-booter-high-score-and-keyboard-info.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/52b3a67a-ab7a-11ed-8d2b-02420a00019e.webp",
-                "width": 640
-            },
-            {
                 "caption": "Under attack!",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/2007460-cosmic-crusader-pc-booter-under-attack.png",
@@ -733,6 +726,13 @@
                 "image_url": "https://cdn.mobygames.com/screenshots/2005406-cosmic-crusader-pc-booter-title-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/4c808d7c-ab7a-11ed-8d2b-02420a00019e.webp",
                 "width": 320
+            },
+            {
+                "caption": "High Score and Keyboard Info",
+                "height": 400,
+                "image_url": "https://cdn.mobygames.com/screenshots/2007970-cosmic-crusader-pc-booter-high-score-and-keyboard-info.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/52b3a67a-ab7a-11ed-8d2b-02420a00019e.webp",
+                "width": 640
             }
         ],
         "title": "Cosmic Crusader"
@@ -823,18 +823,18 @@
                 "width": 640
             },
             {
-                "caption": "Stage 2",
-                "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/16565103-snack-attack-ii-pc-booter-stage-2.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c4d65978-c240-11ed-ab6b-02420a000194.webp",
-                "width": 640
-            },
-            {
                 "caption": "Gobble those gumdrops",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/145236-snack-attack-ii-pc-booter-gobble-those-gumdrops.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/be82d5fc-ab6a-11ed-a519-02420a00019d.webp",
                 "width": 320
+            },
+            {
+                "caption": "Stage 2",
+                "height": 400,
+                "image_url": "https://cdn.mobygames.com/screenshots/16565103-snack-attack-ii-pc-booter-stage-2.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c4d65978-c240-11ed-ab6b-02420a000194.webp",
+                "width": 640
             },
             {
                 "caption": "High scores.",
@@ -921,27 +921,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title screen, plus the cast of characters",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/16566625-master-miner-pc-booter-title-screen-plus-the-cast-of-characters.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/57b9fefc-c241-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
-                "caption": "Same-screen multiplayer: player 2 adorns the asteroid field with p1's entrails.",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/16566541-master-miner-pc-booter-same-screen-multiplayer-player-2-adorns-t.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/50be662e-c241-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
-                "caption": "The commie thieves are making off with my gems!",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/16566535-master-miner-pc-booter-the-commie-thieves-are-making-off-with-my.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5085f9c4-c241-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
                 "caption": "Depositing my precious cargo back at the base",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/16566526-master-miner-pc-booter-depositing-my-precious-cargo-back-at-the-.png",
@@ -949,10 +928,31 @@
                 "width": 320
             },
             {
+                "caption": "High scores / main menu",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/16566628-master-miner-pc-booter-high-scores-main-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/57d297f0-c241-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Title screen, plus the cast of characters",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/16566625-master-miner-pc-booter-title-screen-plus-the-cast-of-characters.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/57b9fefc-c241-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
                 "caption": "Redefining keys for both players.",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/16566538-master-miner-pc-booter-redefining-keys-for-both-players.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/50a270e0-c241-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "A level-1 game begins",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/16566631-master-miner-pc-booter-a-level-1-game-begins.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/57e86cd8-c241-11ed-ab6b-02420a000194.webp",
                 "width": 320
             }
         ],
@@ -1068,31 +1068,31 @@
                 "width": 320
             },
             {
-                "caption": "Mission Briefing",
+                "caption": "The enemy has succeded in blowing up your gun base...",
                 "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/2201465-paratrooper-pc-booter-mission-briefing.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/50543e24-ab7c-11ed-81e3-02420a000199.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2201655-paratrooper-pc-booter-the-enemy-has-succeded-in-blowing-up-your-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/50d130c8-ab7c-11ed-81e3-02420a000199.webp",
                 "width": 640
+            },
+            {
+                "caption": "Look at the ground - those four guys on the left are building a human ladder to get to me!..",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/8843041-paratrooper-pc-booter-look-at-the-ground-those-four-guys-on-the-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2592affa-ac02-11ed-83f5-02420a000134.webp",
+                "width": 320
+            },
+            {
+                "caption": "Uh-oh, look at that... too many of them, jumping from all sides! I just hit one guy's parachute; cruel, yet effective...",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/8843035-paratrooper-pc-booter-uh-oh-look-at-that-too-many-of-them-jumpin.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/253f06ac-ac02-11ed-83f5-02420a000134.webp",
+                "width": 320
             },
             {
                 "caption": "Aaaaahhh!! Noooo!... The jet has dropped a deadly bomb, and my angle is totally off - that's it...",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/8843038-paratrooper-pc-booter-aaaaahhh-noooo-the-jet-has-dropped-a-deadl.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/256b3ba0-ac02-11ed-83f5-02420a000134.webp",
-                "width": 320
-            },
-            {
-                "caption": "Kill 'em All !",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/2201307-paratrooper-pc-booter-kill-em-all.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4fd40286-ab7c-11ed-81e3-02420a000199.webp",
-                "width": 320
-            },
-            {
-                "caption": "Destroyed the copter, but not before it released the paratrooper... Note the two guys standing on top of each other :)",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/8846663-paratrooper-pc-booter-destroyed-the-copter-but-not-before-it-rel.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2c82bc9c-ac02-11ed-b57a-02420a000130.webp",
                 "width": 320
             }
         ],
@@ -1182,10 +1182,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Destroyed U.F.O.",
+                "caption": "Setup Keyboard",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15699261-space-strike-pc-booter-destroyed-ufo.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/237ffc02-bec9-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15681642-space-strike-pc-booter-setup-keyboard.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cba59678-bec2-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -1196,24 +1196,24 @@
                 "width": 320
             },
             {
-                "caption": "Oops, nearly invaded! (before game over)",
+                "caption": "Before start or end of game",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/16213900-space-strike-pc-booter-oops-nearly-invaded-before-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/15a6e9c0-c1d4-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16214016-space-strike-pc-booter-before-start-or-end-of-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1c0431b0-c1d4-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
-                "caption": "Oops, destroyed!",
+                "caption": "High Scores to Date (Default)",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15698587-space-strike-pc-booter-oops-destroyed.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/de7c0420-bec8-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15698578-space-strike-pc-booter-high-scores-to-date-default.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/de289844-bec8-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
-                "caption": "Space Strike title screen",
+                "caption": "Space Strike ingame action shot",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/186472-space-strike-pc-booter-space-strike-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/10c5e606-ab6b-11ed-8ed2-02420a0001a0.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/183711-space-strike-pc-booter-space-strike-ingame-action-shot.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0b429cc4-ab6b-11ed-aa5a-02420a0001a0.webp",
                 "width": 320
             }
         ],
@@ -1285,25 +1285,18 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Red triangles are traps",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/9476490-floppy-frenzy-pc-booter-red-triangles-are-traps.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/572a796c-ac07-11ed-9584-02420a000136.webp",
-                "width": 320
-            },
-            {
-                "caption": "Title screen",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/277652-floppy-frenzy-pc-booter-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c72f2a42-ab6b-11ed-9505-02420a00019c.webp",
-                "width": 320
-            },
-            {
-                "caption": "Passing a level.",
+                "caption": "Instructions screen.",
                 "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/9564756-floppy-frenzy-pc-booter-passing-a-level.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1e87b4e8-ac08-11ed-a7ec-02420a000134.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/4500327-floppy-frenzy-pc-booter-instructions-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5a70d474-abb5-11ed-b165-02420a000198.webp",
                 "width": 640
+            },
+            {
+                "caption": "Can you see the small red square? It's an enemy in a trap",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/9469045-floppy-frenzy-pc-booter-can-you-see-the-small-red-square-its-an-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/45c55ac0-ac07-11ed-a631-02420a000135.webp",
+                "width": 320
             },
             {
                 "caption": "Game over.",
@@ -1313,11 +1306,18 @@
                 "width": 640
             },
             {
-                "caption": "Can you see the small red square? It's an enemy in a trap",
+                "caption": "Red triangles are traps",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/9469045-floppy-frenzy-pc-booter-can-you-see-the-small-red-square-its-an-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/45c55ac0-ac07-11ed-a631-02420a000135.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/9476490-floppy-frenzy-pc-booter-red-triangles-are-traps.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/572a796c-ac07-11ed-9584-02420a000136.webp",
                 "width": 320
+            },
+            {
+                "caption": "Passing a level.",
+                "height": 400,
+                "image_url": "https://cdn.mobygames.com/screenshots/9564756-floppy-frenzy-pc-booter-passing-a-level.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1e87b4e8-ac08-11ed-a7ec-02420a000134.webp",
+                "width": 640
             }
         ],
         "title": "Floppy Frenzy"
@@ -1397,10 +1397,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Intro screen",
+                "caption": "New York City",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/2051530-microsoft-flight-simulator-v20-pc-booter-intro-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c5bece4c-ab7a-11ed-9d05-02420a000198.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2047310-microsoft-flight-simulator-v20-pc-booter-new-york-city.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ba4e58c0-ab7a-11ed-b721-02420a00019b.webp",
                 "width": 320
             },
             {
@@ -1411,25 +1411,25 @@
                 "width": 320
             },
             {
-                "caption": "And we're airborne... (PCjr)",
+                "caption": "Startup on Meigs Field",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/308665-microsoft-flight-simulator-v20-pc-booter-and-were-airborne-pcjr.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/10ba11ae-ab6c-11ed-87ec-02420a00019c.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2046602-microsoft-flight-simulator-v20-pc-booter-startup-on-meigs-field.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b86d833c-ab7a-11ed-b721-02420a00019b.webp",
                 "width": 320
             },
             {
-                "caption": "A flight in progress (CGA Composite mode)",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/2047826-microsoft-flight-simulator-v20-pc-booter-a-flight-in-progress-cg.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bb9a9838-ab7a-11ed-b721-02420a00019b.webp",
-                "width": 640
+                "caption": "Beginning a combat mission (PCjr)",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/4618602-microsoft-flight-simulator-v20-pc-booter-beginning-a-combat-miss.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1cf0011a-abba-11ed-be6f-02420a000197.webp",
+                "width": 320
             },
             {
-                "caption": "Los Angeles at dusk",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/2047171-microsoft-flight-simulator-v20-pc-booter-los-angeles-at-dusk.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b9f85c7c-ab7a-11ed-b721-02420a00019b.webp",
-                "width": 320
+                "caption": "The Editor",
+                "height": 400,
+                "image_url": "https://cdn.mobygames.com/screenshots/2046732-microsoft-flight-simulator-v20-pc-booter-the-editor.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b8c95874-ab7a-11ed-b721-02420a00019b.webp",
+                "width": 720
             }
         ],
         "title": "Microsoft Flight Simulator (v2.0)"
@@ -1469,7 +1469,7 @@
         "id": 1797,
         "moby_score": null,
         "moby_url": "https://www.mobygames.com/game/1797/pc-pool-challenges/",
-        "num_votes": 4,
+        "num_votes": 5,
         "official_url": null,
         "platforms": [
             [
@@ -1505,13 +1505,6 @@
                 "width": 320
             },
             {
-                "caption": "credits",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/2207022-pc-pool-challenges-pc-booter-credits.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5eb5d70c-ab7c-11ed-93d8-02420a000198.webp",
-                "width": 320
-            },
-            {
                 "caption": "Breakshot!",
                 "height": 400,
                 "image_url": "https://cdn.mobygames.com/screenshots/2207325-pc-pool-challenges-pc-booter-breakshot.png",
@@ -1523,6 +1516,13 @@
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/2207170-pc-pool-challenges-pc-booter-player-options.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/5f0cec36-ab7c-11ed-93d8-02420a000198.webp",
+                "width": 320
+            },
+            {
+                "caption": "opening title screen",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/2206867-pc-pool-challenges-pc-booter-opening-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5e387dac-ab7c-11ed-93d8-02420a000198.webp",
                 "width": 320
             }
         ],
@@ -1588,17 +1588,17 @@
                 "width": 320
             },
             {
-                "caption": "catagory selection",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/180852-trivia-101-the-introductory-course-pc-booter-catagory-selection.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/059ac328-ab6b-11ed-aecf-02420a000198.webp",
-                "width": 320
-            },
-            {
                 "caption": "title screen",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/180499-trivia-101-the-introductory-course-pc-booter-title-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/04e43f68-ab6b-11ed-aecf-02420a000198.webp",
+                "width": 320
+            },
+            {
+                "caption": "catagory selection",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/180852-trivia-101-the-introductory-course-pc-booter-catagory-selection.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/059ac328-ab6b-11ed-aecf-02420a000198.webp",
                 "width": 320
             }
         ],
@@ -1653,7 +1653,7 @@
         "id": 1815,
         "moby_score": 7.2,
         "moby_url": "https://www.mobygames.com/game/1815/pc-man/",
-        "num_votes": 11,
+        "num_votes": 12,
         "official_url": null,
         "platforms": [
             [
@@ -1675,17 +1675,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title screen (Updated version only)",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/16433903-pc-man-pc-booter-title-screen-updated-version-only.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b3777418-c219-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
                 "caption": "Ready!",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/16237591-pc-man-pc-booter-ready.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/288a7668-c1db-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Game over select key or joystick to re-play",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/16237588-pc-man-pc-booter-game-over-select-key-or-joystick-to-re-play.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/287076f0-c1db-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
@@ -1696,11 +1696,11 @@
                 "width": 320
             },
             {
-                "caption": "Enter name to record on score (Updated version only) ",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/16433906-pc-man-pc-booter-enter-name-to-record-on-score-updated-version-o.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b38cd754-c219-11ed-ab6b-02420a000194.webp",
-                "width": 320
+                "caption": "Title screen.",
+                "height": 400,
+                "image_url": "https://cdn.mobygames.com/screenshots/2658584-pc-man-pc-booter-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1f04e4c6-ab82-11ed-8ed2-02420a0001a0.webp",
+                "width": 640
             },
             {
                 "caption": "gameplay",
@@ -1760,17 +1760,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "opening title screen",
+                "caption": "pick a category",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/8305047-3-k-trivia-pc-booter-opening-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/23f79e94-abfd-11ed-9915-02420a000134.webp",
-                "width": 320
-            },
-            {
-                "caption": "Hmmmm.",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/1433225-3-k-trivia-pc-booter-hmmmm.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1221a076-ab75-11ed-9ab3-02420a0001a0.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/8873561-3-k-trivia-pc-booter-pick-a-category.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/70facd9c-ac02-11ed-b6e7-02420a000135.webp",
                 "width": 320
             },
             {
@@ -1781,17 +1774,24 @@
                 "width": 320
             },
             {
+                "caption": "Hmmmm.",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1433225-3-k-trivia-pc-booter-hmmmm.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1221a076-ab75-11ed-9ab3-02420a0001a0.webp",
+                "width": 320
+            },
+            {
+                "caption": "opening title screen",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/8305047-3-k-trivia-pc-booter-opening-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/23f79e94-abfd-11ed-9915-02420a000134.webp",
+                "width": 320
+            },
+            {
                 "caption": "more gameplay",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/8873564-3-k-trivia-pc-booter-more-gameplay.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/712c115e-ac02-11ed-b6e7-02420a000135.webp",
-                "width": 320
-            },
-            {
-                "caption": "pick a category",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/8873561-3-k-trivia-pc-booter-pick-a-category.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/70facd9c-ac02-11ed-b6e7-02420a000135.webp",
                 "width": 320
             }
         ],
@@ -1872,20 +1872,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Select Operation Mode / (From backup or modified disk. Back can't be allowed!)",
-                "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/16598033-microsoft-flight-simulator-v10-pc-booter-select-operation-mode-f.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/77e5be2e-c24f-11ed-ab6b-02420a000194.webp",
-                "width": 640
-            },
-            {
-                "caption": "Make a backup disk",
-                "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/16598036-microsoft-flight-simulator-v10-pc-booter-make-a-backup-disk.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7807c0a0-c24f-11ed-ab6b-02420a000194.webp",
-                "width": 640
-            },
-            {
                 "caption": "Ready Take off! (CGA Mono)",
                 "height": 400,
                 "image_url": "https://cdn.mobygames.com/screenshots/16598039-microsoft-flight-simulator-v10-pc-booter-ready-take-off-cga-mono.png",
@@ -1893,10 +1879,10 @@
                 "width": 640
             },
             {
-                "caption": "Title screen (CGA Composite mode)",
+                "caption": "Flying around a bit... (CGA Composite mode)",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/2050861-microsoft-flight-simulator-v10-pc-booter-title-screen-cga-compos.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c3d5ca4a-ab7a-11ed-9d05-02420a000198.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2051396-microsoft-flight-simulator-v10-pc-booter-flying-around-a-bit-cga.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c558e136-ab7a-11ed-9d05-02420a000198.webp",
                 "width": 640
             },
             {
@@ -1904,6 +1890,20 @@
                 "height": 400,
                 "image_url": "https://cdn.mobygames.com/screenshots/16598030-microsoft-flight-simulator-v10-pc-booter-select-operation-mode-f.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/77a4cb26-c24f-11ed-ab6b-02420a000194.webp",
+                "width": 640
+            },
+            {
+                "caption": "Select Operation Mode / (From backup or modified disk. Back can't be allowed!)",
+                "height": 400,
+                "image_url": "https://cdn.mobygames.com/screenshots/16598033-microsoft-flight-simulator-v10-pc-booter-select-operation-mode-f.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/77e5be2e-c24f-11ed-ab6b-02420a000194.webp",
+                "width": 640
+            },
+            {
+                "caption": "Ready for takeoff! (CGA Composite mode)",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/2051021-microsoft-flight-simulator-v10-pc-booter-ready-for-takeoff-cga-c.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c44ed6ce-ab7a-11ed-9d05-02420a000198.webp",
                 "width": 640
             }
         ],
@@ -1966,13 +1966,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "On this screen there's two mice to deal with",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/4630725-mouser-pc-booter-on-this-screen-theres-two-mice-to-deal-with.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9bf222a4-abba-11ed-b6ee-02420a00019d.webp",
-                "width": 320
-            },
-            {
                 "caption": "Game over",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/4631026-mouser-pc-booter-game-over.png",
@@ -1987,10 +1980,10 @@
                 "width": 320
             },
             {
-                "caption": "The gameplay screen",
+                "caption": "On this screen there's two mice to deal with",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/4630580-mouser-pc-booter-the-gameplay-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9a77aea8-abba-11ed-b6ee-02420a00019d.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/4630725-mouser-pc-booter-on-this-screen-theres-two-mice-to-deal-with.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9bf222a4-abba-11ed-b6ee-02420a00019d.webp",
                 "width": 320
             },
             {
@@ -1998,6 +1991,13 @@
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/4630450-mouser-pc-booter-title-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/9931913a-abba-11ed-b6ee-02420a00019d.webp",
+                "width": 320
+            },
+            {
+                "caption": "The gameplay screen",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/4630580-mouser-pc-booter-the-gameplay-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9a77aea8-abba-11ed-b6ee-02420a00019d.webp",
                 "width": 320
             }
         ],
@@ -2060,27 +2060,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Beginning level 1 (EGA)",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/2039082-metropolis-pc-booter-beginning-level-1-ega.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a3f5533a-ab7a-11ed-b9a3-02420a000197.webp",
-                "width": 320
-            },
-            {
-                "caption": "Welcome to Metropolis (EGA)",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/2039225-metropolis-pc-booter-welcome-to-metropolis-ega.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a43eee6e-ab7a-11ed-b9a3-02420a000197.webp",
-                "width": 320
-            },
-            {
-                "caption": "Beginning level 1 (CGA)",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/2038988-metropolis-pc-booter-beginning-level-1-cga.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a3bf1522-ab7a-11ed-ba50-02420a000199.webp",
-                "width": 320
-            },
-            {
                 "caption": "Talking to a robot (CGA)",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/2039320-metropolis-pc-booter-talking-to-a-robot-cga.png",
@@ -2088,10 +2067,31 @@
                 "width": 320
             },
             {
-                "caption": "An information building (EGA)",
+                "caption": "Beginning level 1 (EGA)",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/2038735-metropolis-pc-booter-an-information-building-ega.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a3211c1e-ab7a-11ed-ba50-02420a000199.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2039082-metropolis-pc-booter-beginning-level-1-ega.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a3f5533a-ab7a-11ed-b9a3-02420a000197.webp",
+                "width": 320
+            },
+            {
+                "caption": "At the information booth (EGA)",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/2038862-metropolis-pc-booter-at-the-information-booth-ega.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a364cf72-ab7a-11ed-ba50-02420a000199.webp",
+                "width": 320
+            },
+            {
+                "caption": "Welcome to Metropolis (CGA)",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/2039124-metropolis-pc-booter-welcome-to-metropolis-cga.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a40d46fc-ab7a-11ed-ba50-02420a000199.webp",
+                "width": 320
+            },
+            {
+                "caption": "Welcome to Metropolis (EGA)",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/2039225-metropolis-pc-booter-welcome-to-metropolis-ega.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a43eee6e-ab7a-11ed-b9a3-02420a000197.webp",
                 "width": 320
             }
         ],
@@ -2154,13 +2154,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Beginning a new game",
-                "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/1870747-attack-on-altair-pc-booter-beginning-a-new-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/02e0e28a-ab79-11ed-9201-02420a00019c.webp",
-                "width": 640
-            },
-            {
                 "caption": "Title screen",
                 "height": 400,
                 "image_url": "https://cdn.mobygames.com/screenshots/1870300-attack-on-altair-pc-booter-title-screen.png",
@@ -2172,6 +2165,13 @@
                 "height": 400,
                 "image_url": "https://cdn.mobygames.com/screenshots/1867440-attack-on-altair-pc-booter-try-to-shoot-the-brown-double-arrows.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/faf4b470-ab78-11ed-ba50-02420a000199.webp",
+                "width": 640
+            },
+            {
+                "caption": "Beginning a new game",
+                "height": 400,
+                "image_url": "https://cdn.mobygames.com/screenshots/1870747-attack-on-altair-pc-booter-beginning-a-new-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/02e0e28a-ab79-11ed-9201-02420a00019c.webp",
                 "width": 640
             }
         ],
@@ -2225,10 +2225,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title screen",
+                "caption": "Gameplay",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/9646785-executive-suite-pc-booter-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d1eb24a2-ac08-11ed-b4f3-02420a000135.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/9646794-executive-suite-pc-booter-gameplay.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d29b9e54-ac08-11ed-b4f3-02420a000135.webp",
                 "width": 640
             },
             {
@@ -2239,10 +2239,10 @@
                 "width": 640
             },
             {
-                "caption": "Gameplay",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/9646794-executive-suite-pc-booter-gameplay.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d29b9e54-ac08-11ed-b4f3-02420a000135.webp",
+                "caption": "Summary of employee status",
+                "height": 400,
+                "image_url": "https://cdn.mobygames.com/screenshots/4791442-executive-suite-pc-booter-summary-of-employee-status.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4706c482-abc1-11ed-99ae-02420a00019e.webp",
                 "width": 640
             },
             {
@@ -2253,10 +2253,10 @@
                 "width": 640
             },
             {
-                "caption": "Summary of employee status",
-                "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/4791442-executive-suite-pc-booter-summary-of-employee-status.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4706c482-abc1-11ed-99ae-02420a00019e.webp",
+                "caption": "Title screen",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/9646785-executive-suite-pc-booter-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d1eb24a2-ac08-11ed-b4f3-02420a000135.webp",
                 "width": 640
             }
         ],
@@ -2328,10 +2328,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Game version & credits. Compare with <a href=http://www.mobygames.com/game/shots/p,4/gameId,1797/gameShotId,7654/>PC Pool Challenges</a>.",
+                "caption": "Wonder how many balls you get from this angle...?",
                 "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/2206413-pc-pool-pc-booter-game-version-credits-compare-with-a-hrefhttpww.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5ced32ee-ab7c-11ed-93d8-02420a000198.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2206688-pc-pool-pc-booter-wonder-how-many-balls-you-get-from-this-angle.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5dbfc61e-ab7c-11ed-93d8-02420a000198.webp",
                 "width": 640
             },
             {
@@ -2342,10 +2342,10 @@
                 "width": 640
             },
             {
-                "caption": "Wonder how many balls you get from this angle...?",
+                "caption": "Game version & credits. Compare with <a href=http://www.mobygames.com/game/shots/p,4/gameId,1797/gameShotId,7654/>PC Pool Challenges</a>.",
                 "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/2206688-pc-pool-pc-booter-wonder-how-many-balls-you-get-from-this-angle.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5dbfc61e-ab7c-11ed-93d8-02420a000198.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2206413-pc-pool-pc-booter-game-version-credits-compare-with-a-hrefhttpww.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5ced32ee-ab7c-11ed-93d8-02420a000198.webp",
                 "width": 640
             }
         ],
@@ -2417,24 +2417,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Beginning a game",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/1845660-astro-dodge-pc-booter-beginning-a-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c6d7e20c-ab78-11ed-a5ec-02420a00019b.webp",
-                "width": 320
-            },
-            {
-                "caption": "Watch out for that flying saucer",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/1844543-astro-dodge-pc-booter-watch-out-for-that-flying-saucer.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c41c20a0-ab78-11ed-b165-02420a000198.webp",
-                "width": 320
-            },
-            {
                 "caption": "Oops, a crash!",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/1844689-astro-dodge-pc-booter-oops-a-crash.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/c4782d1e-ab78-11ed-b165-02420a000198.webp",
+                "width": 320
+            },
+            {
+                "caption": "Beginning a game",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1845660-astro-dodge-pc-booter-beginning-a-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c6d7e20c-ab78-11ed-a5ec-02420a00019b.webp",
                 "width": 320
             },
             {
@@ -2443,6 +2436,13 @@
                 "image_url": "https://cdn.mobygames.com/screenshots/1845441-astro-dodge-pc-booter-title-screen-and-instructions.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/c65ce778-ab78-11ed-a5ec-02420a00019b.webp",
                 "width": 640
+            },
+            {
+                "caption": "Watch out for that flying saucer",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1844543-astro-dodge-pc-booter-watch-out-for-that-flying-saucer.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c41c20a0-ab78-11ed-b165-02420a000198.webp",
+                "width": 320
             }
         ],
         "title": "Astro-Dodge"
@@ -2536,6 +2536,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "On some levels there is no shield (Monochrome display)",
+                "height": 348,
+                "image_url": "https://cdn.mobygames.com/screenshots/1513364-czorian-siege-pc-booter-on-some-levels-there-is-no-shield-monoch.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c6f713dc-ab75-11ed-a44e-02420a000199.webp",
+                "width": 720
+            },
+            {
                 "caption": "Lookout, incoming! (CGA)",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/1513568-czorian-siege-pc-booter-lookout-incoming-cga.png",
@@ -2543,32 +2550,25 @@
                 "width": 320
             },
             {
-                "caption": "The help screen (CGA)",
+                "caption": "Developer logo (CGA)",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/508106-czorian-siege-pc-booter-the-help-screen-cga.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a406a156-ab6d-11ed-934f-02420a0001a0.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/507837-czorian-siege-pc-booter-developer-logo-cga.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a379bfde-ab6d-11ed-934f-02420a0001a0.webp",
                 "width": 320
             },
             {
-                "caption": "Firing at enemies (CGA)",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/2081368-czorian-siege-pc-booter-firing-at-enemies-cga.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/11d71a64-ab7b-11ed-96f9-02420a00019a.webp",
-                "width": 320
-            },
-            {
-                "caption": "The help screen (Monochrome display)",
+                "caption": "Developer logo (Monochrome display)",
                 "height": 348,
-                "image_url": "https://cdn.mobygames.com/screenshots/507657-czorian-siege-pc-booter-the-help-screen-monochrome-display.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a3234636-ab6d-11ed-be6f-02420a000197.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/508370-czorian-siege-pc-booter-developer-logo-monochrome-display.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a4911d54-ab6d-11ed-934f-02420a0001a0.webp",
                 "width": 720
             },
             {
-                "caption": "Blast through the enemy shield... (CGA)",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/1513394-czorian-siege-pc-booter-blast-through-the-enemy-shield-cga.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c70babb2-ab75-11ed-8b70-02420a00019a.webp",
-                "width": 320
+                "caption": "You need to blast through the enemies shield (Monochrome display)",
+                "height": 348,
+                "image_url": "https://cdn.mobygames.com/screenshots/1513143-czorian-siege-pc-booter-you-need-to-blast-through-the-enemies-sh.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c660ff6e-ab75-11ed-a44e-02420a000199.webp",
+                "width": 720
             }
         ],
         "title": "Czorian Siege"
@@ -2639,17 +2639,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title screen",
+                "caption": "Eat fish that are smaller than you!",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/511530-freddy-fish-pc-booter-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/aaea28ee-ab6d-11ed-9377-02420a000197.webp",
-                "width": 320
-            },
-            {
-                "caption": "Mirror Images logo",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/511369-freddy-fish-pc-booter-mirror-images-logo.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/aaa364e0-ab6d-11ed-9377-02420a000197.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/511848-freddy-fish-pc-booter-eat-fish-that-are-smaller-than-you.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ab90c956-ab6d-11ed-9377-02420a000197.webp",
                 "width": 320
             },
             {
@@ -2660,10 +2653,10 @@
                 "width": 320
             },
             {
-                "caption": "A maze of fishing nets",
+                "caption": "Bonus points for every fish still alive",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/511967-freddy-fish-pc-booter-a-maze-of-fishing-nets.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/abc5115c-ab6d-11ed-9377-02420a000197.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/3803973-freddy-fish-pc-booter-bonus-points-for-every-fish-still-alive.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/91480cb6-ab9b-11ed-89d0-02420a00019d.webp",
                 "width": 320
             },
             {
@@ -2671,6 +2664,13 @@
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/511734-freddy-fish-pc-booter-the-main-menu.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/ab5343e2-ab6d-11ed-9377-02420a000197.webp",
+                "width": 320
+            },
+            {
+                "caption": "A maze of fishing nets",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/511967-freddy-fish-pc-booter-a-maze-of-fishing-nets.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/abc5115c-ab6d-11ed-9377-02420a000197.webp",
                 "width": 320
             }
         ],
@@ -2751,31 +2751,31 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The main menu",
+                "caption": "Hopper, a Frogger clone",
                 "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/4503909-friendlyware-pc-arcade-pc-booter-the-main-menu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/81f95b42-abb5-11ed-9d80-02420a00019a.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/4504065-friendlyware-pc-arcade-pc-booter-hopper-a-frogger-clone.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8370f610-abb5-11ed-9d80-02420a00019a.webp",
                 "width": 640
             },
             {
-                "caption": "Instructions are included for each of the games.",
+                "caption": "Robot War, a Berzerk clone",
                 "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/3099167-friendlyware-pc-arcade-pc-booter-instructions-are-included-for-e.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2ff588ec-ab89-11ed-ba50-02420a000199.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/3098771-friendlyware-pc-arcade-pc-booter-robot-war-a-berzerk-clone.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2e4ac6c4-ab89-11ed-ba50-02420a000199.webp",
                 "width": 640
             },
             {
-                "caption": "A side-scrolling shooter",
+                "caption": "Eagle Lander - Oops, I crashed.",
                 "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/3095186-friendlyware-pc-arcade-pc-booter-a-side-scrolling-shooter.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1f5cf966-ab89-11ed-a519-02420a00019d.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/3096804-friendlyware-pc-arcade-pc-booter-eagle-lander-oops-i-crashed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/264526b8-ab89-11ed-8bb9-02420a000197.webp",
                 "width": 640
             },
             {
-                "caption": "A lander launches as the titles scroll up.",
+                "caption": "A shooter",
                 "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/4503740-friendlyware-pc-arcade-pc-booter-a-lander-launches-as-the-titles.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/80790dc6-abb5-11ed-9d80-02420a00019a.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/3098979-friendlyware-pc-arcade-pc-booter-a-shooter.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2f229f68-ab89-11ed-ba50-02420a000199.webp",
                 "width": 640
             },
             {
@@ -2854,20 +2854,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Watch out for those deadly sea horses!",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/2754765-scubaventure-pc-booter-watch-out-for-those-deadly-sea-horses.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9e5a89f0-ab83-11ed-8e21-02420a00019b.webp",
-                "width": 320
-            },
-            {
-                "caption": "Avoid obstacles, collect rare fish!",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/2756977-scubaventure-pc-booter-avoid-obstacles-collect-rare-fish.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a729fd86-ab83-11ed-a44e-02420a000199.webp",
-                "width": 320
-            },
-            {
                 "caption": "Swimming in the cavern; collect rare fish for points!",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/2756768-scubaventure-pc-booter-swimming-in-the-cavern-collect-rare-fish-.png",
@@ -2886,6 +2872,20 @@
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/2754547-scubaventure-pc-booter-title-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/9dadc8d2-ab83-11ed-8e21-02420a00019b.webp",
+                "width": 320
+            },
+            {
+                "caption": "Avoid the sea weed!",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/2755571-scubaventure-pc-booter-avoid-the-sea-weed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a122786e-ab83-11ed-ab77-02420a000198.webp",
+                "width": 320
+            },
+            {
+                "caption": "Careful, don't get eaten by the fish at the bottom of the screen!",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/2755347-scubaventure-pc-booter-careful-dont-get-eaten-by-the-fish-at-the.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a0721f46-ab83-11ed-ab77-02420a000198.webp",
                 "width": 320
             }
         ],
@@ -3038,24 +3038,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "I hate you towers of Atlantis/Hanoi",
+                "caption": "Peg Leap",
                 "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/15915506-friendlyware-pc-introductory-set-pc-booter-i-hate-you-towers-of-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cd9b3c44-bf0d-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15979204-friendlyware-pc-introductory-set-pc-booter-peg-leap.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ada3dfc8-bf20-11ed-9c42-02420a000140.webp",
                 "width": 640
             },
             {
-                "caption": "Black Jack",
+                "caption": "Oh table.... Well I saved him from a gruesome death!",
                 "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/15915974-friendlyware-pc-introductory-set-pc-booter-black-jack.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ecc6d5ba-bf0d-11ed-9c42-02420a000140.webp",
-                "width": 640
-            },
-            {
-                "caption": "I spent a ton of time playing this Match game with my sisters.",
-                "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/15915302-friendlyware-pc-introductory-set-pc-booter-i-spent-a-ton-of-time.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bcd7f1f4-bf0d-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15979162-friendlyware-pc-introductory-set-pc-booter-oh-table-well-i-saved.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ac28a2b4-bf20-11ed-9c42-02420a000140.webp",
                 "width": 640
             },
             {
@@ -3066,10 +3059,17 @@
                 "width": 640
             },
             {
-                "caption": "Oh table.... Well I saved him from a gruesome death!",
+                "caption": "Killer Maze is a lot easier now that twenty years later I've played FPS's.",
                 "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/15979162-friendlyware-pc-introductory-set-pc-booter-oh-table-well-i-saved.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ac28a2b4-bf20-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15915452-friendlyware-pc-introductory-set-pc-booter-killer-maze-is-a-lot-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c978c866-bf0d-11ed-9c42-02420a000140.webp",
+                "width": 640
+            },
+            {
+                "caption": "The sight test.",
+                "height": 400,
+                "image_url": "https://cdn.mobygames.com/screenshots/15979123-friendlyware-pc-introductory-set-pc-booter-the-sight-test.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/aa1a7588-bf20-11ed-9c42-02420a000140.webp",
                 "width": 640
             }
         ],
@@ -3141,24 +3141,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "new fleet! now enemy types are combined",
+                "caption": "zone 7, catch that fuel ball!",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/3505881-fleet-sweep-pc-booter-new-fleet-now-enemy-types-are-combined.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bedd8278-ab91-11ed-8048-02420a000198.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/3147174-fleet-sweep-pc-booter-zone-7-catch-that-fuel-ball.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fcf991e4-ab89-11ed-aecf-02420a000198.webp",
                 "width": 320
             },
             {
-                "caption": "zone 9, enemy type 8, randomly moving in eight directions",
+                "caption": "zone 4, enemy type 5, moving straight down, re-appearing at random place at top",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/3505691-fleet-sweep-pc-booter-zone-9-enemy-type-8-randomly-moving-in-eig.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bd6ffb96-ab91-11ed-8048-02420a000198.webp",
-                "width": 320
-            },
-            {
-                "caption": "zone 6, enemy type 7, satellite spawns four balls (spawns enemies in later zones)",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/4497621-fleet-sweep-pc-booter-zone-6-enemy-type-7-satellite-spawns-four-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3e596bd4-abb5-11ed-93d8-02420a000198.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/4499300-fleet-sweep-pc-booter-zone-4-enemy-type-5-moving-straight-down-r.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/50192b34-abb5-11ed-b6ec-02420a00019b.webp",
                 "width": 320
             },
             {
@@ -3169,10 +3162,17 @@
                 "width": 320
             },
             {
-                "caption": "zone 4, enemy type 5, moving straight down, re-appearing at random place at top",
+                "caption": "zone 6, enemy type 7, satellite spawns four balls (spawns enemies in later zones)",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/4499300-fleet-sweep-pc-booter-zone-4-enemy-type-5-moving-straight-down-r.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/50192b34-abb5-11ed-b6ec-02420a00019b.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/4497621-fleet-sweep-pc-booter-zone-6-enemy-type-7-satellite-spawns-four-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3e596bd4-abb5-11ed-93d8-02420a000198.webp",
+                "width": 320
+            },
+            {
+                "caption": "zone 11, other enemy types combined",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/3145174-fleet-sweep-pc-booter-zone-11-other-enemy-types-combined.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f4737c88-ab89-11ed-b951-02420a000197.webp",
                 "width": 320
             }
         ],
@@ -3235,38 +3235,38 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Regional public opinion polls",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/16344855-presidents-choice-pc-booter-regional-public-opinion-polls.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b8958464-c1fe-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Air Force wants pocket money for video games?",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/16327578-presidents-choice-pc-booter-air-force-wants-pocket-money-for-vid.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/265845ba-c1f8-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Sign or veto the bill?",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/16344897-presidents-choice-pc-booter-sign-or-veto-the-bill.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bae58e08-c1fe-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Results are coming in....",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/16344771-presidents-choice-pc-booter-results-are-coming-in.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b1f1953a-c1fe-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
                 "caption": "Review the estimated effects",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/16326822-presidents-choice-pc-booter-review-the-estimated-effects.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/da2e64e4-c1f7-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
-                "caption": "Economic report from the Council",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/16344900-presidents-choice-pc-booter-economic-report-from-the-council.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bb011588-c1fe-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
-                "caption": "Select a party affiliation",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/16344861-presidents-choice-pc-booter-select-a-party-affiliation.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b8c8ecbe-c1fe-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
-                "caption": "Detailed economical data: 14 different reports may be displayed",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/16344852-presidents-choice-pc-booter-detailed-economical-data-14-differen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b7ad3952-c1fe-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
-                "caption": "In the news: espionage in the computer industry",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/16344858-presidents-choice-pc-booter-in-the-news-espionage-in-the-compute.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b8aec096-c1fe-11ed-ab6b-02420a000194.webp",
                 "width": 320
             }
         ],
@@ -3338,13 +3338,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title screen (CGA)",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/16480846-backgammon-50-pc-booter-title-screen-cga.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0a5d452a-c227-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
                 "caption": "Name entry (monochrome)",
                 "height": 350,
                 "image_url": "https://cdn.mobygames.com/screenshots/16481080-backgammon-50-pc-booter-name-entry-monochrome.png",
@@ -3352,24 +3345,31 @@
                 "width": 720
             },
             {
-                "caption": "Help! (CGA)",
-                "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/9024965-backgammon-50-pc-booter-help-cga.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/aee33710-ac03-11ed-8d66-02420a000132.webp",
-                "width": 640
-            },
-            {
-                "caption": "A standard match - on automatic play (CGA)",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/16481089-backgammon-50-pc-booter-a-standard-match-on-automatic-play-cga.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/28cde55a-c227-11ed-ab6b-02420a000194.webp",
-                "width": 320
+                "caption": "Shake 'em! (monochrome)",
+                "height": 350,
+                "image_url": "https://cdn.mobygames.com/screenshots/16481074-backgammon-50-pc-booter-shake-em-monochrome.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/283c651c-c227-11ed-ab6b-02420a000194.webp",
+                "width": 720
             },
             {
                 "caption": "You can play with external dice - roll 'em yourself and input the numbers. (CGA)",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/16481377-backgammon-50-pc-booter-you-can-play-with-external-dice-roll-em-.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/3ff6f6d6-c227-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "The computer got this one. (monochrome)",
+                "height": 350,
+                "image_url": "https://cdn.mobygames.com/screenshots/16480921-backgammon-50-pc-booter-the-computer-got-this-one-monochrome.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/150ec0fc-c227-11ed-ab6b-02420a000194.webp",
+                "width": 720
+            },
+            {
+                "caption": "Computer gets a double six! (CGA)",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/16480834-backgammon-50-pc-booter-computer-gets-a-double-six-cga.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/09fb53d8-c227-11ed-ab6b-02420a000194.webp",
                 "width": 320
             }
         ],
@@ -3432,10 +3432,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "*CRASH*",
+                "caption": "...and a new high score is spelled boldly in the skies.",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/16503694-floppy-bird-pc-booter-crash.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/76775474-c22e-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16503691-floppy-bird-pc-booter-and-a-new-high-score-is-spelled-boldly-in-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/765ed980-c22e-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
@@ -3443,13 +3443,6 @@
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/16503811-floppy-bird-pc-booter-flap-your-little-wings-birdie.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/7c4cfba6-c22e-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
-                "caption": "...and a new high score is spelled boldly in the skies.",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/16503691-floppy-bird-pc-booter-and-a-new-high-score-is-spelled-boldly-in-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/765ed980-c22e-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
@@ -3464,6 +3457,13 @@
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/16503697-floppy-bird-pc-booter-mind-the-gap.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/7755d0d2-c22e-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "*CRASH*",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/16503694-floppy-bird-pc-booter-crash.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/76775474-c22e-11ed-ab6b-02420a000194.webp",
                 "width": 320
             }
         ],
@@ -3576,17 +3576,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Moving my pawns down (player is always black on the top)",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/9827307-bootchess-pc-booter-moving-my-pawns-down-player-is-always-black-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/896cbfd6-ac0a-11ed-92cb-02420a000132.webp",
-                "width": 320
-            },
-            {
                 "caption": "Player 1 opened with the Spanish opening",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/9827304-bootchess-pc-booter-player-1-opened-with-the-spanish-opening.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/89442c9c-ac0a-11ed-92cb-02420a000132.webp",
+                "width": 320
+            },
+            {
+                "caption": "Moving my pawns down (player is always black on the top)",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/9827307-bootchess-pc-booter-moving-my-pawns-down-player-is-always-black-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/896cbfd6-ac0a-11ed-92cb-02420a000132.webp",
                 "width": 320
             },
             {
@@ -3674,20 +3674,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Meet thy maker, masonry!",
-                "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/16584102-bootgame-pc-booter-meet-thy-maker-masonry.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/adc52d16-c247-11ed-ab6b-02420a000194.webp",
-                "width": 720
-            },
-            {
-                "caption": "In its 512 bytes of code, the game manages to include specific support for monochrome.",
-                "height": 350,
-                "image_url": "https://cdn.mobygames.com/screenshots/16584069-bootgame-pc-booter-in-its-512-bytes-of-code-the-game-manages-to-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/aca83a9a-c247-11ed-ab6b-02420a000194.webp",
-                "width": 720
-            },
-            {
                 "caption": "A brand new city awaits demolition.",
                 "height": 400,
                 "image_url": "https://cdn.mobygames.com/screenshots/16584096-bootgame-pc-booter-a-brand-new-city-awaits-demolition.png",
@@ -3706,6 +3692,20 @@
                 "height": 400,
                 "image_url": "https://cdn.mobygames.com/screenshots/16584099-bootgame-pc-booter-nope-plowed-right-into-the-leftmost-building.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/ada90956-c247-11ed-ab6b-02420a000194.webp",
+                "width": 720
+            },
+            {
+                "caption": "In its 512 bytes of code, the game manages to include specific support for monochrome.",
+                "height": 350,
+                "image_url": "https://cdn.mobygames.com/screenshots/16584069-bootgame-pc-booter-in-its-512-bytes-of-code-the-game-manages-to-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/aca83a9a-c247-11ed-ab6b-02420a000194.webp",
+                "width": 720
+            },
+            {
+                "caption": "Meet thy maker, masonry!",
+                "height": 400,
+                "image_url": "https://cdn.mobygames.com/screenshots/16584102-bootgame-pc-booter-meet-thy-maker-masonry.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/adc52d16-c247-11ed-ab6b-02420a000194.webp",
                 "width": 720
             }
         ],
@@ -3807,6 +3807,13 @@
                 "width": 720
             },
             {
+                "caption": "With the extremely lean code, this game is pretty fast even on the slowest PCs.",
+                "height": 400,
+                "image_url": "https://cdn.mobygames.com/screenshots/9917953-bootris-pc-booter-with-the-extremely-lean-code-this-game-is-pret.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/625487de-ac0b-11ed-a599-02420a000132.webp",
+                "width": 720
+            },
+            {
                 "caption": "...Perhaps a little *too* fast.",
                 "height": 400,
                 "image_url": "https://cdn.mobygames.com/screenshots/9917950-bootris-pc-booter-perhaps-a-little-too-fast.png",
@@ -3818,13 +3825,6 @@
                 "height": 400,
                 "image_url": "https://cdn.mobygames.com/screenshots/9917959-bootris-pc-booter-no-fancy-vga-graphics-here.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/62bdac3c-ac0b-11ed-a599-02420a000132.webp",
-                "width": 720
-            },
-            {
-                "caption": "With the extremely lean code, this game is pretty fast even on the slowest PCs.",
-                "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/9917953-bootris-pc-booter-with-the-extremely-lean-code-this-game-is-pret.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/625487de-ac0b-11ed-a599-02420a000132.webp",
                 "width": 720
             }
         ],
@@ -3914,6 +3914,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "A straight line is sorely missing",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/15949505-tetros-pc-booter-a-straight-line-is-sorely-missing.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e5eaaec4-bf17-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
                 "caption": "Game over (Esc restarts, as it turns out).",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/15949478-tetros-pc-booter-game-over-esc-restarts-as-it-turns-out.png",
@@ -3925,13 +3932,6 @@
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/15949499-tetros-pc-booter-real-men-count-blocks-in-hexadecimal.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/e5ae4196-bf17-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "A straight line is sorely missing",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15949505-tetros-pc-booter-a-straight-line-is-sorely-missing.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e5eaaec4-bf17-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -4119,38 +4119,38 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Eclon station goes boom!",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/4302401-zuran-defender-pc-booter-eclon-station-goes-boom.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/65724630-abad-11ed-b9a3-02420a000197.webp",
+                "width": 320
+            },
+            {
+                "caption": "Loading screen",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/4299681-zuran-defender-pc-booter-loading-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4997430c-abad-11ed-8ed2-02420a0001a0.webp",
+                "width": 320
+            },
+            {
+                "caption": "Title",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/4302698-zuran-defender-pc-booter-title.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/685ff374-abad-11ed-b9a3-02420a000197.webp",
+                "width": 320
+            },
+            {
+                "caption": "An Eclon fighter gets me back.",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/4298173-zuran-defender-pc-booter-an-eclon-fighter-gets-me-back.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/39e91796-abad-11ed-8b6f-02420a00019c.webp",
+                "width": 320
+            },
+            {
                 "caption": "My post-mortem stats",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/4300139-zuran-defender-pc-booter-my-post-mortem-stats.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/4dfbe9d4-abad-11ed-81e3-02420a000199.webp",
-                "width": 320
-            },
-            {
-                "caption": "An animated introduction",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/4297312-zuran-defender-pc-booter-an-animated-introduction.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/30eb369c-abad-11ed-b951-02420a000197.webp",
-                "width": 320
-            },
-            {
-                "caption": "...and promptly proceed to get spanked.",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/4301973-zuran-defender-pc-booter-and-promptly-proceed-to-get-spanked.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/60caddd6-abad-11ed-b9a3-02420a000197.webp",
-                "width": 320
-            },
-            {
-                "caption": "The Eclons drop by for a surprise visit...",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/4302113-zuran-defender-pc-booter-the-eclons-drop-by-for-a-surprise-visit.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/627257ea-abad-11ed-b9a3-02420a000197.webp",
-                "width": 320
-            },
-            {
-                "caption": "High scores table",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/4299806-zuran-defender-pc-booter-high-scores-table.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4ad0b212-abad-11ed-81e3-02420a000199.webp",
                 "width": 320
             }
         ],
@@ -4195,6 +4195,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "'Solo'",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/9629712-pack-regalo-gun-stick-pc-booter-solo.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b1dc60d6-ac08-11ed-87d3-02420a000134.webp",
+                "width": 320
+            },
+            {
                 "caption": "In 'Target Plus' we are defending a roasted chicken from insects",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/9629947-pack-regalo-gun-stick-pc-booter-in-target-plus-we-are-defending-.png",
@@ -4202,17 +4209,10 @@
                 "width": 320
             },
             {
-                "caption": "'Mike Gunner'",
+                "caption": "'Mike Gunner' - the title screen",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/9630741-pack-regalo-gun-stick-pc-booter-mike-gunner.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b3f7aec0-ac08-11ed-aeca-02420a000130.webp",
-                "width": 320
-            },
-            {
-                "caption": "'Solo'",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/9629712-pack-regalo-gun-stick-pc-booter-solo.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b1dc60d6-ac08-11ed-87d3-02420a000134.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/9630744-pack-regalo-gun-stick-pc-booter-mike-gunner-the-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b42cd050-ac08-11ed-aeca-02420a000130.webp",
                 "width": 320
             },
             {
@@ -4223,11 +4223,11 @@
                 "width": 320
             },
             {
-                "caption": "'Mike Gunner' - the title screen",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/9630744-pack-regalo-gun-stick-pc-booter-mike-gunner-the-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b42cd050-ac08-11ed-aeca-02420a000130.webp",
-                "width": 320
+                "caption": "The selection screen allows to launch any of the three games",
+                "height": 400,
+                "image_url": "https://cdn.mobygames.com/screenshots/9629718-pack-regalo-gun-stick-pc-booter-the-selection-screen-allows-to-l.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b2397398-ac08-11ed-87d3-02420a000134.webp",
+                "width": 640
             }
         ],
         "title": "Pack Regalo: Gun Stick"
@@ -4490,17 +4490,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "In game",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/1294136-the-exterminator-pc-booter-in-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ead47134-ab73-11ed-9201-02420a00019c.webp",
-                "width": 320
-            },
-            {
                 "caption": "Very nice title screen",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/1296383-the-exterminator-pc-booter-very-nice-title-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/ef4fae18-ab73-11ed-934f-02420a0001a0.webp",
+                "width": 320
+            },
+            {
+                "caption": "In game",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1294136-the-exterminator-pc-booter-in-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ead47134-ab73-11ed-9201-02420a00019c.webp",
                 "width": 320
             }
         ],

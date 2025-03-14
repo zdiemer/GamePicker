@@ -30,4 +30,6 @@ COOP_GAMES = GameSelector(
     ),
     custom_suffix=lambda g: f" ({', '.join(sorted(g.group_metadata['features']))})",
     include_platform=True,
+    sort=lambda pg: pg.game.combined_rating,
+    reverse_sort=True,
 )

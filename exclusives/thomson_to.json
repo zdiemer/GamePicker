@@ -88,6 +88,20 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Completing second stage",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/6059182-zaptrak-thomson-to-completing-second-stage.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/85ad166c-abeb-11ed-9899-02420a000134.webp",
+                "width": 320
+            },
+            {
+                "caption": "Title screen",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/6059236-zaptrak-thomson-to-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8b098b86-abeb-11ed-9899-02420a000134.webp",
+                "width": 320
+            },
+            {
                 "caption": "Stage 4",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/6057932-zaptrak-thomson-to-stage-4.png",
@@ -102,24 +116,10 @@
                 "width": 320
             },
             {
-                "caption": "Collecting the yellow squares while leaving behind a trail of bricks",
+                "caption": "Completing third stage",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/6059191-zaptrak-thomson-to-collecting-the-yellow-squares-while-leaving-b.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/86721a52-abeb-11ed-9899-02420a000134.webp",
-                "width": 320
-            },
-            {
-                "caption": "Running into trail",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/6059156-zaptrak-thomson-to-running-into-trail.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8aff8cb2-abeb-11ed-aca6-02420a000132.webp",
-                "width": 320
-            },
-            {
-                "caption": "Starting out",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/6059194-zaptrak-thomson-to-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/86b01b5e-abeb-11ed-9899-02420a000134.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/6059153-zaptrak-thomson-to-completing-third-stage.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8acbd066-abeb-11ed-aca6-02420a000132.webp",
                 "width": 320
             }
         ],
@@ -259,24 +259,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title screen",
+                "caption": "Got a rocket to build.",
                 "height": 216,
-                "image_url": "https://cdn.mobygames.com/screenshots/8345281-mission-liftoff-thomson-to-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/79de05b4-abfd-11ed-81c5-02420a00012f.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/8345275-mission-liftoff-thomson-to-got-a-rocket-to-build.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/79457286-abfd-11ed-81c5-02420a00012f.webp",
                 "width": 336
             },
             {
-                "caption": "Instructions",
+                "caption": "Am I facing the wrong way?",
                 "height": 216,
-                "image_url": "https://cdn.mobygames.com/screenshots/8345278-mission-liftoff-thomson-to-instructions.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/798c575a-abfd-11ed-81c5-02420a00012f.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/8345269-mission-liftoff-thomson-to-am-i-facing-the-wrong-way.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/78cdf620-abfd-11ed-81c5-02420a00012f.webp",
                 "width": 336
             },
             {
-                "caption": "Leave my rocket alone!",
+                "caption": "Just picked up a bonus.",
                 "height": 216,
-                "image_url": "https://cdn.mobygames.com/screenshots/8345257-mission-liftoff-thomson-to-leave-my-rocket-alone.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/77d1f1ae-abfd-11ed-81c5-02420a00012f.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/8345260-mission-liftoff-thomson-to-just-picked-up-a-bonus.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/781a3da6-abfd-11ed-81c5-02420a00012f.webp",
                 "width": 336
             },
             {
@@ -287,10 +287,10 @@
                 "width": 336
             },
             {
-                "caption": "Am I facing the wrong way?",
+                "caption": "Instructions",
                 "height": 216,
-                "image_url": "https://cdn.mobygames.com/screenshots/8345269-mission-liftoff-thomson-to-am-i-facing-the-wrong-way.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/78cdf620-abfd-11ed-81c5-02420a00012f.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/8345278-mission-liftoff-thomson-to-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/798c575a-abfd-11ed-81c5-02420a00012f.webp",
                 "width": 336
             }
         ],
@@ -335,5 +335,7 @@
         },
         "sample_screenshots": [],
         "title": "Les Hits de Loriciels 1"
+    }
+]": "Les Hits de Loriciels 1"
     }
 ]

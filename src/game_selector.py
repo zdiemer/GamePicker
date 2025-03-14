@@ -25,12 +25,13 @@ class GameSelector:
     mode: PickerMode
     include_in_picks: bool
     skip_unless_specified: bool
-    take: Optional[int]
+    group_count: Optional[int]
     run_on_modes: Set[PickerMode]
     games: Optional[List[ExcelGame]]
     no_force: bool
     enabled: bool
 
+    _internal_sort: Optional[Callable[[PickedGame], Any]]
     _cache: ExcelBackedCache
     CACHE_FOLDER = "caches"
 
@@ -50,7 +51,7 @@ class GameSelector:
         mode: PickerMode = PickerMode.ALL,
         include_in_picks: bool = True,
         skip_unless_specified: bool = False,
-        take: Optional[int] = None,
+        group_count: Optional[int] = None,
         run_on_modes: Set[PickerMode] = set([]),
         games: Optional[List[ExcelGame]] = None,
         no_force: bool = False,
@@ -65,7 +66,8 @@ class GameSelector:
         self.selector = selector
         self.name = name or selector.__name__.replace("_", " ").strip().title()
         self.grouping = grouping or GameGrouping()
-        self.sort = sort or self.__default_sort
+        self._internal_sort = sort
+        self.sort = self.__get_sort()
         self.include_platform = (
             include_platform is None and grouping is not None
         ) or include_platform
@@ -78,7 +80,7 @@ class GameSelector:
         self.mode = mode
         self.include_in_picks = include_in_picks
         self.skip_unless_specified = skip_unless_specified
-        self.take = take
+        self.group_count = group_count
         self.run_on_modes = run_on_modes
         self.games = games
         self.no_force = no_force
@@ -87,8 +89,20 @@ class GameSelector:
         self.grouping.set_selection_sort(self.sort, self.reverse_sort)
         self._cache = ExcelBackedCache()
 
-    def __default_sort(self, g: PickedGame):
-        return (g.game.normal_title, g.game.release_date, g.game.combined_rating)
+    def __get_sort(self) -> Callable[[PickedGame], Any]:
+        def default_sort(g: PickedGame):
+            sort_by_values = (
+                g.game.normal_title,
+                g.game.release_date,
+                g.game.combined_rating,
+            )
+
+            if self._internal_sort is not None:
+                return (self._internal_sort(g), sort_by_values)
+
+            return sort_by_values
+
+        return default_sort
 
     def __default_prefix_suffix(self, _):
         return ""
@@ -113,9 +127,9 @@ class GameSelector:
             if self.selector is not None
             else self.games or games
         )
-        self.__write_cache(selection[: self.take])
+        self.__write_cache(selection)
 
-        return selection[: self.take]
+        return selection
 
     def select_groups(self, games: List[ExcelGame], _sorted: bool = True) -> GameGroups:
         groups = self.grouping.get_groups(self.select(games), _sorted=True)
@@ -123,8 +137,26 @@ class GameSelector:
         if _sorted:
             for key, group in groups.items():
                 groups[key] = sorted(group, key=self.sort, reverse=self.reverse_sort)[
-                    : self.grouping.take
+                    : self.grouping.group_size
                 ]
+
+                if self.grouping.group_size is not None and self.grouping.should_rank:
+                    # May need to elect a new highest priority game
+                    highest: Optional[PickedGame] = None
+
+                    for g in groups[key]:
+                        if highest is None:
+                            highest = g
+                        elif g.highest_priority:
+                            highest = g
+                            break
+                        elif g.game.combined_rating > highest.game.combined_rating or (
+                            g.game.combined_rating == highest.game.combined_rating
+                            and g.game.normal_title > highest.game.normal_title
+                        ):
+                            highest = g
+
+                    highest.highest_priority = True
 
         return groups
 

@@ -90,13 +90,6 @@
                 "width": 256
             },
             {
-                "caption": "Title screen",
-                "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15933826-albarea-no-otome-pc-fx-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/22307b7a-bf13-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
                 "caption": "The heroine's calendar",
                 "height": 224,
                 "image_url": "https://cdn.mobygames.com/screenshots/15933000-albarea-no-otome-pc-fx-the-heroines-calendar.png",
@@ -104,17 +97,24 @@
                 "width": 256
             },
             {
+                "caption": "Intro: the royal court",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/15932553-albarea-no-otome-pc-fx-intro-the-royal-court.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c0c9da5c-bf12-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Met a woman in a garden",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/15933015-albarea-no-otome-pc-fx-met-a-woman-in-a-garden.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/df3bd2ba-bf12-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
                 "caption": "Studying, studying...",
                 "height": 224,
                 "image_url": "https://cdn.mobygames.com/screenshots/15936113-albarea-no-otome-pc-fx-studying-studying.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/d8b861aa-bf13-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Meeting a girlfriend in a classroom",
-                "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15934144-albarea-no-otome-pc-fx-meeting-a-girlfriend-in-a-classroom.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4f39a0ce-bf13-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -200,13 +200,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Items are sometimes really obvious",
-                "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/16361228-team-innocent-the-point-of-no-return-pc-fx-items-are-sometimes-r.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4da13242-c204-11ed-ab6b-02420a000194.webp",
-                "width": 252
-            },
-            {
                 "caption": "Combat! Saki kicks this poor excuse for a mutated genetic experiment",
                 "height": 224,
                 "image_url": "https://cdn.mobygames.com/screenshots/16068430-team-innocent-the-point-of-no-return-pc-fx-combat-saki-kicks-thi.png",
@@ -214,24 +207,31 @@
                 "width": 252
             },
             {
-                "caption": "Rummage through racks to find all sorts of junk... or is it?",
+                "caption": "Status screen",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/16361213-team-innocent-the-point-of-no-return-pc-fx-rummage-through-racks.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4ce2efee-c204-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15879596-team-innocent-the-point-of-no-return-pc-fx-status-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/34c71c8c-bf02-11ed-9c42-02420a000140.webp",
                 "width": 252
             },
             {
-                "caption": "Intro: the police invades Cronus's lair",
+                "caption": "One of the few (more or less) darker and (slightly) scary scenes in the game",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/16068310-team-innocent-the-point-of-no-return-pc-fx-intro-the-police-inva.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7c1d1364-bf68-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16361219-team-innocent-the-point-of-no-return-pc-fx-one-of-the-few-more-o.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4d2ded5a-c204-11ed-ab6b-02420a000194.webp",
                 "width": 252
             },
             {
-                "caption": "Saki has found an item!",
+                "caption": "Repair the panel by using a specific inventory item",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/16068307-team-innocent-the-point-of-no-return-pc-fx-saki-has-found-an-ite.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7bfe762a-bf68-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16361222-team-innocent-the-point-of-no-return-pc-fx-repair-the-panel-by-u.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4d4f8118-c204-11ed-ab6b-02420a000194.webp",
+                "width": 252
+            },
+            {
+                "caption": "Saki tries to manipulate the gate control",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/16068247-team-innocent-the-point-of-no-return-pc-fx-saki-tries-to-manipul.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/78ed9560-bf68-11ed-9521-02420a000152.webp",
                 "width": 252
             }
         ],
@@ -312,10 +312,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Mountain pass dungeon",
+                "caption": "Mid-game boss battle. This guy hits hard!",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/16315614-miraculum-the-last-revelation-pc-fx-mountain-pass-dungeon.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/668a03c0-c1f4-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16320447-miraculum-the-last-revelation-pc-fx-mid-game-boss-battle-this-gu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e1056ef4-c1f5-11ed-ab6b-02420a000194.webp",
+                "width": 252
+            },
+            {
+                "caption": "On the world map",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/15930143-miraculum-the-last-revelation-pc-fx-on-the-world-map.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fbf31608-bf11-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Sewer dungeon",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/16315422-miraculum-the-last-revelation-pc-fx-sewer-dungeon.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5ac621ae-c1f4-11ed-ab6b-02420a000194.webp",
                 "width": 252
             },
             {
@@ -326,24 +340,10 @@
                 "width": 252
             },
             {
-                "caption": "Castle dungeon",
+                "caption": "Jay is in the port city of Heles",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/16315605-miraculum-the-last-revelation-pc-fx-castle-dungeon.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/663a2cc4-c1f4-11ed-ab6b-02420a000194.webp",
-                "width": 252
-            },
-            {
-                "caption": "Jay engages in a meaningful conversation with a cat",
-                "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15931503-miraculum-the-last-revelation-pc-fx-jay-engages-in-a-meaningful-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7d6f84f0-bf12-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Siegwald, Siegwald, what are you doing?..",
-                "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15931521-miraculum-the-last-revelation-pc-fx-siegwald-siegwald-what-are-y.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7e513800-bf12-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16068631-miraculum-the-last-revelation-pc-fx-jay-is-in-the-port-city-of-h.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/935df304-bf68-11ed-9521-02420a000152.webp",
                 "width": 256
             }
         ],
@@ -424,38 +424,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Menu choices in each location are plentiful",
+                "caption": "Let's go shopping!",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/16073356-lunatic-dawn-fx-pc-fx-menu-choices-in-each-location-are-plentifu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0354f6a2-bf6a-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16073428-lunatic-dawn-fx-pc-fx-lets-go-shopping.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/085bbb68-bf6a-11ed-9521-02420a000152.webp",
                 "width": 256
             },
             {
-                "caption": "Enemy encounter!",
+                "caption": "Maze-like dungeon",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/16073377-lunatic-dawn-fx-pc-fx-enemy-encounter.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0579207a-bf6a-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15911624-lunatic-dawn-fx-pc-fx-maze-like-dungeon.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cb0c9ece-bf0c-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "Dungeons also look very similar. This one at least has some space...",
+                "caption": "Information about your character",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/16073401-lunatic-dawn-fx-pc-fx-dungeons-also-look-very-similar-this-one-a.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0669e4c4-bf6a-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15910486-lunatic-dawn-fx-pc-fx-information-about-your-character.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/86f05eb0-bf0c-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "Party members shout out some random stuff during battles",
+                "caption": "The (very few) character graphics in the game are realistic and have nothing to do with the usual anime style",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/16073335-lunatic-dawn-fx-pc-fx-party-members-shout-out-some-random-stuff-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/01bf20c4-bf6a-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16073110-lunatic-dawn-fx-pc-fx-the-very-few-character-graphics-in-the-gam.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f4741b40-bf69-11ed-9521-02420a000152.webp",
                 "width": 256
             },
             {
-                "caption": "Each town you enter has some information",
+                "caption": "Weapons, weapons...",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/16073224-lunatic-dawn-fx-pc-fx-each-town-you-enter-has-some-information.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/faccc258-bf69-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16073191-lunatic-dawn-fx-pc-fx-weapons-weapons.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f97dff2a-bf69-11ed-9521-02420a000152.webp",
                 "width": 256
             }
         ],
@@ -518,24 +518,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title screen",
+                "caption": "Demons also need to do sports!",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15912128-makeruna-makendo-z-pc-fx-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/eb3439aa-bf0c-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Dialogues with important characters have such pictures",
-                "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/16073116-makeruna-makendo-z-pc-fx-dialogues-with-important-characters-hav.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f4a7bee6-bf69-11ed-9521-02420a000152.webp",
-                "width": 256
-            },
-            {
-                "caption": "Battle!",
-                "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/16073194-makeruna-makendo-z-pc-fx-battle.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f998a1fe-bf69-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16073482-makeruna-makendo-z-pc-fx-demons-also-need-to-do-sports.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0b3288a8-bf6a-11ed-9521-02420a000152.webp",
                 "width": 256
             },
             {
@@ -546,10 +532,24 @@
                 "width": 256
             },
             {
-                "caption": "Our heroines!",
+                "caption": "Oh... my... God",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15912029-makeruna-makendo-z-pc-fx-our-heroines.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e5721dca-bf0c-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16073530-makeruna-makendo-z-pc-fx-oh-my-god.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0d982be8-bf6a-11ed-9521-02420a000152.webp",
+                "width": 256
+            },
+            {
+                "caption": "Visiting a hotel",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/16073494-makeruna-makendo-z-pc-fx-visiting-a-hotel.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0b957b8e-bf6a-11ed-9521-02420a000152.webp",
+                "width": 256
+            },
+            {
+                "caption": "Now you understand why PC-FX games have such a cult following? :)",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/15912077-makeruna-makendo-z-pc-fx-now-you-understand-why-pc-fx-games-have.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e84db6da-bf0c-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -630,31 +630,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Mantou decides whether to attack or defend",
+                "caption": "Some of the moves are ridiculously funny",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15758640-tengai-makyo-denno-karakuri-kakutoden-pc-fx-mantou-decides-wheth.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/aa118cd6-bedd-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16074767-tengai-makyo-denno-karakuri-kakutoden-pc-fx-some-of-the-moves-ar.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6b8a8dea-bf6a-11ed-9521-02420a000152.webp",
                 "width": 256
             },
             {
-                "caption": "...even including my favorite one, the idiot monkey Mantou...",
+                "caption": "Murderous intentions!..",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15965097-tengai-makyo-denno-karakuri-kakutoden-pc-fx-even-including-my-fa.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/51ef10ac-bf1c-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Ziria prepares for battle...",
-                "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15965511-tengai-makyo-denno-karakuri-kakutoden-pc-fx-ziria-prepares-for-b.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/71c42eee-bf1c-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Title screen A",
-                "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/16074533-tengai-makyo-denno-karakuri-kakutoden-pc-fx-title-screen-a.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/59b678cc-bf6a-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15965517-tengai-makyo-denno-karakuri-kakutoden-pc-fx-murderous-intentions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/71f46410-bf1c-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
@@ -662,6 +648,20 @@
                 "height": 224,
                 "image_url": "https://cdn.mobygames.com/screenshots/16074752-tengai-makyo-denno-karakuri-kakutoden-pc-fx-hurray-the-famous-te.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/6a754d14-bf6a-11ed-9521-02420a000152.webp",
+                "width": 256
+            },
+            {
+                "caption": "Kino launches her attack. What will you do, Manjimaru?",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/15758619-tengai-makyo-denno-karakuri-kakutoden-pc-fx-kino-launches-her-at.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a660138c-bedd-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Sexually suggestive?.. You bet!",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/15758565-tengai-makyo-denno-karakuri-kakutoden-pc-fx-sexually-suggestive-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a18155f6-bedd-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -733,38 +733,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "...and bad girls",
+                "caption": "It gets bloody...",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/16074542-battle-heat-pc-fx-and-bad-girls.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5b5e6bf8-bf6a-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16074509-battle-heat-pc-fx-it-gets-bloody.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/587fa532-bf6a-11ed-9521-02420a000152.webp",
                 "width": 256
             },
             {
-                "caption": "I don't know if seeing the opponent's panties can qualify as victory....",
+                "caption": "Free battle mode",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/16074575-battle-heat-pc-fx-i-dont-know-if-seeing-the-opponents-panties-ca.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5d943d9e-bf6a-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16074803-battle-heat-pc-fx-free-battle-mode.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6ed7f032-bf6a-11ed-9521-02420a000152.webp",
                 "width": 256
             },
             {
-                "caption": "Selecting the player (Tournament Mode)",
+                "caption": "A special button is assigned to taunting the enemy",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/16074617-battle-heat-pc-fx-selecting-the-player-tournament-mode.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6017a98e-bf6a-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16074692-battle-heat-pc-fx-a-special-button-is-assigned-to-taunting-the-e.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/65bb99ea-bf6a-11ed-9521-02420a000152.webp",
                 "width": 256
             },
             {
-                "caption": "The bad guys are watching...",
+                "caption": "Close-up. Kai is ready to execute his move",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15966625-battle-heat-pc-fx-the-bad-guys-are-watching.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c0a8d55a-bf1c-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16074605-battle-heat-pc-fx-close-up-kai-is-ready-to-execute-his-move.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5fac0cba-bf6a-11ed-9521-02420a000152.webp",
                 "width": 256
             },
             {
-                "caption": "Let's rock!",
+                "caption": "Even when the fighters do nothing, the camera switches from character to character",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15974702-battle-heat-pc-fx-lets-rock.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/734508f8-bf1f-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16074704-battle-heat-pc-fx-even-when-the-fighters-do-nothing-the-camera-s.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/667edf4a-bf6a-11ed-9521-02420a000152.webp",
                 "width": 256
             }
         ],
@@ -845,24 +845,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Suspicious guys",
+                "caption": "The only thing wrong about the beautiful Verdandi is the idiotic misspelling of her name",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15708811-ah-megami-sama-pc-fx-suspicious-guys.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b1d69bc0-becc-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "The new animated intro: introducing the characters",
-                "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15709210-ah-megami-sama-pc-fx-the-new-animated-intro-introducing-the-char.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cf541e20-becc-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "It's a goddess, as in \"female god\". Key word: \"female\". She will be drawn to a clothes shop like iron to a magnet",
-                "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15758043-ah-megami-sama-pc-fx-its-a-goddess-as-in-female-god-key-word-fem.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/73e5afd4-bedd-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15708187-ah-megami-sama-pc-fx-the-only-thing-wrong-about-the-beautiful-ve.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/822c8ccc-becc-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
@@ -873,10 +859,24 @@
                 "width": 256
             },
             {
-                "caption": "You can play strip poker with them!!... Nah, not really. But it would be good, right?",
+                "caption": "Our hero Keiichi",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15757557-ah-megami-sama-pc-fx-you-can-play-strip-poker-with-them-nah-not-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/43cf6722-bedd-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15708526-ah-megami-sama-pc-fx-our-hero-keiichi.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/99767e60-becc-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Suspicious guys",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/15708811-ah-megami-sama-pc-fx-suspicious-guys.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b1d69bc0-becc-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Timed puzzle-piece-moving... the new mini-game",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/15708958-ah-megami-sama-pc-fx-timed-puzzle-piece-moving-the-new-mini-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bc7a001c-becc-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -966,38 +966,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Empty field. Nothing is here. I'm lonely. Where is a PC-FX when you really need one?",
+                "caption": "Funny intro: the heroes float on a huge die",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15757455-akazukin-cha-cha-osawagase-panic-race-pc-fx-empty-field-nothing-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3dd75bfe-bedd-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15757590-akazukin-cha-cha-osawagase-panic-race-pc-fx-funny-intro-the-hero.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/45bf9d90-bedd-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "Cha-Cha invites you",
+                "caption": "All the heroes together",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15709543-akazukin-cha-cha-osawagase-panic-race-pc-fx-cha-cha-invites-you.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e9af4ae2-becc-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15709639-akazukin-cha-cha-osawagase-panic-race-pc-fx-all-the-heroes-toget.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ef551116-becc-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "Let's go!",
+                "caption": "Wow, what a face...",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15757410-akazukin-cha-cha-osawagase-panic-race-pc-fx-lets-go.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/38ebceae-bedd-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15709732-akazukin-cha-cha-osawagase-panic-race-pc-fx-wow-what-a-face.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f8345b5c-becc-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "The dragon throws dice!!",
+                "caption": "Let's go for a rescue...",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15709684-akazukin-cha-cha-osawagase-panic-race-pc-fx-the-dragon-throws-di.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f297df20-becc-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15709789-akazukin-cha-cha-osawagase-panic-race-pc-fx-lets-go-for-a-rescue.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fc47524e-becc-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "Character stats",
+                "caption": "Marin, the sweet mermaid",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15709816-akazukin-cha-cha-osawagase-panic-race-pc-fx-character-stats.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/fdc57e34-becc-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15709690-akazukin-cha-cha-osawagase-panic-race-pc-fx-marin-the-sweet-merm.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f2dbfdea-becc-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -1069,24 +1069,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Arriving at Austral Island",
+                "caption": "Oh no... Game Over!",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15819557-cutey-honey-fx-pc-fx-arriving-at-austral-island.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/49a38846-bef0-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Standard interaction: cursor becomes yellow when it's possible to use something or talk to someone",
-                "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15637775-cutey-honey-fx-pc-fx-standard-interaction-cursor-becomes-yellow-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/805e7bc0-bdec-11ed-b791-02420a0001bb.webp",
-                "width": 256
-            },
-            {
-                "caption": "Different points on her body are highlighted in rapid motion. Stop the cursor when it lands on a weakpoint!",
-                "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15819533-cutey-honey-fx-pc-fx-different-points-on-her-body-are-highlighte.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/47ff6244-bef0-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15638736-cutey-honey-fx-pc-fx-oh-no-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cfba9e56-bdec-11ed-b791-02420a0001bb.webp",
                 "width": 256
             },
             {
@@ -1097,10 +1083,24 @@
                 "width": 256
             },
             {
-                "caption": "Your cabin in the woods",
+                "caption": "They have a pianist character in this game. Which means it can't be bad! :)",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15818480-cutey-honey-fx-pc-fx-your-cabin-in-the-woods.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f90e5320-beef-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15640370-cutey-honey-fx-pc-fx-they-have-a-pianist-character-in-this-game-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5d0397ea-bded-11ed-b791-02420a0001bb.webp",
+                "width": 256
+            },
+            {
+                "caption": "Region map",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/15818780-cutey-honey-fx-pc-fx-region-map.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0e0d6cc0-bef0-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "I wanted to write \"Gimme a mug o' beer!\", but I've submitted too many screenshots with this title already...",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/15819596-cutey-honey-fx-pc-fx-i-wanted-to-write-gimme-a-mug-o-beer-but-iv.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4c3e6468-bef0-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -1163,38 +1163,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The first boss is a big cool bird",
+                "caption": "Cute pause screen :)",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15820046-chip-chan-kick-pc-fx-the-first-boss-is-a-big-cool-bird.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6b80edc8-bef0-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15638122-chip-chan-kick-pc-fx-cute-pause-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9a34fa88-bdec-11ed-b791-02420a0001bb.webp",
                 "width": 256
             },
             {
-                "caption": "High scores",
+                "caption": "Lots of power-ups up there!",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15819914-chip-chan-kick-pc-fx-high-scores.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6381d592-bef0-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15637948-chip-chan-kick-pc-fx-lots-of-power-ups-up-there.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8e40a556-bdec-11ed-b791-02420a0001bb.webp",
                 "width": 256
             },
             {
-                "caption": "Evil girls are always sexy :)",
+                "caption": "Forest level",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15638631-chip-chan-kick-pc-fx-evil-girls-are-always-sexy.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c838ab00-bdec-11ed-b791-02420a0001bb.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15637753-chip-chan-kick-pc-fx-forest-level.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7f6adfa6-bdec-11ed-b791-02420a0001bb.webp",
                 "width": 256
             },
             {
-                "caption": "Boss stage. Look at the PC-FX commercial in the background :)",
+                "caption": "It was very hard to be so precise with this screenshot, but it was worth it! :)",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15638877-chip-chan-kick-pc-fx-boss-stage-look-at-the-pc-fx-commercial-in-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/dd0bbdd8-bdec-11ed-b791-02420a0001bb.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15638074-chip-chan-kick-pc-fx-it-was-very-hard-to-be-so-precise-with-this.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/96923490-bdec-11ed-b791-02420a0001bb.webp",
                 "width": 256
             },
             {
-                "caption": "Boss stage of the second level",
+                "caption": "Level with evil umbrellas",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15820247-chip-chan-kick-pc-fx-boss-stage-of-the-second-level.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7a425d42-bef0-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15637825-chip-chan-kick-pc-fx-level-with-evil-umbrellas.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/83de697c-bdec-11ed-b791-02420a0001bb.webp",
                 "width": 256
             }
         ],
@@ -1266,38 +1266,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "You can buy a PC-FX here :-)",
+                "caption": "Naming your heroine",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15638233-comicroad-pc-fx-you-can-buy-a-pc-fx-here-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a61121ec-bdec-11ed-b791-02420a0001bb.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15820712-comicroad-pc-fx-naming-your-heroine.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9f3657c0-bef0-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "Money management",
+                "caption": "Doing nothing, just watching TV and resting",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15820556-comicroad-pc-fx-money-management.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8fea29f4-bef0-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15821192-comicroad-pc-fx-doing-nothing-just-watching-tv-and-resting.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c7367ad4-bef0-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "Title screen",
+                "caption": "Shopping area",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15821042-comicroad-pc-fx-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bdb932f8-bef0-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15820520-comicroad-pc-fx-shopping-area.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8e3c9592-bef0-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "Parameters decreased... next time don't watch so much TV :)",
+                "caption": "Visiting a drugstore",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15638739-comicroad-pc-fx-parameters-decreased-next-time-dont-watch-so-muc.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d2940c16-bdec-11ed-b791-02420a0001bb.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15821141-comicroad-pc-fx-visiting-a-drugstore.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c3cd1b00-bef0-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "Main action menu, from where you can access most of the options",
+                "caption": "You got a letter!",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15638916-comicroad-pc-fx-main-action-menu-from-where-you-can-access-most-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e013a7ac-bdec-11ed-b791-02420a0001bb.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15820748-comicroad-pc-fx-you-got-a-letter.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a267a6f6-bef0-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -1392,38 +1392,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Choices, choices...",
+                "caption": "All the heroes, good and evil :)",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15829529-ginga-ojosama-densetsu-yuna-fx-kanashimi-no-sirene-pc-fx-choices.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/46e4c3c4-bef3-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15829517-ginga-ojosama-densetsu-yuna-fx-kanashimi-no-sirene-pc-fx-all-the.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/46714d5e-bef3-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "Yuna looks satisfied.",
+                "caption": "Oh, how sad...",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15829550-ginga-ojosama-densetsu-yuna-fx-kanashimi-no-sirene-pc-fx-yuna-lo.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/48e24b2e-bef3-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15828878-ginga-ojosama-densetsu-yuna-fx-kanashimi-no-sirene-pc-fx-oh-how-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1b513bb6-bef3-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "Here you can read some background information about the characters.",
+                "caption": "Album: view all the characters",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15829577-ginga-ojosama-densetsu-yuna-fx-kanashimi-no-sirene-pc-fx-here-yo.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4a2eab44-bef3-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15828593-ginga-ojosama-densetsu-yuna-fx-kanashimi-no-sirene-pc-fx-album-v.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/079eeb68-bef3-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "We won, we won!",
+                "caption": "Yuna and Yuri",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15829505-ginga-ojosama-densetsu-yuna-fx-kanashimi-no-sirene-pc-fx-we-won-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/46085a92-bef3-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15828893-ginga-ojosama-densetsu-yuna-fx-kanashimi-no-sirene-pc-fx-yuna-an.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1bec5696-bef3-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "Eat that, bimbo!",
+                "caption": "Quiz it up!",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15829478-ginga-ojosama-densetsu-yuna-fx-kanashimi-no-sirene-pc-fx-eat-tha.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/44d46d82-bef3-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15829532-ginga-ojosama-densetsu-yuna-fx-kanashimi-no-sirene-pc-fx-quiz-it.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/47f2dfe4-bef3-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -1513,38 +1513,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Choose your character!",
+                "caption": "Classic beat-em-up scenario: on the train roof",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15830871-kishin-doji-zenki-fx-vajra-fight-pc-fx-choose-your-character.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a6f9b422-bef3-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15830874-kishin-doji-zenki-fx-vajra-fight-pc-fx-classic-beat-em-up-scenar.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a716c9ea-bef3-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "This train is a wreck. Even the frog can't bear it any more...",
+                "caption": "Oh, oh, now this is a mess... it will take hours to get that dress clean, you hear me?!",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15831363-kishin-doji-zenki-fx-vajra-fight-pc-fx-this-train-is-a-wreck-eve.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cdb994f6-bef3-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15831390-kishin-doji-zenki-fx-vajra-fight-pc-fx-oh-oh-now-this-is-a-mess-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d0065e74-bef3-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "Playing as Chiaki. Fighting a cool purple guy in a temple.",
+                "caption": "First class car! First class undead?..",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15831147-kishin-doji-zenki-fx-vajra-fight-pc-fx-playing-as-chiaki-fightin.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/be303a30-bef3-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15831075-kishin-doji-zenki-fx-vajra-fight-pc-fx-first-class-car-first-cla.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b97392bc-bef3-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "Not much left in the way of demon powers, eh, Zenki? All you can do is destroying bananas, you big monkey :)",
+                "caption": "Title screen A",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15831177-kishin-doji-zenki-fx-vajra-fight-pc-fx-not-much-left-in-the-way-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c007fb9a-bef3-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15831285-kishin-doji-zenki-fx-vajra-fight-pc-fx-title-screen-a.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c7f4b50a-bef3-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "I like practicing in elevators. No one to complain about the noise, you know what I'm saying?",
+                "caption": "How rude! She hit me with a tray!",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15730386-kishin-doji-zenki-fx-vajra-fight-pc-fx-i-like-practicing-in-elev.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cb4de200-bed3-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15830898-kishin-doji-zenki-fx-vajra-fight-pc-fx-how-rude-she-hit-me-with-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a9a0cc1a-bef3-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -1625,24 +1625,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "What is this sci-fi place?",
+                "caption": "Cure me! Now! ",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15836944-megami-tengoku-ii-pc-fx-what-is-this-sci-fi-place.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/66373ed0-bef5-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15836020-megami-tengoku-ii-pc-fx-cure-me-now.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1e2238ac-bef5-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "Choosing your favorite shrine maiden.",
+                "caption": "I'm hungry. Gotta eat.",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15836155-megami-tengoku-ii-pc-fx-choosing-your-favorite-shrine-maiden.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2a763acc-bef5-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "I'm quite sure this screenshot is one of MobyGames' most valuable assets :)",
-                "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15730341-megami-tengoku-ii-pc-fx-im-quite-sure-this-screenshot-is-one-of-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c8154718-bed3-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15836278-megami-tengoku-ii-pc-fx-im-hungry-gotta-eat.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3251228e-bef5-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
@@ -1653,10 +1646,17 @@
                 "width": 256
             },
             {
-                "caption": "This bar is not open yet.",
+                "caption": "Maharaja's stats",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15837004-megami-tengoku-ii-pc-fx-this-bar-is-not-open-yet.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6d1380a6-bef5-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15837235-megami-tengoku-ii-pc-fx-maharajas-stats.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8057710e-bef5-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "SEX SHOP! No kidding!",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/15836521-megami-tengoku-ii-pc-fx-sex-shop-no-kidding.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/42851d40-bef5-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -1728,38 +1728,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Cat named Elvis. Really :)",
+                "caption": "She is still sleeping... or so Michael thinks",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15839926-minimum-nanonic-pc-fx-cat-named-elvis-really.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6b962818-bef6-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15839890-minimum-nanonic-pc-fx-she-is-still-sleeping-or-so-michael-thinks.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6a2b481e-bef6-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "Michael confronts a robot!",
+                "caption": "Talking to an old geezer who got revived because of the explosion",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15839977-minimum-nanonic-pc-fx-michael-confronts-a-robot.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6e32a0ba-bef6-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15839905-minimum-nanonic-pc-fx-talking-to-an-old-geezer-who-got-revived-b.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6adda8e2-bef6-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "Funny animations :)",
+                "caption": "Intro. Cute expression :)",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15840301-minimum-nanonic-pc-fx-funny-animations.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8b75050a-bef6-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15839851-minimum-nanonic-pc-fx-intro-cute-expression.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/679de28c-bef6-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "Hikari is awake and is staring at Michael",
+                "caption": "Typical menu screen",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15840025-minimum-nanonic-pc-fx-hikari-is-awake-and-is-staring-at-michael.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/710b0052-bef6-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15839755-minimum-nanonic-pc-fx-typical-menu-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5f512382-bef6-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "What.. was.. that?",
+                "caption": "Time to do some searching!",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15840043-minimum-nanonic-pc-fx-what-was-that.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/71e16a2a-bef6-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15840544-minimum-nanonic-pc-fx-time-to-do-some-searching.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9e991a9a-bef6-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -1858,6 +1858,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Found an item!",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/15841576-ojosama-sosamo-pc-fx-found-an-item.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e949609a-bef6-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
                 "caption": "And that's an official Game Over",
                 "height": 224,
                 "image_url": "https://cdn.mobygames.com/screenshots/15731481-ojosama-sosamo-pc-fx-and-thats-an-official-game-over.png",
@@ -1872,24 +1879,17 @@
                 "width": 256
             },
             {
-                "caption": "Those girls aren't even the heroes... they are enemies, damn it! :)",
+                "caption": "Let's rock!",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15841447-ojosama-sosamo-pc-fx-those-girls-arent-even-the-heroes-they-are-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/dd90471e-bef6-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15841030-ojosama-sosamo-pc-fx-lets-rock.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c5762e82-bef6-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "Hmm, hmm, now that looks like something I could... ehh... borrow. Hehe, hehe!",
+                "caption": "Lockers, lockers, careful, careful...",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15840856-ojosama-sosamo-pc-fx-hmm-hmm-now-that-looks-like-something-i-cou.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b8531698-bef6-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Intro",
-                "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15840709-ojosama-sosamo-pc-fx-intro.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ad5b615a-bef6-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15841009-ojosama-sosamo-pc-fx-lockers-lockers-careful-careful.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c3b67a84-bef6-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -1952,6 +1952,27 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Pachio-kun with his back to us, contemplating the setting sun, pondering the philosophy of Schopenhauer... or maybe not.",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/15841705-pachio-kun-fx-maboroshi-no-shima-daikessen-pc-fx-pachio-kun-with.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f06f6810-bef6-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Intro",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/15841783-pachio-kun-fx-maboroshi-no-shima-daikessen-pc-fx-intro.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f71c437c-bef6-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Ghost Island? Looks ghost-y enough...",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/15841780-pachio-kun-fx-maboroshi-no-shima-daikessen-pc-fx-ghost-island-lo.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f6fae952-bef6-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
                 "caption": "A Jewish meeting? Nah, just a pachinko tournament",
                 "height": 224,
                 "image_url": "https://cdn.mobygames.com/screenshots/15841762-pachio-kun-fx-maboroshi-no-shima-daikessen-pc-fx-a-jewish-meetin.png",
@@ -1963,27 +1984,6 @@
                 "height": 224,
                 "image_url": "https://cdn.mobygames.com/screenshots/15841747-pachio-kun-fx-maboroshi-no-shima-daikessen-pc-fx-love-the-outfit.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/f46f5678-bef6-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Intro",
-                "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15841783-pachio-kun-fx-maboroshi-no-shima-daikessen-pc-fx-intro.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f71c437c-bef6-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Pachio-kun with his back to us, contemplating the setting sun, pondering the philosophy of Schopenhauer... or maybe not.",
-                "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15841705-pachio-kun-fx-maboroshi-no-shima-daikessen-pc-fx-pachio-kun-with.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f06f6810-bef6-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Ghost Island? Looks ghost-y enough...",
-                "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15841780-pachio-kun-fx-maboroshi-no-shima-daikessen-pc-fx-ghost-island-lo.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f6fae952-bef6-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -2073,10 +2073,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Wow, this looks impressive...",
+                "caption": "Title screen",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15843614-power-dolls-fx-pc-fx-wow-this-looks-impressive.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/89cac31a-bef7-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15842987-power-dolls-fx-pc-fx-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/58460c3c-bef7-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Let's go, girls!",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/15636700-power-dolls-fx-pc-fx-lets-go-girls.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2838e91c-bdec-11ed-b791-02420a0001bb.webp",
+                "width": 256
+            },
+            {
+                "caption": "Enemy robot is hit!",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/15843671-power-dolls-fx-pc-fx-enemy-robot-is-hit.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/90406e8e-bef7-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
@@ -2087,24 +2101,10 @@
                 "width": 256
             },
             {
-                "caption": "Crosssing a bridge.",
+                "caption": "Character information",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15843554-power-dolls-fx-pc-fx-crosssing-a-bridge.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/86fed130-bef7-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Analyzing enemy robots.",
-                "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15743004-power-dolls-fx-pc-fx-analyzing-enemy-robots.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/41a647fe-bed8-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Battle mision",
-                "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15636733-power-dolls-fx-pc-fx-battle-mision.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2b2b4cbe-bdec-11ed-b791-02420a0001bb.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15636682-power-dolls-fx-pc-fx-character-information.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2771ce54-bdec-11ed-b791-02420a0001bb.webp",
                 "width": 256
             }
         ],
@@ -2176,38 +2176,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title screen",
+                "caption": "Tournament table",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15644120-zen-nihon-joshi-pro-wrestling-queen-of-queens-pc-fx-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b1aafcce-bdee-11ed-b791-02420a0001bb.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15644234-zen-nihon-joshi-pro-wrestling-queen-of-queens-pc-fx-tournament-t.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bb5b1344-bdee-11ed-b791-02420a0001bb.webp",
                 "width": 256
             },
             {
-                "caption": "Settings for the match",
+                "caption": "She is ready to jump from the ropes...",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15751404-zen-nihon-joshi-pro-wrestling-queen-of-queens-pc-fx-settings-for.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e650255c-beda-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15645100-zen-nihon-joshi-pro-wrestling-queen-of-queens-pc-fx-she-is-ready.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/21566d1a-bdef-11ed-b791-02420a0001bb.webp",
                 "width": 256
             },
             {
-                "caption": "Here you can see information about the wrestlers",
+                "caption": "Hey, it's Hokuto Akira!",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15644864-zen-nihon-joshi-pro-wrestling-queen-of-queens-pc-fx-here-you-can.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f99e8852-bdee-11ed-b791-02420a0001bb.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15751320-zen-nihon-joshi-pro-wrestling-queen-of-queens-pc-fx-hey-its-hoku.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/deee6dc8-beda-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "No! Never surrender!",
+                "caption": "Will you play those PC-FX games again? Will you?! Answer!!",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15645208-zen-nihon-joshi-pro-wrestling-queen-of-queens-pc-fx-no-never-sur.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/26e6e034-bdef-11ed-b791-02420a0001bb.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15644516-zen-nihon-joshi-pro-wrestling-queen-of-queens-pc-fx-will-you-pla.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/da5b3544-bdee-11ed-b791-02420a0001bb.webp",
                 "width": 256
             },
             {
-                "caption": "Aji Kong. Very scary",
+                "caption": "Nice moves there!",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15644465-zen-nihon-joshi-pro-wrestling-queen-of-queens-pc-fx-aji-kong-ver.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d4b9673c-bdee-11ed-b791-02420a0001bb.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15751338-zen-nihon-joshi-pro-wrestling-queen-of-queens-pc-fx-nice-moves-t.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e0a69e60-beda-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -2288,24 +2288,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Cut scene. Imprisoned Reinas",
+                "caption": "Love at first sight?",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15751539-rururi-ra-rura-pc-fx-cut-scene-imprisoned-reinas.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ee093b30-beda-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15647158-rururi-ra-rura-pc-fx-love-at-first-sight.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d4ad4186-bdef-11ed-b791-02420a0001bb.webp",
                 "width": 256
             },
             {
-                "caption": "Boss battle against a bat",
+                "caption": "Starting location",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15647143-rururi-ra-rura-pc-fx-boss-battle-against-a-bat.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d42d903a-bdef-11ed-b791-02420a0001bb.webp",
-                "width": 256
-            },
-            {
-                "caption": "Axid fights a boss bird",
-                "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15647257-rururi-ra-rura-pc-fx-axid-fights-a-boss-bird.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/de6512d0-bdef-11ed-b791-02420a0001bb.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15647098-rururi-ra-rura-pc-fx-starting-location.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d1117574-bdef-11ed-b791-02420a0001bb.webp",
                 "width": 256
             },
             {
@@ -2316,10 +2309,17 @@
                 "width": 256
             },
             {
-                "caption": "Title screen",
+                "caption": "Cut scene. Imprisoned Reinas",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15646945-rururi-ra-rura-pc-fx-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c44d7d6a-bdef-11ed-b791-02420a0001bb.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15751539-rururi-ra-rura-pc-fx-cut-scene-imprisoned-reinas.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ee093b30-beda-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Intro",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/15646936-rururi-ra-rura-pc-fx-intro.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c2dfda2c-bdef-11ed-b791-02420a0001bb.webp",
                 "width": 256
             }
         ],
@@ -2391,38 +2391,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Each day begins on this screen",
+                "caption": "The three stars together",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15648040-voice-paradise-pc-fx-each-day-begins-on-this-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/229041e6-bdf0-11ed-b791-02420a0001bb.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15648175-voice-paradise-pc-fx-the-three-stars-together.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2de44a9c-bdf0-11ed-b791-02420a0001bb.webp",
                 "width": 256
             },
             {
-                "caption": "Let's buy some movies!",
+                "caption": "Citron gives you advices",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15790670-voice-paradise-pc-fx-lets-buy-some-movies.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c169a97c-bee7-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15648196-voice-paradise-pc-fx-citron-gives-you-advices.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2f04d8d8-bdf0-11ed-b791-02420a0001bb.webp",
                 "width": 256
             },
             {
-                "caption": "itron explains to you some stuff",
+                "caption": "What a cute loading screen :)",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15648028-voice-paradise-pc-fx-itron-explains-to-you-some-stuff.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2186ebce-bdf0-11ed-b791-02420a0001bb.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15791783-voice-paradise-pc-fx-what-a-cute-loading-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/19543d8c-bee8-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "Take pictures of the girls!",
+                "caption": "Title screen",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15789852-voice-paradise-pc-fx-take-pictures-of-the-girls.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/690d2d80-bee7-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15648052-voice-paradise-pc-fx-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2344cea4-bdf0-11ed-b791-02420a0001bb.webp",
                 "width": 256
             },
             {
-                "caption": "TV production office. Maybe you'll find something helpful here...",
+                "caption": "Information about five famous voice actresses",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15647800-voice-paradise-pc-fx-tv-production-office-maybe-youll-find-somet.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0df36fb0-bdf0-11ed-b791-02420a0001bb.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15648187-voice-paradise-pc-fx-information-about-five-famous-voice-actress.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2ea3d4e8-bdf0-11ed-b791-02420a0001bb.webp",
                 "width": 256
             }
         ],
@@ -2494,38 +2494,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "... Now that's better... *wipes sweat off the forehead*",
+                "caption": "Taking to Diamond in a room",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15649756-sparkling-feather-pc-fx-now-thats-better-wipes-sweat-off-the-for.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cd9f8056-bdf0-11ed-b791-02420a0001bb.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15648310-sparkling-feather-pc-fx-taking-to-diamond-in-a-room.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3712e970-bdf0-11ed-b791-02420a0001bb.webp",
                 "width": 256
             },
             {
-                "caption": "Introducing the hero(ine)s",
+                "caption": "No, she is not a dominatrix. She is the leader of the Feathers. And maybe a dominatrix too, who knows, right?.. :p",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15804440-sparkling-feather-pc-fx-introducing-the-heroines.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/dda990bc-beeb-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15648319-sparkling-feather-pc-fx-no-she-is-not-a-dominatrix-she-is-the-le.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/38587002-bdf0-11ed-b791-02420a0001bb.webp",
                 "width": 256
             },
             {
-                "caption": "Title screen",
+                "caption": "She was just changing to her battle clothes and could not imagine that some bad guy with a PC-FX emulator will capture a screenshot...",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15649129-sparkling-feather-pc-fx-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8adb867a-bdf0-11ed-b791-02420a0001bb.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15804353-sparkling-feather-pc-fx-she-was-just-changing-to-her-battle-clot.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d922669a-beeb-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "Hero-naming screen with cool background",
+                "caption": "It's a very brief moment... I'm so proud I managed to capture this shot to be preserved for future generations :)",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15649162-sparkling-feather-pc-fx-hero-naming-screen-with-cool-background.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8dc17e6c-bdf0-11ed-b791-02420a0001bb.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15804413-sparkling-feather-pc-fx-its-a-very-brief-moment-im-so-proud-i-ma.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dc1825ce-beeb-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "Item management menu",
+                "caption": "Battle begins!",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15649507-sparkling-feather-pc-fx-item-management-menu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b68b2258-bdf0-11ed-b791-02420a0001bb.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15648307-sparkling-feather-pc-fx-battle-begins.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/36f97e04-bdf0-11ed-b791-02420a0001bb.webp",
                 "width": 256
             }
         ],
@@ -2606,31 +2606,31 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Edalt with her per monkey",
+                "caption": "Futuristic scenario. Nice graphics",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15752877-tekipaki-working-love-fx-pc-fx-edalt-with-her-per-monkey.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/42537bf6-bedb-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15654225-tekipaki-working-love-fx-pc-fx-futuristic-scenario-nice-graphics.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4aa01e74-bdf3-11ed-a067-02420a0001bb.webp",
+                "width": 341
+            },
+            {
+                "caption": "Scenario 1: find the Martian cat!",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/15654222-tekipaki-working-love-fx-pc-fx-scenario-1-find-the-martian-cat.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4a7efbf4-bdf3-11ed-a067-02420a0001bb.webp",
+                "width": 341
+            },
+            {
+                "caption": "Naomi",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/15654195-tekipaki-working-love-fx-pc-fx-naomi.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/47e4150a-bdf3-11ed-a067-02420a0001bb.webp",
                 "width": 256
             },
             {
-                "caption": "Omake mode",
+                "caption": "Again this woman...",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15654279-tekipaki-working-love-fx-pc-fx-omake-mode.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4d1cdfa2-bdf3-11ed-a067-02420a0001bb.webp",
-                "width": 341
-            },
-            {
-                "caption": "Cool monkey, right? With sideburns and all :)",
-                "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15654513-tekipaki-working-love-fx-pc-fx-cool-monkey-right-with-sideburns-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/62c5ada2-bdf3-11ed-a067-02420a0001bb.webp",
-                "width": 341
-            },
-            {
-                "caption": "Play the scenarios?",
-                "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15752523-tekipaki-working-love-fx-pc-fx-play-the-scenarios.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2cb23486-bedb-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15752496-tekipaki-working-love-fx-pc-fx-again-this-woman.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2bd31062-bedb-11ed-9c42-02420a000140.webp",
                 "width": 341
             },
             {
@@ -2709,38 +2709,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Knock or go in? Your choice",
+                "caption": "They are quarreling over the man :) Ahhhh :)",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15655776-tenchi-muyo-ryo-oki-fx-pc-fx-knock-or-go-in-your-choice.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e233df14-bdf3-11ed-a067-02420a0001bb.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15655443-tenchi-muyo-ryo-oki-fx-pc-fx-they-are-quarreling-over-the-man-ah.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c259401c-bdf3-11ed-a067-02420a0001bb.webp",
                 "width": 256
             },
             {
-                "caption": "Outside of Tenchi's house",
+                "caption": "The great scientist Washu",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15752916-tenchi-muyo-ryo-oki-fx-pc-fx-outside-of-tenchis-house.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/47405dc8-bedb-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15655797-tenchi-muyo-ryo-oki-fx-pc-fx-the-great-scientist-washu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e42910c8-bdf3-11ed-a067-02420a0001bb.webp",
                 "width": 256
             },
             {
-                "caption": "Empty garden",
+                "caption": "Intro",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15655449-tenchi-muyo-ryo-oki-fx-pc-fx-empty-garden.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c2aba528-bdf3-11ed-a067-02420a0001bb.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15753093-tenchi-muyo-ryo-oki-fx-pc-fx-intro.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/554457bc-bedb-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "Lots of funny portraits :)",
+                "caption": "Hero in his room",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15655947-tenchi-muyo-ryo-oki-fx-pc-fx-lots-of-funny-portraits.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ef40895a-bdf3-11ed-a067-02420a0001bb.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15655938-tenchi-muyo-ryo-oki-fx-pc-fx-hero-in-his-room.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ee9ddc82-bdf3-11ed-a067-02420a0001bb.webp",
                 "width": 256
             },
             {
-                "caption": "Title screen",
+                "caption": "The chapter begins...",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15753084-tenchi-muyo-ryo-oki-fx-pc-fx-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/54eedb16-bedb-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15655728-tenchi-muyo-ryo-oki-fx-pc-fx-the-chapter-begins.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/de480722-bdf3-11ed-a067-02420a0001bb.webp",
                 "width": 256
             }
         ],
@@ -2877,31 +2877,31 @@
                 "width": 256
             },
             {
-                "caption": "On the roof. Nobody is here",
+                "caption": "That was Rolfee's castle...",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15658528-tonari-no-princess-rolfee-pc-fx-on-the-roof-nobody-is-here.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ff7375c2-beba-11ed-974c-02420a00013e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15656235-tonari-no-princess-rolfee-pc-fx-that-was-rolfees-castle.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0cb85c74-bdf4-11ed-a067-02420a0001bb.webp",
                 "width": 256
             },
             {
-                "caption": "First day in school...",
+                "caption": "Railway station",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15796169-tonari-no-princess-rolfee-pc-fx-first-day-in-school.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/82ad3378-bee9-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15778522-tonari-no-princess-rolfee-pc-fx-railway-station.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/74d4a8c2-bee3-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "Title screen... without the title :()",
+                "caption": "Meeting classmates",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15656244-tonari-no-princess-rolfee-pc-fx-title-screen-without-the-title.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0d8ee9a6-bdf4-11ed-a067-02420a0001bb.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15779467-tonari-no-princess-rolfee-pc-fx-meeting-classmates.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b12eba56-bee3-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "Buying toys",
+                "caption": "School park",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15659062-tonari-no-princess-rolfee-pc-fx-buying-toys.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/363d7b20-bebb-11ed-974c-02420a00013e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15656433-tonari-no-princess-rolfee-pc-fx-school-park.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1e1d6acc-bdf4-11ed-a067-02420a0001bb.webp",
                 "width": 256
             }
         ],
@@ -3000,17 +3000,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Choose your machine mode",
+                "caption": "Die, suckers!!",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15784252-choshin-heiki-zeroigar-pc-fx-choose-your-machine-mode.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6e82c1e6-bee5-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15660358-choshin-heiki-zeroigar-pc-fx-die-suckers.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c5fec2be-bebb-11ed-974c-02420a00013e.webp",
                 "width": 256
             },
             {
-                "caption": "Title screen",
+                "caption": "Here you can level up",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15786851-choshin-heiki-zeroigar-pc-fx-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5d6a7d08-bee6-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15781828-choshin-heiki-zeroigar-pc-fx-here-you-can-level-up.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9f3ecfce-bee4-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
@@ -3021,17 +3021,17 @@
                 "width": 256
             },
             {
-                "caption": "Die, suckers!!",
+                "caption": "Intro",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15660358-choshin-heiki-zeroigar-pc-fx-die-suckers.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c5fec2be-bebb-11ed-974c-02420a00013e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15660304-choshin-heiki-zeroigar-pc-fx-intro.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/be9ed310-bebb-11ed-974c-02420a00013e.webp",
                 "width": 256
             },
             {
-                "caption": "Game Over. Continue?",
+                "caption": "Trial mode",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15781852-choshin-heiki-zeroigar-pc-fx-game-over-continue.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a16f5d04-bee4-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15660499-choshin-heiki-zeroigar-pc-fx-trial-mode.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d844b474-bebb-11ed-974c-02420a00013e.webp",
                 "width": 256
             }
         ],
@@ -3103,6 +3103,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Main menu",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/15662563-super-power-league-fx-pc-fx-main-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a1794116-bebc-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
                 "caption": "Managing player positions",
                 "height": 224,
                 "image_url": "https://cdn.mobygames.com/screenshots/15662308-super-power-league-fx-pc-fx-managing-player-positions.png",
@@ -3110,10 +3117,10 @@
                 "width": 256
             },
             {
-                "caption": "Strike! Almost...",
+                "caption": "Let's rock!",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15662299-super-power-league-fx-pc-fx-strike-almost.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/86d093fa-bebc-11ed-974c-02420a00013e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16865088-super-power-league-fx-pc-fx-lets-rock.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/095e6998-c3f7-11ed-be63-02420a000121.webp",
                 "width": 256
             },
             {
@@ -3124,17 +3131,10 @@
                 "width": 256
             },
             {
-                "caption": "Choose your NPB team",
+                "caption": "The players",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15662680-super-power-league-fx-pc-fx-choose-your-npb-team.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/afaa22d2-bebc-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Main menu",
-                "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15662563-super-power-league-fx-pc-fx-main-menu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a1794116-bebc-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15662659-super-power-league-fx-pc-fx-the-players.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ad51339a-bebc-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -3215,10 +3215,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Information about Megami Tengoku II",
+                "caption": "Whaddaya mean it's the same screenshot as the previous one? Front and back! HUGE difference! :)",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15990325-anime-freak-fx-vol1-pc-fx-information-about-megami-tengoku-ii.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/34394756-bf23-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15991261-anime-freak-fx-vol1-pc-fx-whaddaya-mean-its-the-same-screenshot-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6cdf82d2-bf23-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
@@ -3236,17 +3236,17 @@
                 "width": 256
             },
             {
+                "caption": "Any other description but \"Mmmmmm!\" would be a blasphemy, right?",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/15663721-anime-freak-fx-vol1-pc-fx-any-other-description-but-mmmmmm-would.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/02a9887e-bebd-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
                 "caption": "Use the force, Luke!",
                 "height": 224,
                 "image_url": "https://cdn.mobygames.com/screenshots/15663700-anime-freak-fx-vol1-pc-fx-use-the-force-luke.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/016e4d5a-bebd-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "\"Idol freak\" is a collection of anime FMVs of Lilith from <moby game=\"Megami Paradise II\"> Megami Paradise II</moby>",
-                "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15663703-anime-freak-fx-vol1-pc-fx-idol-freak-is-a-collection-of-anime-fm.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/01870232-bebd-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -3336,24 +3336,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Merry Christmas!",
+                "caption": "I won! I won! I got a star!",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15664718-anime-freak-fx-vol2-pc-fx-merry-christmas.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/711b8104-bebd-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "\"Make me Smile\" from <moby game=\"akazukin\"> Akazukin Cha-Cha</moby>, if I'm not mistaken",
-                "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15992746-anime-freak-fx-vol2-pc-fx-make-me-smile-from-moby-gameakazukin-a.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c299676a-bf23-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Welcome to <moby game=\"Blue Seed\"> Blue Seed</moby> world!",
-                "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15665399-anime-freak-fx-vol2-pc-fx-welcome-to-moby-gameblue-seed-blue-see.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b392bea8-bebd-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15664976-anime-freak-fx-vol2-pc-fx-i-won-i-won-i-got-a-star.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8a6bdd52-bebd-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
@@ -3361,6 +3347,20 @@
                 "height": 224,
                 "image_url": "https://cdn.mobygames.com/screenshots/15996501-anime-freak-fx-vol2-pc-fx-momiji-from-blue-seed-in-3d.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/a7f0c2ae-bf24-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "View pictures of heroiens from PC-FX games",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/15996540-anime-freak-fx-vol2-pc-fx-view-pictures-of-heroiens-from-pc-fx-g.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ab03027c-bf24-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "More about Blue Seed, which will be a Saturn-only game...",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/15665306-anime-freak-fx-vol2-pc-fx-more-about-blue-seed-which-will-be-a-s.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/aa5cea98-bebd-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
@@ -3448,10 +3448,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Karaoke mode",
+                "caption": "Neon Genesis?.. That's interesting. They never made a PC-FX game based on this",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15666410-anime-freak-fx-vol3-pc-fx-karaoke-mode.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/026cad4a-bebe-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15992614-anime-freak-fx-vol3-pc-fx-neon-genesis-thats-interesting-they-ne.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bb1518b8-bf23-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Episode of \"Voice Idol\"",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/15992650-anime-freak-fx-vol3-pc-fx-episode-of-voice-idol.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bc69f184-bf23-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
@@ -3462,24 +3469,17 @@
                 "width": 256
             },
             {
-                "caption": "Photo & Talk",
+                "caption": "Lots of information...",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15665567-anime-freak-fx-vol3-pc-fx-photo-talk.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c32c9096-bebd-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15992365-anime-freak-fx-vol3-pc-fx-lots-of-information.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/aba5b806-bf23-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "Neon Genesis?.. That's interesting. They never made a PC-FX game based on this",
+                "caption": "Ryou-ouki from <moby game=\"tenchi ryou-ouki\"> Tenchi Muyou: Ryou-ouki</moby>",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15992614-anime-freak-fx-vol3-pc-fx-neon-genesis-thats-interesting-they-ne.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bb1518b8-bf23-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "That's a great intro, if I ever seen one! :)",
-                "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15666092-anime-freak-fx-vol3-pc-fx-thats-a-great-intro-if-i-ever-seen-one.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e9494346-bebd-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15992635-anime-freak-fx-vol3-pc-fx-ryou-ouki-from-moby-gametenchi-ryou-ou.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bbd9d4f0-bf23-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -3551,10 +3551,31 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Data Library",
+                "caption": "Freaks News",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15666560-anime-freak-fx-vol5-pc-fx-data-library.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0f2cfe68-bebe-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15667019-anime-freak-fx-vol5-pc-fx-freaks-news.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/37ca7a9e-bebe-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "A complete guide to <moby game=\"Megami Tengoku II\"> Megami Tengoku II</moby>!",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/15993922-anime-freak-fx-vol5-pc-fx-a-complete-guide-to-moby-gamemegami-te.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/040feac0-bf24-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Main menu",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/15993994-anime-freak-fx-vol5-pc-fx-main-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/089bc6fe-bf24-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Everything you wanted to know about PC-FX, but were afraid to ask",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/15667004-anime-freak-fx-vol5-pc-fx-everything-you-wanted-to-know-about-pc.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3729ea5c-bebe-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
@@ -3562,27 +3583,6 @@
                 "height": 224,
                 "image_url": "https://cdn.mobygames.com/screenshots/15995028-anime-freak-fx-vol5-pc-fx-even-if-it-was-not-intended.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/48e1fbfc-bf24-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Title screen",
-                "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15666521-anime-freak-fx-vol5-pc-fx-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0b05dae4-bebe-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Kid's serial: Kodomo no Omocha",
-                "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15994003-anime-freak-fx-vol5-pc-fx-kids-serial-kodomo-no-omocha.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/08e8db24-bf24-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "I can't even read Japanese so quickly! Damn time limit!",
-                "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15667133-anime-freak-fx-vol5-pc-fx-i-cant-even-read-japanese-so-quickly-d.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3fce5a58-bebe-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -3654,24 +3654,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Let's rock!",
+                "caption": "Educational material...",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15994282-anime-freak-fx-vol6-pc-fx-lets-rock.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/188bc7b2-bf24-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "...some of which are pretty",
-                "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15995253-anime-freak-fx-vol6-pc-fx-some-of-which-are-pretty.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5928d152-bf24-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Freaks News",
-                "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15994291-anime-freak-fx-vol6-pc-fx-freaks-news.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/18dc6cee-bf24-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15667676-anime-freak-fx-vol6-pc-fx-educational-material.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/66287f26-bebe-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
@@ -3682,10 +3668,24 @@
                 "width": 256
             },
             {
-                "caption": "A collection of CD and magazine covers...",
+                "caption": "Title screen",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/15995223-anime-freak-fx-vol6-pc-fx-a-collection-of-cd-and-magazine-covers.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/57dfa5b4-bf24-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15667172-anime-freak-fx-vol6-pc-fx-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/420911dc-bebe-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Kodomo no Omocha series",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/15667262-anime-freak-fx-vol6-pc-fx-kodomo-no-omocha-series.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/476ec2c0-bebe-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Let's rock!",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/15994282-anime-freak-fx-vol6-pc-fx-lets-rock.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/188bc7b2-bf24-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -3798,10 +3798,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Prism Knights: title screen",
+                "caption": "Browsing",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/16252130-anime-freak-fx-vol4-pc-fx-prism-knights-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/279ef6da-c1df-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16252061-anime-freak-fx-vol4-pc-fx-browsing.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2390b18c-c1df-11ed-ab6b-02420a000194.webp",
+                "width": 252
+            },
+            {
+                "caption": "Oh wow!... that's... err... umm... ahem!!... purple... errrrr... clothes",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/16252037-anime-freak-fx-vol4-pc-fx-oh-wow-thats-err-umm-ahem-purple-errrr.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/229ebcec-c1df-11ed-ab6b-02420a000194.webp",
+                "width": 252
+            },
+            {
+                "caption": "Locations of interest",
+                "height": 224,
+                "image_url": "https://cdn.mobygames.com/screenshots/16252547-anime-freak-fx-vol4-pc-fx-locations-of-interest.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/42a38fa4-c1df-11ed-ab6b-02420a000194.webp",
                 "width": 252
             },
             {
@@ -3812,19 +3826,16 @@
                 "width": 252
             },
             {
-                "caption": "Main menu",
+                "caption": "Demo menu",
                 "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/16252127-anime-freak-fx-vol4-pc-fx-main-menu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/277859e4-c1df-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15875463-anime-freak-fx-vol4-pc-fx-demo-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d8892da8-bf00-11ed-9c42-02420a000140.webp",
                 "width": 252
-            },
-            {
-                "caption": "Data library",
-                "height": 224,
-                "image_url": "https://cdn.mobygames.com/screenshots/16252052-anime-freak-fx-vol4-pc-fx-data-library.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/233c4ade-c1df-11ed-ab6b-02420a000194.webp",
-                "width": 252
-            },
+            }
+        ],
+        "title": "Anime Freak FX: Vol.4"
+    }
+]   },
             {
                 "caption": "PK: ... when a fateful meeting changed everything",
                 "height": 224,

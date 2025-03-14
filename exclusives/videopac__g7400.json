@@ -14,21 +14,30 @@
             },
             {
                 "category": {
-                    "id": 1,
-                    "name": "Basic Genres"
-                },
-                "description": null,
-                "id": 5,
-                "name": "Sports"
-            },
-            {
-                "category": {
                     "id": 2,
                     "name": "Perspective"
                 },
                 "description": null,
                 "id": 128,
                 "name": "Behind view"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 15,
+                "name": "Real-time"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
             },
             {
                 "category": {
@@ -65,27 +74,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The adversaries get out intact from crashes.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16286714-moto-crash-videopac-g7400-the-adversaries-get-out-intact-from-cr.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/88780e6e-c1ea-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
-                "caption": "Starting a new race.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16286657-moto-crash-videopac-g7400-starting-a-new-race.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/83c1eef8-c1ea-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
-                "caption": "The road becomes icy.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16286585-moto-crash-videopac-g7400-the-road-becomes-icy.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7b816052-c1ea-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
                 "caption": "The road becomes wet.",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16286663-moto-crash-videopac-g7400-the-road-becomes-wet.png",
@@ -93,10 +81,31 @@
                 "width": 320
             },
             {
+                "caption": "The road becomes snowy.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16286711-moto-crash-videopac-g7400-the-road-becomes-snowy.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/88624b88-c1ea-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "The adversaries get out intact from crashes.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16286714-moto-crash-videopac-g7400-the-adversaries-get-out-intact-from-cr.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/88780e6e-c1ea-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
                 "caption": "And I've crashed on another racer.",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16286708-moto-crash-videopac-g7400-and-ive-crashed-on-another-racer.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/882d921c-c1ea-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Starting a new race.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16286657-moto-crash-videopac-g7400-starting-a-new-race.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/83c1eef8-c1ea-11ed-ab6b-02420a000194.webp",
                 "width": 320
             }
         ],
@@ -186,24 +195,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Game over at Flash-Point 3.",
+                "caption": "I just entered a Flash-Point and the aliens will start homing at me.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16294793-flash-point-videopac-g7400-game-over-at-flash-point-3.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f4858ff8-c1ec-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16294781-flash-point-videopac-g7400-i-just-entered-a-flash-point-and-the-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f328d2aa-c1ec-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
-                "caption": "Now there are just a few aliens left, and I managed to protect a good portion of the green area.",
+                "caption": "The map screen. The flashing points (in white and black) are areas being attacked.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16294790-flash-point-videopac-g7400-now-there-are-just-a-few-aliens-left-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f467a434-c1ec-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16294775-flash-point-videopac-g7400-the-map-screen-the-flashing-points-in.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f2f930c2-c1ec-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
-                "caption": "Title screen.",
+                "caption": "Flash-Point 1 was cleared, the game awards me points for all structures not destroyed.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16294772-flash-point-videopac-g7400-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f2de66a2-c1ec-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16294778-flash-point-videopac-g7400-flash-point-1-was-cleared-the-game-aw.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f3120444-c1ec-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
@@ -214,10 +223,10 @@
                 "width": 320
             },
             {
-                "caption": "Flash-Point 1 was cleared, the game awards me points for all structures not destroyed.",
+                "caption": "Title screen.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16294778-flash-point-videopac-g7400-flash-point-1-was-cleared-the-game-aw.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f3120444-c1ec-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16294772-flash-point-videopac-g7400-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f2de66a2-c1ec-11ed-ab6b-02420a000194.webp",
                 "width": 320
             }
         ],

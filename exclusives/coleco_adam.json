@@ -79,20 +79,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Using an item brings up a menu asking what you want to do",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/9668602-2010-the-text-adventure-game-coleco-adam-using-an-item-brings-up.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/007ec7e2-ac09-11ed-b57a-02420a000130.webp",
-                "width": 256
-            },
-            {
-                "caption": "Intro story, pt. 2",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/9667514-2010-the-text-adventure-game-coleco-adam-intro-story-pt-2.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/fa994b18-ac08-11ed-87d3-02420a000134.webp",
-                "width": 256
-            },
-            {
                 "caption": "Copyright info",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/9667520-2010-the-text-adventure-game-coleco-adam-copyright-info.png",
@@ -100,17 +86,31 @@
                 "width": 256
             },
             {
-                "caption": "Oh no, this went horribly wrong",
+                "caption": "Trying to do something with a toolbox",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/9668593-2010-the-text-adventure-game-coleco-adam-oh-no-this-went-horribl.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ff1fff2e-ac08-11ed-b57a-02420a000130.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/9667508-2010-the-text-adventure-game-coleco-adam-trying-to-do-something-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fa4534a6-ac08-11ed-87d3-02420a000134.webp",
                 "width": 256
             },
             {
-                "caption": "Title screen",
+                "caption": "Camp menu",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/9667523-2010-the-text-adventure-game-coleco-adam-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/fb123672-ac08-11ed-87d3-02420a000134.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/9668599-2010-the-text-adventure-game-coleco-adam-camp-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ff623c7c-ac08-11ed-b57a-02420a000130.webp",
+                "width": 256
+            },
+            {
+                "caption": "Examine menu",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/9667505-2010-the-text-adventure-game-coleco-adam-examine-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f99c62f4-ac08-11ed-87d3-02420a000134.webp",
+                "width": 256
+            },
+            {
+                "caption": "Checking life support status",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/9678747-2010-the-text-adventure-game-coleco-adam-checking-life-support-s.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/14712236-ac09-11ed-893a-02420a00012f.webp",
                 "width": 256
             }
         ],
@@ -200,27 +200,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Starting out",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/9400733-brainstorm-coleco-adam-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b27fbf62-ac06-11ed-9fde-02420a000132.webp",
-                "width": 256
-            },
-            {
-                "caption": "Entering the full phrase",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/9401251-brainstorm-coleco-adam-entering-the-full-phrase.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ae2caf1a-ac06-11ed-b57a-02420a000130.webp",
-                "width": 256
-            },
-            {
-                "caption": "Getting a phrase correct",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/9400730-brainstorm-coleco-adam-getting-a-phrase-correct.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b262869a-ac06-11ed-9fde-02420a000132.webp",
-                "width": 256
-            },
-            {
                 "caption": "Skill level selection",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/9401260-brainstorm-coleco-adam-skill-level-selection.png",
@@ -228,10 +207,31 @@
                 "width": 256
             },
             {
-                "caption": "Stage 2",
+                "caption": "... and the letters are added to the phrase",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/9400739-brainstorm-coleco-adam-stage-2.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b2ccf76e-ac06-11ed-9fde-02420a000132.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/9401254-brainstorm-coleco-adam-and-the-letters-are-added-to-the-phrase.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ae507670-ac06-11ed-b57a-02420a000130.webp",
+                "width": 256
+            },
+            {
+                "caption": "Phrase set selection",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/9401257-brainstorm-coleco-adam-phrase-set-selection.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ae6e03f2-ac06-11ed-b57a-02420a000130.webp",
+                "width": 256
+            },
+            {
+                "caption": "Clearing a line...",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/9400736-brainstorm-coleco-adam-clearing-a-line.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b2a1adb6-ac06-11ed-9fde-02420a000132.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting out",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/9400733-brainstorm-coleco-adam-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b27fbf62-ac06-11ed-9fde-02420a000132.webp",
                 "width": 256
             }
         ],
@@ -276,13 +276,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Hostages and enemy tanks",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15836929-the-best-of-brderbund-ae-and-choplifter-coleco-adam-hostages-and.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/64b47898-bef5-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
                 "caption": "Title screen of Choplifter!",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/15836962-the-best-of-brderbund-ae-and-choplifter-coleco-adam-title-screen.png",
@@ -297,17 +290,24 @@
                 "width": 256
             },
             {
-                "caption": "Title screen of A.E.",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15836992-the-best-of-brderbund-ae-and-choplifter-coleco-adam-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6ba6e686-bef5-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
                 "caption": "First stage of A.E.",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/3184293-the-best-of-brderbund-ae-and-choplifter-coleco-adam-first-stage-.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/9e7f7d12-ab8a-11ed-b6ec-02420a00019b.webp",
+                "width": 256
+            },
+            {
+                "caption": "Hostages and enemy tanks",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/15836929-the-best-of-brderbund-ae-and-choplifter-coleco-adam-hostages-and.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/64b47898-bef5-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Title screen of A.E.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/15836992-the-best-of-brderbund-ae-and-choplifter-coleco-adam-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6ba6e686-bef5-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],

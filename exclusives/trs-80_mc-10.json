@@ -56,24 +56,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "End of game",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/4045050-lost-world-pinball-trs-80-mc-10-end-of-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e4c5380c-aba3-11ed-ba04-02420a00019f.webp",
-                "width": 256
-            },
-            {
-                "caption": "About to begin",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/4046528-lost-world-pinball-trs-80-mc-10-about-to-begin.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f156aa56-aba3-11ed-bc1c-02420a00019a.webp",
-                "width": 256
-            },
-            {
                 "caption": "Hitting a bumper",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/4045946-lost-world-pinball-trs-80-mc-10-hitting-a-bumper.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/ec7af35c-aba3-11ed-ba04-02420a00019f.webp",
+                "width": 256
+            },
+            {
+                "caption": "End of game",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4045050-lost-world-pinball-trs-80-mc-10-end-of-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e4c5380c-aba3-11ed-ba04-02420a00019f.webp",
                 "width": 256
             },
             {
@@ -84,10 +77,17 @@
                 "width": 256
             },
             {
-                "caption": "Game in progress",
+                "caption": "About to begin",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/4046337-lost-world-pinball-trs-80-mc-10-game-in-progress.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/efc40e7c-aba3-11ed-bc1c-02420a00019a.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/4046528-lost-world-pinball-trs-80-mc-10-about-to-begin.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f156aa56-aba3-11ed-bc1c-02420a00019a.webp",
+                "width": 256
+            },
+            {
+                "caption": "Title screen",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4047773-lost-world-pinball-trs-80-mc-10-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fc9e37f8-aba3-11ed-a5ec-02420a00019b.webp",
                 "width": 256
             }
         ],
@@ -177,13 +177,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Make a typo and the program crashes",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/4791681-micro-checkers-trs-80-mc-10-make-a-typo-and-the-program-crashes.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/49e055d8-abc1-11ed-99ae-02420a00019e.webp",
-                "width": 256
-            },
-            {
                 "caption": "To stop jumping, -1,-1 has to be entered",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/4790555-micro-checkers-trs-80-mc-10-to-stop-jumping-1-1-has-to-be-entere.png",
@@ -191,17 +184,24 @@
                 "width": 256
             },
             {
-                "caption": "Entering commands",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/4790723-micro-checkers-trs-80-mc-10-entering-commands.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/401164e8-abc1-11ed-aa5a-02420a0001a0.webp",
-                "width": 256
-            },
-            {
                 "caption": "Start screen",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/4790837-micro-checkers-trs-80-mc-10-start-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/411e5b7a-abc1-11ed-aa5a-02420a0001a0.webp",
+                "width": 256
+            },
+            {
+                "caption": "Make a typo and the program crashes",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4791681-micro-checkers-trs-80-mc-10-make-a-typo-and-the-program-crashes.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/49e055d8-abc1-11ed-99ae-02420a00019e.webp",
+                "width": 256
+            },
+            {
+                "caption": "Entering commands",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4790723-micro-checkers-trs-80-mc-10-entering-commands.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/401164e8-abc1-11ed-aa5a-02420a0001a0.webp",
                 "width": 256
             },
             {
@@ -298,13 +298,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Game in progress (Pong)",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/4794068-micro-games-trs-80-mc-10-game-in-progress-pong.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/61be6bd6-abc1-11ed-8ed2-02420a0001a0.webp",
-                "width": 256
-            },
-            {
                 "caption": "Game over (Egg Catcher)",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/4793583-micro-games-trs-80-mc-10-game-over-egg-catcher.png",
@@ -312,24 +305,31 @@
                 "width": 256
             },
             {
-                "caption": "Starting out (Breakout)",
+                "caption": "Using thrust to stop descent (Lunar Lander)",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/4793933-micro-games-trs-80-mc-10-starting-out-breakout.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6064f598-abc1-11ed-8ed2-02420a0001a0.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/4822649-micro-games-trs-80-mc-10-using-thrust-to-stop-descent-lunar-land.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8ee3b2b4-abc2-11ed-8d2b-02420a00019e.webp",
                 "width": 256
             },
             {
-                "caption": "Shoot that bird (Egg Catcher)",
+                "caption": "Starting out (Lunar Lander)",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/4793710-micro-games-trs-80-mc-10-shoot-that-bird-egg-catcher.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5e7aea3a-abc1-11ed-8ed2-02420a0001a0.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/4793470-micro-games-trs-80-mc-10-starting-out-lunar-lander.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5c346b20-abc1-11ed-8ed2-02420a0001a0.webp",
                 "width": 256
             },
             {
-                "caption": "Purple won (Horse Race)",
+                "caption": "Start screen (Horse Race)",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/4793811-micro-games-trs-80-mc-10-purple-won-horse-race.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5f4f569e-abc1-11ed-be6f-02420a000197.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/4794542-micro-games-trs-80-mc-10-start-screen-horse-race.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6710572a-abc1-11ed-a188-02420a00019a.webp",
+                "width": 256
+            },
+            {
+                "caption": "Start of game (Egg Catcher)",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4793818-micro-games-trs-80-mc-10-start-of-game-egg-catcher.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5f5f83f2-abc1-11ed-8ed2-02420a0001a0.webp",
                 "width": 256
             }
         ],

@@ -56,13 +56,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Gameplay",
-                "height": 232,
-                "image_url": "https://cdn.mobygames.com/screenshots/6596065-chess-mattel-aquarius-gameplay.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b0695de4-abef-11ed-9915-02420a000134.webp",
-                "width": 352
-            },
-            {
                 "caption": "Title screen",
                 "height": 232,
                 "image_url": "https://cdn.mobygames.com/screenshots/6593743-chess-mattel-aquarius-title-screen.png",
@@ -74,6 +67,13 @@
                 "height": 232,
                 "image_url": "https://cdn.mobygames.com/screenshots/6593746-chess-mattel-aquarius-set-up-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/b075d240-abef-11ed-962d-02420a000135.webp",
+                "width": 352
+            },
+            {
+                "caption": "Gameplay",
+                "height": 232,
+                "image_url": "https://cdn.mobygames.com/screenshots/6596065-chess-mattel-aquarius-gameplay.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b0695de4-abef-11ed-9915-02420a000134.webp",
                 "width": 352
             }
         ],
@@ -136,6 +136,27 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Instructions",
+                "height": 232,
+                "image_url": "https://cdn.mobygames.com/screenshots/16312470-postman-pot-mattel-aquarius-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/489d2d48-c1f3-11ed-ab6b-02420a000194.webp",
+                "width": 352
+            },
+            {
+                "caption": "Title screen",
+                "height": 232,
+                "image_url": "https://cdn.mobygames.com/screenshots/16312461-postman-pot-mattel-aquarius-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4852433c-c1f3-11ed-ab6b-02420a000194.webp",
+                "width": 352
+            },
+            {
+                "caption": "Game over",
+                "height": 232,
+                "image_url": "https://cdn.mobygames.com/screenshots/16312419-postman-pot-mattel-aquarius-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/45b1def8-c1f3-11ed-ab6b-02420a000194.webp",
+                "width": 352
+            },
+            {
                 "caption": "Running on the street, trying not to be run over",
                 "height": 232,
                 "image_url": "https://cdn.mobygames.com/screenshots/16312422-postman-pot-mattel-aquarius-running-on-the-street-trying-not-to-.png",
@@ -147,27 +168,6 @@
                 "height": 232,
                 "image_url": "https://cdn.mobygames.com/screenshots/16312464-postman-pot-mattel-aquarius-high-score-list.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/48696562-c1f3-11ed-ab6b-02420a000194.webp",
-                "width": 352
-            },
-            {
-                "caption": "Starting out at the post office",
-                "height": 232,
-                "image_url": "https://cdn.mobygames.com/screenshots/16312467-postman-pot-mattel-aquarius-starting-out-at-the-post-office.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4881781e-c1f3-11ed-ab6b-02420a000194.webp",
-                "width": 352
-            },
-            {
-                "caption": "Game over",
-                "height": 232,
-                "image_url": "https://cdn.mobygames.com/screenshots/16312419-postman-pot-mattel-aquarius-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/45b1def8-c1f3-11ed-ab6b-02420a000194.webp",
-                "width": 352
-            },
-            {
-                "caption": "Title screen",
-                "height": 232,
-                "image_url": "https://cdn.mobygames.com/screenshots/16312461-postman-pot-mattel-aquarius-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4852433c-c1f3-11ed-ab6b-02420a000194.webp",
                 "width": 352
             }
         ],
@@ -239,24 +239,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "1 more left...",
-                "height": 232,
-                "image_url": "https://cdn.mobygames.com/screenshots/17023263-n-vaders-mattel-aquarius-1-more-left.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6fc0694a-da57-11ed-9e0c-02420a000112.webp",
-                "width": 352
-            },
-            {
                 "caption": "I was on my last life, I got destroyed, and the game is over!",
                 "height": 232,
                 "image_url": "https://cdn.mobygames.com/screenshots/17023267-n-vaders-mattel-aquarius-i-was-on-my-last-life-i-got-destroyed-a.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/7bdc78d6-da57-11ed-b762-02420a000111.webp",
-                "width": 352
-            },
-            {
-                "caption": "The title screen.",
-                "height": 232,
-                "image_url": "https://cdn.mobygames.com/screenshots/17023251-n-vaders-mattel-aquarius-the-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/47891562-da57-11ed-a503-02420a000111.webp",
                 "width": 352
             },
             {
@@ -267,10 +253,24 @@
                 "width": 352
             },
             {
+                "caption": "1 more left...",
+                "height": 232,
+                "image_url": "https://cdn.mobygames.com/screenshots/17023263-n-vaders-mattel-aquarius-1-more-left.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6fc0694a-da57-11ed-9e0c-02420a000112.webp",
+                "width": 352
+            },
+            {
                 "caption": "Here they come...",
                 "height": 232,
                 "image_url": "https://cdn.mobygames.com/screenshots/17023255-n-vaders-mattel-aquarius-here-they-come.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/532f0dcc-da57-11ed-b944-02420a000111.webp",
+                "width": 352
+            },
+            {
+                "caption": "The title screen.",
+                "height": 232,
+                "image_url": "https://cdn.mobygames.com/screenshots/17023251-n-vaders-mattel-aquarius-the-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/47891562-da57-11ed-a503-02420a000111.webp",
                 "width": 352
             }
         ],
@@ -331,13 +331,6 @@
                 "width": 320
             },
             {
-                "caption": "High score",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15913863-disco-fever-mattel-aquarius-high-score.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6449625c-bf0d-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
                 "caption": "The dance floor gets filled with each new record",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/15913896-disco-fever-mattel-aquarius-the-dance-floor-gets-filled-with-eac.png",
@@ -345,10 +338,10 @@
                 "width": 320
             },
             {
-                "caption": "Title screen",
+                "caption": "High score",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15913728-disco-fever-mattel-aquarius-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/597d29f8-bf0d-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15913863-disco-fever-mattel-aquarius-high-score.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6449625c-bf0d-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -356,6 +349,13 @@
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/15913680-disco-fever-mattel-aquarius-starting-out-at-the-turntable.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/54f5b90e-bf0d-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Title screen",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/15913728-disco-fever-mattel-aquarius-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/597d29f8-bf0d-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -441,17 +441,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Sheet 01",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15915047-aliens-mattel-aquarius-sheet-01.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/aaaf5242-bf0d-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
                 "caption": "Stage 2",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/15914936-aliens-mattel-aquarius-stage-2.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/a4b2bdf2-bf0d-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Game over",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/15914906-aliens-mattel-aquarius-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a39e25d2-bf0d-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -462,10 +462,10 @@
                 "width": 320
             },
             {
-                "caption": "Starting out",
+                "caption": "Title screen",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15915002-aliens-mattel-aquarius-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a7f81746-bf0d-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15929260-aliens-mattel-aquarius-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bf5ece9e-bf11-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -562,10 +562,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title screen",
+                "caption": "Controls selection",
                 "height": 232,
-                "image_url": "https://cdn.mobygames.com/screenshots/15915650-mazantics-mattel-aquarius-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d894638c-bf0d-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15915602-mazantics-mattel-aquarius-controls-selection.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d306493a-bf0d-11ed-9c42-02420a000140.webp",
                 "width": 352
             },
             {
@@ -576,10 +576,10 @@
                 "width": 352
             },
             {
-                "caption": "Avoid the fireball",
+                "caption": "Title screen",
                 "height": 232,
-                "image_url": "https://cdn.mobygames.com/screenshots/15915437-mazantics-mattel-aquarius-avoid-the-fireball.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c82b0c80-bf0d-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15915650-mazantics-mattel-aquarius-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d894638c-bf0d-11ed-9c42-02420a000140.webp",
                 "width": 352
             },
             {
@@ -590,10 +590,10 @@
                 "width": 352
             },
             {
-                "caption": "Stage completed",
+                "caption": "Another stage",
                 "height": 232,
-                "image_url": "https://cdn.mobygames.com/screenshots/15915536-mazantics-mattel-aquarius-stage-completed.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cedb56ac-bf0d-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15915512-mazantics-mattel-aquarius-another-stage.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cdd3c08c-bf0d-11ed-9c42-02420a000140.webp",
                 "width": 352
             }
         ],
@@ -656,17 +656,17 @@
         },
         "sample_screenshots": [
             {
+                "caption": "The title screen.",
+                "height": 232,
+                "image_url": "https://cdn.mobygames.com/screenshots/17025580-pac-mr-mattel-aquarius-the-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f2998c48-daf2-11ed-9a6a-02420a000112.webp",
+                "width": 352
+            },
+            {
                 "caption": "It's revenge time!",
                 "height": 232,
                 "image_url": "https://cdn.mobygames.com/screenshots/17025588-pac-mr-mattel-aquarius-its-revenge-time.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/260a2b32-daf3-11ed-9a6a-02420a000112.webp",
-                "width": 352
-            },
-            {
-                "caption": "Eating dots.",
-                "height": 232,
-                "image_url": "https://cdn.mobygames.com/screenshots/17025584-pac-mr-mattel-aquarius-eating-dots.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/25b5d12c-daf3-11ed-9a6a-02420a000112.webp",
                 "width": 352
             },
             {
@@ -677,10 +677,10 @@
                 "width": 352
             },
             {
-                "caption": "The title screen.",
+                "caption": "Eating dots.",
                 "height": 232,
-                "image_url": "https://cdn.mobygames.com/screenshots/17025580-pac-mr-mattel-aquarius-the-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f2998c48-daf2-11ed-9a6a-02420a000112.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/17025584-pac-mr-mattel-aquarius-eating-dots.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/25b5d12c-daf3-11ed-9a6a-02420a000112.webp",
                 "width": 352
             }
         ],

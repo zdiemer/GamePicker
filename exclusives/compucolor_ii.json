@@ -141,10 +141,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "One car is crashing (Race)",
+                "caption": "Game over (Rover Robot)",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/15709987-air-raid-compucolor-ii-one-car-is-crashing-race.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0bd4618e-becd-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15859473-air-raid-compucolor-ii-game-over-rover-robot.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f214002c-befb-11ed-9c42-02420a000140.webp",
+                "width": 384
+            },
+            {
+                "caption": "Using the look command (Rover Robot)",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/15859377-air-raid-compucolor-ii-using-the-look-command-rover-robot.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ee3c6728-befb-11ed-9c42-02420a000140.webp",
                 "width": 384
             },
             {
@@ -155,24 +162,17 @@
                 "width": 384
             },
             {
-                "caption": "Two player mode in progress (Quintominoes)",
+                "caption": "Menu (Quintominoes)",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/15859320-air-raid-compucolor-ii-two-player-mode-in-progress-quintominoes.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/eb3201c8-befb-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15709855-air-raid-compucolor-ii-menu-quintominoes.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0203b29a-becd-11ed-9c42-02420a000140.webp",
                 "width": 384
             },
             {
-                "caption": "Title screen (Quintominoes)",
+                "caption": "One car is crashing (Race)",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/15704569-air-raid-compucolor-ii-title-screen-quintominoes.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/21284c14-becb-11ed-9c42-02420a000140.webp",
-                "width": 384
-            },
-            {
-                "caption": "Starting out by moving to the upper left square (Rover Robot)",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/15859209-air-raid-compucolor-ii-starting-out-by-moving-to-the-upper-left-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e51357b0-befb-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15709987-air-raid-compucolor-ii-one-car-is-crashing-race.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0bd4618e-becd-11ed-9c42-02420a000140.webp",
                 "width": 384
             }
         ],
@@ -262,17 +262,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Menu",
+                "caption": "Game over (Battleship)",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16289561-bounce-compucolor-ii-menu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/505217cc-c1eb-11ed-ab6b-02420a000194.webp",
-                "width": 384
-            },
-            {
-                "caption": "Firing shots (Battleship)",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16289543-bounce-compucolor-ii-firing-shots-battleship.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4fbcce56-c1eb-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15634670-bounce-compucolor-ii-game-over-battleship.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/33b80080-bdeb-11ed-b791-02420a0001bb.webp",
                 "width": 384
             },
             {
@@ -283,17 +276,24 @@
                 "width": 384
             },
             {
-                "caption": "Red gets the box (Slither)",
+                "caption": "Instructions (Bounce)",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16289534-bounce-compucolor-ii-red-gets-the-box-slither.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4f6d8b84-c1eb-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16289555-bounce-compucolor-ii-instructions-bounce.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/50249504-c1eb-11ed-ab6b-02420a000194.webp",
                 "width": 384
             },
             {
-                "caption": "Placing ships (Battleship)",
+                "caption": "Game in progress (Bounce)",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16289546-bounce-compucolor-ii-placing-ships-battleship.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4fd7795e-c1eb-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16289552-bounce-compucolor-ii-game-in-progress-bounce.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/500742c4-c1eb-11ed-ab6b-02420a000194.webp",
+                "width": 384
+            },
+            {
+                "caption": "Game over (Slither)",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16289702-bounce-compucolor-ii-game-over-slither.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5f53985e-c1eb-11ed-ab6b-02420a000194.webp",
                 "width": 384
             }
         ],

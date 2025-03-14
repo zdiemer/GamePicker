@@ -74,24 +74,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Graphics with textures",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16751444-megaspectre-fm-towns-graphics-with-textures.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6c5bd496-c33d-11ed-9a87-02420a0001b4.webp",
-                "width": 640
-            },
-            {
                 "caption": "Main menu",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/16752170-megaspectre-fm-towns-main-menu.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/cba8c1c0-c33d-11ed-9a87-02420a0001b4.webp",
-                "width": 640
-            },
-            {
-                "caption": "Choose your tank",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16752173-megaspectre-fm-towns-choose-your-tank.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cbc7d394-c33d-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
@@ -102,10 +88,24 @@
                 "width": 640
             },
             {
-                "caption": "Title screen",
+                "caption": "Graphics with textures",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16752167-megaspectre-fm-towns-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cb89750e-c33d-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16751444-megaspectre-fm-towns-graphics-with-textures.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6c5bd496-c33d-11ed-9a87-02420a0001b4.webp",
+                "width": 640
+            },
+            {
+                "caption": "Who the hell is this guy?..",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16751441-megaspectre-fm-towns-who-the-hell-is-this-guy.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6c4090b4-c33d-11ed-9a87-02420a0001b4.webp",
+                "width": 640
+            },
+            {
+                "caption": "No textures - just simple polygons in this mode",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/15678819-megaspectre-fm-towns-no-textures-just-simple-polygons-in-this-mo.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e43217bc-bec1-11ed-9c42-02420a000140.webp",
                 "width": 640
             }
         ],
@@ -186,10 +186,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Scenes from the past...",
+                "caption": "Io executes a special attack",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16730105-abel-shin-mokushiroku-taisen-fm-towns-scenes-from-the-past.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0e219dfc-c2a7-11ed-bae4-02420a0001a1.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15671099-abel-shin-mokushiroku-taisen-fm-towns-io-executes-a-special-atta.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b8d7a638-bebf-11ed-9c42-02420a000140.webp",
                 "width": 640
             },
             {
@@ -200,10 +200,10 @@
                 "width": 640
             },
             {
-                "caption": "A new character joins the party",
+                "caption": "Abel, don't waste your time chatting with pretty girls! :)",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16730177-abel-shin-mokushiroku-taisen-fm-towns-a-new-character-joins-the-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/18fedd34-c2a7-11ed-bae4-02420a0001a1.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16730180-abel-shin-mokushiroku-taisen-fm-towns-abel-dont-waste-your-time-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/192c339c-c2a7-11ed-bae4-02420a0001a1.webp",
                 "width": 640
             },
             {
@@ -214,10 +214,10 @@
                 "width": 640
             },
             {
-                "caption": "Exploring a dungeon. It's dark...",
+                "caption": "\"Dungeon transfer\" interface",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16730093-abel-shin-mokushiroku-taisen-fm-towns-exploring-a-dungeon-its-da.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0c938392-c2a7-11ed-bae4-02420a0001a1.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16730603-abel-shin-mokushiroku-taisen-fm-towns-dungeon-transfer-interface.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3938a9fe-c2a7-11ed-bae4-02420a0001a1.webp",
                 "width": 640
             }
         ],
@@ -298,17 +298,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Stage 3 takes place inside some kind of organic body",
+                "caption": "Stage 2 and these crusher-like enemies",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16318845-rayxanber-fm-towns-stage-3-takes-place-inside-some-kind-of-organ.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/69d6d7fa-c1f5-11ed-ab6b-02420a000194.webp",
-                "width": 512
-            },
-            {
-                "caption": "Stage 4 boss goes by the name, and I kid you not, \"Hammy-Scuff\"",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16350946-rayxanber-fm-towns-stage-4-boss-goes-by-the-name-and-i-kid-you-n.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e9e502fe-c200-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16276220-rayxanber-fm-towns-stage-2-and-these-crusher-like-enemies.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/33a32e62-c1e7-11ed-ab6b-02420a000194.webp",
                 "width": 512
             },
             {
@@ -319,6 +312,13 @@
                 "width": 512
             },
             {
+                "caption": "And this is the 6th boss - \"Catty-Juff\", he's a total pushover actually",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16358624-rayxanber-fm-towns-and-this-is-the-6th-boss-catty-juff-hes-a-tot.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6c748f76-c203-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
                 "caption": "Third boss who by the looks of it, lives up to its name",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/16328589-rayxanber-fm-towns-third-boss-who-by-the-looks-of-it-lives-up-to.png",
@@ -326,10 +326,10 @@
                 "width": 512
             },
             {
-                "caption": "Stage 5",
+                "caption": "Game Over screen",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16351468-rayxanber-fm-towns-stage-5.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/13b8b6e8-c201-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16356912-rayxanber-fm-towns-game-over-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cccdf39a-c202-11ed-ab6b-02420a000194.webp",
                 "width": 512
             }
         ],
@@ -397,7 +397,7 @@
         "id": 54774,
         "moby_score": null,
         "moby_url": "https://www.mobygames.com/game/54774/genocide2-genocide-square/",
-        "num_votes": 0,
+        "num_votes": 1,
         "official_url": null,
         "platforms": [
             [
@@ -419,38 +419,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Genocide: intro",
+                "caption": "Genocide 2: stage completed!",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16275494-genocide2-genocide-square-fm-towns-genocide-intro.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f4199a10-c1e6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16753265-genocide2-genocide-square-fm-towns-genocide-2-stage-completed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/451c77b8-c33e-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
-                "caption": "Genocide 2: be careful, those cylinders will squash you",
+                "caption": "Genocide 2: a stage begins",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16753616-genocide2-genocide-square-fm-towns-genocide-2-be-careful-those-c.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/70a8751c-c33e-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16753262-genocide2-genocide-square-fm-towns-genocide-2-a-stage-begins.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/44fc62f2-c33e-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
-                "caption": "Genocide 2: capitalism seems to be an issue here",
+                "caption": "Genocide: post-apocalyptic ruins",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16753631-genocide2-genocide-square-fm-towns-genocide-2-capitalism-seems-t.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/719f7312-c33e-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15678969-genocide2-genocide-square-fm-towns-genocide-post-apocalyptic-rui.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f0bb1e8e-bec1-11ed-9c42-02420a000140.webp",
                 "width": 640
             },
             {
-                "caption": "Genocide: the first boss",
+                "caption": "Genocide: tough fight against respawning guys",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16753277-genocide2-genocide-square-fm-towns-genocide-the-first-boss.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4615d966-c33e-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16753271-genocide2-genocide-square-fm-towns-genocide-tough-fight-against-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4575c3c2-c33e-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
-                "caption": "Game selection",
+                "caption": "Genocide: fighting sand worms",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16753280-genocide2-genocide-square-fm-towns-game-selection.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/46368940-c33e-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16753625-genocide2-genocide-square-fm-towns-genocide-fighting-sand-worms.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/71578304-c33e-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             }
         ],
@@ -504,17 +504,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Crescent Moon Girl: oh no... poor cat...",
+                "caption": "Crescent Moon Girl: you can enter any of the rooms!",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16755632-alice-no-yakata-cd-fm-towns-crescent-moon-girl-oh-no-poor-cat.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5a83e6f8-c33f-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16755659-alice-no-yakata-cd-fm-towns-crescent-moon-girl-you-can-enter-any.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5ed09a44-c33f-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
-                "caption": "Crescent Moon Girl: one of the girls in the dormitory",
+                "caption": "Intruder: outside",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16755665-alice-no-yakata-cd-fm-towns-crescent-moon-girl-one-of-the-girls-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5f3a4390-c33f-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16755545-alice-no-yakata-cd-fm-towns-intruder-outside.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/53bec720-c33f-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
@@ -525,17 +525,17 @@
                 "width": 640
             },
             {
-                "caption": "Intruder: the dark mansion...",
+                "caption": "Intruder: mysterious portrait",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16755515-alice-no-yakata-cd-fm-towns-intruder-the-dark-mansion.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/50f72dde-c33f-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16755557-alice-no-yakata-cd-fm-towns-intruder-mysterious-portrait.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/54e06b40-c33f-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
-                "caption": "Each of the two games is at first presented with a release summary",
+                "caption": "Crescent Moon Girl: conversation topics",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16756034-alice-no-yakata-cd-fm-towns-each-of-the-two-games-is-at-first-pr.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/869887a8-c33f-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16755668-alice-no-yakata-cd-fm-towns-crescent-moon-girl-conversation-topi.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5f78c7c8-c33f-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             }
         ],
@@ -614,24 +614,24 @@
                 "width": 640
             },
             {
-                "caption": "Three possible conversation choices",
+                "caption": "A policemen is sent to investigate the murder",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16756412-yami-no-ketsuzoku-special-fm-towns-three-possible-conversation-c.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a7a05372-c33f-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16756379-yami-no-ketsuzoku-special-fm-towns-a-policemen-is-sent-to-invest.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a43f5f34-c33f-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
-                "caption": "Looking at the mirror",
+                "caption": "Title screen",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16756472-yami-no-ketsuzoku-special-fm-towns-looking-at-the-mirror.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ac4daeb0-c33f-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16756397-yami-no-ketsuzoku-special-fm-towns-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a66ca9ec-c33f-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
-                "caption": "Object sub-menu",
+                "caption": "Owner of FELICS restaurant",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16756475-yami-no-ketsuzoku-special-fm-towns-object-sub-menu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ac78f1ba-c33f-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16756478-yami-no-ketsuzoku-special-fm-towns-owner-of-felics-restaurant.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/aec2c284-c33f-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
@@ -719,31 +719,31 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Battle!",
+                "caption": "Historical artefacts",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16756430-zan-ii-towns-special-fm-towns-battle.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a9a7cc4a-c33f-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16756373-zan-ii-towns-special-fm-towns-historical-artefacts.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a3d9ef5a-c33f-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
-                "caption": "Comparison between armies",
+                "caption": "Onto the battle!",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16756424-zan-ii-towns-special-fm-towns-comparison-between-armies.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a92a7984-c33f-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16756442-zan-ii-towns-special-fm-towns-onto-the-battle.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/aa5c6c5e-c33f-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
-                "caption": "Warlord attributes",
+                "caption": "Title screen",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16756427-zan-ii-towns-special-fm-towns-warlord-attributes.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a962e530-c33f-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16756415-zan-ii-towns-special-fm-towns-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a7ca91f0-c33f-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
-                "caption": "Fiery presentation",
+                "caption": "Naval assault",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16756340-zan-ii-towns-special-fm-towns-fiery-presentation.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9fd97542-c33f-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16756439-zan-ii-towns-special-fm-towns-naval-assault.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/aa3872cc-c33f-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
@@ -831,38 +831,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The 4th Unit: starting area",
+                "caption": "The 4th Unit: attack animation",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16756310-linkage-the-4th-unit-12-towns-fm-towns-the-4th-unit-starting-are.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9e30adf0-c33f-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16757061-linkage-the-4th-unit-12-towns-fm-towns-the-4th-unit-attack-anima.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/033075e6-c340-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
-                "caption": "The 4th Unit: quick, do something!",
+                "caption": "The 4th Unit 2: oops...",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16757055-linkage-the-4th-unit-12-towns-fm-towns-the-4th-unit-quick-do-som.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0299fa9e-c340-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16757073-linkage-the-4th-unit-12-towns-fm-towns-the-4th-unit-2-oops.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0443ae62-c340-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
-                "caption": "The 4th Unit 2: alarming news...",
+                "caption": "The 4th Unit: battered reporter",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16758642-linkage-the-4th-unit-12-towns-fm-towns-the-4th-unit-2-alarming-n.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/da853f40-c340-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16758444-linkage-the-4th-unit-12-towns-fm-towns-the-4th-unit-battered-rep.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bad99d08-c340-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
-                "caption": "The 4th Unit: school navigation",
+                "caption": "The 4th Unit: a lonely nerd",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/15679467-linkage-the-4th-unit-12-towns-fm-towns-the-4th-unit-school-navig.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/186d46a0-bec2-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16757607-linkage-the-4th-unit-12-towns-fm-towns-the-4th-unit-a-lonely-ner.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/45859eda-c340-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
-                "caption": "The 4th Unit 2: new, very short intro",
+                "caption": "The 4th Unit: interesting angles",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16758114-linkage-the-4th-unit-12-towns-fm-towns-the-4th-unit-2-new-very-s.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/94230a64-c340-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16757604-linkage-the-4th-unit-12-towns-fm-towns-the-4th-unit-interesting-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/45444872-c340-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             }
         ],
@@ -934,24 +934,31 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Quick, choose the right character and action!",
+                "caption": "Title screen",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16757418-merrygoround-the-4th-unit-series-fm-towns-quick-choose-the-right.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2ba90132-c340-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16757433-merrygoround-the-4th-unit-series-fm-towns-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2cdeb90c-c340-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
-                "caption": "Choosing actions for the car",
+                "caption": "Seductive scene?",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16757172-merrygoround-the-4th-unit-series-fm-towns-choosing-actions-for-t.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/10d5de02-c340-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16757181-merrygoround-the-4th-unit-series-fm-towns-seductive-scene.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/118955e0-c340-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
-                "caption": "Admiring the handiwork...",
+                "caption": "Blon-Win in a cutscene",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16757169-merrygoround-the-4th-unit-series-fm-towns-admiring-the-handiwork.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/10b020ae-c340-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16758174-merrygoround-the-4th-unit-series-fm-towns-blon-win-in-a-cutscene.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9ca6f024-c340-11ed-9a87-02420a0001b4.webp",
+                "width": 640
+            },
+            {
+                "caption": "Damn, the Life bar is getting reduced",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16757184-merrygoround-the-4th-unit-series-fm-towns-damn-the-life-bar-is-g.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/11c7f07a-c340-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
@@ -959,13 +966,6 @@
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/16757202-merrygoround-the-4th-unit-series-fm-towns-a-new-nerdy-character.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/13b18cf2-c340-11ed-9a87-02420a0001b4.webp",
-                "width": 640
-            },
-            {
-                "caption": "Complex devices",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16757187-merrygoround-the-4th-unit-series-fm-towns-complex-devices.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/11f82f38-c340-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             }
         ],
@@ -1037,24 +1037,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "...and down below",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16757424-wyatt-the-4th-unit-series-fm-towns-and-down-below.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2c1d6ea0-c340-11ed-9a87-02420a0001b4.webp",
-                "width": 640
-            },
-            {
                 "caption": "The gameplay begins right with Dalzy",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/16757430-wyatt-the-4th-unit-series-fm-towns-the-gameplay-begins-right-wit.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/2c764e80-c340-11ed-9a87-02420a0001b4.webp",
-                "width": 640
-            },
-            {
-                "caption": "Something bad is going to happen...",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16757160-wyatt-the-4th-unit-series-fm-towns-something-bad-is-going-to-hap.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0fe96158-c340-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
@@ -1065,10 +1051,24 @@
                 "width": 640
             },
             {
+                "caption": "Title screen",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16757157-wyatt-the-4th-unit-series-fm-towns-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0fb7caf8-c340-11ed-9a87-02420a0001b4.webp",
+                "width": 640
+            },
+            {
                 "caption": "Main menu",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/16757439-wyatt-the-4th-unit-series-fm-towns-main-menu.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/2d3b06da-c340-11ed-9a87-02420a0001b4.webp",
+                "width": 640
+            },
+            {
+                "caption": "Something bad is going to happen...",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16757160-wyatt-the-4th-unit-series-fm-towns-something-bad-is-going-to-hap.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0fe96158-c340-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             }
         ],
@@ -1149,17 +1149,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Hit an iceberg",
+                "caption": "Title screen",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16757391-air-combat-ii-special-fm-towns-hit-an-iceberg.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/27ede1fc-c340-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16757451-air-combat-ii-special-fm-towns-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/30c3e326-c340-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
-                "caption": "Getting started",
+                "caption": "Be careful!..",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16757388-air-combat-ii-special-fm-towns-getting-started.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/27b98b6e-c340-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16757454-air-combat-ii-special-fm-towns-be-careful.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/30fa2058-c340-11ed-9a87-02420a0001b4.webp",
+                "width": 640
+            },
+            {
+                "caption": "Where sea meets land...",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16757274-air-combat-ii-special-fm-towns-where-sea-meets-land.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/19835804-c340-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
@@ -1170,17 +1177,10 @@
                 "width": 640
             },
             {
-                "caption": "At night, flying over shallow water",
+                "caption": "Be careful of those hills",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16757232-air-combat-ii-special-fm-towns-at-night-flying-over-shallow-wate.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1641e232-c340-11ed-9a87-02420a0001b4.webp",
-                "width": 640
-            },
-            {
-                "caption": "Not a nice landscape...",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16757385-air-combat-ii-special-fm-towns-not-a-nice-landscape.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/277fb9d4-c340-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16757382-air-combat-ii-special-fm-towns-be-careful-of-those-hills.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/27429982-c340-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             }
         ],
@@ -1239,38 +1239,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Ayayo 3: Intro",
+                "caption": "Ayayo 1: Sharp X68000 version - opening the store door",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16758681-a-1-2-3-fm-towns-ayayo-3-intro.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/de188d10-c340-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16758639-a-1-2-3-fm-towns-ayayo-1-sharp-x68000-version-opening-the-store-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d9552770-c340-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
-                "caption": "Ayayo 3: A sex lesson in school",
+                "caption": "Ayayo 1: Sharp X68000 version - this choice leads to undressing...",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16758684-a-1-2-3-fm-towns-ayayo-3-a-sex-lesson-in-school.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/de4642aa-c340-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16759041-a-1-2-3-fm-towns-ayayo-1-sharp-x68000-version-this-choice-leads-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1c680866-c341-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
-                "caption": "Ayayo 1: PC-88 version - choosing the otehr option doesn't change the plot much",
+                "caption": "Ayayo 1: PC-88 version - oops...",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16757829-a-1-2-3-fm-towns-ayayo-1-pc-88-version-choosing-the-otehr-option.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5ff44550-c340-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16758630-a-1-2-3-fm-towns-ayayo-1-pc-88-version-oops.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d8dad010-c340-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
-                "caption": "Ayayo 2: PC-88 version - Tomoko has sex",
+                "caption": "Ayayo 2: Sharp X68000 version - intro",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16758201-a-1-2-3-fm-towns-ayayo-2-pc-88-version-tomoko-has-sex.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9eaf1f2c-c340-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16758678-a-1-2-3-fm-towns-ayayo-2-sharp-x68000-version-intro.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dde94c1c-c340-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
-                "caption": "Ayayo 2: Sharp X68000 version - Tomoko is getting some",
+                "caption": "Some concept art and extras",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16757832-a-1-2-3-fm-towns-ayayo-2-sharp-x68000-version-tomoko-is-getting-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6034ab7c-c340-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16758351-a-1-2-3-fm-towns-some-concept-art-and-extras.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b194d758-c340-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             }
         ],
@@ -1360,24 +1360,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Cal II: Chinese girl",
+                "caption": "Cal II: scary girl plays cards",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16759035-cal-towns-fm-towns-cal-ii-chinese-girl.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1c209d78-c341-11ed-9a87-02420a0001b4.webp",
-                "width": 640
-            },
-            {
-                "caption": "Cal: princess in the tower",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16757742-cal-towns-fm-towns-cal-princess-in-the-tower.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5587c100-c340-11ed-9a87-02420a0001b4.webp",
-                "width": 640
-            },
-            {
-                "caption": "Cal: a rare scene without the protagonist",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16757592-cal-towns-fm-towns-cal-a-rare-scene-without-the-protagonist.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/44585b42-c340-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16757760-cal-towns-fm-towns-cal-ii-scary-girl-plays-cards.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/56eee7e4-c340-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
@@ -1388,10 +1374,24 @@
                 "width": 640
             },
             {
-                "caption": "Cal: it's Alice in Wonderland!",
+                "caption": "Cal II: mmm... purple...",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/15679776-cal-towns-fm-towns-cal-its-alice-in-wonderland.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2f0fe804-bec2-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16758246-cal-towns-fm-towns-cal-ii-mmm-purple.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a3a14fbe-c340-11ed-9a87-02420a0001b4.webp",
+                "width": 640
+            },
+            {
+                "caption": "Cal II: searching a room",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16758240-cal-towns-fm-towns-cal-ii-searching-a-room.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a301ffa4-c340-11ed-9a87-02420a0001b4.webp",
+                "width": 640
+            },
+            {
+                "caption": "Cal: choices, choices...",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16758183-cal-towns-fm-towns-cal-choices-choices.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9d40dc5c-c340-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             }
         ],
@@ -1472,27 +1472,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "You can store your stuff here",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16757796-gekirin-ushinawareshi-hoken-fm-towns-you-can-store-your-stuff-he.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5aa72842-c340-11ed-9a87-02420a0001b4.webp",
-                "width": 640
-            },
-            {
-                "caption": "You found an elevator to another floor",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16757790-gekirin-ushinawareshi-hoken-fm-towns-you-found-an-elevator-to-an.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5a12fabe-c340-11ed-9a87-02420a0001b4.webp",
-                "width": 640
-            },
-            {
-                "caption": "The game starts right here, in the hero's house. No intro, no story, no explanation, no nothing",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16757781-gekirin-ushinawareshi-hoken-fm-towns-the-game-starts-right-here-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/58b7c8ca-c340-11ed-9a87-02420a0001b4.webp",
-                "width": 640
-            },
-            {
                 "caption": "Dungeon, first floor",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/16757595-gekirin-ushinawareshi-hoken-fm-towns-dungeon-first-floor.png",
@@ -1500,10 +1479,31 @@
                 "width": 640
             },
             {
-                "caption": "Weapon seller",
+                "caption": "You can store your stuff here",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16757793-gekirin-ushinawareshi-hoken-fm-towns-weapon-seller.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5a592598-c340-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16757796-gekirin-ushinawareshi-hoken-fm-towns-you-can-store-your-stuff-he.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5aa72842-c340-11ed-9a87-02420a0001b4.webp",
+                "width": 640
+            },
+            {
+                "caption": "Item seller",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16757778-gekirin-ushinawareshi-hoken-fm-towns-item-seller.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5855c62a-c340-11ed-9a87-02420a0001b4.webp",
+                "width": 640
+            },
+            {
+                "caption": "Title screen",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/15679476-gekirin-ushinawareshi-hoken-fm-towns-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1a07a514-bec2-11ed-9c42-02420a000140.webp",
+                "width": 640
+            },
+            {
+                "caption": "The game starts right here, in the hero's house. No intro, no story, no explanation, no nothing",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16757781-gekirin-ushinawareshi-hoken-fm-towns-the-game-starts-right-here-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/58b7c8ca-c340-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             }
         ],
@@ -1584,31 +1584,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Item shop",
+                "caption": "The brave hero of the past...",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/15679758-die-gekirin-fm-towns-item-shop.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2cfc69de-bec2-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16758564-die-gekirin-fm-towns-the-brave-hero-of-the-past.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cbcf33b6-c340-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
-                "caption": "Here you can store a surplus of items",
+                "caption": "Weapon shop",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/15679896-die-gekirin-fm-towns-here-you-can-store-a-surplus-of-items.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/38f3479e-bec2-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15679731-die-gekirin-fm-towns-weapon-shop.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2b326220-bec2-11ed-9c42-02420a000140.webp",
                 "width": 640
             },
             {
-                "caption": "...and the troubles of the present",
+                "caption": "Hero's house",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16758567-die-gekirin-fm-towns-and-the-troubles-of-the-present.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cc51509e-c340-11ed-9a87-02420a0001b4.webp",
-                "width": 640
-            },
-            {
-                "caption": "This elf sells some interesting stuff",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/15679692-die-gekirin-fm-towns-this-elf-sells-some-interesting-stuff.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/27baf47c-bec2-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15679650-die-gekirin-fm-towns-heros-house.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/252087fe-bec2-11ed-9c42-02420a000140.webp",
                 "width": 640
             },
             {
@@ -1616,6 +1609,13 @@
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/16758576-die-gekirin-fm-towns-first-floor-starting-area.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/cd5f87c6-c340-11ed-9a87-02420a0001b4.webp",
+                "width": 640
+            },
+            {
+                "caption": "Item shop",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/15679758-die-gekirin-fm-towns-item-shop.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2cfc69de-bec2-11ed-9c42-02420a000140.webp",
                 "width": 640
             }
         ],
@@ -1687,13 +1687,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Fourth level",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16848518-evolution-fm-towns-fourth-level.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bbdbf65c-c3a3-11ed-9226-02420a000121.webp",
-                "width": 640
-            },
-            {
                 "caption": "Ascetic title screen",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/16758573-evolution-fm-towns-ascetic-title-screen.png",
@@ -1701,10 +1694,10 @@
                 "width": 640
             },
             {
-                "caption": "Starting with level 3 you have to memorize the correct route",
+                "caption": "Fourth level",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16921800-evolution-fm-towns-starting-with-level-3-you-have-to-memorize-th.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/879797f2-c411-11ed-be63-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16848518-evolution-fm-towns-fourth-level.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bbdbf65c-c3a3-11ed-9226-02420a000121.webp",
                 "width": 640
             },
             {
@@ -1715,10 +1708,17 @@
                 "width": 640
             },
             {
-                "caption": "That's it, then...",
+                "caption": "Level 2",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16758282-evolution-fm-towns-thats-it-then.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a838e618-c340-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16921797-evolution-fm-towns-level-2.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/87732b56-c411-11ed-be63-02420a000121.webp",
+                "width": 640
+            },
+            {
+                "caption": "Starting with level 3 you have to memorize the correct route",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16921800-evolution-fm-towns-starting-with-level-3-you-have-to-memorize-th.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/879797f2-c411-11ed-be63-02420a000121.webp",
                 "width": 640
             }
         ],
@@ -1781,13 +1781,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "That will make a great picture for the school newspaper",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16760853-joshi-kosei-shojo-hatsunetsu-fm-towns-that-will-make-a-great-pic.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/290b9168-c342-11ed-9a87-02420a0001b4.webp",
-                "width": 640
-            },
-            {
                 "caption": "Waiting for the model to arrive... time passes",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/15680208-joshi-kosei-shojo-hatsunetsu-fm-towns-waiting-for-the-model-to-a.png",
@@ -1795,24 +1788,31 @@
                 "width": 640
             },
             {
-                "caption": "Choosing one of the two girls",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16760868-joshi-kosei-shojo-hatsunetsu-fm-towns-choosing-one-of-the-two-gi.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2b4e285a-c342-11ed-9a87-02420a0001b4.webp",
-                "width": 640
-            },
-            {
-                "caption": "Some models start with seductive photos right away",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16761300-joshi-kosei-shojo-hatsunetsu-fm-towns-some-models-start-with-sed.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5352a8bc-c342-11ed-9a87-02420a0001b4.webp",
-                "width": 640
-            },
-            {
                 "caption": "The second mode: photo-shooting simulation",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/15680223-joshi-kosei-shojo-hatsunetsu-fm-towns-the-second-mode-photo-shoo.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/57cb8190-bec2-11ed-9c42-02420a000140.webp",
+                "width": 640
+            },
+            {
+                "caption": "Her photos get increasingly erotic",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/15680391-joshi-kosei-shojo-hatsunetsu-fm-towns-her-photos-get-increasingl.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/66a7f5e0-bec2-11ed-9c42-02420a000140.webp",
+                "width": 640
+            },
+            {
+                "caption": "Almost complete",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16760859-joshi-kosei-shojo-hatsunetsu-fm-towns-almost-complete.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/29a05578-c342-11ed-9a87-02420a0001b4.webp",
+                "width": 640
+            },
+            {
+                "caption": "Choosing one of the two girls",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16760868-joshi-kosei-shojo-hatsunetsu-fm-towns-choosing-one-of-the-two-gi.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2b4e285a-c342-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             }
         ],
@@ -1893,20 +1893,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "...and has every reason to be so",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16762095-kyan-kyan-collection-fm-towns-and-has-every-reason-to-be-so.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a5de7dae-c342-11ed-9a87-02420a0001b4.webp",
-                "width": 640
-            },
-            {
-                "caption": "The second opponent looks smart...",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16762251-kyan-kyan-collection-fm-towns-the-second-opponent-looks-smart.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c014793a-c342-11ed-9a87-02420a0001b4.webp",
-                "width": 640
-            },
-            {
                 "caption": "This opponent looks sad...",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/16762092-kyan-kyan-collection-fm-towns-this-opponent-looks-sad.png",
@@ -1914,17 +1900,31 @@
                 "width": 640
             },
             {
-                "caption": "She looks shy...",
+                "caption": "Pictures usually change after every round",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16762248-kyan-kyan-collection-fm-towns-she-looks-shy.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bfd51b82-c342-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16762098-kyan-kyan-collection-fm-towns-pictures-usually-change-after-ever.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a61b4af4-c342-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
-                "caption": "Nice hat!",
+                "caption": "...but quickly loses her glasses",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16762101-kyan-kyan-collection-fm-towns-nice-hat.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a65e70b8-c342-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16762254-kyan-kyan-collection-fm-towns-but-quickly-loses-her-glasses.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c05014a4-c342-11ed-9a87-02420a0001b4.webp",
+                "width": 640
+            },
+            {
+                "caption": "Explaining the rules",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16762242-kyan-kyan-collection-fm-towns-explaining-the-rules.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bf5b0176-c342-11ed-9a87-02420a0001b4.webp",
+                "width": 640
+            },
+            {
+                "caption": "Even user disk-creating routine has its own screen!",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16764092-kyan-kyan-collection-fm-towns-even-user-disk-creating-routine-ha.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e3db6bb6-c343-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             }
         ],
@@ -1996,24 +1996,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The busy streets of Hong Kong",
+                "caption": "Title screen",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16762269-lupin-sansei-hong-kong-no-mashu-fukushu-wa-meikyu-no-hate-ni-fm-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c1ba2230-c342-11ed-9a87-02420a0001b4.webp",
-                "width": 640
-            },
-            {
-                "caption": "Beautiful park in Hong Kong",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16762284-lupin-sansei-hong-kong-no-mashu-fukushu-wa-meikyu-no-hate-ni-fm-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c27c58dc-c342-11ed-9a87-02420a0001b4.webp",
-                "width": 640
-            },
-            {
-                "caption": "Sailing to Kowloon",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16762293-lupin-sansei-hong-kong-no-mashu-fukushu-wa-meikyu-no-hate-ni-fm-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c2f64dd6-c342-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16761351-lupin-sansei-hong-kong-no-mashu-fukushu-wa-meikyu-no-hate-ni-fm-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5b9bd1b0-c342-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
@@ -2024,10 +2010,24 @@
                 "width": 640
             },
             {
-                "caption": "That's pretty imaginative",
+                "caption": "Comic book-style scene",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16761366-lupin-sansei-hong-kong-no-mashu-fukushu-wa-meikyu-no-hate-ni-fm-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5c56a9ea-c342-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16762287-lupin-sansei-hong-kong-no-mashu-fukushu-wa-meikyu-no-hate-ni-fm-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c2a3cea8-c342-11ed-9a87-02420a0001b4.webp",
+                "width": 640
+            },
+            {
+                "caption": "Beautiful park in Hong Kong",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16762284-lupin-sansei-hong-kong-no-mashu-fukushu-wa-meikyu-no-hate-ni-fm-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c27c58dc-c342-11ed-9a87-02420a0001b4.webp",
+                "width": 640
+            },
+            {
+                "caption": "Next chapter prompts you to choose items again",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16762272-lupin-sansei-hong-kong-no-mashu-fukushu-wa-meikyu-no-hate-ni-fm-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c1e04bfe-c342-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             }
         ],
@@ -2115,31 +2115,31 @@
                 "width": 640
             },
             {
-                "caption": "Title screen",
+                "caption": "...and smoothly turns into gameplay",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16761627-megamorph-fm-towns-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7510821c-c342-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16761612-megamorph-fm-towns-and-smoothly-turns-into-gameplay.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/73bd190c-c342-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
-                "caption": "...and found remains of a highly advanced ancient civilization",
+                "caption": "The game begins...",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16761609-megamorph-fm-towns-and-found-remains-of-a-highly-advanced-ancien.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/737f6274-c342-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16761636-megamorph-fm-towns-the-game-begins.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/75fb4450-c342-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
-                "caption": "It's getting busy here",
+                "caption": "The first boss battle",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16761621-megamorph-fm-towns-its-getting-busy-here.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/749372cc-c342-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16761615-megamorph-fm-towns-the-first-boss-battle.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/73fcbec2-c342-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
-                "caption": "FM Towns Marty controller. Sure, why not",
+                "caption": "Our ship is unique indeed...",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16761624-megamorph-fm-towns-fm-towns-marty-controller-sure-why-not.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/74c109c6-c342-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16761711-megamorph-fm-towns-our-ship-is-unique-indeed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7eb09028-c342-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             }
         ],
@@ -2202,38 +2202,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Answering the phone",
+                "caption": "Airport",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16762089-misty-fm-towns-answering-the-phone.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a55eb074-c342-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16761537-misty-fm-towns-airport.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6b7cfa00-c342-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
-                "caption": "Talking to a bartender",
+                "caption": "Talking to a clerk",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16762353-misty-fm-towns-talking-to-a-bartender.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cb4301be-c342-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16762350-misty-fm-towns-talking-to-a-clerk.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cad7bbca-c342-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
-                "caption": "European-style houses",
+                "caption": "Talking to the principal of the local school",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16761900-misty-fm-towns-european-style-houses.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9163f4a8-c342-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16762356-misty-fm-towns-talking-to-the-principal-of-the-local-school.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cbad21b6-c342-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
-                "caption": "The map is the same for most cases",
+                "caption": "Talking to a servant in the mansion",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/15680337-misty-fm-towns-the-map-is-the-same-for-most-cases.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/62119234-bec2-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16762317-misty-fm-towns-talking-to-a-servant-in-the-mansion.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c5f36604-c342-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
-                "caption": "Talking to people outside",
+                "caption": "This case takes you out of the city...",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16761597-misty-fm-towns-talking-to-people-outside.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7275aaf0-c342-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16761873-misty-fm-towns-this-case-takes-you-out-of-the-city.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8d48e194-c342-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             }
         ],
@@ -2332,6 +2332,20 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Our girl has to fend off this Neo Zeon attack",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16762059-mobile-suit-gundam-hyper-classic-operation-fm-towns-our-girl-has.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9f9c6776-c342-11ed-9a87-02420a0001b4.webp",
+                "width": 640
+            },
+            {
+                "caption": "Mechas and ships become progressively larger",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16762056-mobile-suit-gundam-hyper-classic-operation-fm-towns-mechas-and-s.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9f297ae0-c342-11ed-9a87-02420a0001b4.webp",
+                "width": 640
+            },
+            {
                 "caption": "Armored soldier vs. tank",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/16761810-mobile-suit-gundam-hyper-classic-operation-fm-towns-armored-sold.png",
@@ -2339,31 +2353,17 @@
                 "width": 640
             },
             {
-                "caption": "Try to be tactical",
+                "caption": "Smaller space ships face each other",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16762041-mobile-suit-gundam-hyper-classic-operation-fm-towns-try-to-be-ta.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9db092ac-c342-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16761801-mobile-suit-gundam-hyper-classic-operation-fm-towns-smaller-spac.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/85966a0c-c342-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
-                "caption": "Trying to infiltrate the stronghold",
+                "caption": "Hey, isn't this Char?..",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16761564-mobile-suit-gundam-hyper-classic-operation-fm-towns-trying-to-in.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6dc7dde8-c342-11ed-9a87-02420a0001b4.webp",
-                "width": 640
-            },
-            {
-                "caption": "Due to my laziness the enemy has formed this circle",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16762044-mobile-suit-gundam-hyper-classic-operation-fm-towns-due-to-my-la.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9df14fc2-c342-11ed-9a87-02420a0001b4.webp",
-                "width": 640
-            },
-            {
-                "caption": "Cutscene between missions",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16761816-mobile-suit-gundam-hyper-classic-operation-fm-towns-cutscene-bet.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8691f9e4-c342-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16761786-mobile-suit-gundam-hyper-classic-operation-fm-towns-hey-isnt-thi.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/847c1144-c342-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             }
         ],
@@ -2462,10 +2462,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Enemy occupies the coast line",
+                "caption": "...and the red ones. Earth vs. Zeon. The eternal struggle",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16761519-mobile-suit-gundam-hyper-desert-operation-fm-towns-enemy-occupie.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/68b67e04-c342-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16761489-mobile-suit-gundam-hyper-desert-operation-fm-towns-and-the-red-o.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/65ee895a-c342-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
@@ -2476,24 +2476,24 @@
                 "width": 640
             },
             {
-                "caption": "Producing new units",
+                "caption": "The new commander has awesome bear",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16761549-mobile-suit-gundam-hyper-desert-operation-fm-towns-producing-new.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6ccdf31e-c342-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16304764-mobile-suit-gundam-hyper-desert-operation-fm-towns-the-new-comma.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cbf0155a-c1f0-11ed-ab6b-02420a000194.webp",
                 "width": 640
             },
             {
-                "caption": "Unit management",
+                "caption": "The situation is almost hopeless",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16761507-mobile-suit-gundam-hyper-desert-operation-fm-towns-unit-manageme.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/676395c8-c342-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16761561-mobile-suit-gundam-hyper-desert-operation-fm-towns-the-situation.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6d9689aa-c342-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
-                "caption": "Selecting pilots",
+                "caption": "Revenge by mounted turret!",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16761504-mobile-suit-gundam-hyper-desert-operation-fm-towns-selecting-pil.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/671e0e86-c342-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15680232-mobile-suit-gundam-hyper-desert-operation-fm-towns-revenge-by-mo.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5867b81c-bec2-11ed-9c42-02420a000140.webp",
                 "width": 640
             }
         ],
@@ -2574,10 +2574,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "This is the commander...",
+                "caption": "Title screen",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16763280-rejection-den-no-senshi-fm-towns-this-is-the-commander.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/57f9dbc8-c343-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15636029-rejection-den-no-senshi-fm-towns-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c80147d8-bdeb-11ed-b791-02420a0001bb.webp",
+                "width": 640
+            },
+            {
+                "caption": "Boss battle",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16763406-rejection-den-no-senshi-fm-towns-boss-battle.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6b79444a-c343-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
@@ -2588,24 +2595,17 @@
                 "width": 640
             },
             {
-                "caption": "Found some ammo",
+                "caption": "Intro: the meteorite falls...",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16763289-rejection-den-no-senshi-fm-towns-found-some-ammo.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5899942e-c343-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16763460-rejection-den-no-senshi-fm-towns-intro-the-meteorite-falls.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7114a4a8-c343-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
-                "caption": "Weapons and status",
+                "caption": "Have YOU joined the Communist party, comrade?..",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16763742-rejection-den-no-senshi-fm-towns-weapons-and-status.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b03448e6-c343-11ed-9a87-02420a0001b4.webp",
-                "width": 640
-            },
-            {
-                "caption": "This guy has a lot on his mind...",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16763739-rejection-den-no-senshi-fm-towns-this-guy-has-a-lot-on-his-mind.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ae88d28c-c343-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16763277-rejection-den-no-senshi-fm-towns-have-you-joined-the-communist-p.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/57c8c786-c343-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             }
         ],
@@ -2686,24 +2686,31 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Sayaka: the horny stepson",
+                "caption": "Sayaka: introduction",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16763580-sayaka-miho-fm-towns-sayaka-the-horny-stepson.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8e37db54-c343-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16765580-sayaka-miho-fm-towns-sayaka-introduction.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/93d96b62-c344-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
-                "caption": "Sayaka: taking a shower",
+                "caption": "Miho: director",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16763148-sayaka-miho-fm-towns-sayaka-taking-a-shower.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3c3c358e-c343-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16764875-sayaka-miho-fm-towns-miho-director.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/33b8cd18-c344-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
-                "caption": "Miho: intimate moment",
+                "caption": "Sayaka: the maid looks suspicious",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/15680661-sayaka-miho-fm-towns-miho-intimate-moment.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8105a950-bec2-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16765583-sayaka-miho-fm-towns-sayaka-the-maid-looks-suspicious.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9409b5f6-c344-11ed-9a87-02420a0001b4.webp",
+                "width": 640
+            },
+            {
+                "caption": "Miho: raped by the boss",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16763160-sayaka-miho-fm-towns-miho-raped-by-the-boss.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3d2928e4-c343-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
@@ -2711,13 +2718,6 @@
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/16764320-sayaka-miho-fm-towns-choose-any-of-the-two-games.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/fb13c260-c343-11ed-9a87-02420a0001b4.webp",
-                "width": 640
-            },
-            {
-                "caption": "Sayaka: title screen",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16765577-sayaka-miho-fm-towns-sayaka-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/93a5746a-c344-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             }
         ],
@@ -2789,10 +2789,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Beware of the spiders!..",
+                "caption": "Customizing enemies",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16764206-super-shooting-towns-fm-towns-beware-of-the-spiders.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f0b81050-c343-11ed-9a87-02420a0001b4.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15680856-super-shooting-towns-fm-towns-customizing-enemies.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8fbe7bca-bec2-11ed-9c42-02420a000140.webp",
+                "width": 640
+            },
+            {
+                "caption": "Checking out the editor",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16765622-super-shooting-towns-fm-towns-checking-out-the-editor.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9adbe746-c344-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             },
             {
@@ -2814,13 +2821,6 @@
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/16764068-super-shooting-towns-fm-towns-game-over.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/e13287a0-c343-11ed-9a87-02420a0001b4.webp",
-                "width": 640
-            },
-            {
-                "caption": "Getting started",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16764203-super-shooting-towns-fm-towns-getting-started.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f0771e74-c343-11ed-9a87-02420a0001b4.webp",
                 "width": 640
             }
         ],
@@ -2910,27 +2910,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "[Itsuka Dokoka de.] She don't look too happy though",
-                "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/16841541-custom-mate-2-itsuka-dokoka-de-fm-towns-itsuka-dokoka-de-she-don.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/079d1484-c3a1-11ed-9226-02420a000121.webp",
-                "width": 640
-            },
-            {
-                "caption": "[Custom Mate 2] Title screen",
-                "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/16846005-custom-mate-2-itsuka-dokoka-de-fm-towns-custom-mate-2-title-scre.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c504ee56-c3a2-11ed-9226-02420a000121.webp",
-                "width": 640
-            },
-            {
-                "caption": "[Itsuka Dokoka de.] Title screen",
-                "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/16841031-custom-mate-2-itsuka-dokoka-de-fm-towns-itsuka-dokoka-de-title-s.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d1663c60-c3a0-11ed-9226-02420a000121.webp",
-                "width": 640
-            },
-            {
                 "caption": "[Itsuka Dokoka de.] Third story, that's not what a microphone is for but don't let me stop you",
                 "height": 400,
                 "image_url": "https://cdn.mobygames.com/screenshots/16841043-custom-mate-2-itsuka-dokoka-de-fm-towns-itsuka-dokoka-de-third-s.png",
@@ -2938,10 +2917,31 @@
                 "width": 640
             },
             {
-                "caption": "[Custom Mate 2] And I would have gotten away with it too, if it weren't for that chainsmoking undercover cop masquerading as a school girl",
+                "caption": "[Itsuka Dokoka de.] Best sculpture EVER",
                 "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/16839993-custom-mate-2-itsuka-dokoka-de-fm-towns-custom-mate-2-and-i-woul.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6cef8f0c-c3a0-11ed-9226-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16841046-custom-mate-2-itsuka-dokoka-de-fm-towns-itsuka-dokoka-de-best-sc.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d24cad80-c3a0-11ed-9226-02420a000121.webp",
+                "width": 640
+            },
+            {
+                "caption": "[Custom Mate 2] How 'bout nurse with green hair instead",
+                "height": 400,
+                "image_url": "https://cdn.mobygames.com/screenshots/16841535-custom-mate-2-itsuka-dokoka-de-fm-towns-custom-mate-2-how-bout-n.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/07375d60-c3a1-11ed-9226-02420a000121.webp",
+                "width": 640
+            },
+            {
+                "caption": "[Itsuka Dokoka de.] Reaching different endings adds to the completion percentage of the game",
+                "height": 400,
+                "image_url": "https://cdn.mobygames.com/screenshots/16841037-custom-mate-2-itsuka-dokoka-de-fm-towns-itsuka-dokoka-de-reachin.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d1c357ec-c3a0-11ed-9226-02420a000121.webp",
+                "width": 640
+            },
+            {
+                "caption": "[Custom Mate 2] Nurse",
+                "height": 400,
+                "image_url": "https://cdn.mobygames.com/screenshots/15949640-custom-mate-2-itsuka-dokoka-de-fm-towns-custom-mate-2-nurse.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f209da04-bf17-11ed-9c42-02420a000140.webp",
                 "width": 640
             }
         ],
@@ -3108,38 +3108,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The Desert Rally gameplay",
+                "caption": "Neo Tard gameplay",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/15787920-excellent-10-fm-towns-the-desert-rally-gameplay.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ba670102-bee6-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15787404-excellent-10-fm-towns-neo-tard-gameplay.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/91a66df2-bee6-11ed-9c42-02420a000140.webp",
                 "width": 640
             },
             {
-                "caption": "CD setting tool",
+                "caption": "Last Fight title screen",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/15788244-excellent-10-fm-towns-cd-setting-tool.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d7eae8d8-bee6-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15716872-excellent-10-fm-towns-last-fight-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/34ef7aca-becf-11ed-9c42-02420a000140.webp",
                 "width": 640
             },
             {
-                "caption": "Fantasia gameplay",
+                "caption": "System AICA title screen",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/15787995-excellent-10-fm-towns-fantasia-gameplay.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c2eb1084-bee6-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15633068-excellent-10-fm-towns-system-aica-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b4d47d5c-bdea-11ed-b791-02420a0001bb.webp",
                 "width": 640
             },
             {
-                "caption": "Peace title screen",
+                "caption": "Fantasia title screen",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/15788088-excellent-10-fm-towns-peace-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ca8e9d74-bee6-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15787425-excellent-10-fm-towns-fantasia-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/938983ac-bee6-11ed-9c42-02420a000140.webp",
                 "width": 640
             },
             {
-                "caption": "The Desert Rally(e) title screen",
+                "caption": "Dernus gameplay",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/15787980-excellent-10-fm-towns-the-desert-rallye-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c1906e3c-bee6-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15787902-excellent-10-fm-towns-dernus-gameplay.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b9cbc16a-bee6-11ed-9c42-02420a000140.webp",
                 "width": 640
             }
         ],
@@ -3252,17 +3252,17 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Title screen",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/15741141-ryutoden-fm-towns-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/76780900-bed7-11ed-9c42-02420a000140.webp",
+                "width": 640
+            },
+            {
                 "caption": "Displaying high scores",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/15741534-ryutoden-fm-towns-displaying-high-scores.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/ac5dc7a8-bed7-11ed-9c42-02420a000140.webp",
-                "width": 640
-            },
-            {
-                "caption": "Settings menu, by clicking on the icon - speaker with the American flag you can listen to Brad Fregger talk about this game",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/15752295-ryutoden-fm-towns-settings-menu-by-clicking-on-the-icon-speaker-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1ebb2fcc-bedb-11ed-9c42-02420a000140.webp",
                 "width": 640
             },
             {
@@ -3280,10 +3280,10 @@
                 "width": 640
             },
             {
-                "caption": "Playing with a 15 minute time limit",
+                "caption": "Clicking the rewind icon allows you to undo an already made move",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/15741147-ryutoden-fm-towns-playing-with-a-15-minute-time-limit.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/76dc1e5e-bed7-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15741636-ryutoden-fm-towns-clicking-the-rewind-icon-allows-you-to-undo-an.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bc239b0e-bed7-11ed-9c42-02420a000140.webp",
                 "width": 640
             }
         ],
@@ -3373,6 +3373,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Music Room",
+                "height": 400,
+                "image_url": "https://cdn.mobygames.com/screenshots/15977003-game-technopolis-super-collection-1-fm-towns-music-room.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/28a48688-bf20-11ed-9c42-02420a000140.webp",
+                "width": 640
+            },
+            {
                 "caption": "[Himitsu no Hanazono] it's only a dream",
                 "height": 400,
                 "image_url": "https://cdn.mobygames.com/screenshots/15976744-game-technopolis-super-collection-1-fm-towns-himitsu-no-hanazono.png",
@@ -3380,31 +3387,24 @@
                 "width": 640
             },
             {
+                "caption": "Bish\u014djo overview 1",
+                "height": 400,
+                "image_url": "https://cdn.mobygames.com/screenshots/15976934-game-technopolis-super-collection-1-fm-towns-bishojo-overview-1.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/245ed4de-bf20-11ed-9c42-02420a000140.webp",
+                "width": 640
+            },
+            {
+                "caption": "Bonus feature menu",
+                "height": 400,
+                "image_url": "https://cdn.mobygames.com/screenshots/15976883-game-technopolis-super-collection-1-fm-towns-bonus-feature-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/20713a10-bf20-11ed-9c42-02420a000140.webp",
+                "width": 640
+            },
+            {
                 "caption": "[Dragon Eyes] title screen",
                 "height": 400,
                 "image_url": "https://cdn.mobygames.com/screenshots/15976901-game-technopolis-super-collection-1-fm-towns-dragon-eyes-title-s.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/21764cd4-bf20-11ed-9c42-02420a000140.webp",
-                "width": 640
-            },
-            {
-                "caption": "[Kimi Dake ni Ai o] naughty doctor",
-                "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/15976645-game-technopolis-super-collection-1-fm-towns-kimi-dake-ni-ai-o-n.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0bfb908a-bf20-11ed-9c42-02420a000140.webp",
-                "width": 640
-            },
-            {
-                "caption": "[Kimi Dake ni Ai o]",
-                "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/15976612-game-technopolis-super-collection-1-fm-towns-kimi-dake-ni-ai-o.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/08d23bc0-bf20-11ed-9c42-02420a000140.webp",
-                "width": 640
-            },
-            {
-                "caption": "[Dragon Eyes] space ship",
-                "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/15976919-game-technopolis-super-collection-1-fm-towns-dragon-eyes-space-s.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2294e670-bf20-11ed-9c42-02420a000140.webp",
                 "width": 640
             }
         ],
@@ -3512,13 +3512,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "[Tesera Kimi wa Kegareta Tenshi ka Seinaru Majo ka!?]",
-                "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/15976871-game-technopolis-super-collection-2-fm-towns-tesera-kimi-wa-kega.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1e4de26a-bf20-11ed-9c42-02420a000140.webp",
-                "width": 640
-            },
-            {
                 "caption": "One of the pictures in 32,768 color mode",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/15977450-game-technopolis-super-collection-2-fm-towns-one-of-the-pictures.png",
@@ -3526,24 +3519,31 @@
                 "width": 640
             },
             {
-                "caption": "Bonus section menu",
-                "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/15976832-game-technopolis-super-collection-2-fm-towns-bonus-section-menu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1bd1ec34-bf20-11ed-9c42-02420a000140.webp",
-                "width": 640
-            },
-            {
-                "caption": "Wallpaper section has five pictures in 16 color mode, while the rest are in 32,768 color mode",
-                "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/15977519-game-technopolis-super-collection-2-fm-towns-wallpaper-section-h.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/482a9aa6-bf20-11ed-9c42-02420a000140.webp",
-                "width": 640
-            },
-            {
                 "caption": "One of the 16 color pictures, this one is from Himitsu no Hanazono",
                 "height": 400,
                 "image_url": "https://cdn.mobygames.com/screenshots/15977153-game-technopolis-super-collection-2-fm-towns-one-of-the-16-color.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/327e3a3c-bf20-11ed-9c42-02420a000140.webp",
+                "width": 640
+            },
+            {
+                "caption": "[Tesera Kimi wa Kegareta Tenshi ka Seinaru Majo ka!?] title screen",
+                "height": 400,
+                "image_url": "https://cdn.mobygames.com/screenshots/15976886-game-technopolis-super-collection-2-fm-towns-tesera-kimi-wa-kega.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/209ffe04-bf20-11ed-9c42-02420a000140.webp",
+                "width": 640
+            },
+            {
+                "caption": "[Hatsukoi Monogatari] title screen",
+                "height": 400,
+                "image_url": "https://cdn.mobygames.com/screenshots/15976856-game-technopolis-super-collection-2-fm-towns-hatsukoi-monogatari.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1d687144-bf20-11ed-9c42-02420a000140.webp",
+                "width": 640
+            },
+            {
+                "caption": "CD drama \"Denn\u014d Tenshi Episode 1: Tenshi daten-shi yattekita!\" consists of a static picture with voice acting",
+                "height": 400,
+                "image_url": "https://cdn.mobygames.com/screenshots/15976853-game-technopolis-super-collection-2-fm-towns-cd-drama-denno-tens.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1d27c8a6-bf20-11ed-9c42-02420a000140.webp",
                 "width": 640
             }
         ],
@@ -3588,38 +3588,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "[Solitaire Royale] Children's games menu",
+                "caption": "[Solitaire Royale] the \"help\" menu is also in Japanese",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16846695-pis-solitaire-royale-tom-snyders-puppy-love-fm-towns-solitaire-r.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/03b0d016-c3a3-11ed-9226-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16846863-pis-solitaire-royale-tom-snyders-puppy-love-fm-towns-solitaire-r.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/13832868-c3a3-11ed-9226-02420a000121.webp",
                 "width": 640
             },
             {
-                "caption": "[Puppy Love] Trophy Room displays the 3 \"Hot Dogging\" ribbons",
+                "caption": "[Puppy Love] dog pictured at top became the mascot of the FM Towns computer and would feature prominently on software packaging",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16845924-pis-solitaire-royale-tom-snyders-puppy-love-fm-towns-puppy-love-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bf75481e-c3a2-11ed-9226-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16846065-pis-solitaire-royale-tom-snyders-puppy-love-fm-towns-puppy-love-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ccb0f708-c3a2-11ed-9226-02420a000121.webp",
                 "width": 640
             },
             {
-                "caption": "Compilation boots into TownsOS, here you can choose which game to play, read their manuals or watch sample",
+                "caption": "[Solitaire Royale] the \"how to play\" is in Japanese",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16846335-pis-solitaire-royale-tom-snyders-puppy-love-fm-towns-compilation.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e5f8b50c-c3a2-11ed-9226-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16846881-pis-solitaire-royale-tom-snyders-puppy-love-fm-towns-solitaire-r.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/15ce8f72-c3a3-11ed-9226-02420a000121.webp",
                 "width": 640
             },
             {
-                "caption": "[Solitaire Royale] in the settings you can change the background color",
+                "caption": "[Solitaire Royale] Reno",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16846878-pis-solitaire-royale-tom-snyders-puppy-love-fm-towns-solitaire-r.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/15a2b9ce-c3a3-11ed-9226-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16846749-pis-solitaire-royale-tom-snyders-puppy-love-fm-towns-solitaire-r.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/09e12c7e-c3a3-11ed-9226-02420a000121.webp",
                 "width": 640
             },
             {
-                "caption": "[Puppy Love] in \"Top Dogging\" events your pup needs to perform a choreographed routine containing certain tricks; three judges then score it from 0 to 9.9",
+                "caption": "[Solitaire Royale] title screen",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16846869-pis-solitaire-royale-tom-snyders-puppy-love-fm-towns-puppy-love-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1406eaae-c3a3-11ed-9226-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16846866-pis-solitaire-royale-tom-snyders-puppy-love-fm-towns-solitaire-r.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/13a28b2c-c3a3-11ed-9226-02420a000121.webp",
                 "width": 640
             }
         ],
@@ -3718,31 +3718,31 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Kumi's stage",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16135263-asuka-120-excellent-burning-fest-fm-towns-kumis-stage.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0071ccd2-bf7c-11ed-9521-02420a000152.webp",
-                "width": 640
-            },
-            {
-                "caption": "Options menu, new for this version is the speed setting",
-                "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/16134990-asuka-120-excellent-burning-fest-fm-towns-options-menu-new-for-t.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f0aeaf4a-bf7b-11ed-9521-02420a000152.webp",
-                "width": 640
-            },
-            {
-                "caption": "Story mode now has adventure/visual novel elements",
-                "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/16134942-asuka-120-excellent-burning-fest-fm-towns-story-mode-now-has-adv.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ee5e7900-bf7b-11ed-9521-02420a000152.webp",
-                "width": 640
-            },
-            {
                 "caption": "Character select screen has different portraits",
                 "height": 400,
                 "image_url": "https://cdn.mobygames.com/screenshots/16139805-asuka-120-excellent-burning-fest-fm-towns-character-select-scree.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/6ff777ea-bf7d-11ed-9521-02420a000152.webp",
+                "width": 640
+            },
+            {
+                "caption": "Tamaki's stage",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16135149-asuka-120-excellent-burning-fest-fm-towns-tamakis-stage.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fa99198c-bf7b-11ed-9521-02420a000152.webp",
+                "width": 640
+            },
+            {
+                "caption": "Title screen",
+                "height": 400,
+                "image_url": "https://cdn.mobygames.com/screenshots/16134993-asuka-120-excellent-burning-fest-fm-towns-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f0e01512-bf7b-11ed-9521-02420a000152.webp",
+                "width": 640
+            },
+            {
+                "caption": "Torami's stage",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16135167-asuka-120-excellent-burning-fest-fm-towns-toramis-stage.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fc71e6bc-bf7b-11ed-9521-02420a000152.webp",
                 "width": 640
             },
             {
@@ -3839,24 +3839,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Spirits title screen & name entry",
+                "caption": "Spirits intro; a bunch of Greek and Cyrillic letters",
                 "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/16515731-can-can-bunny-premiere-fm-towns-spirits-title-screen-name-entry.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7ce25ffe-c231-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16515728-can-can-bunny-premiere-fm-towns-spirits-intro-a-bunch-of-greek-a.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7cb4f83e-c231-11ed-ab6b-02420a000194.webp",
                 "width": 640
             },
             {
-                "caption": "On a date",
+                "caption": "Intro, goddess Swatty",
                 "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/16434230-can-can-bunny-premiere-fm-towns-on-a-date.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c5b1b76a-c219-11ed-ab6b-02420a000194.webp",
-                "width": 640
-            },
-            {
-                "caption": "Spirits gameplay",
-                "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/16516965-can-can-bunny-premiere-fm-towns-spirits-gameplay.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e4ec70bc-c231-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16515737-can-can-bunny-premiere-fm-towns-intro-goddess-swatty.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7e1a1a88-c231-11ed-ab6b-02420a000194.webp",
                 "width": 640
             },
             {
@@ -3867,10 +3860,17 @@
                 "width": 640
             },
             {
-                "caption": "Spirits; introducing the women and their \"stats\"",
+                "caption": "Spirits title screen & name entry",
                 "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/16517007-can-can-bunny-premiere-fm-towns-spirits-introducing-the-women-an.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e84be47c-c231-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16515731-can-can-bunny-premiere-fm-towns-spirits-title-screen-name-entry.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7ce25ffe-c231-11ed-ab6b-02420a000194.webp",
+                "width": 640
+            },
+            {
+                "caption": "Spirits gameplay",
+                "height": 400,
+                "image_url": "https://cdn.mobygames.com/screenshots/16516965-can-can-bunny-premiere-fm-towns-spirits-gameplay.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e4ec70bc-c231-11ed-ab6b-02420a000194.webp",
                 "width": 640
             }
         ],
@@ -3924,10 +3924,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "[Joker] For some reason Laura is unable to see into the future",
+                "caption": "You can listen to the game's background music tracks",
                 "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/16489630-joker-towns-fm-towns-joker-for-some-reason-laura-is-unable-to-se.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bac21100-c229-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16489492-joker-towns-fm-towns-you-can-listen-to-the-games-background-musi.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b1aee61a-c229-11ed-ab6b-02420a000194.webp",
+                "width": 640
+            },
+            {
+                "caption": "[Joker] The church is the only place where you can save your game, it\u2019s also a pun, that you have been saved when you talk to the priest",
+                "height": 400,
+                "image_url": "https://cdn.mobygames.com/screenshots/16489498-joker-towns-fm-towns-joker-the-church-is-the-only-place-where-yo.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b1f431fc-c229-11ed-ab6b-02420a000194.webp",
                 "width": 640
             },
             {
@@ -3938,10 +3945,10 @@
                 "width": 640
             },
             {
-                "caption": "You can listen to the game's background music tracks",
+                "caption": "[Joker] For some reason Laura is unable to see into the future",
                 "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/16489492-joker-towns-fm-towns-you-can-listen-to-the-games-background-musi.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b1aee61a-c229-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16489630-joker-towns-fm-towns-joker-for-some-reason-laura-is-unable-to-se.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bac21100-c229-11ed-ab6b-02420a000194.webp",
                 "width": 640
             },
             {
@@ -3949,13 +3956,6 @@
                 "height": 400,
                 "image_url": "https://cdn.mobygames.com/screenshots/16489627-joker-towns-fm-towns-joker-howdy-partner.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/ba8f5760-c229-11ed-ab6b-02420a000194.webp",
-                "width": 640
-            },
-            {
-                "caption": "[Joker] The church is the only place where you can save your game, it\u2019s also a pun, that you have been saved when you talk to the priest",
-                "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/16489498-joker-towns-fm-towns-joker-the-church-is-the-only-place-where-yo.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b1f431fc-c229-11ed-ab6b-02420a000194.webp",
                 "width": 640
             }
         ],
@@ -4063,24 +4063,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Intro",
+                "caption": "Boss",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16885583-alltynex-fm-towns-intro.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8b6b08ee-c3ff-11ed-be63-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16885571-alltynex-fm-towns-boss.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8ad4c83e-c3ff-11ed-be63-02420a000121.webp",
                 "width": 480
             },
             {
-                "caption": "Option screen; note the typos: \"nomal\" and \"harf\"",
+                "caption": "Title screen / Main menu",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16885577-alltynex-fm-towns-option-screen-note-the-typos-nomal-and-harf.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8b27456e-c3ff-11ed-be63-02420a000121.webp",
-                "width": 480
-            },
-            {
-                "caption": "Shooting at enemies",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16885568-alltynex-fm-towns-shooting-at-enemies.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8ab233be-c3ff-11ed-be63-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16885586-alltynex-fm-towns-title-screen-main-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8b91cb50-c3ff-11ed-be63-02420a000121.webp",
                 "width": 480
             },
             {
@@ -4091,10 +4084,17 @@
                 "width": 480
             },
             {
-                "caption": "Boss",
+                "caption": "Option screen; note the typos: \"nomal\" and \"harf\"",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16885571-alltynex-fm-towns-boss.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8ad4c83e-c3ff-11ed-be63-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16885577-alltynex-fm-towns-option-screen-note-the-typos-nomal-and-harf.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8b27456e-c3ff-11ed-be63-02420a000121.webp",
+                "width": 480
+            },
+            {
+                "caption": "A supercomputer named ALLTYNEX wants to annihilate all humans",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16885580-alltynex-fm-towns-a-supercomputer-named-alltynex-wants-to-annihi.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8b499ba0-c3ff-11ed-be63-02420a000121.webp",
                 "width": 480
             }
         ],
@@ -4148,17 +4148,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "[Pocky] Lewd photo",
-                "height": 400,
-                "image_url": "https://cdn.mobygames.com/screenshots/16925733-pocky-12-ponyon-fm-towns-pocky-lewd-photo.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3f68eefc-c413-11ed-be63-02420a000121.webp",
+                "caption": "[CG Collection] This one is from Pocky",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16922979-pocky-12-ponyon-fm-towns-cg-collection-this-one-is-from-pocky.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/133d90a4-c412-11ed-be63-02420a000121.webp",
                 "width": 640
             },
             {
-                "caption": "[CG Collection] This one is from Pocky 2",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16921995-pocky-12-ponyon-fm-towns-cg-collection-this-one-is-from-pocky-2.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a45bcb88-c411-11ed-be63-02420a000121.webp",
+                "caption": "[Pocky] Title screen",
+                "height": 400,
+                "image_url": "https://cdn.mobygames.com/screenshots/16528956-pocky-12-ponyon-fm-towns-pocky-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/160427aa-c235-11ed-ab6b-02420a000194.webp",
                 "width": 640
             },
             {
@@ -4176,10 +4176,10 @@
                 "width": 640
             },
             {
-                "caption": "CG Collection has graphics from various Ponytail Soft games, like this one from Ponyon",
+                "caption": "[CG Collection] That sure is a big apple",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16922310-pocky-12-ponyon-fm-towns-cg-collection-has-graphics-from-various.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cb530008-c411-11ed-be63-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16922001-pocky-12-ponyon-fm-towns-cg-collection-that-sure-is-a-big-apple.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a4e6c88c-c411-11ed-be63-02420a000121.webp",
                 "width": 640
             }
         ],
@@ -4258,13 +4258,6 @@
                 "width": 640
             },
             {
-                "caption": "Flip Turn",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16571115-steepia-lite-fm-towns-flip-turn.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3f380624-c243-11ed-ab6b-02420a000194.webp",
-                "width": 640
-            },
-            {
                 "caption": "Anti-Maze",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/16576152-steepia-lite-fm-towns-anti-maze.png",
@@ -4272,17 +4265,24 @@
                 "width": 640
             },
             {
-                "caption": "Identity Maze",
+                "caption": "Figure Ground",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16571307-steepia-lite-fm-towns-identity-maze.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4c91618a-c243-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16556275-steepia-lite-fm-towns-figure-ground.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ef6fd856-c23d-11ed-ab6b-02420a000194.webp",
                 "width": 640
             },
             {
-                "caption": "Sliding Graphics",
+                "caption": "Cursor Warping",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16867214-steepia-lite-fm-towns-sliding-graphics.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0cf14534-c3f8-11ed-be63-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16867160-steepia-lite-fm-towns-cursor-warping.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/00f7c5aa-c3f8-11ed-be63-02420a000121.webp",
+                "width": 640
+            },
+            {
+                "caption": "Title screen",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16868492-steepia-lite-fm-towns-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8c19b29c-c3f8-11ed-be63-02420a000121.webp",
                 "width": 640
             }
         ],

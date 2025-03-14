@@ -3,7 +3,7 @@ from __future__ import annotations
 from collections import OrderedDict
 from typing import Any, Callable, Dict, List, Optional, Tuple
 
-from excel_game import ExcelGame
+from excel_game import ExcelGame, ExcelPlatform
 from picked_game import PickedGame
 
 
@@ -36,6 +36,9 @@ class GameGroups:
             else self._aggregation.values()
         )
 
+    def get(self, key: Any):
+        return self._grouping.get(key)
+
     def with_agg(
         self, agg: Callable[[List[PickedGame]], Any], inplace: bool = True
     ) -> GameGroups:
@@ -46,6 +49,9 @@ class GameGroups:
             return self
 
         return GameGroups(self._grouping).with_agg(agg)
+
+    def flatten(self) -> List[ExcelGame]:
+        return [game.game for games in self.values() for game in games]
 
     def __contains__(self, i: Any) -> bool:
         return (
@@ -81,7 +87,7 @@ class GameGrouping:
     subgroupings: List[GameGrouping]
     get_group_name: Optional[Callable[[Tuple[Any, List[PickedGame]]], str]]
     filter: Optional[Callable[[Tuple[Any, List[PickedGame]]], bool]]
-    take: Optional[int]
+    group_size: Optional[int]
     custom_suffix: Optional[Callable[[Tuple[Any, List[PickedGame]]], str]]
     progress_indicator: Optional[
         Callable[[Tuple[Any, List[PickedGame]]], Tuple[float, float]]
@@ -100,7 +106,7 @@ class GameGrouping:
         subgroupings: Optional[List[GameGrouping]] = None,
         get_group_name: Optional[Callable[[Tuple[Any, List[PickedGame]]], str]] = None,
         _filter: Optional[Callable[[Tuple[Any, List[PickedGame]]], bool]] = None,
-        take: Optional[int] = None,
+        group_size: Optional[int] = None,
         custom_suffix: Optional[Callable[[Tuple[Any, List[PickedGame]]], str]] = None,
         progress_indicator: Optional[
             Callable[[Tuple[Any, List[PickedGame]]], Tuple[float, float]]
@@ -111,12 +117,12 @@ class GameGrouping:
         should_rank: bool = True,
     ):
         self.grouping = grouping or self.__default_grouping
-        self.sort = sort or self.__default_sort
+        self.sort = self.__get_default_sort(sort)
         self.reverse = reverse
         self.subgroupings = subgroupings or []
         self.get_group_name = get_group_name or self.__default_group_name
         self.filter = _filter or self.__default_filter
-        self.take = take
+        self.group_size = group_size
         self.custom_suffix = custom_suffix or self.__default_suffix
         self.progress_indicator = progress_indicator
         self.priority_determinator = (
@@ -128,10 +134,23 @@ class GameGrouping:
         self._reverse_selection_sort = False
 
     def __default_grouping(self, g: ExcelGame):
+        if g.platform == ExcelPlatform.PC and g.digital_platform is not None:
+            return f"{g.platform} ({g.digital_platform})"
+
         return g.platform
 
-    def __default_sort(self, kvp: Tuple[Any, List[PickedGame]]):
-        return str.casefold(str(kvp[0]))
+    def __get_default_sort(
+        self, sort: Optional[Callable[[Tuple[Any, List[PickedGame]]], Any]]
+    ) -> Callable[[Tuple[Any, List[PickedGame]]], Any]:
+        def _sort_impl(kvp: Tuple[Any, List[PickedGame]]):
+            default_sort_val = str.casefold(str(kvp[0]))
+
+            if sort is not None:
+                return (sort(kvp), default_sort_val)
+
+            return default_sort_val
+
+        return _sort_impl
 
     def __default_filter(self, _):
         return True
@@ -141,16 +160,18 @@ class GameGrouping:
 
     def __default_group_name(self, kvp: Tuple[Any, List[PickedGame]]):
         title = kvp[0]
-        num_entries = min(len(kvp[1]), len(kvp[1][: self.take]))
+        num_entries = min(len(kvp[1]), len(kvp[1][: self.group_size]))
 
         games = kvp[1]
 
-        if self.take:
+        if self.group_size:
             games = sorted(
                 games, key=self._selection_sort, reverse=self._reverse_selection_sort
             )
 
-        total_playtime = sum(g.game.estimated_playtime or 0 for g in games[: self.take])
+        total_playtime = sum(
+            g.game.estimated_playtime or 0 for g in games[: self.group_size]
+        )
 
         total_playtime_str = ""
 

@@ -59,7 +59,7 @@
             }
         ],
         "id": 6684,
-        "moby_score": 6.6,
+        "moby_score": 6.8,
         "moby_url": "https://www.mobygames.com/game/6684/cybermorph/",
         "num_votes": 12,
         "official_url": null,
@@ -83,13 +83,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Mission Briefing",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10148995-cybermorph-jaguar-mission-briefing.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/930bded4-ac0d-11ed-81c5-02420a00012f.webp",
-                "width": 640
-            },
-            {
                 "caption": "The Exit Portal",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/10149004-cybermorph-jaguar-the-exit-portal.jpg",
@@ -97,17 +90,24 @@
                 "width": 640
             },
             {
-                "caption": "Vortex Tower Steals Pods",
+                "caption": "Mission Briefing",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/129412-cybermorph-jaguar-vortex-tower-steals-pods.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9f23c360-ab6a-11ed-b951-02420a000197.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/10148995-cybermorph-jaguar-mission-briefing.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/930bded4-ac0d-11ed-81c5-02420a00012f.webp",
                 "width": 640
             },
             {
-                "caption": "Title Screen",
+                "caption": "The blue stuff is \"water.\"",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10148992-cybermorph-jaguar-title-screen.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/92d1d52c-ac0d-11ed-81c5-02420a00012f.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/10149007-cybermorph-jaguar-the-blue-stuff-is-water.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/940c19f2-ac0d-11ed-81c5-02420a00012f.webp",
+                "width": 640
+            },
+            {
+                "caption": "Choose a Planet",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/267007-cybermorph-jaguar-choose-a-planet.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b1f4b19c-ab6b-11ed-b042-02420a00019f.webp",
                 "width": 640
             },
             {
@@ -204,24 +204,17 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Title Screen",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/10257973-iron-soldier-jaguar-title-screen.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/aee2b438-ac0e-11ed-aeca-02420a000130.webp",
+                "width": 640
+            },
+            {
                 "caption": "Crates give you usefull power ups.",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/10257991-iron-soldier-jaguar-crates-give-you-usefull-power-ups.jpg",
                 "thumbnail_image_url": "https://cdn.mobygames.com/b069c684-ac0e-11ed-aeca-02420a000130.webp",
-                "width": 640
-            },
-            {
-                "caption": "Weapons Configuration",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10257982-iron-soldier-jaguar-weapons-configuration.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/af9ff066-ac0e-11ed-aeca-02420a000130.webp",
-                "width": 640
-            },
-            {
-                "caption": "Cruise Missle",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10257780-iron-soldier-jaguar-cruise-missle.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/abab6904-ac0e-11ed-a12e-02420a000130.webp",
                 "width": 640
             },
             {
@@ -232,10 +225,17 @@
                 "width": 640
             },
             {
-                "caption": "Mission Briefing",
+                "caption": "Uh oh, incoming rockets.",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10257979-iron-soldier-jaguar-mission-briefing.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/af6c2a60-ac0e-11ed-aeca-02420a000130.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/10257777-iron-soldier-jaguar-uh-oh-incoming-rockets.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ab66c42a-ac0e-11ed-a12e-02420a000130.webp",
+                "width": 640
+            },
+            {
+                "caption": "Cruise Missle",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/10257780-iron-soldier-jaguar-cruise-missle.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/abab6904-ac0e-11ed-a12e-02420a000130.webp",
                 "width": 640
             }
         ],
@@ -299,7 +299,7 @@
         "id": 6690,
         "moby_score": 8.1,
         "moby_url": "https://www.mobygames.com/game/6690/alien-vs-predator/",
-        "num_votes": 36,
+        "num_votes": 38,
         "official_url": null,
         "platforms": [
             [
@@ -321,10 +321,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Computer Terminal Map",
+                "caption": "Playing as the Alien in the Alien ship.",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10075262-alien-vs-predator-jaguar-computer-terminal-map.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f53763ae-ac0c-11ed-b4f3-02420a000135.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/82370-alien-vs-predator-jaguar-playing-as-the-alien-in-the-alien-ship.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/95a30abc-ab65-11ed-adee-02420a000187.webp",
                 "width": 640
             },
             {
@@ -335,24 +335,24 @@
                 "width": 640
             },
             {
-                "caption": "Uh oh, this is trouble.",
+                "caption": "The Alien has to cocoon enemies to survive.",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10075531-alien-vs-predator-jaguar-uh-oh-this-is-trouble.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f060c5f0-ac0c-11ed-87d3-02420a000134.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/10075256-alien-vs-predator-jaguar-the-alien-has-to-cocoon-enemies-to-surv.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f49fc3fa-ac0c-11ed-b4f3-02420a000135.webp",
                 "width": 640
             },
             {
-                "caption": "Title Screen",
+                "caption": "The Predator finds barrels everywhere.",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/1680740-alien-vs-predator-jaguar-title-screen.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/47b84dd2-ab77-11ed-a5ec-02420a00019b.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/82539-alien-vs-predator-jaguar-the-predator-finds-barrels-everywhere.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/95e4d686-ab65-11ed-adee-02420a000187.webp",
                 "width": 640
             },
             {
-                "caption": "Sometimes you must travel through air ducts.",
+                "caption": "One of the Predator's vision modes.",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/89555-alien-vs-predator-jaguar-sometimes-you-must-travel-through-air-d.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/40d7d766-ab69-11ed-80c1-02420a000196.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16626662-alien-vs-predator-jaguar-one-of-the-predators-vision-modes.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/61ca1728-c260-11ed-ab6b-02420a000194.webp",
                 "width": 640
             }
         ],
@@ -433,10 +433,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title Screen",
+                "caption": "Velocity Park (it's like one of those Hot Wheels tracks)",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10128885-club-drive-jaguar-title-screen.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6b68c28e-ac0d-11ed-927d-02420a00012f.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/10128529-club-drive-jaguar-velocity-park-its-like-one-of-those-hot-wheels.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/67ff7156-ac0d-11ed-9915-02420a000134.webp",
+                "width": 640
+            },
+            {
+                "caption": "San Francisco",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/10128520-club-drive-jaguar-san-francisco.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/67203626-ac0d-11ed-9915-02420a000134.webp",
+                "width": 640
+            },
+            {
+                "caption": "Toonses look out!",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/10128526-club-drive-jaguar-toonses-look-out.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/67b9004a-ac0d-11ed-9915-02420a000134.webp",
                 "width": 640
             },
             {
@@ -447,24 +461,10 @@
                 "width": 640
             },
             {
-                "caption": "Ghost Town",
+                "caption": "Title Screen",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10128517-club-drive-jaguar-ghost-town.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/66e3fec2-ac0d-11ed-9915-02420a000134.webp",
-                "width": 640
-            },
-            {
-                "caption": "The Giant House:  That's supposed to be a cat.",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10128891-club-drive-jaguar-the-giant-house-thats-supposed-to-be-a-cat.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6be728c2-ac0d-11ed-927d-02420a00012f.webp",
-                "width": 640
-            },
-            {
-                "caption": "Game Setup",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10128888-club-drive-jaguar-game-setup.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6bad85e0-ac0d-11ed-927d-02420a00012f.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/10128885-club-drive-jaguar-title-screen.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6b68c28e-ac0d-11ed-927d-02420a00012f.webp",
                 "width": 640
             }
         ],
@@ -512,9 +512,9 @@
             }
         ],
         "id": 6722,
-        "moby_score": 7.0,
+        "moby_score": 6.9,
         "moby_url": "https://www.mobygames.com/game/6722/val-disere-skiing-and-snowboarding/",
-        "num_votes": 8,
+        "num_votes": 9,
         "official_url": null,
         "platforms": [
             [
@@ -536,13 +536,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Skiing Through Green Trees",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10458101-val-disere-skiing-and-snowboarding-jaguar-skiing-through-green-t.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/50f7bf92-ac10-11ed-bbce-02420a000133.webp",
-                "width": 640
-            },
-            {
                 "caption": "Game Setup",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/10216208-val-disere-skiing-and-snowboarding-jaguar-game-setup.jpg",
@@ -557,17 +550,24 @@
                 "width": 640
             },
             {
-                "caption": "Starting Gate",
+                "caption": "Title Screen",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10458098-val-disere-skiing-and-snowboarding-jaguar-starting-gate.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5099ff9c-ac10-11ed-bbce-02420a000133.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/10216235-val-disere-skiing-and-snowboarding-jaguar-title-screen.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4191ab5a-ac0e-11ed-9584-02420a000136.webp",
                 "width": 640
             },
             {
-                "caption": "Trees are not your friend.",
+                "caption": "Bare ground slows you down.",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10213361-val-disere-skiing-and-snowboarding-jaguar-trees-are-not-your-fri.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3b0669ce-ac0e-11ed-897b-02420a00012d.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/10458104-val-disere-skiing-and-snowboarding-jaguar-bare-ground-slows-you-.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5147e0b2-ac10-11ed-bbce-02420a000133.webp",
+                "width": 640
+            },
+            {
+                "caption": "A tight turn through a slalom gate.",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/10458110-val-disere-skiing-and-snowboarding-jaguar-a-tight-turn-through-a.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/51fb67f4-ac10-11ed-bbce-02420a000133.webp",
                 "width": 640
             }
         ],
@@ -639,6 +639,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Bubsy and Gretel",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/10111815-bubsy-in-fractured-furry-tales-jaguar-bubsy-and-gretel.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/438dbb34-ac0d-11ed-a631-02420a000135.webp",
+                "width": 640
+            },
+            {
                 "caption": "Waterbubsy",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/10111812-bubsy-in-fractured-furry-tales-jaguar-waterbubsy.jpg",
@@ -664,13 +671,6 @@
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/10111697-bubsy-in-fractured-furry-tales-jaguar-title-screen.jpg",
                 "thumbnail_image_url": "https://cdn.mobygames.com/46f0e27e-ac0d-11ed-b85a-02420a000135.webp",
-                "width": 640
-            },
-            {
-                "caption": "Bubsy and Gretel",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10111815-bubsy-in-fractured-furry-tales-jaguar-bubsy-and-gretel.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/438dbb34-ac0d-11ed-a631-02420a000135.webp",
                 "width": 640
             }
         ],
@@ -760,10 +760,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "a level on a moon",
+                "caption": "some more powerful weapons",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10447477-trevor-mcfur-in-the-crescent-galaxy-jaguar-a-level-on-a-moon.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/419bbfa8-ac10-11ed-81c5-02420a00012f.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/10447474-trevor-mcfur-in-the-crescent-galaxy-jaguar-some-more-powerful-we.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/414b2110-ac10-11ed-81c5-02420a00012f.webp",
+                "width": 640
+            },
+            {
+                "caption": "Trevor McFur's spaceship",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/10447468-trevor-mcfur-in-the-crescent-galaxy-jaguar-trevor-mcfurs-spacesh.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/40b87b30-ac10-11ed-81c5-02420a00012f.webp",
                 "width": 640
             },
             {
@@ -774,10 +781,10 @@
                 "width": 640
             },
             {
-                "caption": "title screen",
+                "caption": "a level on a moon",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10262269-trevor-mcfur-in-the-crescent-galaxy-jaguar-title-screen.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b5eaa3da-ac0e-11ed-b6e7-02420a000135.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/10447477-trevor-mcfur-in-the-crescent-galaxy-jaguar-a-level-on-a-moon.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/419bbfa8-ac10-11ed-81c5-02420a00012f.webp",
                 "width": 640
             },
             {
@@ -785,13 +792,6 @@
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/10272125-trevor-mcfur-in-the-crescent-galaxy-jaguar-an-end-of-level-boss.jpg",
                 "thumbnail_image_url": "https://cdn.mobygames.com/cc35473a-ac0e-11ed-b6e7-02420a000135.webp",
-                "width": 640
-            },
-            {
-                "caption": "beginning a new game",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10269225-trevor-mcfur-in-the-crescent-galaxy-jaguar-beginning-a-new-game.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c4877ca6-ac0e-11ed-9899-02420a000134.webp",
                 "width": 640
             }
         ],
@@ -926,38 +926,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Skill Test #2 - These are without a doubt the more dreaded levels in the game",
+                "caption": "Special Stage #3 - Here is one of the Pick-Ups; Time, which stops the clock for five seconds, allowing you to save time",
                 "height": 439,
-                "image_url": "https://cdn.mobygames.com/screenshots/16391975-power-drive-rally-jaguar-skill-test-2-these-are-without-a-doubt-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/54582eca-c20d-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16391291-power-drive-rally-jaguar-special-stage-3-here-is-one-of-the-pick.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/edbbd8ec-c20c-11ed-ab6b-02420a000194.webp",
                 "width": 640
             },
             {
-                "caption": "Rally Cross #10 Getting ready to cross below a wooden bridge",
+                "caption": "Selecting from the third and last group of vehicles",
                 "height": 439,
-                "image_url": "https://cdn.mobygames.com/screenshots/16391642-power-drive-rally-jaguar-rally-cross-10-getting-ready-to-cross-b.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/253b00b8-c20d-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16392044-power-drive-rally-jaguar-selecting-from-the-third-and-last-group.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5a622f8c-c20d-11ed-ab6b-02420a000194.webp",
                 "width": 640
             },
             {
-                "caption": "Kenya introduction screen",
+                "caption": "Special Stage #8",
                 "height": 439,
-                "image_url": "https://cdn.mobygames.com/screenshots/16391894-power-drive-rally-jaguar-kenya-introduction-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/41542a22-c20d-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16391564-power-drive-rally-jaguar-special-stage-8.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/16bc40a6-c20d-11ed-ab6b-02420a000194.webp",
                 "width": 640
             },
             {
-                "caption": "Special Stage #10 - We're gonna crash while trying to pick-up some money left in the road!",
+                "caption": "Italy introduction screen",
                 "height": 439,
-                "image_url": "https://cdn.mobygames.com/screenshots/16391426-power-drive-rally-jaguar-special-stage-10-were-gonna-crash-while.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/fb707c9a-c20c-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16391522-power-drive-rally-jaguar-italy-introduction-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0a4a9098-c20d-11ed-ab6b-02420a000194.webp",
                 "width": 640
             },
             {
-                "caption": "The Start/Finish Line",
+                "caption": "Night Racing",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10351560-power-drive-rally-jaguar-the-startfinish-line.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/77a5539e-ac0f-11ed-8949-02420a00012e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/10351883-power-drive-rally-jaguar-night-racing.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/781d126c-ac0f-11ed-83c1-02420a000131.webp",
                 "width": 640
             }
         ],
@@ -1047,17 +1047,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title Screen",
+                "caption": "Goofy Crash Animation",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10121579-checkered-flag-jaguar-title-screen.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/59ea5eb4-ac0d-11ed-b57a-02420a000130.webp",
-                "width": 640
-            },
-            {
-                "caption": "Racing in the Rain",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10121591-checkered-flag-jaguar-racing-in-the-rain.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5b06efe2-ac0d-11ed-b57a-02420a000130.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/10121588-checkered-flag-jaguar-goofy-crash-animation.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5ac4bc8a-ac0d-11ed-b57a-02420a000130.webp",
                 "width": 640
             },
             {
@@ -1068,17 +1061,24 @@
                 "width": 640
             },
             {
+                "caption": "Practice",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16811344-checkered-flag-jaguar-practice.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4e845b7c-c38e-11ed-9226-02420a000121.webp",
+                "width": 640
+            },
+            {
+                "caption": "Penguins look out!",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/10121600-checkered-flag-jaguar-penguins-look-out.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5bc7ea62-ac0d-11ed-b57a-02420a000130.webp",
+                "width": 640
+            },
+            {
                 "caption": "The fog effects are pretty cool.",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/10121594-checkered-flag-jaguar-the-fog-effects-are-pretty-cool.jpg",
                 "thumbnail_image_url": "https://cdn.mobygames.com/5b48dcfe-ac0d-11ed-b57a-02420a000130.webp",
-                "width": 640
-            },
-            {
-                "caption": "The narrow and tricky Island Hop track",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10121585-checkered-flag-jaguar-the-narrow-and-tricky-island-hop-track.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5a8023e0-ac0d-11ed-b57a-02420a000130.webp",
                 "width": 640
             }
         ],
@@ -1177,20 +1177,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Habaki vs Chagi",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10254442-kasumi-ninja-jaguar-habaki-vs-chagi.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a60c92f2-ac0e-11ed-ad33-02420a00012d.webp",
-                "width": 640
-            },
-            {
-                "caption": "Pakawa vs. Angus (best fighting game move ever!!)",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/201470-kasumi-ninja-jaguar-pakawa-vs-angus-best-fighting-game-move-ever.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2ea9f860-ab6b-11ed-81b6-02420a00019d.webp",
-                "width": 640
-            },
-            {
                 "caption": "Thundra vs. Alaric",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/10269708-kasumi-ninja-jaguar-thundra-vs-alaric.jpg",
@@ -1209,6 +1195,20 @@
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/10269705-kasumi-ninja-jaguar-pakawa-vs-thundra.jpg",
                 "thumbnail_image_url": "https://cdn.mobygames.com/bd912aa0-ac0e-11ed-9271-02420a000133.webp",
+                "width": 640
+            },
+            {
+                "caption": "Main Menu",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/10264921-kasumi-ninja-jaguar-main-menu.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bc957f98-ac0e-11ed-803a-02420a000131.webp",
+                "width": 640
+            },
+            {
+                "caption": "Habaki vs Chagi",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/10254442-kasumi-ninja-jaguar-habaki-vs-chagi.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a60c92f2-ac0e-11ed-ad33-02420a00012d.webp",
                 "width": 640
             }
         ],
@@ -1287,10 +1287,17 @@
                 "width": 640
             },
             {
-                "caption": "Lucius vs. Buzzsaw",
+                "caption": "Title Screen",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10454155-ultra-vortek-jaguar-lucius-vs-buzzsaw.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/492ebd92-ac10-11ed-9899-02420a000134.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/10454603-ultra-vortek-jaguar-title-screen.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4f8ec9de-ac10-11ed-a710-02420a000136.webp",
+                "width": 640
+            },
+            {
+                "caption": "The Story",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/10454606-ultra-vortek-jaguar-the-story.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/501e0568-ac10-11ed-a710-02420a000136.webp",
                 "width": 640
             },
             {
@@ -1301,17 +1308,10 @@
                 "width": 640
             },
             {
-                "caption": "One of Dreadloc's more creative moves...",
+                "caption": "Character Selection",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10454152-ultra-vortek-jaguar-one-of-dreadlocs-more-creative-moves.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/48e475b6-ac10-11ed-9899-02420a000134.webp",
-                "width": 640
-            },
-            {
-                "caption": "The Story",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10454606-ultra-vortek-jaguar-the-story.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/501e0568-ac10-11ed-a710-02420a000136.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/1378355-ultra-vortek-jaguar-character-selection.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9b9617b6-ab74-11ed-96f9-02420a00019a.webp",
                 "width": 640
             }
         ],
@@ -1401,13 +1401,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Defender 2k: Landers warping in!",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10157312-defender-2000-jaguar-defender-2k-landers-warping-in.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a689c5ac-ac0d-11ed-a631-02420a000135.webp",
-                "width": 640
-            },
-            {
                 "caption": "Title Screen",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/10156534-defender-2000-jaguar-title-screen.jpg",
@@ -1415,17 +1408,10 @@
                 "width": 640
             },
             {
-                "caption": "Plasma Pong (A hidden feature)",
+                "caption": "Defender Plus: Near the Warp",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10157317-defender-2000-jaguar-plasma-pong-a-hidden-feature.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a6cb4338-ac0d-11ed-a631-02420a000135.webp",
-                "width": 640
-            },
-            {
-                "caption": "Defender Plus: Humanoid in Trouble",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10157289-defender-2000-jaguar-defender-plus-humanoid-in-trouble.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a4c221d8-ac0d-11ed-a631-02420a000135.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/10156546-defender-2000-jaguar-defender-plus-near-the-warp.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a89c3c3a-ac0d-11ed-833b-02420a000131.webp",
                 "width": 640
             },
             {
@@ -1433,6 +1419,20 @@
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/10157301-defender-2000-jaguar-defender-2k-got-you.jpg",
                 "thumbnail_image_url": "https://cdn.mobygames.com/a5c825a0-ac0d-11ed-a631-02420a000135.webp",
+                "width": 640
+            },
+            {
+                "caption": "Defender 2k: City Skyline",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/10157298-defender-2000-jaguar-defender-2k-city-skyline.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a582599e-ac0d-11ed-a631-02420a000135.webp",
+                "width": 640
+            },
+            {
+                "caption": "Defender 2k: A Power-Up Capsule",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/10157305-defender-2000-jaguar-defender-2k-a-power-up-capsule.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a609c3a2-ac0d-11ed-a631-02420a000135.webp",
                 "width": 640
             }
         ],
@@ -1513,38 +1513,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Virtual: Underwater Area 1",
+                "caption": "Classic Mode Gameplay",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10310569-missile-command-3d-jaguar-virtual-underwater-area-1.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1e4fd832-ac0f-11ed-8949-02420a00012e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/10310054-missile-command-3d-jaguar-classic-mode-gameplay.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/22d8ec72-ac0f-11ed-81c5-02420a00012f.webp",
                 "width": 640
             },
             {
-                "caption": "The Lynx is one of several backdrops available.",
+                "caption": "Classic Mode Title Screen",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10310051-missile-command-3d-jaguar-the-lynx-is-one-of-several-backdrops-a.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2299af26-ac0f-11ed-81c5-02420a00012f.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/10310048-missile-command-3d-jaguar-classic-mode-title-screen.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2263ae58-ac0f-11ed-81c5-02420a00012f.webp",
                 "width": 640
             },
             {
-                "caption": "Virtual: Starship Attack",
+                "caption": "Alien Ship = Extra Points",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10310578-missile-command-3d-jaguar-virtual-starship-attack.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/208f1450-ac0f-11ed-8949-02420a00012e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/10310557-missile-command-3d-jaguar-alien-ship-extra-points.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1d6221be-ac0f-11ed-8949-02420a00012e.webp",
                 "width": 640
             },
             {
-                "caption": "Virtual: First Round Boss",
+                "caption": "Virtual: The Mothership Boss",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10310572-missile-command-3d-jaguar-virtual-first-round-boss.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1e878610-ac0f-11ed-8949-02420a00012e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/10310581-missile-command-3d-jaguar-virtual-the-mothership-boss.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/20c88bcc-ac0f-11ed-8949-02420a00012e.webp",
                 "width": 640
             },
             {
-                "caption": "Title Screen",
+                "caption": "3D: Your Cities",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10310042-missile-command-3d-jaguar-title-screen.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/21e55d32-ac0f-11ed-81c5-02420a00012f.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/10310560-missile-command-3d-jaguar-3d-your-cities.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1d98ff40-ac0f-11ed-8949-02420a00012e.webp",
                 "width": 640
             }
         ],
@@ -1616,24 +1616,24 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Fighter Selection",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/10198707-fight-for-life-jaguar-fighter-selection.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0b49d202-ac0e-11ed-b351-02420a00012e.webp",
+                "width": 640
+            },
+            {
+                "caption": "Kara vs. Muhali",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/10198719-fight-for-life-jaguar-kara-vs-muhali.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0c872f48-ac0e-11ed-b351-02420a00012e.webp",
+                "width": 640
+            },
+            {
                 "caption": "Title Screen",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/10198701-fight-for-life-jaguar-title-screen.jpg",
                 "thumbnail_image_url": "https://cdn.mobygames.com/0a96435e-ac0e-11ed-b351-02420a00012e.webp",
-                "width": 640
-            },
-            {
-                "caption": "Kara vs. Kimura",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10198716-fight-for-life-jaguar-kara-vs-kimura.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0c3b517c-ac0e-11ed-b351-02420a00012e.webp",
-                "width": 640
-            },
-            {
-                "caption": "Pog vs. Mr. G",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10198722-fight-for-life-jaguar-pog-vs-mr-g.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0cd86160-ac0e-11ed-b351-02420a00012e.webp",
                 "width": 640
             },
             {
@@ -1728,10 +1728,24 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Enemy Tank",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/10258868-i-war-jaguar-enemy-tank.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b2974526-ac0e-11ed-887e-02420a00012e.webp",
+                "width": 640
+            },
+            {
                 "caption": "The Exit",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/10259563-i-war-jaguar-the-exit.jpg",
                 "thumbnail_image_url": "https://cdn.mobygames.com/af2c703c-ac0e-11ed-833b-02420a000131.webp",
+                "width": 640
+            },
+            {
+                "caption": "Title Screen",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/10258865-i-war-jaguar-title-screen.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b25c52ae-ac0e-11ed-887e-02420a00012e.webp",
                 "width": 640
             },
             {
@@ -1742,24 +1756,10 @@
                 "width": 640
             },
             {
-                "caption": "Mission Failed",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10258871-i-war-jaguar-mission-failed.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b2d0cee0-ac0e-11ed-887e-02420a00012e.webp",
-                "width": 640
-            },
-            {
                 "caption": "A Datapod",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/10258874-i-war-jaguar-a-datapod.jpg",
                 "thumbnail_image_url": "https://cdn.mobygames.com/b311f32a-ac0e-11ed-887e-02420a00012e.webp",
-                "width": 640
-            },
-            {
-                "caption": "Elevated platforms are easier to navigate with the external camera.",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10259560-i-war-jaguar-elevated-platforms-are-easier-to-navigate-with-the-.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/aeee80c4-ac0e-11ed-833b-02420a000131.webp",
                 "width": 640
             }
         ],
@@ -1845,38 +1845,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Pre-Race Setup menu - You can change how you want your bike to feel and ride.",
+                "caption": "Finishing in 1st place",
                 "height": 439,
-                "image_url": "https://cdn.mobygames.com/screenshots/16323225-supercross-3d-jaguar-pre-race-setup-menu-you-can-change-how-you-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b49f9f0a-c1f6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16323702-supercross-3d-jaguar-finishing-in-1st-place.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d396715e-c1f6-11ed-ab6b-02420a000194.webp",
                 "width": 640
             },
             {
-                "caption": "\"Get up dudes! You're gettin' wrecked!\"",
+                "caption": "Options screen - You can turn on the replays, set up the difficulty and controls to your style.",
                 "height": 439,
-                "image_url": "https://cdn.mobygames.com/screenshots/16323708-supercross-3d-jaguar-get-up-dudes-youre-gettin-wrecked.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d3f9a1c0-c1f6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16323099-supercross-3d-jaguar-options-screen-you-can-turn-on-the-replays-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/acb7538c-c1f6-11ed-ab6b-02420a000194.webp",
                 "width": 640
             },
             {
-                "caption": "Overview of the Houston track",
+                "caption": "Overview of the Anaheim track",
                 "height": 439,
-                "image_url": "https://cdn.mobygames.com/screenshots/16323717-supercross-3d-jaguar-overview-of-the-houston-track.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d48a5684-c1f6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16323330-supercross-3d-jaguar-overview-of-the-anaheim-track.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bec273f4-c1f6-11ed-ab6b-02420a000194.webp",
                 "width": 640
             },
             {
-                "caption": "By holding down on the controller, you can do wheelies and if you do it right, you can launch straight up and do tricks...",
-                "height": 439,
-                "image_url": "https://cdn.mobygames.com/screenshots/16323294-supercross-3d-jaguar-by-holding-down-on-the-controller-you-can-d.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bba8bf70-c1f6-11ed-ab6b-02420a000194.webp",
+                "caption": "Practice Mode",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/10429112-supercross-3d-jaguar-practice-mode.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/17ff4732-ac10-11ed-b6e7-02420a000135.webp",
                 "width": 640
             },
             {
-                "caption": "Before you start any more, you can change the color of your rider, enter your name and nationality.",
+                "caption": "Practice map screen",
                 "height": 439,
-                "image_url": "https://cdn.mobygames.com/screenshots/16322964-supercross-3d-jaguar-before-you-start-any-more-you-can-change-th.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a3620750-c1f6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16322892-supercross-3d-jaguar-practice-map-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9c3906f4-c1f6-11ed-ab6b-02420a000194.webp",
                 "width": 640
             }
         ],
@@ -1953,17 +1953,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Japan",
+                "caption": "Night Racing",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10428401-super-burnout-jaguar-japan.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/14b4a27a-ac10-11ed-80b1-02420a000133.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/10427086-super-burnout-jaguar-night-racing.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/18954db8-ac10-11ed-b013-02420a00012e.webp",
                 "width": 640
             },
             {
-                "caption": "A Big Hill",
+                "caption": "Brazil",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10428395-super-burnout-jaguar-a-big-hill.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1419b148-ac10-11ed-80b1-02420a000133.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/10428389-super-burnout-jaguar-brazil.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/13829c18-ac10-11ed-80b1-02420a000133.webp",
+                "width": 640
+            },
+            {
+                "caption": "Title Screen",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/10427080-super-burnout-jaguar-title-screen.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1800475e-ac10-11ed-b013-02420a00012e.webp",
                 "width": 640
             },
             {
@@ -1974,17 +1981,10 @@
                 "width": 640
             },
             {
-                "caption": "Hungarian Speedway",
+                "caption": "Japan",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10428398-super-burnout-jaguar-hungarian-speedway.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/146509d6-ac10-11ed-80b1-02420a000133.webp",
-                "width": 640
-            },
-            {
-                "caption": "German Forest",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10286577-super-burnout-jaguar-german-forest.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e43729d4-ac0e-11ed-9941-02420a000133.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/10428401-super-burnout-jaguar-japan.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/14b4a27a-ac10-11ed-80b1-02420a000133.webp",
                 "width": 640
             }
         ],
@@ -2050,9 +2050,9 @@
             }
         ],
         "id": 6895,
-        "moby_score": 6.2,
+        "moby_score": 6.3,
         "moby_url": "https://www.mobygames.com/game/6895/atari-karts/",
-        "num_votes": 6,
+        "num_votes": 7,
         "official_url": null,
         "platforms": [
             [
@@ -2074,11 +2074,18 @@
         },
         "sample_screenshots": [
             {
-                "caption": "2-players racing on the Beach Club track",
-                "height": 439,
-                "image_url": "https://cdn.mobygames.com/screenshots/16340949-atari-karts-jaguar-2-players-racing-on-the-beach-club-track.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/11c180e4-c1fd-11ed-ab6b-02420a000194.webp",
-                "width": 640
+                "caption": "Congratulations screen.",
+                "height": 396,
+                "image_url": "https://cdn.mobygames.com/screenshots/16305979-atari-karts-jaguar-congratulations-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/32fa8ac8-c1f1-11ed-ab6b-02420a000194.webp",
+                "width": 576
+            },
+            {
+                "caption": "Racing on California Route 99 track.",
+                "height": 389,
+                "image_url": "https://cdn.mobygames.com/screenshots/16305817-atari-karts-jaguar-racing-on-california-route-99-track.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/27440dbc-c1f1-11ed-ab6b-02420a000194.webp",
+                "width": 574
             },
             {
                 "caption": "Racing against Pum King in another Miracle Race challenge on the Trick or Treat track.",
@@ -2088,24 +2095,17 @@
                 "width": 640
             },
             {
-                "caption": "Congratulations screen.",
-                "height": 396,
-                "image_url": "https://cdn.mobygames.com/screenshots/16305979-atari-karts-jaguar-congratulations-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/32fa8ac8-c1f1-11ed-ab6b-02420a000194.webp",
-                "width": 576
+                "caption": "Title Screen",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/10085321-atari-karts-jaguar-title-screen.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0ee928c8-ac0d-11ed-927d-02420a00012f.webp",
+                "width": 640
             },
             {
                 "caption": "This must be Route 99.",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/10087119-atari-karts-jaguar-this-must-be-route-99.jpg",
                 "thumbnail_image_url": "https://cdn.mobygames.com/0c2442a8-ac0d-11ed-9899-02420a000134.webp",
-                "width": 640
-            },
-            {
-                "caption": "Big turns ahead!",
-                "height": 439,
-                "image_url": "https://cdn.mobygames.com/screenshots/16339926-atari-karts-jaguar-big-turns-ahead.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b25d614a-c1fc-11ed-ab6b-02420a000194.webp",
                 "width": 640
             }
         ],
@@ -2186,6 +2186,27 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Ruiner: Right Side, Midway up the Table",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/10379136-ruiner-pinball-jaguar-ruiner-right-side-midway-up-the-table.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b2a2e25e-ac0f-11ed-9f52-02420a000130.webp",
+                "width": 640
+            },
+            {
+                "caption": "Tower:  Near the bottom, I guess.  It's easy to lose track.",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/10379151-ruiner-pinball-jaguar-tower-near-the-bottom-i-guess-its-easy-to-.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b3f5f182-ac0f-11ed-9f52-02420a000130.webp",
+                "width": 640
+            },
+            {
+                "caption": "Tower: Near the Top",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/10379148-ruiner-pinball-jaguar-tower-near-the-top.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b3b3cc4e-ac0f-11ed-9f52-02420a000130.webp",
+                "width": 640
+            },
+            {
                 "caption": "Tower: Mid Section of the Tower",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/10379145-ruiner-pinball-jaguar-tower-mid-section-of-the-tower.jpg",
@@ -2197,27 +2218,6 @@
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/10379142-ruiner-pinball-jaguar-ruiner-the-screen-zooms-out-for-multi-ball.jpg",
                 "thumbnail_image_url": "https://cdn.mobygames.com/b3233ddc-ac0f-11ed-9f52-02420a000130.webp",
-                "width": 640
-            },
-            {
-                "caption": "Ruiner: Top Left Area",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10379139-ruiner-pinball-jaguar-ruiner-top-left-area.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b2dfd254-ac0f-11ed-9f52-02420a000130.webp",
-                "width": 640
-            },
-            {
-                "caption": "Ruiner: Bottom Left area, and Defcon Indicator",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10379133-ruiner-pinball-jaguar-ruiner-bottom-left-area-and-defcon-indicat.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b2568a12-ac0f-11ed-9f52-02420a000130.webp",
-                "width": 640
-            },
-            {
-                "caption": "High Score Entry",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10379154-ruiner-pinball-jaguar-high-score-entry.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b42c6c94-ac0f-11ed-9f52-02420a000130.webp",
                 "width": 640
             }
         ],
@@ -2298,6 +2298,20 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Classic Breakout",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/10108779-breakout-2000-jaguar-classic-breakout.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3aa49ef2-ac0d-11ed-aca6-02420a000132.webp",
+                "width": 640
+            },
+            {
+                "caption": "2 Players, one on top, one on the bottom",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/10108782-breakout-2000-jaguar-2-players-one-on-top-one-on-the-bottom.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3af637bc-ac0d-11ed-aca6-02420a000132.webp",
+                "width": 640
+            },
+            {
                 "caption": "Title Screen",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/1289477-breakout-2000-jaguar-title-screen.jpg",
@@ -2305,31 +2319,17 @@
                 "width": 640
             },
             {
+                "caption": "Another type of Bonus Round is the Target Round, where you use the Plasma Cannon to get rid of the grey blocks.",
+                "height": 396,
+                "image_url": "https://cdn.mobygames.com/screenshots/16220703-breakout-2000-jaguar-another-type-of-bonus-round-is-the-target-r.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0f1399bc-c1d6-11ed-ab6b-02420a000194.webp",
+                "width": 640
+            },
+            {
                 "caption": "In between phases, you'll be greeted to Bonus Rounds, this one being Pong Round.",
                 "height": 396,
                 "image_url": "https://cdn.mobygames.com/screenshots/16220601-breakout-2000-jaguar-in-between-phases-youll-be-greeted-to-bonus.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/046b8b46-c1d6-11ed-ab6b-02420a000194.webp",
-                "width": 640
-            },
-            {
-                "caption": "One of the power-up you can grab is the Plasma Cannon, which is excellent to get rid of the blocks. If you survive the next round. You can use it without ever using the ball.",
-                "height": 396,
-                "image_url": "https://cdn.mobygames.com/screenshots/16220739-breakout-2000-jaguar-one-of-the-power-up-you-can-grab-is-the-pla.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/12839b92-c1d6-11ed-ab6b-02420a000194.webp",
-                "width": 640
-            },
-            {
-                "caption": "Later rounds will introduce multi-tiered blocks that will drop down when you get rid of of the block holding it.",
-                "height": 396,
-                "image_url": "https://cdn.mobygames.com/screenshots/16220598-breakout-2000-jaguar-later-rounds-will-introduce-multi-tiered-bl.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0411976c-c1d6-11ed-ab6b-02420a000194.webp",
-                "width": 608
-            },
-            {
-                "caption": "This guy shoots holes in your paddle.",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/1288213-breakout-2000-jaguar-this-guy-shoots-holes-in-your-paddle.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/dde57748-ab73-11ed-99ae-02420a00019e.webp",
                 "width": 640
             }
         ],
@@ -2419,24 +2419,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Mission Briefing",
+                "caption": "Pilot Entry",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10104776-blue-lightning-jaguar-mission-briefing.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3435791a-ac0d-11ed-81c5-02420a00012f.webp",
-                "width": 640
-            },
-            {
-                "caption": "Tour Selection",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10104791-blue-lightning-jaguar-tour-selection.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/35741a20-ac0d-11ed-81c5-02420a00012f.webp",
-                "width": 640
-            },
-            {
-                "caption": "Island Attack",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/94266-blue-lightning-jaguar-island-attack.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/594400f8-ab6a-11ed-a44e-02420a000199.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/10104785-blue-lightning-jaguar-pilot-entry.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/34f3e7ce-ac0d-11ed-81c5-02420a00012f.webp",
                 "width": 640
             },
             {
@@ -2447,10 +2433,24 @@
                 "width": 640
             },
             {
-                "caption": "Dodging Skyscrapers",
+                "caption": "Roll into the Target",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10105695-blue-lightning-jaguar-dodging-skyscrapers.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/38ed38b2-ac0d-11ed-bc39-02420a000131.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/10104788-blue-lightning-jaguar-roll-into-the-target.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/353bb54a-ac0d-11ed-81c5-02420a00012f.webp",
+                "width": 640
+            },
+            {
+                "caption": "Intro",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/10105689-blue-lightning-jaguar-intro.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/36684032-ac0d-11ed-bc39-02420a000131.webp",
+                "width": 640
+            },
+            {
+                "caption": "Jungle Helicopters",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/94519-blue-lightning-jaguar-jungle-helicopters.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/59cfafea-ab6a-11ed-a44e-02420a000199.webp",
                 "width": 640
             }
         ],
@@ -2540,10 +2540,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Under Water",
+                "caption": "This dome requires the blue key to enter.",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10096144-battlemorph-jaguar-under-water.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/20ef55d8-ac0d-11ed-8d66-02420a000132.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/10095310-battlemorph-jaguar-this-dome-requires-the-blue-key-to-enter.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/242925b2-ac0d-11ed-87d3-02420a000134.webp",
                 "width": 640
             },
             {
@@ -2554,24 +2554,24 @@
                 "width": 640
             },
             {
+                "caption": "That train is carrying a data pod.",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/10095304-battlemorph-jaguar-that-train-is-carrying-a-data-pod.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/23a5b3c6-ac0d-11ed-87d3-02420a000134.webp",
+                "width": 640
+            },
+            {
+                "caption": "Descending to the Surface",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/10095298-battlemorph-jaguar-descending-to-the-surface.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/231c4528-ac0d-11ed-87d3-02420a000134.webp",
+                "width": 640
+            },
+            {
                 "caption": "Under a Mountain",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/10096147-battlemorph-jaguar-under-a-mountain.jpg",
                 "thumbnail_image_url": "https://cdn.mobygames.com/21389c70-ac0d-11ed-8d66-02420a000132.webp",
-                "width": 640
-            },
-            {
-                "caption": "Blow up the structure to reveal a Shield Icon",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/91323-battlemorph-jaguar-blow-up-the-structure-to-reveal-a-shield-icon.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/93e06edc-ab69-11ed-80c1-02420a000196.webp",
-                "width": 640
-            },
-            {
-                "caption": "Introduction",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10095289-battlemorph-jaguar-introduction.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2253d99e-ac0d-11ed-87d3-02420a000134.webp",
                 "width": 640
             }
         ],
@@ -2661,24 +2661,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Missions",
+                "caption": "Cruise Missile",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10257789-iron-soldier-2-jaguar-missions.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ac69df7e-ac0e-11ed-a12e-02420a000130.webp",
-                "width": 640
-            },
-            {
-                "caption": "FMV Intro",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10257786-iron-soldier-2-jaguar-fmv-intro.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ac28a7e8-ac0e-11ed-a12e-02420a000130.webp",
-                "width": 640
-            },
-            {
-                "caption": "Homing Missiles are a new weapon.",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/84492-iron-soldier-2-jaguar-homing-missiles-are-a-new-weapon.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/99cba112-ab65-11ed-b767-02420a000185.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/10257810-iron-soldier-2-jaguar-cruise-missile.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ae171a94-ac0e-11ed-a12e-02420a000130.webp",
                 "width": 640
             },
             {
@@ -2689,10 +2675,24 @@
                 "width": 640
             },
             {
-                "caption": "The new Chicken Mech",
+                "caption": "Island Hopping",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10257801-iron-soldier-2-jaguar-the-new-chicken-mech.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ad6c03de-ac0e-11ed-a12e-02420a000130.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/10257822-iron-soldier-2-jaguar-island-hopping.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/af235d62-ac0e-11ed-a12e-02420a000130.webp",
+                "width": 640
+            },
+            {
+                "caption": "Mission Briefing",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/10257792-iron-soldier-2-jaguar-mission-briefing.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/aca7069c-ac0e-11ed-a12e-02420a000130.webp",
+                "width": 640
+            },
+            {
+                "caption": "Title/Menu Screen",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/10257783-iron-soldier-2-jaguar-titlemenu-screen.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/abea01fa-ac0e-11ed-a12e-02420a000130.webp",
                 "width": 640
             }
         ],
@@ -2764,6 +2764,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Climbing a Tower",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/10242058-highlander-the-last-of-the-macleods-jaguar-climbing-a-tower.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8d017d5e-ac0e-11ed-8d2f-02420a00012e.webp",
+                "width": 640
+            },
+            {
                 "caption": "Your Burned-Out Village",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/10242046-highlander-the-last-of-the-macleods-jaguar-your-burned-out-villa.jpg",
@@ -2771,10 +2778,10 @@
                 "width": 640
             },
             {
-                "caption": "Quentin Manages to Defeat a Guard",
+                "caption": "Eventually you do find a sword.",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10242055-highlander-the-last-of-the-macleods-jaguar-quentin-manages-to-de.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8cc99bb4-ac0e-11ed-8d2f-02420a00012e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/10242061-highlander-the-last-of-the-macleods-jaguar-eventually-you-do-fin.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8d4177ec-ac0e-11ed-8d2f-02420a00012e.webp",
                 "width": 640
             },
             {
@@ -2785,17 +2792,10 @@
                 "width": 640
             },
             {
-                "caption": "Inventory",
+                "caption": "Title Screen",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10242052-highlander-the-last-of-the-macleods-jaguar-inventory.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8c896c06-ac0e-11ed-8d2f-02420a00012e.webp",
-                "width": 640
-            },
-            {
-                "caption": "Animation Courtesy of the TV Series",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10242067-highlander-the-last-of-the-macleods-jaguar-animation-courtesy-of.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8dcef9aa-ac0e-11ed-8d2f-02420a00012e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/10242043-highlander-the-last-of-the-macleods-jaguar-title-screen.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8bb7aaf4-ac0e-11ed-8d2f-02420a00012e.webp",
                 "width": 640
             }
         ],
@@ -2861,7 +2861,7 @@
             }
         ],
         "id": 7047,
-        "moby_score": 6.5,
+        "moby_score": 6.4,
         "moby_url": "https://www.mobygames.com/game/7047/hover-strike/",
         "num_votes": 7,
         "official_url": null,
@@ -2885,17 +2885,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Enemy tank. Big and nasty.",
+                "caption": "Night level. You must use the radial illumination of your gunshots to reveal the terrain.",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/11250413-hover-strike-jaguar-enemy-tank-big-and-nasty.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f63d897c-ac16-11ed-80b1-02420a000133.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/11250416-hover-strike-jaguar-night-level-you-must-use-the-radial-illumina.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f68c5aca-ac16-11ed-80b1-02420a000133.webp",
                 "width": 720
             },
             {
-                "caption": "Mission select",
+                "caption": "Annoying no more.",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/11250404-hover-strike-jaguar-mission-select.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f54b0c9c-ac16-11ed-80b1-02420a000133.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/11244407-hover-strike-jaguar-annoying-no-more.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e94b6824-ac16-11ed-9f52-02420a000130.webp",
                 "width": 720
             },
             {
@@ -2906,17 +2906,17 @@
                 "width": 720
             },
             {
-                "caption": "Shooting our objective.",
+                "caption": "Enemy tank. Big and nasty.",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/11244401-hover-strike-jaguar-shooting-our-objective.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e8ca2e08-ac16-11ed-9f52-02420a000130.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/11250413-hover-strike-jaguar-enemy-tank-big-and-nasty.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f63d897c-ac16-11ed-80b1-02420a000133.webp",
                 "width": 720
             },
             {
-                "caption": "Night level. You must use the radial illumination of your gunshots to reveal the terrain.",
+                "caption": "Targeting an annoying drone on the ice level.",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/11250416-hover-strike-jaguar-night-level-you-must-use-the-radial-illumina.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f68c5aca-ac16-11ed-80b1-02420a000133.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/11244404-hover-strike-jaguar-targeting-an-annoying-drone-on-the-ice-level.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e903b880-ac16-11ed-9f52-02420a000130.webp",
                 "width": 720
             }
         ],
@@ -3006,20 +3006,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Mission Selection",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10246383-hover-strike-unconquered-lands-jaguar-mission-selection.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/98177342-ac0e-11ed-b075-02420a00012f.webp",
-                "width": 640
-            },
-            {
-                "caption": "External Camera View",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10246392-hover-strike-unconquered-lands-jaguar-external-camera-view.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/98cb1834-ac0e-11ed-b075-02420a00012f.webp",
-                "width": 640
-            },
-            {
                 "caption": "Mission Briefing",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/10246386-hover-strike-unconquered-lands-jaguar-mission-briefing.jpg",
@@ -3027,17 +3013,31 @@
                 "width": 640
             },
             {
-                "caption": "A Radar Target",
+                "caption": "Title Screen",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10246981-hover-strike-unconquered-lands-jaguar-a-radar-target.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/943703e6-ac0e-11ed-9915-02420a000134.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/10246380-hover-strike-unconquered-lands-jaguar-title-screen.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/97e0fac4-ac0e-11ed-b075-02420a00012f.webp",
                 "width": 640
             },
             {
-                "caption": "Combat in a City Area",
+                "caption": "Floater Attack",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10246389-hover-strike-unconquered-lands-jaguar-combat-in-a-city-area.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/989270b0-ac0e-11ed-b075-02420a00012f.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/10246395-hover-strike-unconquered-lands-jaguar-floater-attack.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/99035adc-ac0e-11ed-b075-02420a00012f.webp",
+                "width": 640
+            },
+            {
+                "caption": "Hover Strike features the most impressive graphics on the Jaguar (IMHO).",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/10246984-hover-strike-unconquered-lands-jaguar-hover-strike-features-the-.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/94787682-ac0e-11ed-9915-02420a000134.webp",
+                "width": 640
+            },
+            {
+                "caption": "Shootout with a Beach Turret",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/10246987-hover-strike-unconquered-lands-jaguar-shootout-with-a-beach-turr.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/94b2befa-ac0e-11ed-9915-02420a000134.webp",
                 "width": 640
             }
         ],
@@ -3127,24 +3127,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The Egypt Track",
+                "caption": "Starting line (In-car view)",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10469070-world-tour-racing-jaguar-the-egypt-track.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/69520e6c-ac10-11ed-aeca-02420a000130.webp",
-                "width": 640
-            },
-            {
-                "caption": "2-Player Mode",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10213664-world-tour-racing-jaguar-2-player-mode.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3c58d082-ac0e-11ed-ac61-02420a00012e.webp",
-                "width": 640
-            },
-            {
-                "caption": "Main Menu",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10469073-world-tour-racing-jaguar-main-menu.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/699ca7f6-ac10-11ed-aeca-02420a000130.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/10469064-world-tour-racing-jaguar-starting-line-in-car-view.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/68bee22c-ac10-11ed-aeca-02420a000130.webp",
                 "width": 640
             },
             {
@@ -3155,10 +3141,24 @@
                 "width": 640
             },
             {
-                "caption": "Starting line (In-car view)",
+                "caption": "2-Player Mode",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10469064-world-tour-racing-jaguar-starting-line-in-car-view.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/68bee22c-ac10-11ed-aeca-02420a000130.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/10213664-world-tour-racing-jaguar-2-player-mode.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3c58d082-ac0e-11ed-ac61-02420a00012e.webp",
+                "width": 640
+            },
+            {
+                "caption": "FMV Introduction",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/10469061-world-tour-racing-jaguar-fmv-introduction.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/686f3772-ac10-11ed-aeca-02420a000130.webp",
+                "width": 640
+            },
+            {
+                "caption": "Game Demo",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/10469076-world-tour-racing-jaguar-game-demo.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/69da3008-ac10-11ed-aeca-02420a000130.webp",
                 "width": 640
             }
         ],
@@ -3239,6 +3239,20 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Picking which team to bet your money against.",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/10703281-white-men-cant-jump-jaguar-picking-which-team-to-bet-your-money-.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/67045cbc-ac12-11ed-b4f3-02420a000135.webp",
+                "width": 720
+            },
+            {
+                "caption": "Power dunk!",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/10703269-white-men-cant-jump-jaguar-power-dunk.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/65b80c96-ac12-11ed-b4f3-02420a000135.webp",
+                "width": 720
+            },
+            {
                 "caption": "Jump shot on the park court",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/10703287-white-men-cant-jump-jaguar-jump-shot-on-the-park-court.jpg",
@@ -3246,17 +3260,10 @@
                 "width": 720
             },
             {
-                "caption": "Digital bitmaps make up the characters.",
+                "caption": "Tournament game for all the marbles.",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10703272-white-men-cant-jump-jaguar-digital-bitmaps-make-up-the-character.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/660862f4-ac12-11ed-b4f3-02420a000135.webp",
-                "width": 720
-            },
-            {
-                "caption": "The urban court",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10703284-white-men-cant-jump-jaguar-the-urban-court.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6749c0f4-ac12-11ed-b4f3-02420a000135.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/10703290-white-men-cant-jump-jaguar-tournament-game-for-all-the-marbles.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/67da5024-ac12-11ed-b4f3-02420a000135.webp",
                 "width": 720
             },
             {
@@ -3264,13 +3271,6 @@
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/10703293-white-men-cant-jump-jaguar-the-championship-is-played-in-an-excl.jpg",
                 "thumbnail_image_url": "https://cdn.mobygames.com/683b0af4-ac12-11ed-b4f3-02420a000135.webp",
-                "width": 720
-            },
-            {
-                "caption": "The loan sharks. More annoying than dangerous.",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/10703278-white-men-cant-jump-jaguar-the-loan-sharks-more-annoying-than-da.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/66b9f320-ac12-11ed-b4f3-02420a000135.webp",
                 "width": 720
             }
         ],
@@ -3387,38 +3387,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Target destroyed!",
+                "caption": "Game select. Note the multiplayer options, and the Catbox network support.  ",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/11231237-aircars-jaguar-target-destroyed.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d43cce5a-ac16-11ed-8d2f-02420a00012e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/11231423-aircars-jaguar-game-select-note-the-multiplayer-options-and-the-.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d53de0aa-ac16-11ed-9fde-02420a000132.webp",
                 "width": 720
             },
             {
-                "caption": "One of the new enemies introduced in mission 1D are radar jammers, which will jam your radar for about 30 seconds. If you destroy them, you can grab their weapon.",
+                "caption": "In the middle of two turrets, getting ready to shot you.",
                 "height": 396,
-                "image_url": "https://cdn.mobygames.com/screenshots/16298477-aircars-jaguar-one-of-the-new-enemies-introduced-in-mission-1d-a.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7beebe0a-c1ee-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16299559-aircars-jaguar-in-the-middle-of-two-turrets-getting-ready-to-sho.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3b038fa0-c1ef-11ed-ab6b-02420a000194.webp",
                 "width": 572
             },
             {
-                "caption": "Mission briefing.",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/7543804-aircars-jaguar-mission-briefing.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/29ec3af4-abf7-11ed-a7ec-02420a000134.webp",
-                "width": 720
-            },
-            {
-                "caption": "Attacking a mission target.",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/11231234-aircars-jaguar-attacking-a-mission-target.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d40b4ca4-ac16-11ed-8d2f-02420a00012e.webp",
-                "width": 720
-            },
-            {
-                "caption": "Primary Target destroyed!",
+                "caption": "The second boss in the game.",
                 "height": 396,
-                "image_url": "https://cdn.mobygames.com/screenshots/16304560-aircars-jaguar-primary-target-destroyed.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bf5e651c-c1f0-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16298849-aircars-jaguar-the-second-boss-in-the-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ce8b0a38-c1ee-11ed-ab6b-02420a000194.webp",
+                "width": 572
+            },
+            {
+                "caption": "Introduced earlier in the game, colored gates that are not grey will transport you into another area of the game.",
+                "height": 396,
+                "image_url": "https://cdn.mobygames.com/screenshots/16298462-aircars-jaguar-introduced-earlier-in-the-game-colored-gates-that.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/76de075e-c1ee-11ed-ab6b-02420a000194.webp",
+                "width": 572
+            },
+            {
+                "caption": "This is the first mission in the game that takes place in a snow area.",
+                "height": 396,
+                "image_url": "https://cdn.mobygames.com/screenshots/16298336-aircars-jaguar-this-is-the-first-mission-in-the-game-that-takes-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6c37be1c-c1ee-11ed-ab6b-02420a000194.webp",
                 "width": 572
             }
         ],
@@ -3508,6 +3508,20 @@
         },
         "sample_screenshots": [
             {
+                "caption": "When you destroy a Capitol Ship, they explode in a supernova-like animation.",
+                "height": 439,
+                "image_url": "https://cdn.mobygames.com/screenshots/16308523-battlesphere-jaguar-when-you-destroy-a-capitol-ship-they-explode.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f49bf2e8-c1f1-11ed-ab6b-02420a000194.webp",
+                "width": 640
+            },
+            {
+                "caption": "Destroying the Blade in-sight, the Bomber ship of the Se'bab race.",
+                "height": 396,
+                "image_url": "https://cdn.mobygames.com/screenshots/16302835-battlesphere-jaguar-destroying-the-blade-in-sight-the-bomber-shi.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4a35b33a-c1f0-11ed-ab6b-02420a000194.webp",
+                "width": 640
+            },
+            {
                 "caption": "One of the weapons in the game makes the exact same firing noise as in Star Raiders, which is one of the biggest inspirations of BattleSphere.",
                 "height": 396,
                 "image_url": "https://cdn.mobygames.com/screenshots/16303000-battlesphere-jaguar-one-of-the-weapons-in-the-game-makes-the-exa.png",
@@ -3515,31 +3529,17 @@
                 "width": 640
             },
             {
-                "caption": "Fighting against a group of enemy fighters and superships.",
+                "caption": "Interior of the Arrow Fighter by the O'Catanut race. You have two types of radar on the 21 ships of the game: Front (displays ships on your POV) and Aft (displays ships behind you).",
                 "height": 439,
-                "image_url": "https://cdn.mobygames.com/screenshots/16308766-battlesphere-jaguar-fighting-against-a-group-of-enemy-fighters-a.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/03152880-c1f2-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16302502-battlesphere-jaguar-interior-of-the-arrow-fighter-by-the-ocatanu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2eda6720-c1f0-11ed-ab6b-02420a000194.webp",
                 "width": 640
             },
             {
-                "caption": "Main menu - You'll be greeted to a variety of options such as Single Console (single-player), Network Mode (Multiplayer), etc.",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16302505-battlesphere-jaguar-main-menu-youll-be-greeted-to-a-variety-of-o.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2f18c4d4-c1f0-11ed-ab6b-02420a000194.webp",
-                "width": 652
-            },
-            {
-                "caption": "By pressing 5 on the Jaguar's keypad, you can toggle between other weapons. Each ship has a different set of weapons.",
-                "height": 396,
-                "image_url": "https://cdn.mobygames.com/screenshots/16302316-battlesphere-jaguar-by-pressing-5-on-the-jaguars-keypad-you-can-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1f87b08e-c1f0-11ed-ab6b-02420a000194.webp",
-                "width": 640
-            },
-            {
-                "caption": "When you destroy a Capitol Ship, they explode in a supernova-like animation.",
+                "caption": "Free-For-All - Things gets pretty hectic when you set the number of ship to 15 and AI difficulty.",
                 "height": 439,
-                "image_url": "https://cdn.mobygames.com/screenshots/16308523-battlesphere-jaguar-when-you-destroy-a-capitol-ship-they-explode.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f49bf2e8-c1f1-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16308799-battlesphere-jaguar-free-for-all-things-gets-pretty-hectic-when-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0598e5ec-c1f2-11ed-ab6b-02420a000194.webp",
                 "width": 640
             }
         ],
@@ -3611,38 +3611,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Secret Laboratory - A scrapped TC mining robot hanging on the background.",
+                "caption": "Secret Laboratory - X-Ray.",
                 "height": 396,
-                "image_url": "https://cdn.mobygames.com/screenshots/16217354-hyper-force-jaguar-secret-laboratory-a-scrapped-tc-mining-robot-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f8acb538-c1d4-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16218399-hyper-force-jaguar-secret-laboratory-x-ray.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4e839760-c1d5-11ed-ab6b-02420a000194.webp",
                 "width": 640
             },
             {
-                "caption": "Title screen.",
+                "caption": "Varmox City - You'll find TC enemy soldiers that wears similar equipment to your main character.",
                 "height": 396,
-                "image_url": "https://cdn.mobygames.com/screenshots/16215471-hyper-force-jaguar-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/821e2fb4-c1d4-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16218251-hyper-force-jaguar-varmox-city-youll-find-tc-enemy-soldiers-that.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4409e564-c1d5-11ed-ab6b-02420a000194.webp",
                 "width": 640
             },
             {
-                "caption": "Trans Con Mines - Some levels don't waste time throwing you enemies at once.",
+                "caption": "Trans Con Mines - The first thing you'll notice about the game is that the sprites are big compared to some of the 16-bit titles released in the period.",
                 "height": 396,
-                "image_url": "https://cdn.mobygames.com/screenshots/16215525-hyper-force-jaguar-trans-con-mines-some-levels-dont-waste-time-t.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/86b8c3ae-c1d4-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16217279-hyper-force-jaguar-trans-con-mines-the-first-thing-youll-notice-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f466916a-c1d4-11ed-ab6b-02420a000194.webp",
                 "width": 640
             },
             {
-                "caption": "Trans Con Mines - When you kill a enemy, they'll leave a power up depending on the weapon you've equipped or health.",
+                "caption": "Trans Con Mines - One of the gameplay elements shown right away is colored locked doors, which you can open by finding switches of their respective colors hidden in the levels.",
                 "height": 396,
-                "image_url": "https://cdn.mobygames.com/screenshots/16215858-hyper-force-jaguar-trans-con-mines-when-you-kill-a-enemy-theyll-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9c95cb5e-c1d4-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16217282-hyper-force-jaguar-trans-con-mines-one-of-the-gameplay-elements-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f4b5552a-c1d4-11ed-ab6b-02420a000194.webp",
                 "width": 640
             },
             {
-                "caption": "Trans Con Mines - Many levels have hidden areas with items inside them.",
+                "caption": "Trans Con Fortress - In later levels, some rockets shoots flames from their back.",
                 "height": 396,
-                "image_url": "https://cdn.mobygames.com/screenshots/16218390-hyper-force-jaguar-trans-con-mines-many-levels-have-hidden-areas.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4e0e1dd2-c1d5-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16215861-hyper-force-jaguar-trans-con-fortress-in-later-levels-some-rocke.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9cc30baa-c1d4-11ed-ab6b-02420a000194.webp",
                 "width": 640
             }
         ],
@@ -3705,24 +3705,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "On some waves, a meteor swarm will occur and you can only avoid them, since the meteors are not destructible.",
-                "height": 396,
-                "image_url": "https://cdn.mobygames.com/screenshots/16296866-protector-jaguar-on-some-waves-a-meteor-swarm-will-occur-and-you.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ddc13294-c1ed-11ed-ab6b-02420a000194.webp",
-                "width": 640
-            },
-            {
-                "caption": "When a enemy is killed, they leave a nice particle effect.",
-                "height": 396,
-                "image_url": "https://cdn.mobygames.com/screenshots/16296494-protector-jaguar-when-a-enemy-is-killed-they-leave-a-nice-partic.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ab3cf56a-c1ed-11ed-ab6b-02420a000194.webp",
-                "width": 640
-            },
-            {
-                "caption": "Special Edition - Wave 26",
+                "caption": "Special Edition - Wave 1 cleared.",
                 "height": 439,
-                "image_url": "https://cdn.mobygames.com/screenshots/16377542-protector-jaguar-special-edition-wave-26.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1606144c-c209-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16377857-protector-jaguar-special-edition-wave-1-cleared.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2d6205c4-c209-11ed-ab6b-02420a000194.webp",
+                "width": 640
+            },
+            {
+                "caption": "Special Edition - Apparently these enemies have a frog-like name.",
+                "height": 439,
+                "image_url": "https://cdn.mobygames.com/screenshots/16378622-protector-jaguar-special-edition-apparently-these-enemies-have-a.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5e07851e-c209-11ed-ab6b-02420a000194.webp",
+                "width": 640
+            },
+            {
+                "caption": "Special Edition - Wave 21. This is where the turrets at ground are now located.",
+                "height": 439,
+                "image_url": "https://cdn.mobygames.com/screenshots/16378688-protector-jaguar-special-edition-wave-21-this-is-where-the-turre.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/640e33b8-c209-11ed-ab6b-02420a000194.webp",
                 "width": 640
             },
             {
@@ -3733,10 +3733,10 @@
                 "width": 640
             },
             {
-                "caption": "Selecting the starting wave. You can select a new wave after every 5 waves completed.",
-                "height": 396,
-                "image_url": "https://cdn.mobygames.com/screenshots/16296236-protector-jaguar-selecting-the-starting-wave-you-can-select-a-ne.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/88607ec2-c1ed-11ed-ab6b-02420a000194.webp",
+                "caption": "Special Edition - Wave 31",
+                "height": 439,
+                "image_url": "https://cdn.mobygames.com/screenshots/16377479-protector-jaguar-special-edition-wave-31.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1138dbf2-c209-11ed-ab6b-02420a000194.webp",
                 "width": 640
             }
         ],
@@ -3817,31 +3817,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "A typical view out of your cockpit.",
+                "caption": "Engaging one of the many mindless drone ships.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15918790-skyhammer-jaguar-a-typical-view-out-of-your-cockpit.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bfd68dba-bf0e-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15918853-skyhammer-jaguar-engaging-one-of-the-many-mindless-drone-ships.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c3ffd8d8-bf0e-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
-                "caption": "Options screen",
+                "caption": "This game has traits of <moby game=\"G-Police\">G-Police</moby>.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15918754-skyhammer-jaguar-options-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bca9b216-bf0e-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15992314-skyhammer-jaguar-this-game-has-traits-of-moby-gameg-policeg-poli.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a9bd3ae6-bf23-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
-                "caption": "Itt costs 120 credits simply to fill up the fuel tank.",
+                "caption": "After killing drones for almost 20 minutes I returned to base and received 35 credits.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15918952-skyhammer-jaguar-itt-costs-120-credits-simply-to-fill-up-the-fue.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cb11355e-bf0e-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Title screen",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15918727-skyhammer-jaguar-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ba07f1ee-bf0e-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15918925-skyhammer-jaguar-after-killing-drones-for-almost-20-minutes-i-re.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c99a3298-bf0e-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -3849,6 +3842,13 @@
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16038004-skyhammer-jaguar-you-can-just-sit-in-one-spot-and-all-the-enemie.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/7af00ccc-bf35-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Doing some fancy flyin' under an overpass.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15918823-skyhammer-jaguar-doing-some-fancy-flyin-under-an-overpass.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c13f8594-bf0e-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -3983,38 +3983,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Level 6",
+                "caption": "High-Score table.",
                 "height": 439,
-                "image_url": "https://cdn.mobygames.com/screenshots/8768338-mad-bodies-jaguar-level-6.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8f37e9c6-ac01-11ed-893a-02420a00012f.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16309578-mad-bodies-jaguar-high-score-table.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/45793c7a-c1f2-11ed-ab6b-02420a000194.webp",
                 "width": 640
             },
             {
-                "caption": "You have two objectives in the game: Keep kicking back the planetoids and destroy them by shooting with your reticle. Both methods gives you points.",
+                "caption": "Level 1 - Gameplay screenshot.",
                 "height": 439,
-                "image_url": "https://cdn.mobygames.com/screenshots/16309746-mad-bodies-jaguar-you-have-two-objectives-in-the-game-keep-kicki.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/51b78118-c1f2-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16309743-mad-bodies-jaguar-level-1-gameplay-screenshot.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/51855620-c1f2-11ed-ab6b-02420a000194.webp",
                 "width": 640
             },
             {
-                "caption": "Level 7 - Blastin' off a Saturn-esque planetoid",
+                "caption": "Level 5 - The first boss of the game; a disembodied crimson head",
                 "height": 439,
-                "image_url": "https://cdn.mobygames.com/screenshots/16449955-mad-bodies-jaguar-level-7-blastin-off-a-saturn-esque-planetoid.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/905d35da-c21e-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/8784912-mad-bodies-jaguar-level-5-the-first-boss-of-the-game-a-disembodi.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b02f7be4-ac01-11ed-ac61-02420a00012e.webp",
                 "width": 640
             },
             {
-                "caption": "Loading title screen.",
+                "caption": "Here's the slingshot attached to the paddle. This throws your paddle but be careful, as you can still get hit.",
                 "height": 439,
-                "image_url": "https://cdn.mobygames.com/screenshots/16309626-mad-bodies-jaguar-loading-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/48777c8e-c1f2-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16453684-mad-bodies-jaguar-heres-the-slingshot-attached-to-the-paddle-thi.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7ef483ce-c21f-11ed-ab6b-02420a000194.webp",
                 "width": 640
             },
             {
-                "caption": "This fellow will mock you depending on how long you take to continue the game.",
+                "caption": "Level 8",
                 "height": 439,
-                "image_url": "https://cdn.mobygames.com/screenshots/16453897-mad-bodies-jaguar-this-fellow-will-mock-you-depending-on-how-lon.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8eb0949c-c21f-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16453894-mad-bodies-jaguar-level-8.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8e742ef8-c21f-11ed-ab6b-02420a000194.webp",
                 "width": 640
             }
         ],
@@ -4104,17 +4104,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "It's no use...",
+                "caption": "Introduction to Blizzard, the second stage of the game",
                 "height": 439,
-                "image_url": "https://cdn.mobygames.com/screenshots/16323048-black-out-jaguar-its-no-use.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a8f18e20-c1f6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16323075-black-out-jaguar-introduction-to-blizzard-the-second-stage-of-th.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ab8cfb6a-c1f6-11ed-ab6b-02420a000194.webp",
                 "width": 640
             },
             {
-                "caption": "Introduction to Deep Blue, the third stage of the game",
+                "caption": "Please support the homebrew developers by buying their releases",
                 "height": 439,
-                "image_url": "https://cdn.mobygames.com/screenshots/16322628-black-out-jaguar-introduction-to-deep-blue-the-third-stage-of-th.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8350a3d6-c1f6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16322646-black-out-jaguar-please-support-the-homebrew-developers-by-buyin.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/844e6a2a-c1f6-11ed-ab6b-02420a000194.webp",
+                "width": 640
+            },
+            {
+                "caption": "Little fishes minding their own business while you're banging your head on the table figuring out the correct pattern.",
+                "height": 439,
+                "image_url": "https://cdn.mobygames.com/screenshots/16322652-black-out-jaguar-little-fishes-minding-their-own-business-while-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/84d40d06-c1f6-11ed-ab6b-02420a000194.webp",
                 "width": 640
             },
             {
@@ -4125,17 +4132,10 @@
                 "width": 640
             },
             {
-                "caption": "Introduction to Oasis, the fourth and last stage of the game...or is it?",
+                "caption": "Menu screen, barebones at first glance...",
                 "height": 439,
-                "image_url": "https://cdn.mobygames.com/screenshots/16323057-black-out-jaguar-introduction-to-oasis-the-fourth-and-last-stage.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a981c490-c1f6-11ed-ab6b-02420a000194.webp",
-                "width": 640
-            },
-            {
-                "caption": "Yeah, this is not your everyday company logo introduction...",
-                "height": 439,
-                "image_url": "https://cdn.mobygames.com/screenshots/16322616-black-out-jaguar-yeah-this-is-not-your-everyday-company-logo-int.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/82a628f2-c1f6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16322619-black-out-jaguar-menu-screen-barebones-at-first-glance.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/82d0b202-c1f6-11ed-ab6b-02420a000194.webp",
                 "width": 640
             }
         ],
@@ -4234,20 +4234,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "High-score screen",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/8275608-kobayashi-maru-jaguar-high-score-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/da6965c8-abfc-11ed-8d2f-02420a00012e.webp",
-                "width": 326
-            },
-            {
-                "caption": "Level 2 - Like Time Pilot, the enemy ships will change after each level.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16380448-kobayashi-maru-jaguar-level-2-like-time-pilot-the-enemy-ships-wi.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d7675b64-c209-11ed-ab6b-02420a000194.webp",
-                "width": 326
-            },
-            {
                 "caption": "The second boss of the game. By constantly firing and the boss, a percentage number is displayed to show how much damage you delivered to the boss.",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16381092-kobayashi-maru-jaguar-the-second-boss-of-the-game-by-constantly-.png",
@@ -4262,10 +4248,24 @@
                 "width": 326
             },
             {
-                "caption": "\"I wonder where this warp will take me now...?\"",
+                "caption": "High-score screen",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16381098-kobayashi-maru-jaguar-i-wonder-where-this-warp-will-take-me-now.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/03561882-c20a-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/8275608-kobayashi-maru-jaguar-high-score-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/da6965c8-abfc-11ed-8d2f-02420a00012e.webp",
+                "width": 326
+            },
+            {
+                "caption": "Powered by the Raptor engine!",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/8276183-kobayashi-maru-jaguar-powered-by-the-raptor-engine.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dc45d8e0-abfc-11ed-bbce-02420a000133.webp",
+                "width": 326
+            },
+            {
+                "caption": "Yet another trippy warping sequence.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16380837-kobayashi-maru-jaguar-yet-another-trippy-warping-sequence.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f0d5a0ce-c209-11ed-ab6b-02420a000194.webp",
                 "width": 326
             }
         ],
@@ -4373,6 +4373,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Main menu screen",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16201685-rebooteroids-jaguar-main-menu-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/77b59534-c1d0-11ed-ab6b-02420a000194.webp",
+                "width": 326
+            },
+            {
                 "caption": "High-score screen of Rebooteroids",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16202264-rebooteroids-jaguar-high-score-screen-of-rebooteroids.png",
@@ -4384,13 +4391,6 @@
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16214049-rebooteroids-jaguar-first-level-of-arcade-mode.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/1d509004-c1d4-11ed-ab6b-02420a000194.webp",
-                "width": 326
-            },
-            {
-                "caption": "Main menu screen",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16201685-rebooteroids-jaguar-main-menu-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/77b59534-c1d0-11ed-ab6b-02420a000194.webp",
                 "width": 326
             },
             {
@@ -4554,17 +4554,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Once you reach the fourth area, things will get more tight...",
+                "caption": "Your game is over...",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16503727-degz-jaguar-once-you-reach-the-fourth-area-things-will-get-more-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7888fba0-c22e-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16503721-degz-jaguar-your-game-is-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7852ca76-c22e-11ed-ab6b-02420a000194.webp",
                 "width": 326
             },
             {
-                "caption": "...But even moreso in the fifth area...",
+                "caption": "Title screen",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16503724-degz-jaguar-but-even-moreso-in-the-fifth-area.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/786f1384-c22e-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16503709-degz-jaguar-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/77d8b740-c22e-11ed-ab6b-02420a000194.webp",
                 "width": 326
             },
             {
@@ -4575,17 +4575,17 @@
                 "width": 326
             },
             {
-                "caption": "Once all areas have been cleared, a new loop will begin",
+                "caption": "The third area greets you with meteors that must be avoided at all cost!",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16436084-degz-jaguar-once-all-areas-have-been-cleared-a-new-loop-will-beg.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/44a2f9ee-c21a-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16503937-degz-jaguar-the-third-area-greets-you-with-meteors-that-must-be-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/83acc354-c22e-11ed-ab6b-02420a000194.webp",
                 "width": 326
             },
             {
-                "caption": "Last area of the game",
+                "caption": "First area of the game",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/9213353-degz-jaguar-last-area-of-the-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/32f4e85e-ac05-11ed-96e1-02420a00012d.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16503946-degz-jaguar-first-area-of-the-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/84076e8a-c22e-11ed-ab6b-02420a000194.webp",
                 "width": 326
             }
         ],
@@ -4682,31 +4682,31 @@
                 "width": 326
             },
             {
-                "caption": "Losing a life...",
+                "caption": "Watch out for the planes!",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16170979-full-circle-rocketeer-jaguar-losing-a-life.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a1699a06-c1c6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16390061-full-circle-rocketeer-jaguar-watch-out-for-the-planes.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/83666b88-c20c-11ed-ab6b-02420a000194.webp",
                 "width": 326
             },
             {
-                "caption": "Please support the homebrew developers by buying their releases",
+                "caption": "Taking off for one last time...",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16463545-full-circle-rocketeer-jaguar-please-support-the-homebrew-develop.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4d98f21c-c222-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16390073-full-circle-rocketeer-jaguar-taking-off-for-one-last-time.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/83fbf1b2-c20c-11ed-ab6b-02420a000194.webp",
                 "width": 326
             },
             {
-                "caption": "\"NOOOOOO...!\"",
+                "caption": "\"Aw, come on!\"",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16468516-full-circle-rocketeer-jaguar-noooooo.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9ddf0134-c223-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16390058-full-circle-rocketeer-jaguar-aw-come-on.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/82702c00-c20c-11ed-ab6b-02420a000194.webp",
                 "width": 326
             },
             {
-                "caption": "Getting ready for the first trip",
+                "caption": "Gameplay will be immediately familiar for those experience with its ZX Spetrum progenitor",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16353415-full-circle-rocketeer-jaguar-getting-ready-for-the-first-trip.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b22bf20e-c201-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16504081-full-circle-rocketeer-jaguar-gameplay-will-be-immediately-famili.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9905b864-c22e-11ed-ab6b-02420a000194.webp",
                 "width": 326
             }
         ],
@@ -4805,10 +4805,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Surfacing early without every diver will result in losing a life stock...",
+                "caption": "Not only there is too many rival submarines, they also want to see you drowning!",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16484644-hms-raptor-jaguar-surfacing-early-without-every-diver-will-resul.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3b9c52ba-c228-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16483861-hms-raptor-jaguar-not-only-there-is-too-many-rival-submarines-th.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/02a8a7d8-c228-11ed-ab6b-02420a000194.webp",
+                "width": 326
+            },
+            {
+                "caption": "This is not going to end well...",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16484335-hms-raptor-jaguar-this-is-not-going-to-end-well.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/27a6797a-c228-11ed-ab6b-02420a000194.webp",
+                "width": 326
+            },
+            {
+                "caption": "Entering into the next level...",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16605233-hms-raptor-jaguar-entering-into-the-next-level.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ae33c44a-c253-11ed-ab6b-02420a000194.webp",
                 "width": 326
             },
             {
@@ -4819,24 +4833,10 @@
                 "width": 326
             },
             {
-                "caption": "Not only there is too many rival submarines, they also want to see you drowning!",
+                "caption": "Surfacing early without every diver will result in losing a life stock...",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16483861-hms-raptor-jaguar-not-only-there-is-too-many-rival-submarines-th.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/02a8a7d8-c228-11ed-ab6b-02420a000194.webp",
-                "width": 326
-            },
-            {
-                "caption": "Entering name into the high score table",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16484326-hms-raptor-jaguar-entering-name-into-the-high-score-table.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2740195a-c228-11ed-ab6b-02420a000194.webp",
-                "width": 326
-            },
-            {
-                "caption": "Entering into the next level...",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16605233-hms-raptor-jaguar-entering-into-the-next-level.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ae33c44a-c253-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16484644-hms-raptor-jaguar-surfacing-early-without-every-diver-will-resul.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3b9c52ba-c228-11ed-ab6b-02420a000194.webp",
                 "width": 326
             }
         ],

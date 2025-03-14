@@ -72,17 +72,10 @@
                 "width": 320
             },
             {
-                "caption": "Coming across a green box",
+                "caption": "Finding a blue box",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16069621-labyrinth-of-fear-colour-genie-coming-across-a-green-box.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/effd1306-bf68-11ed-9521-02420a000152.webp",
-                "width": 320
-            },
-            {
-                "caption": "An element pops out of the box",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16069603-labyrinth-of-fear-colour-genie-an-element-pops-out-of-the-box.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ee3c0662-bf68-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16069579-labyrinth-of-fear-colour-genie-finding-a-blue-box.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ece51038-bf68-11ed-9521-02420a000152.webp",
                 "width": 320
             },
             {
@@ -93,10 +86,17 @@
                 "width": 320
             },
             {
-                "caption": "...while this one gives some extra strength",
+                "caption": "Falling through a hole",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16069774-labyrinth-of-fear-colour-genie-while-this-one-gives-some-extra-s.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/fc1fb7d8-bf68-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16069693-labyrinth-of-fear-colour-genie-falling-through-a-hole.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f65136ec-bf68-11ed-9521-02420a000152.webp",
+                "width": 320
+            },
+            {
+                "caption": "Finding some gold",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16069759-labyrinth-of-fear-colour-genie-finding-some-gold.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fba930cc-bf68-11ed-9521-02420a000152.webp",
                 "width": 320
             }
         ],
@@ -186,6 +186,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Title screen",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16003302-a10-bomber-colour-genie-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1c9a565c-bf29-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
                 "caption": "Loading screen",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16003002-a10-bomber-colour-genie-loading-screen.png",
@@ -193,17 +200,10 @@
                 "width": 320
             },
             {
-                "caption": "Score table",
+                "caption": "Game over",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16003290-a10-bomber-colour-genie-score-table.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/196c4f62-bf29-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Title screen",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16003302-a10-bomber-colour-genie-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1c9a565c-bf29-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16003230-a10-bomber-colour-genie-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/153b1ae0-bf29-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -214,10 +214,10 @@
                 "width": 320
             },
             {
-                "caption": "Instructions",
+                "caption": "Score table",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16003275-a10-bomber-colour-genie-instructions.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/18a5f542-bf29-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16003290-a10-bomber-colour-genie-score-table.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/196c4f62-bf29-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -307,17 +307,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The rocket being assembled...",
+                "caption": "High scores",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/5015144-bak-pak-colour-genie-the-rocket-being-assembled.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9520b106-abca-11ed-81e3-02420a000199.webp",
-                "width": 320
-            },
-            {
-                "caption": "Title screen",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/5015400-bak-pak-colour-genie-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/97b23fde-abca-11ed-81e3-02420a000199.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/5066032-bak-pak-colour-genie-high-scores.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ba2c02fa-abcc-11ed-a5ec-02420a00019b.webp",
                 "width": 320
             },
             {
@@ -328,17 +321,24 @@
                 "width": 320
             },
             {
-                "caption": "High scores",
+                "caption": "Title screen",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/5066032-bak-pak-colour-genie-high-scores.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ba2c02fa-abcc-11ed-a5ec-02420a00019b.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/5015400-bak-pak-colour-genie-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/97b23fde-abca-11ed-81e3-02420a000199.webp",
                 "width": 320
             },
             {
-                "caption": "Game over",
+                "caption": "Collecting a diamond",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/5014556-bak-pak-colour-genie-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8edb6d40-abca-11ed-81e3-02420a000199.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/5065919-bak-pak-colour-genie-collecting-a-diamond.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b9053cfc-abcc-11ed-a5ec-02420a00019b.webp",
+                "width": 320
+            },
+            {
+                "caption": "Loading screen",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/5015528-bak-pak-colour-genie-loading-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/98fb4e44-abca-11ed-81e3-02420a000199.webp",
                 "width": 320
             }
         ],
@@ -410,10 +410,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Up to four players can participate. The computer may be one of the four.",
+                "caption": "Prior to the game itself, three pages of instructions pop up.",
                 "height": 576,
-                "image_url": "https://cdn.mobygames.com/screenshots/18200405-micronopoly-colour-genie-up-to-four-players-can-participate-the-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cb9b4e6c-c4ce-11ee-b409-02420a0001ec.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/18200343-micronopoly-colour-genie-prior-to-the-game-itself-three-pages-of.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e3238888-c4c9-11ee-a5c0-02420a0001e8.webp",
                 "width": 768
             },
             {
@@ -424,6 +424,13 @@
                 "width": 768
             },
             {
+                "caption": "Investment time.",
+                "height": 576,
+                "image_url": "https://cdn.mobygames.com/screenshots/18200433-micronopoly-colour-genie-investment-time.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cf7eced2-c4ce-11ee-93e7-02420a0001e8.webp",
+                "width": 768
+            },
+            {
                 "caption": "Just landed on Pentonville Road.",
                 "height": 576,
                 "image_url": "https://cdn.mobygames.com/screenshots/18200429-micronopoly-colour-genie-just-landed-on-pentonville-road.png",
@@ -431,17 +438,10 @@
                 "width": 768
             },
             {
-                "caption": "The board scrolls down as your piece moves.",
+                "caption": "Everything is drawn with simplistic graphics.",
                 "height": 576,
-                "image_url": "https://cdn.mobygames.com/screenshots/18200421-micronopoly-colour-genie-the-board-scrolls-down-as-your-piece-mo.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cd91f180-c4ce-11ee-a33e-02420a0001eb.webp",
-                "width": 768
-            },
-            {
-                "caption": "Investment time.",
-                "height": 576,
-                "image_url": "https://cdn.mobygames.com/screenshots/18200433-micronopoly-colour-genie-investment-time.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cf7eced2-c4ce-11ee-93e7-02420a0001e8.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/18200425-micronopoly-colour-genie-everything-is-drawn-with-simplistic-gra.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ce36ee56-c4ce-11ee-80b1-02420a0001ec.webp",
                 "width": 768
             }
         ],
@@ -522,10 +522,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Starting out. The ghosts always spawn in the center section.",
+                "caption": "When all lives are lost, you can input your name (Up to six characters long).",
                 "height": 576,
-                "image_url": "https://cdn.mobygames.com/screenshots/18208534-puckman-colour-genie-starting-out-the-ghosts-always-spawn-in-the.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/725cd250-c6c0-11ee-b409-02420a0001ec.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/18208546-puckman-colour-genie-when-all-lives-are-lost-you-can-input-your-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/779c969c-c6c0-11ee-93e7-02420a0001e8.webp",
                 "width": 768
             },
             {
@@ -536,24 +536,24 @@
                 "width": 768
             },
             {
-                "caption": "I ate a power pellet and now the ghosts are temporarily vulnerable.",
-                "height": 576,
-                "image_url": "https://cdn.mobygames.com/screenshots/18208538-puckman-colour-genie-i-ate-a-power-pellet-and-now-the-ghosts-are.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/73b60554-c6c0-11ee-9fb4-02420a0001e8.webp",
-                "width": 768
-            },
-            {
-                "caption": "When all lives are lost, you can input your name (Up to six characters long).",
-                "height": 576,
-                "image_url": "https://cdn.mobygames.com/screenshots/18208546-puckman-colour-genie-when-all-lives-are-lost-you-can-input-your-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/779c969c-c6c0-11ee-93e7-02420a0001e8.webp",
-                "width": 768
-            },
-            {
                 "caption": null,
                 "height": 576,
                 "image_url": "https://cdn.mobygames.com/screenshots/18208542-puckman-colour-genie-.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/761fbc54-c6c0-11ee-92e5-02420a0001ec.webp",
+                "width": 768
+            },
+            {
+                "caption": "The high-score table.",
+                "height": 576,
+                "image_url": "https://cdn.mobygames.com/screenshots/18208550-puckman-colour-genie-the-high-score-table.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/79a2bd0e-c6c0-11ee-a772-02420a0001ec.webp",
+                "width": 768
+            },
+            {
+                "caption": "I ate a power pellet and now the ghosts are temporarily vulnerable.",
+                "height": 576,
+                "image_url": "https://cdn.mobygames.com/screenshots/18208538-puckman-colour-genie-i-ate-a-power-pellet-and-now-the-ghosts-are.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/73b60554-c6c0-11ee-9fb4-02420a0001e8.webp",
                 "width": 768
             }
         ],

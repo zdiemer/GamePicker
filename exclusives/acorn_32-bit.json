@@ -236,24 +236,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Some powerups have unknown effects",
+                "caption": "Introduction",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16274585-marsquake-acorn-32-bit-some-powerups-have-unknown-effects.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/af42ae5e-c1e6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16274510-marsquake-acorn-32-bit-introduction.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a8f11d74-c1e6-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
-                "caption": "The exit has opened up",
+                "caption": "Another title screen",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16274594-marsquake-acorn-32-bit-the-exit-has-opened-up.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/afa0b792-c1e6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16274516-marsquake-acorn-32-bit-another-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a92db176-c1e6-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
-                "caption": "Found a powerup that increases range",
+                "caption": "Starting out",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16274531-marsquake-acorn-32-bit-found-a-powerup-that-increases-range.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/aa9ca80a-c1e6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16274525-marsquake-acorn-32-bit-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/aa6490fa-c1e6-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
@@ -264,10 +264,10 @@
                 "width": 320
             },
             {
-                "caption": "Starting out",
+                "caption": "These are security droids that disarm your bombs",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16274525-marsquake-acorn-32-bit-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/aa6490fa-c1e6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16274591-marsquake-acorn-32-bit-these-are-security-droids-that-disarm-you.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/af81c5bc-c1e6-11ed-ab6b-02420a000194.webp",
                 "width": 320
             }
         ],
@@ -339,13 +339,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Starting out",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16274780-moonquake-acorn-32-bit-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bf4c7c1c-c1e6-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
                 "caption": "Setting of an explosion",
                 "height": 256,
                 "image_url": "https://cdn.mobygames.com/screenshots/16274777-moonquake-acorn-32-bit-setting-of-an-explosion.png",
@@ -353,17 +346,10 @@
                 "width": 320
             },
             {
-                "caption": "Game over",
+                "caption": "Level completed",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16274873-moonquake-acorn-32-bit-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c6e9ab66-c1e6-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
-                "caption": "Main menu",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/15642947-moonquake-acorn-32-bit-main-menu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3f4d00f0-bdee-11ed-b791-02420a0001bb.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15644381-moonquake-acorn-32-bit-level-completed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ca36d2a4-bdee-11ed-b791-02420a0001bb.webp",
                 "width": 320
             },
             {
@@ -371,6 +357,20 @@
                 "height": 256,
                 "image_url": "https://cdn.mobygames.com/screenshots/16274765-moonquake-acorn-32-bit-killing-a-security-droid.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/beba6a48-c1e6-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "These energy cells increase the power (range) of the bombs",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/15643748-moonquake-acorn-32-bit-these-energy-cells-increase-the-power-ran.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8e298022-bdee-11ed-b791-02420a0001bb.webp",
+                "width": 320
+            },
+            {
+                "caption": "Here I got invincibility for a short time",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16274879-moonquake-acorn-32-bit-here-i-got-invincibility-for-a-short-time.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c7259cb6-c1e6-11ed-ab6b-02420a000194.webp",
                 "width": 320
             }
         ],
@@ -469,27 +469,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Archers",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/15733158-pandoras-box-acorn-32-bit-archers.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e29ee5a2-bed4-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Tasks are given on parchments that can be picked up",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/15736503-pandoras-box-acorn-32-bit-tasks-are-given-on-parchments-that-can.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f13eda12-bed5-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Found a key, now we only have to find the hole",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/15736332-pandoras-box-acorn-32-bit-found-a-key-now-we-only-have-to-find-t.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e53496f8-bed5-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
                 "caption": "Blue monsters",
                 "height": 256,
                 "image_url": "https://cdn.mobygames.com/screenshots/16225235-pandoras-box-acorn-32-bit-blue-monsters.png",
@@ -497,10 +476,31 @@
                 "width": 320
             },
             {
-                "caption": "Trying to cross the river",
+                "caption": "The guards are blocking the exit",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/15733140-pandoras-box-acorn-32-bit-trying-to-cross-the-river.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e174629c-bed4-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16224872-pandoras-box-acorn-32-bit-the-guards-are-blocking-the-exit.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/29c07888-c1d7-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Getting a highscore",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16225241-pandoras-box-acorn-32-bit-getting-a-highscore.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4580d630-c1d7-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Archers",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/15733158-pandoras-box-acorn-32-bit-archers.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e29ee5a2-bed4-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "A hall",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/15736317-pandoras-box-acorn-32-bit-a-hall.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e49749b6-bed5-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -572,38 +572,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title screen",
+                "caption": "Later levels have more complex level designs",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16255682-galactic-dan-acorn-32-bit-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6a2b63d4-c1e0-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16255718-galactic-dan-acorn-32-bit-later-levels-have-more-complex-level-d.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6b663620-c1e0-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
-                "caption": "I'm killed",
+                "caption": "The arrow point out a hidden door in the wall",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16207239-galactic-dan-acorn-32-bit-im-killed.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2f2a9d44-c1d2-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16205670-galactic-dan-acorn-32-bit-the-arrow-point-out-a-hidden-door-in-t.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c5b559c6-c1d1-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
-                "caption": "These are power ups whose effects are not known until picked up",
+                "caption": "Starting out",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16255610-galactic-dan-acorn-32-bit-these-are-power-ups-whose-effects-are-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/658b7ecc-c1e0-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16255607-galactic-dan-acorn-32-bit-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/656f6be2-c1e0-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
-                "caption": "An enemy is destroyed",
+                "caption": "An exit opens up when enough hostages have been rescued",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16255709-galactic-dan-acorn-32-bit-an-enemy-is-destroyed.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6b195de6-c1e0-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16255721-galactic-dan-acorn-32-bit-an-exit-opens-up-when-enough-hostages-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6b7d4d7e-c1e0-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
-                "caption": "Face to face with a spider",
+                "caption": "Main menu with scrolling credits",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16255688-galactic-dan-acorn-32-bit-face-to-face-with-a-spider.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6a678a8a-c1e0-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16255697-galactic-dan-acorn-32-bit-main-menu-with-scrolling-credits.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6ab6c7e4-c1e0-11ed-ab6b-02420a000194.webp",
                 "width": 320
             }
         ],
@@ -711,13 +711,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Main menu (Moon Dash)",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16251770-bug-hunter-moon-dash-acorn-32-bit-main-menu-moon-dash.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0f4c62fc-c1df-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
                 "caption": "Passing out in the second level (Bug Hunter)",
                 "height": 256,
                 "image_url": "https://cdn.mobygames.com/screenshots/16251797-bug-hunter-moon-dash-acorn-32-bit-passing-out-in-the-second-leve.png",
@@ -725,17 +718,24 @@
                 "width": 320
             },
             {
-                "caption": "Hysteron Posteron can walk vertically (Bug Hunter)",
+                "caption": "Starting out on first level (Bug Hunter)",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16255604-bug-hunter-moon-dash-acorn-32-bit-hysteron-posteron-can-walk-ver.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/65552098-c1e0-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16255601-bug-hunter-moon-dash-acorn-32-bit-starting-out-on-first-level-bu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6536f69a-c1e0-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
-                "caption": "These obstacles are a bit trickier to jump over (Moon Dash)",
+                "caption": "Bedroom level (Bug Hunter)",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16251644-bug-hunter-moon-dash-acorn-32-bit-these-obstacles-are-a-bit-tric.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/05a9dd24-c1df-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16251635-bug-hunter-moon-dash-acorn-32-bit-bedroom-level-bug-hunter.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/055e462a-c1df-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "And then drop it on the insect to kill it (Bug Hunter)",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16251638-bug-hunter-moon-dash-acorn-32-bit-and-then-drop-it-on-the-insect.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0577ff52-c1df-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
@@ -823,24 +823,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Shooting at the slimes with a four way gun",
+                "caption": "This looks like a powerful weapon",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16243735-asylum-acorn-32-bit-shooting-at-the-slimes-with-a-four-way-gun.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0b4106d8-c1dd-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16255649-asylum-acorn-32-bit-this-looks-like-a-powerful-weapon.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/67c73df2-c1e0-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
-                "caption": "Managed to shut the brain cell down and got lots of points for it",
+                "caption": "Starting out",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16244941-asylum-acorn-32-bit-managed-to-shut-the-brain-cell-down-and-got-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5e8602ee-c1dd-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16256345-asylum-acorn-32-bit-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/91bbdb72-c1e0-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
-                "caption": "High score",
+                "caption": "Game over",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16244227-asylum-acorn-32-bit-high-score.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2ac0d7cc-c1dd-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16255646-asylum-acorn-32-bit-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/67a6197e-c1e0-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
@@ -851,10 +851,10 @@
                 "width": 320
             },
             {
-                "caption": "Oh no! I died",
+                "caption": "Using an elevator",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16243738-asylum-acorn-32-bit-oh-no-i-died.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0b5e8136-c1dd-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16244944-asylum-acorn-32-bit-using-an-elevator.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5ea1298e-c1dd-11ed-ab6b-02420a000194.webp",
                 "width": 320
             }
         ],
@@ -940,17 +940,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Game over",
+                "caption": "A certain famous composer",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/7155760-ego-repton-4-acorn-32-bit-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/212b10d2-abf4-11ed-893a-02420a00012f.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/7156902-ego-repton-4-acorn-32-bit-a-certain-famous-composer.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/21cbc702-abf4-11ed-a12e-02420a000130.webp",
                 "width": 320
             },
             {
-                "caption": "Message after completing level",
+                "caption": "Stats",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/7156961-ego-repton-4-acorn-32-bit-message-after-completing-level.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/201890d4-abf4-11ed-ad33-02420a00012d.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/7156914-ego-repton-4-acorn-32-bit-stats.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/23496cce-abf4-11ed-a12e-02420a000130.webp",
+                "width": 320
+            },
+            {
+                "caption": "High score list",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/7156911-ego-repton-4-acorn-32-bit-high-score-list.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/232421f8-abf4-11ed-a12e-02420a000130.webp",
                 "width": 320
             },
             {
@@ -961,17 +968,10 @@
                 "width": 320
             },
             {
-                "caption": "First level about to start",
+                "caption": "This is where we bring the pieces, although here it's already quite clear what picture we will get",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/7156920-ego-repton-4-acorn-32-bit-first-level-about-to-start.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/23a227ba-abf4-11ed-a12e-02420a000130.webp",
-                "width": 320
-            },
-            {
-                "caption": "Falling down a hole, not recommended",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/7156955-ego-repton-4-acorn-32-bit-falling-down-a-hole-not-recommended.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1f1eacd6-abf4-11ed-ad33-02420a00012d.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/7156952-ego-repton-4-acorn-32-bit-this-is-where-we-bring-the-pieces-alth.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1ec46870-abf4-11ed-ad33-02420a00012d.webp",
                 "width": 320
             }
         ],
@@ -1052,17 +1052,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Map",
+                "caption": "Being chased by an alien (Repton Thru Time)",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16255904-repton-3-acorn-32-bit-map.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/757d783a-c1e0-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16257406-repton-3-acorn-32-bit-being-chased-by-an-alien-repton-thru-time.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/eaecfb9a-c1e0-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
-                "caption": "Repton in Egypt (Repton Thru Time)",
+                "caption": "Starting out in the Arctic (Around the World in 40 Screens)",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16257118-repton-3-acorn-32-bit-repton-in-egypt-repton-thru-time.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d20a5622-c1e0-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16255895-repton-3-acorn-32-bit-starting-out-in-the-arctic-around-the-worl.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/752829e8-c1e0-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
@@ -1073,17 +1073,17 @@
                 "width": 320
             },
             {
-                "caption": "Scooters  (The Life of Repton)",
+                "caption": "Being hunted by polar bears (Around the World in 40 Screens)",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16254734-repton-3-acorn-32-bit-scooters-the-life-of-repton.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/03fe1fc0-c1e0-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16255886-repton-3-acorn-32-bit-being-hunted-by-polar-bears-around-the-wor.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/74d6fbf4-c1e0-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
-                "caption": "Who's that girl? (The Life of Repton)",
+                "caption": "Repton as a baby (The Life of Repton)",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16257130-repton-3-acorn-32-bit-whos-that-girl-the-life-of-repton.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d32bbae6-c1e0-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16255898-repton-3-acorn-32-bit-repton-as-a-baby-the-life-of-repton.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/75438ea4-c1e0-11ed-ab6b-02420a000194.webp",
                 "width": 320
             }
         ],
@@ -1164,6 +1164,20 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Story intro",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16440317-alien-invasion-acorn-32-bit-story-intro.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/96a01ac8-c21b-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Sprite editor",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16440293-alien-invasion-acorn-32-bit-sprite-editor.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/94c7af40-c21b-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
                 "caption": "Title screen",
                 "height": 256,
                 "image_url": "https://cdn.mobygames.com/screenshots/16440323-alien-invasion-acorn-32-bit-title-screen.png",
@@ -1178,24 +1192,10 @@
                 "width": 320
             },
             {
-                "caption": "Starting out",
+                "caption": "Invisible invaders",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16440308-alien-invasion-acorn-32-bit-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9644ba5c-c21b-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
-                "caption": "Supply ships drop power ups",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16440296-alien-invasion-acorn-32-bit-supply-ships-drop-power-ups.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/94e8ac04-c21b-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
-                "caption": "Game menu",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16440320-alien-invasion-acorn-32-bit-game-menu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/96baaeec-c21b-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16440299-alien-invasion-acorn-32-bit-invisible-invaders.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9507b3ce-c21b-11ed-ab6b-02420a000194.webp",
                 "width": 320
             }
         ],
@@ -1292,31 +1292,31 @@
                 "width": 320
             },
             {
-                "caption": "Configuration screen",
+                "caption": "High score",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16441763-bloxed-acorn-32-bit-configuration-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/493a6f3a-c21c-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16440179-bloxed-acorn-32-bit-high-score.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8dac2074-c21b-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
-                "caption": "Shooter",
+                "caption": "This tetromino has a power block",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16440182-bloxed-acorn-32-bit-shooter.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8dc953ce-c21b-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16441766-bloxed-acorn-32-bit-this-tetromino-has-a-power-block.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4955e080-c21c-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
-                "caption": "Two player game",
+                "caption": "Sending over blocks to the opponent",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16440167-bloxed-acorn-32-bit-two-player-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8d255a44-c21b-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16441775-bloxed-acorn-32-bit-sending-over-blocks-to-the-opponent.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/49b23ef2-c21c-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
-                "caption": "A BOMB!",
+                "caption": "Game over",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16440185-bloxed-acorn-32-bit-a-bomb.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8ec786ce-c21b-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16440173-bloxed-acorn-32-bit-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8d6897be-c21b-11ed-ab6b-02420a000194.webp",
                 "width": 320
             }
         ],
@@ -1404,8 +1404,24 @@
                 "1998-08-12"
             ]
         ],
-        "sample_cover": null,
-        "sample_screenshots": [],
+        "sample_cover": {
+            "height": 256,
+            "image_url": "https://cdn.mobygames.com/screenshots/18666708-sunburst-acorn-32-bit-title-screen.png",
+            "platforms": [
+                "Acorn 32-bit"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/e4e571cc-152d-11ef-a2ae-02420a00015a.webp",
+            "width": 320
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Title screen",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/18666708-sunburst-acorn-32-bit-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e4e571cc-152d-11ef-a2ae-02420a00015a.webp",
+                "width": 320
+            }
+        ],
         "title": "SunBurst"
     },
     {
@@ -1631,31 +1647,31 @@
                 "width": 320
             },
             {
-                "caption": "Civilians being abducted",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/15761955-orion-acorn-32-bit-civilians-being-abducted.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/af5d9b2a-bede-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "A saved civilian...",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/15757311-orion-acorn-32-bit-a-saved-civilian.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3099a91a-bedd-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Getting a high score",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/15761925-orion-acorn-32-bit-getting-a-high-score.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ad920b28-bede-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
                 "caption": "Starting out",
                 "height": 256,
                 "image_url": "https://cdn.mobygames.com/screenshots/15761919-orion-acorn-32-bit-starting-out.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/ad604f3e-bede-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Wave completed",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/15761892-orion-acorn-32-bit-wave-completed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ac62d30e-bede-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Getting myself killed",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/15761946-orion-acorn-32-bit-getting-myself-killed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/af04e976-bede-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "High score list",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/15762192-orion-acorn-32-bit-high-score-list.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bf00194a-bede-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -1745,10 +1761,31 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Starting out",
+                "caption": "Falling objects like this one give bonuses",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/15762360-jet-fighter-acorn-32-bit-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c949aa6a-bede-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15762231-jet-fighter-acorn-32-bit-falling-objects-like-this-one-give-bonu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c0784126-bede-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Taking off",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/15762585-jet-fighter-acorn-32-bit-taking-off.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/da7d5462-bede-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Game over",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/15762549-jet-fighter-acorn-32-bit-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d5e97688-bede-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Blasting some aliens",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/15762345-jet-fighter-acorn-32-bit-blasting-some-aliens.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c8bfcf20-bede-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -1756,27 +1793,6 @@
                 "height": 256,
                 "image_url": "https://cdn.mobygames.com/screenshots/15762330-jet-fighter-acorn-32-bit-located-the-first-rocket-part.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/c8305782-bede-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Rocket almost full",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/15762195-jet-fighter-acorn-32-bit-rocket-almost-full.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bf1d6856-bede-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Getting ready",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/15762381-jet-fighter-acorn-32-bit-getting-ready.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cac610f4-bede-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Collecting fuel",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/15762264-jet-fighter-acorn-32-bit-collecting-fuel.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c25becd6-bede-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -1889,17 +1905,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Stealing a towel",
+                "caption": "Title screen",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/15777103-maddingly-hall-acorn-32-bit-stealing-a-towel.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/09fd70b0-bee3-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15777058-maddingly-hall-acorn-32-bit-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/08249782-bee3-11ed-9c42-02420a000140.webp",
                 "width": 640
             },
             {
-                "caption": "The mansion entry",
+                "caption": "In the main hall",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/15777187-maddingly-hall-acorn-32-bit-the-mansion-entry.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0ef95a5c-bee3-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15777208-maddingly-hall-acorn-32-bit-in-the-main-hall.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0fc283f0-bee3-11ed-9c42-02420a000140.webp",
+                "width": 640
+            },
+            {
+                "caption": "An easy way to fail the game...",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/15777172-maddingly-hall-acorn-32-bit-an-easy-way-to-fail-the-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0e450854-bee3-11ed-9c42-02420a000140.webp",
                 "width": 640
             },
             {
@@ -1910,17 +1933,10 @@
                 "width": 640
             },
             {
-                "caption": "Story, pt 1",
+                "caption": "Stealing a towel",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/15777022-maddingly-hall-acorn-32-bit-story-pt-1.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0619482a-bee3-11ed-9c42-02420a000140.webp",
-                "width": 640
-            },
-            {
-                "caption": "An easy way to fail the game...",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/15777172-maddingly-hall-acorn-32-bit-an-easy-way-to-fail-the-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0e450854-bee3-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15777103-maddingly-hall-acorn-32-bit-stealing-a-towel.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/09fd70b0-bee3-11ed-9c42-02420a000140.webp",
                 "width": 640
             }
         ],
@@ -1992,17 +2008,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Falling gems kill the monsters",
+                "caption": "Level 4 - with bombs",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/15811052-rockfall-acorn-32-bit-falling-gems-kill-the-monsters.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b74f1836-beed-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15810980-rockfall-acorn-32-bit-level-4-with-bombs.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b0d88a8c-beed-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
-                "caption": "Starting out on level 1",
+                "caption": "Level 3 - watch out for monsters",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/15811193-rockfall-acorn-32-bit-starting-out-on-level-1.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c49413ac-beed-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15757926-rockfall-acorn-32-bit-level-3-watch-out-for-monsters.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6a5c4554-bedd-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -2013,17 +2029,17 @@
                 "width": 320
             },
             {
-                "caption": "Lava spreads from the centre of the map",
+                "caption": "Start of level 2",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/15810995-rockfall-acorn-32-bit-lava-spreads-from-the-centre-of-the-map.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b18fa5be-beed-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15811007-rockfall-acorn-32-bit-start-of-level-2.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b234659a-beed-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
-                "caption": "Getting crushed by a rock",
+                "caption": "Starting out on level 1",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/15811235-rockfall-acorn-32-bit-getting-crushed-by-a-rock.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c8953832-beed-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15811193-rockfall-acorn-32-bit-starting-out-on-level-1.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c49413ac-beed-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -2104,13 +2120,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Some sort of bouncing caterpillar",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/15906052-the-legend-of-the-lost-temple-acorn-32-bit-some-sort-of-bouncing.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1df17bfc-bf0b-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
                 "caption": "Attacking a bee hive",
                 "height": 256,
                 "image_url": "https://cdn.mobygames.com/screenshots/15905485-the-legend-of-the-lost-temple-acorn-32-bit-attacking-a-bee-hive.png",
@@ -2118,10 +2127,17 @@
                 "width": 320
             },
             {
-                "caption": "Collapsing bridge",
+                "caption": "Being attacked by bees",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/15905467-the-legend-of-the-lost-temple-acorn-32-bit-collapsing-bridge.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f7cb22b6-bf0a-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15905689-the-legend-of-the-lost-temple-acorn-32-bit-being-attacked-by-bee.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/06174494-bf0b-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Green monster encounter",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/15905500-the-legend-of-the-lost-temple-acorn-32-bit-green-monster-encount.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f9d6178c-bf0a-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -2132,10 +2148,10 @@
                 "width": 640
             },
             {
-                "caption": "Starting out",
+                "caption": "Climbing a stair",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/15905716-the-legend-of-the-lost-temple-acorn-32-bit-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/072a85e4-bf0b-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15905662-the-legend-of-the-lost-temple-acorn-32-bit-climbing-a-stair.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/05171236-bf0b-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -2207,24 +2223,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Challenge stage (in demo mode)",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/15633434-ballarena-acorn-32-bit-challenge-stage-in-demo-mode.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d502d1e6-bdea-11ed-b791-02420a0001bb.webp",
-                "width": 320
-            },
-            {
                 "caption": "Title screen",
                 "height": 256,
                 "image_url": "https://cdn.mobygames.com/screenshots/15906655-ballarena-acorn-32-bit-title-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/49b795aa-bf0b-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Level 20",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/15906892-ballarena-acorn-32-bit-level-20.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5aba2818-bf0b-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -2235,10 +2237,24 @@
                 "width": 320
             },
             {
-                "caption": "High scores",
+                "caption": "Level 20",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/15906637-ballarena-acorn-32-bit-high-scores.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/48d84846-bf0b-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15906892-ballarena-acorn-32-bit-level-20.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5aba2818-bf0b-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Level 2",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/15906997-ballarena-acorn-32-bit-level-2.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/624cd814-bf0b-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Level 25",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/15906868-ballarena-acorn-32-bit-level-25.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5903d19a-bf0b-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -2319,27 +2335,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Shield power up",
-                "height": 264,
-                "image_url": "https://cdn.mobygames.com/screenshots/16035274-bubble-fair-acorn-32-bit-shield-power-up.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4734a880-bf34-11ed-9c42-02420a000140.webp",
-                "width": 384
-            },
-            {
-                "caption": "Suction cup power up",
-                "height": 264,
-                "image_url": "https://cdn.mobygames.com/screenshots/16035811-bubble-fair-acorn-32-bit-suction-cup-power-up.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7be08c48-bf34-11ed-9c42-02420a000140.webp",
-                "width": 384
-            },
-            {
-                "caption": "Title screen",
-                "height": 264,
-                "image_url": "https://cdn.mobygames.com/screenshots/16035328-bubble-fair-acorn-32-bit-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4c6cc288-bf34-11ed-9c42-02420a000140.webp",
-                "width": 384
-            },
-            {
                 "caption": "One stall getting crossed",
                 "height": 264,
                 "image_url": "https://cdn.mobygames.com/screenshots/16035310-bubble-fair-acorn-32-bit-one-stall-getting-crossed.png",
@@ -2347,10 +2342,31 @@
                 "width": 384
             },
             {
+                "caption": "Shield power up",
+                "height": 264,
+                "image_url": "https://cdn.mobygames.com/screenshots/16035274-bubble-fair-acorn-32-bit-shield-power-up.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4734a880-bf34-11ed-9c42-02420a000140.webp",
+                "width": 384
+            },
+            {
+                "caption": "Climbing ladders",
+                "height": 264,
+                "image_url": "https://cdn.mobygames.com/screenshots/16035268-bubble-fair-acorn-32-bit-climbing-ladders.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/469fbf86-bf34-11ed-9c42-02420a000140.webp",
+                "width": 384
+            },
+            {
                 "caption": "Trapped in a bubble",
                 "height": 264,
                 "image_url": "https://cdn.mobygames.com/screenshots/16035259-bubble-fair-acorn-32-bit-trapped-in-a-bubble.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/458c7670-bf34-11ed-9c42-02420a000140.webp",
+                "width": 384
+            },
+            {
+                "caption": "Upon hit, bubble splits and drops a powerup",
+                "height": 264,
+                "image_url": "https://cdn.mobygames.com/screenshots/16035301-bubble-fair-acorn-32-bit-upon-hit-bubble-splits-and-drops-a-powe.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4922f39a-bf34-11ed-9c42-02420a000140.webp",
                 "width": 384
             }
         ],
@@ -2449,27 +2465,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Instructions",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16038079-bug-hunter-in-space-acorn-32-bit-instructions.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/83243b84-bf35-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "This worm thing can't be dangerous, can it?",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16038439-bug-hunter-in-space-acorn-32-bit-this-worm-thing-cant-be-dangero.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ad09b672-bf35-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "High scores",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16038208-bug-hunter-in-space-acorn-32-bit-high-scores.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/917d7524-bf35-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
                 "caption": "Start of level 4",
                 "height": 256,
                 "image_url": "https://cdn.mobygames.com/screenshots/16038253-bug-hunter-in-space-acorn-32-bit-start-of-level-4.png",
@@ -2477,10 +2472,31 @@
                 "width": 320
             },
             {
-                "caption": "Start of level 2",
+                "caption": "Title screen",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16038412-bug-hunter-in-space-acorn-32-bit-start-of-level-2.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a974c0a6-bf35-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16038112-bug-hunter-in-space-acorn-32-bit-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8889abae-bf35-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Dropping an object on an enemy",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16038448-bug-hunter-in-space-acorn-32-bit-dropping-an-object-on-an-enemy.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ae281b84-bf35-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Instructions",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16038079-bug-hunter-in-space-acorn-32-bit-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/83243b84-bf35-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "A switch and another alien",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16038427-bug-hunter-in-space-acorn-32-bit-a-switch-and-another-alien.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/aa603cc0-bf35-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -2579,13 +2595,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Blackjack",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/15955220-casino-acorn-32-bit-blackjack.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7d08978e-bf19-11ed-9c42-02420a000140.webp",
-                "width": 640
-            },
-            {
                 "caption": "From the banker we can also add new players to the game",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/15955187-casino-acorn-32-bit-from-the-banker-we-can-also-add-new-players-.png",
@@ -2611,6 +2620,13 @@
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/15955256-casino-acorn-32-bit-fruit-machine-dragging-money-from-the-banker.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/8001aafc-bf19-11ed-9c42-02420a000140.webp",
+                "width": 640
+            },
+            {
+                "caption": "Blackjack",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/15955220-casino-acorn-32-bit-blackjack.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7d08978e-bf19-11ed-9c42-02420a000140.webp",
                 "width": 640
             }
         ],
@@ -2682,24 +2698,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Encountering the minotaur",
+                "caption": "The minotaur was killed",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/15995976-minotaur-acorn-32-bit-encountering-the-minotaur.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/851ab17c-bf24-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Finding a piece of map",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16001805-minotaur-acorn-32-bit-finding-a-piece-of-map.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9639e190-bf28-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Reaching the exit",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/15996111-minotaur-acorn-32-bit-reaching-the-exit.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8cb09b36-bf24-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15996246-minotaur-acorn-32-bit-the-minotaur-was-killed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9414dc84-bf24-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -2710,10 +2712,24 @@
                 "width": 320
             },
             {
-                "caption": "Finding a sword",
+                "caption": "Finding a bottle",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16001742-minotaur-acorn-32-bit-finding-a-sword.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8f8d6c68-bf28-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15995571-minotaur-acorn-32-bit-finding-a-bottle.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6bfa0120-bf24-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Finding a compass",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16001784-minotaur-acorn-32-bit-finding-a-compass.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/93db3d40-bf28-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Encountering the minotaur",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/15995976-minotaur-acorn-32-bit-encountering-the-minotaur.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/851ab17c-bf24-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -2794,17 +2810,31 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Getting eaten by said snake",
+                "caption": "Dodging the archer's arrow",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16073671-cartoon-line-part-one-acorn-32-bit-getting-eaten-by-said-snake.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/19fd84c8-bf6a-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16075365-cartoon-line-part-one-acorn-32-bit-dodging-the-archers-arrow.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a8e76302-bf6a-11ed-9521-02420a000152.webp",
                 "width": 320
             },
             {
-                "caption": "Getting ready",
+                "caption": "Tiny bird carrying an anvil",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16072687-cartoon-line-part-one-acorn-32-bit-getting-ready.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d95ceae4-bf69-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16075413-cartoon-line-part-one-acorn-32-bit-tiny-bird-carrying-an-anvil.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/aca37dfa-bf6a-11ed-9521-02420a000152.webp",
+                "width": 320
+            },
+            {
+                "caption": "Getting axed",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16073353-cartoon-line-part-one-acorn-32-bit-getting-axed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0333506a-bf6a-11ed-9521-02420a000152.webp",
+                "width": 320
+            },
+            {
+                "caption": "Title screen",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16072720-cartoon-line-part-one-acorn-32-bit-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dc23b898-bf69-11ed-9521-02420a000152.webp",
                 "width": 320
             },
             {
@@ -2812,20 +2842,6 @@
                 "height": 256,
                 "image_url": "https://cdn.mobygames.com/screenshots/16073686-cartoon-line-part-one-acorn-32-bit-being-attacked-by-a-snake.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/1b6422b8-bf6a-11ed-9521-02420a000152.webp",
-                "width": 320
-            },
-            {
-                "caption": "Getting run over by a buffalo",
-                "height": 243,
-                "image_url": "https://cdn.mobygames.com/screenshots/16075338-cartoon-line-part-one-acorn-32-bit-getting-run-over-by-a-buffalo.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a67e0a94-bf6a-11ed-9521-02420a000152.webp",
-                "width": 320
-            },
-            {
-                "caption": "Killed by anvil",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16075386-cartoon-line-part-one-acorn-32-bit-killed-by-anvil.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/aa88ac66-bf6a-11ed-9521-02420a000152.webp",
                 "width": 320
             }
         ],
@@ -2911,17 +2927,31 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Start of second level",
+                "caption": "Screen editor",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/15910504-ibix-the-viking-acorn-32-bit-start-of-second-level.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/88ced360-bf0c-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15910690-ibix-the-viking-acorn-32-bit-screen-editor.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/964160f8-bf0c-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
-                "caption": "This gate closes when you move past it",
+                "caption": "Loading game",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/15910182-ibix-the-viking-acorn-32-bit-this-gate-closes-when-you-move-past.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6d0c9838-bf0c-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15910591-ibix-the-viking-acorn-32-bit-loading-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9099a84a-bf0c-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "A collapsing bridge",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/15910444-ibix-the-viking-acorn-32-bit-a-collapsing-bridge.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8384aa60-bf0c-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Start of the first hard level",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/15910311-ibix-the-viking-acorn-32-bit-start-of-the-first-hard-level.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/77c31644-bf0c-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -2929,20 +2959,6 @@
                 "height": 256,
                 "image_url": "https://cdn.mobygames.com/screenshots/15910822-ibix-the-viking-acorn-32-bit-the-blue-thing-enables-the-elevator.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/9e0f3602-bf0c-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Starting out",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/15910612-ibix-the-viking-acorn-32-bit-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/916c0c36-bf0c-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Sprite editor",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/15910720-ibix-the-viking-acorn-32-bit-sprite-editor.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/976ab48e-bf0c-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -3023,38 +3039,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Running out of energy",
+                "caption": "Starting out",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16048072-thundermonk-acorn-32-bit-running-out-of-energy.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7f618468-bf38-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16040590-thundermonk-acorn-32-bit-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/74320e5c-bf36-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
-                "caption": "Bombs can be thrown through walls",
+                "caption": "Start of fourth level",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16040893-thundermonk-acorn-32-bit-bombs-can-be-thrown-through-walls.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/87681d2c-bf36-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16041073-thundermonk-acorn-32-bit-start-of-fourth-level.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9345d6c0-bf36-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
-                "caption": "Start of second level",
+                "caption": "Level completed",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16040812-thundermonk-acorn-32-bit-start-of-second-level.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8256c090-bf36-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16040320-thundermonk-acorn-32-bit-level-completed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/608a7e66-bf36-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
-                "caption": "Finding a goblet",
+                "caption": "Instructions",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16040332-thundermonk-acorn-32-bit-finding-a-goblet.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6101fdf6-bf36-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16040620-thundermonk-acorn-32-bit-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/761a0e4a-bf36-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
-                "caption": "Game over",
+                "caption": "Start of third level",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16040827-thundermonk-acorn-32-bit-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/832ab562-bf36-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16040788-thundermonk-acorn-32-bit-start-of-third-level.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/804d3176-bf36-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -3126,10 +3142,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Starting out",
+                "caption": "Picking up a collectable that reverses the spikes",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16071091-hoverbod-acorn-32-bit-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6e3d1a40-bf69-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16064917-hoverbod-acorn-32-bit-picking-up-a-collectable-that-reverses-the.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4b05191c-bf67-11ed-9521-02420a000152.webp",
+                "width": 320
+            },
+            {
+                "caption": "Getting killed",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16065031-hoverbod-acorn-32-bit-getting-killed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/575b6dce-bf67-11ed-9521-02420a000152.webp",
+                "width": 320
+            },
+            {
+                "caption": "Stay still too long and a bird will appear and take you away",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16064860-hoverbod-acorn-32-bit-stay-still-too-long-and-a-bird-will-appear.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/47844c68-bf67-11ed-9521-02420a000152.webp",
                 "width": 320
             },
             {
@@ -3140,24 +3170,10 @@
                 "width": 320
             },
             {
-                "caption": "Start of sixth level",
+                "caption": "Start of fifth level",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16065022-hoverbod-acorn-32-bit-start-of-sixth-level.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/56b90552-bf67-11ed-9521-02420a000152.webp",
-                "width": 320
-            },
-            {
-                "caption": "Start of fourth level",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16071115-hoverbod-acorn-32-bit-start-of-fourth-level.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/720ad54a-bf69-11ed-9521-02420a000152.webp",
-                "width": 320
-            },
-            {
-                "caption": "Start of eighth level",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16064848-hoverbod-acorn-32-bit-start-of-eighth-level.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/47148ee6-bf67-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16064839-hoverbod-acorn-32-bit-start-of-fifth-level.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/46becaec-bf67-11ed-9521-02420a000152.webp",
                 "width": 320
             }
         ],
@@ -3247,17 +3263,31 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The game can be customized to be played without enemies",
+                "caption": "Stage 2",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16073113-mr-doo-acorn-32-bit-the-game-can-be-customized-to-be-played-with.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f48e4d62-bf69-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16073059-mr-doo-acorn-32-bit-stage-2.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f135299c-bf69-11ed-9521-02420a000152.webp",
                 "width": 320
             },
             {
-                "caption": "Customization options",
+                "caption": "Stage 3",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16076372-mr-doo-acorn-32-bit-customization-options.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ea209988-bf6a-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16073029-mr-doo-acorn-32-bit-stage-3.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ef46f9c6-bf69-11ed-9521-02420a000152.webp",
+                "width": 320
+            },
+            {
+                "caption": "A level with both sliders and bombs",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16076267-mr-doo-acorn-32-bit-a-level-with-both-sliders-and-bombs.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e487fd86-bf6a-11ed-9521-02420a000152.webp",
+                "width": 320
+            },
+            {
+                "caption": "Getting killed",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/16072375-mr-doo-acorn-32-bit-getting-killed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c8826b36-bf69-11ed-9521-02420a000152.webp",
                 "width": 320
             },
             {
@@ -3265,20 +3295,6 @@
                 "height": 256,
                 "image_url": "https://cdn.mobygames.com/screenshots/16072570-mr-doo-acorn-32-bit-stage-4.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/d2b8e85a-bf69-11ed-9521-02420a000152.webp",
-                "width": 320
-            },
-            {
-                "caption": "Editor",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16076384-mr-doo-acorn-32-bit-editor.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/eb032a64-bf6a-11ed-9521-02420a000152.webp",
-                "width": 320
-            },
-            {
-                "caption": "Stage 2",
-                "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16073059-mr-doo-acorn-32-bit-stage-2.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f135299c-bf69-11ed-9521-02420a000152.webp",
                 "width": 320
             }
         ],
@@ -3368,38 +3384,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "In the book tower",
+                "caption": "Game over",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16251764-talisman-acorn-32-bit-in-the-book-tower.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0f1e0dbc-c1df-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16251767-talisman-acorn-32-bit-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0f325db2-c1df-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
-                "caption": "Encounter with a scary skull",
+                "caption": "Starting out",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16252181-talisman-acorn-32-bit-encounter-with-a-scary-skull.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2a7267e8-c1df-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16251746-talisman-acorn-32-bit-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0e7e3c4c-c1df-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
-                "caption": "A very large ant",
+                "caption": "A broken bridge - don't jump into the water",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16251752-talisman-acorn-32-bit-a-very-large-ant.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0eb3ef9a-c1df-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16251995-talisman-acorn-32-bit-a-broken-bridge-dont-jump-into-the-water.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/200aa310-c1df-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
-                "caption": "Encountering the vicious bubbles",
+                "caption": "Ghosts",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16251977-talisman-acorn-32-bit-encountering-the-vicious-bubbles.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1eb363a8-c1df-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16251755-talisman-acorn-32-bit-ghosts.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0ecdae94-c1df-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
-                "caption": "A bee in the woods",
+                "caption": "Tutorial - story",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/16251749-talisman-acorn-32-bit-a-bee-in-the-woods.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0e98887c-c1df-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16251974-talisman-acorn-32-bit-tutorial-story.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1e987246-c1df-11ed-ab6b-02420a000194.webp",
                 "width": 320
             }
         ],
@@ -3471,10 +3487,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Running the demo mode",
+                "caption": "Going off road",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16411598-chequered-flag-acorn-32-bit-running-the-demo-mode.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/53bf5cd0-c213-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16411466-chequered-flag-acorn-32-bit-going-off-road.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/460098b6-c213-11ed-ab6b-02420a000194.webp",
                 "width": 640
             },
             {
@@ -3485,24 +3501,24 @@
                 "width": 640
             },
             {
-                "caption": "Going off road",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16411466-chequered-flag-acorn-32-bit-going-off-road.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/460098b6-c213-11ed-ab6b-02420a000194.webp",
-                "width": 640
-            },
-            {
-                "caption": "Crashing into a sign",
-                "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/16411589-chequered-flag-acorn-32-bit-crashing-into-a-sign.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/51690062-c213-11ed-ab6b-02420a000194.webp",
-                "width": 640
-            },
-            {
                 "caption": "Start of a race",
                 "height": 512,
                 "image_url": "https://cdn.mobygames.com/screenshots/16411448-chequered-flag-acorn-32-bit-start-of-a-race.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/44fe8dd8-c213-11ed-ab6b-02420a000194.webp",
+                "width": 640
+            },
+            {
+                "caption": "Running the demo mode",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/16411598-chequered-flag-acorn-32-bit-running-the-demo-mode.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/53bf5cd0-c213-11ed-ab6b-02420a000194.webp",
+                "width": 640
+            },
+            {
+                "caption": "Title screen",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/16411463-chequered-flag-acorn-32-bit-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/45dc2224-c213-11ed-ab6b-02420a000194.webp",
                 "width": 640
             }
         ],
@@ -3586,8 +3602,24 @@
                 "1994"
             ]
         ],
-        "sample_cover": null,
-        "sample_screenshots": [],
+        "sample_cover": {
+            "height": 256,
+            "image_url": "https://cdn.mobygames.com/screenshots/18748009-serpents-acorn-32-bit-title-screen.png",
+            "platforms": [
+                "Acorn 32-bit"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/ccaf17e6-2443-11ef-aacc-02420a00019c.webp",
+            "width": 320
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Title screen",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/18748009-serpents-acorn-32-bit-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ccaf17e6-2443-11ef-aacc-02420a00019c.webp",
+                "width": 320
+            }
+        ],
         "title": "Serpents"
     },
     {
@@ -3706,38 +3738,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "James Pond: Underwater Agent loading screen.",
+                "caption": "Mission briefing, part 2.",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/12514266-james-pond-underwater-agent-and-running-water-acorn-32-bit-james.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b64c7a48-ac21-11ed-bbce-02420a000133.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/12513078-james-pond-underwater-agent-and-running-water-acorn-32-bit-missi.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b53b8db0-ac21-11ed-9fde-02420a000132.webp",
                 "width": 640
             },
             {
-                "caption": "Do you know where you're going?",
+                "caption": "Let's start by finding our friend.",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/12514239-james-pond-underwater-agent-and-running-water-acorn-32-bit-do-yo.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b2a23464-ac21-11ed-bbce-02420a000133.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/12514233-james-pond-underwater-agent-and-running-water-acorn-32-bit-lets-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b0fddde8-ac21-11ed-bbce-02420a000133.webp",
                 "width": 640
             },
             {
-                "caption": "Takin' it slow.",
-                "height": 500,
-                "image_url": "https://cdn.mobygames.com/screenshots/12513087-james-pond-underwater-agent-and-running-water-acorn-32-bit-takin.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b60a1c8e-ac21-11ed-9fde-02420a000132.webp",
+                "caption": "The main menu.",
+                "height": 512,
+                "image_url": "https://cdn.mobygames.com/screenshots/12513081-james-pond-underwater-agent-and-running-water-acorn-32-bit-the-m.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b58d740e-ac21-11ed-9fde-02420a000132.webp",
                 "width": 640
             },
             {
-                "caption": "Didn't make it! Mission failed!!",
+                "caption": "Following each multiple choice session, your total score is displayed.",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/12514236-james-pond-underwater-agent-and-running-water-acorn-32-bit-didnt.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b1d3806a-ac21-11ed-bbce-02420a000133.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/12520242-james-pond-underwater-agent-and-running-water-acorn-32-bit-follo.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/be13eee6-ac21-11ed-833b-02420a000131.webp",
                 "width": 640
             },
             {
-                "caption": "Use Pumpshaft.",
+                "caption": "Running Water mission overview.",
                 "height": 512,
-                "image_url": "https://cdn.mobygames.com/screenshots/12514263-james-pond-underwater-agent-and-running-water-acorn-32-bit-use-p.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b5e71496-ac21-11ed-bbce-02420a000133.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/12514254-james-pond-underwater-agent-and-running-water-acorn-32-bit-runni.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b4dfd2ea-ac21-11ed-bbce-02420a000133.webp",
                 "width": 640
             }
         ],
@@ -5773,6 +5805,92 @@
     },
     {
         "alternate_titles": [],
+        "description": "<p><i>Battle Tank</i> is quite simple action game with top-down view in which you drive a tank and shoot at foes' tanks. Apart from that you need to activate automatic defences by firing at them from short distance.</p>\n<p>On the initial screen you may select from:<br>\n\u2605 P - Play<br>\n\u2605 I - Info<br>\n\u2605 K - Keys<br><br>\nAnd after selecting Play you may choose the difficulty level from 1 to 3. To acomplish all your missions you have 4 lives. Sometimes your path will be blocked by wrecks of destroyed tanks - do not worry, just wait. They will disappear after some time.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 80,
+                "name": "Tank"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 200,
+                "name": "Contemporary"
+            }
+        ],
+        "id": 216657,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/216657/battle-tank/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 117,
+                    "name": "Acorn 32-bit"
+                },
+                "1990"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Battle Tank"
+    },
+    {
+        "alternate_titles": [],
         "description": "<p><i>Blitz</i> is simple, but chellenging arcade game. It is one or two players game. Your character's goal is to shoot all bouncing around balls which splits into smaller balls. You shoot at them with some kind of harpoon. As this weapon needs some time to recharge you cannot shoot again till it leaves the play area or hit a ball.</p>\n<p>You must avoid the bouncing balls, otherwise you will lose one of three lives that you have. From time to time shooted down balls drop some useful items that provide you extra points or upgrades, such as a time-limited shield. Each level has a timer, so shoot quickly, but precisely.</p>",
         "genres": [
             {
@@ -5847,6 +5965,101 @@
         "sample_cover": null,
         "sample_screenshots": [],
         "title": "Blitz"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><i>Blowpipe</i> is a horizontally scrolling shooter game where you steer some kind of spaceship and you must get through the waves of attacking or charging at you enemies.</p>\n<p>It is a regular scrolling arcade shooter game. Your opponents perform certain maneuvers and shoot at you from time to time, so you have to avoid them. You may collect upgrades, such as shields, that are dropped by destroyed enemies. At the bottom of the screen is an energy bar and information about upgrades and the number of the lives. The score is displayed in upper part of the screen .</p>\n<p>On the initial screen you may select a keyboard or joystick, redefine keys, turn music or sound on/off.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 159,
+                "name": "Vehicular combat"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 217169,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/217169/blowpipe/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 117,
+                    "name": "Acorn 32-bit"
+                },
+                "1991"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Blowpipe"
     },
     {
         "alternate_titles": [],
@@ -6087,5 +6300,230 @@
         "sample_cover": null,
         "sample_screenshots": [],
         "title": "Rise in Crime: The Saga of a Scoundrel"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Cobalt Seed</em> is a 3D shooter where you fly a futuristic plane. The aim of the game is simple. You must fly\nthrough five worlds to reach your goal, which is the Cobalt Seed.</p><p></p>\n<p>Waves of enemy fighters and ground vehicles and instalations will try to stop you from reaching your goal. You must avoid buildings and other obstacles as well. You have only one life thus you need to really watch out on your shiled's energy bar. You can recharge your shield by reaching the vital circle.</p>\n<p>You can enhance you firepower by collecting special items. So you can improve your laser gun and strengthen the range of your bombs.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 128,
+                "name": "Behind view"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 159,
+                "name": "Vehicular combat"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 223827,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/223827/cobalt-seed/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 117,
+                    "name": "Acorn 32-bit"
+                },
+                "1995"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Cobalt Seed"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p>It is the year 2064 and the earth is under attack from a race of alien droids. You must pilot the \"Blue Thunder\", the most advanced craft on Earth.</p>\n<p><i>Blue Thunder</i> is a vertically scrolling shooter released for the Acorn Archimedes family of home computers. You are given an energy meter (which can be replenished by collecting floating 'E' icons) and three lives. Collecting 'L' icons upgrades the default laser weapon. There are floating weapon pods that once collected, will attach themselves to the sides of your ship and can be detached to widen your firing spread. A front shield can be collected from level 3 onwards. Enemies are ground and air-based and follow fixed patterns. There is a boss battle at the end of each of the 5 stages.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 15,
+                "name": "Real-time"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 227094,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/227094/blue-thunder/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 117,
+                    "name": "Acorn 32-bit"
+                },
+                "1996"
+            ]
+        ],
+        "sample_cover": {
+            "height": 256,
+            "image_url": "https://cdn.mobygames.com/screenshots/18846995-blue-thunder-acorn-32-bit-title-screen.png",
+            "platforms": [
+                "Acorn 32-bit"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/1518021a-3653-11ef-9000-02420a00012b.webp",
+            "width": 320
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Title screen.",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/18846995-blue-thunder-acorn-32-bit-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1518021a-3653-11ef-9000-02420a00012b.webp",
+                "width": 320
+            },
+            {
+                "caption": "Fighting ground turrets and airships in formation.",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/18847019-blue-thunder-acorn-32-bit-fighting-ground-turrets-and-airships-i.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2dec0786-3654-11ef-a489-02420a00012b.webp",
+                "width": 320
+            },
+            {
+                "caption": "Level 2 (Mars) start.",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/18847027-blue-thunder-acorn-32-bit-level-2-mars-start.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4f52c6ee-3654-11ef-8f2e-02420a00012c.webp",
+                "width": 320
+            },
+            {
+                "caption": "Level 1 boss.",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/18847023-blue-thunder-acorn-32-bit-level-1-boss.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/426cab2a-3654-11ef-a9e1-02420a000129.webp",
+                "width": 320
+            },
+            {
+                "caption": "Collected to detachable side cannon.",
+                "height": 256,
+                "image_url": "https://cdn.mobygames.com/screenshots/18847015-blue-thunder-acorn-32-bit-collected-to-detachable-side-cannon.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0b865a70-3654-11ef-9f35-02420a00012a.webp",
+                "width": 320
+            }
+        ],
+        "title": "Blue Thunder"
     }
 ]

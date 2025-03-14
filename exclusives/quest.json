@@ -1859,7 +1859,7 @@
             }
         ],
         "id": 175900,
-        "moby_score": null,
+        "moby_score": 7.7,
         "moby_url": "https://www.mobygames.com/game/175900/resident-evil-4/",
         "num_votes": 0,
         "official_url": "https://www.oculus.com/resident-evil-4/",
@@ -2457,15 +2457,15 @@
             {
                 "caption": null,
                 "height": 562,
-                "image_url": "https://cdn.mobygames.com/screenshots/15576925-slimeball-quest-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/95d269a4-bacb-11ed-9989-02420a00012e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15576935-slimeball-quest-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9899d488-bacb-11ed-a618-02420a000134.webp",
                 "width": 1000
             },
             {
                 "caption": null,
                 "height": 562,
-                "image_url": "https://cdn.mobygames.com/screenshots/15576935-slimeball-quest-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9899d488-bacb-11ed-a618-02420a000134.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15576925-slimeball-quest-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/95d269a4-bacb-11ed-9989-02420a00012e.webp",
                 "width": 1000
             },
             {
@@ -3102,82 +3102,6 @@
                     "name": "Basic Genres"
                 },
                 "description": null,
-                "id": 1,
-                "name": "Action"
-            },
-            {
-                "category": {
-                    "id": 2,
-                    "name": "Perspective"
-                },
-                "description": null,
-                "id": 7,
-                "name": "1st-person"
-            },
-            {
-                "category": {
-                    "id": 7,
-                    "name": "Interface/Control"
-                },
-                "description": null,
-                "id": 168,
-                "name": "Direct control"
-            },
-            {
-                "category": {
-                    "id": 7,
-                    "name": "Interface/Control"
-                },
-                "description": null,
-                "id": 169,
-                "name": "Motion control"
-            },
-            {
-                "category": {
-                    "id": 10,
-                    "name": "Setting"
-                },
-                "description": null,
-                "id": 8,
-                "name": "Sci-fi / futuristic"
-            }
-        ],
-        "id": 205850,
-        "moby_score": null,
-        "moby_url": "https://www.mobygames.com/game/205850/swarm/",
-        "num_votes": 0,
-        "official_url": null,
-        "platforms": [
-            [
-                {
-                    "id": 271,
-                    "name": "Quest"
-                },
-                "2021-04-08"
-            ]
-        ],
-        "sample_cover": {
-            "height": 360,
-            "image_url": "https://cdn.mobygames.com/covers/17473876-swarm-quest-front-cover.jpg",
-            "platforms": [
-                "Quest"
-            ],
-            "thumbnail_image_url": "https://cdn.mobygames.com/84cbc71a-31e8-11ee-bb2a-02420a0001ef.webp",
-            "width": 1200
-        },
-        "sample_screenshots": [],
-        "title": "Swarm"
-    },
-    {
-        "alternate_titles": [],
-        "description": null,
-        "genres": [
-            {
-                "category": {
-                    "id": 1,
-                    "name": "Basic Genres"
-                },
-                "description": null,
                 "id": 3,
                 "name": "Simulation"
             },
@@ -3645,7 +3569,7 @@
             }
         ],
         "id": 212188,
-        "moby_score": 7.4,
+        "moby_score": 7.9,
         "moby_url": "https://www.mobygames.com/game/212188/assassins-creed-nexus-vr/",
         "num_votes": 1,
         "official_url": null,
@@ -3909,7 +3833,7 @@
             }
         ],
         "id": 213969,
-        "moby_score": 8.3,
+        "moby_score": 8.4,
         "moby_url": "https://www.mobygames.com/game/213969/asgards-wrath-ii/",
         "num_votes": 0,
         "official_url": null,
@@ -4299,109 +4223,6 @@
             },
             {
                 "category": {
-                    "id": 12,
-                    "name": "Visual Presentation"
-                },
-                "description": null,
-                "id": 134,
-                "name": "Free camera"
-            },
-            {
-                "category": {
-                    "id": 4,
-                    "name": "Gameplay"
-                },
-                "description": null,
-                "id": 225,
-                "name": "Real-time strategy (RTS)"
-            },
-            {
-                "category": {
-                    "id": 7,
-                    "name": "Interface/Control"
-                },
-                "description": null,
-                "id": 168,
-                "name": "Direct control"
-            },
-            {
-                "category": {
-                    "id": 7,
-                    "name": "Interface/Control"
-                },
-                "description": null,
-                "id": 169,
-                "name": "Motion control"
-            },
-            {
-                "category": {
-                    "id": 11,
-                    "name": "Vehicular Themes"
-                },
-                "description": null,
-                "id": 151,
-                "name": "Space flight"
-            },
-            {
-                "category": {
-                    "id": 10,
-                    "name": "Setting"
-                },
-                "description": null,
-                "id": 8,
-                "name": "Sci-fi / futuristic"
-            }
-        ],
-        "id": 223282,
-        "moby_score": null,
-        "moby_url": "https://www.mobygames.com/game/223282/homeworld-vast-reaches/",
-        "num_votes": 0,
-        "official_url": "https://homeworldvastreaches.com/",
-        "platforms": [
-            [
-                {
-                    "id": 271,
-                    "name": "Quest"
-                },
-                "2024-05-02"
-            ]
-        ],
-        "sample_cover": {
-            "height": 405,
-            "image_url": "https://cdn.mobygames.com/covers/18608561-homeworld-vast-reaches-quest-front-cover.jpg",
-            "platforms": [
-                "Quest"
-            ],
-            "thumbnail_image_url": "https://cdn.mobygames.com/881ab622-0999-11ef-9ddc-02420a00013e.webp",
-            "width": 720
-        },
-        "sample_screenshots": [],
-        "title": "Homeworld: Vast Reaches"
-    },
-    {
-        "alternate_titles": [],
-        "description": null,
-        "genres": [
-            {
-                "category": {
-                    "id": 1,
-                    "name": "Basic Genres"
-                },
-                "description": null,
-                "id": 4,
-                "name": "Strategy / tactics"
-            },
-            {
-                "category": {
-                    "id": 2,
-                    "name": "Perspective"
-                },
-                "description": null,
-                "id": 7,
-                "name": "1st-person"
-            },
-            {
-                "category": {
                     "id": 9,
                     "name": "Pacing"
                 },
@@ -4432,7 +4253,7 @@
         "moby_score": null,
         "moby_url": "https://www.mobygames.com/game/223307/homeworld-vast-reaches/",
         "num_votes": 0,
-        "official_url": null,
+        "official_url": "https://homeworldvastreaches.com/",
         "platforms": [
             [
                 {
@@ -4442,7 +4263,15 @@
                 "2024-05-02"
             ]
         ],
-        "sample_cover": null,
+        "sample_cover": {
+            "height": 405,
+            "image_url": "https://cdn.mobygames.com/covers/18608561-homeworld-vast-reaches-quest-front-cover.jpg",
+            "platforms": [
+                "Quest"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/881ab622-0999-11ef-9ddc-02420a00013e.webp",
+            "width": 720
+        },
         "sample_screenshots": [],
         "title": "Homeworld: Vast Reaches"
     },
@@ -4598,5 +4427,827 @@
         "sample_cover": null,
         "sample_screenshots": [],
         "title": "Stranger Things VR"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 48,
+                "name": "Fighting"
+            }
+        ],
+        "id": 226889,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/226889/outta-hand/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 271,
+                    "name": "Quest"
+                },
+                "2023-09-28"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Outta Hand"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            }
+        ],
+        "id": 226892,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/226892/bam/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 271,
+                    "name": "Quest"
+                },
+                "2023-10-10"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Bam"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 83,
+                "name": "Horror"
+            }
+        ],
+        "id": 226920,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/226920/drop-dead-the-cabin/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 271,
+                    "name": "Quest"
+                },
+                "2023-02-16"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Drop Dead: The Cabin"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            }
+        ],
+        "id": 226923,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/226923/sniper-elite-vr-winter-warrior/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 271,
+                    "name": "Quest"
+                },
+                "2023-11-30"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Sniper Elite VR: Winter Warrior"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 35,
+                "name": "Golf"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 120,
+                "name": "Comedy"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 226927,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/226927/wallace-gromit-in-the-grand-getaway/",
+        "num_votes": 0,
+        "official_url": "https://wallacegromitvr.com/",
+        "platforms": [
+            [
+                {
+                    "id": 271,
+                    "name": "Quest"
+                },
+                "2023-12-07"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Wallace & Gromit in The Grand Getaway"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 169,
+                "name": "Motion control"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 83,
+                "name": "Horror"
+            }
+        ],
+        "id": 228470,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/228470/nope-challenge/",
+        "num_votes": 0,
+        "official_url": "https://www.nopechallenge.com/",
+        "platforms": [
+            [
+                {
+                    "id": 271,
+                    "name": "Quest"
+                },
+                "2024-04-25"
+            ]
+        ],
+        "sample_cover": {
+            "height": 512,
+            "image_url": "https://cdn.mobygames.com/covers/18954961-nope-challenge-quest-front-cover.jpg",
+            "platforms": [
+                "Quest"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/829a152a-4d92-11ef-a4f4-02420a000152.webp",
+            "width": 512
+        },
+        "sample_screenshots": [],
+        "title": "Nope Challenge"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 117,
+                "name": "Beat 'em up / brawler"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            }
+        ],
+        "id": 229675,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/229675/masters-of-light/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 271,
+                    "name": "Quest"
+                },
+                "2024-05-16"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Masters of Light"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 22,
+                "name": "Shooter"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 169,
+                "name": "Motion control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 200,
+                "name": "Contemporary"
+            }
+        ],
+        "id": 230494,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/230494/zero-caliber-2/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 271,
+                    "name": "Quest"
+                },
+                "2024-08-01"
+            ]
+        ],
+        "sample_cover": {
+            "height": 360,
+            "image_url": "https://cdn.mobygames.com/covers/19131787-zero-caliber-2-quest-front-cover.png",
+            "platforms": [
+                "Quest"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/3c6f8bea-7216-11ef-99c3-02420a000121.webp",
+            "width": 360
+        },
+        "sample_screenshots": [],
+        "title": "Zero Caliber 2"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 13,
+                    "name": "Art Style"
+                },
+                "description": null,
+                "id": 57,
+                "name": "Anime / Manga"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 68,
+                "name": "Hack and slash"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 169,
+                "name": "Motion control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 230495,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/230495/attack-on-titan-vr-unbreakable/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 271,
+                    "name": "Quest"
+                },
+                "2024-07-23"
+            ]
+        ],
+        "sample_cover": {
+            "height": 360,
+            "image_url": "https://cdn.mobygames.com/covers/19131783-attack-on-titan-vr-unbreakable-quest-front-cover.png",
+            "platforms": [
+                "Quest"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/f92a04dc-7215-11ef-8b0a-02420a00011d.webp",
+            "width": 360
+        },
+        "sample_screenshots": [],
+        "title": "Attack on Titan VR: Unbreakable"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 126,
+                "name": "3rd-person (Other)"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 97,
+                "name": "Music / rhythm"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 169,
+                "name": "Motion control"
+            }
+        ],
+        "id": 231979,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/231979/just-dance-vr-welcome-to-dancity/",
+        "num_votes": 0,
+        "official_url": "https://www.ubisoft.com/en-us/game/just-dance/vr",
+        "platforms": [
+            [
+                {
+                    "id": 271,
+                    "name": "Quest"
+                },
+                "2024-10-15"
+            ]
+        ],
+        "sample_cover": {
+            "height": 405,
+            "image_url": "https://cdn.mobygames.com/covers/19248054-just-dance-vr-welcome-to-dancity-quest-front-cover.jpg",
+            "platforms": [
+                "Quest"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/bac9b0ba-8b57-11ef-97c5-02420a00012b.webp",
+            "width": 720
+        },
+        "sample_screenshots": [],
+        "title": "Just Dance VR: Welcome to Dancity"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Batman: Arkham Shadow</em> is a VR game set in the <a href=\"https://www.mobygames.com/group/9940/batman-arkham-series/\">Arkhamverse</a>. It takes place between <em><a href=\"https://www.mobygames.com/game/62797/batman-arkham-origins/\">Arkham Origins</a></em> and <em><a href=\"https://www.mobygames.com/game/42258/batman-arkham-asylum/\">Arkham Asylum</a></em> and follows Batman as he tries to stop the villain Rat King and his gang from destroying Gotham on the Fourth of July. It was a pack-in title for the Meta Quest 3 and 3S models on their launch, until April 30, 2025.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 117,
+                "name": "Beat 'em up / brawler"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 99,
+                "name": "Stealth"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 169,
+                "name": "Motion control"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 200,
+                "name": "Contemporary"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 207,
+                "name": "North America"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 55,
+                "name": "Detective / mystery"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 232545,
+        "moby_score": 8.2,
+        "moby_url": "https://www.mobygames.com/game/232545/batman-arkham-shadow/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 271,
+                    "name": "Quest"
+                },
+                "2024-10-21"
+            ]
+        ],
+        "sample_cover": {
+            "height": 675,
+            "image_url": "https://cdn.mobygames.com/promos/19302882-batman-arkham-shadow-screenshot.jpg",
+            "platforms": [],
+            "thumbnail_image_url": "https://cdn.mobygames.com/f6ec880c-94b1-11ef-a161-02420a00013f.webp",
+            "width": 1200
+        },
+        "sample_screenshots": [],
+        "title": "Batman: Arkham Shadow"
     }
 ]

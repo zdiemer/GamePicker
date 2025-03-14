@@ -374,5 +374,223 @@
         "sample_cover": null,
         "sample_screenshots": [],
         "title": "Capablanca S Edition: Master Chess Endings"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Odin Edition: Master Reversi</em> allows players to play Othello (also known as Reversi) on the Modular Game System chess computer. The AI plays at eight different skill levels and verifies the moves made by the player. The game cartridge comes with playing pieces to place on the board. A tournament timer is also available.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            }
+        ],
+        "id": 232267,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/232267/odin-edition-master-reversi/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 331,
+                    "name": "Modular Game System"
+                },
+                "1981"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Odin Edition: Master Reversi"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "Advertisement title",
+                "title": "Borchek Edition: Master Checkers"
+            }
+        ],
+        "description": "<p><em>Borchek: Championship Checkers</em> is a checkers program. It features a full set of magnetic checkers pieces to play on the chess board. The AI has seven different skill levels to play against, and also supports handicapping and starting with different board setups.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 26,
+                "name": "Board game"
+            }
+        ],
+        "id": 232297,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/232297/borchek-championship-checkers/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 331,
+                    "name": "Modular Game System"
+                },
+                "1981"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Borchek: Championship Checkers"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Las Vegas 21</em> is a blackjack game. One or two players play against the bank. The game deals cards to the players, who must decide when to stop while trying to get a value as close as possible to 21 without going over. The game can be played with up to four decks of cards.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 28,
+                "name": "Gambling"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 106,
+                "name": "Turn-based"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 27,
+                "name": "Cards / tiles"
+            }
+        ],
+        "id": 232299,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/232299/las-vegas-21/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 331,
+                    "name": "Modular Game System"
+                },
+                "1980-12"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Las Vegas 21"
     }
 ]

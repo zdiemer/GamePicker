@@ -74,24 +74,31 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title screen",
+                "caption": "Killed by a tiny fish",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16528082-treasure-cove-bally-astrocade-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ca224b8c-c234-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16557512-treasure-cove-bally-astrocade-killed-by-a-tiny-fish.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/502e05be-c23e-11ed-ab6b-02420a000194.webp",
                 "width": 352
             },
             {
-                "caption": "No. of players selection",
+                "caption": "Another level - now with sea horses",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16558079-treasure-cove-bally-astrocade-no-of-players-selection.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7726ee92-c23e-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16557503-treasure-cove-bally-astrocade-another-level-now-with-sea-horses.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4f0d0266-c23e-11ed-ab6b-02420a000194.webp",
                 "width": 352
             },
             {
-                "caption": "Starting out in the boat",
+                "caption": "Diving into the water",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16557518-treasure-cove-bally-astrocade-starting-out-in-the-boat.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5060209e-c23e-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16557515-treasure-cove-bally-astrocade-diving-into-the-water.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5048b26a-c23e-11ed-ab6b-02420a000194.webp",
+                "width": 352
+            },
+            {
+                "caption": "Game over",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16557500-treasure-cove-bally-astrocade-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4ef52114-c23e-11ed-ab6b-02420a000194.webp",
                 "width": 352
             },
             {
@@ -99,13 +106,6 @@
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16557506-treasure-cove-bally-astrocade-getting-a-score-after-completing-a.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/4f236a7e-c23e-11ed-ab6b-02420a000194.webp",
-                "width": 352
-            },
-            {
-                "caption": "Killed by a tiny fish",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16557512-treasure-cove-bally-astrocade-killed-by-a-tiny-fish.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/502e05be-c23e-11ed-ab6b-02420a000194.webp",
                 "width": 352
             }
         ],
@@ -195,24 +195,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Level cleared",
+                "caption": "Player ship exploding",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16578106-solar-conqueror-bally-astrocade-level-cleared.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9999bb88-c245-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16578097-solar-conqueror-bally-astrocade-player-ship-exploding.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9890dfbe-c245-11ed-ab6b-02420a000194.webp",
                 "width": 352
             },
             {
-                "caption": "First system has two planets, later ones have four",
+                "caption": "Entering a solar system",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16578025-solar-conqueror-bally-astrocade-first-system-has-two-planets-lat.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/936b86f6-c245-11ed-ab6b-02420a000194.webp",
-                "width": 352
-            },
-            {
-                "caption": "Trying to kill them off",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16578016-solar-conqueror-bally-astrocade-trying-to-kill-them-off.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9326e23a-c245-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16578028-solar-conqueror-bally-astrocade-entering-a-solar-system.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/93870408-c245-11ed-ab6b-02420a000194.webp",
                 "width": 352
             },
             {
@@ -223,10 +216,17 @@
                 "width": 352
             },
             {
-                "caption": "Entering a solar system",
+                "caption": "First system has two planets, later ones have four",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16578028-solar-conqueror-bally-astrocade-entering-a-solar-system.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/93870408-c245-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16578025-solar-conqueror-bally-astrocade-first-system-has-two-planets-lat.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/936b86f6-c245-11ed-ab6b-02420a000194.webp",
+                "width": 352
+            },
+            {
+                "caption": "Next planet, the colour of it is only visible difference",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16578103-solar-conqueror-bally-astrocade-next-planet-the-colour-of-it-is-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/98bca18a-c245-11ed-ab6b-02420a000194.webp",
                 "width": 352
             }
         ],
@@ -325,6 +325,27 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Scores are shown after a player is killed",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16578809-star-battle-bally-astrocade-scores-are-shown-after-a-player-is-k.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c8094c86-c245-11ed-ab6b-02420a000194.webp",
+                "width": 352
+            },
+            {
+                "caption": "About to begin - numbers show who is who",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16578873-star-battle-bally-astrocade-about-to-begin-numbers-show-who-is-w.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cd2791fa-c245-11ed-ab6b-02420a000194.webp",
+                "width": 352
+            },
+            {
+                "caption": "Enemy projectiles can be stopped with a shot",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16578806-star-battle-bally-astrocade-enemy-projectiles-can-be-stopped-wit.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c7f0a2a8-c245-11ed-ab6b-02420a000194.webp",
+                "width": 352
+            },
+            {
                 "caption": "One or two players",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16578882-star-battle-bally-astrocade-one-or-two-players.png",
@@ -336,27 +357,6 @@
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16578879-star-battle-bally-astrocade-entering-max-score.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/cd55406e-c245-11ed-ab6b-02420a000194.webp",
-                "width": 352
-            },
-            {
-                "caption": "Game over - Player 1 wins",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16578876-star-battle-bally-astrocade-game-over-player-1-wins.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cd40422c-c245-11ed-ab6b-02420a000194.webp",
-                "width": 352
-            },
-            {
-                "caption": "Enemy destroyed",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16578812-star-battle-bally-astrocade-enemy-destroyed.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c81d2f08-c245-11ed-ab6b-02420a000194.webp",
-                "width": 352
-            },
-            {
-                "caption": "Scores are shown after a player is killed",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16578809-star-battle-bally-astrocade-scores-are-shown-after-a-player-is-k.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c8094c86-c245-11ed-ab6b-02420a000194.webp",
                 "width": 352
             }
         ],
@@ -464,27 +464,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Sea Wolf - starting out",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16578451-sea-wolf-missile-bally-astrocade-sea-wolf-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b065fe76-c245-11ed-ab6b-02420a000194.webp",
-                "width": 352
-            },
-            {
-                "caption": "Sea Wolf - reloading",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16579017-sea-wolf-missile-bally-astrocade-sea-wolf-reloading.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d7799e64-c245-11ed-ab6b-02420a000194.webp",
-                "width": 352
-            },
-            {
-                "caption": "Missile - Launching a missile",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16578445-sea-wolf-missile-bally-astrocade-missile-launching-a-missile.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b0356e82-c245-11ed-ab6b-02420a000194.webp",
-                "width": 352
-            },
-            {
                 "caption": "Sea Wolf - empty all shots to be sure of hitting",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16579014-sea-wolf-missile-bally-astrocade-sea-wolf-empty-all-shots-to-be-.png",
@@ -492,10 +471,31 @@
                 "width": 352
             },
             {
+                "caption": "Sea Wolf - shooting at a ship",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16578448-sea-wolf-missile-bally-astrocade-sea-wolf-shooting-at-a-ship.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b04ca188-c245-11ed-ab6b-02420a000194.webp",
+                "width": 352
+            },
+            {
+                "caption": "Sea Wolf - starting out",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16578451-sea-wolf-missile-bally-astrocade-sea-wolf-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b065fe76-c245-11ed-ab6b-02420a000194.webp",
+                "width": 352
+            },
+            {
                 "caption": "Missile - It's a hit",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16578442-sea-wolf-missile-bally-astrocade-missile-its-a-hit.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/b01ddcc2-c245-11ed-ab6b-02420a000194.webp",
+                "width": 352
+            },
+            {
+                "caption": "Missile - Launching a missile",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16578445-sea-wolf-missile-bally-astrocade-missile-launching-a-missile.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b0356e82-c245-11ed-ab6b-02420a000194.webp",
                 "width": 352
             }
         ],
@@ -594,17 +594,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Clowns - Starting out",
+                "caption": "Brickyard - hitting some bricks",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16578966-brickyard-clowns-bally-astrocade-clowns-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d41b7558-c245-11ed-ab6b-02420a000194.webp",
-                "width": 352
-            },
-            {
-                "caption": "Brickyard features four different difficulties",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15584279-brickyard-clowns-bally-astrocade-brickyard-features-four-differe.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/959d0f2c-bc68-11ed-a84f-02420a000167.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16578975-brickyard-clowns-bally-astrocade-brickyard-hitting-some-bricks.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d45c3f52-c245-11ed-ab6b-02420a000194.webp",
                 "width": 352
             },
             {
@@ -615,6 +608,13 @@
                 "width": 352
             },
             {
+                "caption": "Game over",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16578972-brickyard-clowns-bally-astrocade-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d4451c8c-c245-11ed-ab6b-02420a000194.webp",
+                "width": 352
+            },
+            {
                 "caption": "Brickyard - all bricks are then recreated",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16579008-brickyard-clowns-bally-astrocade-brickyard-all-bricks-are-then-r.png",
@@ -622,10 +622,10 @@
                 "width": 352
             },
             {
-                "caption": "Brickyard - hitting the final brick",
+                "caption": "Clowns - jump on the trampoline",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16579116-brickyard-clowns-bally-astrocade-brickyard-hitting-the-final-bri.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/dfba6cca-c245-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16578960-brickyard-clowns-bally-astrocade-clowns-jump-on-the-trampoline.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d3f0a3b4-c245-11ed-ab6b-02420a000194.webp",
                 "width": 352
             }
         ],
@@ -760,13 +760,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Red Baron - Enter game time",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16580627-red-baron-panzer-attack-bally-astrocade-red-baron-enter-game-tim.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/733a1fea-c246-11ed-ab6b-02420a000194.webp",
-                "width": 352
-            },
-            {
                 "caption": "Panzer Attack - Tank being destroyed",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16580609-red-baron-panzer-attack-bally-astrocade-panzer-attack-tank-being.png",
@@ -774,10 +767,10 @@
                 "width": 352
             },
             {
-                "caption": "Panzer Attack - Number of games",
+                "caption": "Red Baron - One player is in the air the other crashes into a barn",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16580615-red-baron-panzer-attack-bally-astrocade-panzer-attack-number-of-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/72e0407e-c246-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16580621-red-baron-panzer-attack-bally-astrocade-red-baron-one-player-is-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/730b2b40-c246-11ed-ab6b-02420a000194.webp",
                 "width": 352
             },
             {
@@ -792,6 +785,13 @@
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16580603-red-baron-panzer-attack-bally-astrocade-panzer-attack-game-over.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/727fed82-c246-11ed-ab6b-02420a000194.webp",
+                "width": 352
+            },
+            {
+                "caption": "Panzer Attack - Number of games",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16580615-red-baron-panzer-attack-bally-astrocade-panzer-attack-number-of-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/72e0407e-c246-11ed-ab6b-02420a000194.webp",
                 "width": 352
             }
         ],
@@ -877,10 +877,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Table 1",
+                "caption": "Game menu",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16585012-bally-pin-bally-astrocade-table-1.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f57036ec-c247-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16585660-bally-pin-bally-astrocade-game-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/38e85490-c248-11ed-ab6b-02420a000194.webp",
+                "width": 352
+            },
+            {
+                "caption": "Game over",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16585003-bally-pin-bally-astrocade-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f50bc5a4-c247-11ed-ab6b-02420a000194.webp",
+                "width": 352
+            },
+            {
+                "caption": "One bumper lit",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16585006-bally-pin-bally-astrocade-one-bumper-lit.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f5433282-c247-11ed-ab6b-02420a000194.webp",
                 "width": 352
             },
             {
@@ -895,20 +909,6 @@
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16585009-bally-pin-bally-astrocade-game-in-progress.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/f55af890-c247-11ed-ab6b-02420a000194.webp",
-                "width": 352
-            },
-            {
-                "caption": "One bumper lit",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16585006-bally-pin-bally-astrocade-one-bumper-lit.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f5433282-c247-11ed-ab6b-02420a000194.webp",
-                "width": 352
-            },
-            {
-                "caption": "Game over",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16585003-bally-pin-bally-astrocade-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f50bc5a4-c247-11ed-ab6b-02420a000194.webp",
                 "width": 352
             }
         ],
@@ -1007,6 +1007,20 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Amazing Maze - Game in progress",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16584994-amazing-maze-tic-tac-toe-bally-astrocade-amazing-maze-game-in-pr.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f4be2dee-c247-11ed-ab6b-02420a000194.webp",
+                "width": 352
+            },
+            {
+                "caption": "Tic-Tac-Toe - Game over",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16585051-amazing-maze-tic-tac-toe-bally-astrocade-tic-tac-toe-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f956c546-c247-11ed-ab6b-02420a000194.webp",
+                "width": 352
+            },
+            {
                 "caption": "Tic-Tac-Toe - Starting out",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16584982-amazing-maze-tic-tac-toe-bally-astrocade-tic-tac-toe-starting-ou.png",
@@ -1014,31 +1028,17 @@
                 "width": 352
             },
             {
-                "caption": "Amazing Maze - Maze being generated",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16585048-amazing-maze-tic-tac-toe-bally-astrocade-amazing-maze-maze-being.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f93ba374-c247-11ed-ab6b-02420a000194.webp",
-                "width": 352
-            },
-            {
-                "caption": "Tic-Tac-Toe - Blue wins",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16584973-amazing-maze-tic-tac-toe-bally-astrocade-tic-tac-toe-blue-wins.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f41c2e7c-c247-11ed-ab6b-02420a000194.webp",
-                "width": 352
-            },
-            {
-                "caption": "Amazing Maze - Game over",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16584988-amazing-maze-tic-tac-toe-bally-astrocade-amazing-maze-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f48e71f8-c247-11ed-ab6b-02420a000194.webp",
-                "width": 352
-            },
-            {
                 "caption": "Difficulty level",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16585000-amazing-maze-tic-tac-toe-bally-astrocade-difficulty-level.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/f4f4070c-c247-11ed-ab6b-02420a000194.webp",
+                "width": 352
+            },
+            {
+                "caption": "Amazing Maze - Maze being generated",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16585048-amazing-maze-tic-tac-toe-bally-astrocade-amazing-maze-maze-being.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f93ba374-c247-11ed-ab6b-02420a000194.webp",
                 "width": 352
             }
         ],
@@ -1110,20 +1110,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Throwing",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16585255-football-bally-astrocade-throwing.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0901e782-c248-11ed-ab6b-02420a000194.webp",
-                "width": 352
-            },
-            {
-                "caption": "Before the snap",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16585261-football-bally-astrocade-before-the-snap.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0a172916-c248-11ed-ab6b-02420a000194.webp",
-                "width": 352
-            },
-            {
                 "caption": "Play selection",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16585264-football-bally-astrocade-play-selection.png",
@@ -1131,10 +1117,24 @@
                 "width": 352
             },
             {
+                "caption": "Throwing",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16585255-football-bally-astrocade-throwing.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0901e782-c248-11ed-ab6b-02420a000194.webp",
+                "width": 352
+            },
+            {
                 "caption": "Scoreboard",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16585291-football-bally-astrocade-scoreboard.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/0fc890d4-c248-11ed-ab6b-02420a000194.webp",
+                "width": 352
+            },
+            {
+                "caption": "Before the snap",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16585261-football-bally-astrocade-before-the-snap.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0a172916-c248-11ed-ab6b-02420a000194.webp",
                 "width": 352
             },
             {
@@ -1222,10 +1222,31 @@
         },
         "sample_screenshots": [
             {
-                "caption": "An enemy is destroyed",
+                "caption": "Colliding with an enemy",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16585246-cosmic-raiders-bally-astrocade-an-enemy-is-destroyed.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/08b6bb40-c248-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16585231-cosmic-raiders-bally-astrocade-colliding-with-an-enemy.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0840da2e-c248-11ed-ab6b-02420a000194.webp",
+                "width": 352
+            },
+            {
+                "caption": "Entering sector 1",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16585378-cosmic-raiders-bally-astrocade-entering-sector-1.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1b1d5e2e-c248-11ed-ab6b-02420a000194.webp",
+                "width": 352
+            },
+            {
+                "caption": "Later levels introduce more enemy types",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16585228-cosmic-raiders-bally-astrocade-later-levels-introduce-more-enemy.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0827ab08-c248-11ed-ab6b-02420a000194.webp",
+                "width": 352
+            },
+            {
+                "caption": "About to begin",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16585375-cosmic-raiders-bally-astrocade-about-to-begin.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1b08f3a8-c248-11ed-ab6b-02420a000194.webp",
                 "width": 352
             },
             {
@@ -1233,27 +1254,6 @@
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16585372-cosmic-raiders-bally-astrocade-intensity-selection.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/1aed61e2-c248-11ed-ab6b-02420a000194.webp",
-                "width": 352
-            },
-            {
-                "caption": "Starting out",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16585294-cosmic-raiders-bally-astrocade-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0fdd8d54-c248-11ed-ab6b-02420a000194.webp",
-                "width": 352
-            },
-            {
-                "caption": "Getting a bonus",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16585234-cosmic-raiders-bally-astrocade-getting-a-bonus.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/08562e92-c248-11ed-ab6b-02420a000194.webp",
-                "width": 352
-            },
-            {
-                "caption": "Colliding with an enemy",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16585231-cosmic-raiders-bally-astrocade-colliding-with-an-enemy.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0840da2e-c248-11ed-ab6b-02420a000194.webp",
                 "width": 352
             }
         ],
@@ -1325,10 +1325,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "End of game (Grand Prix)",
+                "caption": "Starting out (Demolition Derby)",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16144248-grand-prix-demolition-derby-bally-astrocade-end-of-game-grand-pr.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/059a1f5e-bf7f-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16144236-grand-prix-demolition-derby-bally-astrocade-starting-out-demolit.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0541255c-bf7f-11ed-9521-02420a000152.webp",
+                "width": 352
+            },
+            {
+                "caption": "Four players (Grand Prix)",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16144260-grand-prix-demolition-derby-bally-astrocade-four-players-grand-p.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/06b7591a-bf7f-11ed-9521-02420a000152.webp",
                 "width": 352
             },
             {
@@ -1339,10 +1346,10 @@
                 "width": 352
             },
             {
-                "caption": "Track 2 (Grand Prix)",
+                "caption": "Track 3 (Grand Prix)",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16144245-grand-prix-demolition-derby-bally-astrocade-track-2-grand-prix.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/05840282-bf7f-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16144242-grand-prix-demolition-derby-bally-astrocade-track-3-grand-prix.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/056e320e-bf7f-11ed-9521-02420a000152.webp",
                 "width": 352
             },
             {
@@ -1350,13 +1357,6 @@
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16144254-grand-prix-demolition-derby-bally-astrocade-taking-a-corner-gran.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/05c5c76c-bf7f-11ed-9521-02420a000152.webp",
-                "width": 352
-            },
-            {
-                "caption": "Starting out (Grand Prix)",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16144257-grand-prix-demolition-derby-bally-astrocade-starting-out-grand-p.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/06a13ce8-bf7f-11ed-9521-02420a000152.webp",
                 "width": 352
             }
         ],
@@ -1446,13 +1446,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Only one city left",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15895784-icbm-attack-bally-astrocade-only-one-city-left.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b707f310-bf07-11ed-9c42-02420a000140.webp",
-                "width": 352
-            },
-            {
                 "caption": "Title screen",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/15895574-icbm-attack-bally-astrocade-title-screen.png",
@@ -1460,17 +1453,17 @@
                 "width": 352
             },
             {
-                "caption": "The enemy appears and drops a bomb",
+                "caption": "An outpost being destroyed",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15898455-icbm-attack-bally-astrocade-the-enemy-appears-and-drops-a-bomb.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/caabb036-bf08-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15895826-icbm-attack-bally-astrocade-an-outpost-being-destroyed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ba6c4c5e-bf07-11ed-9c42-02420a000140.webp",
                 "width": 352
             },
             {
-                "caption": "Stage 8",
+                "caption": "Stage 7",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15895976-icbm-attack-bally-astrocade-stage-8.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c4ea5cb6-bf07-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15895898-icbm-attack-bally-astrocade-stage-7.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bf60c5f0-bf07-11ed-9c42-02420a000140.webp",
                 "width": 352
             },
             {
@@ -1478,6 +1471,13 @@
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/15895772-icbm-attack-bally-astrocade-stage-4.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/b679d36e-bf07-11ed-9c42-02420a000140.webp",
+                "width": 352
+            },
+            {
+                "caption": "Stage 8",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15895976-icbm-attack-bally-astrocade-stage-8.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c4ea5cb6-bf07-11ed-9c42-02420a000140.webp",
                 "width": 352
             }
         ],

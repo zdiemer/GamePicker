@@ -20,12 +20,15 @@ from excel_filter import ExcelFilter
 
 
 class Percentile(Enum):
-    P25 = 0
-    MED = 1
-    P75 = 2
-    P90 = 3
-    P95 = 4
-    P99 = 5
+    P1 = 0
+    P5 = 1
+    P10 = 2
+    P25 = 3
+    MED = 4
+    P75 = 5
+    P90 = 6
+    P95 = 7
+    P99 = 8
 
 
 class DataProvider:
@@ -88,12 +91,15 @@ class DataProvider:
                     self._games_on_order,
                 ) = cache_data
 
-                p25, med, p75, p90, p95, p99 = np.percentile(
+                p1, p5, p10, p25, med, p75, p90, p95, p99 = np.percentile(
                     [g.combined_rating for g in self._games],
-                    [25, 50, 75, 90, 95, 99],
+                    [1, 5, 10, 25, 50, 75, 90, 95, 99],
                 )
 
                 self._percentiles = {
+                    Percentile.P1: p1,
+                    Percentile.P5: p5,
+                    Percentile.P10: p10,
                     Percentile.P25: p25,
                     Percentile.MED: med,
                     Percentile.P75: p75,
@@ -114,11 +120,14 @@ class DataProvider:
 
         self._games = self._loader.games
 
-        p25, med, p75, p90, p95, p99 = np.percentile(
-            [g.combined_rating for g in self._games], [25, 50, 75, 90, 95, 99]
+        p1, p5, p10, p25, med, p75, p90, p95, p99 = np.percentile(
+            [g.combined_rating for g in self._games], [1, 5, 10, 25, 50, 75, 90, 95, 99]
         )
 
         self._percentiles = {
+            Percentile.P1: p1,
+            Percentile.P5: p5,
+            Percentile.P10: p10,
             Percentile.P25: p25,
             Percentile.MED: med,
             Percentile.P75: p75,
@@ -203,6 +212,25 @@ class DataProvider:
 
     def get_percentile_ranking(self, percentile: Percentile) -> float:
         return self._percentiles[percentile]
+
+    def get_percentile_ranking_for_game(self, game: ExcelGame) -> Percentile:
+        if game.combined_rating <= self._percentiles[Percentile.P1]:
+            return Percentile.P1
+        if game.combined_rating <= self._percentiles[Percentile.P5]:
+            return Percentile.P5
+        if game.combined_rating <= self._percentiles[Percentile.P10]:
+            return Percentile.P10
+        if game.combined_rating <= self._percentiles[Percentile.P25]:
+            return Percentile.P25
+        if game.combined_rating <= self._percentiles[Percentile.MED]:
+            return Percentile.MED
+        if game.combined_rating <= self._percentiles[Percentile.P75]:
+            return Percentile.P75
+        if game.combined_rating <= self._percentiles[Percentile.P90]:
+            return Percentile.P90
+        if game.combined_rating <= self._percentiles[Percentile.P95]:
+            return Percentile.P95
+        return Percentile.P99
 
     @property
     def backloggd_client(self) -> BackloggdClient:

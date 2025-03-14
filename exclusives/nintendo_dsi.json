@@ -333,7 +333,7 @@
             }
         ],
         "id": 45459,
-        "moby_score": 6.8,
+        "moby_score": 6.7,
         "moby_url": "https://www.mobygames.com/game/45459/dr-mario-express/",
         "num_votes": 5,
         "official_url": null,
@@ -423,7 +423,7 @@
             }
         ],
         "id": 45481,
-        "moby_score": 7.9,
+        "moby_score": 7.8,
         "moby_url": "https://www.mobygames.com/game/45481/mario-vs-donkey-kong-minis-march-again/",
         "num_votes": 3,
         "official_url": null,
@@ -499,7 +499,7 @@
             }
         ],
         "id": 46927,
-        "moby_score": 6.8,
+        "moby_score": 6.7,
         "moby_url": "https://www.mobygames.com/game/46927/photo-dojo/",
         "num_votes": 4,
         "official_url": null,
@@ -1214,7 +1214,7 @@
             }
         ],
         "id": 47046,
-        "moby_score": 6.7,
+        "moby_score": 6.8,
         "moby_url": "https://www.mobygames.com/game/47046/art-style-aquia/",
         "num_votes": 1,
         "official_url": null,
@@ -1281,7 +1281,7 @@
             }
         ],
         "id": 47047,
-        "moby_score": 6.8,
+        "moby_score": 6.7,
         "moby_url": "https://www.mobygames.com/game/47047/bird-beans/",
         "num_votes": 2,
         "official_url": null,
@@ -1419,13 +1419,6 @@
                 "width": 256
             },
             {
-                "caption": "It kind of resembles Tetris.",
-                "height": 384,
-                "image_url": "https://cdn.mobygames.com/screenshots/15795608-art-style-pictobits-nintendo-dsi-it-kind-of-resembles-tetris.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5a9dde00-bee9-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
                 "caption": "Title screen.",
                 "height": 384,
                 "image_url": "https://cdn.mobygames.com/screenshots/15795596-art-style-pictobits-nintendo-dsi-title-screen.png",
@@ -1433,10 +1426,10 @@
                 "width": 256
             },
             {
-                "caption": "I assume we all know who this is, right?",
+                "caption": "It kind of resembles Tetris.",
                 "height": 384,
-                "image_url": "https://cdn.mobygames.com/screenshots/15795620-art-style-pictobits-nintendo-dsi-i-assume-we-all-know-who-this-i.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5b73ec20-bee9-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15795608-art-style-pictobits-nintendo-dsi-it-kind-of-resembles-tetris.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5a9dde00-bee9-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
@@ -1444,6 +1437,13 @@
                 "height": 384,
                 "image_url": "https://cdn.mobygames.com/screenshots/15795821-art-style-pictobits-nintendo-dsi-theyre-coming-down-fast-now.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/6c536160-bee9-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "I assume we all know who this is, right?",
+                "height": 384,
+                "image_url": "https://cdn.mobygames.com/screenshots/15795620-art-style-pictobits-nintendo-dsi-i-assume-we-all-know-who-this-i.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5b73ec20-bee9-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -1623,38 +1623,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Main Menu",
+                "caption": "The old man we meet in the pub...",
                 "height": 384,
-                "image_url": "https://cdn.mobygames.com/screenshots/16121280-elemental-masters-nintendo-dsi-main-menu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5db2154a-bf78-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16115979-elemental-masters-nintendo-dsi-the-old-man-we-meet-in-the-pub.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/03ecfecc-bf77-11ed-9521-02420a000152.webp",
                 "width": 256
             },
             {
-                "caption": "The end of the battle - the Siren is defeated!",
+                "caption": "The map of the current sector on the bottom and the complete world map on the top screen.",
                 "height": 384,
-                "image_url": "https://cdn.mobygames.com/screenshots/16121283-elemental-masters-nintendo-dsi-the-end-of-the-battle-the-siren-i.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5de29044-bf78-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16121625-elemental-masters-nintendo-dsi-the-map-of-the-current-sector-on-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7f714552-bf78-11ed-9521-02420a000152.webp",
                 "width": 256
             },
             {
-                "caption": "On the black market you can trade a stack of weaker cards for one stronger card.",
+                "caption": "We can pick and keep two of the cards from the Siren's deck.",
                 "height": 384,
-                "image_url": "https://cdn.mobygames.com/screenshots/16121292-elemental-masters-nintendo-dsi-on-the-black-market-you-can-trade.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5e8ed034-bf78-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16121265-elemental-masters-nintendo-dsi-we-can-pick-and-keep-two-of-the-c.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5c9917bc-bf78-11ed-9521-02420a000152.webp",
                 "width": 256
             },
             {
-                "caption": "Title Screen",
+                "caption": "Just one of many minor problems along the way.",
                 "height": 384,
-                "image_url": "https://cdn.mobygames.com/screenshots/16115970-elemental-masters-nintendo-dsi-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/022ca9e8-bf77-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16121622-elemental-masters-nintendo-dsi-just-one-of-many-minor-problems-a.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7f31bcc0-bf78-11ed-9521-02420a000152.webp",
                 "width": 256
             },
             {
-                "caption": "Even though most locations on the map are battle, we discover a nice place from time to time.",
+                "caption": "Intro Movie",
                 "height": 384,
-                "image_url": "https://cdn.mobygames.com/screenshots/16121271-elemental-masters-nintendo-dsi-even-though-most-locations-on-the.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5d1774ae-bf78-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16115964-elemental-masters-nintendo-dsi-intro-movie.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/01872dd8-bf77-11ed-9521-02420a000152.webp",
                 "width": 256
             }
         ],
@@ -1788,7 +1788,7 @@
             }
         ],
         "id": 48038,
-        "moby_score": null,
+        "moby_score": 7.4,
         "moby_url": "https://www.mobygames.com/game/48038/spotto/",
         "num_votes": 0,
         "official_url": null,
@@ -2588,7 +2588,12 @@
         "title": "AiRace: Tunnel"
     },
     {
-        "alternate_titles": [],
+        "alternate_titles": [
+            {
+                "description": "European title",
+                "title": "Art Style: KUBOS"
+            }
+        ],
         "description": "<p>In <em>Art Style: KUBOS</em>, the player must navigate an ever-hightening tower of cubes, turning each cube from grey to coloured by standing on them. The player has a limited stamina metre, when this runs out the player's avatar stops frequently to catch their breath, leaving him vulnerable to being crushed by falling cubes. Each completed floor or row of cubes replenishes the player's stamina. Cubes near the bottom of the tower will eventually be removed. The player can also push cubes around.</p>",
         "genres": [
             {
@@ -2611,7 +2616,7 @@
             }
         ],
         "id": 52312,
-        "moby_score": null,
+        "moby_score": 6.8,
         "moby_url": "https://www.mobygames.com/game/52312/art-style-precipice/",
         "num_votes": 3,
         "official_url": null,
@@ -2845,6 +2850,10 @@
     {
         "alternate_titles": [
             {
+                "description": "European title",
+                "title": "Art Style: Code"
+            },
+            {
                 "description": "Japanese title",
                 "title": "Art Style: Decode"
             }
@@ -2988,7 +2997,7 @@
             }
         ],
         "id": 56433,
-        "moby_score": 7.4,
+        "moby_score": 7.2,
         "moby_url": "https://www.mobygames.com/game/56433/art-style-boxlife/",
         "num_votes": 1,
         "official_url": null,
@@ -3477,17 +3486,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title screen.",
+                "caption": "You are forced to do a tutorial when you first play.",
                 "height": 384,
-                "image_url": "https://cdn.mobygames.com/screenshots/15795551-mighty-milky-way-nintendo-dsi-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/56896e88-bee9-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15795443-mighty-milky-way-nintendo-dsi-you-are-forced-to-do-a-tutorial-wh.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4c4ad36c-bee9-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "The first level.",
+                "caption": "Some controls for zooming and running speed.",
                 "height": 384,
-                "image_url": "https://cdn.mobygames.com/screenshots/15795476-mighty-milky-way-nintendo-dsi-the-first-level.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4f1d56d2-bee9-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15795953-mighty-milky-way-nintendo-dsi-some-controls-for-zooming-and-runn.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/74b2490c-bee9-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Made it.",
+                "height": 384,
+                "image_url": "https://cdn.mobygames.com/screenshots/15795500-mighty-milky-way-nintendo-dsi-made-it.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/50aa0b8a-bee9-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
@@ -3498,17 +3514,10 @@
                 "width": 256
             },
             {
-                "caption": "The main hub. you can visit various planets from here when you unlock them.",
+                "caption": "Title screen.",
                 "height": 384,
-                "image_url": "https://cdn.mobygames.com/screenshots/15795806-mighty-milky-way-nintendo-dsi-the-main-hub-you-can-visit-various.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6b00ba24-bee9-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "You are forced to do a tutorial when you first play.",
-                "height": 384,
-                "image_url": "https://cdn.mobygames.com/screenshots/15795443-mighty-milky-way-nintendo-dsi-you-are-forced-to-do-a-tutorial-wh.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4c4ad36c-bee9-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15795551-mighty-milky-way-nintendo-dsi-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/56896e88-bee9-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -3713,7 +3722,7 @@
         "moby_score": null,
         "moby_url": "https://www.mobygames.com/game/79613/korogashi-puzzle-katamari-damacy/",
         "num_votes": 0,
-        "official_url": "http://katamaridamacy.jp/puzzle/",
+        "official_url": "https://www.nintendo.co.jp/ds/dsiware/ktmj/index.html",
         "platforms": [
             [
                 {
@@ -4241,7 +4250,7 @@
         "id": 86823,
         "moby_score": null,
         "moby_url": "https://www.mobygames.com/game/86823/18th-gate/",
-        "num_votes": 1,
+        "num_votes": 3,
         "official_url": "http://www.cir-ent.com/",
         "platforms": [
             [
@@ -4263,118 +4272,6 @@
         },
         "sample_screenshots": [],
         "title": "18th Gate"
-    },
-    {
-        "alternate_titles": [],
-        "description": null,
-        "genres": [
-            {
-                "category": {
-                    "id": 1,
-                    "name": "Basic Genres"
-                },
-                "description": null,
-                "id": 4,
-                "name": "Strategy / tactics"
-            },
-            {
-                "category": {
-                    "id": 2,
-                    "name": "Perspective"
-                },
-                "description": null,
-                "id": 129,
-                "name": "Diagonal-down"
-            },
-            {
-                "category": {
-                    "id": 12,
-                    "name": "Visual Presentation"
-                },
-                "description": null,
-                "id": 133,
-                "name": "Fixed / flip-screen"
-            },
-            {
-                "category": {
-                    "id": 12,
-                    "name": "Visual Presentation"
-                },
-                "description": null,
-                "id": 25,
-                "name": "Isometric"
-            },
-            {
-                "category": {
-                    "id": 9,
-                    "name": "Pacing"
-                },
-                "description": null,
-                "id": 15,
-                "name": "Real-time"
-            },
-            {
-                "category": {
-                    "id": 4,
-                    "name": "Gameplay"
-                },
-                "description": null,
-                "id": 30,
-                "name": "Puzzle elements"
-            },
-            {
-                "category": {
-                    "id": 7,
-                    "name": "Interface/Control"
-                },
-                "description": null,
-                "id": 167,
-                "name": "Point and select"
-            },
-            {
-                "category": {
-                    "id": 11,
-                    "name": "Vehicular Themes"
-                },
-                "description": null,
-                "id": 19,
-                "name": "Flight / aviation"
-            },
-            {
-                "category": {
-                    "id": 10,
-                    "name": "Setting"
-                },
-                "description": null,
-                "id": 200,
-                "name": "Contemporary"
-            }
-        ],
-        "id": 86824,
-        "moby_score": null,
-        "moby_url": "https://www.mobygames.com/game/86824/1950s-lawn-mower-kids/",
-        "num_votes": 1,
-        "official_url": "http://www.zordix.com/1950slawnmowerkids",
-        "platforms": [
-            [
-                {
-                    "id": 87,
-                    "name": "Nintendo DSi"
-                },
-                "2011-09-01"
-            ]
-        ],
-        "sample_cover": {
-            "height": 148,
-            "image_url": "https://cdn.mobygames.com/covers/1739580-1950s-lawn-mower-kids-nintendo-dsi-front-cover.jpg",
-            "platforms": [
-                "Nintendo DSi"
-            ],
-            "thumbnail_image_url": "https://cdn.mobygames.com/d01a6d72-ab77-11ed-93d8-02420a000198.webp",
-            "width": 165
-        },
-        "sample_screenshots": [],
-        "title": "1950s Lawn Mower Kids"
     },
     {
         "alternate_titles": [],
@@ -4867,7 +4764,7 @@
         "moby_score": null,
         "moby_url": "https://www.mobygames.com/game/87115/40-in-1-explosive-megamix/",
         "num_votes": 0,
-        "official_url": null,
+        "official_url": "https://web.archive.org/web/20120324120610/http://www.nordcurrent.com/games/40-in-1-explosive-megamix.html",
         "platforms": [
             [
                 {
@@ -6395,7 +6292,7 @@
         "id": 87247,
         "moby_score": null,
         "moby_url": "https://www.mobygames.com/game/87247/annes-doll-studio-tokyo-collection/",
-        "num_votes": 2,
+        "num_votes": 3,
         "official_url": null,
         "platforms": [
             [
@@ -7071,7 +6968,12 @@
         "title": "Art of Ink"
     },
     {
-        "alternate_titles": [],
+        "alternate_titles": [
+            {
+                "description": "European title",
+                "title": "Art Style: NEMREM"
+            }
+        ],
         "description": null,
         "genres": [
             {
@@ -7571,7 +7473,7 @@
             }
         ],
         "id": 87404,
-        "moby_score": null,
+        "moby_score": 5.6,
         "moby_url": "https://www.mobygames.com/game/87404/blayzbloo-super-melee-brawlers-battle-royale/",
         "num_votes": 0,
         "official_url": null,
@@ -8038,7 +7940,12 @@
         "title": "Brain Age Express: Math"
     },
     {
-        "alternate_titles": [],
+        "alternate_titles": [
+            {
+                "description": "European title",
+                "title": "A Little Bit of... Dr. Kawashima's Brain Training: Sudoku"
+            }
+        ],
         "description": null,
         "genres": [
             {
@@ -9621,26 +9528,53 @@
                     "name": "Basic Genres"
                 },
                 "description": null,
-                "id": 1,
-                "name": "Action"
-            },
-            {
-                "category": {
-                    "id": 1,
-                    "name": "Basic Genres"
-                },
-                "description": null,
                 "id": 6,
                 "name": "Racing / Driving"
             },
             {
                 "category": {
-                    "id": 1,
-                    "name": "Basic Genres"
+                    "id": 2,
+                    "name": "Perspective"
                 },
                 "description": null,
-                "id": 5,
-                "name": "Sports"
+                "id": 129,
+                "name": "Diagonal-down"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 131,
+                "name": "2D scrolling"
+            },
+            {
+                "category": {
+                    "id": 9,
+                    "name": "Pacing"
+                },
+                "description": null,
+                "id": 15,
+                "name": "Real-time"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 11,
+                    "name": "Vehicular Themes"
+                },
+                "description": null,
+                "id": 41,
+                "name": "Naval / watercraft"
             }
         ],
         "id": 87808,
@@ -11854,7 +11788,7 @@
             }
         ],
         "id": 87980,
-        "moby_score": 6.6,
+        "moby_score": 6.8,
         "moby_url": "https://www.mobygames.com/game/87980/face-pilot-fly-with-your-nintendo-dsi-camera/",
         "num_votes": 0,
         "official_url": null,
@@ -17473,7 +17407,7 @@
         "id": 89036,
         "moby_score": null,
         "moby_url": "https://www.mobygames.com/game/89036/master-of-illusion-express-mind-probe/",
-        "num_votes": 2,
+        "num_votes": 3,
         "official_url": null,
         "platforms": [
             [
@@ -22740,7 +22674,12 @@
         "title": "Topoloco"
     },
     {
-        "alternate_titles": [],
+        "alternate_titles": [
+            {
+                "description": "PAL title",
+                "title": "2-in-1 Solitaire"
+            }
+        ],
         "description": null,
         "genres": [
             {
@@ -23701,7 +23640,7 @@
             "width": 165
         },
         "sample_screenshots": [],
-        "title": "World Poker Tour Texas Hold 'Em"
+        "title": "World Poker Tour: Texas Hold 'Em"
     },
     {
         "alternate_titles": [
@@ -24979,5 +24918,87 @@
         "sample_cover": null,
         "sample_screenshots": [],
         "title": "Motto Me de Un\u014d o Kitaeru Sokudoku Jutsu Light"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 154,
+                "name": "Tile matching puzzle"
+            }
+        ],
+        "id": 233745,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/233745/wakugumi-monochrome-puzzle/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 87,
+                    "name": "Nintendo DSi"
+                },
+                "2009-10-16"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Wakugumi: Monochrome Puzzle"
+    },
+    {
+        "alternate_titles": [],
+        "description": null,
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 6,
+                    "name": "Other Attributes"
+                },
+                "description": null,
+                "id": 82,
+                "name": "Licensed"
+            }
+        ],
+        "id": 233768,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/233768/monster-buster-club/",
+        "num_votes": 0,
+        "official_url": "https://web.archive.org/web/20110917071739/http://www.nordcurrent.com/games/monster-buster-club.html",
+        "platforms": [
+            [
+                {
+                    "id": 87,
+                    "name": "Nintendo DSi"
+                },
+                "2011-02-28"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Monster Buster Club"
     }
 ]

@@ -65,6 +65,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Title screen",
+                "height": 128,
+                "image_url": "https://cdn.mobygames.com/screenshots/16375556-block-maze-epoch-game-pocket-computer-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9df70024-c208-11ed-ab6b-02420a000194.webp",
+                "width": 150
+            },
+            {
                 "caption": "Game over",
                 "height": 128,
                 "image_url": "https://cdn.mobygames.com/screenshots/16375574-block-maze-epoch-game-pocket-computer-game-over.png",
@@ -72,31 +79,24 @@
                 "width": 150
             },
             {
-                "caption": "Sending a letter block to crush the enemy",
+                "caption": "When a letter enters its box, you play on the fruit machine",
                 "height": 128,
-                "image_url": "https://cdn.mobygames.com/screenshots/16375826-block-maze-epoch-game-pocket-computer-sending-a-letter-block-to-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ab7b9dae-c208-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16375823-block-maze-epoch-game-pocket-computer-when-a-letter-enters-its-b.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ab66d9fa-c208-11ed-ab6b-02420a000194.webp",
                 "width": 150
             },
             {
-                "caption": "Level clear",
+                "caption": "Crushing a black block",
                 "height": 128,
-                "image_url": "https://cdn.mobygames.com/screenshots/16375571-block-maze-epoch-game-pocket-computer-level-clear.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9e73b740-c208-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16375568-block-maze-epoch-game-pocket-computer-crushing-a-black-block.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9e600998-c208-11ed-ab6b-02420a000194.webp",
                 "width": 150
             },
             {
-                "caption": "Killed by a baddie",
+                "caption": "The next level has four letters which each must go in the right corner",
                 "height": 128,
-                "image_url": "https://cdn.mobygames.com/screenshots/16375829-block-maze-epoch-game-pocket-computer-killed-by-a-baddie.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ab906efa-c208-11ed-ab6b-02420a000194.webp",
-                "width": 150
-            },
-            {
-                "caption": "Pushing a T towards its home corner",
-                "height": 128,
-                "image_url": "https://cdn.mobygames.com/screenshots/16375817-block-maze-epoch-game-pocket-computer-pushing-a-t-towards-its-ho.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ab38562a-c208-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16375445-block-maze-epoch-game-pocket-computer-the-next-level-has-four-le.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/98bf4d78-c208-11ed-ab6b-02420a000194.webp",
                 "width": 150
             }
         ],

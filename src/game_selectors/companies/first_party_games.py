@@ -3,6 +3,7 @@ from typing import Dict, List, Optional, Tuple
 from excel_game import ExcelPlatform
 from game_grouping import GameGrouping
 from game_selector import GameSelector
+from picker_enums import PickerMode
 
 COMPANY_PLATFORMS: Dict[str, List[ExcelPlatform]] = {
     "Panasonic": [ExcelPlatform._3DO],
@@ -81,7 +82,8 @@ COMPANY_PLATFORMS: Dict[str, List[ExcelPlatform]] = {
     "Blaze": [ExcelPlatform.EVERCADE],
     "Exidy": [ExcelPlatform.EXIDY_SORCERER],
     "Fujitsu": [ExcelPlatform.FM_TOWNS, ExcelPlatform.FM_7],
-    "Tiger": [ExcelPlatform.GAME_COM],
+    "Tiger": [ExcelPlatform.GAME_COM, ExcelPlatform.R_ZONE],
+    "Tiger Electronics": [ExcelPlatform.GAME_COM, ExcelPlatform.R_ZONE],
     "GamePark": [ExcelPlatform.GAMEPARK_32, ExcelPlatform.GP2X_WIZ],
     "Gizmondo": [ExcelPlatform.GIZMONDO],
     "Hartung": [ExcelPlatform.HARTUNG_GAME_MASTER],

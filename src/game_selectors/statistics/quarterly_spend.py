@@ -42,5 +42,5 @@ def get_quarterly_spend_selector(data_provider: DataProvider) -> GameSelector:
         custom_suffix=lambda g: f" - ${g.purchase_price:.2f}",
         include_in_picks=False,
         run_on_modes=set([PickerMode.ALL]),
-        games=data_provider.get_games(),
+        games=data_provider.get_games() + data_provider.get_games_on_order(),
     )

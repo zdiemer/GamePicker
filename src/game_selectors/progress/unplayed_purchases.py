@@ -4,6 +4,7 @@ import datetime
 from game_grouping import GameGrouping
 from game_selector import GameSelector
 from picked_game import PickedGame
+from picker_enums import PickerMode
 
 
 def get_group_name(kvp: Tuple[Any, List[PickedGame]]) -> str:
@@ -31,4 +32,5 @@ UNPLAYED_PURCHASES = GameSelector(
     custom_suffix=lambda g: f" - ${g.purchase_price:0.2f}",
     sort=lambda g: (g.game.date_purchased, g.game.normal_title),
     reverse_sort=True,
+    run_on_modes=set([PickerMode.ALL]),
 )

@@ -92,27 +92,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "During a HI difficulty game - and I'm losing.",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/7771195-checkers-intellivision-during-a-hi-difficulty-game-and-im-losing.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ef33c3da-abf8-11ed-a710-02420a000136.webp",
-                "width": 320
-            },
-            {
-                "caption": "I WON!",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/7771192-checkers-intellivision-i-won.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/eef7d6cc-abf8-11ed-a710-02420a000136.webp",
-                "width": 320
-            },
-            {
-                "caption": "Got a King and now I'm winning!",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/7771881-checkers-intellivision-got-a-king-and-now-im-winning.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f1ae5d14-abf8-11ed-98b0-02420a000130.webp",
-                "width": 320
-            },
-            {
                 "caption": "Title screen",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/1715896-checkers-intellivision-title-screen.png",
@@ -124,6 +103,27 @@
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/1716022-checkers-intellivision-the-game-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/9a0dc350-ab77-11ed-b721-02420a00019b.webp",
+                "width": 320
+            },
+            {
+                "caption": "Got a King and now I'm winning!",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/7771881-checkers-intellivision-got-a-king-and-now-im-winning.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f1ae5d14-abf8-11ed-98b0-02420a000130.webp",
+                "width": 320
+            },
+            {
+                "caption": "I WON!",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/7771192-checkers-intellivision-i-won.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/eef7d6cc-abf8-11ed-a710-02420a000136.webp",
+                "width": 320
+            },
+            {
+                "caption": "During a HI difficulty game - and I'm losing.",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/7771195-checkers-intellivision-during-a-hi-difficulty-game-and-im-losing.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ef33c3da-abf8-11ed-a710-02420a000136.webp",
                 "width": 320
             }
         ],
@@ -218,10 +218,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "You're under attack!",
+                "caption": "Select your destination on the map",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/1897622-b-17-bomber-intellivision-youre-under-attack.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/42e16378-ab79-11ed-a188-02420a00019a.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/1896825-b-17-bomber-intellivision-select-your-destination-on-the-map.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4107bd86-ab79-11ed-b721-02420a00019b.webp",
                 "width": 320
             },
             {
@@ -330,10 +330,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Be careful, you're almost out of corn",
+                "caption": "Carefully protecting your last stalk of corn",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/416113-worm-whomper-intellivision-be-careful-youre-almost-out-of-corn.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/eb8bdd80-ab6c-11ed-98cd-02420a00019e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/412806-worm-whomper-intellivision-carefully-protecting-your-last-stalk-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e510d3b6-ab6c-11ed-b6ec-02420a00019b.webp",
                 "width": 320
             },
             {
@@ -344,17 +344,17 @@
                 "width": 320
             },
             {
+                "caption": "Be careful, you're almost out of corn",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/416113-worm-whomper-intellivision-be-careful-youre-almost-out-of-corn.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/eb8bdd80-ab6c-11ed-98cd-02420a00019e.webp",
+                "width": 320
+            },
+            {
                 "caption": "Title screen",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/415700-worm-whomper-intellivision-title-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/eabab296-ab6c-11ed-98cd-02420a00019e.webp",
-                "width": 320
-            },
-            {
-                "caption": "Carefully protecting your last stalk of corn",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/412806-worm-whomper-intellivision-carefully-protecting-your-last-stalk-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e510d3b6-ab6c-11ed-b6ec-02420a00019b.webp",
                 "width": 320
             }
         ],
@@ -426,17 +426,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The mazes keep getting bigger and more challenging!",
+                "caption": "Be sure to avoid Black Bart!",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/438002-happy-trails-intellivision-the-mazes-keep-getting-bigger-and-mor.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/17d0899a-ab6d-11ed-a13c-02420a00019f.webp",
-                "width": 320
-            },
-            {
-                "caption": "Title screen",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/1056985-happy-trails-intellivision-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/06af7cca-ab72-11ed-bddc-02420a00019e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/436718-happy-trails-intellivision-be-sure-to-avoid-black-bart.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1536feee-ab6d-11ed-a13c-02420a00019f.webp",
                 "width": 320
             },
             {
@@ -454,10 +447,17 @@
                 "width": 320
             },
             {
-                "caption": "Be sure to avoid Black Bart!",
+                "caption": "The mazes keep getting bigger and more challenging!",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/436718-happy-trails-intellivision-be-sure-to-avoid-black-bart.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1536feee-ab6d-11ed-a13c-02420a00019f.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/438002-happy-trails-intellivision-the-mazes-keep-getting-bigger-and-mor.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/17d0899a-ab6d-11ed-a13c-02420a00019f.webp",
+                "width": 320
+            },
+            {
+                "caption": "Title screen",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1056985-happy-trails-intellivision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/06af7cca-ab72-11ed-bddc-02420a00019e.webp",
                 "width": 320
             }
         ],
@@ -570,6 +570,20 @@
         },
         "sample_screenshots": [
             {
+                "caption": "The game menu",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/868140-the-electric-company-word-fun-intellivision-the-game-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/87a9b108-ab70-11ed-8d2b-02420a00019e.webp",
+                "width": 320
+            },
+            {
+                "caption": "Crosswords",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/868415-the-electric-company-word-fun-intellivision-crosswords.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8840b24c-ab70-11ed-8d2b-02420a00019e.webp",
+                "width": 320
+            },
+            {
                 "caption": "Word rockets",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/869001-the-electric-company-word-fun-intellivision-word-rockets.png",
@@ -588,20 +602,6 @@
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/868712-the-electric-company-word-fun-intellivision-word-hunt.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/88e131ae-ab70-11ed-8d2b-02420a00019e.webp",
-                "width": 320
-            },
-            {
-                "caption": "The game menu",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/868140-the-electric-company-word-fun-intellivision-the-game-menu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/87a9b108-ab70-11ed-8d2b-02420a00019e.webp",
-                "width": 320
-            },
-            {
-                "caption": "Crosswords",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/868415-the-electric-company-word-fun-intellivision-crosswords.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8840b24c-ab70-11ed-8d2b-02420a00019e.webp",
                 "width": 320
             }
         ],
@@ -687,17 +687,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The building gets narrower the higher you climb",
+                "caption": "Title screen",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/118854-beauty-and-the-beast-intellivision-the-building-gets-narrower-th.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8a08c20a-ab6a-11ed-87ec-02420a00019c.webp",
-                "width": 320
-            },
-            {
-                "caption": "A game in progress",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/117002-beauty-and-the-beast-intellivision-a-game-in-progress.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/86574032-ab6a-11ed-b9a3-02420a000197.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/447079-beauty-and-the-beast-intellivision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/29e3a324-ab6d-11ed-b325-02420a00019e.webp",
                 "width": 320
             },
             {
@@ -715,10 +708,17 @@
                 "width": 320
             },
             {
-                "caption": "Title screen",
+                "caption": "A game in progress",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/447079-beauty-and-the-beast-intellivision-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/29e3a324-ab6d-11ed-b325-02420a00019e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/117002-beauty-and-the-beast-intellivision-a-game-in-progress.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/86574032-ab6a-11ed-b9a3-02420a000197.webp",
+                "width": 320
+            },
+            {
+                "caption": "The building gets narrower the higher you climb",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/118854-beauty-and-the-beast-intellivision-the-building-gets-narrower-th.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8a08c20a-ab6a-11ed-87ec-02420a00019c.webp",
                 "width": 320
             }
         ],
@@ -790,13 +790,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title screen",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/451807-tropical-trouble-intellivision-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/33515e06-ab6d-11ed-aaf5-02420a00019c.webp",
-                "width": 320
-            },
-            {
                 "caption": "Lava can slow your progress",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/455863-tropical-trouble-intellivision-lava-can-slow-your-progress.png",
@@ -804,10 +797,17 @@
                 "width": 320
             },
             {
-                "caption": "Game over",
+                "caption": "Avoid the ferns and coconuts here",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/454993-tropical-trouble-intellivision-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/39b2f9b2-ab6d-11ed-96f9-02420a00019a.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/452760-tropical-trouble-intellivision-avoid-the-ferns-and-coconuts-here.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/353088a0-ab6d-11ed-96f9-02420a00019a.webp",
+                "width": 320
+            },
+            {
+                "caption": "Title screen",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/451807-tropical-trouble-intellivision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/33515e06-ab6d-11ed-aaf5-02420a00019c.webp",
                 "width": 320
             },
             {
@@ -818,10 +818,10 @@
                 "width": 320
             },
             {
-                "caption": "The white handkerchiefs make you invincible",
+                "caption": "Game over",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/454902-tropical-trouble-intellivision-the-white-handkerchiefs-make-you-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/398313c8-ab6d-11ed-96f9-02420a00019a.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/454993-tropical-trouble-intellivision-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/39b2f9b2-ab6d-11ed-96f9-02420a00019a.webp",
                 "width": 320
             }
         ],
@@ -915,17 +915,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Game Over",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/456647-tron-maze-a-tron-intellivision-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3d07e1a4-ab6d-11ed-b430-02420a0001a0.webp",
-                "width": 320
-            },
-            {
                 "caption": "Title Screen",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/455712-tron-maze-a-tron-intellivision-title-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/3b2833fc-ab6d-11ed-b430-02420a0001a0.webp",
+                "width": 320
+            },
+            {
+                "caption": "Practice?",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/455938-tron-maze-a-tron-intellivision-practice.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3ba307f8-ab6d-11ed-b430-02420a0001a0.webp",
                 "width": 320
             },
             {
@@ -936,10 +936,10 @@
                 "width": 320
             },
             {
-                "caption": "Practice?",
+                "caption": "Game Over",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/455938-tron-maze-a-tron-intellivision-practice.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3ba307f8-ab6d-11ed-b430-02420a0001a0.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/456647-tron-maze-a-tron-intellivision-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3d07e1a4-ab6d-11ed-b430-02420a0001a0.webp",
                 "width": 320
             },
             {
@@ -1032,6 +1032,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Setting up player one options",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/869244-the-electric-company-math-fun-intellivision-setting-up-player-on.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/89e83804-ab70-11ed-9ab3-02420a0001a0.webp",
+                "width": 320
+            },
+            {
                 "caption": "Title screen",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/868444-the-electric-company-math-fun-intellivision-title-screen.png",
@@ -1046,13 +1053,6 @@
                 "width": 320
             },
             {
-                "caption": "Get a problem wrong, and you have to jump in the river",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/870162-the-electric-company-math-fun-intellivision-get-a-problem-wrong-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8b751ab6-ab70-11ed-9ab3-02420a0001a0.webp",
-                "width": 320
-            },
-            {
                 "caption": "The game begins",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/869363-the-electric-company-math-fun-intellivision-the-game-begins.png",
@@ -1060,10 +1060,10 @@
                 "width": 320
             },
             {
-                "caption": "Setting up player one options",
+                "caption": "Get a problem wrong, and you have to jump in the river",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/869244-the-electric-company-math-fun-intellivision-setting-up-player-on.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/89e83804-ab70-11ed-9ab3-02420a0001a0.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/870162-the-electric-company-math-fun-intellivision-get-a-problem-wrong-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8b751ab6-ab70-11ed-9ab3-02420a0001a0.webp",
                 "width": 320
             }
         ],
@@ -1172,17 +1172,10 @@
                 "width": 320
             },
             {
-                "caption": "7 Card Stud",
+                "caption": "Blackjack",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/1744611-las-vegas-poker-blackjack-intellivision-7-card-stud.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/db2c168e-ab77-11ed-b9d3-02420a00019b.webp",
-                "width": 320
-            },
-            {
-                "caption": "Player two wins a hand",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/1745081-las-vegas-poker-blackjack-intellivision-player-two-wins-a-hand.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/dc5f47e2-ab77-11ed-b9d3-02420a00019b.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/1745215-las-vegas-poker-blackjack-intellivision-blackjack.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dcae6250-ab77-11ed-b9d3-02420a00019b.webp",
                 "width": 320
             },
             {
@@ -1190,6 +1183,13 @@
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/1745370-las-vegas-poker-blackjack-intellivision-dealer-deals-out.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/dd158d72-ab77-11ed-b9d3-02420a00019b.webp",
+                "width": 320
+            },
+            {
+                "caption": "7 Card Stud",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1744611-las-vegas-poker-blackjack-intellivision-7-card-stud.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/db2c168e-ab77-11ed-b9d3-02420a00019b.webp",
                 "width": 320
             }
         ],
@@ -1298,10 +1298,17 @@
                 "width": 320
             },
             {
-                "caption": "First level complete, time to continue on foot",
+                "caption": "Avoid Skeletors lightning bolts!",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/1708872-masters-of-the-universe-the-power-of-he-man-intellivision-first-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8a228c0a-ab77-11ed-8b6f-02420a00019c.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/1709235-masters-of-the-universe-the-power-of-he-man-intellivision-avoid-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8b09055e-ab77-11ed-8b6f-02420a00019c.webp",
+                "width": 320
+            },
+            {
+                "caption": "Title screen",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/462042-masters-of-the-universe-the-power-of-he-man-intellivision-title-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/47dbfe62-ab6d-11ed-934f-02420a0001a0.webp",
                 "width": 320
             },
             {
@@ -1309,13 +1316,6 @@
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/1709019-masters-of-the-universe-the-power-of-he-man-intellivision-chasin.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/8a833f6e-ab77-11ed-8b6f-02420a00019c.webp",
-                "width": 320
-            },
-            {
-                "caption": "Game Over",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/460870-masters-of-the-universe-the-power-of-he-man-intellivision-game-o.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/45882596-ab6d-11ed-aa5a-02420a0001a0.webp",
                 "width": 320
             }
         ],
@@ -1378,7 +1378,7 @@
         "id": 10590,
         "moby_score": 7.4,
         "moby_url": "https://www.mobygames.com/game/10590/advanced-dungeons-dragons-cartridge/",
-        "num_votes": 19,
+        "num_votes": 20,
         "official_url": null,
         "platforms": [
             [
@@ -1400,24 +1400,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Baddie attacking",
+                "caption": "Title Screen",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/1525025-advanced-dungeons-dragons-cartridge-intellivision-baddie-attacki.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e0ad0886-ab75-11ed-a519-02420a00019d.webp",
-                "width": 320
-            },
-            {
-                "caption": "Entering Cave",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/1524404-advanced-dungeons-dragons-cartridge-intellivision-entering-cave.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/df4d2ba6-ab75-11ed-a519-02420a00019d.webp",
-                "width": 320
-            },
-            {
-                "caption": "Key visible",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/1525916-advanced-dungeons-dragons-cartridge-intellivision-key-visible.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e33798c8-ab75-11ed-a519-02420a00019d.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/1522504-advanced-dungeons-dragons-cartridge-intellivision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/db6a0d6a-ab75-11ed-aaf5-02420a00019c.webp",
                 "width": 320
             },
             {
@@ -1428,10 +1414,24 @@
                 "width": 320
             },
             {
-                "caption": "Killed by two monsters",
+                "caption": "Key visible",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/1525379-advanced-dungeons-dragons-cartridge-intellivision-killed-by-two-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e19f7530-ab75-11ed-a519-02420a00019d.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/1525916-advanced-dungeons-dragons-cartridge-intellivision-key-visible.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e33798c8-ab75-11ed-a519-02420a00019d.webp",
+                "width": 320
+            },
+            {
+                "caption": "Overland",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1523797-advanced-dungeons-dragons-cartridge-intellivision-overland.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/de1921f4-ab75-11ed-a519-02420a00019d.webp",
+                "width": 320
+            },
+            {
+                "caption": "Baddie attacking",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1525025-advanced-dungeons-dragons-cartridge-intellivision-baddie-attacki.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e0ad0886-ab75-11ed-a519-02420a00019d.webp",
                 "width": 320
             }
         ],
@@ -1503,6 +1503,27 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Careful, the hawk can catch you when in bat form",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1953341-dracula-intellivision-careful-the-hawk-can-catch-you-when-in-bat.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ca50c128-ab79-11ed-9ab3-02420a0001a0.webp",
+                "width": 320
+            },
+            {
+                "caption": "You need to catch those wandering the streets at night!",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1951274-dracula-intellivision-you-need-to-catch-those-wandering-the-stre.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c4b671ea-ab79-11ed-98cd-02420a00019e.webp",
+                "width": 320
+            },
+            {
+                "caption": "Title screen",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1953195-dracula-intellivision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c9e3ed00-ab79-11ed-91fb-02420a00019f.webp",
+                "width": 320
+            },
+            {
                 "caption": "Evade the constable in bat form",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/1949390-dracula-intellivision-evade-the-constable-in-bat-form.png",
@@ -1514,27 +1535,6 @@
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/1949087-dracula-intellivision-stalking-a-victim.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/bfd136ec-ab79-11ed-98cd-02420a00019e.webp",
-                "width": 320
-            },
-            {
-                "caption": "The sun's almost up, and a wolf is chasing me!",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/1952925-dracula-intellivision-the-suns-almost-up-and-a-wolf-is-chasing-m.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c931cdbe-ab79-11ed-9ab3-02420a0001a0.webp",
-                "width": 320
-            },
-            {
-                "caption": "Title screen",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/1953195-dracula-intellivision-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c9e3ed00-ab79-11ed-91fb-02420a00019f.webp",
-                "width": 320
-            },
-            {
-                "caption": "Careful, the hawk can catch you when in bat form",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/1953341-dracula-intellivision-careful-the-hawk-can-catch-you-when-in-bat.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ca50c128-ab79-11ed-9ab3-02420a0001a0.webp",
                 "width": 320
             }
         ],
@@ -1597,10 +1597,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Setting the game options",
+                "caption": "Title screen",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/1240083-bomb-squad-intellivision-setting-the-game-options.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7b1af5d4-ab73-11ed-aecf-02420a000198.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/1239855-bomb-squad-intellivision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7aac1f74-ab73-11ed-aecf-02420a000198.webp",
+                "width": 320
+            },
+            {
+                "caption": "Fixing a circuit",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/1240864-bomb-squad-intellivision-fixing-a-circuit.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7cb7a572-ab73-11ed-aecf-02420a000198.webp",
                 "width": 320
             },
             {
@@ -1611,13 +1618,6 @@
                 "width": 320
             },
             {
-                "caption": "Title screen",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/1239855-bomb-squad-intellivision-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7aac1f74-ab73-11ed-aecf-02420a000198.webp",
-                "width": 320
-            },
-            {
                 "caption": "Using the soldering iron to repair a circuit",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/1241112-bomb-squad-intellivision-using-the-soldering-iron-to-repair-a-ci.png",
@@ -1625,10 +1625,10 @@
                 "width": 320
             },
             {
-                "caption": "Fixing a circuit",
+                "caption": "Setting the game options",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/1240864-bomb-squad-intellivision-fixing-a-circuit.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7cb7a572-ab73-11ed-aecf-02420a000198.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/1240083-bomb-squad-intellivision-setting-the-game-options.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7b1af5d4-ab73-11ed-aecf-02420a000198.webp",
                 "width": 320
             }
         ],
@@ -1700,20 +1700,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Passing by a beach...",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/677399-white-water-intellivision-passing-by-a-beach.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/05d290ba-ab6f-11ed-837d-02420a00019b.webp",
-                "width": 320
-            },
-            {
-                "caption": "Rafting down the river...",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/677287-white-water-intellivision-rafting-down-the-river.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/05955650-ab6f-11ed-837d-02420a00019b.webp",
-                "width": 320
-            },
-            {
                 "caption": "Try to steal this treasure!",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/678282-white-water-intellivision-try-to-steal-this-treasure.png",
@@ -1721,10 +1707,17 @@
                 "width": 320
             },
             {
-                "caption": "Title screen",
+                "caption": "Man overboard!",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/677053-white-water-intellivision-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/051f68c8-ab6f-11ed-837d-02420a00019b.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/678161-white-water-intellivision-man-overboard.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/077f93d6-ab6f-11ed-837d-02420a00019b.webp",
+                "width": 320
+            },
+            {
+                "caption": "Passing by a beach...",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/677399-white-water-intellivision-passing-by-a-beach.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/05d290ba-ab6f-11ed-837d-02420a00019b.webp",
                 "width": 320
             },
             {
@@ -1732,6 +1725,13 @@
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/677164-white-water-intellivision-setting-game-options.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/0559ad1c-ab6f-11ed-837d-02420a00019b.webp",
+                "width": 320
+            },
+            {
+                "caption": "Rafting down the river...",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/677287-white-water-intellivision-rafting-down-the-river.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/05955650-ab6f-11ed-837d-02420a00019b.webp",
                 "width": 320
             }
         ],
@@ -1826,10 +1826,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Hole three on this nine hole course",
+                "caption": "In the fairway on hole one",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/2215195-pga-golf-intellivision-hole-three-on-this-nine-hole-course.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7501b526-ab7c-11ed-a5ec-02420a00019b.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2214852-pga-golf-intellivision-in-the-fairway-on-hole-one.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/74288c38-ab7c-11ed-a5ec-02420a00019b.webp",
+                "width": 320
+            },
+            {
+                "caption": "Make sure you don't land in the water!",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/2215376-pga-golf-intellivision-make-sure-you-dont-land-in-the-water.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7576e03a-ab7c-11ed-a5ec-02420a00019b.webp",
                 "width": 320
             },
             {
@@ -1847,17 +1854,10 @@
                 "width": 320
             },
             {
-                "caption": "Make sure you don't land in the water!",
+                "caption": "Title screen",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/2215376-pga-golf-intellivision-make-sure-you-dont-land-in-the-water.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7576e03a-ab7c-11ed-a5ec-02420a00019b.webp",
-                "width": 320
-            },
-            {
-                "caption": "In the fairway on hole one",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/2214852-pga-golf-intellivision-in-the-fairway-on-hole-one.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/74288c38-ab7c-11ed-a5ec-02420a00019b.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2215104-pga-golf-intellivision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/74ce2904-ab7c-11ed-beab-02420a000199.webp",
                 "width": 320
             }
         ],
@@ -1961,27 +1961,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Can you deal with this split?",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15998079-pba-bowling-intellivision-can-you-deal-with-this-split.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0fa4be5a-bf25-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Game options screen 2",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15746253-pba-bowling-intellivision-game-options-screen-2.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3fabc5d6-bed9-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Still a lot of pins to knock down...",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15998061-pba-bowling-intellivision-still-a-lot-of-pins-to-knock-down.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0e2db7a2-bf25-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
                 "caption": "Getting ready to bowl...",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/15746064-pba-bowling-intellivision-getting-ready-to-bowl.png",
@@ -1989,10 +1968,31 @@
                 "width": 320
             },
             {
+                "caption": "Bowling!",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/15746073-pba-bowling-intellivision-bowling.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/352cd960-bed9-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Game options screen 1",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/15746241-pba-bowling-intellivision-game-options-screen-1.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3f32c294-bed9-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
                 "caption": "Title screen",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/15746235-pba-bowling-intellivision-title-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/3ef625b4-bed9-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Still a lot of pins to knock down...",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/15998061-pba-bowling-intellivision-still-a-lot-of-pins-to-knock-down.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0e2db7a2-bf25-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -2076,6 +2076,13 @@
                 "width": 320
             },
             {
+                "caption": "The main game screen",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/15716998-las-vegas-roulette-intellivision-the-main-game-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3c46bdba-becf-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
                 "caption": "Title screen",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/15716977-las-vegas-roulette-intellivision-title-screen.png",
@@ -2087,13 +2094,6 @@
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/15827702-las-vegas-roulette-intellivision-the-roulette-wheel-spins-where-.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/bb82e3c4-bef2-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "The main game screen",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15716998-las-vegas-roulette-intellivision-the-main-game-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3c46bdba-becf-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -2174,17 +2174,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Daytime mode. The letter M is in your sights. Watch out for the satellite!",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/2873060-the-jetsons-ways-with-words-intellivision-daytime-mode-the-lette.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7da002ba-ab85-11ed-87ec-02420a00019c.webp",
-                "width": 318
-            },
-            {
                 "caption": "Nighttime mode. This is the word to be found.",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/2870709-the-jetsons-ways-with-words-intellivision-nighttime-mode-this-is.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/738fb086-ab85-11ed-aa5a-02420a0001a0.webp",
+                "width": 318
+            },
+            {
+                "caption": "Daytime mode. The letter M is in your sights. Watch out for the satellite!",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/2873060-the-jetsons-ways-with-words-intellivision-daytime-mode-the-lette.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7da002ba-ab85-11ed-87ec-02420a00019c.webp",
                 "width": 318
             },
             {
@@ -2272,24 +2272,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Space sector map with bases",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16081616-space-spartans-intellivision-space-sector-map-with-bases.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a4cb1776-bf6c-11ed-9521-02420a000152.webp",
-                "width": 320
-            },
-            {
-                "caption": "Game speed option",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16081766-space-spartans-intellivision-game-speed-option.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ae2d8524-bf6c-11ed-9521-02420a000152.webp",
-                "width": 320
-            },
-            {
                 "caption": "Title screen",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16081691-space-spartans-intellivision-title-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/a913c9fe-bf6c-11ed-9521-02420a000152.webp",
+                "width": 320
+            },
+            {
+                "caption": "Base under attack hyperdrive to defend it",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16081721-space-spartans-intellivision-base-under-attack-hyperdrive-to-def.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/aaca8422-bf6c-11ed-9521-02420a000152.webp",
+                "width": 320
+            },
+            {
+                "caption": "Enemy ships approaching",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16081538-space-spartans-intellivision-enemy-ships-approaching.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9c81e1bc-bf6c-11ed-9521-02420a000152.webp",
                 "width": 320
             },
             {
@@ -2300,10 +2300,10 @@
                 "width": 320
             },
             {
-                "caption": "Enemy ships approaching",
+                "caption": "Game speed option",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16081538-space-spartans-intellivision-enemy-ships-approaching.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9c81e1bc-bf6c-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16081766-space-spartans-intellivision-game-speed-option.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ae2d8524-bf6c-11ed-9521-02420a000152.webp",
                 "width": 320
             }
         ],
@@ -2418,20 +2418,6 @@
                 "width": 320
             },
             {
-                "caption": "Starting a one-player game. The system plays black.",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/7754339-abpa-backgammon-intellivision-starting-a-one-player-game-the-sys.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d1d101fe-abf8-11ed-9941-02420a000133.webp",
-                "width": 320
-            },
-            {
-                "caption": "Lost the game. :(",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/7756504-abpa-backgammon-intellivision-lost-the-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d58fe8fa-abf8-11ed-8a97-02420a00012d.webp",
-                "width": 320
-            },
-            {
                 "caption": "So far it's nearly a tie!",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/7756507-abpa-backgammon-intellivision-so-far-its-nearly-a-tie.png",
@@ -2443,6 +2429,20 @@
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/7751845-abpa-backgammon-intellivision-title-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/c87282c2-abf8-11ed-893a-02420a00012f.webp",
+                "width": 320
+            },
+            {
+                "caption": "Lost the game. :(",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/7756504-abpa-backgammon-intellivision-lost-the-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d58fe8fa-abf8-11ed-8a97-02420a00012d.webp",
+                "width": 320
+            },
+            {
+                "caption": "Starting a one-player game. The system plays black.",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/7754339-abpa-backgammon-intellivision-starting-a-one-player-game-the-sys.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d1d101fe-abf8-11ed-9941-02420a000133.webp",
                 "width": 320
             }
         ],
@@ -2554,10 +2554,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The platforms move on some levels, don't get caught falling in a hole!",
+                "caption": "Beginning the game on an easy level.",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15936791-diner-intellivision-the-platforms-move-on-some-levels-dont-get-c.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0847b40c-bf14-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15936491-diner-intellivision-beginning-the-game-on-an-easy-level.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f4194248-bf13-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -2568,17 +2568,10 @@
                 "width": 320
             },
             {
-                "caption": "Title screen",
+                "caption": "Eliminate opponents by kicking food so it rolls over them.",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15936476-diner-intellivision-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f349b7bc-bf13-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Caught by an opponent on a tougher level.",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15936494-diner-intellivision-caught-by-an-opponent-on-a-tougher-level.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f4359d12-bf13-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15936776-diner-intellivision-eliminate-opponents-by-kicking-food-so-it-ro.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/07a95884-bf14-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -2586,6 +2579,13 @@
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/15936725-diner-intellivision-how-many-players.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/04b0b334-bf14-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "The second level",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/15936635-diner-intellivision-the-second-level.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ff87a156-bf13-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -2734,10 +2734,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Need to get through this herd of caribou.",
+                "caption": "Well done! Now on to the next challenge...",
                 "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15929335-ice-trek-intellivision-need-to-get-through-this-herd-of-caribou.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c455fd46-bf11-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15929101-ice-trek-intellivision-well-done-now-on-to-the-next-challenge.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/af4ac53a-bf11-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -2748,17 +2748,17 @@
                 "width": 320
             },
             {
-                "caption": "Well done! Now on to the next challenge...",
-                "height": 200,
-                "image_url": "https://cdn.mobygames.com/screenshots/15929101-ice-trek-intellivision-well-done-now-on-to-the-next-challenge.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/af4ac53a-bf11-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
                 "caption": "Crossing this icy river can be tricky.",
                 "height": 200,
                 "image_url": "https://cdn.mobygames.com/screenshots/15929410-ice-trek-intellivision-crossing-this-icy-river-can-be-tricky.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/c94c1a88-bf11-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Need to get through this herd of caribou.",
+                "height": 200,
+                "image_url": "https://cdn.mobygames.com/screenshots/15929335-ice-trek-intellivision-need-to-get-through-this-herd-of-caribou.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c455fd46-bf11-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -2911,24 +2911,31 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Taking tank damage",
+                "caption": "Title",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16081859-tron-solar-sailer-intellivision-taking-tank-damage.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b69c8606-bf6c-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16082024-tron-solar-sailer-intellivision-title.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c4861d04-bf6c-11ed-9521-02420a000152.webp",
                 "width": 320
             },
             {
-                "caption": "Firing on tanks near sector border - beam power low",
+                "caption": "Too much time MCP wins End of Line",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16081985-tron-solar-sailer-intellivision-firing-on-tanks-near-sector-bord.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c1eff4d4-bf6c-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16081685-tron-solar-sailer-intellivision-too-much-time-mcp-wins-end-of-li.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a8c9400a-bf6c-11ed-9521-02420a000152.webp",
                 "width": 320
             },
             {
-                "caption": "Vertical beam with power",
+                "caption": "Good power beam many grid bugs",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16081727-tron-solar-sailer-intellivision-vertical-beam-with-power.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/abbc3ace-bf6c-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16081913-tron-solar-sailer-intellivision-good-power-beam-many-grid-bugs.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bbb0c008-bf6c-11ed-9521-02420a000152.webp",
+                "width": 320
+            },
+            {
+                "caption": "Intro example vertical I/O beam to MCP",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16081934-tron-solar-sailer-intellivision-intro-example-vertical-io-beam-t.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bd2060f6-bf6c-11ed-9521-02420a000152.webp",
                 "width": 320
             },
             {
@@ -2936,13 +2943,6 @@
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16081802-tron-solar-sailer-intellivision-game-start-access-code-is-audio-.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/b17a0fc2-bf6c-11ed-9521-02420a000152.webp",
-                "width": 320
-            },
-            {
-                "caption": "Tanks at beam jump point - power very low min grid buts Get Off, Get Off! (Alan shouts)",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16081829-tron-solar-sailer-intellivision-tanks-at-beam-jump-point-power-v.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b3dc3ce0-bf6c-11ed-9521-02420a000152.webp",
                 "width": 320
             }
         ],

@@ -19,56 +19,155 @@ from clients import (
     RateLimit,
     Screenshot,
 )
+
+from excel_game import ExcelPlatform
 from excel_loader import ExcelLoader
 from match_validator import MatchValidator
 
 from excel_backed_cache import ExcelBackedCache
 
-MOBY_NAME_TO_SHEET_NAME: Dict[str, Set[str] | str] = {
-    "acorn 32-bit": set(["acorn archimedes", "risc pc"]),
-    "amiga cd32": "commodore amiga cd32",
-    "amiga": "commodore amiga",
-    "cd-i": "philips cd-i",
-    "commodore_16, plus/4": "commodore plus/4",
-    "dos": "pc",
-    "dreamcast": "sega dreamcast",
-    "electron": "acorn electron",
-    "gamecube": "nintendo gamecube",
-    "game gear": "sega game gear",
-    "genesis": "sega genesis",
-    "gp32": "gamepark 32",
-    "ipad": "ios",
-    "iphone": "ios",
-    "jaguar": set(["atari jaguar", "atari jaguar cd"]),
-    "laseractive": "pioneer laseractive",
-    "lynx": "atari lynx",
-    "macintosh": "mac os",
-    "msx": set(["msx", "msx2", "msx2+", "msx turbo r"]),
-    "n-gage (service)": "n-gage 2.0",
-    "neo geo cd": "neo-geo cd",
-    "neo geo pocket color": "neo-geo pocket color",
-    "neo geo pocket": "neo-geo pocket",
-    "nintendo dsi": set(["nintendo dsi", "dsiware"]),
-    "pc-6001": "nec pc-6001",
-    "pc-88": "nec pc-8801",
-    "pc-98": "nec pc-9801",
-    "pok mon mini": "nintendo pokémon mini",
-    "ps vita": "playstation vita",
-    "psp": "playstation portable",
-    "quest": "oculus quest",
-    "sg-1000": "sega sg-1000",
-    "snes": set(["snes", "bs-x"]),
-    "supervision": "watara supervision",
-    "trs-80 coco": "trs-80 color computer",
-    "turbografx cd": "turbografx-cd",
-    "vic-20": "commodore vic-20",
-    "wii u": "nintendo wii u",
-    "wii": set(["nintendo wii", "wiiware"]),
-    "windows 3.x": "pc",
-    "windows apps": "pc",
-    "windows": "pc",
-    "xbox series": "xbox series x|s",
-    "zodiac": "tapwave zodiac",
+MOBY_NAME_TO_SHEET_NAME: Dict[str, Set[ExcelPlatform] | ExcelPlatform] = {
+    "3do": ExcelPlatform._3DO,
+    "acorn 32-bit": set([ExcelPlatform.ACORN_ARCHIMEDES, ExcelPlatform.RISC_PC]),
+    "amiga cd32": ExcelPlatform.COMMODORE_AMIGA_CD32,
+    "amiga": ExcelPlatform.COMMODORE_AMIGA,
+    "amstrad cpc": ExcelPlatform.AMSTRAD_CPC,
+    "android": ExcelPlatform.ANDROID,
+    "apple ii": ExcelPlatform.APPLE_II,
+    "apple iigs": ExcelPlatform.APPLE_IIGS,
+    "arcade": ExcelPlatform.ARCADE,
+    "arcadia 2001": ExcelPlatform.ARCADIA_2001,
+    "arduboy": ExcelPlatform.ARDUBOY,
+    "atari 8-bit": ExcelPlatform.ATARI_8_BIT,
+    "atari 2600": ExcelPlatform.ATARI_2600,
+    "atari 5200": ExcelPlatform.ATARI_5200,
+    "atari 7800": ExcelPlatform.ATARI_7800,
+    "atari st": ExcelPlatform.ATARI_ST,
+    "bbc micro": ExcelPlatform.BBC_MICRO,
+    "blu-ray disc player": ExcelPlatform.DVD_PLAYER,
+    "brew": ExcelPlatform.BREW,
+    "browser": ExcelPlatform.BROWSER,
+    "casio loopy": ExcelPlatform.CASIO_LOOPY,
+    "cd-i": ExcelPlatform.PHILIPS_CD_I,
+    "coleco adam": ExcelPlatform.COLECO_ADAM,
+    "colecovision": ExcelPlatform.COLECOVISION,
+    "commodore_16, plus/4": ExcelPlatform.COMMODORE_PLUS_4,
+    "commodore 64": ExcelPlatform.COMMODORE_64,
+    "commodore pet/cbm": ExcelPlatform.COMMODORE_PET,
+    "dedicated console": ExcelPlatform.DEDICATED_CONSOLE,
+    "dedicated handheld": ExcelPlatform.DEDICATED_CONSOLE,
+    "doja": ExcelPlatform.DOJA,
+    "dos": ExcelPlatform.PC,
+    "dragon 32/64": ExcelPlatform.DRAGON_32_64,
+    "dreamcast": ExcelPlatform.SEGA_DREAMCAST,
+    "dvd player": ExcelPlatform.DVD_PLAYER,
+    "electron": ExcelPlatform.ACORN_ELECTRON,
+    "epoch super cassette vision": ExcelPlatform.EPOCH_SUPER_CASSETTE_VISION,
+    "evercade": ExcelPlatform.EVERCADE,
+    "exen": ExcelPlatform.EXEN,
+    "exidy sorcerer": ExcelPlatform.EXIDY_SORCERER,
+    "fire os": ExcelPlatform.AMAZON_FIRE_TV,
+    "fm towns": ExcelPlatform.FM_TOWNS,
+    "fm-7": ExcelPlatform.FM_7,
+    "galaksija": ExcelPlatform.GALAKSIJA,
+    "game boy advance": set([ExcelPlatform.E_READER, ExcelPlatform.GAME_BOY_ADVANCE]),
+    "game boy color": ExcelPlatform.GAME_BOY_COLOR,
+    "game boy": ExcelPlatform.GAME_BOY,
+    "game.com": ExcelPlatform.GAME_COM,
+    "game gear": ExcelPlatform.SEGA_GAME_GEAR,
+    "gamecube": ExcelPlatform.NINTENDO_GAMECUBE,
+    "genesis": ExcelPlatform.SEGA_GENESIS,
+    "gizmondo": ExcelPlatform.GIZMONDO,
+    "gp2x": ExcelPlatform.GP2X,
+    "gp2x wiz": ExcelPlatform.GP2X_WIZ,
+    "gp32": ExcelPlatform.GAMEPARK_32,
+    "hyperscan": ExcelPlatform.HYPERSCAN,
+    "intellivision": ExcelPlatform.INTELLIVISION,
+    "ipad": ExcelPlatform.IOS,
+    "iphone": ExcelPlatform.IOS,
+    "j2me": ExcelPlatform.J2ME,
+    "jaguar": set([ExcelPlatform.ATARI_JAGUAR, ExcelPlatform.ATARI_JAGUAR_CD]),
+    "laseractive": ExcelPlatform.PIONEER_LASERACTIVE,
+    "lynx": ExcelPlatform.ATARI_LYNX,
+    "macintosh": ExcelPlatform.MAC_OS,
+    "mainframe": ExcelPlatform.PDP_10,
+    "mattel aquarius": ExcelPlatform.MATTEL_AQUARIUS,
+    "microvision": ExcelPlatform.MICROVISION,
+    "mophun": ExcelPlatform.MOPHUN,
+    "msx": set([ExcelPlatform.MSX, ExcelPlatform.MSX2, ExcelPlatform.MSX_TURBO_R]),
+    "n-gage": ExcelPlatform.N_GAGE,
+    "n-gage (service)": ExcelPlatform.N_GAGE_2_0,
+    "neo geo cd": ExcelPlatform.NEO_GEO_CD,
+    "neo geo pocket color": ExcelPlatform.NEO_GEO_POCKET_COLOR,
+    "neo geo pocket": ExcelPlatform.NEO_GEO_POCKET,
+    "nes": ExcelPlatform.NES,
+    "new nintendo 3ds": ExcelPlatform.NEW_NINTENDO_3DS,
+    "nintendo 3ds": ExcelPlatform.NINTENDO_3DS,
+    "nintendo 64": ExcelPlatform.NINTENDO_64,
+    "nintendo ds": ExcelPlatform.NINTENDO_DS,
+    "nintendo dsi": set([ExcelPlatform.NINTENDO_DSI, ExcelPlatform.DSIWARE]),
+    "nintendo switch": ExcelPlatform.NINTENDO_SWITCH,
+    "nuon": ExcelPlatform.NUON,
+    "odyssey 2": ExcelPlatform.MAGNAVOX_ODYSSEY_2,
+    "oric": ExcelPlatform.ORIC,
+    "os/2": ExcelPlatform.OS_2,
+    "ouya": ExcelPlatform.OUYA,
+    "palm os": ExcelPlatform.PALM_OS,
+    "pc-6001": ExcelPlatform.NEC_PC_6001,
+    "pc-88": ExcelPlatform.NEC_PC_8801,
+    "pc-98": ExcelPlatform.NEC_PC_9801,
+    "pc-fx": ExcelPlatform.PC_FX,
+    "pippin": ExcelPlatform.BANDAI_PIPPIN,
+    "playdate": ExcelPlatform.PLAYDATE,
+    "playdia": ExcelPlatform.PLAYDIA,
+    "playstation 2": ExcelPlatform.PLAYSTATION_2,
+    "playstation 3": ExcelPlatform.PLAYSTATION_3,
+    "playstation 4": ExcelPlatform.PLAYSTATION_4,
+    "playstation 5": ExcelPlatform.PLAYSTATION_5,
+    "playstation": ExcelPlatform.PLAYSTATION,
+    "pok mon mini": ExcelPlatform.NINTENDO_POKEMON_MINI,
+    "ps vita": ExcelPlatform.PLAYSTATION_VITA,
+    "psp": ExcelPlatform.PLAYSTATION_PORTABLE,
+    "quest": ExcelPlatform.OCULUS_QUEST,
+    "sega 32x": ExcelPlatform.SEGA_32X,
+    "sega cd": ExcelPlatform.SEGA_CD,
+    "sega master system": ExcelPlatform.SEGA_MASTER_SYSTEM,
+    "sega pico": ExcelPlatform.SEGA_PICO,
+    "sega saturn": ExcelPlatform.SEGA_SATURN,
+    "sg-1000": ExcelPlatform.SEGA_SG_1000,
+    "sharp x1": ExcelPlatform.SHARP_X1,
+    "sharp x68000": ExcelPlatform.SHARP_X68000,
+    "snes": set([ExcelPlatform.SNES, ExcelPlatform.BS_X]),
+    "stadia": ExcelPlatform.GOOGLE_STADIA,
+    "super a'can": ExcelPlatform.SUPER_ACAN,
+    "supergrafx": ExcelPlatform.SUPERGRAFX,
+    "supervision": ExcelPlatform.WATARA_SUPERVISION,
+    "symbian": ExcelPlatform.SYMBIAN,
+    "ti-99/4a": ExcelPlatform.TI_99_4A,
+    "trs-80 coco": ExcelPlatform.TRS_80_COLOR_COMPUTER,
+    "turbografx cd": ExcelPlatform.TURBOGRAFX_CD,
+    "turbografx-16": ExcelPlatform.TURBOGRAFX_16,
+    "tvos": ExcelPlatform.TVOS,
+    "vic-20": ExcelPlatform.COMMODORE_VIC_20,
+    "virtual boy": ExcelPlatform.VIRTUAL_BOY,
+    "watchos": ExcelPlatform.WATCHOS,
+    "wii u": ExcelPlatform.NINTENDO_WII_U,
+    "wii": set([ExcelPlatform.NINTENDO_WII, ExcelPlatform.WIIWARE]),
+    "windows 3.x": ExcelPlatform.PC,
+    "windows 16-bit": ExcelPlatform.PC,
+    "windows apps": ExcelPlatform.PC,
+    "windows mobile": ExcelPlatform.WINDOWS_MOBILE,
+    "windows phone": ExcelPlatform.WINDOWS_PHONE,
+    "windows": ExcelPlatform.PC,
+    "wonderswan color": ExcelPlatform.WONDERSWAN_COLOR,
+    "wonderswan": ExcelPlatform.WONDERSWAN,
+    "xbox 360": ExcelPlatform.XBOX_360,
+    "xbox one": ExcelPlatform.XBOX_ONE,
+    "xbox series": ExcelPlatform.XBOX_SERIES_X_S,
+    "xbox": ExcelPlatform.XBOX,
+    "zeebo": ExcelPlatform.ZEEBO,
+    "zodiac": ExcelPlatform.TAPWAVE_ZODIAC,
+    "zx spectrum": ExcelPlatform.ZX_SPECTRUM,
 }
 
 
@@ -248,6 +347,12 @@ async def find_exclusives_missing(platform: str):
     cache_data = ExcelBackedCache().load("cache.pkl")
     games = None
 
+    def to_enum_name(plat: str) -> str:
+        plat = plat.upper().strip().replace(" ", "_")
+        if str.isnumeric(plat[0]):
+            plat = f"_{plat}"
+        return plat
+
     if cache_data is not None:
         games, _, _, _, _ = cache_data
     else:
@@ -255,16 +360,25 @@ async def find_exclusives_missing(platform: str):
 
     platform = platform.lower().strip()
 
-    sheet_platform_name = MOBY_NAME_TO_SHEET_NAME.get(platform) or platform
+    if platform in MOBY_NAME_TO_SHEET_NAME or to_enum_name(platform) in [
+        ep.name for ep in list(ExcelPlatform)
+    ]:
+        sheet_platform = (
+            MOBY_NAME_TO_SHEET_NAME.get(platform)
+            or ExcelPlatform[to_enum_name(platform)]
+        )
+    else:
+        print(f"{platform} not found in MOBY_NAME_TO_SHEET_NAME")
+        sheet_platform = None
 
     validator = MatchValidator()
     platform_games = set(
         validator.normalize(g.title)
         for g in filter(
             lambda g: (
-                (g.platform.value.lower() == sheet_platform_name)
-                if isinstance(sheet_platform_name, str)
-                else (g.platform.value.lower() in sheet_platform_name)
+                (g.platform == sheet_platform)
+                if isinstance(sheet_platform, ExcelPlatform | None)
+                else (g.platform in sheet_platform)
             ),
             games,
         )

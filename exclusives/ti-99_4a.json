@@ -47,13 +47,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Oops, I fell down a pit!",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/4549146-hunt-the-wumpus-ti-994a-oops-i-fell-down-a-pit.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/51ced92c-abb7-11ed-a5ec-02420a00019b.webp",
-                "width": 256
-            },
-            {
                 "caption": "Aah, I've been eaten by a Wumpus!",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/1284803-hunt-the-wumpus-ti-994a-aah-ive-been-eaten-by-a-wumpus.png",
@@ -61,10 +54,24 @@
                 "width": 256
             },
             {
-                "caption": "Game settings 2",
+                "caption": "Firing my arrow at the Wumpus",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/4548631-hunt-the-wumpus-ti-994a-game-settings-2.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4d5dd05a-abb7-11ed-a5ec-02420a00019b.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/4549253-hunt-the-wumpus-ti-994a-firing-my-arrow-at-the-wumpus.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/52fb4344-abb7-11ed-a5ec-02420a00019b.webp",
+                "width": 256
+            },
+            {
+                "caption": "Game settings 1",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4548493-hunt-the-wumpus-ti-994a-game-settings-1.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4c21e712-abb7-11ed-a5ec-02420a00019b.webp",
+                "width": 256
+            },
+            {
+                "caption": "In the more difficult mode you can only see the room you're currently in",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4548998-hunt-the-wumpus-ti-994a-in-the-more-difficult-mode-you-can-only-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/50533fb6-abb7-11ed-a5ec-02420a00019b.webp",
                 "width": 256
             },
             {
@@ -72,13 +79,6 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/1284994-hunt-the-wumpus-ti-994a-game-over-heres-the-score-so-far.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/d7424b3c-ab73-11ed-a13c-02420a00019f.webp",
-                "width": 256
-            },
-            {
-                "caption": "Firing my arrow at the Wumpus",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/4549253-hunt-the-wumpus-ti-994a-firing-my-arrow-at-the-wumpus.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/52fb4344-abb7-11ed-a5ec-02420a00019b.webp",
                 "width": 256
             }
         ],
@@ -168,6 +168,20 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Game over",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/2671611-ti-invaders-ti-994a-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/524c51ac-ab82-11ed-b721-02420a00019b.webp",
+                "width": 256
+            },
+            {
+                "caption": "Shoot the saucer for bonus points!",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/859571-ti-invaders-ti-994a-shoot-the-saucer-for-bonus-points.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/75f17900-ab70-11ed-bddc-02420a00019e.webp",
+                "width": 256
+            },
+            {
                 "caption": "Title screen",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/859204-ti-invaders-ti-994a-title-screen.png",
@@ -182,24 +196,10 @@
                 "width": 256
             },
             {
-                "caption": "Game over",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/2671611-ti-invaders-ti-994a-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/524c51ac-ab82-11ed-b721-02420a00019b.webp",
-                "width": 256
-            },
-            {
                 "caption": "The flying saucer flies by...",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/859456-ti-invaders-ti-994a-the-flying-saucer-flies-by.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/75b2c8fe-ab70-11ed-bddc-02420a00019e.webp",
-                "width": 256
-            },
-            {
-                "caption": "Shoot the saucer for bonus points!",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/859571-ti-invaders-ti-994a-shoot-the-saucer-for-bonus-points.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/75f17900-ab70-11ed-bddc-02420a00019e.webp",
                 "width": 256
             }
         ],
@@ -271,10 +271,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Munchman races around the maze...",
+                "caption": "Title screen",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/2104428-munchman-ti-994a-munchman-races-around-the-maze.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4dee184a-ab7b-11ed-ab77-02420a000198.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2104311-munchman-ti-994a-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4d8eb8b4-ab7b-11ed-ab77-02420a000198.webp",
                 "width": 256
             },
             {
@@ -285,10 +285,10 @@
                 "width": 256
             },
             {
-                "caption": "Title screen",
+                "caption": "Munchman races around the maze...",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/2104311-munchman-ti-994a-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4d8eb8b4-ab7b-11ed-ab77-02420a000198.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/2104428-munchman-ti-994a-munchman-races-around-the-maze.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4dee184a-ab7b-11ed-ab77-02420a000198.webp",
                 "width": 256
             },
             {
@@ -367,6 +367,20 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Beware of those bears!",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/1690693-alpiner-ti-994a-beware-of-those-bears.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5f94b29c-ab77-11ed-9d80-02420a00019a.webp",
+                "width": 256
+            },
+            {
+                "caption": "Trees and stumps can get in your way",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/1690562-alpiner-ti-994a-trees-and-stumps-can-get-in-your-way.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5f31a0f8-ab77-11ed-9d80-02420a00019a.webp",
+                "width": 256
+            },
+            {
                 "caption": "Beginning to climb up the mountain",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/5098631-alpiner-ti-994a-beginning-to-climb-up-the-mountain.png",
@@ -374,31 +388,17 @@
                 "width": 256
             },
             {
-                "caption": "Here's the mountains you'll be climbing...",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/1690420-alpiner-ti-994a-heres-the-mountains-youll-be-climbing.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5ed33a2c-ab77-11ed-9d80-02420a00019a.webp",
-                "width": 256
-            },
-            {
-                "caption": "Title screen",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/1693354-alpiner-ti-994a-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/662235d0-ab77-11ed-8b6f-02420a00019c.webp",
-                "width": 256
-            },
-            {
-                "caption": "Mountain lions can make climbing more of a challenge...",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/5098777-alpiner-ti-994a-mountain-lions-can-make-climbing-more-of-a-chall.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/190b647c-abce-11ed-a188-02420a00019a.webp",
-                "width": 256
-            },
-            {
                 "caption": "Game over",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/30239-alpiner-ti-994a-game-over.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/0e59af0c-ab65-11ed-a54d-02420a00016b.webp",
+                "width": 256
+            },
+            {
+                "caption": "Level complete!",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/5098880-alpiner-ti-994a-level-complete.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1a5a4104-abce-11ed-a188-02420a00019a.webp",
                 "width": 256
             }
         ],
@@ -479,10 +479,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Fighting",
+                "caption": "Stats of enemy",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/110289-tunnels-of-doom-ti-994a-fighting.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/79147908-ab6a-11ed-9d80-02420a00019a.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/108880-tunnels-of-doom-ti-994a-stats-of-enemy.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/764b24ce-ab6a-11ed-8ed2-02420a0001a0.webp",
                 "width": 320
             },
             {
@@ -493,10 +493,17 @@
                 "width": 320
             },
             {
-                "caption": "Stats of enemy",
+                "caption": "Now you know what will you die for",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/108880-tunnels-of-doom-ti-994a-stats-of-enemy.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/764b24ce-ab6a-11ed-8ed2-02420a0001a0.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/109382-tunnels-of-doom-ti-994a-now-you-know-what-will-you-die-for.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7742ba36-ab6a-11ed-9d80-02420a00019a.webp",
+                "width": 320
+            },
+            {
+                "caption": "FPP view",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/102376-tunnels-of-doom-ti-994a-fpp-view.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6951c174-ab6a-11ed-a5ec-02420a00019b.webp",
                 "width": 320
             },
             {
@@ -505,13 +512,6 @@
                 "image_url": "https://cdn.mobygames.com/screenshots/966069-tunnels-of-doom-ti-994a-title-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/4c77dbae-ab71-11ed-beab-02420a000199.webp",
                 "width": 256
-            },
-            {
-                "caption": "Stats",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/101090-tunnels-of-doom-ti-994a-stats.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/66c28fba-ab6a-11ed-bd13-02420a00019c.webp",
-                "width": 320
             }
         ],
         "title": "Tunnels of Doom"
@@ -591,13 +591,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Burgers are formed at the bottom of the screen",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/1467740-burger-builder-ti-994a-burgers-are-formed-at-the-bottom-of-the-s.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5fd3c5b0-ab75-11ed-87ec-02420a00019c.webp",
-                "width": 256
-            },
-            {
                 "caption": "Title screen",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/1467405-burger-builder-ti-994a-title-screen.png",
@@ -616,6 +609,13 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/1465705-burger-builder-ti-994a-climbing-a-ladder-to-avoid-that-speedy-mu.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/5b70ac4a-ab75-11ed-bddc-02420a00019e.webp",
+                "width": 256
+            },
+            {
+                "caption": "Burgers are formed at the bottom of the screen",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/1467740-burger-builder-ti-994a-burgers-are-formed-at-the-bottom-of-the-s.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5fd3c5b0-ab75-11ed-87ec-02420a00019c.webp",
                 "width": 256
             }
         ],
@@ -696,20 +696,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title screen",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/1540685-junkman-junior-ti-994a-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/055d61ee-ab76-11ed-b042-02420a00019f.webp",
-                "width": 256
-            },
-            {
-                "caption": "To reach all of the junk you'll need to jump to and from those moving ladders",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/4572778-junkman-junior-ti-994a-to-reach-all-of-the-junk-youll-need-to-ju.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4030b644-abb8-11ed-b6ee-02420a00019d.webp",
-                "width": 256
-            },
-            {
                 "caption": "Leaping over some falling, bouncing firestones...",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/4572916-junkman-junior-ti-994a-leaping-over-some-falling-bouncing-firest.png",
@@ -721,6 +707,20 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/4572631-junkman-junior-ti-994a-avoid-the-deadly-fires-on-this-level.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/3edfe99a-abb8-11ed-b6ee-02420a00019d.webp",
+                "width": 256
+            },
+            {
+                "caption": "Title screen",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/1540685-junkman-junior-ti-994a-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/055d61ee-ab76-11ed-b042-02420a00019f.webp",
+                "width": 256
+            },
+            {
+                "caption": "Nothing to it; climb and jump around the first level",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/4572496-junkman-junior-ti-994a-nothing-to-it-climb-and-jump-around-the-f.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3d6e561e-abb8-11ed-b6ee-02420a00019d.webp",
                 "width": 256
             },
             {
@@ -743,35 +743,8 @@
                     "name": "Basic Genres"
                 },
                 "description": null,
-                "id": 2,
-                "name": "Adventure"
-            },
-            {
-                "category": {
-                    "id": 1,
-                    "name": "Basic Genres"
-                },
-                "description": null,
                 "id": 76,
                 "name": "Compilation"
-            },
-            {
-                "category": {
-                    "id": 4,
-                    "name": "Gameplay"
-                },
-                "description": null,
-                "id": 23,
-                "name": "Interactive fiction / text adventure"
-            },
-            {
-                "category": {
-                    "id": 4,
-                    "name": "Gameplay"
-                },
-                "description": null,
-                "id": 30,
-                "name": "Puzzle elements"
             }
         ],
         "id": 29337,
@@ -951,17 +924,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title Screen",
+                "caption": "Quiz Instructions",
                 "height": 222,
-                "image_url": "https://cdn.mobygames.com/screenshots/15799684-number-magic-ti-994a-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b3bf11ce-beea-11ed-9c42-02420a000140.webp",
-                "width": 286
-            },
-            {
-                "caption": "Good Score",
-                "height": 222,
-                "image_url": "https://cdn.mobygames.com/screenshots/15895415-number-magic-ti-994a-good-score.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/93d0a64e-bf07-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15895170-number-magic-ti-994a-quiz-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/74293018-bf07-11ed-9c42-02420a000140.webp",
                 "width": 286
             },
             {
@@ -972,17 +938,24 @@
                 "width": 286
             },
             {
+                "caption": "Title Screen",
+                "height": 222,
+                "image_url": "https://cdn.mobygames.com/screenshots/15799684-number-magic-ti-994a-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b3bf11ce-beea-11ed-9c42-02420a000140.webp",
+                "width": 286
+            },
+            {
+                "caption": "Racing against the clock",
+                "height": 222,
+                "image_url": "https://cdn.mobygames.com/screenshots/15895206-number-magic-ti-994a-racing-against-the-clock.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/77e3e5c2-bf07-11ed-9c42-02420a000140.webp",
+                "width": 286
+            },
+            {
                 "caption": "Choose Game Type",
                 "height": 222,
                 "image_url": "https://cdn.mobygames.com/screenshots/15895155-number-magic-ti-994a-choose-game-type.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/717a09a0-bf07-11ed-9c42-02420a000140.webp",
-                "width": 286
-            },
-            {
-                "caption": "Quiz in Progress",
-                "height": 222,
-                "image_url": "https://cdn.mobygames.com/screenshots/15895188-number-magic-ti-994a-quiz-in-progress.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/75f8766a-bf07-11ed-9c42-02420a000140.webp",
                 "width": 286
             }
         ],
@@ -1063,6 +1036,27 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Hit by Photon Missile",
+                "height": 222,
+                "image_url": "https://cdn.mobygames.com/screenshots/15874956-parsec-ti-994a-hit-by-photon-missile.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b08a6a2e-bf00-11ed-9c42-02420a000140.webp",
+                "width": 286
+            },
+            {
+                "caption": "Collision with Enemy Craft!!!",
+                "height": 222,
+                "image_url": "https://cdn.mobygames.com/screenshots/15874923-parsec-ti-994a-collision-with-enemy-craft.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/aedbbf16-bf00-11ed-9c42-02420a000140.webp",
+                "width": 286
+            },
+            {
+                "caption": "Bynite Ship Attacking",
+                "height": 222,
+                "image_url": "https://cdn.mobygames.com/screenshots/15875061-parsec-ti-994a-bynite-ship-attacking.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b6ac0692-bf00-11ed-9c42-02420a000140.webp",
+                "width": 286
+            },
+            {
                 "caption": "First Wave of Aliens",
                 "height": 222,
                 "image_url": "https://cdn.mobygames.com/screenshots/15874812-parsec-ti-994a-first-wave-of-aliens.png",
@@ -1070,31 +1064,10 @@
                 "width": 286
             },
             {
-                "caption": "Dramite Ships Attacking",
+                "caption": "Title Screen",
                 "height": 222,
-                "image_url": "https://cdn.mobygames.com/screenshots/15875004-parsec-ti-994a-dramite-ships-attacking.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b3cb48a2-bf00-11ed-9c42-02420a000140.webp",
-                "width": 286
-            },
-            {
-                "caption": "Third Wave of Aliens - this time, they come from the left, so they can collide with you easily if you aren't careful",
-                "height": 222,
-                "image_url": "https://cdn.mobygames.com/screenshots/15875034-parsec-ti-994a-third-wave-of-aliens-this-time-they-come-from-the.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b4e31efe-bf00-11ed-9c42-02420a000140.webp",
-                "width": 286
-            },
-            {
-                "caption": "Urbite Ship Attacking",
-                "height": 222,
-                "image_url": "https://cdn.mobygames.com/screenshots/15800035-parsec-ti-994a-urbite-ship-attacking.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cdcfd346-beea-11ed-9c42-02420a000140.webp",
-                "width": 286
-            },
-            {
-                "caption": "Second Wave of Aliens",
-                "height": 222,
-                "image_url": "https://cdn.mobygames.com/screenshots/15874983-parsec-ti-994a-second-wave-of-aliens.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b2e8c6c6-bf00-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15874752-parsec-ti-994a-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9ee876c6-bf00-11ed-9c42-02420a000140.webp",
                 "width": 286
             }
         ],
@@ -1175,13 +1148,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title Screen / Difficulty Selection",
-                "height": 222,
-                "image_url": "https://cdn.mobygames.com/screenshots/15801652-tombstone-city-21st-century-ti-994a-title-screen-difficulty-sele.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3c209074-beeb-11ed-9c42-02420a000140.webp",
-                "width": 286
-            },
-            {
                 "caption": "Help Screen",
                 "height": 222,
                 "image_url": "https://cdn.mobygames.com/screenshots/15801271-tombstone-city-21st-century-ti-994a-help-screen.png",
@@ -1193,6 +1159,13 @@
                 "height": 222,
                 "image_url": "https://cdn.mobygames.com/screenshots/15801421-tombstone-city-21st-century-ti-994a-gameplay.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/297780b8-beeb-11ed-9c42-02420a000140.webp",
+                "width": 286
+            },
+            {
+                "caption": "Title Screen / Difficulty Selection",
+                "height": 222,
+                "image_url": "https://cdn.mobygames.com/screenshots/15801652-tombstone-city-21st-century-ti-994a-title-screen-difficulty-sele.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3c209074-beeb-11ed-9c42-02420a000140.webp",
                 "width": 286
             }
         ],
@@ -1273,17 +1246,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title screen",
-                "height": 210,
-                "image_url": "https://cdn.mobygames.com/screenshots/6876696-a-maze-ing-ti-994a-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f4630f20-abf1-11ed-803a-02420a000131.webp",
-                "width": 280
-            },
-            {
                 "caption": "Game options",
                 "height": 210,
                 "image_url": "https://cdn.mobygames.com/screenshots/6876681-a-maze-ing-ti-994a-game-options.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/f27c9442-abf1-11ed-803a-02420a000131.webp",
+                "width": 280
+            },
+            {
+                "caption": "After you either win or lose you can choose what to do next",
+                "height": 210,
+                "image_url": "https://cdn.mobygames.com/screenshots/6876678-a-maze-ing-ti-994a-after-you-either-win-or-lose-you-can-choose-w.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f252edea-abf1-11ed-803a-02420a000131.webp",
                 "width": 280
             },
             {
@@ -1394,6 +1367,20 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Game options",
+                "height": 210,
+                "image_url": "https://cdn.mobygames.com/screenshots/5310240-the-attack-ti-994a-game-options.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2564066e-abda-11ed-8cf0-02420a0001b2.webp",
+                "width": 280
+            },
+            {
+                "caption": "Gameplay; shoot the alien spores!",
+                "height": 210,
+                "image_url": "https://cdn.mobygames.com/screenshots/5312125-the-attack-ti-994a-gameplay-shoot-the-alien-spores.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/41d4de22-abda-11ed-968c-02420a0001b0.webp",
+                "width": 280
+            },
+            {
                 "caption": "A direct hit!",
                 "height": 210,
                 "image_url": "https://cdn.mobygames.com/screenshots/5315795-the-attack-ti-994a-a-direct-hit.png",
@@ -1405,20 +1392,6 @@
                 "height": 210,
                 "image_url": "https://cdn.mobygames.com/screenshots/5313482-the-attack-ti-994a-firing-at-an-opponent.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/5793d416-abda-11ed-b3af-02420a0001b6.webp",
-                "width": 280
-            },
-            {
-                "caption": "Gameplay; shoot the alien spores!",
-                "height": 210,
-                "image_url": "https://cdn.mobygames.com/screenshots/5312125-the-attack-ti-994a-gameplay-shoot-the-alien-spores.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/41d4de22-abda-11ed-968c-02420a0001b0.webp",
-                "width": 280
-            },
-            {
-                "caption": "Game options",
-                "height": 210,
-                "image_url": "https://cdn.mobygames.com/screenshots/5310240-the-attack-ti-994a-game-options.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2564066e-abda-11ed-8cf0-02420a0001b2.webp",
                 "width": 280
             },
             {
@@ -1573,10 +1546,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Player 1 is the winner!",
+                "caption": "Blackjack main menu",
                 "height": 210,
-                "image_url": "https://cdn.mobygames.com/screenshots/6885379-blackjack-poker-ti-994a-player-1-is-the-winner.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/053fa182-abf2-11ed-9f52-02420a000130.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/6877685-blackjack-poker-ti-994a-blackjack-main-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f12e19c6-abf1-11ed-b351-02420a00012e.webp",
                 "width": 280
             },
             {
@@ -1584,13 +1557,6 @@
                 "height": 210,
                 "image_url": "https://cdn.mobygames.com/screenshots/6877691-blackjack-poker-ti-994a-player-1-loses-player-2-wins.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/f16a7f4c-abf1-11ed-b351-02420a00012e.webp",
-                "width": 280
-            },
-            {
-                "caption": "Title screen",
-                "height": 210,
-                "image_url": "https://cdn.mobygames.com/screenshots/6876699-blackjack-poker-ti-994a-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f4a3a558-abf1-11ed-803a-02420a000131.webp",
                 "width": 280
             },
             {
@@ -1605,6 +1571,13 @@
                 "height": 210,
                 "image_url": "https://cdn.mobygames.com/screenshots/6876820-blackjack-poker-ti-994a-starting-a-hand.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/f1521984-abf1-11ed-98b0-02420a000130.webp",
+                "width": 280
+            },
+            {
+                "caption": "Title screen",
+                "height": 210,
+                "image_url": "https://cdn.mobygames.com/screenshots/6876699-blackjack-poker-ti-994a-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f4a3a558-abf1-11ed-803a-02420a000131.webp",
                 "width": 280
             }
         ],
@@ -1761,10 +1734,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "I won this round!",
+                "caption": "Guessing letters...",
                 "height": 210,
-                "image_url": "https://cdn.mobygames.com/screenshots/5358093-hangman-ti-994a-i-won-this-round.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/17999b8a-abde-11ed-a905-02420a0001d7.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/5357753-hangman-ti-994a-guessing-letters.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/12837eea-abde-11ed-a905-02420a0001d7.webp",
+                "width": 280
+            },
+            {
+                "caption": "Better start guessing the right letters, I'm almost out of guesses...",
+                "height": 210,
+                "image_url": "https://cdn.mobygames.com/screenshots/1877742-hangman-ti-994a-better-start-guessing-the-right-letters-im-almos.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/13b4d026-ab79-11ed-a061-02420a00019d.webp",
                 "width": 280
             },
             {
@@ -1775,24 +1755,17 @@
                 "width": 280
             },
             {
-                "caption": "Guessing letters...",
+                "caption": "I won this round!",
                 "height": 210,
-                "image_url": "https://cdn.mobygames.com/screenshots/5357753-hangman-ti-994a-guessing-letters.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/12837eea-abde-11ed-a905-02420a0001d7.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/5358093-hangman-ti-994a-i-won-this-round.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/17999b8a-abde-11ed-a905-02420a0001d7.webp",
                 "width": 280
             },
             {
-                "caption": "Game options",
+                "caption": "Title screen",
                 "height": 210,
-                "image_url": "https://cdn.mobygames.com/screenshots/5357846-hangman-ti-994a-game-options.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/142797f4-abde-11ed-a905-02420a0001d7.webp",
-                "width": 280
-            },
-            {
-                "caption": "Better start guessing the right letters, I'm almost out of guesses...",
-                "height": 210,
-                "image_url": "https://cdn.mobygames.com/screenshots/1877742-hangman-ti-994a-better-start-guessing-the-right-letters-im-almos.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/13b4d026-ab79-11ed-a061-02420a00019d.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/5357993-hangman-ti-994a-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/162c2326-abde-11ed-a905-02420a0001d7.webp",
                 "width": 280
             }
         ],
@@ -1855,17 +1828,17 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Second level, inside the castle",
+                "height": 216,
+                "image_url": "https://cdn.mobygames.com/screenshots/15916793-slymoids-ti-994a-second-level-inside-the-castle.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/21181978-bf0e-11ed-9c42-02420a000140.webp",
+                "width": 280
+            },
+            {
                 "caption": "Second level, also inside the castle",
                 "height": 216,
                 "image_url": "https://cdn.mobygames.com/screenshots/15917025-slymoids-ti-994a-second-level-also-inside-the-castle.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/33f7dbaa-bf0e-11ed-9c42-02420a000140.webp",
-                "width": 280
-            },
-            {
-                "caption": "First level, outside the cave",
-                "height": 216,
-                "image_url": "https://cdn.mobygames.com/screenshots/15916805-slymoids-ti-994a-first-level-outside-the-cave.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2184e1fc-bf0e-11ed-9c42-02420a000140.webp",
                 "width": 280
             },
             {
@@ -1876,17 +1849,17 @@
                 "width": 280
             },
             {
+                "caption": "First level, outside the cave",
+                "height": 216,
+                "image_url": "https://cdn.mobygames.com/screenshots/15916805-slymoids-ti-994a-first-level-outside-the-cave.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2184e1fc-bf0e-11ed-9c42-02420a000140.webp",
+                "width": 280
+            },
+            {
                 "caption": "Title screen",
                 "height": 216,
                 "image_url": "https://cdn.mobygames.com/screenshots/15916799-slymoids-ti-994a-title-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/214eba96-bf0e-11ed-9c42-02420a000140.webp",
-                "width": 280
-            },
-            {
-                "caption": "Fourth level, inside the cave",
-                "height": 216,
-                "image_url": "https://cdn.mobygames.com/screenshots/15916818-slymoids-ti-994a-fourth-level-inside-the-cave.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/22c049ee-bf0e-11ed-9c42-02420a000140.webp",
                 "width": 280
             }
         ],
@@ -1949,10 +1922,24 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Jumping between platforms, collecting squares, avoiding arrows",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/15913983-bouncer-ti-994a-jumping-between-platforms-collecting-squares-avo.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6be80fae-bf0d-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
                 "caption": "Game over",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/15913926-bouncer-ti-994a-game-over.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/67f2f54e-bf0d-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Level 3",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/15913941-bouncer-ti-994a-level-3.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/68bb21b8-bf0d-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
@@ -1963,24 +1950,10 @@
                 "width": 256
             },
             {
-                "caption": "When reaching the red square, center dot is reset at a higher value",
+                "caption": "Level 2",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15913971-bouncer-ti-994a-when-reaching-the-red-square-center-dot-is-reset.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6a8a4b54-bf0d-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Starting out",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15914001-bouncer-ti-994a-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6d7f0f5c-bf0d-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Getting busted by an arrow",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15913908-bouncer-ti-994a-getting-busted-by-an-arrow.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/66752f70-bf0d-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15913950-bouncer-ti-994a-level-2.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/693d7d20-bf0d-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -2070,38 +2043,38 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Each wave goes faster than the previous",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/15914313-astromania-ti-994a-each-wave-goes-faster-than-the-previous.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/81caeba2-bf0d-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Game over",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/15914268-astromania-ti-994a-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7ed3187a-bf0d-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Don't let them reach the bottom!",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/15914232-astromania-ti-994a-dont-let-them-reach-the-bottom.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7d03a460-bf0d-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "...too close",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/15924194-astromania-ti-994a-too-close.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/50c4f572-bf10-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
                 "caption": "Asteroids getting close...",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/15924227-astromania-ti-994a-asteroids-getting-close.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/54d9473a-bf10-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Title screen",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15924103-astromania-ti-994a-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/489b3a96-bf10-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Next stage - this looks more like a shoot 'em up",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15914334-astromania-ti-994a-next-stage-this-looks-more-like-a-shoot-em-up.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/82c6da48-bf0d-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Finally the meteor belt",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15914292-astromania-ti-994a-finally-the-meteor-belt.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/80bbedd8-bf0d-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Title screen when quitting",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15914199-astromania-ti-994a-title-screen-when-quitting.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7af66374-bf0d-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -2593,10 +2566,10 @@
                 "width": 304
             },
             {
-                "caption": "Don't get caught in the spider's web!",
+                "caption": "Results screen",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/8164888-honey-hunt-ti-994a-dont-get-caught-in-the-spiders-web.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f77ce082-abfb-11ed-aca6-02420a000132.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/8164063-honey-hunt-ti-994a-results-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fe72a6ec-abfb-11ed-96e1-02420a00012d.webp",
                 "width": 304
             },
             {
@@ -2607,17 +2580,17 @@
                 "width": 304
             },
             {
-                "caption": "Results screen",
+                "caption": "and bring that nectar to the hive.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/8164063-honey-hunt-ti-994a-results-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/fe72a6ec-abfb-11ed-96e1-02420a00012d.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/8160462-honey-hunt-ti-994a-and-bring-that-nectar-to-the-hive.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fbb38c50-abfb-11ed-a710-02420a000136.webp",
                 "width": 304
             },
             {
-                "caption": "Title Screen",
+                "caption": "Don't get caught in the spider's web!",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/8178069-honey-hunt-ti-994a-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f316d926-abfb-11ed-ac61-02420a00012e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/8164888-honey-hunt-ti-994a-dont-get-caught-in-the-spiders-web.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f77ce082-abfb-11ed-aca6-02420a000132.webp",
                 "width": 304
             }
         ],
@@ -2689,17 +2662,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title screen",
+                "caption": "You can break boxes",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/7082353-hopper-ti-994a-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8b55cf02-abf3-11ed-a161-02420a000136.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/7084733-hopper-ti-994a-you-can-break-boxes.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/924e20b6-abf3-11ed-96e1-02420a00012d.webp",
                 "width": 304
             },
             {
-                "caption": "Level 4",
+                "caption": "Level 3",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/7084012-hopper-ti-994a-level-4.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/90c9ad78-abf3-11ed-962d-02420a000135.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/7084736-hopper-ti-994a-level-3.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/928d5556-abf3-11ed-96e1-02420a00012d.webp",
                 "width": 304
             },
             {
@@ -2710,17 +2683,17 @@
                 "width": 304
             },
             {
-                "caption": "Level 1",
+                "caption": "Level 2",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/7081071-hopper-ti-994a-level-1.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8b0494f2-abf3-11ed-893a-02420a00012f.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/7081077-hopper-ti-994a-level-2.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8b618414-abf3-11ed-893a-02420a00012f.webp",
                 "width": 304
             },
             {
-                "caption": "Level 3",
+                "caption": "Title screen",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/7084736-hopper-ti-994a-level-3.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/928d5556-abf3-11ed-96e1-02420a00012d.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/7082353-hopper-ti-994a-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8b55cf02-abf3-11ed-a161-02420a000136.webp",
                 "width": 304
             }
         ],
@@ -2801,6 +2774,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Starting out",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/15914677-astromania-ti-994a-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/99e019e2-bf0d-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
                 "caption": "Menu",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/15914829-astromania-ti-994a-menu.png",
@@ -2808,10 +2788,17 @@
                 "width": 256
             },
             {
-                "caption": "Warning! Mother ship coming up",
+                "caption": "A very brief intro",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15915182-astromania-ti-994a-warning-mother-ship-coming-up.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b3a53fd8-bf0d-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15914729-astromania-ti-994a-a-very-brief-intro.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9c1ebeac-bf0d-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Enemy being destroyed",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/15914611-astromania-ti-994a-enemy-being-destroyed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/964637ee-bf0d-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
@@ -2819,20 +2806,6 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/15914789-astromania-ti-994a-generator-destroyed.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/9e030cdc-bf0d-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Moving on to the generator",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15914680-astromania-ti-994a-moving-on-to-the-generator.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/99f28c08-bf0d-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Game over",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15914581-astromania-ti-994a-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/941ce3c8-bf0d-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -3049,13 +3022,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Robots that look like long legged frogs",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16020693-guardian-ti-994a-robots-that-look-like-long-legged-frogs.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4690e042-bf2f-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
                 "caption": "Options",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16020687-guardian-ti-994a-options.png",
@@ -3063,10 +3029,10 @@
                 "width": 256
             },
             {
-                "caption": "Title screen",
+                "caption": "Robots drop the pods on the spots they are killed",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16020768-guardian-ti-994a-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4b35bde8-bf2f-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16020690-guardian-ti-994a-robots-drop-the-pods-on-the-spots-they-are-kill.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/467bf056-bf2f-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
@@ -3077,10 +3043,17 @@
                 "width": 256
             },
             {
-                "caption": "Two player game",
+                "caption": "Title screen",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16020666-guardian-ti-994a-two-player-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/44ca9ece-bf2f-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16020768-guardian-ti-994a-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4b35bde8-bf2f-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Robots turn white when they take a pod",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16020708-guardian-ti-994a-robots-turn-white-when-they-take-a-pod.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4720b87a-bf2f-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -3152,10 +3125,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Level 5",
+                "caption": "Level 7",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16005740-the-wall-ti-994a-level-5.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e9e6d810-bf29-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16005701-the-wall-ti-994a-level-7.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e6b49060-bf29-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Level 9",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16005665-the-wall-ti-994a-level-9.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e520f752-bf29-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
@@ -3166,17 +3146,10 @@
                 "width": 256
             },
             {
-                "caption": "Instructions",
+                "caption": "Level 4",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16005176-the-wall-ti-994a-instructions.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bd7f3164-bf29-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Falling down",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16005494-the-wall-ti-994a-falling-down.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d75c6f7a-bf29-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16005500-the-wall-ti-994a-level-4.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d79ae390-bf29-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
@@ -3264,6 +3237,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Message when quitting",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16005743-robopods-ti-994a-message-when-quitting.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ea2bb8ae-bf29-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
                 "caption": "Entering first robopod",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16005662-robopods-ti-994a-entering-first-robopod.png",
@@ -3271,10 +3251,10 @@
                 "width": 256
             },
             {
-                "caption": "Starting out",
+                "caption": "The ropopods detonated",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16005680-robopods-ti-994a-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e60715a2-bf29-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16006031-robopods-ti-994a-the-ropopods-detonated.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/03134e90-bf2a-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
@@ -3285,17 +3265,10 @@
                 "width": 256
             },
             {
-                "caption": "Skill levels",
+                "caption": "Instructions, page 2",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16005767-robopods-ti-994a-skill-levels.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ed51c97e-bf29-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "The ropopods detonated",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16006031-robopods-ti-994a-the-ropopods-detonated.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/03134e90-bf2a-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16005710-robopods-ti-994a-instructions-page-2.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e8514166-bf29-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -3385,31 +3358,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Two player game",
+                "caption": "All vehicles have been destroyed",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16006562-barrage-ti-994a-two-player-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4b8c949c-bf2a-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16006457-barrage-ti-994a-all-vehicles-have-been-destroyed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3e909fae-bf2a-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "The large pink balls can change direction",
+                "caption": "Getting bonus points when taking out multiple balls in one shot",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16006580-barrage-ti-994a-the-large-pink-balls-can-change-direction.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4e2f979e-bf2a-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16006475-barrage-ti-994a-getting-bonus-points-when-taking-out-multiple-ba.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4014a7c6-bf2a-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "Blasting away at the acid balls",
+                "caption": "Main menu",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16006502-barrage-ti-994a-blasting-away-at-the-acid-balls.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/43db07c4-bf2a-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Both towers destroyed",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16006463-barrage-ti-994a-both-towers-destroyed.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3f9a9a3a-bf2a-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16006517-barrage-ti-994a-main-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/45e0395e-bf2a-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
@@ -3417,6 +3383,13 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16006541-barrage-ti-994a-game-over.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/48ec167c-bf2a-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "The large pink balls can change direction",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16006580-barrage-ti-994a-the-large-pink-balls-can-change-direction.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4e2f979e-bf2a-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -3497,17 +3470,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Sending a ray that goes all the way through",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16042258-black-box-ti-994a-sending-a-ray-that-goes-all-the-way-through.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e6d7b9f2-bf36-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
                 "caption": "Game being explained",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16042318-black-box-ti-994a-game-being-explained.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/ea959e7e-bf36-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Sending a ray that goes all the way through",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16042258-black-box-ti-994a-sending-a-ray-that-goes-all-the-way-through.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e6d7b9f2-bf36-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
@@ -3518,17 +3491,17 @@
                 "width": 256
             },
             {
-                "caption": "Title screen",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16041886-black-box-ti-994a-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ccedc55e-bf36-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
                 "caption": "Here we can see one ray is absorbed and another one is reflected",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16042114-black-box-ti-994a-here-we-can-see-one-ray-is-absorbed-and-anothe.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/dc22530a-bf36-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting out",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16042288-black-box-ti-994a-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e900a4b4-bf36-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -3609,10 +3582,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Menu",
+                "caption": "Letter Hop: Hopping towards the V",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15633944-mr-frog-ti-994a-menu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/fd53ee50-bdea-11ed-b791-02420a0001bb.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16044397-mr-frog-ti-994a-letter-hop-hopping-towards-the-v.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/83275c54-bf37-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Letter Hop: The frog below jumps forward for each correct answer",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16044223-mr-frog-ti-994a-letter-hop-the-frog-below-jumps-forward-for-each.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7747a178-bf37-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
@@ -3623,10 +3603,10 @@
                 "width": 256
             },
             {
-                "caption": "Letter Hop: Hopping towards the V",
+                "caption": "Menu",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16044397-mr-frog-ti-994a-letter-hop-hopping-towards-the-v.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/83275c54-bf37-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15633944-mr-frog-ti-994a-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fd53ee50-bdea-11ed-b791-02420a0001bb.webp",
                 "width": 256
             },
             {
@@ -3634,13 +3614,6 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16044376-mr-frog-ti-994a-rock-hop.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/818c5336-bf37-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Letter Hop: The frog below jumps forward for each correct answer",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16044223-mr-frog-ti-994a-letter-hop-the-frog-below-jumps-forward-for-each.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7747a178-bf37-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -3721,6 +3694,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Launching a missile",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16046731-beneath-the-stars-ti-994a-launching-a-missile.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/202050f6-bf38-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
                 "caption": "Trying to shoot down an alien",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16046638-beneath-the-stars-ti-994a-trying-to-shoot-down-an-alien.png",
@@ -3728,31 +3708,24 @@
                 "width": 256
             },
             {
-                "caption": "Score table",
+                "caption": "Neutron cannon in use",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16074962-beneath-the-stars-ti-994a-score-table.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7e40880e-bf6a-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16047436-beneath-the-stars-ti-994a-neutron-cannon-in-use.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/513cbaf8-bf38-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "The lazer falling down onto the generator...",
+                "caption": "Main menu",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16046680-beneath-the-stars-ti-994a-the-lazer-falling-down-onto-the-genera.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1c6836b8-bf38-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16047451-beneath-the-stars-ti-994a-main-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5298f48e-bf38-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "...which is destroyed",
+                "caption": "Starting out",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16074749-beneath-the-stars-ti-994a-which-is-destroyed.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6a57bfd8-bf6a-11ed-9521-02420a000152.webp",
-                "width": 256
-            },
-            {
-                "caption": "Game over",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16046665-beneath-the-stars-ti-994a-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1bacca18-bf38-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16074983-beneath-the-stars-ti-994a-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/80873180-bf6a-11ed-9521-02420a000152.webp",
                 "width": 256
             }
         ],
@@ -3829,17 +3802,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title screen",
+                "caption": "Game over",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16064953-munchman-ii-ti-994a-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4d451fb0-bf67-11ed-9521-02420a000152.webp",
-                "width": 256
-            },
-            {
-                "caption": "Starting out",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16064947-munchman-ii-ti-994a-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4d1327ee-bf67-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16064956-munchman-ii-ti-994a-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4d592fd2-bf67-11ed-9521-02420a000152.webp",
                 "width": 256
             },
             {
@@ -3850,6 +3816,13 @@
                 "width": 256
             },
             {
+                "caption": "Starting out",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16064947-munchman-ii-ti-994a-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4d1327ee-bf67-11ed-9521-02420a000152.webp",
+                "width": 256
+            },
+            {
                 "caption": "Getting killed",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16074797-munchman-ii-ti-994a-getting-killed.png",
@@ -3857,10 +3830,10 @@
                 "width": 256
             },
             {
-                "caption": "Game over",
+                "caption": "Eating an energizer",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16064956-munchman-ii-ti-994a-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4d592fd2-bf67-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16064944-munchman-ii-ti-994a-eating-an-energizer.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4cfc10fe-bf67-11ed-9521-02420a000152.webp",
                 "width": 256
             }
         ],
@@ -3941,24 +3914,17 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Game over",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16073896-mean-streets-ti-994a-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/29ca2d2a-bf6a-11ed-9521-02420a000152.webp",
+                "width": 256
+            },
+            {
                 "caption": "The SWAT truck enters the scene",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16076742-mean-streets-ti-994a-the-swat-truck-enters-the-scene.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/18fc24ac-bf6b-11ed-9521-02420a000152.webp",
-                "width": 256
-            },
-            {
-                "caption": "Warning for falling bombs (the tiny red dot)",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16073916-mean-streets-ti-994a-warning-for-falling-bombs-the-tiny-red-dot.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2b36da00-bf6a-11ed-9521-02420a000152.webp",
-                "width": 256
-            },
-            {
-                "caption": "Another terrorist appear further away",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16074275-mean-streets-ti-994a-another-terrorist-appear-further-away.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3f9ecf8e-bf6a-11ed-9521-02420a000152.webp",
                 "width": 256
             },
             {
@@ -3969,10 +3935,17 @@
                 "width": 256
             },
             {
-                "caption": "The first terrorist pops up",
+                "caption": "Loading screen",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16073773-mean-streets-ti-994a-the-first-terrorist-pops-up.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/213a5d9c-bf6a-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16076790-mean-streets-ti-994a-loading-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1d97208e-bf6b-11ed-9521-02420a000152.webp",
+                "width": 256
+            },
+            {
+                "caption": "About to start",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16073779-mean-streets-ti-994a-about-to-start.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/22964624-bf6a-11ed-9521-02420a000152.webp",
                 "width": 256
             }
         ],
@@ -4053,17 +4026,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Spell being thrown at ghost",
+                "caption": "A goblin trader",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16078788-carfax-abbey-ti-994a-spell-being-thrown-at-ghost.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d163425a-bf6b-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16079058-carfax-abbey-ti-994a-a-goblin-trader.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e7b522c6-bf6b-11ed-9521-02420a000152.webp",
                 "width": 256
             },
             {
-                "caption": "Gaining points for entering a room",
+                "caption": "Status screen",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16079076-carfax-abbey-ti-994a-gaining-points-for-entering-a-room.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e8e8f488-bf6b-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16079049-carfax-abbey-ti-994a-status-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e7676fea-bf6b-11ed-9521-02420a000152.webp",
                 "width": 256
             },
             {
@@ -4074,17 +4047,17 @@
                 "width": 256
             },
             {
-                "caption": "Showing map",
+                "caption": "Finding the crucifix",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16079202-carfax-abbey-ti-994a-showing-map.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f7922946-bf6b-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16079187-carfax-abbey-ti-994a-finding-the-crucifix.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f64f3fce-bf6b-11ed-9521-02420a000152.webp",
                 "width": 256
             },
             {
-                "caption": "Encounter with a skeleton",
+                "caption": "Finding some garlic",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16079160-carfax-abbey-ti-994a-encounter-with-a-skeleton.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f514d9ca-bf6b-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16079139-carfax-abbey-ti-994a-finding-some-garlic.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f3edb486-bf6b-11ed-9521-02420a000152.webp",
                 "width": 256
             }
         ],
@@ -4165,17 +4138,31 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Car turns into submarine",
+                "caption": "Showing time left",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16080212-007-aqua-base-ti-994a-car-turns-into-submarine.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/458a6f3c-bf6c-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16080065-007-aqua-base-ti-994a-showing-time-left.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3e0751e4-bf6c-11ed-9521-02420a000152.webp",
                 "width": 256
             },
             {
-                "caption": "Trying to exit the sub while in water",
+                "caption": "Title screen",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16080176-007-aqua-base-ti-994a-trying-to-exit-the-sub-while-in-water.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4434321c-bf6c-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16080281-007-aqua-base-ti-994a-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/48a74974-bf6c-11ed-9521-02420a000152.webp",
+                "width": 256
+            },
+            {
+                "caption": "Entering a command",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16080236-007-aqua-base-ti-994a-entering-a-command.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4737d004-bf6c-11ed-9521-02420a000152.webp",
+                "width": 256
+            },
+            {
+                "caption": "Entering the base",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16080095-007-aqua-base-ti-994a-entering-the-base.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3f654df2-bf6c-11ed-9521-02420a000152.webp",
                 "width": 256
             },
             {
@@ -4183,20 +4170,6 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16080035-007-aqua-base-ti-994a-time-runs-out.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/3c1f553e-bf6c-11ed-9521-02420a000152.webp",
-                "width": 256
-            },
-            {
-                "caption": "Showing inventory",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16080143-007-aqua-base-ti-994a-showing-inventory.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4215f27c-bf6c-11ed-9521-02420a000152.webp",
-                "width": 256
-            },
-            {
-                "caption": "Using hint feature",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16080116-007-aqua-base-ti-994a-using-hint-feature.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/40f75250-bf6c-11ed-9521-02420a000152.webp",
                 "width": 256
             }
         ],
@@ -4284,17 +4257,17 @@
                 "width": 256
             },
             {
+                "caption": "Getting a threatening message",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16096308-whos-behind-the-mexican-ufos-ti-994a-getting-a-threatening-messa.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2367e902-bf71-11ed-9521-02420a000152.webp",
+                "width": 256
+            },
+            {
                 "caption": "Returning to the White House",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16096296-whos-behind-the-mexican-ufos-ti-994a-returning-to-the-white-hous.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/22f4c9cc-bf71-11ed-9521-02420a000152.webp",
-                "width": 256
-            },
-            {
-                "caption": "Athens",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16083833-whos-behind-the-mexican-ufos-ti-994a-athens.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4bbf2f72-bf6d-11ed-9521-02420a000152.webp",
                 "width": 256
             },
             {
@@ -4305,10 +4278,10 @@
                 "width": 256
             },
             {
-                "caption": "Finally finding the UFO",
+                "caption": "All interaction is done through choice like these",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16096299-whos-behind-the-mexican-ufos-ti-994a-finally-finding-the-ufo.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/231168a2-bf71-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16096320-whos-behind-the-mexican-ufos-ti-994a-all-interaction-is-done-thr.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/23e37aea-bf71-11ed-9521-02420a000152.webp",
                 "width": 256
             }
         ],
@@ -4387,20 +4360,6 @@
                 "width": 256
             },
             {
-                "caption": "Shooting a laser",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16096953-laser-shield-ti-994a-shooting-a-laser.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/46acbab4-bf71-11ed-9521-02420a000152.webp",
-                "width": 256
-            },
-            {
-                "caption": "Game over",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16085771-laser-shield-ti-994a-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/caccce64-bf6d-11ed-9521-02420a000152.webp",
-                "width": 256
-            },
-            {
                 "caption": "Laser base destroyed",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16097013-laser-shield-ti-994a-laser-base-destroyed.png",
@@ -4412,6 +4371,20 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16096950-laser-shield-ti-994a-starting-out.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/46969310-bf71-11ed-9521-02420a000152.webp",
+                "width": 256
+            },
+            {
+                "caption": "Shooting a laser",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16096953-laser-shield-ti-994a-shooting-a-laser.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/46acbab4-bf71-11ed-9521-02420a000152.webp",
+                "width": 256
+            },
+            {
+                "caption": "Game over",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16085771-laser-shield-ti-994a-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/caccce64-bf6d-11ed-9521-02420a000152.webp",
                 "width": 256
             }
         ],
@@ -4501,27 +4474,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The background colour changes every playthrough",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16139538-99vaders-ti-994a-the-background-colour-changes-every-playthrough.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5d163e90-bf7d-11ed-9521-02420a000152.webp",
-                "width": 256
-            },
-            {
-                "caption": "Wave completed",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16139244-99vaders-ti-994a-wave-completed.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4eb69890-bf7d-11ed-9521-02420a000152.webp",
-                "width": 256
-            },
-            {
-                "caption": "Mothership taking off",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16139898-99vaders-ti-994a-mothership-taking-off.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/772c4900-bf7d-11ed-9521-02420a000152.webp",
-                "width": 256
-            },
-            {
                 "caption": "A deadly vessel appears",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/15893440-99vaders-ti-994a-a-deadly-vessel-appears.png",
@@ -4529,10 +4481,31 @@
                 "width": 256
             },
             {
-                "caption": "Aliens start piling up quickly",
+                "caption": "Blasting a descending alien",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15893200-99vaders-ti-994a-aliens-start-piling-up-quickly.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b241e940-bf06-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16139541-99vaders-ti-994a-blasting-a-descending-alien.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5d2b32b4-bf7d-11ed-9521-02420a000152.webp",
+                "width": 256
+            },
+            {
+                "caption": "Game over",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16139523-99vaders-ti-994a-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5cabfa58-bf7d-11ed-9521-02420a000152.webp",
+                "width": 256
+            },
+            {
+                "caption": "Getting killed by a vessel",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16139520-99vaders-ti-994a-getting-killed-by-a-vessel.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5c9660b2-bf7d-11ed-9521-02420a000152.webp",
+                "width": 256
+            },
+            {
+                "caption": "Wave completed",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16139244-99vaders-ti-994a-wave-completed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4eb69890-bf7d-11ed-9521-02420a000152.webp",
                 "width": 256
             }
         ],
@@ -4613,27 +4586,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Jumping over a pylon",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16142127-the-secret-agent-ti-994a-jumping-over-a-pylon.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3324f6f2-bf7e-11ed-9521-02420a000152.webp",
-                "width": 256
-            },
-            {
-                "caption": "Second stage: cable cars",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16142058-the-secret-agent-ti-994a-second-stage-cable-cars.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/26eba110-bf7e-11ed-9521-02420a000152.webp",
-                "width": 256
-            },
-            {
-                "caption": "Title screen",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16141914-the-secret-agent-ti-994a-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1675327e-bf7e-11ed-9521-02420a000152.webp",
-                "width": 256
-            },
-            {
                 "caption": "Starting out",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16141923-the-secret-agent-ti-994a-starting-out.png",
@@ -4645,6 +4597,27 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16141920-the-secret-agent-ti-994a-getting-knocked-off.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/169f7476-bf7e-11ed-9521-02420a000152.webp",
+                "width": 256
+            },
+            {
+                "caption": "Jumping over a pylon",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16142127-the-secret-agent-ti-994a-jumping-over-a-pylon.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3324f6f2-bf7e-11ed-9521-02420a000152.webp",
+                "width": 256
+            },
+            {
+                "caption": "Jumping between carriages",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16141917-the-secret-agent-ti-994a-jumping-between-carriages.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/16890c9a-bf7e-11ed-9521-02420a000152.webp",
+                "width": 256
+            },
+            {
+                "caption": "Second stage: cable cars",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16142058-the-secret-agent-ti-994a-second-stage-cable-cars.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/26eba110-bf7e-11ed-9521-02420a000152.webp",
                 "width": 256
             }
         ],
@@ -4734,27 +4707,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Failing to dock leads to getting caught in explosion",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16145634-pulsar-ti-994a-failing-to-dock-leads-to-getting-caught-in-explos.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6fdbf18a-bf7f-11ed-9521-02420a000152.webp",
-                "width": 256
-            },
-            {
-                "caption": "Mothership appears",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16145649-pulsar-ti-994a-mothership-appears.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/712b12f0-bf7f-11ed-9521-02420a000152.webp",
-                "width": 256
-            },
-            {
-                "caption": "Being chased by a comet",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16145643-pulsar-ti-994a-being-chased-by-a-comet.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7101aa00-bf7f-11ed-9521-02420a000152.webp",
-                "width": 256
-            },
-            {
                 "caption": "Starting out",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16145655-pulsar-ti-994a-starting-out.png",
@@ -4762,10 +4714,31 @@
                 "width": 256
             },
             {
-                "caption": "Caught by space pirates' tractor beam",
+                "caption": "Failing to dock leads to getting caught in explosion",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16145637-pulsar-ti-994a-caught-by-space-pirates-tractor-beam.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/70db9cfc-bf7f-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16145634-pulsar-ti-994a-failing-to-dock-leads-to-getting-caught-in-explos.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6fdbf18a-bf7f-11ed-9521-02420a000152.webp",
+                "width": 256
+            },
+            {
+                "caption": "Title screen",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16145403-pulsar-ti-994a-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/60b44d2e-bf7f-11ed-9521-02420a000152.webp",
+                "width": 256
+            },
+            {
+                "caption": "Docking with mothership",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16145646-pulsar-ti-994a-docking-with-mothership.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7115ad0c-bf7f-11ed-9521-02420a000152.webp",
+                "width": 256
+            },
+            {
+                "caption": "Collecting ore",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16145652-pulsar-ti-994a-collecting-ore.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/713fbb38-bf7f-11ed-9521-02420a000152.webp",
                 "width": 256
             }
         ],
@@ -4846,27 +4819,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Game over - out of spray",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16172326-fly-snuffer-ti-994a-game-over-out-of-spray.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0b75d306-c1c7-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Level 2",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16172332-fly-snuffer-ti-994a-level-2.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0babb386-c1c7-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "A cockroach runs across the floor",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16172329-fly-snuffer-ti-994a-a-cockroach-runs-across-the-floor.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0b924ae0-c1c7-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "Here comes the flies",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16173196-fly-snuffer-ti-994a-here-comes-the-flies.png",
@@ -4874,10 +4826,31 @@
                 "width": 256
             },
             {
+                "caption": "Game over - out of spray",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16172326-fly-snuffer-ti-994a-game-over-out-of-spray.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0b75d306-c1c7-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
                 "caption": "Title screen",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16179065-fly-snuffer-ti-994a-title-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/851c24c4-c1c9-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting out",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16173046-fly-snuffer-ti-994a-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/359d57a8-c1c7-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Level 2",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16172332-fly-snuffer-ti-994a-level-2.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0babb386-c1c7-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -4949,10 +4922,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Additional baskets are given when scoring well",
+                "caption": "Missing an apple",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16178806-newtons-revenge-ti-994a-additional-baskets-are-given-when-scorin.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/71a14afa-c1c9-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16175035-newtons-revenge-ti-994a-missing-an-apple.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/06f331ec-c1c8-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -4963,17 +4936,17 @@
                 "width": 256
             },
             {
-                "caption": "Missing an apple",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16175035-newtons-revenge-ti-994a-missing-an-apple.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/06f331ec-c1c8-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "Title screen/level selection",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16173466-newtons-revenge-ti-994a-title-screenlevel-selection.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/67005ea8-c1c7-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting out",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16179191-newtons-revenge-ti-994a-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/949d544a-c1c9-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -5043,6 +5016,20 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Moving to level 2 after ten treasures being collected",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16193326-blackbeards-treasure-ti-994a-moving-to-level-2-after-ten-treasur.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a1c83578-c1cd-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Game over",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16181033-blackbeards-treasure-ti-994a-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3756b168-c1ca-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
                 "caption": "Getting an extra diver after 20 treasures",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16180919-blackbeards-treasure-ti-994a-getting-an-extra-diver-after-20-tre.png",
@@ -5050,24 +5037,10 @@
                 "width": 256
             },
             {
-                "caption": "Grabbing some treasure on the sea floor",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16180922-blackbeards-treasure-ti-994a-grabbing-some-treasure-on-the-sea-f.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2eeeb62e-c1ca-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "Trying to avoid being eaten by a shark",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16180925-blackbeards-treasure-ti-994a-trying-to-avoid-being-eaten-by-a-sh.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/2f074022-c1ca-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Title screen",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16189693-blackbeards-treasure-ti-994a-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a54a87c4-c1cc-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -5205,17 +5178,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Trying to take a gun from the jail",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16187638-miner-49er-ti-994a-trying-to-take-a-gun-from-the-jail.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/23e292ee-c1cc-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "Inventory",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16187950-miner-49er-ti-994a-inventory.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/3c690a78-c1cc-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting out",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16188043-miner-49er-ti-994a-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/41fd65ce-c1cc-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Seeing a ghost at the saloon",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16187686-miner-49er-ti-994a-seeing-a-ghost-at-the-saloon.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/27c7d932-c1cc-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -5226,17 +5206,10 @@
                 "width": 256
             },
             {
-                "caption": "A bear is blocking the entrance to the mine",
+                "caption": "Trying to take a gun from the jail",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16187902-miner-49er-ti-994a-a-bear-is-blocking-the-entrance-to-the-mine.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/37b7a69c-c1cc-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Starting out",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16188043-miner-49er-ti-994a-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/41fd65ce-c1cc-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16187638-miner-49er-ti-994a-trying-to-take-a-gun-from-the-jail.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/23e292ee-c1cc-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -5317,13 +5290,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title screen",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16189684-stone-age-ti-994a-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a5087e1a-c1cc-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "Using log to float on the stream",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16189687-stone-age-ti-994a-using-log-to-float-on-the-stream.png",
@@ -5342,6 +5308,13 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16193122-stone-age-ti-994a-starting-out.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/8bb7ab2e-c1cd-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Title screen",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16189684-stone-age-ti-994a-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a5087e1a-c1cc-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -5429,24 +5402,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Trying to take a book from a wizard",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16189666-haunted-house-ti-994a-trying-to-take-a-book-from-a-wizard.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a4843664-c1cc-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "Starting out",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16189678-haunted-house-ti-994a-starting-out.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/a4de2b56-c1cc-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Checking the inventory",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16189669-haunted-house-ti-994a-checking-the-inventory.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a49cb9c8-c1cc-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -5457,10 +5416,24 @@
                 "width": 256
             },
             {
-                "caption": "Title screen",
+                "caption": "Checking the inventory",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16189681-haunted-house-ti-994a-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a4f2c4e4-c1cc-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16189669-haunted-house-ti-994a-checking-the-inventory.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a49cb9c8-c1cc-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Entering the house",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16189672-haunted-house-ti-994a-entering-the-house.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a4b185ba-c1cc-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Trying to take a book from a wizard",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16189666-haunted-house-ti-994a-trying-to-take-a-book-from-a-wizard.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a4843664-c1cc-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -5541,13 +5514,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Starting out",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16189660-in-search-of-the-four-vedas-ti-994a-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a4588e1a-c1cc-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "Inventory",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16189654-in-search-of-the-four-vedas-ti-994a-inventory.png",
@@ -5555,10 +5521,10 @@
                 "width": 256
             },
             {
-                "caption": "Title screen",
+                "caption": "Starting out",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16189663-in-search-of-the-four-vedas-ti-994a-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a46d50ca-c1cc-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16189660-in-search-of-the-four-vedas-ti-994a-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a4588e1a-c1cc-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -5566,6 +5532,13 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16189657-in-search-of-the-four-vedas-ti-994a-climbing-a-tree-only-to-find.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/a4425faa-c1cc-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Title screen",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16189663-in-search-of-the-four-vedas-ti-994a-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a46d50ca-c1cc-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -5619,20 +5592,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title screen",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16197165-barnyard-fun-ti-994a-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bd6cf3f8-c1ce-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Starting out",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16197162-barnyard-fun-ti-994a-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bd542a62-c1ce-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "Pressing a number reveals an animal",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16197156-barnyard-fun-ti-994a-pressing-a-number-reveals-an-animal.png",
@@ -5640,17 +5599,31 @@
                 "width": 256
             },
             {
-                "caption": "Found animals appear at the bottom",
+                "caption": "Level selection",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16197150-barnyard-fun-ti-994a-found-animals-appear-at-the-bottom.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bcdfc17c-c1ce-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16197192-barnyard-fun-ti-994a-level-selection.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bf74c1bc-c1ce-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
-                "caption": "A correct match",
+                "caption": "The advanced level has animals of different colours",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16197153-barnyard-fun-ti-994a-a-correct-match.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bcf87118-c1ce-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16197141-barnyard-fun-ti-994a-the-advanced-level-has-animals-of-different.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bc9b0cda-c1ce-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Game is won after five animals",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16197147-barnyard-fun-ti-994a-game-is-won-after-five-animals.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bcc974d0-c1ce-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting out",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16197162-barnyard-fun-ti-994a-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bd542a62-c1ce-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -5740,17 +5713,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Soon it gets close",
+                "caption": "Monster attacking",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16273025-moon-mine-ti-994a-soon-it-gets-close.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/22e38ab4-c1e6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16273973-moon-mine-ti-994a-monster-attacking.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/70599e5a-c1e6-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
-                "caption": "Sending out a crew member to retrieve object",
+                "caption": "The creatures come in many different shapes and colours",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16273964-moon-mine-ti-994a-sending-out-a-crew-member-to-retrieve-object.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7011724c-c1e6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16273799-moon-mine-ti-994a-the-creatures-come-in-many-different-shapes-an.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/63b7f4b2-c1e6-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -5761,17 +5734,17 @@
                 "width": 256
             },
             {
-                "caption": "Title screen",
+                "caption": "Zygonaut appearing",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16273031-moon-mine-ti-994a-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/231232ce-c1e6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16273970-moon-mine-ti-994a-zygonaut-appearing.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7043b342-c1e6-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
-                "caption": "The creatures come in many different shapes and colours",
+                "caption": "Enemy appears in the distance",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16273799-moon-mine-ti-994a-the-creatures-come-in-many-different-shapes-an.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/63b7f4b2-c1e6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16273028-moon-mine-ti-994a-enemy-appears-in-the-distance.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/22f88f9a-c1e6-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -5866,17 +5839,17 @@
                 "width": 256
             },
             {
+                "caption": "Second level",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16279376-rock-runner-ti-994a-second-level.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1e25cda0-c1e8-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
                 "caption": "Title screen",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16279154-rock-runner-ti-994a-title-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/12427ff6-c1e8-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Placing a bomb, now run away",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16279745-rock-runner-ti-994a-placing-a-bomb-now-run-away.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/38c17a92-c1e8-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -6069,13 +6042,6 @@
                 "width": 272
             },
             {
-                "caption": "Copyright screen.",
-                "height": 208,
-                "image_url": "https://cdn.mobygames.com/screenshots/17065733-numeration-2-at-the-carnival-ti-994a-copyright-screen.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/54bc76dc-e7fb-11ed-bd8a-02420a000178.webp",
-                "width": 272
-            },
-            {
                 "caption": "Round to tens. Can we calculate the weight of these bananas?",
                 "height": 208,
                 "image_url": "https://cdn.mobygames.com/screenshots/17065749-numeration-2-at-the-carnival-ti-994a-round-to-tens-can-we-calcul.jpg",
@@ -6087,6 +6053,13 @@
                 "height": 208,
                 "image_url": "https://cdn.mobygames.com/screenshots/17065737-numeration-2-at-the-carnival-ti-994a-title-screen.jpg",
                 "thumbnail_image_url": "https://cdn.mobygames.com/56318818-e7fb-11ed-af97-02420a000177.webp",
+                "width": 272
+            },
+            {
+                "caption": "Copyright screen.",
+                "height": 208,
+                "image_url": "https://cdn.mobygames.com/screenshots/17065733-numeration-2-at-the-carnival-ti-994a-copyright-screen.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/54bc76dc-e7fb-11ed-bd8a-02420a000178.webp",
                 "width": 272
             }
         ],
@@ -6617,5 +6590,970 @@
         "sample_cover": null,
         "sample_screenshots": [],
         "title": "Early Reading"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Doom Games I</em> is a series of unofficial add-ons for <a href=\"https://www.mobygames.com/game/16598/tunnels-of-doom/\">Tunnels of Doom</a> for the TI-99/4A.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 62,
+                "name": "Add-on"
+            }
+        ],
+        "id": 230094,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/230094/doom-games-i/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 47,
+                    "name": "TI-99/4A"
+                },
+                "1987"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/19172429-doom-games-i-ti-994a-front-cover.jpg",
+            "platforms": [
+                "TI-99/4A"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/08168aac-7ab7-11ef-b9ba-02420a00011f.webp",
+            "width": 503
+        },
+        "sample_screenshots": [],
+        "title": "Doom Games I"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Doom Games II</em> is the second in a series of unofficial add-ons for <a href=\"https://www.mobygames.com/game/16598/tunnels-of-doom/\">Tunnels of Doom</a> for the TI-99/4A.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 62,
+                "name": "Add-on"
+            }
+        ],
+        "id": 230095,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/230095/doom-games-ii/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 47,
+                    "name": "TI-99/4A"
+                },
+                "1988"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/19172441-doom-games-ii-ti-994a-front-cover.jpg",
+            "platforms": [
+                "TI-99/4A"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/13bd06aa-7ab8-11ef-bf6d-02420a000117.webp",
+            "width": 503
+        },
+        "sample_screenshots": [],
+        "title": "Doom Games II"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Doom Games III</em> is the third in a series of unofficial add-ons for <a href=\"https://www.mobygames.com/game/16598/tunnels-of-doom/\">Tunnels of Doom</a> for the TI-99/4A.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 62,
+                "name": "Add-on"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 230398,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/230398/doom-games-iii/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 47,
+                    "name": "TI-99/4A"
+                },
+                "1989"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Doom Games III"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>The Volcano Fortress</em> is a compilation of five modules for the TI-99/4A game <a href=\"https://www.mobygames.com/game/16598/tunnels-of-doom/\">Tunnels of Doom</a>.</p>\n<p>The largest of the five titles is the aforementioned <em>The Volcano Fortress</em>.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 62,
+                "name": "Add-on"
+            }
+        ],
+        "id": 230416,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/230416/the-volcano-fortress/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 47,
+                    "name": "TI-99/4A"
+                },
+                "1985"
+            ]
+        ],
+        "sample_cover": {
+            "height": 800,
+            "image_url": "https://cdn.mobygames.com/covers/19172453-the-volcano-fortress-ti-994a-front-cover.jpg",
+            "platforms": [
+                "TI-99/4A"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/9a753df6-7ab9-11ef-a249-02420a00011d.webp",
+            "width": 509
+        },
+        "sample_screenshots": [],
+        "title": "The Volcano Fortress"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>COMPUTE!'s First Book of TI Games</em> is an educational book with BASIC type-in games, some of which were previously published in COMPUTE! magazine.</p>\n<p>The book also contains detailed descriptions on how to design and write computer games.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 76,
+                "name": "Compilation"
+            }
+        ],
+        "id": 230417,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/230417/computes-first-book-of-ti-games/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 47,
+                    "name": "TI-99/4A"
+                },
+                "1983"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "COMPUTE!'s First Book of TI Games"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Oliver's Twist</em> is a text adventure for the TI-99/4A.</p>\n<p>At the end of the player's long journey from their home village, they are standing in front of the castle of their recently departed uncle, King Oliver IV.  Despite being one of the king's poorest relations, the player was surprised to find the entire kingdom has been bequeathed to them.  Before the player can inherit the castle, they must mollify the spirits of their ancestors by finding and returning their ancestor's 15 treasures to the proper resting place.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 230485,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/230485/olivers-twist/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 47,
+                    "name": "TI-99/4A"
+                },
+                "1988"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Oliver's Twist"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Rattlesnake Bend</em> is a text adventure for the TI-99/4a.</p>\n<p>The player takes on the role of Kidd Poncho Dias, the sharpest adventurer in the Wild West, where there is no law but an honest man and his gun. The player's job is to comb Santa Diablo for Santiago Escondido, the most deceitful bandit in all of Santa Diablo.  The player must first escape Death Valley, and they head for Rattlesnake Bend to defeat the bandit.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 23,
+                "name": "Interactive fiction / text adventure"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 207,
+                "name": "North America"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 213,
+                "name": "Western"
+            }
+        ],
+        "id": 230586,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/230586/rattlesnake-bend/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 47,
+                    "name": "TI-99/4A"
+                },
+                "1989"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Rattlesnake Bend"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Castle Darkholm</em> is a text adventure for the TI-99/4A.</p>\n<p>The player has been chosen for their courage, skill, and intellect to become the champion for those lives threatened by the evil Baron Manfred Ritter Von Darkholm.  The Baron has risen from the grave to prey upon mortal men.  Chosen by the Council of Elders to infiltrate Castle Darkholm, the player must meet with a priest skilled in the dealings of the dead, and then put an end to the cursed Baron.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 23,
+                "name": "Interactive fiction / text adventure"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 78,
+                "name": "Fantasy"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 83,
+                "name": "Horror"
+            }
+        ],
+        "id": 230587,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/230587/castle-darkholm/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 47,
+                    "name": "TI-99/4A"
+                },
+                "1990"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Castle Darkholm"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Witch's Brew</em> is a text adventure for the TI-99/4A.</p>\n<p>The day has not gone well for the player.  The rent is due, they lost their job, and even their dog has run away.  Tired of the daily grind, the player drifts asleep where they dream of heroic deeds, magic castles and adventure. </p>\n<p>An introductory adventure for novice players, the adventure is designed for players new to the genre.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 23,
+                "name": "Interactive fiction / text adventure"
+            }
+        ],
+        "id": 230700,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/230700/witchs-brew/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 47,
+                    "name": "TI-99/4A"
+                },
+                "1989"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Witch's Brew"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Zoom Flume</em> is a text adventure for the TI-99/4A.</p>\n<p>The player is at the water park and they only have have so much money to spend, so they have to use it wisely.  They can enjoy the super slide, speed down the twisty Zoom Flume, attempt to hang onto the Tarzan Trolley, ride the waves in the wave pool, or go on a raft down the Raging Rapids.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 130,
+                "name": "Text-based / Spreadsheet"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 23,
+                "name": "Interactive fiction / text adventure"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 171,
+                "name": "Text parser"
+            }
+        ],
+        "id": 230852,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/230852/zoom-flume/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 47,
+                    "name": "TI-99/4A"
+                },
+                "1989"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Zoom Flume"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Bomb Squad</em> is a strategy game for the TI-99/4A.</p>\n<p>The player must disarm a bomb by cutting three of the five wires on the device in the correct order.  The player has a limited time to defuse each bomb.  The player has testing equipment which can connect to three wires at a time to provide information on which wires are safe to cut.  </p>\n<p>The wires are ground, static, timer, fuse, and primary.   If ground is ever cut, the bomb explodes.  If the static wire is connected to the test device, the player receives no information.  The primary circuit sets off the bomb if either the timer or fuse are cut.  The fuse circuit sets the bomb off if the timer is cut. The timer is the main ignition, and must be cut before the timer reaches zero.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 4,
+                "name": "Strategy / tactics"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            }
+        ],
+        "id": 231041,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/231041/bomb-squad/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 47,
+                    "name": "TI-99/4A"
+                },
+                "1981"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Bomb Squad"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Meteor Shower</em> is a 1-player action game for the TI-99/4A.</p>\n<p>The goal of the game is to navigate a spaceship that moves in the cardinal directions through a meteor shower.  The meteors can be set to either flow from the top to the bottom of the screen, or can flow in both directions.  The goal is to move the ship from the left to the right of the screen, appearing again on the left as the meteors move faster.  It's game over when the ship is hit.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 231042,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/231042/meteor-shower/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 47,
+                    "name": "TI-99/4A"
+                },
+                "1981"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Meteor Shower"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Ski</em> is a 1-player arcade game for the TI/99-4A.</p>\n<p>The player controls a skier as they speed down a hill. The goal is to reach the bottom of the hill within three minutes.  If the player tries to ski too fast, they may hit an obstacle and fall.  Skiing conditions vary from excellent to icy.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 5,
+                "name": "Sports"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 13,
+                "name": "Top-down"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 3,
+                    "name": "Sports Themes"
+                },
+                "description": null,
+                "id": 95,
+                "name": "Snowboarding / skiing"
+            }
+        ],
+        "id": 231043,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/231043/ski/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 47,
+                    "name": "TI-99/4A"
+                },
+                "1981"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Ski"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>3-D Maze</em> is a single-player puzzle game for the TI-99/4A.</p>\n<p>The player navigates a maze from a first-person perspective with the goal to reach the exit.  There are several levels of maze difficulty.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 118,
+                "name": "Puzzle"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 7,
+                "name": "1st-person"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            }
+        ],
+        "id": 231044,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/231044/3-d-maze/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 47,
+                    "name": "TI-99/4A"
+                },
+                "1981"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "3-D Maze"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Space Battle 2056</em> is a single-player arcade game for the TI-99/4A.</p>\n<p>The player commands an Earth force tasked with defending a helpless fleet of ships and fuel station against an alien force bent on its destruction.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 231045,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/231045/space-battle-2056/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 47,
+                    "name": "TI-99/4A"
+                },
+                "1981"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Space Battle 2056"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Land on Mars</em> is a single-player arcade game for the TI-99/4A.</p>\n<p>The player attempts to pilot a Martian lander to a safe landing on Mars.  The player must determine direction of firing engines and how much power to apply to ensure a safe landing.  After landing, the player tries to blast back into space to dock with the orbiter.  A hungry Martian dragon can be added to increase the challenge level.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 9,
+                "name": "Arcade"
+            },
+            {
+                "category": {
+                    "id": 10,
+                    "name": "Setting"
+                },
+                "description": null,
+                "id": 8,
+                "name": "Sci-fi / futuristic"
+            }
+        ],
+        "id": 231049,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/231049/land-on-mars/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 47,
+                    "name": "TI-99/4A"
+                },
+                "1981"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Land on Mars"
+    },
+    {
+        "alternate_titles": [],
+        "description": "<p><em>Karate Challenge</em> is a 1-player arcade martial arts game for the TI-99/4A.</p>\n<p>Evil dragons have taken over the minds of the students and teachers at the karate dojo.  The player must fight their former friends and teachers in order to get a chance to defeat the dragons in mortal combat.</p>\n<p>The player controls a martial artist that can move forwards, backwards, and can throw a high, mid, or low kick or punch.  The player and their opponent both have health that slowly regenerates.  Opponents take damage from hits and, if the player defeats an opponent, they move on to the next one in line.</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "category": {
+                    "id": 2,
+                    "name": "Perspective"
+                },
+                "description": null,
+                "id": 17,
+                "name": "Side view"
+            },
+            {
+                "category": {
+                    "id": 12,
+                    "name": "Visual Presentation"
+                },
+                "description": null,
+                "id": 133,
+                "name": "Fixed / flip-screen"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 48,
+                "name": "Fighting"
+            },
+            {
+                "category": {
+                    "id": 7,
+                    "name": "Interface/Control"
+                },
+                "description": null,
+                "id": 168,
+                "name": "Direct control"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 39,
+                "name": "Martial arts"
+            }
+        ],
+        "id": 231063,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/231063/karate-challenge/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 47,
+                    "name": "TI-99/4A"
+                },
+                "1989"
+            ]
+        ],
+        "sample_cover": {
+            "height": 208,
+            "image_url": "https://cdn.mobygames.com/screenshots/19176766-karate-challenge-ti-994a-title-screen.png",
+            "platforms": [
+                "TI-99/4A"
+            ],
+            "thumbnail_image_url": "https://cdn.mobygames.com/2c520806-7c1a-11ef-b921-02420a000114.webp",
+            "width": 272
+        },
+        "sample_screenshots": [
+            {
+                "caption": "Harder Opponent",
+                "height": 208,
+                "image_url": "https://cdn.mobygames.com/screenshots/19176770-karate-challenge-ti-994a-harder-opponent.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/304f9b9e-7c1a-11ef-9f56-02420a000112.webp",
+                "width": 272
+            },
+            {
+                "caption": "Title Screen",
+                "height": 208,
+                "image_url": "https://cdn.mobygames.com/screenshots/19176766-karate-challenge-ti-994a-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2c520806-7c1a-11ef-b921-02420a000114.webp",
+                "width": 272
+            },
+            {
+                "caption": "First Opponent",
+                "height": 208,
+                "image_url": "https://cdn.mobygames.com/screenshots/19176774-karate-challenge-ti-994a-first-opponent.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/35501c04-7c1a-11ef-9f56-02420a000112.webp",
+                "width": 272
+            },
+            {
+                "caption": "I was Defeated",
+                "height": 208,
+                "image_url": "https://cdn.mobygames.com/screenshots/19176778-karate-challenge-ti-994a-i-was-defeated.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3fdd7cc0-7c1a-11ef-acbe-02420a000114.webp",
+                "width": 272
+            }
+        ],
+        "title": "Karate Challenge"
     }
 ]

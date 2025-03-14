@@ -141,7 +141,7 @@
     },
     {
         "alternate_titles": [],
-        "description": "<p>Long time ago, the dwarven kingdom was attacked by the men of Caras who came from the south. The dwarves, nearly defeated, had retreated to their last refuge, the Domed City in the Forsaken Mountains, to mount their last defense. With the help of the great wizard Taradon they've managed to repel the enemy, but it was a Pyrrhic victory: most of them fell in the battle.  </p>\n<p>You were brought by Eldomir to a place where the entrance to the ancient cave should be found. Tales about adventurers who didn't return did not discourage you, as you were drawn by the legend of great treasures said to be hidden in the dwarves' mountain dwelling.</p>\n<p><em>The Lost Kingdom of Zkul</em> is a text adventure set in a fantasy world. What makes it different, is that events occur in real-time (what makes traps even more dangerous) and that the labyrinth changes each time you start a new adventure. Apart from the helpful save function, the player has 3 lives - all collected items, however, remain on the deceased body.</p>",
+        "description": "<p>Long time ago, the dwarven kingdom was attacked by the men of Caras who came from the south. The dwarves, nearly defeated, had retreated to their last refuge, the Domed City in the Forsaken Mountains, to mount their last defense. With the help of the great wizard Taradon they've managed to repel the enemy, but it was a Pyrrhic victory: most of them fell in the battle.  </p>\n<p>You were brought by Eldomir to a place where the entrance to the ancient cave should be found. Tales about adventurers who didn't return did not discourage you, as you were drawn by the legend of great treasures said to be hidden in the dwarves' mountain dwelling.</p>\n<p><em>The Lost Kingdom of Zkul</em> is a text adventure set in a fantasy world. What makes it different, is that events occur in real-time (which makes traps even more dangerous) and that the labyrinth changes each time you start a new adventure. Apart from the helpful save function, the player has 3 lives - all collected items, however, remain on the deceased body.</p>",
         "genres": [
             {
                 "category": {
@@ -338,39 +338,39 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Demo screen 25 - Imps guarding oven fires",
+                "caption": "Main menu",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/8690826-bj-the-return-ql-caverns-2-sinclair-ql-demo-screen-25-imps-guard.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cab47f1a-ac00-11ed-9f52-02420a000130.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/8692863-bj-the-return-ql-caverns-2-sinclair-ql-main-menu.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cf9913ce-ac00-11ed-b351-02420a00012e.webp",
                 "width": 512
             },
             {
-                "caption": "Demo screen 41 - A suspicious layout in the center of the star.",
+                "caption": "Demo screen 35 - A dwarf cave, maybe Moria?",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/8694657-bj-the-return-ql-caverns-2-sinclair-ql-demo-screen-41-a-suspicio.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d6326410-ac00-11ed-b57a-02420a000130.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/8692860-bj-the-return-ql-caverns-2-sinclair-ql-demo-screen-35-a-dwarf-ca.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cf626b44-ac00-11ed-b351-02420a00012e.webp",
                 "width": 512
             },
             {
-                "caption": "Death screen, not so bloody.",
+                "caption": "Demo screen 01 - Scary skull",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/8677908-bj-the-return-ql-caverns-2-sinclair-ql-death-screen-not-so-blood.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a73a8f02-ac00-11ed-92cb-02420a000132.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/8677189-bj-the-return-ql-caverns-2-sinclair-ql-demo-screen-01-scary-skul.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a8a59a76-ac00-11ed-83f5-02420a000134.webp",
                 "width": 512
             },
             {
-                "caption": "Demo screen 16 - Some floppies and a laser",
+                "caption": "Demo screen 18 - QL transport",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/8686057-bj-the-return-ql-caverns-2-sinclair-ql-demo-screen-16-some-flopp.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/be400722-ac00-11ed-941d-02420a000132.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/8688656-bj-the-return-ql-caverns-2-sinclair-ql-demo-screen-18-ql-transpo.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c796435e-ac00-11ed-83f5-02420a000134.webp",
                 "width": 512
             },
             {
-                "caption": "Title screen",
+                "caption": "Demo screen 46 - Boarding area - but if there are teleports, why fly?",
                 "height": 256,
-                "image_url": "https://cdn.mobygames.com/screenshots/8673933-bj-the-return-ql-caverns-2-sinclair-ql-title-screen.jpg",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a2f825d0-ac00-11ed-833b-02420a000131.webp",
-                "width": 510
+                "image_url": "https://cdn.mobygames.com/screenshots/8692854-bj-the-return-ql-caverns-2-sinclair-ql-demo-screen-46-boarding-a.jpg",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cf0951bc-ac00-11ed-b351-02420a00012e.webp",
+                "width": 512
             }
         ],
         "title": "BJ the Return: QL Caverns 2"

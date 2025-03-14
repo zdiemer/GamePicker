@@ -14,7 +14,7 @@
                 "title": "Vertical Intercept"
             }
         ],
-        "description": "<p><em>Space War</em> consists of two shooting games: <em>Horizontal Intercept</em> and <em>Vertical Intercept</em>.</p>\n<p>In <em>Horizontal Intercept</em> the player has to destroy enemy spaceships with the use of rockets. The spaceships pass by horizontally and the player launches his rockets from the bottom of the screen. Once the rocket is in the air he can steer it left or right. The player has 20 rockets and the goal is simply to score as many points as possible. Some spaceships move faster and will therefore give more points, and there are both big and small spaceships, the latter being worth more points.</p>\n<p><em>Vertical Intercept</em> is a one-button game for two players. Each player controls a missile launcher on each side of the screen and in between them an enemy spaceship moves up and down. The player's missile climbs when the player holds down the button and drops when he releases it. The game ends when the spaceship hits a marker at the top of the screen 8 times. Hitting the spaceship makes it reverse its direction, so the game can be prolonged.</p>",
+        "description": "<p><em>Space War</em> consists of two shooting games: <em>Horizontal Intercept</em> and <em>Vertical Intercept</em>.</p>\n<p>In <em>Horizontal Intercept</em> the player has to destroy enemy spaceships with the use of rockets. The spaceships pass by horizontally and the player launches rockets from the bottom of the screen. Once the rocket is in the air, it can be steered left or right. The player has 20 rockets and the goal is simply to score as many points as possible. Some spaceships move faster and will therefore give more points, and there are both big and small spaceships, the latter being worth more points.</p>\n<p><em>Vertical Intercept</em> is a one-button game for two players. Each player controls a missile launcher on each side of the screen and in between them an enemy spaceship moves up and down. The player's missile climbs when the player holds down the button and drops when released. The game ends when the spaceship hits a marker at the top of the screen 8 times. Hitting the spaceship makes it reverse its direction, so the game can be prolonged.</p>",
         "genres": [
             {
                 "category": {
@@ -105,10 +105,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Vertical Intercept: The game after a few shots fired. The left player has just hit the enemy.",
+                "caption": "Vertical Intercept: Both players fired their guns trying to hit the enemy spaceship.",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/8513902-tv-arcade-i-space-war-rca-studio-ii-vertical-intercept-the-game-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0f109268-abff-11ed-902e-02420a00012d.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/8513899-tv-arcade-i-space-war-rca-studio-ii-vertical-intercept-both-play.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0ece7af4-abff-11ed-902e-02420a00012d.webp",
                 "width": 256
             },
             {
@@ -119,13 +119,6 @@
                 "width": 256
             },
             {
-                "caption": "Vertical Intercept: Started a game. One player on each side of the field.",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/8514605-tv-arcade-i-space-war-rca-studio-ii-vertical-intercept-started-a.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0afd07d8-abff-11ed-83f5-02420a000134.webp",
-                "width": 256
-            },
-            {
                 "caption": "Horizontal Intercept: Firing a rocket.",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/8513521-tv-arcade-i-space-war-rca-studio-ii-horizontal-intercept-firing-.png",
@@ -133,10 +126,17 @@
                 "width": 256
             },
             {
-                "caption": "Horizontal Intercept: There are also smaller enemy spaceships.",
+                "caption": "Horizontal Intercept: Started the game. The player's rocket is at the bottom (got 20 available), and an enemy spaceship flies by above.",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/3256097-tv-arcade-i-space-war-rca-studio-ii-horizontal-intercept-there-a.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e901c826-ab8b-11ed-9ae2-02420a0001a0.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/8513518-tv-arcade-i-space-war-rca-studio-ii-horizontal-intercept-started.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0af59b2e-abff-11ed-9f52-02420a000130.webp",
+                "width": 256
+            },
+            {
+                "caption": "Vertical Intercept: Started a game. One player on each side of the field.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8514605-tv-arcade-i-space-war-rca-studio-ii-vertical-intercept-started-a.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0afd07d8-abff-11ed-83f5-02420a000134.webp",
                 "width": 256
             }
         ],
@@ -144,7 +144,7 @@
     },
     {
         "alternate_titles": [],
-        "description": "<p>This cartridge consists of two games.</p>\n<p><em>Speedway</em> is a racing game for two players. The game is viewed from a top down perspective and each player has to move his vehicle around the race track. Acceleration is automatic and the player only has to focus on steering. The vehicles stop when they hit each other or one of the walls. The game keeps track of the laps and the player that first completes nine laps wins the game.</p>\n<p><em>Tag</em> is a game of chase. It is a two player game where each player controls a square on an otherwise empty screen. The player whose square hasn't got a dot on it has to chase the other player. After he has accomplished that (or after ten seconds if he doesn't succeed) he gets the dot and becomes chased by the other player. The game lasts for two minutes and the player with most points will win. Each catch is worth ten points.</p>",
+        "description": "<p>This cartridge consists of two games.</p>\n<p><em>Speedway</em> is a racing game for two players. The game is viewed from a top down perspective where the two players race their vehicles around the track. Acceleration is automatic and the player only has to focus on steering. The vehicles stop when they hit each other or one of the walls. The game keeps track of the laps and the player that first completes nine laps wins the game.</p>\n<p><em>Tag</em> is a game of chase. It is a two player game where each player controls a square on an otherwise empty screen. The player whose square hasn't got a dot on it has to chase the other player. After accomplishing that (or after ten seconds if not complete) the dot is swapped and the hunter becomes the prey. The game lasts for two minutes and the player with the most points will win. Each catch is worth ten points.</p>",
         "genres": [
             {
                 "category": {
@@ -226,20 +226,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Tag - Now the other player get to chase",
-                "height": 194,
-                "image_url": "https://cdn.mobygames.com/screenshots/16268293-tv-arcade-series-speedway-tag-rca-studio-ii-tag-now-the-other-pl.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7031d412-c1e4-11ed-ab6b-02420a000194.webp",
-                "width": 258
-            },
-            {
-                "caption": "Speedway - starting out",
-                "height": 194,
-                "image_url": "https://cdn.mobygames.com/screenshots/16268278-tv-arcade-series-speedway-tag-rca-studio-ii-speedway-starting-ou.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6fc5d320-c1e4-11ed-ab6b-02420a000194.webp",
-                "width": 258
-            },
-            {
                 "caption": "Tag - Score is shown",
                 "height": 194,
                 "image_url": "https://cdn.mobygames.com/screenshots/16268290-tv-arcade-series-speedway-tag-rca-studio-ii-tag-score-is-shown.png",
@@ -251,6 +237,20 @@
                 "height": 194,
                 "image_url": "https://cdn.mobygames.com/screenshots/16268281-tv-arcade-series-speedway-tag-rca-studio-ii-speedway-first-to-ni.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/6fda4df0-c1e4-11ed-ab6b-02420a000194.webp",
+                "width": 258
+            },
+            {
+                "caption": "Speedway - player 2 makes his first lap",
+                "height": 194,
+                "image_url": "https://cdn.mobygames.com/screenshots/16268296-tv-arcade-series-speedway-tag-rca-studio-ii-speedway-player-2-ma.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/70476dea-c1e4-11ed-ab6b-02420a000194.webp",
+                "width": 258
+            },
+            {
+                "caption": "Speedway - looks like a crash",
+                "height": 194,
+                "image_url": "https://cdn.mobygames.com/screenshots/16268287-tv-arcade-series-speedway-tag-rca-studio-ii-speedway-looks-like-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7006eeb4-c1e4-11ed-ab6b-02420a000194.webp",
                 "width": 258
             },
             {
@@ -365,24 +365,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Squash - game in progress",
+                "caption": "Tennis - showing the score",
                 "height": 194,
-                "image_url": "https://cdn.mobygames.com/screenshots/16268764-tv-arcade-iii-tennis-squash-rca-studio-ii-squash-game-in-progres.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b2092246-c1e4-11ed-ab6b-02420a000194.webp",
-                "width": 258
-            },
-            {
-                "caption": "Squash - showing the score",
-                "height": 194,
-                "image_url": "https://cdn.mobygames.com/screenshots/16269295-tv-arcade-iii-tennis-squash-rca-studio-ii-squash-showing-the-sco.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f58f729a-c1e4-11ed-ab6b-02420a000194.webp",
-                "width": 258
-            },
-            {
-                "caption": "Tennis - game in progress",
-                "height": 194,
-                "image_url": "https://cdn.mobygames.com/screenshots/16269049-tv-arcade-iii-tennis-squash-rca-studio-ii-tennis-game-in-progres.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/dac7b27e-c1e4-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16268770-tv-arcade-iii-tennis-squash-rca-studio-ii-tennis-showing-the-sco.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b2355cee-c1e4-11ed-ab6b-02420a000194.webp",
                 "width": 258
             },
             {
@@ -393,10 +379,24 @@
                 "width": 258
             },
             {
-                "caption": "Tennis - showing the score",
+                "caption": "Tennis - game in progress",
                 "height": 194,
-                "image_url": "https://cdn.mobygames.com/screenshots/16268770-tv-arcade-iii-tennis-squash-rca-studio-ii-tennis-showing-the-sco.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b2355cee-c1e4-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16269049-tv-arcade-iii-tennis-squash-rca-studio-ii-tennis-game-in-progres.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dac7b27e-c1e4-11ed-ab6b-02420a000194.webp",
+                "width": 258
+            },
+            {
+                "caption": "Squash - showing the score",
+                "height": 194,
+                "image_url": "https://cdn.mobygames.com/screenshots/16269295-tv-arcade-iii-tennis-squash-rca-studio-ii-squash-showing-the-sco.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f58f729a-c1e4-11ed-ab6b-02420a000194.webp",
+                "width": 258
+            },
+            {
+                "caption": "Squash - game in progress",
+                "height": 194,
+                "image_url": "https://cdn.mobygames.com/screenshots/16268764-tv-arcade-iii-tennis-squash-rca-studio-ii-squash-game-in-progres.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b2092246-c1e4-11ed-ab6b-02420a000194.webp",
                 "width": 258
             }
         ],
@@ -561,27 +561,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Patterns: Oh, nice effect! Notice the pattern is now starting to intercept itself, turning to black the previously lit pixels.",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/8451654-rca-studio-ii-included-games-rca-studio-ii-patterns-oh-nice-effe.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/79c42346-abfe-11ed-98b0-02420a000130.webp",
-                "width": 256
-            },
-            {
-                "caption": "Bowling: The gameplay screen. The left square is the ball, moving automatically between the edges of the lane.",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/8451269-rca-studio-ii-included-games-rca-studio-ii-bowling-the-gameplay-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7b71ab82-abfe-11ed-a484-02420a000130.webp",
-                "width": 256
-            },
-            {
-                "caption": "Patterns: Things are starting to get interesting.",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/8451725-rca-studio-ii-included-games-rca-studio-ii-patterns-things-are-s.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/75d03108-abfe-11ed-bbce-02420a000133.webp",
-                "width": 256
-            },
-            {
                 "caption": "Patterns: I wonder what'll come next...",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/8451251-rca-studio-ii-included-games-rca-studio-ii-patterns-i-wonder-wha.png",
@@ -589,10 +568,31 @@
                 "width": 256
             },
             {
-                "caption": "Addition: The first 3 digits to add appeared. The correct result is 3, of course, and the player that first hits button 3 on his keyboard scores.",
+                "caption": "Bowling: Great! Just two pins left standing! (With a little help from some questionable physics.)",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/8451266-rca-studio-ii-included-games-rca-studio-ii-addition-the-first-3-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7b4ed9ea-abfe-11ed-a484-02420a000130.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/8450179-rca-studio-ii-included-games-rca-studio-ii-bowling-great-just-tw.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7ba0596e-abfe-11ed-8d2f-02420a00012e.webp",
+                "width": 256
+            },
+            {
+                "caption": "Doodle: Program started with a clean canvas. Notice the cursor on the lower-left corner.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8467576-rca-studio-ii-included-games-rca-studio-ii-doodle-program-starte.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a30d7ae0-abfe-11ed-98b0-02420a000130.webp",
+                "width": 256
+            },
+            {
+                "caption": "Bowling: Went for a hook down, let's see how it goes.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8450182-rca-studio-ii-included-games-rca-studio-ii-bowling-went-for-a-ho.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7bcc742c-abfe-11ed-8d2f-02420a00012e.webp",
+                "width": 256
+            },
+            {
+                "caption": "Freeway: Starting screen. All cars are stopped until the player starts his car.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/8451648-rca-studio-ii-included-games-rca-studio-ii-freeway-starting-scre.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/79677bfa-abfe-11ed-98b0-02420a000130.webp",
                 "width": 256
             }
         ],
@@ -664,6 +664,20 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Making the correct guess (Guess the number - 1 Player)",
+                "height": 128,
+                "image_url": "https://cdn.mobygames.com/screenshots/15863227-tv-arcade-ii-fun-with-numbers-rca-studio-ii-making-the-correct-g.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/04c9d4e8-befd-11ed-9c42-02420a000140.webp",
+                "width": 192
+            },
+            {
+                "caption": "Game in progress (Guess the number - 2 Players)",
+                "height": 128,
+                "image_url": "https://cdn.mobygames.com/screenshots/15863209-tv-arcade-ii-fun-with-numbers-rca-studio-ii-game-in-progress-gue.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/032eb522-befd-11ed-9c42-02420a000140.webp",
+                "width": 192
+            },
+            {
                 "caption": "Starting out (Reverse)",
                 "height": 128,
                 "image_url": "https://cdn.mobygames.com/screenshots/15863194-tv-arcade-ii-fun-with-numbers-rca-studio-ii-starting-out-reverse.png",
@@ -678,24 +692,10 @@
                 "width": 192
             },
             {
-                "caption": "Starting out (Guess the number - 1 Player)",
-                "height": 128,
-                "image_url": "https://cdn.mobygames.com/screenshots/15892302-tv-arcade-ii-fun-with-numbers-rca-studio-ii-starting-out-guess-t.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6adc2534-bf06-11ed-9c42-02420a000140.webp",
-                "width": 192
-            },
-            {
                 "caption": "Making a guess and getting a clue back (Guess the number - 1 Player)",
                 "height": 128,
                 "image_url": "https://cdn.mobygames.com/screenshots/15863257-tv-arcade-ii-fun-with-numbers-rca-studio-ii-making-a-guess-and-g.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/078ca07a-befd-11ed-9c42-02420a000140.webp",
-                "width": 192
-            },
-            {
-                "caption": "Making the correct guess (Guess the number - 1 Player)",
-                "height": 128,
-                "image_url": "https://cdn.mobygames.com/screenshots/15863227-tv-arcade-ii-fun-with-numbers-rca-studio-ii-making-the-correct-g.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/04c9d4e8-befd-11ed-9c42-02420a000140.webp",
                 "width": 192
             }
         ],
@@ -776,10 +776,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Black dot on base is a runner",
+                "caption": "The ball is in the air",
                 "height": 128,
-                "image_url": "https://cdn.mobygames.com/screenshots/15870714-tv-arcade-iv-baseball-rca-studio-ii-black-dot-on-base-is-a-runne.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2c4f1efe-beff-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15870738-tv-arcade-iv-baseball-rca-studio-ii-the-ball-is-in-the-air.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2e02edac-beff-11ed-9c42-02420a000140.webp",
                 "width": 192
             },
             {
@@ -790,10 +790,10 @@
                 "width": 192
             },
             {
-                "caption": "Starting out",
+                "caption": "Black dot on base is a runner",
                 "height": 128,
-                "image_url": "https://cdn.mobygames.com/screenshots/15892095-tv-arcade-iv-baseball-rca-studio-ii-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/54f72e58-bf06-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15870714-tv-arcade-iv-baseball-rca-studio-ii-black-dot-on-base-is-a-runne.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2c4f1efe-beff-11ed-9c42-02420a000140.webp",
                 "width": 192
             },
             {
@@ -804,10 +804,10 @@
                 "width": 192
             },
             {
-                "caption": "The ball is in the air",
+                "caption": "Starting out",
                 "height": 128,
-                "image_url": "https://cdn.mobygames.com/screenshots/15870738-tv-arcade-iv-baseball-rca-studio-ii-the-ball-is-in-the-air.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2e02edac-beff-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15892095-tv-arcade-iv-baseball-rca-studio-ii-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/54f72e58-bf06-11ed-9c42-02420a000140.webp",
                 "width": 192
             }
         ],
@@ -915,24 +915,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Start of a quiz",
-                "height": 128,
-                "image_url": "https://cdn.mobygames.com/screenshots/15885635-tv-school-house-i-rca-studio-ii-start-of-a-quiz.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/50ef1eb2-bf04-11ed-9c42-02420a000140.webp",
-                "width": 192
-            },
-            {
-                "caption": "Entering a correct answer leads to points being given",
-                "height": 128,
-                "image_url": "https://cdn.mobygames.com/screenshots/15885617-tv-school-house-i-rca-studio-ii-entering-a-correct-answer-leads-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4fe9402e-bf04-11ed-9c42-02420a000140.webp",
-                "width": 192
-            },
-            {
                 "caption": "End of game - Player 2 wins",
                 "height": 128,
                 "image_url": "https://cdn.mobygames.com/screenshots/15633365-tv-school-house-i-rca-studio-ii-end-of-game-player-2-wins.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/cf6b91d2-bdea-11ed-b791-02420a0001bb.webp",
+                "width": 192
+            },
+            {
+                "caption": "NO - answer was wrong",
+                "height": 128,
+                "image_url": "https://cdn.mobygames.com/screenshots/15884607-tv-school-house-i-rca-studio-ii-no-answer-was-wrong.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/03eac1fc-bf04-11ed-9c42-02420a000140.webp",
                 "width": 192
             },
             {
@@ -943,10 +936,17 @@
                 "width": 192
             },
             {
-                "caption": "NO - answer was wrong",
+                "caption": "Entering a correct answer leads to points being given",
                 "height": 128,
-                "image_url": "https://cdn.mobygames.com/screenshots/15884607-tv-school-house-i-rca-studio-ii-no-answer-was-wrong.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/03eac1fc-bf04-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15885617-tv-school-house-i-rca-studio-ii-entering-a-correct-answer-leads-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4fe9402e-bf04-11ed-9c42-02420a000140.webp",
+                "width": 192
+            },
+            {
+                "caption": "Start of a quiz",
+                "height": 128,
+                "image_url": "https://cdn.mobygames.com/screenshots/15885635-tv-school-house-i-rca-studio-ii-start-of-a-quiz.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/50ef1eb2-bf04-11ed-9c42-02420a000140.webp",
                 "width": 192
             }
         ],
@@ -1032,24 +1032,17 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Division",
+                "height": 128,
+                "image_url": "https://cdn.mobygames.com/screenshots/15886073-tv-school-house-ii-math-fun-rca-studio-ii-division.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7c1ce3bc-bf04-11ed-9c42-02420a000140.webp",
+                "width": 192
+            },
+            {
                 "caption": "End of game",
                 "height": 128,
                 "image_url": "https://cdn.mobygames.com/screenshots/15886088-tv-school-house-ii-math-fun-rca-studio-ii-end-of-game.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/7f9f061e-bf04-11ed-9c42-02420a000140.webp",
-                "width": 192
-            },
-            {
-                "caption": "A level 4 problem",
-                "height": 128,
-                "image_url": "https://cdn.mobygames.com/screenshots/15886061-tv-school-house-ii-math-fun-rca-studio-ii-a-level-4-problem.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/799c71de-bf04-11ed-9c42-02420a000140.webp",
-                "width": 192
-            },
-            {
-                "caption": "Multiplication",
-                "height": 128,
-                "image_url": "https://cdn.mobygames.com/screenshots/15885995-tv-school-house-ii-math-fun-rca-studio-ii-multiplication.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7163bac2-bf04-11ed-9c42-02420a000140.webp",
                 "width": 192
             },
             {
@@ -1064,6 +1057,13 @@
                 "height": 128,
                 "image_url": "https://cdn.mobygames.com/screenshots/15885839-tv-school-house-ii-math-fun-rca-studio-ii-addition.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/6272fa8c-bf04-11ed-9c42-02420a000140.webp",
+                "width": 192
+            },
+            {
+                "caption": "Multiplication",
+                "height": 128,
+                "image_url": "https://cdn.mobygames.com/screenshots/15885995-tv-school-house-ii-math-fun-rca-studio-ii-multiplication.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7163bac2-bf04-11ed-9c42-02420a000140.webp",
                 "width": 192
             }
         ],
@@ -1162,27 +1162,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Ships colliding (Moonship Battle)",
-                "height": 128,
-                "image_url": "https://cdn.mobygames.com/screenshots/15894261-tv-arcade-series-gunfighter-moonship-battle-rca-studio-ii-ships-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1f5b72a8-bf07-11ed-9c42-02420a000140.webp",
-                "width": 192
-            },
-            {
-                "caption": "Player 1 gets first hit (Gunfighter)",
-                "height": 128,
-                "image_url": "https://cdn.mobygames.com/screenshots/15966895-tv-arcade-series-gunfighter-moonship-battle-rca-studio-ii-player.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d907462c-bf1c-11ed-9c42-02420a000140.webp",
-                "width": 192
-            },
-            {
-                "caption": "Player 2 wins (Moonship Battle)",
-                "height": 128,
-                "image_url": "https://cdn.mobygames.com/screenshots/15967250-tv-arcade-series-gunfighter-moonship-battle-rca-studio-ii-player.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/11b08876-bf1d-11ed-9c42-02420a000140.webp",
-                "width": 192
-            },
-            {
                 "caption": "Starting out (Moonship Battle)",
                 "height": 128,
                 "image_url": "https://cdn.mobygames.com/screenshots/15966883-tv-arcade-series-gunfighter-moonship-battle-rca-studio-ii-starti.png",
@@ -1194,6 +1173,27 @@
                 "height": 128,
                 "image_url": "https://cdn.mobygames.com/screenshots/15967262-tv-arcade-series-gunfighter-moonship-battle-rca-studio-ii-player.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/1299e566-bf1d-11ed-9c42-02420a000140.webp",
+                "width": 192
+            },
+            {
+                "caption": "The game ends (Gunfighter)",
+                "height": 128,
+                "image_url": "https://cdn.mobygames.com/screenshots/15966865-tv-arcade-series-gunfighter-moonship-battle-rca-studio-ii-the-ga.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d5b349b2-bf1c-11ed-9c42-02420a000140.webp",
+                "width": 192
+            },
+            {
+                "caption": "Player 1 gets first hit (Gunfighter)",
+                "height": 128,
+                "image_url": "https://cdn.mobygames.com/screenshots/15966895-tv-arcade-series-gunfighter-moonship-battle-rca-studio-ii-player.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d907462c-bf1c-11ed-9c42-02420a000140.webp",
+                "width": 192
+            },
+            {
+                "caption": "Starting out (Gunfighter)",
+                "height": 128,
+                "image_url": "https://cdn.mobygames.com/screenshots/15967496-tv-arcade-series-gunfighter-moonship-battle-rca-studio-ii-starti.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/26a63e42-bf1d-11ed-9c42-02420a000140.webp",
                 "width": 192
             }
         ],
@@ -1238,10 +1238,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Bowling: End of game",
+                "caption": "Pattern",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16336626-grand-pack-rca-studio-ii-bowling-end-of-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2f5e77c6-c1fb-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16337004-grand-pack-rca-studio-ii-pattern.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/710f07a8-c1fb-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Bowling: Strike",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16336629-grand-pack-rca-studio-ii-bowling-strike.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2f74765c-c1fb-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -1252,24 +1259,17 @@
                 "width": 256
             },
             {
-                "caption": "Bowling: Knocking down some pins",
+                "caption": "Bowling: Mid-game results",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16336998-grand-pack-rca-studio-ii-bowling-knocking-down-some-pins.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/70e2760c-c1fb-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16336992-grand-pack-rca-studio-ii-bowling-mid-game-results.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6fe082bc-c1fb-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
-                "caption": "Pattern",
+                "caption": "Blackjack: About to cut",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16337004-grand-pack-rca-studio-ii-pattern.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/710f07a8-c1fb-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Blackjack: Winning a bet",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16336833-grand-pack-rca-studio-ii-blackjack-winning-a-bet.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/51112ed6-c1fb-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16337352-grand-pack-rca-studio-ii-blackjack-about-to-cut.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/97a9806e-c1fb-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -1282,7 +1282,7 @@
                 "title": "Krieg der Sterne"
             }
         ],
-        "description": "<p><em>Star Wars</em> is an unlicensed game based on the original Star Wars movie. The game is played from the viewpoint of a spaceship with a viewfinder in the center of the screen. The objective of the game is to position the enemy spaceship fully within the viewfinder and then a hit is automatically registered. Meanwhile the second player has to attempt to steer the ship off the screen. If he succeeds the roles are reversed and he will begin chasing the other player.</p>\n<p>There are three game modes: one player, two players and an advanced one player game where the computer opponent automatically scores after escaping and the player remains the chaser. For each game modes there are three different speed levels.</p>",
+        "description": "<p><em>Star Wars</em> is an unlicensed game based on the original Star Wars movie. The game is played from the viewpoint of a spaceship with a viewfinder in the center of the screen. The objective of the game is to position the enemy spaceship fully within the viewfinder and then a hit is automatically registered. Meanwhile the opponent has to attempt to steer the ship off the screen to escape. If either is successful, the roles are reversed</p>\n<p>There are three game modes: one player, two players and an advanced one player game, where the computer opponent automatically scores after escaping and the player remains the chaser. For each game mode, there are three different speed levels.</p>",
         "genres": [
             {
                 "category": {
@@ -1362,6 +1362,20 @@
                 "width": 256
             },
             {
+                "caption": "Starting out as the chaser",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16337199-star-wars-rca-studio-ii-starting-out-as-the-chaser.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/83459bbc-c1fb-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "The ship explodes",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16337313-star-wars-rca-studio-ii-the-ship-explodes.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/93223310-c1fb-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
                 "caption": "Speed selection",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16337202-star-wars-rca-studio-ii-speed-selection.png",
@@ -1373,20 +1387,6 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16337310-star-wars-rca-studio-ii-score-shown.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/9306dad4-c1fb-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "The ship explodes",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16337313-star-wars-rca-studio-ii-the-ship-explodes.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/93223310-c1fb-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "A hit is scored when the spaceship is entirely within the viewfinder",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16337193-star-wars-rca-studio-ii-a-hit-is-scored-when-the-spaceship-is-en.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8319750a-c1fb-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],
@@ -1463,24 +1463,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "End of game - red player wins",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16337349-concentration-match-rca-studio-ii-end-of-game-red-player-wins.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/978d4d72-c1fb-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
-                "caption": "Making a match",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16337184-concentration-match-rca-studio-ii-making-a-match.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/82d6ddbc-c1fb-11ed-ab6b-02420a000194.webp",
-                "width": 256
-            },
-            {
                 "caption": "Showing the cards before starting",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16337190-concentration-match-rca-studio-ii-showing-the-cards-before-start.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/83041c3c-c1fb-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "End of game - red player wins",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16337349-concentration-match-rca-studio-ii-end-of-game-red-player-wins.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/978d4d72-c1fb-11ed-ab6b-02420a000194.webp",
                 "width": 256
             },
             {
@@ -1495,6 +1488,13 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16337181-concentration-match-rca-studio-ii-some-turns-later.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/82c0f970-c1fb-11ed-ab6b-02420a000194.webp",
+                "width": 256
+            },
+            {
+                "caption": "Making a match",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16337184-concentration-match-rca-studio-ii-making-a-match.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/82d6ddbc-c1fb-11ed-ab6b-02420a000194.webp",
                 "width": 256
             }
         ],

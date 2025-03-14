@@ -70,17 +70,17 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Strike!",
+                "height": 210,
+                "image_url": "https://cdn.mobygames.com/screenshots/463200-super-action-baseball-colecovision-strike.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4a3280fa-ab6d-11ed-b165-02420a000198.webp",
+                "width": 280
+            },
+            {
                 "caption": "Title Screen",
                 "height": 210,
                 "image_url": "https://cdn.mobygames.com/screenshots/463877-super-action-baseball-colecovision-title-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/4b91ca64-ab6d-11ed-837d-02420a00019b.webp",
-                "width": 280
-            },
-            {
-                "caption": "Fielding",
-                "height": 210,
-                "image_url": "https://cdn.mobygames.com/screenshots/463312-super-action-baseball-colecovision-fielding.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4a69a472-ab6d-11ed-b165-02420a000198.webp",
                 "width": 280
             },
             {
@@ -98,10 +98,10 @@
                 "width": 280
             },
             {
-                "caption": "Strike!",
+                "caption": "Blue Pitching",
                 "height": 210,
-                "image_url": "https://cdn.mobygames.com/screenshots/463200-super-action-baseball-colecovision-strike.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4a3280fa-ab6d-11ed-b165-02420a000198.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/463645-super-action-baseball-colecovision-blue-pitching.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4b17bd6e-ab6d-11ed-b165-02420a000198.webp",
                 "width": 280
             }
         ],
@@ -182,10 +182,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Another circuit to repair",
+                "caption": "I need to repower the circuit",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16044475-2010-the-graphic-action-game-colecovision-another-circuit-to-rep.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/87b35b38-bf37-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16044457-2010-the-graphic-action-game-colecovision-i-need-to-repower-the-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/86bef868-bf37-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
@@ -196,24 +196,24 @@
                 "width": 256
             },
             {
-                "caption": "The Discovery map",
+                "caption": "I created a feedback loop so now I need to repair that component.",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16044448-2010-the-graphic-action-game-colecovision-the-discovery-map.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/867ce3ce-bf37-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15664526-2010-the-graphic-action-game-colecovision-i-created-a-feedback-l.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5f0fcc40-bebd-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "Now I can fix the circuit",
+                "caption": "Acomponent is damaged. I will need to fix it then redo the circuit.",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15664541-2010-the-graphic-action-game-colecovision-now-i-can-fix-the-circ.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/609d58d4-bebd-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16044466-2010-the-graphic-action-game-colecovision-acomponent-is-damaged-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8765c6c0-bf37-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
-                "caption": "Title screen",
+                "caption": "Another circuit to repair",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16044439-2010-the-graphic-action-game-colecovision-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/848fb410-bf37-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16044475-2010-the-graphic-action-game-colecovision-another-circuit-to-rep.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/87b35b38-bf37-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -303,6 +303,27 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Head to head",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/15774021-kevtris-colecovision-head-to-head.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/376ff492-bee2-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Funny startup screen",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/15774027-kevtris-colecovision-funny-startup-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/37a27a0c-bee2-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
+                "caption": "Playing in zero-out mode",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/15774033-kevtris-colecovision-playing-in-zero-out-mode.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/37d83ffc-bee2-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
                 "caption": "Finished zero-out",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/15774060-kevtris-colecovision-finished-zero-out.png",
@@ -310,31 +331,10 @@
                 "width": 256
             },
             {
-                "caption": "Credits",
+                "caption": "Depending on your height level, you may start out with an already cluttered screen",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15774162-kevtris-colecovision-credits.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3f9f7624-bee2-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Choose players",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15774171-kevtris-colecovision-choose-players.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3fec56b0-bee2-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "High score",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15774072-kevtris-colecovision-high-score.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/39fb4446-bee2-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Head to head",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/15774021-kevtris-colecovision-head-to-head.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/376ff492-bee2-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15774192-kevtris-colecovision-depending-on-your-height-level-you-may-star.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4091b61e-bee2-11ed-9c42-02420a000140.webp",
                 "width": 256
             }
         ],
@@ -420,27 +420,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Place your bets!",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/3013512-ken-uston-blackjackpoker-colecovision-place-your-bets.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c6f8a672-ab87-11ed-81e3-02420a000199.webp",
-                "width": 256
-            },
-            {
-                "caption": "Blackjack.",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/3010338-ken-uston-blackjackpoker-colecovision-blackjack.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b984ef50-ab87-11ed-b6ee-02420a00019d.webp",
-                "width": 256
-            },
-            {
-                "caption": "Stud Poker.",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/3319439-ken-uston-blackjackpoker-colecovision-stud-poker.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/098aa63e-ab8d-11ed-9201-02420a00019c.webp",
-                "width": 256
-            },
-            {
                 "caption": "Title screen.",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/3010504-ken-uston-blackjackpoker-colecovision-title-screen.png",
@@ -452,6 +431,27 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/3319586-ken-uston-blackjackpoker-colecovision-choose-blackjack-or-poker.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/0a30861c-ab8d-11ed-9201-02420a00019c.webp",
+                "width": 256
+            },
+            {
+                "caption": "Set the number of players.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/3011703-ken-uston-blackjackpoker-colecovision-set-the-number-of-players.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bf29203e-ab87-11ed-81e3-02420a000199.webp",
+                "width": 256
+            },
+            {
+                "caption": "Blackjack.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/3010338-ken-uston-blackjackpoker-colecovision-blackjack.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b984ef50-ab87-11ed-b6ee-02420a00019d.webp",
+                "width": 256
+            },
+            {
+                "caption": "Place your bets!",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/3013512-ken-uston-blackjackpoker-colecovision-place-your-bets.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c6f8a672-ab87-11ed-81e3-02420a000199.webp",
                 "width": 256
             }
         ],
@@ -532,10 +532,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title screen.",
+                "caption": "Choose Rocky or Clubber.",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/3005622-rocky-super-action-boxing-colecovision-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a5f187b4-ab87-11ed-ba50-02420a000199.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/3004636-rocky-super-action-boxing-colecovision-choose-rocky-or-clubber.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a15c22f4-ab87-11ed-8e21-02420a00019b.webp",
                 "width": 256
             },
             {
@@ -546,13 +546,6 @@
                 "width": 256
             },
             {
-                "caption": "\"Adrian! Adrian! I did it!\"",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/3006941-rocky-super-action-boxing-colecovision-adrian-adrian-i-did-it.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ab1ddcba-ab87-11ed-9d05-02420a000198.webp",
-                "width": 256
-            },
-            {
                 "caption": "Rocky Balboa.",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/3007067-rocky-super-action-boxing-colecovision-rocky-balboa.png",
@@ -560,10 +553,17 @@
                 "width": 256
             },
             {
-                "caption": "Choose Rocky or Clubber.",
+                "caption": "\"Adrian! Adrian! I did it!\"",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/3004636-rocky-super-action-boxing-colecovision-choose-rocky-or-clubber.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a15c22f4-ab87-11ed-8e21-02420a00019b.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/3006941-rocky-super-action-boxing-colecovision-adrian-adrian-i-did-it.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ab1ddcba-ab87-11ed-9d05-02420a000198.webp",
+                "width": 256
+            },
+            {
+                "caption": "Title screen.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/3005622-rocky-super-action-boxing-colecovision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a5f187b4-ab87-11ed-ba50-02420a000199.webp",
                 "width": 256
             }
         ],
@@ -626,20 +626,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Wait for the snap.",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/3008008-super-action-football-colecovision-wait-for-the-snap.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/af02b90e-ab87-11ed-b9a3-02420a000197.webp",
-                "width": 256
-            },
-            {
-                "caption": "Choose your game mode.",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/3008192-super-action-football-colecovision-choose-your-game-mode.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/afd17c6c-ab87-11ed-b9a3-02420a000197.webp",
-                "width": 256
-            },
-            {
                 "caption": "Title screen.",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/3318290-super-action-football-colecovision-title-screen.png",
@@ -651,6 +637,20 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/3009526-super-action-football-colecovision-kickoff.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/b622f9b0-ab87-11ed-9d80-02420a00019a.webp",
+                "width": 256
+            },
+            {
+                "caption": "Wait for the snap.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/3008008-super-action-football-colecovision-wait-for-the-snap.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/af02b90e-ab87-11ed-b9a3-02420a000197.webp",
+                "width": 256
+            },
+            {
+                "caption": "Choose your game mode.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/3008192-super-action-football-colecovision-choose-your-game-mode.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/afd17c6c-ab87-11ed-b9a3-02420a000197.webp",
                 "width": 256
             }
         ],
@@ -731,10 +731,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Level complete",
+                "caption": "Title screen",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/3304658-steamroller-colecovision-level-complete.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c5f017a6-ab8c-11ed-a44e-02420a000199.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/3302072-steamroller-colecovision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ba44fd04-ab8c-11ed-8b6f-02420a00019c.webp",
                 "width": 256
             },
             {
@@ -745,10 +745,10 @@
                 "width": 256
             },
             {
-                "caption": "Title screen",
+                "caption": "Level complete",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/3302072-steamroller-colecovision-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ba44fd04-ab8c-11ed-8b6f-02420a00019c.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/3304658-steamroller-colecovision-level-complete.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c5f017a6-ab8c-11ed-a44e-02420a000199.webp",
                 "width": 256
             },
             {
@@ -980,6 +980,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "A ghost got me",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/16026065-dacman-colecovision-a-ghost-got-me.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1baeb5e6-bf31-11ed-9c42-02420a000140.webp",
+                "width": 256
+            },
+            {
                 "caption": "The DacPong! game (DacMan v1.3)",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/16033262-dacman-colecovision-the-dacpong-game-dacman-v13.png",
@@ -987,17 +994,10 @@
                 "width": 256
             },
             {
-                "caption": "I lost my last life. Game over.",
+                "caption": "Information",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16026056-dacman-colecovision-i-lost-my-last-life-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1b5e2d7e-bf31-11ed-9c42-02420a000140.webp",
-                "width": 256
-            },
-            {
-                "caption": "Title screen",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/16010128-dacman-colecovision-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c81e33f2-bf2b-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16033427-dacman-colecovision-information.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a500f956-bf33-11ed-9c42-02420a000140.webp",
                 "width": 256
             },
             {
@@ -1092,10 +1092,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The blue demon must fall through three levels to be destroyed. Game over.",
+                "caption": "Title screen.",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/12508201-cosmic-crisis-colecovision-the-blue-demon-must-fall-through-thre.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/aae8b194-ac21-11ed-aca6-02420a000132.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/12506841-cosmic-crisis-colecovision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a9af59b8-ac21-11ed-b444-02420a000134.webp",
+                "width": 256
+            },
+            {
+                "caption": "Starting level one.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12506844-cosmic-crisis-colecovision-starting-level-one.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a9db3c9a-ac21-11ed-b444-02420a000134.webp",
                 "width": 256
             },
             {
@@ -1106,10 +1113,10 @@
                 "width": 256
             },
             {
-                "caption": "Once the demon is trapped, fill in the hole to destroy them and earn points.",
+                "caption": "The blue demon must fall through three levels to be destroyed. Game over.",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/12508337-cosmic-crisis-colecovision-once-the-demon-is-trapped-fill-in-the.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a9e25200-ac21-11ed-a484-02420a000130.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/12508201-cosmic-crisis-colecovision-the-blue-demon-must-fall-through-thre.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/aae8b194-ac21-11ed-aca6-02420a000132.webp",
                 "width": 256
             },
             {
@@ -1117,13 +1124,6 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/12507691-cosmic-crisis-colecovision-caught-between-two-demons-on-level-tw.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/a8157d1c-ac21-11ed-a631-02420a000135.webp",
-                "width": 256
-            },
-            {
-                "caption": "Starting level one.",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/12506844-cosmic-crisis-colecovision-starting-level-one.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a9db3c9a-ac21-11ed-b444-02420a000134.webp",
                 "width": 256
             }
         ],
@@ -1213,17 +1213,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Starting a new game.",
+                "caption": "My tank is destroyed!",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/12507036-tank-wars-colecovision-starting-a-new-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a525ba36-ac21-11ed-b4f3-02420a000135.webp",
-                "width": 256
-            },
-            {
-                "caption": "Game over.",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/12506909-tank-wars-colecovision-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a8d4cee2-ac21-11ed-87d3-02420a000134.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/12507039-tank-wars-colecovision-my-tank-is-destroyed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a6423bd8-ac21-11ed-b4f3-02420a000135.webp",
                 "width": 256
             },
             {
@@ -1234,6 +1227,13 @@
                 "width": 256
             },
             {
+                "caption": "The home base has been blown up by the enemy.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12506906-tank-wars-colecovision-the-home-base-has-been-blown-up-by-the-en.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a8ab0abc-ac21-11ed-87d3-02420a000134.webp",
+                "width": 256
+            },
+            {
                 "caption": "In a cute touch, the tank blows up the game title.",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/12507033-tank-wars-colecovision-in-a-cute-touch-the-tank-blows-up-the-gam.png",
@@ -1241,10 +1241,10 @@
                 "width": 256
             },
             {
-                "caption": "My tank is destroyed!",
+                "caption": "Starting a new game.",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/12507039-tank-wars-colecovision-my-tank-is-destroyed.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a6423bd8-ac21-11ed-b4f3-02420a000135.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/12507036-tank-wars-colecovision-starting-a-new-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a525ba36-ac21-11ed-b4f3-02420a000135.webp",
                 "width": 256
             }
         ],
@@ -1361,31 +1361,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Not even hamburgers, chicken and an all-American apple can save Phoenix.",
+                "caption": "The last hold out at Tampa, Florida is finally defeated.",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/12509525-war-room-colecovision-not-even-hamburgers-chicken-and-an-all-ame.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ab7de3b8-ac21-11ed-8ce3-02420a000131.webp",
-                "width": 256
-            },
-            {
-                "caption": "Boston has been lost to the Soviets.",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/12509516-war-room-colecovision-boston-has-been-lost-to-the-soviets.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/aa713862-ac21-11ed-8ce3-02420a000131.webp",
-                "width": 256
-            },
-            {
-                "caption": "Incoming missiles everywhere. Tampa has been rebuilt.",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/12509519-war-room-colecovision-incoming-missiles-everywhere-tampa-has-bee.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/aaaff55c-ac21-11ed-8ce3-02420a000131.webp",
-                "width": 256
-            },
-            {
-                "caption": "Mushroom clouds and a barren landscape.",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/12509522-war-room-colecovision-mushroom-clouds-and-a-barren-landscape.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/aad7ae4e-ac21-11ed-8ce3-02420a000131.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/12509706-war-room-colecovision-the-last-hold-out-at-tampa-florida-is-fina.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/aca3f002-ac21-11ed-83f5-02420a000134.webp",
                 "width": 256
             },
             {
@@ -1393,6 +1372,27 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/12509513-war-room-colecovision-starting-a-new-game.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/aa15ef48-ac21-11ed-8ce3-02420a000131.webp",
+                "width": 256
+            },
+            {
+                "caption": "Title screen.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12514565-war-room-colecovision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ac11edce-ac21-11ed-b83f-02420a000135.webp",
+                "width": 256
+            },
+            {
+                "caption": "Not even hamburgers, chicken and an all-American apple can save Phoenix.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12509525-war-room-colecovision-not-even-hamburgers-chicken-and-an-all-ame.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ab7de3b8-ac21-11ed-8ce3-02420a000131.webp",
+                "width": 256
+            },
+            {
+                "caption": "Mushroom clouds and a barren landscape.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12509522-war-room-colecovision-mushroom-clouds-and-a-barren-landscape.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/aad7ae4e-ac21-11ed-8ce3-02420a000131.webp",
                 "width": 256
             }
         ],
@@ -1473,10 +1473,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Level four has lots of fruit and is tricky to navigate.",
+                "caption": "The layout gets more complicated as you progress through levels.",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/12546873-amazing-snake-colecovision-level-four-has-lots-of-fruit-and-is-t.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f42ee1fc-ac21-11ed-98b0-02420a000130.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/12546050-amazing-snake-colecovision-the-layout-gets-more-complicated-as-y.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f84aac08-ac21-11ed-af3d-02420a00012f.webp",
+                "width": 256
+            },
+            {
+                "caption": "Eat the fruit to complete the level.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12546044-amazing-snake-colecovision-eat-the-fruit-to-complete-the-level.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f801f724-ac21-11ed-af3d-02420a00012f.webp",
                 "width": 256
             },
             {
@@ -1487,24 +1494,17 @@
                 "width": 256
             },
             {
-                "caption": "Level two doubles the fruit.",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/12546047-amazing-snake-colecovision-level-two-doubles-the-fruit.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f82889e8-ac21-11ed-af3d-02420a00012f.webp",
-                "width": 256
-            },
-            {
-                "caption": "The layout gets more complicated as you progress through levels.",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/12546050-amazing-snake-colecovision-the-layout-gets-more-complicated-as-y.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f84aac08-ac21-11ed-af3d-02420a00012f.webp",
-                "width": 256
-            },
-            {
                 "caption": "Title screen.",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/12545801-amazing-snake-colecovision-title-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/f74cd27c-ac21-11ed-833b-02420a000131.webp",
+                "width": 256
+            },
+            {
+                "caption": "Game over.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12546876-amazing-snake-colecovision-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f44e2972-ac21-11ed-98b0-02420a000130.webp",
                 "width": 256
             }
         ],
@@ -1603,10 +1603,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Game over.",
+                "caption": "You will have to turn your ship around to fire at enemies below you.",
                 "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/12498903-meteoric-shower-colecovision-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9869f9d8-ac21-11ed-b444-02420a000134.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/12498897-meteoric-shower-colecovision-you-will-have-to-turn-your-ship-aro.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/97f27c5a-ac21-11ed-b444-02420a000134.webp",
                 "width": 256
             },
             {
@@ -1614,6 +1614,13 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/12498894-meteoric-shower-colecovision-ship-destroyed.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/97cd3ea4-ac21-11ed-b444-02420a000134.webp",
+                "width": 256
+            },
+            {
+                "caption": "Game over.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12498903-meteoric-shower-colecovision-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9869f9d8-ac21-11ed-b444-02420a000134.webp",
                 "width": 256
             },
             {
@@ -1628,13 +1635,6 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/12498891-meteoric-shower-colecovision-starting-level-one.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/97a0ce78-ac21-11ed-b444-02420a000134.webp",
-                "width": 256
-            },
-            {
-                "caption": "You will have to turn your ship around to fire at enemies below you.",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/12498897-meteoric-shower-colecovision-you-will-have-to-turn-your-ship-aro.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/97f27c5a-ac21-11ed-b444-02420a000134.webp",
                 "width": 256
             }
         ],
@@ -1724,13 +1724,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Enemy attack!",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/12541715-sector-alpha-colecovision-enemy-attack.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/edca53f0-ac21-11ed-b85a-02420a000135.webp",
-                "width": 256
-            },
-            {
                 "caption": "Starting level one.",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/12541709-sector-alpha-colecovision-starting-level-one.png",
@@ -1745,17 +1738,24 @@
                 "width": 256
             },
             {
+                "caption": "Title screen.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12541706-sector-alpha-colecovision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ed2e089c-ac21-11ed-b85a-02420a000135.webp",
+                "width": 256
+            },
+            {
+                "caption": "Enemy attack!",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12541715-sector-alpha-colecovision-enemy-attack.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/edca53f0-ac21-11ed-b85a-02420a000135.webp",
+                "width": 256
+            },
+            {
                 "caption": "Game over.",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/12541721-sector-alpha-colecovision-game-over.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/ee1aa6de-ac21-11ed-b85a-02420a000135.webp",
-                "width": 256
-            },
-            {
-                "caption": "All is quiet at first.",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/12541712-sector-alpha-colecovision-all-is-quiet-at-first.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ed9a018c-ac21-11ed-b85a-02420a000135.webp",
                 "width": 256
             }
         ],
@@ -1843,13 +1843,6 @@
                 "width": 256
             },
             {
-                "caption": "Crossed the finish line.",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/12543774-skiing-colecovision-crossed-the-finish-line.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f19e308c-ac21-11ed-a631-02420a000135.webp",
-                "width": 256
-            },
-            {
                 "caption": "Slaloming down the hill.",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/12543768-skiing-colecovision-slaloming-down-the-hill.png",
@@ -1857,17 +1850,24 @@
                 "width": 256
             },
             {
-                "caption": "Starting the slalom event.",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/12543765-skiing-colecovision-starting-the-slalom-event.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f11be9b0-ac21-11ed-a631-02420a000135.webp",
-                "width": 256
-            },
-            {
                 "caption": "Beginning the down hill event.",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/12543777-skiing-colecovision-beginning-the-down-hill-event.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/f1c4ac1c-ac21-11ed-a631-02420a000135.webp",
+                "width": 256
+            },
+            {
+                "caption": "Entering player name.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12543759-skiing-colecovision-entering-player-name.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f0c66968-ac21-11ed-a631-02420a000135.webp",
+                "width": 256
+            },
+            {
+                "caption": "Title screen.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12543756-skiing-colecovision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f09f798e-ac21-11ed-a631-02420a000135.webp",
                 "width": 256
             }
         ],
@@ -2001,17 +2001,17 @@
                 "width": 256
             },
             {
+                "caption": "On harder levels you have to discover the right word.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12546746-word-feud-colecovision-on-harder-levels-you-have-to-discover-the.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f65b6842-ac21-11ed-a12e-02420a000130.webp",
+                "width": 256
+            },
+            {
                 "caption": "Found the hidden word.",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/12546201-word-feud-colecovision-found-the-hidden-word.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/f787805c-ac21-11ed-8ce3-02420a000131.webp",
-                "width": 256
-            },
-            {
-                "caption": "Find the word in the screen full of letters.",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/12546038-word-feud-colecovision-find-the-word-in-the-screen-full-of-lette.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f7bd2c7a-ac21-11ed-af3d-02420a00012f.webp",
                 "width": 256
             },
             {
@@ -2106,20 +2106,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "A second ball is freed from the blocks.",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/12513564-strike-it-colecovision-a-second-ball-is-freed-from-the-blocks.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b6eaeb60-ac21-11ed-82af-02420a000136.webp",
-                "width": 256
-            },
-            {
-                "caption": "Game over.",
-                "height": 192,
-                "image_url": "https://cdn.mobygames.com/screenshots/12513567-strike-it-colecovision-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b72a2528-ac21-11ed-82af-02420a000136.webp",
-                "width": 256
-            },
-            {
                 "caption": "Starting a new game. Level one is a pretty basic breakout clone.",
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/12512953-strike-it-colecovision-starting-a-new-game-level-one-is-a-pretty.png",
@@ -2131,6 +2117,20 @@
                 "height": 192,
                 "image_url": "https://cdn.mobygames.com/screenshots/12513561-strike-it-colecovision-playing-level-four-adds-dual-paddles-mult.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/b6b19e8c-ac21-11ed-82af-02420a000136.webp",
+                "width": 256
+            },
+            {
+                "caption": "A second ball is freed from the blocks.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12513564-strike-it-colecovision-a-second-ball-is-freed-from-the-blocks.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b6eaeb60-ac21-11ed-82af-02420a000136.webp",
+                "width": 256
+            },
+            {
+                "caption": "Game over.",
+                "height": 192,
+                "image_url": "https://cdn.mobygames.com/screenshots/12513567-strike-it-colecovision-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b72a2528-ac21-11ed-82af-02420a000136.webp",
                 "width": 256
             },
             {

@@ -263,13 +263,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Game Over",
-                "height": 675,
-                "image_url": "https://cdn.mobygames.com/screenshots/18042076-basketboom-atari-vcs-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bf326282-a5ed-11ee-9168-02420a000156.webp",
-                "width": 1200
-            },
-            {
                 "caption": "More gameplay",
                 "height": 675,
                 "image_url": "https://cdn.mobygames.com/screenshots/18042072-basketboom-atari-vcs-more-gameplay.png",
@@ -277,17 +270,24 @@
                 "width": 1200
             },
             {
-                "caption": "A game in progress",
-                "height": 675,
-                "image_url": "https://cdn.mobygames.com/screenshots/18042060-basketboom-atari-vcs-a-game-in-progress.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/badf109a-a5ed-11ee-a6a6-02420a000158.webp",
-                "width": 1200
-            },
-            {
                 "caption": "Menu",
                 "height": 675,
                 "image_url": "https://cdn.mobygames.com/screenshots/18042080-basketboom-atari-vcs-menu.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/fd466f64-a5ed-11ee-a2a3-02420a000159.webp",
+                "width": 1200
+            },
+            {
+                "caption": "Game Over",
+                "height": 675,
+                "image_url": "https://cdn.mobygames.com/screenshots/18042076-basketboom-atari-vcs-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bf326282-a5ed-11ee-9168-02420a000156.webp",
+                "width": 1200
+            },
+            {
+                "caption": "A game in progress",
+                "height": 675,
+                "image_url": "https://cdn.mobygames.com/screenshots/18042060-basketboom-atari-vcs-a-game-in-progress.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/badf109a-a5ed-11ee-a6a6-02420a000158.webp",
                 "width": 1200
             }
         ],
@@ -386,6 +386,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "First level",
+                "height": 675,
+                "image_url": "https://cdn.mobygames.com/screenshots/17949091-bpm-boy-atari-vcs-first-level.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9ee96d66-92e9-11ee-b6f6-02420a000190.webp",
+                "width": 1200
+            },
+            {
                 "caption": "Main menu",
                 "height": 675,
                 "image_url": "https://cdn.mobygames.com/screenshots/17949095-bpm-boy-atari-vcs-main-menu.png",
@@ -397,13 +404,6 @@
                 "height": 675,
                 "image_url": "https://cdn.mobygames.com/screenshots/17949099-bpm-boy-atari-vcs-gameplay-from-the-first-level.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/a0d8bd52-92e9-11ee-b6f6-02420a000190.webp",
-                "width": 1200
-            },
-            {
-                "caption": "First level",
-                "height": 675,
-                "image_url": "https://cdn.mobygames.com/screenshots/17949091-bpm-boy-atari-vcs-first-level.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9ee96d66-92e9-11ee-b6f6-02420a000190.webp",
                 "width": 1200
             },
             {

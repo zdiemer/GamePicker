@@ -114,20 +114,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "K.C. blinks at you: he finished this level.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15844229-kcs-krazy-chase-odyssey-2-kc-blinks-at-you-he-finished-this-leve.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/becb9cba-bef7-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "The Drats are spinning...",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15844202-kcs-krazy-chase-odyssey-2-the-drats-are-spinning.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bde09940-bef7-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
                 "caption": "K.C., the Dratapillar and the Drats.",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/15844148-kcs-krazy-chase-odyssey-2-kc-the-dratapillar-and-the-drats.png",
@@ -139,6 +125,20 @@
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/15844301-kcs-krazy-chase-odyssey-2-level-2-the-dratapillar-got-me.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/c3e3c434-bef7-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "K.C. blinks at you: he finished this level.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15844229-kcs-krazy-chase-odyssey-2-kc-blinks-at-you-he-finished-this-leve.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/becb9cba-bef7-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "The programming mode",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15844349-kcs-krazy-chase-odyssey-2-the-programming-mode.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c6aea936-bef7-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -240,10 +240,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Stunning the serpent with a laser blast.",
+                "caption": "The serpent shooting.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15794255-power-lords-odyssey-2-stunning-the-serpent-with-a-laser-blast.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ed177ee0-bee8-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15794387-power-lords-odyssey-2-the-serpent-shooting.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f7c844aa-bee8-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -254,13 +254,6 @@
                 "width": 320
             },
             {
-                "caption": "Shooting a volcanic door.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15794342-power-lords-odyssey-2-shooting-a-volcanic-door.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f52f7b6e-bee8-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
                 "caption": "The serpent prepares to shoot its ray.",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/15794366-power-lords-odyssey-2-the-serpent-prepares-to-shoot-its-ray.png",
@@ -268,10 +261,17 @@
                 "width": 320
             },
             {
-                "caption": "A volcanic eruption. Note the door opening at the volcano (the blue \"x\").",
+                "caption": "Shooting a volcanic door.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15794015-power-lords-odyssey-2-a-volcanic-eruption-note-the-door-opening-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/da8fcbd8-bee8-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15794342-power-lords-odyssey-2-shooting-a-volcanic-door.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f52f7b6e-bee8-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Stunning the serpent with a laser blast.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15794255-power-lords-odyssey-2-stunning-the-serpent-with-a-laser-blast.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ed177ee0-bee8-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -343,10 +343,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Approaching the target.",
+                "caption": "Selecting the bomb to attack it.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15836833-comando-noturno-odyssey-2-approaching-the-target.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/602c17ea-bef5-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15837061-comando-noturno-odyssey-2-selecting-the-bomb-to-attack-it.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/71a92288-bef5-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Time to return to base, checking the distance.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15837112-comando-noturno-odyssey-2-time-to-return-to-base-checking-the-di.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/74250c02-bef5-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -357,17 +364,10 @@
                 "width": 320
             },
             {
-                "caption": "Crashed on landing! The plane should be aligned to the ground...",
+                "caption": "Target destroyed!",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15837157-comando-noturno-odyssey-2-crashed-on-landing-the-plane-should-be.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/76ea0fc8-bef5-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Landing, checking the altitude.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15837139-comando-noturno-odyssey-2-landing-checking-the-altitude.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7624ea90-bef5-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15837088-comando-noturno-odyssey-2-target-destroyed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/73034b36-bef5-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -455,20 +455,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Oops, I stumbled in the obstacle...",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15852743-clay-pigeon-odyssey-2-oops-i-stumbled-in-the-obstacle.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/39fc1db8-befa-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Hitting a plate... oops, looks like the eagle is coming.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15852815-clay-pigeon-odyssey-2-hitting-a-plate-oops-looks-like-the-eagle-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3ec4de20-befa-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
                 "caption": "I was caught by the eagle... game over!",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/15852842-clay-pigeon-odyssey-2-i-was-caught-by-the-eagle-game-over.png",
@@ -483,10 +469,24 @@
                 "width": 320
             },
             {
-                "caption": "Reloading the gun.",
+                "caption": "Oops, I stumbled in the obstacle...",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15852797-clay-pigeon-odyssey-2-reloading-the-gun.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3d51bdd8-befa-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15852743-clay-pigeon-odyssey-2-oops-i-stumbled-in-the-obstacle.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/39fc1db8-befa-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Ducks fly over my head.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15852776-clay-pigeon-odyssey-2-ducks-fly-over-my-head.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3c44827c-befa-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "A plate comes flying.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15852710-clay-pigeon-odyssey-2-a-plate-comes-flying.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/38ceb5a4-befa-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -622,10 +622,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "By touching the tree that matches your outfit's color, you'll reload your gun.",
+                "caption": "Sometimes no one survives...",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15787623-showdown-in-2100-ad-odyssey-2-by-touching-the-tree-that-matches-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a3cd3038-bee6-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15787293-showdown-in-2100-ad-odyssey-2-sometimes-no-one-survives.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/88641258-bee6-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "When a shot ricochets, the screen blinks in different colors.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15787262-showdown-in-2100-ad-odyssey-2-when-a-shot-ricochets-the-screen-b.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/842eac16-bee6-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -636,24 +643,17 @@
                 "width": 320
             },
             {
+                "caption": "By touching the tree that matches your outfit's color, you'll reload your gun.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15787623-showdown-in-2100-ad-odyssey-2-by-touching-the-tree-that-matches-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a3cd3038-bee6-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
                 "caption": "When one of the players reaches ten hits, the screen blinks and the game resets.",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/15787311-showdown-in-2100-ad-odyssey-2-when-one-of-the-players-reaches-te.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/8901fe00-bee6-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "He's dead.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15787860-showdown-in-2100-ad-odyssey-2-hes-dead.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b64263d2-bee6-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Sometimes no one survives...",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15787293-showdown-in-2100-ad-odyssey-2-sometimes-no-one-survives.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/88641258-bee6-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -787,10 +787,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Game start.",
+                "caption": "The enemy general was caught, he surrenders...",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15812579-war-of-nerves-odyssey-2-game-start.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5ca97cae-beee-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15812603-war-of-nerves-odyssey-2-the-enemy-general-was-caught-he-surrende.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5e243038-beee-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "And my general cheers!",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15812639-war-of-nerves-odyssey-2-and-my-general-cheers.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5ffa5a0e-beee-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -801,13 +808,6 @@
                 "width": 320
             },
             {
-                "caption": "My general calls his army to follow his lead.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15812699-war-of-nerves-odyssey-2-my-general-calls-his-army-to-follow-his-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6308e7d8-beee-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
                 "caption": "Repairing a stunned robot.",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/15812678-war-of-nerves-odyssey-2-repairing-a-stunned-robot.png",
@@ -815,10 +815,10 @@
                 "width": 320
             },
             {
-                "caption": "And my general cheers!",
+                "caption": "Game start.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15812639-war-of-nerves-odyssey-2-and-my-general-cheers.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5ffa5a0e-beee-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15812579-war-of-nerves-odyssey-2-game-start.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5ca97cae-beee-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -931,7 +931,7 @@
         "id": 28871,
         "moby_score": null,
         "moby_url": "https://www.mobygames.com/game/28871/blockout-breakdown/",
-        "num_votes": 7,
+        "num_votes": 8,
         "official_url": null,
         "platforms": [
             [
@@ -953,10 +953,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "A electronic demon falls from the barricade.",
+                "caption": "Breakdown! game start. The counter marks 36 blocks remaining.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15827321-blockout-breakdown-odyssey-2-a-electronic-demon-falls-from-the-b.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a052ef5e-bef2-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15827333-blockout-breakdown-odyssey-2-breakdown-game-start-the-counter-ma.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a164e122-bef2-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -967,17 +967,17 @@
                 "width": 320
             },
             {
+                "caption": "A electronic demon falls from the barricade.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15827321-blockout-breakdown-odyssey-2-a-electronic-demon-falls-from-the-b.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a052ef5e-bef2-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
                 "caption": "The ball crosses the blocks without ricocheting.",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/15816935-blockout-breakdown-odyssey-2-the-ball-crosses-the-blocks-without.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/8fc8f71c-beef-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Game over, there were 8 blocks missing.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15816977-blockout-breakdown-odyssey-2-game-over-there-were-8-blocks-missi.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/927cc786-beef-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -1017,7 +1017,7 @@
                 "title": "En-og-tyve"
             }
         ],
-        "description": "<p>One or two players can play against the computer in this Blackjack game.</p>\n<p>Each player starts with $1000. After placing their bets (through the keyboard), the dealer shuffles the cards and deals two face-up cards for each player and one face-up card and one face-down card to himself. He then asks the players to hit more cards or not (up to five). After each player has been dealt a full hand, the dealer reveals his face-down card. He'll take a hit if he has a total of 16 or less.</p>\n<p>Blackjack or five cards without a bust pays double. The nearest to 21 hands pays even. No money is paid if there is a tie.</p>\n<p>The computer offers an insurance bet if the dealer's first card is an ace. If the player accepts and the dealer goes blackjack, the player will lose no money. Otherwise, he will win or lose the current bet plus a half.</p>\n<p>Sometimes the computer will also offer a double down. If the player accepts, the bet is doubled and he will get just one more card.</p>",
+        "description": "<p>One or two players can play against the computer in this Blackjack game.</p>\n<p>Each player starts with $1000. After placing their bets (through the keyboard), the dealer shuffles the cards and deals two face-up cards for each player and one face-up card and one face-down card to himself. He then asks the players to hit more cards or not (up to five). After each player has been dealt a full hand, the dealer reveals his face-down card. He'll take a hit if he has a total of 16 or less.</p>\n<p>Blackjack or five cards without a bust pays double. The nearest to 21 hands pays even. No money is paid if there is a tie.</p>\n<p>The computer offers an insurance bet if the dealer's first card is an ace. If the player accepts and the dealer goes blackjack, the player will lose no money. Otherwise, the current bet is won or lost plus a half.</p>\n<p>Sometimes the computer will also offer a double down. If the player accepts, the bet is doubled and just one more card can be obtained.</p>",
         "genres": [
             {
                 "category": {
@@ -1068,7 +1068,7 @@
         "id": 28944,
         "moby_score": null,
         "moby_url": "https://www.mobygames.com/game/28944/las-vegas-blackjack/",
-        "num_votes": 7,
+        "num_votes": 8,
         "official_url": null,
         "platforms": [
             [
@@ -1090,38 +1090,38 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The dealer went for a blackjack.",
+                "caption": "Hit?",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15806210-las-vegas-blackjack-odyssey-2-the-dealer-went-for-a-blackjack.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/487d76ce-beec-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15806171-las-vegas-blackjack-odyssey-2-hit.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/456fb0d2-beec-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
-                "caption": "A two player game.",
+                "caption": "The dealer is shuffling the cards.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15799672-las-vegas-blackjack-odyssey-2-a-two-player-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b34ddd56-beea-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15806159-las-vegas-blackjack-odyssey-2-the-dealer-is-shuffling-the-cards.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/443ea33a-beec-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
-                "caption": "The dealer offers you a double down.",
+                "caption": "A tie.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15806240-las-vegas-blackjack-odyssey-2-the-dealer-offers-you-a-double-dow.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4aeb36b2-beec-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15806276-las-vegas-blackjack-odyssey-2-a-tie.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4ca52332-beec-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
-                "caption": "Double down accepted. It seems I lost, though.",
+                "caption": "The dealer offers me an insurance.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15806255-las-vegas-blackjack-odyssey-2-double-down-accepted-it-seems-i-lo.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4b61205c-beec-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15806294-las-vegas-blackjack-odyssey-2-the-dealer-offers-me-an-insurance.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4e294b7a-beec-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
-                "caption": "The dealer busted, I won.",
+                "caption": "Insurance taken, should I hit?",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15799615-las-vegas-blackjack-odyssey-2-the-dealer-busted-i-won.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/af8b91f4-beea-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15806525-las-vegas-blackjack-odyssey-2-insurance-taken-should-i-hit.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5c2acf0a-beec-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -1256,10 +1256,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Serve change",
+                "caption": "When nothing else happens, the bottom display just says \"volleyball\"",
                 "height": 250,
-                "image_url": "https://cdn.mobygames.com/screenshots/15810998-volleyball-odyssey-2-serve-change.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b1b0f0b6-beed-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15810968-volleyball-odyssey-2-when-nothing-else-happens-the-bottom-displa.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b0519cca-beed-11ed-9c42-02420a000140.webp",
                 "width": 336
             },
             {
@@ -1270,10 +1270,10 @@
                 "width": 336
             },
             {
-                "caption": "Serving",
+                "caption": "Serve change",
                 "height": 250,
-                "image_url": "https://cdn.mobygames.com/screenshots/15810923-volleyball-odyssey-2-serving.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ab35f24a-beed-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15810998-volleyball-odyssey-2-serve-change.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b1b0f0b6-beed-11ed-9c42-02420a000140.webp",
                 "width": 336
             },
             {
@@ -1284,10 +1284,10 @@
                 "width": 336
             },
             {
-                "caption": "When nothing else happens, the bottom display just says \"volleyball\"",
+                "caption": "Serving",
                 "height": 250,
-                "image_url": "https://cdn.mobygames.com/screenshots/15810968-volleyball-odyssey-2-when-nothing-else-happens-the-bottom-displa.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b0519cca-beed-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15810923-volleyball-odyssey-2-serving.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ab35f24a-beed-11ed-9c42-02420a000140.webp",
                 "width": 336
             }
         ],
@@ -1409,10 +1409,24 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Down Hill selection screen.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16048375-alpine-skiing-odyssey-2-down-hill-selection-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/97e441e2-bf38-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
                 "caption": "Both players crashed in the gates.",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16048555-alpine-skiing-odyssey-2-both-players-crashed-in-the-gates.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/a5f2e928-bf38-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Giant Slalom selection screen.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16048333-alpine-skiing-odyssey-2-giant-slalom-selection-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/94cc696c-bf38-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -1423,24 +1437,10 @@
                 "width": 320
             },
             {
-                "caption": "Player one is already running while player two didn't start yet.",
+                "caption": "Players ready to start in the Down Hill race.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16048435-alpine-skiing-odyssey-2-player-one-is-already-running-while-play.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9dec5dea-bf38-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "The gates are farther apart in the Giant Slalom event.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16048357-alpine-skiing-odyssey-2-the-gates-are-farther-apart-in-the-giant.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/970426e8-bf38-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Giant Slalom selection screen.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16048333-alpine-skiing-odyssey-2-giant-slalom-selection-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/94cc696c-bf38-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16048423-alpine-skiing-odyssey-2-players-ready-to-start-in-the-down-hill-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9cb0ad64-bf38-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -1489,7 +1489,7 @@
                 "title": "Take the money and run"
             }
         ],
-        "description": "<p>After a time travel, the players are trapped in the Land of Keynesium, in 231,000 A.D. The Keynesians are deeply interested in the 20th Century economic life, and they build more than a trillion different mazes populated by robots representing the economic factors of that time. Starting with $500,000, the players must turn it into a million so they can return for their time, or else be doomed to roam the Keynesian mazes forever!</p>\n<p>In this game, the players play against the Keynesian robots in seven kinds of mazes, called Income, Reward, Investment, Expenses, Thief, Taxes and Inflation. In the first three kinds of mazes, the player must try to catch the robots in order to gain money. In the last four kinds of mazes, the players must run from the robots, as they lose money if caught.</p>\n<p>In both kinds of mazes, a money counter will appear at the bottom of the screen, showing different values of money each time a maze is started. The counter will start to decrease and the players will win (if they catch the robots in the three first kinds of mazes) or lose (if they are caught by the robots in the last four kinds of mazes) the amount of money shown.</p>\n<p>The players' characters are two times taller than the robots, thus sometimes the players must duck to pass through certain portions of the mazes (by pressing the action button). While ducking the players move at 2/3 the normal speed. If they try to pass through a low ceiling portion without ducking, they'll move at half the speed. Touching the walls of a maze will make it harder to move, and touching the opponent player while touching the a will make him lose control.</p>",
+        "description": "<p>After a time travel, the players are trapped in the Land of Keynesium, in 231,000 A.D. The Keynesians are deeply interested in the 20th Century economic life, and they build more than a trillion different mazes populated by robots representing the economic factors of that time. Starting with $500,000, the players must turn it into a million so they can return for their time, or else be doomed to roam the Keynesian mazes forever!</p>\n<p>In this game, the players play against the Keynesian robots in seven kinds of mazes, called Income, Reward, Investment, Expenses, Thief, Taxes and Inflation. In the first three kinds of mazes, the player must try to catch the robots in order to gain money. In the last four kinds of mazes, the players must run from the robots, as they lose money if caught.</p>\n<p>In both kinds of mazes, a money counter will appear at the bottom of the screen, showing different values of money each time a maze is started. The counter will start to decrease and the players will win (if they catch the robots in the three first kinds of mazes) or lose (if they are caught by the robots in the last four kinds of mazes) the amount of money shown.</p>\n<p>The players' characters are two times taller than the robots, thus sometimes the players must duck to pass through certain portions of the mazes (by pressing the action button). While ducking the players move at 2/3 the normal speed. If they try to pass through a low ceiling portion without ducking, they'll move at half the speed. Touching the walls of a maze will make it harder to move, and touching the opponent player while touching the wall will cause loss of control.</p>",
         "genres": [
             {
                 "category": {
@@ -1571,10 +1571,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "A \"Reward\" maze.",
+                "caption": "A \"Taxes\" maze.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15777703-take-the-money-and-run-odyssey-2-a-reward-maze.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/31bf118a-bee3-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15852587-take-the-money-and-run-odyssey-2-a-taxes-maze.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/31c7f81a-befa-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -1585,24 +1585,24 @@
                 "width": 320
             },
             {
-                "caption": "An \"Investment\" maze.",
+                "caption": "A \"Reward\" maze.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15777733-take-the-money-and-run-odyssey-2-an-investment-maze.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/343e2e14-bee3-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15777703-take-the-money-and-run-odyssey-2-a-reward-maze.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/31bf118a-bee3-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
-                "caption": "Ducking to get past through a low ceiling portion of the maze.",
+                "caption": "Starting a game, an \"Income\" maze.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15777013-take-the-money-and-run-odyssey-2-ducking-to-get-past-through-a-l.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/059a0b50-bee3-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16031731-take-the-money-and-run-odyssey-2-starting-a-game-an-income-maze.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0ccf86f2-bf33-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
-                "caption": "A \"Taxes\" maze.",
+                "caption": "An \"Expenses\" maze.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15852587-take-the-money-and-run-odyssey-2-a-taxes-maze.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/31c7f81a-befa-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15854591-take-the-money-and-run-odyssey-2-an-expenses-maze.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a728591a-befa-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -1752,24 +1752,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Math-A-Magic! Variation 1, multiplication problem at skill level 3.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15863278-math-a-magic-echo-odyssey-2-math-a-magic-variation-1-multiplicat.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0acdfa2c-befd-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Math-A-Magic! Variation 2, addition problem at skill level 2.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15863326-math-a-magic-echo-odyssey-2-math-a-magic-variation-2-addition-pr.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0fa34ab6-befd-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
                 "caption": "Math-A-Magic! Variation 1, division problem (no skill level selectable).",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/15863299-math-a-magic-echo-odyssey-2-math-a-magic-variation-1-division-pr.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/0d06f7e4-befd-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Math-A-Magic! Variation 1, subtraction problem at skill level 2.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15863254-math-a-magic-echo-odyssey-2-math-a-magic-variation-1-subtraction.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/077814ca-befd-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Echo! Players's turn: pressing two for the first number in the sequence.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15856631-math-a-magic-echo-odyssey-2-echo-playerss-turn-pressing-two-for-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/32b659be-befb-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -1780,10 +1780,10 @@
                 "width": 320
             },
             {
-                "caption": "Math-A-Magic! Variation 2: selecting the kind of operation.",
+                "caption": "Math-A-Magic! Variation 1, multiplication problem at skill level 3.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15856595-math-a-magic-echo-odyssey-2-math-a-magic-variation-2-selecting-t.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/318cc6c2-befb-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15863278-math-a-magic-echo-odyssey-2-math-a-magic-variation-1-multiplicat.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0acdfa2c-befd-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -1891,7 +1891,7 @@
         "id": 29241,
         "moby_score": null,
         "moby_url": "https://www.mobygames.com/game/29241/pt-barnums-acrobats/",
-        "num_votes": 6,
+        "num_votes": 7,
         "official_url": null,
         "platforms": [
             [
@@ -1913,6 +1913,20 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Starting a game.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16005122-pt-barnums-acrobats-odyssey-2-starting-a-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b8b9264e-bf29-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "A variation: stationary balloons and shield.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15795725-pt-barnums-acrobats-odyssey-2-a-variation-stationary-balloons-an.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/639275d4-bee9-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
                 "caption": "A variation: stationary balloons.",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/15795683-pt-barnums-acrobats-odyssey-2-a-variation-stationary-balloons.png",
@@ -1920,31 +1934,17 @@
                 "width": 320
             },
             {
-                "caption": "Popping a complete row of balloons will make it be replaced by another as the screen flashes in red.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15795203-pt-barnums-acrobats-odyssey-2-popping-a-complete-row-of-balloons.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/387272b4-bee9-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "The white acrobat crashed into the groud.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16005143-pt-barnums-acrobats-odyssey-2-the-white-acrobat-crashed-into-the.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b9dce902-bf29-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "An acrobat landing at the teeter.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16005137-pt-barnums-acrobats-odyssey-2-an-acrobat-landing-at-the-teeter.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b9a883ba-bf29-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
                 "caption": "The blue acrobat flies while popping balloons.",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/15818498-pt-barnums-acrobats-odyssey-2-the-blue-acrobat-flies-while-poppi.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/f9b34452-beef-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "A variations: random shield with moving balloons.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16005152-pt-barnums-acrobats-odyssey-2-a-variations-random-shield-with-mo.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bad2c8ea-bf29-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -2079,13 +2079,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Right player is the winner!",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15807386-ive-got-your-number-odyssey-2-right-player-is-the-winner.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9396016c-beec-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
                 "caption": "The left player got it wrong and is depressed...",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/15807272-ive-got-your-number-odyssey-2-the-left-player-got-it-wrong-and-i.png",
@@ -2097,6 +2090,13 @@
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/15985535-ive-got-your-number-odyssey-2-the-right-player-got-it-right-and-.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/1d1160b4-bf22-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Right player is the winner!",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15807386-ive-got-your-number-odyssey-2-right-player-is-the-winner.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9396016c-beec-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -2256,17 +2256,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "My ship and an enemy ship being destroyed.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15812609-invaders-from-hyperspace-odyssey-2-my-ship-and-an-enemy-ship-bei.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5e5181e6-beee-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
                 "caption": "My ship was destroyed and there's no planet with my color to provide me a new ship.",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/15851349-invaders-from-hyperspace-odyssey-2-my-ship-was-destroyed-and-the.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/d861dbce-bef9-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "The right player wins.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15812624-invaders-from-hyperspace-odyssey-2-the-right-player-wins.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5f28e9ec-beee-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Coliding against a planet.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15851367-invaders-from-hyperspace-odyssey-2-coliding-against-a-planet.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dad8d790-bef9-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -2281,13 +2288,6 @@
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/15851331-invaders-from-hyperspace-odyssey-2-a-game-starts.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/d7a349b6-bef9-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "The right player wins.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15812624-invaders-from-hyperspace-odyssey-2-the-right-player-wins.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5f28e9ec-beee-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -2445,13 +2445,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Armored Encounter! - The red tank is hit in variation K. Notice how the tanks didn't leave their starting position: using the guided missile, the barriers can be avoided.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15881006-armored-encounter-sub-chase-odyssey-2-armored-encounter-the-red-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9a48bd90-bf02-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
                 "caption": "Sub Chase! - the submarine gets hit in variation \"B\".",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/15880637-armored-encounter-sub-chase-odyssey-2-sub-chase-the-submarine-ge.png",
@@ -2466,6 +2459,13 @@
                 "width": 320
             },
             {
+                "caption": "Armored Encounter! - Blue tank is hit in variation \"C\".",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15880985-armored-encounter-sub-chase-odyssey-2-armored-encounter-blue-tan.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/989706d2-bf02-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
                 "caption": "Armored Encounter! - The mined field in variation \"G\".",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/15881012-armored-encounter-sub-chase-odyssey-2-armored-encounter-the-mine.png",
@@ -2473,10 +2473,10 @@
                 "width": 320
             },
             {
-                "caption": "Armored Encounter! - Playing variation \"B\".",
+                "caption": "Armored Encounter! - The red tank is hit in variation K. Notice how the tanks didn't leave their starting position: using the guided missile, the barriers can be avoided.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15880964-armored-encounter-sub-chase-odyssey-2-armored-encounter-playing-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9536b0dc-bf02-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15881006-armored-encounter-sub-chase-odyssey-2-armored-encounter-the-red-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9a48bd90-bf02-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -2607,10 +2607,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Logix! - After 14 tries, the right sequence.",
+                "caption": "I made it!",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15880634-matchmaker-logix-buzzword-odyssey-2-logix-after-14-tries-the-rig.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7cdd43ca-bf02-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15880673-matchmaker-logix-buzzword-odyssey-2-i-made-it.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7f4d459c-bf02-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -2621,10 +2621,10 @@
                 "width": 320
             },
             {
-                "caption": "I made it!",
+                "caption": "Matchmaker!  - Starting a game.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15880673-matchmaker-logix-buzzword-odyssey-2-i-made-it.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7f4d459c-bf02-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15880601-matchmaker-logix-buzzword-odyssey-2-matchmaker-starting-a-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7a991f8a-bf02-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -2807,17 +2807,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Space Rendezvous - The two players try the space rendezvous.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15822872-pairs-space-rendezvous-logic-odyssey-2-space-rendezvous-the-two-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/53432b9e-bef1-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
                 "caption": "Space Rendezvous - Player one manages to dock while player two crashes.",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/15823196-pairs-space-rendezvous-logic-odyssey-2-space-rendezvous-player-o.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/6ed12e06-bef1-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Space Rendezvous - The two players try the space rendezvous.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15822872-pairs-space-rendezvous-logic-odyssey-2-space-rendezvous-the-two-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/53432b9e-bef1-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -2930,17 +2930,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Helicopter Rescue! - Lowering the rescue basket.",
+                "caption": "Out of This World! - The blue ship links",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15824657-out-of-this-world-helicopter-rescue-odyssey-2-helicopter-rescue-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cd853fc8-bef1-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Helicopter Rescue! - When the helicopter turns from one side to the other, you'll see it rotating with its cabin to the front of screen.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15824780-out-of-this-world-helicopter-rescue-odyssey-2-helicopter-rescue-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d45f0c84-bef1-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15880448-out-of-this-world-helicopter-rescue-odyssey-2-out-of-this-world-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/70f7f410-bf02-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -2951,10 +2944,17 @@
                 "width": 320
             },
             {
-                "caption": "Out of This World! - The blue ship links",
+                "caption": "Helicopter Rescue! - When the helicopter turns from one side to the other, you'll see it rotating with its cabin to the front of screen.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15880448-out-of-this-world-helicopter-rescue-odyssey-2-out-of-this-world-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/70f7f410-bf02-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15824780-out-of-this-world-helicopter-rescue-odyssey-2-helicopter-rescue-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d45f0c84-bef1-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Helicopter Rescue! - Lowering the rescue basket.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15824657-out-of-this-world-helicopter-rescue-odyssey-2-helicopter-rescue-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cd853fc8-bef1-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -3097,17 +3097,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "And the Computer scores first. ",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16177435-electronic-table-soccer-odyssey-2-and-the-computer-scores-first.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/de04ceac-c1c8-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
                 "caption": "I'm losing, but I scored my second one. The players in red are celebrating.",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/15908504-electronic-table-soccer-odyssey-2-im-losing-but-i-scored-my-seco.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/dce077fc-bf0b-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "A game starts. The \"C\" on the right shows that I'm playing against the computer.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15908826-electronic-table-soccer-odyssey-2-a-game-starts-the-c-on-the-rig.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f4d2b3a2-bf0b-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -3118,10 +3118,10 @@
                 "width": 320
             },
             {
-                "caption": "A game starts. The \"C\" on the right shows that I'm playing against the computer.",
+                "caption": "And the Computer scores first. ",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15908826-electronic-table-soccer-odyssey-2-a-game-starts-the-c-on-the-rig.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f4d2b3a2-bf0b-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16177435-electronic-table-soccer-odyssey-2-and-the-computer-scores-first.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/de04ceac-c1c8-11ed-ab6b-02420a000194.webp",
                 "width": 320
             }
         ],
@@ -3215,6 +3215,27 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Hole three.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15881135-computer-golf-odyssey-2-hole-three.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ac295178-bf02-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Hole four.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15881165-computer-golf-odyssey-2-hole-four.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b01b07c2-bf02-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "The zoom on the green.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15881009-computer-golf-odyssey-2-the-zoom-on-the-green.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9a5ca6d4-bf02-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
                 "caption": "I just made it to the green.",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/15881117-computer-golf-odyssey-2-i-just-made-it-to-the-green.png",
@@ -3226,27 +3247,6 @@
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/15633305-computer-golf-odyssey-2-hole-two.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/ca290e48-bdea-11ed-b791-02420a0001bb.webp",
-                "width": 320
-            },
-            {
-                "caption": "The first hole.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15880988-computer-golf-odyssey-2-the-first-hole.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/98adabbc-bf02-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Hole four.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15881165-computer-golf-odyssey-2-hole-four.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b01b07c2-bf02-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Hole three.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15881135-computer-golf-odyssey-2-hole-three.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ac295178-bf02-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -3399,24 +3399,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Blue team shoots.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15880961-hockey-soccer-odyssey-2-blue-team-shoots.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9521ec42-bf02-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Green team scores one.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15880856-hockey-soccer-odyssey-2-green-team-scores-one.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8c46955a-bf02-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
                 "caption": "Ice Hockey title screen.",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/15880829-hockey-soccer-odyssey-2-ice-hockey-title-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/88ac231a-bf02-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Red team scores one.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15828839-hockey-soccer-odyssey-2-red-team-scores-one.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/18ba275a-bef3-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -3427,10 +3420,17 @@
                 "width": 320
             },
             {
-                "caption": "Red team scores one.",
+                "caption": "Green team scores one.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15828839-hockey-soccer-odyssey-2-red-team-scores-one.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/18ba275a-bef3-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15880856-hockey-soccer-odyssey-2-green-team-scores-one.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8c46955a-bf02-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "The blue goalie holds the puck.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15880976-hockey-soccer-odyssey-2-the-blue-goalie-holds-the-puck.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9691b29c-bf02-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -3537,24 +3537,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "This are more or less even by now.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15897522-dynasty-odyssey-2-this-are-more-or-less-even-by-now.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/69a2d94a-bf08-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "I was owned.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15897552-dynasty-odyssey-2-i-was-owned.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6b88ac58-bf08-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
                 "caption": "Directional Dinasty: selecting the direction of the capture.",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/15869157-dynasty-odyssey-2-directional-dinasty-selecting-the-direction-of.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/c761b164-befe-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Starting a game.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15695683-dynasty-odyssey-2-starting-a-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/be5f55f8-bec7-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "This are more or less even by now.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15897522-dynasty-odyssey-2-this-are-more-or-less-even-by-now.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/69a2d94a-bf08-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -3565,10 +3565,10 @@
                 "width": 320
             },
             {
-                "caption": "Starting a game.",
+                "caption": "I was owned.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15695683-dynasty-odyssey-2-starting-a-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/be5f55f8-bec7-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15897552-dynasty-odyssey-2-i-was-owned.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6b88ac58-bf08-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -3673,10 +3673,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The computer won this game.",
+                "caption": "I'm with my energizer raised.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15896186-pachinko-odyssey-2-the-computer-won-this-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d9d7fdb8-bf07-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15896189-pachinko-odyssey-2-im-with-my-energizer-raised.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d9f947f2-bf07-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -3701,10 +3701,10 @@
                 "width": 320
             },
             {
-                "caption": "I'm with my energizer raised.",
+                "caption": "The computer won this game.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15896189-pachinko-odyssey-2-im-with-my-energizer-raised.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d9f947f2-bf07-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15896186-pachinko-odyssey-2-the-computer-won-this-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d9d7fdb8-bf07-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -3818,17 +3818,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The players select their plays.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15806735-football-odyssey-2-the-players-select-their-plays.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/69f26d1e-beec-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
                 "caption": "The players are positioned to play.",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/15807011-football-odyssey-2-the-players-are-positioned-to-play.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/7da3808c-beec-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "The players select their plays.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15806735-football-odyssey-2-the-players-select-their-plays.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/69f26d1e-beec-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -3956,6 +3956,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Ok, now there's just one possibility for the last stone.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15834520-secret-of-the-pharaohs-odyssey-2-ok-now-theres-just-one-possibil.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b1d7d81e-bef4-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
                 "caption": "Blue player wins!",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/15833992-secret-of-the-pharaohs-odyssey-2-blue-player-wins.png",
@@ -3967,13 +3974,6 @@
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16177774-secret-of-the-pharaohs-odyssey-2-the-blue-player-got-three-stone.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/06ee0324-c1c9-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
-                "caption": "Ok, now there's just one possibility for the last stone.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15834520-secret-of-the-pharaohs-odyssey-2-ok-now-theres-just-one-possibil.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b1d7d81e-bef4-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -4085,6 +4085,20 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Pulling the lever makes the wheels spin",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16171663-casino-slot-machine-odyssey-2-pulling-the-lever-makes-the-wheels.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d443a322-c1c6-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Selecting the number of players.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15808796-casino-slot-machine-odyssey-2-selecting-the-number-of-players.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e76fb44a-beec-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
                 "caption": "Selecting the rows to bet.",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/15809300-casino-slot-machine-odyssey-2-selecting-the-rows-to-bet.png",
@@ -4096,20 +4110,6 @@
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/15809279-casino-slot-machine-odyssey-2-placing-a-bet.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/0d83be10-beed-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Selecting the number of players.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15808796-casino-slot-machine-odyssey-2-selecting-the-number-of-players.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e76fb44a-beec-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Pulling the lever makes the wheels spin",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16171663-casino-slot-machine-odyssey-2-pulling-the-lever-makes-the-wheels.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d443a322-c1c6-11ed-ab6b-02420a000194.webp",
                 "width": 320
             }
         ],
@@ -4197,17 +4197,10 @@
                 "width": 320
             },
             {
-                "caption": "Multiplication Runthrough.",
+                "caption": "Name the Shapes.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15841753-nimble-numbers-ned-odyssey-2-multiplication-runthrough.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f542d3f4-bef6-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "After each minigame, the player has the chance to advance in the numbered stones.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15995499-nimble-numbers-ned-odyssey-2-after-each-minigame-the-player-has-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6879fe6a-bf24-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15841738-nimble-numbers-ned-odyssey-2-name-the-shapes.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f41bc422-bef6-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -4218,10 +4211,17 @@
                 "width": 320
             },
             {
-                "caption": "Name the Shapes.",
+                "caption": "After each minigame, the player has the chance to advance in the numbered stones.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15841738-nimble-numbers-ned-odyssey-2-name-the-shapes.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f41bc422-bef6-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15995499-nimble-numbers-ned-odyssey-2-after-each-minigame-the-player-has-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6879fe6a-bf24-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Multiplication Runthrough.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15841753-nimble-numbers-ned-odyssey-2-multiplication-runthrough.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f542d3f4-bef6-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -4339,10 +4339,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Hounddog's turn.",
+                "caption": "MICROCAT has more chances to win, as seen in the strategy indicator (33 agains 20 of mine).",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15647074-4-in-1-row-odyssey-2-hounddogs-turn.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cffd4b0e-bdef-11ed-b791-02420a0001bb.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16044781-4-in-1-row-odyssey-2-microcat-has-more-chances-to-win-as-seen-in.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9d28b2d8-bf37-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -4353,17 +4353,17 @@
                 "width": 320
             },
             {
+                "caption": "Hounddog's turn.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15647074-4-in-1-row-odyssey-2-hounddogs-turn.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cffd4b0e-bdef-11ed-b791-02420a0001bb.webp",
+                "width": 320
+            },
+            {
                 "caption": "MICROCAT starts with a central drop.",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16044772-4-in-1-row-odyssey-2-microcat-starts-with-a-central-drop.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/9cdaf872-bf37-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "MICROCAT has more chances to win, as seen in the strategy indicator (33 agains 20 of mine).",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16044781-4-in-1-row-odyssey-2-microcat-has-more-chances-to-win-as-seen-in.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9d28b2d8-bf37-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -4433,7 +4433,7 @@
         "id": 36468,
         "moby_score": null,
         "moby_url": "https://www.mobygames.com/game/36468/chinese-logic/",
-        "num_votes": 8,
+        "num_votes": 9,
         "official_url": null,
         "platforms": [
             [
@@ -4455,20 +4455,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "A harder variation without the D point",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15837124-chinese-logic-odyssey-2-a-harder-variation-without-the-d-point.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/757af7d8-bef5-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Starting the first variation.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15837367-chinese-logic-odyssey-2-starting-the-first-variation.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8fbc7676-bef5-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
                 "caption": "This one is too easy to beat!",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/15837409-chinese-logic-odyssey-2-this-one-is-too-easy-to-beat.png",
@@ -4480,6 +4466,20 @@
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/15837385-chinese-logic-odyssey-2-there-goes-number-2-from-point-a-to-poin.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/908e3a3a-bef5-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Starting the first variation.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15837367-chinese-logic-odyssey-2-starting-the-first-variation.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8fbc7676-bef5-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "A harder variation without the D point",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15837124-chinese-logic-odyssey-2-a-harder-variation-without-the-d-point.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/757af7d8-bef5-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -4532,7 +4532,7 @@
                 "title": "Singeries!"
             }
         ],
-        "description": "<p>In <em>Monkeyshines!</em> one or two players will try to tag as many monkeys as they can while avoiding being tagged back. The players can move and jump over platforms where the monkeys are hanging and moving around. If a player catches a monkey, he has to press the \"action\" button to tag the monkey and throw it in any desired direction. Once tagged, the monkey will become red for a while and try to tag back the player. If the player is tagged, he's out of the game. The game ends when both player characters are tagged.</p>\n<p>The computer keeps track of how many monkeys were tagged. If more than 10 are tagged, the monkeys start to stay red for a longer period of time and it becomes harder for the players to avoid being tagged. The difficulty levels can be skipped without having to score points by pressing the \"+\" key once (for the second level) or twice (for the third).</p>\n<p>The main gameplay is called Monkey Tag! Additional variations can be played by the introduction of keyboard commands:* Tailspin!: by pressing R the players randomize the platforms' position every few seconds. Pressing S will stop it;</p>\n<ul>\n<li>\n<p>Shuteye!: by pressing I the platforms become invisible to the players. Pressing V makes them visible again;</p>\n</li>\n<li>\n<p>Monkey Chess!: in this variation, one of the players (or an additional one) can edit the playfield by adding or removing bars. To do so, the player types the coordinates of the desired vertical (number, letter) or horizontal (letter, number) bar and press \"clear\" to remove it or \"enter\" to add it.This way \"ladders\" and \"cages\" can be built to help the players;</p>\n</li>\n<li>\n<p>Bananas!: this variation consists in a combination of all the previous ones.</p>\n</li>\n</ul>",
+        "description": "<p>In <em>Monkeyshines!</em> one or two players will try to tag as many monkeys as they can while avoiding being tagged back. The players can move and jump over platforms where the monkeys are hanging and moving around. If a player catches a monkey, an \"action\" button has to be pressed to tag the monkey and throw it in any desired direction. Once tagged, the monkey will become red for a while and try to tag back the player. If the player is tagged, it is game over. The game ends when both player characters are tagged.</p>\n<p>The computer keeps track of how many monkeys were tagged. If more than 10 are tagged, the monkeys start to stay red for a longer period of time and it becomes harder for the players to avoid being tagged. The difficulty levels can be skipped without having to score points by pressing the \"+\" key once (for the second level) or twice (for the third).</p>\n<p>The main gameplay is called Monkey Tag! Additional variations can be played by the introduction of keyboard commands:</p>\n<ul>\n<li>Tailspin!: by pressing R the players randomize the platforms' position every few seconds. Pressing S will stop it;</li>\n<li>Shuteye!: by pressing I the platforms become invisible to the players. Pressing V makes them visible again;</li>\n<li>Monkey Chess!: in this variation, one of the players (or an additional one) can edit the playfield by adding or removing bars. To do so, the player types the coordinates of the desired vertical (number, letter) or horizontal (letter, number) bar and press \"clear\" to remove it or \"enter\" to add it.This way \"ladders\" and \"cages\" can be built to help the players;</li>\n<li>Bananas!: this variation consists in a combination of all the previous ones.</li>\n</ul>",
         "genres": [
             {
                 "category": {
@@ -4572,7 +4572,7 @@
             }
         ],
         "id": 36471,
-        "moby_score": null,
+        "moby_score": 6.4,
         "moby_url": "https://www.mobygames.com/game/36471/monkeyshines/",
         "num_votes": 5,
         "official_url": null,
@@ -4596,20 +4596,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The invisible mode in the Shuteye! variation.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15934501-monkeyshines-odyssey-2-the-invisible-mode-in-the-shuteye-variati.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/68ad639c-bf13-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "About to remove the M5 horizontal bar in the Monkey Chess! variation.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15993694-monkeyshines-odyssey-2-about-to-remove-the-m5-horizontal-bar-in-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f7c7be82-bf23-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
                 "caption": "A game starts.",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/15934462-monkeyshines-odyssey-2-a-game-starts.png",
@@ -4617,10 +4603,24 @@
                 "width": 320
             },
             {
+                "caption": "The invisible mode in the Shuteye! variation.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15934501-monkeyshines-odyssey-2-the-invisible-mode-in-the-shuteye-variati.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/68ad639c-bf13-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
                 "caption": "Two monkeys tagged at the same time!",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/15934480-monkeyshines-odyssey-2-two-monkeys-tagged-at-the-same-time.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/67ce2042-bf13-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "About to remove the M5 horizontal bar in the Monkey Chess! variation.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15993694-monkeyshines-odyssey-2-about-to-remove-the-m5-horizontal-bar-in-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f7c7be82-bf23-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -4710,13 +4710,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The skill selection screen.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15940778-sid-the-spellbinder-odyssey-2-the-skill-selection-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/288c19c8-bf15-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
                 "caption": "There goes Sid smiling, it doesn't know I'm gonna shoot it, I guess.",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/15940860-sid-the-spellbinder-odyssey-2-there-goes-sid-smiling-it-doesnt-k.png",
@@ -4724,10 +4717,10 @@
                 "width": 320
             },
             {
-                "caption": "My missiles look like little snakes, maybe I'm shooting angry Sid's kids at it.",
+                "caption": "Spelling time: the word is \"next\".",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15940872-sid-the-spellbinder-odyssey-2-my-missiles-look-like-little-snake.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/30be6b8c-bf15-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15701598-sid-the-spellbinder-odyssey-2-spelling-time-the-word-is-next.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e82dc53e-bec9-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -4738,10 +4731,17 @@
                 "width": 320
             },
             {
-                "caption": "Spelling time: the word is \"next\".",
+                "caption": "My missiles look like little snakes, maybe I'm shooting angry Sid's kids at it.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15701598-sid-the-spellbinder-odyssey-2-spelling-time-the-word-is-next.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e82dc53e-bec9-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15940872-sid-the-spellbinder-odyssey-2-my-missiles-look-like-little-snake.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/30be6b8c-bf15-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "The skill selection screen.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15940778-sid-the-spellbinder-odyssey-2-the-skill-selection-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/288c19c8-bf15-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -4809,7 +4809,7 @@
         "id": 36486,
         "moby_score": null,
         "moby_url": "https://www.mobygames.com/game/36486/computer-intro/",
-        "num_votes": 4,
+        "num_votes": 5,
         "official_url": null,
         "platforms": [
             [
@@ -4831,10 +4831,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The Flash Card addition game",
+                "caption": "The Creepy Crawler demo program",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15909909-computer-intro-odyssey-2-the-flash-card-addition-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/55e054ce-bf0c-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15958621-computer-intro-odyssey-2-the-creepy-crawler-demo-program.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/671a665e-bf1a-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Instead of the traditional \"Select Game\" screen, this cartridge waits for you to type in commands.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15958597-computer-intro-odyssey-2-instead-of-the-traditional-select-game-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/64df5ec6-bf1a-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "The Computer Telepathy game. It shows me that my guess, 12, is lower than the secret number.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15712305-computer-intro-odyssey-2-the-computer-telepathy-game-it-shows-me.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/be5194da-becd-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -4849,20 +4863,6 @@
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16171492-computer-intro-odyssey-2-creepy-crawler-version-ii-created-by-us.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/c9f88658-c1c6-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
-                "caption": "The Computer Telepathy game. It shows me that my guess, 12, is lower than the secret number.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15712305-computer-intro-odyssey-2-the-computer-telepathy-game-it-shows-me.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/be5194da-becd-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "The Between the Sheets game. Do I think the number is between 5 and 7?",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15909708-computer-intro-odyssey-2-the-between-the-sheets-game-do-i-think-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/48fa4fc6-bf0c-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -5003,20 +5003,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "<i>Catch the Ball</i>: the red clown letting the ball fall.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15922513-catch-the-ball-noughts-and-crosses-odyssey-2-icatch-the-balli-th.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/da36fe32-bf0f-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "<i>Catch the Ball</i>: the blue clown about to catch a ball.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15922068-catch-the-ball-noughts-and-crosses-odyssey-2-icatch-the-balli-th.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c1b0aa34-bf0f-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
                 "caption": "<i>Noughts and Crosses</i>: a game starts.",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/15922297-catch-the-ball-noughts-and-crosses-odyssey-2-inoughts-and-crosse.png",
@@ -5024,10 +5010,24 @@
                 "width": 320
             },
             {
+                "caption": "<i>Catch the Ball</i>: the red clown letting the ball fall.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15922513-catch-the-ball-noughts-and-crosses-odyssey-2-icatch-the-balli-th.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/da36fe32-bf0f-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
                 "caption": "<i>Noughts and Crosses</i>: game tied.",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/15647443-catch-the-ball-noughts-and-crosses-odyssey-2-inoughts-and-crosse.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/edf86300-bdef-11ed-b791-02420a0001bb.webp",
+                "width": 320
+            },
+            {
+                "caption": "<i>Catch the Ball</i>: the blue clown about to catch a ball.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15922068-catch-the-ball-noughts-and-crosses-odyssey-2-icatch-the-balli-th.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c1b0aa34-bf0f-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -5159,10 +5159,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "<i>Supermind</i>: I'm trapped in a moving pattern maze.",
+                "caption": "<i>Supermind</i>: selecting variation.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16047667-a-labyrinth-game-supermind-odyssey-2-isupermindi-im-trapped-in-a.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5ea23236-bf38-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15950030-a-labyrinth-game-supermind-odyssey-2-isupermindi-selecting-varia.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0fe8553c-bf18-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "<i>Supermind</i>: twelve guesses so far, but that's the closest I got to winning.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15922495-a-labyrinth-game-supermind-odyssey-2-isupermindi-twelve-guesses-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d9942a4a-bf0f-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -5173,24 +5180,17 @@
                 "width": 320
             },
             {
-                "caption": "<i>Supermind</i>: I'm lucky, two correct symbols in two guesses!",
+                "caption": "<i>Supermind</i>: a \"Cat and Mouse\" game, the computer pawn is the white one.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16047697-a-labyrinth-game-supermind-odyssey-2-isupermindi-im-lucky-two-co.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6177799e-bf38-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16047679-a-labyrinth-game-supermind-odyssey-2-isupermindi-a-cat-and-mouse.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5f768bc6-bf38-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
-                "caption": "<i>Supermind</i>: selecting variation.",
+                "caption": "<i>A Labyrinth Game</i>: a game starts.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15950030-a-labyrinth-game-supermind-odyssey-2-isupermindi-selecting-varia.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0fe8553c-bf18-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "<i>Supermind</i>: different color and maze patterns are generated for each new round.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15949958-a-labyrinth-game-supermind-odyssey-2-isupermindi-different-color.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0b964156-bf18-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16189333-a-labyrinth-game-supermind-odyssey-2-ia-labyrinth-gamei-a-game-s.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8c7099be-c1cc-11ed-ab6b-02420a000194.webp",
                 "width": 320
             }
         ],
@@ -5249,17 +5249,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The first variation displays a row of trees which has to be \"chopped\" by entering the correct symbols for the given code.",
+                "caption": "Variation 3: in this variation you type a whole \"word\" and the computer plays it complete. You can also select the speed again to enter a new word.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15993985-morse-odyssey-2-the-first-variation-displays-a-row-of-trees-whic.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0741559e-bf24-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Selecting the game speed.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15993976-morse-odyssey-2-selecting-the-game-speed.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/06f37e14-bf24-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15960701-morse-odyssey-2-variation-3-in-this-variation-you-type-a-whole-w.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fedd72d8-bf1a-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -5270,17 +5263,24 @@
                 "width": 320
             },
             {
-                "caption": "The fourth variation lets the player enter codes with the joystick.",
+                "caption": "Instead of the traditional \"Select Game\" screen, this game actually display a menu screen.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15960809-morse-odyssey-2-the-fourth-variation-lets-the-player-enter-codes.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/04e6894e-bf1b-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15993970-morse-odyssey-2-instead-of-the-traditional-select-game-screen-th.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/06c0da40-bf24-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
-                "caption": "Variation 3: in this variation you type a whole \"word\" and the computer plays it complete. You can also select the speed again to enter a new word.",
+                "caption": "The first variation displays a row of trees which has to be \"chopped\" by entering the correct symbols for the given code.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15960701-morse-odyssey-2-variation-3-in-this-variation-you-type-a-whole-w.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/fedd72d8-bf1a-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15993985-morse-odyssey-2-the-first-variation-displays-a-row-of-trees-whic.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0741559e-bf24-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Variation 2: enter the text and the computer plays the code.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15960674-morse-odyssey-2-variation-2-enter-the-text-and-the-computer-play.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fda2ac9e-bf1a-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -5407,6 +5407,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Title screen",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15922807-martian-threat-odyssey-2-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ec69a988-bf0f-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
                 "caption": "Game over: the Martians release their ultimate weapon.",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/15922038-martian-threat-odyssey-2-game-over-the-martians-release-their-ul.png",
@@ -5421,10 +5428,10 @@
                 "width": 320
             },
             {
-                "caption": "Title screen",
+                "caption": "The probe's got destroyed by a blue energy bomb.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15922807-martian-threat-odyssey-2-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ec69a988-bf0f-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15922594-martian-threat-odyssey-2-the-probes-got-destroyed-by-a-blue-ener.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/dfe9b824-bf0f-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -5432,13 +5439,6 @@
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/15922552-martian-threat-odyssey-2-the-probe-gets-hit-by-green-energy-bomb.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/dd5074fe-bf0f-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "The probe's got destroyed by a blue energy bomb.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15922594-martian-threat-odyssey-2-the-probes-got-destroyed-by-a-blue-ener.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/dfe9b824-bf0f-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -5510,17 +5510,17 @@
         },
         "sample_screenshots": [
             {
+                "caption": "After crashing into a wall, the spider comes to feast on Super Bee. How gruesome!",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16056118-super-bee-odyssey-2-after-crashing-into-a-wall-the-spider-comes-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d3afd1c6-bf3a-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
                 "caption": "Super Bee flies toward a pear.",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/15949781-super-bee-odyssey-2-super-bee-flies-toward-a-pear.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/fdae4d72-bf17-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
-                "caption": "Title screen",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15950009-super-bee-odyssey-2-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0ee793aa-bf18-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -5531,17 +5531,17 @@
                 "width": 320
             },
             {
-                "caption": "After crashing into a wall, the spider comes to feast on Super Bee. How gruesome!",
+                "caption": "Title screen",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16056118-super-bee-odyssey-2-after-crashing-into-a-wall-the-spider-comes-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d3afd1c6-bf3a-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/15950009-super-bee-odyssey-2-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0ee793aa-bf18-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
-                "caption": "Starting a new game.",
+                "caption": "As the fruits are eaten, the garden becomes filled with walls.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15949772-super-bee-odyssey-2-starting-a-new-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/fcdc7400-bf17-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16056082-super-bee-odyssey-2-as-the-fruits-are-eaten-the-garden-becomes-f.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d160bbce-bf3a-11ed-9c42-02420a000140.webp",
                 "width": 320
             }
         ],
@@ -5672,17 +5672,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Some rooms can be pretty crowded",
+                "caption": "Being transported into the dungeon",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16173469-the-quest-for-the-rings-odyssey-2-some-rooms-can-be-pretty-crowd.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/67179474-c1c7-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
-                "caption": "Choose a hero",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16171654-the-quest-for-the-rings-odyssey-2-choose-a-hero.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d3f98f6c-c1c6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16171651-the-quest-for-the-rings-odyssey-2-being-transported-into-the-dun.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d3e39464-c1c6-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
@@ -5693,10 +5686,10 @@
                 "width": 320
             },
             {
-                "caption": "Being transported into the dungeon",
+                "caption": "Choose a hero",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16171651-the-quest-for-the-rings-odyssey-2-being-transported-into-the-dun.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d3e39464-c1c6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16171654-the-quest-for-the-rings-odyssey-2-choose-a-hero.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d3f98f6c-c1c6-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
@@ -5704,6 +5697,13 @@
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16171648-the-quest-for-the-rings-odyssey-2-swinging-the-sword.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/d3ce5e82-c1c6-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Some rooms can be pretty crowded",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16173469-the-quest-for-the-rings-odyssey-2-some-rooms-can-be-pretty-crowd.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/67179474-c1c7-11ed-ab6b-02420a000194.webp",
                 "width": 320
             }
         ],
@@ -5798,24 +5798,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The Blobber starts to multiply.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16076763-blobbers-odyssey-2-the-blobber-starts-to-multiply.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/19e0b32e-bf6b-11ed-9521-02420a000152.webp",
-                "width": 320
-            },
-            {
-                "caption": "The first Blobber starts to develop.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16076697-blobbers-odyssey-2-the-first-blobber-starts-to-develop.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/13cbf32c-bf6b-11ed-9521-02420a000152.webp",
-                "width": 320
-            },
-            {
                 "caption": "A new game starts.",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16076703-blobbers-odyssey-2-a-new-game-starts.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/1402d770-bf6b-11ed-9521-02420a000152.webp",
+                "width": 320
+            },
+            {
+                "caption": "The Blobber starts to multiply.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16076763-blobbers-odyssey-2-the-blobber-starts-to-multiply.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/19e0b32e-bf6b-11ed-9521-02420a000152.webp",
                 "width": 320
             },
             {
@@ -5826,10 +5819,17 @@
                 "width": 320
             },
             {
-                "caption": "Title screen",
+                "caption": "The first Blobber starts to develop.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16076751-blobbers-odyssey-2-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/19420b02-bf6b-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16076697-blobbers-odyssey-2-the-first-blobber-starts-to-develop.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/13cbf32c-bf6b-11ed-9521-02420a000152.webp",
+                "width": 320
+            },
+            {
+                "caption": "Shooting the Blobbers.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16076727-blobbers-odyssey-2-shooting-the-blobbers.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1723fede-bf6b-11ed-9521-02420a000152.webp",
                 "width": 320
             }
         ],
@@ -5997,24 +5997,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Marksman: starting a 3 minutes game.",
+                "caption": "Marksman: shooting during a 1 minute game.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16081049-depth-charge-marksman-odyssey-2-marksman-starting-a-3-minutes-ga.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7af41a56-bf6c-11ed-9521-02420a000152.webp",
-                "width": 320
-            },
-            {
-                "caption": "Marksman: final score.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16081010-depth-charge-marksman-odyssey-2-marksman-final-score.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/79188a0a-bf6c-11ed-9521-02420a000152.webp",
-                "width": 320
-            },
-            {
-                "caption": "Depth Charge: in a 8x8 grid, any score higher than 64 is a complete shame!",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16080977-depth-charge-marksman-odyssey-2-depth-charge-in-a-8x8-grid-any-s.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7640fcae-bf6c-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16081085-depth-charge-marksman-odyssey-2-marksman-shooting-during-a-1-min.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7d4be52c-bf6c-11ed-9521-02420a000152.webp",
                 "width": 320
             },
             {
@@ -6025,10 +6011,24 @@
                 "width": 320
             },
             {
-                "caption": "Depth Charge: hitting a submarine.",
+                "caption": "Depth Charge: in a 8x8 grid, any score higher than 64 is a complete shame!",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15655980-depth-charge-marksman-odyssey-2-depth-charge-hitting-a-submarine.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f52c4836-bdf3-11ed-a067-02420a0001bb.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16080977-depth-charge-marksman-odyssey-2-depth-charge-in-a-8x8-grid-any-s.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7640fcae-bf6c-11ed-9521-02420a000152.webp",
+                "width": 320
+            },
+            {
+                "caption": "Marksman: final score.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16081010-depth-charge-marksman-odyssey-2-marksman-final-score.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/79188a0a-bf6c-11ed-9521-02420a000152.webp",
+                "width": 320
+            },
+            {
+                "caption": "Marksman: starting a 3 minutes game.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16081049-depth-charge-marksman-odyssey-2-marksman-starting-a-3-minutes-ga.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7af41a56-bf6c-11ed-9521-02420a000152.webp",
                 "width": 320
             }
         ],
@@ -6105,13 +6105,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "News are about to pop up!",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15680397-the-great-wall-street-fortune-hunt-odyssey-2-news-are-about-to-p.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/66d999b0-bec2-11ed-9c42-02420a000140.webp",
-                "width": 320
-            },
-            {
                 "caption": "The main screen: share prices at the top, news at the center and the investor portfolio at the bottom.",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16105441-the-great-wall-street-fortune-hunt-odyssey-2-the-main-screen-sha.png",
@@ -6123,6 +6116,13 @@
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16105438-the-great-wall-street-fortune-hunt-odyssey-2-the-computer-announ.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/af2d1ab4-bf73-11ed-9521-02420a000152.webp",
+                "width": 320
+            },
+            {
+                "caption": "News are about to pop up!",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/15680397-the-great-wall-street-fortune-hunt-odyssey-2-news-are-about-to-p.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/66d999b0-bec2-11ed-9c42-02420a000140.webp",
                 "width": 320
             },
             {
@@ -6269,10 +6269,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "A submarine battle",
+                "caption": "An airplane battle",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16111329-conquest-of-the-world-odyssey-2-a-submarine-battle.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ad1f99ac-bf75-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16111326-conquest-of-the-world-odyssey-2-an-airplane-battle.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ad02dd6c-bf75-11ed-9521-02420a000152.webp",
                 "width": 320
             },
             {
@@ -6283,10 +6283,10 @@
                 "width": 320
             },
             {
-                "caption": "Crashed into a tree",
+                "caption": "Firing a bullet",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16111341-conquest-of-the-world-odyssey-2-crashed-into-a-tree.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ad8bc7b2-bf75-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16111338-conquest-of-the-world-odyssey-2-firing-a-bullet.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ad738c38-bf75-11ed-9521-02420a000152.webp",
                 "width": 320
             },
             {
@@ -6297,10 +6297,10 @@
                 "width": 320
             },
             {
-                "caption": "Firing a bullet",
+                "caption": "Crashed into a tree",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16111338-conquest-of-the-world-odyssey-2-firing-a-bullet.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ad738c38-bf75-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16111341-conquest-of-the-world-odyssey-2-crashed-into-a-tree.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ad8bc7b2-bf75-11ed-9521-02420a000152.webp",
                 "width": 320
             }
         ],
@@ -6566,24 +6566,17 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Just a calm day in the restaurant. I'm going to serve this guy, there's another one waiting and a third customer arriving.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16446415-chez-maxime-odyssey-2-just-a-calm-day-in-the-restaurant-im-going.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/84239684-c21d-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
                 "caption": "Notice how this guy is hovering in the air, close to his table? He's already furious because his order didn't arrive yet. \"I'm here, I'm here, calm down\"!",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16287251-chez-maxime-odyssey-2-notice-how-this-guy-is-hovering-in-the-air.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/bbc7e1b8-c1ea-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
-                "caption": "The comes the dog. Thankfully I have my hands free so I'll show him the way out.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16445858-chez-maxime-odyssey-2-the-comes-the-dog-thankfully-i-have-my-han.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5c8e34d0-c21d-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
-                "caption": "And there goes my last angry customer, game over for me.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16286744-chez-maxime-odyssey-2-and-there-goes-my-last-angry-customer-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8ab6c436-c1ea-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
@@ -6594,10 +6587,17 @@
                 "width": 320
             },
             {
-                "caption": "Just a calm day in the restaurant. I'm going to serve this guy, there's another one waiting and a third customer arriving.",
+                "caption": "The comes the dog. Thankfully I have my hands free so I'll show him the way out.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16446415-chez-maxime-odyssey-2-just-a-calm-day-in-the-restaurant-im-going.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/84239684-c21d-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16445858-chez-maxime-odyssey-2-the-comes-the-dog-thankfully-i-have-my-han.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5c8e34d0-c21d-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "The game begins. Maxime is the waiter but wears a chef hat, while the real chef doesn't.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16446412-chez-maxime-odyssey-2-the-game-begins-maxime-is-the-waiter-but-w.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/840c9b82-c21d-11ed-ab6b-02420a000194.webp",
                 "width": 320
             }
         ],
@@ -6669,10 +6669,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The night falls and Archimedes wins.",
+                "caption": "Archimedes with a broken mirror.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16286639-syracuse-odyssey-2-the-night-falls-and-archimedes-wins.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8261d5be-c1ea-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16286651-syracuse-odyssey-2-archimedes-with-a-broken-mirror.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8392d58c-c1ea-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "A galley burns.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16286648-syracuse-odyssey-2-a-galley-burns.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/837d9adc-c1ea-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
@@ -6683,13 +6690,6 @@
                 "width": 320
             },
             {
-                "caption": "Archimedes with a broken mirror.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16286651-syracuse-odyssey-2-archimedes-with-a-broken-mirror.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8392d58c-c1ea-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
                 "caption": "A game begins.",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16286654-syracuse-odyssey-2-a-game-begins.png",
@@ -6697,10 +6697,10 @@
                 "width": 320
             },
             {
-                "caption": "A galley reaches the tower and the troops land.",
+                "caption": "The night falls and Archimedes wins.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16286642-syracuse-odyssey-2-a-galley-reaches-the-tower-and-the-troops-lan.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/827c32ce-c1ea-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16286639-syracuse-odyssey-2-the-night-falls-and-archimedes-wins.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8261d5be-c1ea-11ed-ab6b-02420a000194.webp",
                 "width": 320
             }
         ],
@@ -6781,10 +6781,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Stage 4.",
+                "caption": "Dead by a berzerk robot sentinel in stage 3. The Smileybot was already on its way.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16287809-amok-odyssey-2-stage-4.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e1349a22-c1ea-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16287806-amok-odyssey-2-dead-by-a-berzerk-robot-sentinel-in-stage-3-the-s.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e11b491e-c1ea-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
@@ -6795,10 +6795,17 @@
                 "width": 320
             },
             {
-                "caption": "The first stage begins.",
+                "caption": "I've just killed a berzerk robot sentinel, which turns blue and disappears.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/15937378-amok-odyssey-2-the-first-stage-begins.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2f6dc170-bf14-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16362439-amok-odyssey-2-ive-just-killed-a-berzerk-robot-sentinel-which-tu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a0be1c7e-c204-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Stage 2.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16362442-amok-odyssey-2-stage-2.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a0d3823a-c204-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
@@ -6806,13 +6813,6 @@
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16287800-amok-odyssey-2-before-each-stage-a-screen-tells-you-your-score-w.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/e0e72f08-c1ea-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
-                "caption": "I've just killed a berzerk robot sentinel, which turns blue and disappears.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16362439-amok-odyssey-2-ive-just-killed-a-berzerk-robot-sentinel-which-tu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a0be1c7e-c204-11ed-ab6b-02420a000194.webp",
                 "width": 320
             }
         ],
@@ -6884,20 +6884,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The spies have found the letter M, the number 8 is removed from the right side to show which case was already explored.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16287617-interpol-odyssey-2-the-spies-have-found-the-letter-m-the-number-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d4bc56a4-c1ea-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
-                "caption": "The spy has entered the right word and now flies away to freedom.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16288043-interpol-odyssey-2-the-spy-has-entered-the-right-word-and-now-fl.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ef51c80a-c1ea-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
                 "caption": "Now the code is entered, the numbers are removed from the cases and the game begins. It is the spies turn.",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16287614-interpol-odyssey-2-now-the-code-is-entered-the-numbers-are-remov.png",
@@ -6912,10 +6898,24 @@
                 "width": 320
             },
             {
+                "caption": "Selecting how long will the spies turn be.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16288172-interpol-odyssey-2-selecting-how-long-will-the-spies-turn-be.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f62fa0ac-c1ea-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
                 "caption": "The police moves. Notice the green bar moving toward the blue character at the bottom of the screen.",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16288049-interpol-odyssey-2-the-police-moves-notice-the-green-bar-moving-.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/ef7fd150-c1ea-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "The game starts: the police must enter the code to block the airport and port.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16288040-interpol-odyssey-2-the-game-starts-the-police-must-enter-the-cod.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ef3b2c12-c1ea-11ed-ab6b-02420a000194.webp",
                 "width": 320
             }
         ],
@@ -6969,10 +6969,31 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Variation 2, two players, slow ball.",
+                "caption": "The system screen tells the region of the machine, the language, the presence of the Voice module and the plus graphic support.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16288868-pong-for-videopac-and-odyssey2-odyssey-2-variation-2-two-players.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/24a337b4-c1eb-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16288859-pong-for-videopac-and-odyssey2-odyssey-2-the-system-screen-tells.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/239a99e8-c1eb-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Variation 0, slow ball speed.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16288862-pong-for-videopac-and-odyssey2-odyssey-2-variation-0-slow-ball-s.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/23b2a3c6-c1eb-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Variation 4, Tennis, slow ball.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16288844-pong-for-videopac-and-odyssey2-odyssey-2-variation-4-tennis-slow.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/22fe031c-c1eb-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Variation 8, Classic Pong: Tennis.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16288886-pong-for-videopac-and-odyssey2-odyssey-2-variation-8-classic-pon.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/25256bd0-c1eb-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
@@ -6980,27 +7001,6 @@
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16288871-pong-for-videopac-and-odyssey2-odyssey-2-variation-5-tennis-fast.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/24b80a86-c1eb-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
-                "caption": "Variation 7, Classic Pong for two players.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16288877-pong-for-videopac-and-odyssey2-odyssey-2-variation-7-classic-pon.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/24e3086c-c1eb-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
-                "caption": "Variation 9, Analog Pong.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16288865-pong-for-videopac-and-odyssey2-odyssey-2-variation-9-analog-pong.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/248beb5e-c1eb-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
-                "caption": "The system screen tells the region of the machine, the language, the presence of the Voice module and the plus graphic support.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16288859-pong-for-videopac-and-odyssey2-odyssey-2-the-system-screen-tells.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/239a99e8-c1eb-11ed-ab6b-02420a000194.webp",
                 "width": 320
             }
         ],
@@ -7097,6 +7097,20 @@
                 "width": 320
             },
             {
+                "caption": "Planet 03.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16291418-planet-lander-odyssey-2-planet-03.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/df47ddcc-c1eb-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Planet 04.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16290239-planet-lander-odyssey-2-planet-04.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8a3e1206-c1eb-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
                 "caption": "Intro screen.",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16290251-planet-lander-odyssey-2-intro-screen.png",
@@ -7104,24 +7118,10 @@
                 "width": 320
             },
             {
-                "caption": "Oops, crashed.",
+                "caption": "Planet 02.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16290242-planet-lander-odyssey-2-oops-crashed.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8a536c46-c1eb-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
-                "caption": "Good Landing! Planet 02 intro screen.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16290248-planet-lander-odyssey-2-good-landing-planet-02-intro-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8b49df68-c1eb-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
-                "caption": "Went off screen, the level restarts with less fuel.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16290236-planet-lander-odyssey-2-went-off-screen-the-level-restarts-with-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8a29b31a-c1eb-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16290254-planet-lander-odyssey-2-planet-02.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8b768612-c1eb-11ed-ab6b-02420a000194.webp",
                 "width": 320
             }
         ],
@@ -7211,6 +7211,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Programmed Trip: end of game, I scored 164 points.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16290764-mission-impossible-programmed-trip-odyssey-2-programmed-trip-end.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b22dd4fe-c1eb-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
                 "caption": "Mission Impossible: starting a new game.",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16291025-mission-impossible-programmed-trip-odyssey-2-mission-impossible-.png",
@@ -7225,24 +7232,17 @@
                 "width": 320
             },
             {
+                "caption": "Mission Impossible: two while X marks appeared on the field.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16291037-mission-impossible-programmed-trip-odyssey-2-mission-impossible-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c332af5e-c1eb-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
                 "caption": "Programmed Trip: The playfield at the start of the game.",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16290770-mission-impossible-programmed-trip-odyssey-2-programmed-trip-the.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/b25d95e0-c1eb-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
-                "caption": "Programmed Trip: selecting the game number.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16291028-mission-impossible-programmed-trip-odyssey-2-programmed-trip-sel.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c2ecce62-c1eb-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
-                "caption": "Programmed Trip: the cargo ship is on its way.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16290767-mission-impossible-programmed-trip-odyssey-2-programmed-trip-the.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b246a5c4-c1eb-11ed-ab6b-02420a000194.webp",
                 "width": 320
             }
         ],
@@ -7409,10 +7409,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The main menu. Select player sides, robot power and Voice support.",
+                "caption": "Game over, blue side is the winner.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16290938-mr-roboto-odyssey-2-the-main-menu-select-player-sides-robot-powe.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bc4c515e-c1eb-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16291010-mr-roboto-odyssey-2-game-over-blue-side-is-the-winner.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bf75f5d8-c1eb-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
@@ -7423,6 +7423,13 @@
                 "width": 320
             },
             {
+                "caption": "The main menu. Select player sides, robot power and Voice support.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16290938-mr-roboto-odyssey-2-the-main-menu-select-player-sides-robot-powe.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bc4c515e-c1eb-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
                 "caption": "Issuing a CPU command.",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16290941-mr-roboto-odyssey-2-issuing-a-cpu-command.png",
@@ -7430,17 +7437,10 @@
                 "width": 320
             },
             {
-                "caption": "Battle screen: robot vs. CPU.",
+                "caption": "The Map screen.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16291931-mr-roboto-odyssey-2-battle-screen-robot-vs-cpu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0dd15358-c1ec-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
-                "caption": "The blue robot reaches the CPU and attacks it.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16290929-mr-roboto-odyssey-2-the-blue-robot-reaches-the-cpu-and-attacks-i.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bc03b174-c1eb-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16290947-mr-roboto-odyssey-2-the-map-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bc994306-c1eb-11ed-ab6b-02420a000194.webp",
                 "width": 320
             }
         ],
@@ -7512,24 +7512,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The computer was tagged in 5 seconds, now the player must run.",
+                "caption": "One player game, entering the player's name.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16294886-play-tag-odyssey-2-the-computer-was-tagged-in-5-seconds-now-the-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/fdaae0e2-c1ec-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
-                "caption": "Blue player has the high score (13 seconds), now the green player must run.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16291226-play-tag-odyssey-2-blue-player-has-the-high-score-13-seconds-now.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cdae07a8-c1eb-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
-                "caption": "Entering names in a two players game.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16291229-play-tag-odyssey-2-entering-names-in-a-two-players-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cdc3e302-c1eb-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16294883-play-tag-odyssey-2-one-player-game-entering-the-players-name.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fd91f05a-c1ec-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
@@ -7540,10 +7526,24 @@
                 "width": 320
             },
             {
-                "caption": "One player game, entering the player's name.",
+                "caption": "Blue player has the high score (13 seconds), now the green player must run.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16294883-play-tag-odyssey-2-one-player-game-entering-the-players-name.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/fd91f05a-c1ec-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16291226-play-tag-odyssey-2-blue-player-has-the-high-score-13-seconds-now.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cdae07a8-c1eb-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "The player ran 30 seconds from the computer and has a new high score.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16291232-play-tag-odyssey-2-the-player-ran-30-seconds-from-the-computer-a.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cddab7b2-c1eb-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Entering names in a two players game.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16291229-play-tag-odyssey-2-entering-names-in-a-two-players-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cdc3e302-c1eb-11ed-ab6b-02420a000194.webp",
                 "width": 320
             }
         ],
@@ -7615,10 +7615,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Just destroyed the blue Andromeda robot.",
+                "caption": "Andromeda robots will shoot in your direction whenever you pass by their front sides, even when there are walls in the way.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16291337-robot-city-odyssey-2-just-destroyed-the-blue-andromeda-robot.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d8c5ba6e-c1eb-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16291340-robot-city-odyssey-2-andromeda-robots-will-shoot-in-your-directi.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d8dca7d8-c1eb-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "Level one cleared.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16291253-robot-city-odyssey-2-level-one-cleared.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cf47165e-c1eb-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
@@ -7633,13 +7640,6 @@
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16291385-robot-city-odyssey-2-the-first-level-intro.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/db624404-c1eb-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
-                "caption": "First level starts. The Andromeda robots appear at the bottom of Robot City's map, my robot appears at the upper right corner.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16291391-robot-city-odyssey-2-first-level-starts-the-andromeda-robots-app.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/db8f4256-c1eb-11ed-ab6b-02420a000194.webp",
                 "width": 320
             },
             {
@@ -7768,6 +7768,20 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Starting a new game.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16291301-pinball-odyssey-2-starting-a-new-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d69ee382-c1eb-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "That's my table, with bumpers in the shape of an \"M\" for MobyGames.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16291487-pinball-odyssey-2-thats-my-table-with-bumpers-in-the-shape-of-an.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e29301a0-c1eb-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
                 "caption": "The second game format: creating my own table.",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16291298-pinball-odyssey-2-the-second-game-format-creating-my-own-table.png",
@@ -7775,31 +7789,17 @@
                 "width": 320
             },
             {
-                "caption": "A game in progress, with several bumpers already touched.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16291493-pinball-odyssey-2-a-game-in-progress-with-several-bumpers-alread.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e2c74208-c1eb-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
-                "caption": "Game over.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16291490-pinball-odyssey-2-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e2ac3fda-c1eb-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
-                "caption": "Selecting the number of players.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16291295-pinball-odyssey-2-selecting-the-number-of-players.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/d66fbb98-c1eb-11ed-ab6b-02420a000194.webp",
-                "width": 320
-            },
-            {
                 "caption": "Selecting the game format.",
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/16291496-pinball-odyssey-2-selecting-the-game-format.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/e2e0a2a2-c1eb-11ed-ab6b-02420a000194.webp",
+                "width": 320
+            },
+            {
+                "caption": "A game in progress, with several bumpers already touched.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16291493-pinball-odyssey-2-a-game-in-progress-with-several-bumpers-alread.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e2c74208-c1eb-11ed-ab6b-02420a000194.webp",
                 "width": 320
             }
         ],
@@ -7953,17 +7953,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Type in a word to hear it being spoken",
-                "height": 243,
-                "image_url": "https://cdn.mobygames.com/screenshots/16441094-type-tell-odyssey-2-type-in-a-word-to-hear-it-being-spoken.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e84fe826-c21b-11ed-ab6b-02420a000194.webp",
-                "width": 340
-            },
-            {
                 "caption": "A blank canvas",
                 "height": 243,
                 "image_url": "https://cdn.mobygames.com/screenshots/16388918-type-tell-odyssey-2-a-blank-canvas.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/246400aa-c20c-11ed-ab6b-02420a000194.webp",
+                "width": 340
+            },
+            {
+                "caption": "Type in a word to hear it being spoken",
+                "height": 243,
+                "image_url": "https://cdn.mobygames.com/screenshots/16441094-type-tell-odyssey-2-type-in-a-word-to-hear-it-being-spoken.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e84fe826-c21b-11ed-ab6b-02420a000194.webp",
                 "width": 340
             }
         ],
@@ -8215,10 +8215,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "After eating spinach, Popeye throws Brutus in the water.",
+                "caption": "Popeye getting a heart that fell in the water.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16910678-popeye-odyssey-2-after-eating-spinach-popeye-throws-brutus-in-th.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f3e667b4-c40a-11ed-be63-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16910675-popeye-odyssey-2-popeye-getting-a-heart-that-fell-in-the-water.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f3cefb2e-c40a-11ed-be63-02420a000121.webp",
                 "width": 320
             },
             {
@@ -8229,17 +8229,10 @@
                 "width": 320
             },
             {
-                "caption": "Popeye getting a heart that fell in the water.",
+                "caption": "After eating spinach, Popeye throws Brutus in the water.",
                 "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16910675-popeye-odyssey-2-popeye-getting-a-heart-that-fell-in-the-water.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f3cefb2e-c40a-11ed-be63-02420a000121.webp",
-                "width": 320
-            },
-            {
-                "caption": "Brutus caught Popeye in the ladder.",
-                "height": 240,
-                "image_url": "https://cdn.mobygames.com/screenshots/16910669-popeye-odyssey-2-brutus-caught-popeye-in-the-ladder.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f39c519c-c40a-11ed-be63-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16910678-popeye-odyssey-2-after-eating-spinach-popeye-throws-brutus-in-th.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f3e667b4-c40a-11ed-be63-02420a000121.webp",
                 "width": 320
             },
             {
@@ -8247,6 +8240,13 @@
                 "height": 240,
                 "image_url": "https://cdn.mobygames.com/screenshots/15844820-popeye-odyssey-2-starting-a-new-game.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/e5c748d2-bef7-11ed-9c42-02420a000140.webp",
+                "width": 320
+            },
+            {
+                "caption": "Brutus caught Popeye in the ladder.",
+                "height": 240,
+                "image_url": "https://cdn.mobygames.com/screenshots/16910669-popeye-odyssey-2-brutus-caught-popeye-in-the-ladder.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f39c519c-c40a-11ed-be63-02420a000121.webp",
                 "width": 320
             }
         ],

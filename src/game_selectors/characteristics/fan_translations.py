@@ -1,5 +1,6 @@
 from excel_game import TranslationStatus
 from game_selector import GameSelector
+from picker_enums import PickerMode
 
 
 FAN_TRANSLATIONS = GameSelector(

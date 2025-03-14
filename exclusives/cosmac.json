@@ -816,18 +816,18 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The Scoreboard",
-                "height": 800,
-                "image_url": "https://cdn.mobygames.com/screenshots/17317177-vip-bowling-cosmac-the-scoreboard.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2d2230ac-1916-11ee-afa1-02420a000164.webp",
-                "width": 1068
-            },
-            {
                 "caption": "Choosing Players, Frames and the Ballspeed",
                 "height": 800,
                 "image_url": "https://cdn.mobygames.com/screenshots/17317165-vip-bowling-cosmac-choosing-players-frames-and-the-ballspeed.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/2ba70fea-1916-11ee-b619-02420a000164.webp",
                 "width": 1050
+            },
+            {
+                "caption": "The Scoreboard",
+                "height": 800,
+                "image_url": "https://cdn.mobygames.com/screenshots/17317177-vip-bowling-cosmac-the-scoreboard.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2d2230ac-1916-11ee-afa1-02420a000164.webp",
+                "width": 1068
             },
             {
                 "caption": "After the first Throw",
@@ -919,13 +919,6 @@
                 "width": 1060
             },
             {
-                "caption": "My Animal Lost :(",
-                "height": 800,
-                "image_url": "https://cdn.mobygames.com/screenshots/17317024-vip-animal-race-cosmac-my-animal-lost.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cbe494a2-1914-11ee-b619-02420a000164.webp",
-                "width": 1065
-            },
-            {
                 "caption": "I lost all my Money",
                 "height": 800,
                 "image_url": "https://cdn.mobygames.com/screenshots/17317028-vip-animal-race-cosmac-i-lost-all-my-money.png",
@@ -940,11 +933,18 @@
                 "width": 1063
             },
             {
-                "caption": "Starting Screen",
+                "caption": "Yes I win :)",
                 "height": 800,
-                "image_url": "https://cdn.mobygames.com/screenshots/17317015-vip-animal-race-cosmac-starting-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ca3ee896-1914-11ee-9050-02420a000163.webp",
-                "width": 1058
+                "image_url": "https://cdn.mobygames.com/screenshots/17317036-vip-animal-race-cosmac-yes-i-win.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cde06056-1914-11ee-b3a7-02420a000163.webp",
+                "width": 1067
+            },
+            {
+                "caption": "My Animal Lost :(",
+                "height": 800,
+                "image_url": "https://cdn.mobygames.com/screenshots/17317024-vip-animal-race-cosmac-my-animal-lost.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cbe494a2-1914-11ee-b619-02420a000164.webp",
+                "width": 1065
             }
         ],
         "title": "VIP Animal Race"
@@ -1187,18 +1187,18 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The Game",
-                "height": 800,
-                "image_url": "https://cdn.mobygames.com/screenshots/17317081-vip-blockout-cosmac-the-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/45e10164-1915-11ee-b1eb-02420a000164.webp",
-                "width": 1068
-            },
-            {
                 "caption": "The Scoreboard",
                 "height": 800,
                 "image_url": "https://cdn.mobygames.com/screenshots/17317085-vip-blockout-cosmac-the-scoreboard.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/46515d88-1915-11ee-8b5a-02420a000163.webp",
                 "width": 1066
+            },
+            {
+                "caption": "The Game",
+                "height": 800,
+                "image_url": "https://cdn.mobygames.com/screenshots/17317081-vip-blockout-cosmac-the-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/45e10164-1915-11ee-b1eb-02420a000164.webp",
+                "width": 1068
             }
         ],
         "title": "VIP Blockout"
@@ -2326,7 +2326,7 @@
     },
     {
         "alternate_titles": [],
-        "description": "<p><em>Craps</em> allows the player to try his virtual luck on a craps table. The player throws two dice and increases their winnings on rolling a value of 7 or 11. When rolling 2, 3 or 12 the player's balance will lower. When rolling a different value this value must be rolled again before a 7 or 11 is thrown again to score. The game doesn't feature on-screen scoring.</p>",
+        "description": "<p><em>Craps</em> allows the player to take a virtual chance on a craps table. The player throws two dice and increases their winnings on rolling a value of 7 or 11. When rolling 2, 3 or 12 the player's balance will lower. When rolling a different value, this value must be rolled again before a 7 or 11 is thrown again to score. The game doesn't feature on-screen scoring.</p>",
         "genres": [
             {
                 "category": {

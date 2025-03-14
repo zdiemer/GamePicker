@@ -74,20 +74,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "On-line help is provided.",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/8914268-connect-four-os2-on-line-help-is-provided.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bcef65e6-ac02-11ed-b013-02420a00012e.webp",
-                "width": 640
-            },
-            {
-                "caption": "It's the player's turn.",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/12213632-connect-four-os2-its-the-players-turn.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4084f472-ac1f-11ed-a161-02420a000136.webp",
-                "width": 640
-            },
-            {
                 "caption": "Several options are available.",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/12214722-connect-four-os2-several-options-are-available.png",
@@ -99,6 +85,20 @@
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/8905915-connect-four-os2-the-computer-wins.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/b673b4ba-ac02-11ed-8a97-02420a00012d.webp",
+                "width": 640
+            },
+            {
+                "caption": "On-line help is provided.",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/8914268-connect-four-os2-on-line-help-is-provided.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bcef65e6-ac02-11ed-b013-02420a00012e.webp",
+                "width": 640
+            },
+            {
+                "caption": "It's the player's turn.",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/12213632-connect-four-os2-its-the-players-turn.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4084f472-ac1f-11ed-a161-02420a000136.webp",
                 "width": 640
             }
         ],
@@ -195,6 +195,13 @@
                 "width": 640
             },
             {
+                "caption": "Various other options can be configured, as well.",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/12214210-sirtet-os2-various-other-options-can-be-configured-as-well.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/43cdd392-ac1f-11ed-b7c8-02420a000136.webp",
+                "width": 640
+            },
+            {
                 "caption": "Now I have a little more breathing room.",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/12214189-sirtet-os2-now-i-have-a-little-more-breathing-room.png",
@@ -202,10 +209,10 @@
                 "width": 640
             },
             {
-                "caption": "This piece will be useful.",
+                "caption": "I've built up a fairly good stack of pieces.",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/12214186-sirtet-os2-this-piece-will-be-useful.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3fdc4458-ac1f-11ed-b7c8-02420a000136.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/12214207-sirtet-os2-ive-built-up-a-fairly-good-stack-of-pieces.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/43481a4a-ac1f-11ed-b7c8-02420a000136.webp",
                 "width": 640
             },
             {
@@ -213,13 +220,6 @@
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/12214168-sirtet-os2-an-auspicious-beginning.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/3ccf9cf6-ac1f-11ed-b7c8-02420a000136.webp",
-                "width": 640
-            },
-            {
-                "caption": "I've built up a fairly good stack of pieces.",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/12214207-sirtet-os2-ive-built-up-a-fairly-good-stack-of-pieces.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/43481a4a-ac1f-11ed-b7c8-02420a000136.webp",
                 "width": 640
             }
         ],
@@ -264,17 +264,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The grid may be zoomed in or out, and the foreground and background colors may be changed.",
+                "caption": "When the game starts, no cells are initially loaded.",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/12213647-pmlife-os2-the-grid-may-be-zoomed-in-or-out-and-the-foreground-a.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4278b688-ac1f-11ed-a161-02420a000136.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/12212716-pmlife-os2-when-the-game-starts-no-cells-are-initially-loaded.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3b0802d2-ac1f-11ed-893a-02420a00012f.webp",
                 "width": 640
             },
             {
-                "caption": "The 'Pi' heptomino after 696 turns.",
+                "caption": "PMLIFE comes with 16 sample configurations, and the player may create more, up to a maximum of 100 at a time.",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/12213641-pmlife-os2-the-pi-heptomino-after-696-turns.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/41b6b664-ac1f-11ed-a161-02420a000136.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/12213614-pmlife-os2-pmlife-comes-with-16-sample-configurations-and-the-pl.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3d7b1b80-ac1f-11ed-a161-02420a000136.webp",
+                "width": 640
+            },
+            {
+                "caption": "Gliders move across the board while keeping their shapes.",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/12213638-pmlife-os2-gliders-move-across-the-board-while-keeping-their-sha.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/414ac9ea-ac1f-11ed-a161-02420a000136.webp",
                 "width": 640
             },
             {
@@ -285,17 +292,10 @@
                 "width": 640
             },
             {
-                "caption": "When the game starts, no cells are initially loaded.",
+                "caption": "The grid may be zoomed in or out, and the foreground and background colors may be changed.",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/12212716-pmlife-os2-when-the-game-starts-no-cells-are-initially-loaded.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3b0802d2-ac1f-11ed-893a-02420a00012f.webp",
-                "width": 640
-            },
-            {
-                "caption": "Gliders move across the board while keeping their shapes.",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/12213638-pmlife-os2-gliders-move-across-the-board-while-keeping-their-sha.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/414ac9ea-ac1f-11ed-a161-02420a000136.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/12213647-pmlife-os2-the-grid-may-be-zoomed-in-or-out-and-the-foreground-a.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4278b688-ac1f-11ed-a161-02420a000136.webp",
                 "width": 640
             }
         ],
@@ -374,17 +374,17 @@
                 "width": 640
             },
             {
-                "caption": "After a few more bets, though, my luck isn't so good. I'm out of cash!",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16803622-las-vegas-craps-os2-after-a-few-more-bets-though-my-luck-isnt-so.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/08394eec-c38a-11ed-9226-02420a000121.webp",
-                "width": 640
-            },
-            {
                 "caption": "Fortunately, the game will let you borrow more money.",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/16803616-las-vegas-craps-os2-fortunately-the-game-will-let-you-borrow-mor.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/07f885f6-c38a-11ed-9226-02420a000121.webp",
+                "width": 640
+            },
+            {
+                "caption": "After a few more bets, though, my luck isn't so good. I'm out of cash!",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16803622-las-vegas-craps-os2-after-a-few-more-bets-though-my-luck-isnt-so.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/08394eec-c38a-11ed-9226-02420a000121.webp",
                 "width": 640
             },
             {
@@ -395,10 +395,10 @@
                 "width": 640
             },
             {
-                "caption": "I've made a pass line bet, and the dice came up 8. I now win if 8 comes up before 7.",
+                "caption": "Many different bets are available.",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/15692332-las-vegas-craps-os2-ive-made-a-pass-line-bet-and-the-dice-came-u.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a9016486-bec6-11ed-9c42-02420a000140.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16803094-las-vegas-craps-os2-many-different-bets-are-available.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a7460daa-c389-11ed-9226-02420a000121.webp",
                 "width": 640
             }
         ],
@@ -479,10 +479,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "A game in progress.",
+                "caption": "Game over! 7 pegs left--not bad for my first try.",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16803097-jumpem-os2-a-game-in-progress.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a831d7b2-c389-11ed-9226-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16803106-jumpem-os2-game-over-7-pegs-left-not-bad-for-my-first-try.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a8cb9f6e-c389-11ed-9226-02420a000121.webp",
                 "width": 640
             },
             {
@@ -493,10 +493,10 @@
                 "width": 640
             },
             {
-                "caption": "Game over! 7 pegs left--not bad for my first try.",
+                "caption": "A game in progress.",
                 "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16803106-jumpem-os2-game-over-7-pegs-left-not-bad-for-my-first-try.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a8cb9f6e-c389-11ed-9226-02420a000121.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16803097-jumpem-os2-a-game-in-progress.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a831d7b2-c389-11ed-9226-02420a000121.webp",
                 "width": 640
             }
         ],
@@ -541,20 +541,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "A game in progress. The cards reflect numbers already selected.",
-                "height": 320,
-                "image_url": "https://cdn.mobygames.com/screenshots/16461337-os2-pm-bingo-os2-a-game-in-progress-the-cards-reflect-numbers-al.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c3616bec-c221-11ed-ab6b-02420a000194.webp",
-                "width": 512
-            },
-            {
-                "caption": "Several gameplay options may be configured.",
-                "height": 334,
-                "image_url": "https://cdn.mobygames.com/screenshots/16461916-os2-pm-bingo-os2-several-gameplay-options-may-be-configured.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e9890906-c221-11ed-ab6b-02420a000194.webp",
-                "width": 512
-            },
-            {
                 "caption": "More options.",
                 "height": 334,
                 "image_url": "https://cdn.mobygames.com/screenshots/16461991-os2-pm-bingo-os2-more-options.png",
@@ -566,6 +552,20 @@
                 "height": 320,
                 "image_url": "https://cdn.mobygames.com/screenshots/16462033-os2-pm-bingo-os2-the-computer-wins-this-game.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/f0cae55e-c221-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "A game in progress. The cards reflect numbers already selected.",
+                "height": 320,
+                "image_url": "https://cdn.mobygames.com/screenshots/16461337-os2-pm-bingo-os2-a-game-in-progress-the-cards-reflect-numbers-al.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c3616bec-c221-11ed-ab6b-02420a000194.webp",
+                "width": 512
+            },
+            {
+                "caption": "Several gameplay options may be configured.",
+                "height": 334,
+                "image_url": "https://cdn.mobygames.com/screenshots/16461916-os2-pm-bingo-os2-several-gameplay-options-may-be-configured.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e9890906-c221-11ed-ab6b-02420a000194.webp",
                 "width": 512
             }
         ],
@@ -653,17 +653,17 @@
                 "width": 640
             },
             {
-                "caption": "A series of guesses, in the four columns on the right, yield clues in the first column on the left. By studying these clues, it was possible to make the final (top) guess, which was correct.",
-                "height": 480,
-                "image_url": "https://cdn.mobygames.com/screenshots/16802758-master-mind-os2-a-series-of-guesses-in-the-four-columns-on-the-r.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7502fe5c-c389-11ed-9226-02420a000121.webp",
-                "width": 640
-            },
-            {
                 "caption": "A fresh game. No guesses have yet been made.",
                 "height": 480,
                 "image_url": "https://cdn.mobygames.com/screenshots/16802752-master-mind-os2-a-fresh-game-no-guesses-have-yet-been-made.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/74c6b514-c389-11ed-9226-02420a000121.webp",
+                "width": 640
+            },
+            {
+                "caption": "A series of guesses, in the four columns on the right, yield clues in the first column on the left. By studying these clues, it was possible to make the final (top) guess, which was correct.",
+                "height": 480,
+                "image_url": "https://cdn.mobygames.com/screenshots/16802758-master-mind-os2-a-series-of-guesses-in-the-four-columns-on-the-r.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7502fe5c-c389-11ed-9226-02420a000121.webp",
                 "width": 640
             }
         ],
@@ -760,6 +760,13 @@
                 "width": 212
             },
             {
+                "caption": "The player may choose to play on a 3x3x3 board, like this, or even 4x4x4.",
+                "height": 299,
+                "image_url": "https://cdn.mobygames.com/screenshots/16480552-tic-tac-toe-os2-the-player-may-choose-to-play-on-a-3x3x3-board-l.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f52e0da6-c226-11ed-ab6b-02420a000194.webp",
+                "width": 212
+            },
+            {
                 "caption": "Several options are available.",
                 "height": 194,
                 "image_url": "https://cdn.mobygames.com/screenshots/16481788-tic-tac-toe-os2-several-options-are-available.png",
@@ -771,13 +778,6 @@
                 "height": 139,
                 "image_url": "https://cdn.mobygames.com/screenshots/16479559-tic-tac-toe-os2-the-3x3-game-ends-in-a-draw-with-perfect-play.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/af3a4396-c226-11ed-ab6b-02420a000194.webp",
-                "width": 212
-            },
-            {
-                "caption": "The player may choose to play on a 3x3x3 board, like this, or even 4x4x4.",
-                "height": 299,
-                "image_url": "https://cdn.mobygames.com/screenshots/16480552-tic-tac-toe-os2-the-player-may-choose-to-play-on-a-3x3x3-board-l.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f52e0da6-c226-11ed-ab6b-02420a000194.webp",
                 "width": 212
             }
         ],
@@ -867,11 +867,11 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Five speeds, including the idiosyncratically named \"Haulin Ass\", are available.",
-                "height": 162,
-                "image_url": "https://cdn.mobygames.com/screenshots/16485511-computerized-repeat-os2-five-speeds-including-the-idiosyncratica.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/84adc402-c228-11ed-ab6b-02420a000194.webp",
-                "width": 164
+                "caption": "The game, ready to be played.",
+                "height": 100,
+                "image_url": "https://cdn.mobygames.com/screenshots/16485475-computerized-repeat-os2-the-game-ready-to-be-played.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/82718020-c228-11ed-ab6b-02420a000194.webp",
+                "width": 104
             },
             {
                 "caption": "Four different difficulty levels are available.",
@@ -881,11 +881,11 @@
                 "width": 154
             },
             {
-                "caption": "The game, ready to be played.",
-                "height": 100,
-                "image_url": "https://cdn.mobygames.com/screenshots/16485475-computerized-repeat-os2-the-game-ready-to-be-played.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/82718020-c228-11ed-ab6b-02420a000194.webp",
-                "width": 104
+                "caption": "Five speeds, including the idiosyncratically named \"Haulin Ass\", are available.",
+                "height": 162,
+                "image_url": "https://cdn.mobygames.com/screenshots/16485511-computerized-repeat-os2-five-speeds-including-the-idiosyncratica.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/84adc402-c228-11ed-ab6b-02420a000194.webp",
+                "width": 164
             }
         ],
         "title": "Computerized Repeat"
@@ -947,10 +947,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Or the player may choose to have the dungeon automatically populated with the weapons in a Chess-like arrangement.",
+                "caption": "Starting a new game.",
                 "height": 406,
-                "image_url": "https://cdn.mobygames.com/screenshots/16484686-dungeon-chess-os2-or-the-player-may-choose-to-have-the-dungeon-a.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3ee1840e-c228-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16484374-dungeon-chess-os2-starting-a-new-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2a089c52-c228-11ed-ab6b-02420a000194.webp",
+                "width": 633
+            },
+            {
+                "caption": "The dungeon may begin empty.",
+                "height": 406,
+                "image_url": "https://cdn.mobygames.com/screenshots/16484098-dungeon-chess-os2-the-dungeon-may-begin-empty.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/17b66016-c228-11ed-ab6b-02420a000194.webp",
                 "width": 633
             },
             {
@@ -968,17 +975,10 @@
                 "width": 633
             },
             {
-                "caption": "The dungeon may begin empty.",
+                "caption": "Or the player may choose to have the dungeon automatically populated with the weapons in a Chess-like arrangement.",
                 "height": 406,
-                "image_url": "https://cdn.mobygames.com/screenshots/16484098-dungeon-chess-os2-the-dungeon-may-begin-empty.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/17b66016-c228-11ed-ab6b-02420a000194.webp",
-                "width": 633
-            },
-            {
-                "caption": "Starting a new game.",
-                "height": 406,
-                "image_url": "https://cdn.mobygames.com/screenshots/16484374-dungeon-chess-os2-starting-a-new-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2a089c52-c228-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16484686-dungeon-chess-os2-or-the-player-may-choose-to-have-the-dungeon-a.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3ee1840e-c228-11ed-ab6b-02420a000194.webp",
                 "width": 633
             }
         ],
@@ -1059,13 +1059,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The player can choose the size of the game, whether there is sound, and what should be the background color of the level.",
-                "height": 286,
-                "image_url": "https://cdn.mobygames.com/screenshots/16482172-trashman-os2-the-player-can-choose-the-size-of-the-game-whether-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/80ba177a-c227-11ed-ab6b-02420a000194.webp",
-                "width": 399
-            },
-            {
                 "caption": "The high score table records the least number of moves used to solve each level.",
                 "height": 270,
                 "image_url": "https://cdn.mobygames.com/screenshots/16479730-trashman-os2-the-high-score-table-records-the-least-number-of-mo.png",
@@ -1073,11 +1066,18 @@
                 "width": 283
             },
             {
-                "caption": "This is Level 2 in SVGA (26x26) size. The tiles are just zoomed in.",
-                "height": 360,
-                "image_url": "https://cdn.mobygames.com/screenshots/16484095-trashman-os2-this-is-level-2-in-svga-26x26-size-the-tiles-are-ju.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1793cf2e-c228-11ed-ab6b-02420a000194.webp",
-                "width": 459
+                "caption": "The player can choose the size of the game, whether there is sound, and what should be the background color of the level.",
+                "height": 286,
+                "image_url": "https://cdn.mobygames.com/screenshots/16482172-trashman-os2-the-player-can-choose-the-size-of-the-game-whether-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/80ba177a-c227-11ed-ab6b-02420a000194.webp",
+                "width": 399
+            },
+            {
+                "caption": "When a can is filled with a pile of garbage, it bulges and gains a red check mark. This level is nearly complete!",
+                "height": 286,
+                "image_url": "https://cdn.mobygames.com/screenshots/16479073-trashman-os2-when-a-can-is-filled-with-a-pile-of-garbage-it-bulg.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8edcd8fc-c226-11ed-ab6b-02420a000194.webp",
+                "width": 399
             },
             {
                 "caption": "The beginning of Level 1. All six trash piles must be pushed into the garbage cans at the right.",
@@ -1087,11 +1087,11 @@
                 "width": 399
             },
             {
-                "caption": "Upon beating the first level, the game provides score information as well as some environmental facts.",
-                "height": 305,
-                "image_url": "https://cdn.mobygames.com/screenshots/16479412-trashman-os2-upon-beating-the-first-level-the-game-provides-scor.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a627fa46-c226-11ed-ab6b-02420a000194.webp",
-                "width": 408
+                "caption": "This is Level 2 in SVGA (26x26) size. The tiles are just zoomed in.",
+                "height": 360,
+                "image_url": "https://cdn.mobygames.com/screenshots/16484095-trashman-os2-this-is-level-2-in-svga-26x26-size-the-tiles-are-ju.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1793cf2e-c228-11ed-ab6b-02420a000194.webp",
+                "width": 459
             }
         ],
         "title": "TrashMan"
@@ -1144,13 +1144,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "I've lost! Smiley was teleported right beside a robot and died.",
-                "height": 360,
-                "image_url": "https://cdn.mobygames.com/screenshots/15707497-presentation-manager-robots-os2-ive-lost-smiley-was-teleported-r.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/51141a10-becc-11ed-9c42-02420a000140.webp",
-                "width": 560
-            },
-            {
                 "caption": "As the game goes on, more robots are added to each level. Level 6 has quite a few!",
                 "height": 360,
                 "image_url": "https://cdn.mobygames.com/screenshots/15682449-presentation-manager-robots-os2-as-the-game-goes-on-more-robots-.png",
@@ -1165,17 +1158,24 @@
                 "width": 560
             },
             {
+                "caption": "I've lost! Smiley was teleported right beside a robot and died.",
+                "height": 360,
+                "image_url": "https://cdn.mobygames.com/screenshots/15707497-presentation-manager-robots-os2-ive-lost-smiley-was-teleported-r.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/51141a10-becc-11ed-9c42-02420a000140.webp",
+                "width": 560
+            },
+            {
+                "caption": "The game provides instructions on how to play. The goal: \"Keep Smiley alive by keeping him away from the Killer Robots.\"",
+                "height": 360,
+                "image_url": "https://cdn.mobygames.com/screenshots/15744609-presentation-manager-robots-os2-the-game-provides-instructions-o.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c8b6f93c-bed8-11ed-9c42-02420a000140.webp",
+                "width": 560
+            },
+            {
                 "caption": "Level 1 begins: Smiley vs. five Evil Killer Robots.",
                 "height": 360,
                 "image_url": "https://cdn.mobygames.com/screenshots/15692020-presentation-manager-robots-os2-level-1-begins-smiley-vs-five-ev.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/8b60c020-bec6-11ed-9c42-02420a000140.webp",
-                "width": 560
-            },
-            {
-                "caption": "There's nowhere safe to move, so two options remain: Teleport to a random location or use the Sonic Screwdriver to destroy the two robots adjacent to Smiley.",
-                "height": 360,
-                "image_url": "https://cdn.mobygames.com/screenshots/16487755-presentation-manager-robots-os2-theres-nowhere-safe-to-move-so-t.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/258bc446-c229-11ed-ab6b-02420a000194.webp",
                 "width": 560
             }
         ],
@@ -1372,24 +1372,17 @@
                 "width": 1024
             },
             {
-                "caption": "The classic pin aim tool is a must",
+                "caption": "Ready to make a master swing",
                 "height": 746,
-                "image_url": "https://cdn.mobygames.com/screenshots/16134039-links-os2-os2-the-classic-pin-aim-tool-is-a-must.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9f0f149a-bf7b-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16133817-links-os2-os2-ready-to-make-a-master-swing.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8f81feac-bf7b-11ed-9521-02420a000152.webp",
                 "width": 1024
             },
             {
-                "caption": "Out of the sand trap!",
+                "caption": "Minimized windows can be instantly recovered by double-clicking the icon",
                 "height": 746,
-                "image_url": "https://cdn.mobygames.com/screenshots/16134006-links-os2-os2-out-of-the-sand-trap.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9b0408ba-bf7b-11ed-9521-02420a000152.webp",
-                "width": 1024
-            },
-            {
-                "caption": "After so much trouble, finally the ball it's in the hole",
-                "height": 746,
-                "image_url": "https://cdn.mobygames.com/screenshots/16133787-links-os2-os2-after-so-much-trouble-finally-the-ball-its-in-the-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8e1d47e2-bf7b-11ed-9521-02420a000152.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16134231-links-os2-os2-minimized-windows-can-be-instantly-recovered-by-do.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b6221c2c-bf7b-11ed-9521-02420a000152.webp",
                 "width": 1024
             },
             {
@@ -1397,6 +1390,13 @@
                 "height": 746,
                 "image_url": "https://cdn.mobygames.com/screenshots/5958261-links-os2-os2-in-pro-skins-you-can-put-different-value-per-hole.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/a96367ba-abea-11ed-80b1-02420a000133.webp",
+                "width": 1024
+            },
+            {
+                "caption": "If you're unfamiliar with golf, white tee is closer to the pin",
+                "height": 746,
+                "image_url": "https://cdn.mobygames.com/screenshots/16133502-links-os2-os2-if-youre-unfamiliar-with-golf-white-tee-is-closer-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7dca1992-bf7b-11ed-9521-02420a000152.webp",
                 "width": 1024
             }
         ],

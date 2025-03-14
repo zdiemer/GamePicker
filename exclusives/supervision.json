@@ -56,6 +56,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Start of the first stage.",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16280816-sssnake-supervision-start-of-the-first-stage.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/91d726f4-c1e8-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
                 "caption": "Third stage.",
                 "height": 160,
                 "image_url": "https://cdn.mobygames.com/screenshots/16226312-sssnake-supervision-third-stage.png",
@@ -63,10 +70,17 @@
                 "width": 160
             },
             {
-                "caption": "Well done!",
+                "caption": "Title screen.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16280825-sssnake-supervision-well-done.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/92e5e15c-c1e8-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16280900-sssnake-supervision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/992b259a-c1e8-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "It's not easy being the longest snake out there.",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16280903-sssnake-supervision-its-not-easy-being-the-longest-snake-out-the.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/9941b83c-c1e8-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -74,20 +88,6 @@
                 "height": 160,
                 "image_url": "https://cdn.mobygames.com/screenshots/16226867-sssnake-supervision-try-try-again.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/d278ddbc-c1d7-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Stage 2 begins, with slightly more cramped quarters.",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16280906-sssnake-supervision-stage-2-begins-with-slightly-more-cramped-qu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9955da4c-c1e8-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Welcome to the fantasy zone! Get ready!",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16280810-sssnake-supervision-welcome-to-the-fantasy-zone-get-ready.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/919ea4aa-c1e8-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -155,7 +155,7 @@
         "id": 57007,
         "moby_score": null,
         "moby_url": "https://www.mobygames.com/game/57007/alien/",
-        "num_votes": 1,
+        "num_votes": 2,
         "official_url": null,
         "platforms": [
             [
@@ -177,27 +177,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The ship directly in front of me can only be destroyed with a charged shot.",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16281113-alien-supervision-the-ship-directly-in-front-of-me-can-only-be-d.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b10415b4-c1e8-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "First stage is over a mysterious landscape.",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16281104-alien-supervision-first-stage-is-over-a-mysterious-landscape.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b0c2f606-c1e8-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Second stage adds ground-based enemies.",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16280522-alien-supervision-second-stage-adds-ground-based-enemies.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/75c81482-c1e8-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
                 "caption": "Third stage adds another new enemy type.",
                 "height": 160,
                 "image_url": "https://cdn.mobygames.com/screenshots/16281107-alien-supervision-third-stage-adds-another-new-enemy-type.png",
@@ -205,10 +184,31 @@
                 "width": 160
             },
             {
-                "caption": "Trading bullets with the stage 2 boss.",
+                "caption": "The first boss.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16280876-alien-supervision-trading-bullets-with-the-stage-2-boss.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9785a526-c1e8-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16280525-alien-supervision-the-first-boss.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/772a7be4-c1e8-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Game demo.",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16280531-alien-supervision-game-demo.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/77661294-c1e8-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "The ship directly in front of me can only be destroyed with a charged shot.",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16281113-alien-supervision-the-ship-directly-in-front-of-me-can-only-be-d.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b10415b4-c1e8-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Take that, sucker!",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16280528-alien-supervision-take-that-sucker.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/77501ade-c1e8-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -289,10 +289,31 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title screen.",
+                "caption": "Game over.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16173256-balloon-fight-supervision-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4870af9c-c1c7-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16281077-balloon-fight-supervision-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ade4abaa-c1e8-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Simple stage introduction.",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16281125-balloon-fight-supervision-simple-stage-introduction.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b226412e-c1e8-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Second stage. Note the vents shooting air upward, making it easy to fly up to the top of the screen.",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16281146-balloon-fight-supervision-second-stage-note-the-vents-shooting-a.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b2c17130-c1e8-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "First stage clear. Yay!",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16281119-balloon-fight-supervision-first-stage-clear-yay.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b12e23e0-c1e8-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -300,27 +321,6 @@
                 "height": 160,
                 "image_url": "https://cdn.mobygames.com/screenshots/16281143-balloon-fight-supervision-oops.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/b2ab5cd8-c1e8-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Starting the first stage.",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16281122-balloon-fight-supervision-starting-the-first-stage.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b1449706-c1e8-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Free as a bird?",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16281140-balloon-fight-supervision-free-as-a-bird.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b292bd54-c1e8-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Game over.",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16281077-balloon-fight-supervision-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ade4abaa-c1e8-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -410,13 +410,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Game setup.",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16281500-block-buster-supervision-game-setup.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c5bfb1b6-c1e8-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
                 "caption": "Starting a game with some garbage blocks.",
                 "height": 160,
                 "image_url": "https://cdn.mobygames.com/screenshots/16281383-block-buster-supervision-starting-a-game-with-some-garbage-block.png",
@@ -424,17 +417,10 @@
                 "width": 160
             },
             {
-                "caption": "Title screen.",
+                "caption": "The playfield remains visible when the game is paused, allowing for easy cheating!",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16281494-block-buster-supervision-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c590c3d8-c1e8-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "About to score a Tet...er, a Blockbuster!",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16281389-block-buster-supervision-about-to-score-a-teter-a-blockbuster.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bf0d3a28-c1e8-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16281386-block-buster-supervision-the-playfield-remains-visible-when-the-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/beebfda4-c1e8-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -442,6 +428,20 @@
                 "height": 160,
                 "image_url": "https://cdn.mobygames.com/screenshots/16231638-block-buster-supervision-never-give-up-never-suroh-nevermind-its.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/39874150-c1d9-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Starting a game.",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16281497-block-buster-supervision-starting-a-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c5a8a746-c1e8-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "About to score a Tet...er, a Blockbuster!",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16281389-block-buster-supervision-about-to-score-a-teter-a-blockbuster.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bf0d3a28-c1e8-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -585,6 +585,20 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Lose a game, and you get this silly little scene.",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16257445-brain-power-supervision-lose-a-game-and-you-get-this-silly-littl.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/edc15afa-c1e0-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Starting a new game of Mine Detector.",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16281398-brain-power-supervision-starting-a-new-game-of-mine-detector.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bf4c9380-c1e8-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
                 "caption": "Beat the computer...",
                 "height": 160,
                 "image_url": "https://cdn.mobygames.com/screenshots/16281401-brain-power-supervision-beat-the-computer.png",
@@ -592,31 +606,17 @@
                 "width": 160
             },
             {
+                "caption": "Making some good progress...",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16257451-brain-power-supervision-making-some-good-progress.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/edf3a38e-c1e0-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
                 "caption": "Aw, fuzzbuckles.",
                 "height": 160,
                 "image_url": "https://cdn.mobygames.com/screenshots/16257454-brain-power-supervision-aw-fuzzbuckles.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/ee0b1da2-c1e0-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "...and the fat-headed bald man gets the girl!",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16281410-brain-power-supervision-and-the-fat-headed-bald-man-gets-the-gir.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bf9d9442-c1e8-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "First level of Caterpillar.",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16281407-brain-power-supervision-first-level-of-caterpillar.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bf88e308-c1e8-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Choosing a puzzle for Hopper.",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16281413-brain-power-supervision-choosing-a-puzzle-for-hopper.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bfb283a2-c1e8-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -679,10 +679,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "A handsome reward for a job well done.",
+                "caption": "Starting the first puzzle.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16281668-carrier-supervision-a-handsome-reward-for-a-job-well-done.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cf079b62-c1e8-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16281665-carrier-supervision-starting-the-first-puzzle.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cef4210e-c1e8-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -700,17 +700,17 @@
                 "width": 160
             },
             {
-                "caption": "Stage menu.",
+                "caption": "Pause menu. You can restart the puzzle or go back to the stage menu.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16281674-carrier-supervision-stage-menu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cf32c3aa-c1e8-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16282061-carrier-supervision-pause-menu-you-can-restart-the-puzzle-or-go-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fae25164-c1e8-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "A tougher stage.",
+                "caption": "Game demo.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16282055-carrier-supervision-a-tougher-stage.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/fab6c4a4-c1e8-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16281662-carrier-supervision-game-demo.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ce2092bc-c1e8-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -791,31 +791,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Trapped myself between a rock and a hard place... and another rock.",
+                "caption": "Once more with feeling",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16312401-treasure-hunter-supervision-trapped-myself-between-a-rock-and-a-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4513ef72-c1f3-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16312362-treasure-hunter-supervision-once-more-with-feeling.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4290fec0-c1f3-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "Starting out in the middle of a cave.",
+                "caption": "Game over!",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16312395-treasure-hunter-supervision-starting-out-in-the-middle-of-a-cave.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/44e5dbd2-c1f3-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Aw, nuts!",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16312338-treasure-hunter-supervision-aw-nuts.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/41caee88-c1f3-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Difficulty select. Even the Easy setting is pretty tough!",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16312341-treasure-hunter-supervision-difficulty-select-even-the-easy-sett.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/41debd82-c1f3-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16312404-treasure-hunter-supervision-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/452b5784-c1f3-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -823,6 +809,20 @@
                 "height": 160,
                 "image_url": "https://cdn.mobygames.com/screenshots/16312335-treasure-hunter-supervision-title-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/41b50708-c1f3-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Get ready!",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16192282-treasure-hunter-supervision-get-ready.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4d92b6ae-c1cd-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "I've got a lovely bunch of coconuts~",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16312398-treasure-hunter-supervision-ive-got-a-lovely-bunch-of-coconuts.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/44fc197e-c1f3-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -885,24 +885,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Think you can handle this, punk?",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16312569-tennis-pro-92-supervision-think-you-can-handle-this-punk.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/505720c0-c1f3-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
                 "caption": "This screen shows the game progress between sets.",
                 "height": 160,
                 "image_url": "https://cdn.mobygames.com/screenshots/16312572-tennis-pro-92-supervision-this-screen-shows-the-game-progress-be.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/50744dc6-c1f3-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "No, there's nothing wrong with the game. Well... not in that sense, anyway.",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16312563-tennis-pro-92-supervision-no-theres-nothing-wrong-with-the-game-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/502261e6-c1f3-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -913,10 +899,24 @@
                 "width": 160
             },
             {
-                "caption": "Title screen.",
+                "caption": "This screenshot was quickly followed by a fantastic display of not actually hitting the ball.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16312557-tennis-pro-92-supervision-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4ff10a88-c1f3-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16312560-tennis-pro-92-supervision-this-screenshot-was-quickly-followed-b.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5008bc3c-c1f3-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Think you can handle this, punk?",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16312569-tennis-pro-92-supervision-think-you-can-handle-this-punk.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/505720c0-c1f3-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Hey, I actually made it on the scoreboard!",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16312566-tennis-pro-92-supervision-hey-i-actually-made-it-on-the-scoreboa.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/503c9b42-c1f3-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -1006,17 +1006,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Hey... isn't that the ship from <moby game=\"Galaga\">Galaga</moby>?",
+                "caption": "...though you wouldn't know it from this part of the level.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16312506-tasac-2010-supervision-hey-isnt-that-the-ship-from-moby-gamegala.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/49acc0ea-c1f3-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16312518-tasac-2010-supervision-though-you-wouldnt-know-it-from-this-part.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4adfcf2a-c1f3-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "Another boss.",
+                "caption": "Move every ZIG! For great justice!",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16312434-tasac-2010-supervision-another-boss.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4662fb98-c1f3-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16312509-tasac-2010-supervision-move-every-zig-for-great-justice.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/49bf80ea-c1f3-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -1027,17 +1027,17 @@
                 "width": 160
             },
             {
-                "caption": "...though you wouldn't know it from this part of the level.",
+                "caption": "The spread shot makes quick work of most bosses.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16312518-tasac-2010-supervision-though-you-wouldnt-know-it-from-this-part.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4adfcf2a-c1f3-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16312431-tasac-2010-supervision-the-spread-shot-makes-quick-work-of-most-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/464a6f2e-c1f3-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "Yep, you can pause the game too! So fancy!",
+                "caption": "Hey... isn't that the ship from <moby game=\"Galaga\">Galaga</moby>?",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16312503-tasac-2010-supervision-yep-you-can-pause-the-game-too-so-fancy.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/499afe28-c1f3-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16312506-tasac-2010-supervision-hey-isnt-that-the-ship-from-moby-gamegala.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/49acc0ea-c1f3-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -1109,17 +1109,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Kong is smug in his victory.",
+                "caption": "Title screen. That monkey is obviously a completely original Sachen creation.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16312485-super-kong-supervision-kong-is-smug-in-his-victory.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/49112ffe-c1f3-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Successfully defeating Kong causes congratulatory fireworks to appear for some reason.",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16312482-super-kong-supervision-successfully-defeating-kong-causes-congra.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/48fc5746-c1f3-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16312473-super-kong-supervision-title-screen-that-monkey-is-obviously-a-c.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/48b4c732-c1f3-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -1130,6 +1123,13 @@
                 "width": 160
             },
             {
+                "caption": "Successfully defeating Kong causes congratulatory fireworks to appear for some reason.",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16312482-super-kong-supervision-successfully-defeating-kong-causes-congra.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/48fc5746-c1f3-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
                 "caption": "Watch out!",
                 "height": 160,
                 "image_url": "https://cdn.mobygames.com/screenshots/16312476-super-kong-supervision-watch-out.png",
@@ -1137,10 +1137,10 @@
                 "width": 160
             },
             {
-                "caption": "Let's start the game!",
+                "caption": "Kong is smug in his victory.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16312479-super-kong-supervision-lets-start-the-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/48e565a4-c1f3-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16312485-super-kong-supervision-kong-is-smug-in-his-victory.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/49112ffe-c1f3-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -1212,24 +1212,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Huzzah!",
+                "caption": "Title screen.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16312545-super-block-supervision-huzzah.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4f920e66-c1f3-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16312581-super-block-supervision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/51c056de-c1f3-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "Don't slow down, not for a second...",
+                "caption": "Fill the gaps in Fill Block.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16189138-super-block-supervision-dont-slow-down-not-for-a-second.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7f7cc840-c1cc-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16312659-super-block-supervision-fill-the-gaps-in-fill-block.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/55c01300-c1f3-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "You can also use the ceiling to hit the top of the stack.",
+                "caption": "Hit Block combines elements of the other two games.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16312656-super-block-supervision-you-can-also-use-the-ceiling-to-hit-the-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/55ab9ca4-c1f3-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16312653-super-block-supervision-hit-block-combines-elements-of-the-other.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5596b2d0-c1f3-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -1240,10 +1240,10 @@
                 "width": 160
             },
             {
-                "caption": "...or you'll explode! Though for some reason, the explosion takes the offending blocks with it.",
+                "caption": "Oh, the humanity!",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16188856-super-block-supervision-or-youll-explode-though-for-some-reason-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/710ff4e4-c1cc-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16312542-super-block-supervision-oh-the-humanity.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4f78f520-c1f3-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -1306,24 +1306,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Dive!",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16253324-soccer-champion-supervision-dive.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8218958a-c1df-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Time over, that's the game!",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16253558-soccer-champion-supervision-time-over-thats-the-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/96eb2cfc-c1df-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
                 "caption": "A very Euro-centric lineup.",
                 "height": 160,
                 "image_url": "https://cdn.mobygames.com/screenshots/16257772-soccer-champion-supervision-a-very-euro-centric-lineup.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/0b845b64-c1e1-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Mode select screen.",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16254305-soccer-champion-supervision-mode-select-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/d21a44b6-c1df-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -1338,6 +1331,13 @@
                 "height": 160,
                 "image_url": "https://cdn.mobygames.com/screenshots/16253759-soccer-champion-supervision-cpu-controlled-england-player-runnin.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/a541e76e-c1df-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Goalkeeper returning a caught kick.",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16254254-soccer-champion-supervision-goalkeeper-returning-a-caught-kick.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cd5ebeca-c1df-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -1400,17 +1400,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Game over.",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16254911-police-bust-supervision-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1c010218-c1e0-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
                 "caption": "The misplaced barrier wasn't much help.",
                 "height": 160,
                 "image_url": "https://cdn.mobygames.com/screenshots/16257902-police-bust-supervision-the-misplaced-barrier-wasnt-much-help.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/11f54c10-c1e1-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Game over.",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16254911-police-bust-supervision-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1c010218-c1e0-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -1421,17 +1421,17 @@
                 "width": 160
             },
             {
-                "caption": "The chase is on!",
+                "caption": "...and hauled away for good! Until the next life, anyway...",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16255481-police-bust-supervision-the-chase-is-on.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5a92cd90-c1e0-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16258088-police-bust-supervision-and-hauled-away-for-good-until-the-next-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1c46d2e2-c1e1-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "Caught by the fuzz...",
+                "caption": "Boom!",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16255013-police-bust-supervision-caught-by-the-fuzz.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/283046c0-c1e0-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16255295-police-bust-supervision-boom.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4e31e752-c1e0-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -1501,17 +1501,17 @@
                 "width": 160
             },
             {
-                "caption": "Game select menu.",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16257067-2-in-1-cross-high-block-buster-supervision-game-select-menu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c8cd00dc-c1e0-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
                 "caption": "Cross High title screen.",
                 "height": 160,
                 "image_url": "https://cdn.mobygames.com/screenshots/16257478-2-in-1-cross-high-block-buster-supervision-cross-high-title-scre.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/ef1e0556-c1e0-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Game select menu.",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16257067-2-in-1-cross-high-block-buster-supervision-game-select-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c8cd00dc-c1e0-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -1574,13 +1574,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Eagle Plan menu.",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16257556-2-in-1-hash-block-eagle-plan-supervision-eagle-plan-menu.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f4f9935a-c1e0-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
                 "caption": "Hash Blocks menu.",
                 "height": 160,
                 "image_url": "https://cdn.mobygames.com/screenshots/16257847-2-in-1-hash-block-eagle-plan-supervision-hash-blocks-menu.png",
@@ -1592,6 +1585,13 @@
                 "height": 160,
                 "image_url": "https://cdn.mobygames.com/screenshots/16257844-2-in-1-hash-block-eagle-plan-supervision-game-select-menu.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/0fff8858-c1e1-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Eagle Plan menu.",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16257556-2-in-1-hash-block-eagle-plan-supervision-eagle-plan-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f4f9935a-c1e0-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -1654,17 +1654,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The large flame is much more effective.",
+                "caption": "Harder stages will have more enemies and more treasures to find.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16261568-cave-wonders-supervision-the-large-flame-is-much-more-effective.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/334f3ed8-c1e2-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Got all four crowns, there's the exit!",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16266265-cave-wonders-supervision-got-all-four-crowns-theres-the-exit.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/9ffc2efa-c1e3-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16276133-cave-wonders-supervision-harder-stages-will-have-more-enemies-an.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2ba64a14-c1e7-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -1675,17 +1668,24 @@
                 "width": 160
             },
             {
-                "caption": "You can hold up to eight items at once.",
+                "caption": "Though this one doesn't seem to be too effective...",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16269463-cave-wonders-supervision-you-can-hold-up-to-eight-items-at-once.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/070c3f3a-c1e5-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16269460-cave-wonders-supervision-though-this-one-doesnt-seem-to-be-too-e.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/062d99ba-c1e5-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "That... isn't much of a reward.",
+                "caption": "Title screen.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16264720-cave-wonders-supervision-that-isnt-much-of-a-reward.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/152da40c-c1e3-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16265272-cave-wonders-supervision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/40d4cd4c-c1e3-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "The large flame is much more effective.",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16261568-cave-wonders-supervision-the-large-flame-is-much-more-effective.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/334f3ed8-c1e2-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -1762,17 +1762,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Game select screen.",
+                "caption": "Demo game.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16273889-hash-blocks-supervision-game-select-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6aa637c0-c1e6-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Moving on...",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16274042-hash-blocks-supervision-moving-on.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/77e06b4a-c1e6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16273709-hash-blocks-supervision-demo-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5c82d536-c1e6-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -1783,17 +1776,24 @@
                 "width": 160
             },
             {
-                "caption": "Title screen.",
+                "caption": "Moving on...",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16276127-hash-blocks-supervision-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2b756db8-c1e7-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16274042-hash-blocks-supervision-moving-on.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/77e06b4a-c1e6-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "Flash mode. The gap in the bottom row is the flashing block that must be cleared.",
+                "caption": "Second stage adds more garbage to dig through...",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16274168-hash-blocks-supervision-flash-mode-the-gap-in-the-bottom-row-is-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/82623d8c-c1e6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16272638-hash-blocks-supervision-second-stage-adds-more-garbage-to-dig-th.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/03c0908c-c1e6-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "About to clear the stage.",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16276130-hash-blocks-supervision-about-to-clear-the-stage.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2b8c8598-c1e7-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -1874,10 +1874,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "I got... caught by a mouse?",
+                "caption": "Opening cinematic. This upstanding young man will do anything for the girl of his dreams.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16289756-pacboy-mouse-supervision-i-got-caught-by-a-mouse.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/65969c98-c1eb-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16289723-pacboy-mouse-supervision-opening-cinematic-this-upstanding-young.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/60c98f90-c1eb-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Oh yeah, success!",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16289684-pacboy-mouse-supervision-oh-yeah-success.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5eccb3f2-c1eb-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -1888,24 +1895,17 @@
                 "width": 160
             },
             {
-                "caption": "Crushing some mice.",
+                "caption": "First stage.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16289687-pacboy-mouse-supervision-crushing-some-mice.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5ee256ee-c1eb-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16304335-pacboy-mouse-supervision-first-stage.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b0216e1e-c1f0-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "Later stages have faster mice that are harder to hit.",
+                "caption": "I got... caught by a mouse?",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16289753-pacboy-mouse-supervision-later-stages-have-faster-mice-that-are-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/657fedfe-c1eb-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Oh yeah, success!",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16289684-pacboy-mouse-supervision-oh-yeah-success.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5eccb3f2-c1eb-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16289756-pacboy-mouse-supervision-i-got-caught-by-a-mouse.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/65969c98-c1eb-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -1986,17 +1986,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "There's a long road ahead...",
+                "caption": "Forward spray fire is useful, too.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16301611-challenger-tank-supervision-theres-a-long-road-ahead.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e587dd8c-c1ef-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Title screen. The tank can't actually fly in-game...",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16301605-challenger-tank-supervision-title-screen-the-tank-cant-actually-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e5572a8e-c1ef-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16301632-challenger-tank-supervision-forward-spray-fire-is-useful-too.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e618975a-c1ef-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -2007,17 +2000,24 @@
                 "width": 160
             },
             {
-                "caption": "Got a very useful power-up: four-way fire!",
+                "caption": "Oh, they got me!",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16301623-challenger-tank-supervision-got-a-very-useful-power-up-four-way-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e5d9c62e-c1ef-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16301608-challenger-tank-supervision-oh-they-got-me.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e5707dd6-c1ef-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "You're not going to let them get away with that, are you?",
+                "caption": "Several enemy tanks have appeared.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16301617-challenger-tank-supervision-youre-not-going-to-let-them-get-away.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e5af72a2-c1ef-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16301626-challenger-tank-supervision-several-enemy-tanks-have-appeared.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e5ee1eda-c1ef-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "There's a long road ahead...",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16301611-challenger-tank-supervision-theres-a-long-road-ahead.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e587dd8c-c1ef-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -2080,17 +2080,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Demo game.",
+                "caption": "Second stage.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16302883-crystball-supervision-demo-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4e61983e-c1f0-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16301767-crystball-supervision-second-stage.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/eedb5f26-c1ef-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "Starting the first stage.",
+                "caption": "Let's continue, shall we?",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16301698-crystball-supervision-starting-the-first-stage.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ea5f3ba2-c1ef-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16301761-crystball-supervision-lets-continue-shall-we.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/eded6ec4-c1ef-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -2101,17 +2101,17 @@
                 "width": 160
             },
             {
-                "caption": "...where'd that penguin come from?",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16304332-crystball-supervision-whered-that-penguin-come-from.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b0074566-c1f0-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
                 "caption": "There isn't really much difference between the levels.",
                 "height": 160,
                 "image_url": "https://cdn.mobygames.com/screenshots/16302880-crystball-supervision-there-isnt-really-much-difference-between-.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/4e4af458-c1f0-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Demo game.",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16302883-crystball-supervision-demo-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4e61983e-c1f0-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -2174,31 +2174,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Fighting a strange creature to obtain the precious, life-giving coffee.",
+                "caption": "Ran out of lives...",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16303657-delta-hero-supervision-fighting-a-strange-creature-to-obtain-the.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/8971113e-c1f0-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16303342-delta-hero-supervision-ran-out-of-lives.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/7851c1fa-c1f0-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "Title screen.",
+                "caption": "Second stage. Cactus patch?",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16303282-delta-hero-supervision-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/70f5a282-c1f0-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Wow, actual in-game instructions!",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16304344-delta-hero-supervision-wow-actual-in-game-instructions.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b060b60a-c1f0-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "The glasses expose all the hidden paths on the stage. Finding them should be your top priority.",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16303669-delta-hero-supervision-the-glasses-expose-all-the-hidden-paths-o.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/89c635d8-c1f0-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16303654-delta-hero-supervision-second-stage-cactus-patch.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/895a8fe0-c1f0-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -2206,6 +2192,20 @@
                 "height": 160,
                 "image_url": "https://cdn.mobygames.com/screenshots/16303345-delta-hero-supervision-reach-the-yin-yang-with-enough-cash-to-le.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/786620aa-c1f0-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "The game doesn't actually tell you how many dollars you need to proceed.",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16303279-delta-hero-supervision-the-game-doesnt-actually-tell-you-how-man.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/70e0788a-c1f0-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Wow, actual in-game instructions!",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16304344-delta-hero-supervision-wow-actual-in-game-instructions.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b060b60a-c1f0-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -2284,13 +2284,6 @@
                 "width": 160
             },
             {
-                "caption": "All in a day's work.",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16303672-eagle-plan-supervision-all-in-a-days-work.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/89da9e24-c1f0-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
                 "caption": "Taking aim at another fighter.",
                 "height": 160,
                 "image_url": "https://cdn.mobygames.com/screenshots/16303648-eagle-plan-supervision-taking-aim-at-another-fighter.png",
@@ -2298,17 +2291,24 @@
                 "width": 160
             },
             {
-                "caption": "Title screen.",
+                "caption": "Alright, so here's what you gotta do...",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16303630-eagle-plan-supervision-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/88b0b1e6-c1f0-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16303660-eagle-plan-supervision-alright-so-heres-what-you-gotta-do.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/89865cce-c1f0-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "Equipment upgrade screen. Genetal Gun...?",
+                "caption": "Tanks must be destroyed with missiles.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16303636-eagle-plan-supervision-equipment-upgrade-screen-genetal-gun.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/88db75ca-c1f0-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16303663-eagle-plan-supervision-tanks-must-be-destroyed-with-missiles.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/899ada82-c1f0-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Not bad for a beginner, right?",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16303642-eagle-plan-supervision-not-bad-for-a-beginner-right.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/89031daa-c1f0-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -2389,6 +2389,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Die, alien scum!",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16304098-earth-defender-supervision-die-alien-scum.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a2ab5e20-c1f0-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
                 "caption": "Title screen. Look, it's the <moby game=\"Turrican\">Turrican</moby> suit!",
                 "height": 160,
                 "image_url": "https://cdn.mobygames.com/screenshots/16304083-earth-defender-supervision-title-screen-look-its-the-moby-gametu.png",
@@ -2410,17 +2417,10 @@
                 "width": 160
             },
             {
-                "caption": "Die, alien scum!",
+                "caption": "You can camp up at the top of the screen, but it doesn't mean you're safe.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16304098-earth-defender-supervision-die-alien-scum.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a2ab5e20-c1f0-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Boss of the first stage.",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16304089-earth-defender-supervision-boss-of-the-first-stage.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a26c9f82-c1f0-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16304086-earth-defender-supervision-you-can-camp-up-at-the-top-of-the-scr.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a2533dbc-c1f0-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -2501,24 +2501,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Some enemies come in familiar formations.",
+                "caption": "More types of enemies on the second stage.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16304077-fatal-craft-supervision-some-enemies-come-in-familiar-formations.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a211e63c-c1f0-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "The star is a power-up capsule. Grab it!",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16304149-fatal-craft-supervision-the-star-is-a-power-up-capsule-grab-it.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a675fe7a-c1f0-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Title screen.",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16304080-fatal-craft-supervision-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a2293e04-c1f0-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16304155-fatal-craft-supervision-more-types-of-enemies-on-the-second-stag.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a6ac2f18-c1f0-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -2526,6 +2512,20 @@
                 "height": 160,
                 "image_url": "https://cdn.mobygames.com/screenshots/16304161-fatal-craft-supervision-the-ship-after-getting-several-upgrades.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/a6df8084-c1f0-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Lasers!",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16304143-fatal-craft-supervision-lasers.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a4fa4eb6-c1f0-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Title screen.",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16304080-fatal-craft-supervision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a2293e04-c1f0-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -2604,24 +2604,31 @@
         },
         "sample_screenshots": [
             {
-                "caption": "GO!",
+                "caption": "Let's get busy!",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16304185-final-combat-supervision-go.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a8a5719e-c1f0-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16304140-final-combat-supervision-lets-get-busy.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a4e1f5f0-c1f0-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "We knew that it couldn't last...",
+                "caption": "Title screen.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16304197-final-combat-supervision-we-knew-that-it-couldnt-last.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a8fe296a-c1f0-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16304137-final-combat-supervision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a4cf731c-c1f0-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "You have to shoot the proverbial crap out of the base. It takes a LOT of hits!",
+                "caption": "Trading fire with some enemy tanks.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16304191-final-combat-supervision-you-have-to-shoot-the-proverbial-crap-o.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a8d41828-c1f0-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16304194-final-combat-supervision-trading-fire-with-some-enemy-tanks.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a8e80dba-c1f0-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "A whole line of turrets eye my tank on the second stage.",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16304164-final-combat-supervision-a-whole-line-of-turrets-eye-my-tank-on-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a6f791ba-c1f0-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -2629,13 +2636,6 @@
                 "height": 160,
                 "image_url": "https://cdn.mobygames.com/screenshots/16304167-final-combat-supervision-taken-out-but-reinforcements-will-soon-.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/a7e2c8b0-c1f0-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Starting the first stage",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16304188-final-combat-supervision-starting-the-first-stage.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a8bf87f0-c1f0-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -2716,20 +2716,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Game over.",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16307305-galaxy-fighter-supervision-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a60f62ae-c1f1-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Destroyed bosses release a ton of power-ups.",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16307308-galaxy-fighter-supervision-destroyed-bosses-release-a-ton-of-pow.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a623870c-c1f1-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
                 "caption": "Blasting some blobs...",
                 "height": 160,
                 "image_url": "https://cdn.mobygames.com/screenshots/16307317-galaxy-fighter-supervision-blasting-some-blobs.png",
@@ -2737,10 +2723,10 @@
                 "width": 160
             },
             {
-                "caption": "Title screen.",
+                "caption": "Powered up my ship quite a bit.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16307302-galaxy-fighter-supervision-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a5fa40ae-c1f1-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16307311-galaxy-fighter-supervision-powered-up-my-ship-quite-a-bit.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a63b272c-c1f1-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -2748,6 +2734,20 @@
                 "height": 160,
                 "image_url": "https://cdn.mobygames.com/screenshots/16307314-galaxy-fighter-supervision-ran-into-an-enemy-and-blew-up.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/a65379da-c1f1-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "The first boss.",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16307698-galaxy-fighter-supervision-the-first-boss.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c4e0a4f4-c1f1-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Destroyed bosses release a ton of power-ups.",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16307308-galaxy-fighter-supervision-destroyed-bosses-release-a-ton-of-pow.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/a623870c-c1f1-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -2819,17 +2819,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Goal!",
+                "caption": "Hit one of the barriers and spun out.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16307410-grand-prix-supervision-goal.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b1cf63a0-c1f1-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16307536-grand-prix-supervision-hit-one-of-the-barriers-and-spun-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/babdb818-c1f1-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "Apparently eighth place is not good enough...",
+                "caption": "Taking a turn at high speed.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16307539-grand-prix-supervision-apparently-eighth-place-is-not-good-enoug.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bad2b970-c1f1-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16307413-grand-prix-supervision-taking-a-turn-at-high-speed.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b1e887ea-c1f1-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -2847,10 +2847,10 @@
                 "width": 160
             },
             {
-                "caption": "Taking a turn at high speed.",
+                "caption": "Using the power boost in a futile attempt to catch up.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16307413-grand-prix-supervision-taking-a-turn-at-high-speed.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/b1e887ea-c1f1-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16307416-grand-prix-supervision-using-the-power-boost-in-a-futile-attempt.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/b2000122-c1f1-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -2940,31 +2940,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Complete puzzle for a clear view of the image underneath.",
+                "caption": "Don't think you can cheat by pausing the game!",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16308340-happy-pairs-supervision-complete-puzzle-for-a-clear-view-of-the-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/eaf3cd42-c1f1-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16308337-happy-pairs-supervision-dont-think-you-can-cheat-by-pausing-the-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/eadb7864-c1f1-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "A slightly more complex puzzle.",
+                "caption": "Ready?",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16308397-happy-pairs-supervision-a-slightly-more-complex-puzzle.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ede68d00-c1f1-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16308334-happy-pairs-supervision-ready.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/eac4e932-c1f1-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "This can happen if you aren't careful with your matches.",
+                "caption": "There are a lot of different puzzle layouts.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16307824-happy-pairs-supervision-this-can-happen-if-you-arent-careful-wit.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cb8aea12-c1f1-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "One of the toughest puzzles in the game!",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16308346-happy-pairs-supervision-one-of-the-toughest-puzzles-in-the-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/eb1ff96c-c1f1-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16308349-happy-pairs-supervision-there-are-a-lot-of-different-puzzle-layo.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/eb34ceb4-c1f1-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -2972,6 +2965,13 @@
                 "height": 160,
                 "image_url": "https://cdn.mobygames.com/screenshots/16308343-happy-pairs-supervision-distance-doesnt-matter-so-long-as-theres.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/eb0a2a7e-c1f1-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Removing a pair of tiles.",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16308352-happy-pairs-supervision-removing-a-pair-of-tiles.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/eb4ad5f6-c1f1-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -3034,13 +3034,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Throwing hammers.",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16308826-hero-kid-supervision-throwing-hammers.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/069d7c46-c1f2-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
                 "caption": "Fell in the ocean and died. Hero Kid is surprisingly fragile for a hero.",
                 "height": 160,
                 "image_url": "https://cdn.mobygames.com/screenshots/16308829-hero-kid-supervision-fell-in-the-ocean-and-died-hero-kid-is-surp.png",
@@ -3048,17 +3041,17 @@
                 "width": 160
             },
             {
-                "caption": "The sign helpfully points out that this is the start of the level.",
+                "caption": "FIRE HOT!",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16308754-hero-kid-supervision-the-sign-helpfully-points-out-that-this-is-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0269251c-c1f2-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16308748-hero-kid-supervision-fire-hot.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/023d6ecc-c1f2-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "End-of-stage bonus. Cute girl.",
+                "caption": "Title screen.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16308823-hero-kid-supervision-end-of-stage-bonus-cute-girl.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0687ef84-c1f2-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16308700-hero-kid-supervision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ff65cc4e-c1f1-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -3066,6 +3059,13 @@
                 "height": 160,
                 "image_url": "https://cdn.mobygames.com/screenshots/16308757-hero-kid-supervision-game-demo.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/027f9e6e-c1f2-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Throwing hammers.",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16308826-hero-kid-supervision-throwing-hammers.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/069d7c46-c1f2-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -3137,13 +3137,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title screen. Huh...",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16309009-linear-racing-supervision-title-screen-huh.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/15e45b0c-c1f2-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
                 "caption": "You can pause and view the unscrambled animation at any time if you get stuck.",
                 "height": 160,
                 "image_url": "https://cdn.mobygames.com/screenshots/16309318-linear-racing-supervision-you-can-pause-and-view-the-unscrambled.png",
@@ -3151,10 +3144,10 @@
                 "width": 160
             },
             {
-                "caption": "Success!",
+                "caption": "Animation selection menu.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16313910-linear-racing-supervision-success.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/e633f866-c1f3-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16309015-linear-racing-supervision-animation-selection-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1613edae-c1f2-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -3165,10 +3158,17 @@
                 "width": 160
             },
             {
-                "caption": "Almost got it...",
+                "caption": "Success!",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16309195-linear-racing-supervision-almost-got-it.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/27cc4712-c1f2-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16313910-linear-racing-supervision-success.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/e633f866-c1f3-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Charming Dancer animation, about to be completed...",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16309171-linear-racing-supervision-charming-dancer-animation-about-to-be-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/23aa6a38-c1f2-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -3240,10 +3240,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Man down, man down!",
+                "caption": "Second stage features some slightly different scenery and enemies.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16309518-honey-bee-supervision-man-down-man-down.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3f543426-c1f2-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16309431-honey-bee-supervision-second-stage-features-some-slightly-differ.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/39154870-c1f2-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -3254,17 +3254,10 @@
                 "width": 160
             },
             {
-                "caption": "More weird enemies.",
+                "caption": "Success!",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16309437-honey-bee-supervision-more-weird-enemies.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/394bfe1a-c1f2-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Second stage features some slightly different scenery and enemies.",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16309431-honey-bee-supervision-second-stage-features-some-slightly-differ.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/39154870-c1f2-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16309524-honey-bee-supervision-success.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3f8aa876-c1f2-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -3272,6 +3265,13 @@
                 "height": 160,
                 "image_url": "https://cdn.mobygames.com/screenshots/16309398-honey-bee-supervision-title-screen.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/37ecffa6-c1f2-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Bombing an umbrella on the ground that's shooting at me.",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16309521-honey-bee-supervision-bombing-an-umbrella-on-the-ground-thats-sh.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3f6ff350-c1f2-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -3343,24 +3343,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Out in the forest.",
+                "caption": "Aw yeah, got me a bonus!",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16309536-jacky-lucky-supervision-out-in-the-forest.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4283627a-c1f2-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16309464-jacky-lucky-supervision-aw-yeah-got-me-a-bonus.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3b3ccce0-c1f2-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "First stage boss is this mad bull.",
+                "caption": "Jump for joy! A mushroom AND a star!",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16309533-jacky-lucky-supervision-first-stage-boss-is-this-mad-bull.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3fd8a986-c1f2-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16309446-jacky-lucky-supervision-jump-for-joy-a-mushroom-and-a-star.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/39a35f02-c1f2-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "...but the joy is short-lived.",
+                "caption": "Map screen shown between stages.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16309458-jacky-lucky-supervision-but-the-joy-is-short-lived.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3b0cf68c-c1f2-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16309455-jacky-lucky-supervision-map-screen-shown-between-stages.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3af759bc-c1f2-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -3371,10 +3371,10 @@
                 "width": 160
             },
             {
-                "caption": "Title screen.",
+                "caption": "First stage boss is this mad bull.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16310136-jacky-lucky-supervision-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6d6c2efe-c1f2-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16309533-jacky-lucky-supervision-first-stage-boss-is-this-mad-bull.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3fd8a986-c1f2-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -3455,17 +3455,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Most of the enemies look like strange machines.",
+                "caption": "AAH! MISSILES!",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16309737-jaguar-bomber-supervision-most-of-the-enemies-look-like-strange-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/512410d6-c1f2-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Starting the assault.",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16309629-jaguar-bomber-supervision-starting-the-assault.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/489c2e80-c1f2-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16309614-jaguar-bomber-supervision-aah-missiles.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/47d05d00-c1f2-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -3476,17 +3469,24 @@
                 "width": 160
             },
             {
-                "caption": "Died once and continually respawned inside of enemies... Fantastic game design.",
+                "caption": "I guess I'm done. Too bad about the Earth, huh...",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16309998-jaguar-bomber-supervision-died-once-and-continually-respawned-in.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/642b4c26-c1f2-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16309725-jaguar-bomber-supervision-i-guess-im-done-too-bad-about-the-eart.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5017b954-c1f2-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "Fighting the incredibly flickery boss of the first stage. He doesn't move, so you don't need to either.",
+                "caption": "Most of the enemies look like strange machines.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16309611-jaguar-bomber-supervision-fighting-the-incredibly-flickery-boss-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/47b9289c-c1f2-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16309737-jaguar-bomber-supervision-most-of-the-enemies-look-like-strange-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/512410d6-c1f2-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Are you ready? Are you really?",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16309635-jaguar-bomber-supervision-are-you-ready-are-you-really.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/499369a2-c1f2-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -3567,31 +3567,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title screen.",
+                "caption": "Each stage adds more balls.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16309608-john-adventure-supervision-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/47a1fd8e-c1f2-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16309650-john-adventure-supervision-each-stage-adds-more-balls.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4a05e5f4-c1f2-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "You must crush those balls!",
+                "caption": "Setting off a chain. Get it? Ball and chain? Eh?",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16309728-john-adventure-supervision-you-must-crush-those-balls.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/502e77c0-c1f2-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "The highest difficulty. Literally tripping balls.",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16309641-john-adventure-supervision-the-highest-difficulty-literally-trip.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/49c2983a-c1f2-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Aww, yeah!",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16309638-john-adventure-supervision-aww-yeah.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/49abe220-c1f2-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16309647-john-adventure-supervision-setting-off-a-chain-get-it-ball-and-c.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/49f10a1c-c1f2-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -3599,6 +3585,20 @@
                 "height": 160,
                 "image_url": "https://cdn.mobygames.com/screenshots/16309764-john-adventure-supervision-clearing-a-line-of-balls.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/532cb3e2-c1f2-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Game setup.",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16310346-john-adventure-supervision-game-setup.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/863b3024-c1f2-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "The highest difficulty. Literally tripping balls.",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16309641-john-adventure-supervision-the-highest-difficulty-literally-trip.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/49c2983a-c1f2-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -3661,10 +3661,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Our hero introduces himself.",
+                "caption": "Starting.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16309785-juggler-supervision-our-hero-introduces-himself.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/53c13ee0-c1f2-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16309773-juggler-supervision-starting.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/536c8850-c1f2-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Game over.",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16309992-juggler-supervision-game-over.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/633e68f2-c1f2-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -3675,24 +3682,17 @@
                 "width": 160
             },
             {
-                "caption": "Starting.",
+                "caption": "Good!",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16309773-juggler-supervision-starting.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/536c8850-c1f2-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16309782-juggler-supervision-good.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/53ac863a-c1f2-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "Second stage. You're still safe to play with the bubbles... for now.",
+                "caption": "Grabbed a power-up... of some kind...",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16309767-juggler-supervision-second-stage-youre-still-safe-to-play-with-t.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/533f987c-c1f2-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Popped a balloon.",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16309776-juggler-supervision-popped-a-balloon.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5381eace-c1f2-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16309770-juggler-supervision-grabbed-a-power-up-of-some-kind.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/535562ec-c1f2-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -3755,13 +3755,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The remote bombs look oddly delicious.",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16309878-kabi-island-supervision-the-remote-bombs-look-oddly-delicious.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5a025cbc-c1f2-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
                 "caption": "Pick a stage!",
                 "height": 160,
                 "image_url": "https://cdn.mobygames.com/screenshots/16309884-kabi-island-supervision-pick-a-stage.png",
@@ -3776,17 +3769,24 @@
                 "width": 160
             },
             {
-                "caption": "That's our hero in the middle, looking quite please with himself.",
+                "caption": "The enemies are relentless.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16309881-kabi-island-supervision-thats-our-hero-in-the-middle-looking-qui.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5a184356-c1f2-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16309866-kabi-island-supervision-the-enemies-are-relentless.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/58db48d0-c1f2-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "Ouch.",
+                "caption": "Found some useful items on the second stage.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/15634811-kabi-island-supervision-ouch.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3ed185f4-bdeb-11ed-b791-02420a0001bb.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16309869-kabi-island-supervision-found-some-useful-items-on-the-second-st.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/58f0fa18-c1f2-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "You can pause the game to see your current status.",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16309872-kabi-island-supervision-you-can-pause-the-game-to-see-your-curre.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/590aca06-c1f2-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -3867,10 +3867,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Second stage has a different appearance.",
+                "caption": "Blasting away at swarms of aliens.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16309956-magincross-supervision-second-stage-has-a-different-appearance.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6040190c-c1f2-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16309962-magincross-supervision-blasting-away-at-swarms-of-aliens.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/606d8cd4-c1f2-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -3888,17 +3888,17 @@
                 "width": 160
             },
             {
-                "caption": "Nondescript level start message.",
+                "caption": "Not quite <moby game=\"Zero Wing\">all your base</moby> quality, but it's close!",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16310001-magincross-supervision-nondescript-level-start-message.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/65f7cf2a-c1f2-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16309959-magincross-supervision-not-quite-moby-gamezero-wingall-your-base.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/60561748-c1f2-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "Power-ups continue to trickle in, even after defeating the boss.",
+                "caption": "Second stage has a different appearance.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16309968-magincross-supervision-power-ups-continue-to-trickle-in-even-aft.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/609a8946-c1f2-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16309956-magincross-supervision-second-stage-has-a-different-appearance.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6040190c-c1f2-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -3988,6 +3988,13 @@
         },
         "sample_screenshots": [
             {
+                "caption": "Main menu.",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16309896-olympic-trials-supervision-main-menu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5a8f205c-c1f2-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
                 "caption": "Enter your name!",
                 "height": 160,
                 "image_url": "https://cdn.mobygames.com/screenshots/16313517-olympic-trials-supervision-enter-your-name.png",
@@ -3995,31 +4002,24 @@
                 "width": 160
             },
             {
-                "caption": "Hurdles: I won!",
+                "caption": "Rowing: Starting line.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16309908-olympic-trials-supervision-hurdles-i-won.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5af2ce0e-c1f2-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16310058-olympic-trials-supervision-rowing-starting-line.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6954526a-c1f2-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "Shot put: Winding up for the throw...",
+                "caption": "High score table.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16309914-olympic-trials-supervision-shot-put-winding-up-for-the-throw.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5b23e4f8-c1f2-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16313514-olympic-trials-supervision-high-score-table.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bbf9e15a-c1f3-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "Check out my awesome high score!",
+                "caption": "Shot put: Well... I tried.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16309902-olympic-trials-supervision-check-out-my-awesome-high-score.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5ac2099a-c1f2-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Cycling: Blocking my opponent's path probably isn't a legal technique...",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16310061-olympic-trials-supervision-cycling-blocking-my-opponents-path-pr.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/696d50c6-c1f2-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16309899-olympic-trials-supervision-shot-put-well-i-tried.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5aa89ca8-c1f2-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -4118,13 +4118,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Upgrade shop.",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16310235-p52-sea-battle-supervision-upgrade-shop.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/79b2ba48-c1f2-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
                 "caption": "Taking out some subs...",
                 "height": 160,
                 "image_url": "https://cdn.mobygames.com/screenshots/16310232-p52-sea-battle-supervision-taking-out-some-subs.png",
@@ -4132,24 +4125,31 @@
                 "width": 160
             },
             {
-                "caption": "Title screen.",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16310226-p52-sea-battle-supervision-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/78ad6922-c1f2-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Got my sub sunk...",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16313511-p52-sea-battle-supervision-got-my-sub-sunk.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bbdfcae0-c1f3-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
                 "caption": "Attacking an aircraft carrier.",
                 "height": 160,
                 "image_url": "https://cdn.mobygames.com/screenshots/16310229-p52-sea-battle-supervision-attacking-an-aircraft-carrier.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/78c40ce0-c1f2-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Better dead than red!",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16313508-p52-sea-battle-supervision-better-dead-than-red.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bbc820ac-c1f3-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Ran out of missiles...",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16310301-p52-sea-battle-supervision-ran-out-of-missiles.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8487097e-c1f2-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "To say the game has a lot of flicker would be a bit of an understatement.",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16313520-p52-sea-battle-supervision-to-say-the-game-has-a-lot-of-flicker-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/bc25de04-c1f3-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -4228,10 +4228,17 @@
                 "width": 160
             },
             {
-                "caption": "Game over...",
+                "caption": "Yeah! Let's go!",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16321098-bubble-world-supervision-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0c75559a-c1f6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16320771-bubble-world-supervision-yeah-lets-go.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f6b23566-c1f5-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Jumpin' and shootin', jumpin' and shootin'... life is good.",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16321056-bubble-world-supervision-jumpin-and-shootin-jumpin-and-shootin-l.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/091e2002-c1f6-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -4246,13 +4253,6 @@
                 "height": 160,
                 "image_url": "https://cdn.mobygames.com/screenshots/16320765-bubble-world-supervision-pause-the-game-to-check-your-status.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/f686bb5c-c1f5-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "There's clearly more going on here than the poor Supervision can handle.",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16321095-bubble-world-supervision-theres-clearly-more-going-on-here-than-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0c5e183a-c1f6-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -4324,10 +4324,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "3-way game.",
+                "caption": "Lots of jumps for very little gain.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16320708-chinese-checkers-supervision-3-way-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f243bae0-c1f5-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16320921-chinese-checkers-supervision-lots-of-jumps-for-very-little-gain.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ff724b32-c1f5-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -4352,10 +4352,10 @@
                 "width": 160
             },
             {
-                "caption": "The developers even included silly animated portraits.",
+                "caption": "Starting the next round...",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16320924-chinese-checkers-supervision-the-developers-even-included-silly-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ff8799f6-c1f5-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16320720-chinese-checkers-supervision-starting-the-next-round.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f2a600ce-c1f5-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -4427,17 +4427,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Slots: I didn't realize casinos had levels...",
+                "caption": "Blackjack: Starting out...",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16320726-classic-casino-supervision-slots-i-didnt-realize-casinos-had-lev.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f2cf8674-c1f5-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16320936-classic-casino-supervision-blackjack-starting-out.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ffef2dc8-c1f5-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "Poker: Give up? Restart?",
+                "caption": "Choose your game!",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16320723-classic-casino-supervision-poker-give-up-restart.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f2bb0d7a-c1f5-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16320930-classic-casino-supervision-choose-your-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ffbc2ad6-c1f5-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -4448,17 +4448,17 @@
                 "width": 160
             },
             {
-                "caption": "Slots: Inserting a credit with my tiny puppet hand.",
+                "caption": "Blackjack: Back where I started again...",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16320966-classic-casino-supervision-slots-inserting-a-credit-with-my-tiny.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/00e11ba6-c1f6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16320927-classic-casino-supervision-blackjack-back-where-i-started-again.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/ff9e1ea6-c1f5-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "Blackjack: Starting out...",
+                "caption": "Poker: You gotta play the hand you're dealt.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16320936-classic-casino-supervision-blackjack-starting-out.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/ffef2dc8-c1f5-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16320729-classic-casino-supervision-poker-you-gotta-play-the-hand-youre-d.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f2e63202-c1f5-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -4530,31 +4530,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Dropping through a gap I made.",
+                "caption": "...to destroy blocks...",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16321158-climber-supervision-dropping-through-a-gap-i-made.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/12373d9a-c1f6-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Starting the game.",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16320897-climber-supervision-starting-the-game.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/fdf2c962-c1f5-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Use the knives to scale walls...",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16321161-climber-supervision-use-the-knives-to-scale-walls.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/124d3c12-c1f6-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Title screen. Sure looks like he climbed up there, yeah!",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16320894-climber-supervision-title-screen-sure-looks-like-he-climbed-up-t.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/fddc59b6-c1f5-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16321155-climber-supervision-to-destroy-blocks.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/1220e52c-c1f6-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -4562,6 +4541,27 @@
                 "height": 160,
                 "image_url": "https://cdn.mobygames.com/screenshots/16320900-climber-supervision-flag-get.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/fe07db0e-c1f5-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "You can throw lots of knives at once!",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16320912-climber-supervision-you-can-throw-lots-of-knives-at-once.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fe65a450-c1f5-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "You might say... that went over my head. YEAAAAAH!",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16321164-climber-supervision-you-might-say-that-went-over-my-head-yeaaaaa.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/12646fd6-c1f6-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Starting the game.",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16320897-climber-supervision-starting-the-game.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/fdf2c962-c1f5-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -4642,17 +4642,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "What is this, a platypus?",
+                "caption": "Platform, platform...",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16323636-dream-world-supervision-what-is-this-a-platypus.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/cfeef738-c1f6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16323627-dream-world-supervision-platform-platform.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cfb15a90-c1f6-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "Dreamy title screen!",
+                "caption": "...or not.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16323300-dream-world-supervision-dreamy-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/bbeca2a8-c1f6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16323633-dream-world-supervision-or-not.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cfdb0b2e-c1f6-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -4663,17 +4663,17 @@
                 "width": 160
             },
             {
-                "caption": "Walking safely beneath the enemy lines.",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16323036-dream-world-supervision-walking-safely-beneath-the-enemy-lines.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/a8337c00-c1f6-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
                 "caption": "Most enemies look like regular animals.",
                 "height": 160,
                 "image_url": "https://cdn.mobygames.com/screenshots/16323630-dream-world-supervision-most-enemies-look-like-regular-animals.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/cfc6d4e2-c1f6-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "What is this, a platypus?",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16323636-dream-world-supervision-what-is-this-a-platypus.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/cfeef738-c1f6-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -4745,17 +4745,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Grab the flags and use the exhaust clouds to stop your pursuers!",
+                "caption": "Each stage has a different layout, but all of them are pretty random.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16323384-happy-race-supervision-grab-the-flags-and-use-the-exhaust-clouds.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c1ffd958-c1f6-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "...and get ready to race!",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16323381-happy-race-supervision-and-get-ready-to-race.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c1e839b0-c1f6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16323363-happy-race-supervision-each-stage-has-a-different-layout-but-all.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c070fb94-c1f6-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -4766,10 +4759,17 @@
                 "width": 160
             },
             {
-                "caption": "PAUSE.",
+                "caption": "Got all the flags!",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16323366-happy-race-supervision-pause.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c087dcec-c1f6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16323375-happy-race-supervision-got-all-the-flags.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c1b88314-c1f6-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Select a level...",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16323372-happy-race-supervision-select-a-level.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c0b10590-c1f6-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -4857,10 +4857,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title screen.",
+                "caption": "Boots let you move faster. Stylish AND practical!",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16323405-hero-hawk-supervision-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c2a9404c-c1f6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16323507-hero-hawk-supervision-boots-let-you-move-faster-stylish-and-prac.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c7b37b34-c1f6-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Well, don't you feel like a badass?",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16323396-hero-hawk-supervision-well-dont-you-feel-like-a-badass.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c2630136-c1f6-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -4871,24 +4878,17 @@
                 "width": 160
             },
             {
-                "caption": "GET IN THE... wait no, just blow it up!",
+                "caption": "The box contained a whole roast turkey. Worth three life points. Tasty!",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16323498-hero-hawk-supervision-get-in-the-wait-no-just-blow-it-up.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c771acea-c1f6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16323387-hero-hawk-supervision-the-box-contained-a-whole-roast-turkey-wor.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c2180e4c-c1f6-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "Find a SuperVision console to get this handy-dandy map!",
+                "caption": "Title screen.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16323411-hero-hawk-supervision-find-a-supervision-console-to-get-this-han.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c2daab1e-c1f6-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "There's the exit! Go!",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16323501-hero-hawk-supervision-theres-the-exit-go.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/c7867be8-c1f6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16323405-hero-hawk-supervision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/c2a9404c-c1f6-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -4960,10 +4960,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Title screen. It is a large fork!",
+                "caption": "Looks like a tomato!",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16324287-kitchen-war-supervision-title-screen-it-is-a-large-fork.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f5ec6a38-c1f6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16324296-kitchen-war-supervision-looks-like-a-tomato.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f631a184-c1f6-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Watch out for the frog!",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16324293-kitchen-war-supervision-watch-out-for-the-frog.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/f61a2c70-c1f6-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -4981,17 +4988,10 @@
                 "width": 160
             },
             {
-                "caption": "Each stage has a different layout and a different target.",
+                "caption": "Pause the game to check your status. Here, I need to kill spiders to proceed.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16324560-kitchen-war-supervision-each-stage-has-a-different-layout-and-a-.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/07460cc6-c1f7-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Enter the doors to find helpful items. This bottle refills our hero's health!",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16324290-kitchen-war-supervision-enter-the-doors-to-find-helpful-items-th.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/f602ddd6-c1f6-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16324548-kitchen-war-supervision-pause-the-game-to-check-your-status-here.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/06dca146-c1f7-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -5081,24 +5081,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Generic Kung-Fu Guy vs. Faceless Boxer. Match of the millennium, folks!",
+                "caption": "I just couldn't hack it in such a competitive field.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16324575-kung-fu-street-supervision-generic-kung-fu-guy-vs-faceless-boxer.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/09694af4-c1f7-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "There's the caveman, again...",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16324578-kung-fu-street-supervision-theres-the-caveman-again.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/098006d6-c1f7-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "So close...",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16324668-kung-fu-street-supervision-so-close.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0e1dbc2e-c1f7-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16324584-kung-fu-street-supervision-i-just-couldnt-hack-it-in-such-a-comp.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/09b81472-c1f7-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -5109,10 +5095,24 @@
                 "width": 160
             },
             {
-                "caption": "A sword? How is THAT fair!?",
+                "caption": "There's the caveman, again...",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16324581-kung-fu-street-supervision-a-sword-how-is-that-fair.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/099e0ae6-c1f7-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16324578-kung-fu-street-supervision-theres-the-caveman-again.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/098006d6-c1f7-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Generic Kung-Fu Guy vs. Faceless Boxer. Match of the millennium, folks!",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16324575-kung-fu-street-supervision-generic-kung-fu-guy-vs-faceless-boxer.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/09694af4-c1f7-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Round one! Fight!",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16324671-kung-fu-street-supervision-round-one-fight.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0e350708-c1f7-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -5184,13 +5184,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "My fleet on the first turn. There's also a couple submarines that can't be seen.",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16324701-pacific-battle-supervision-my-fleet-on-the-first-turn-theres-als.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/1026d94c-c1f7-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
                 "caption": "Turn results.",
                 "height": 160,
                 "image_url": "https://cdn.mobygames.com/screenshots/16324680-pacific-battle-supervision-turn-results.png",
@@ -5198,10 +5191,17 @@
                 "width": 160
             },
             {
-                "caption": "The computer calculates its moves. This screen flashes if you're attacked.",
+                "caption": "Intro for the first stage.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16324683-pacific-battle-supervision-the-computer-calculates-its-moves-thi.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0ea5dfdc-c1f7-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16324692-pacific-battle-supervision-intro-for-the-first-stage.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0ef9b558-c1f7-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Well, that didn't work too well...",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16324689-pacific-battle-supervision-well-that-didnt-work-too-well.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0edf1a40-c1f7-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -5212,10 +5212,10 @@
                 "width": 160
             },
             {
-                "caption": "Well, that didn't work too well...",
+                "caption": "The computer calculates its moves. This screen flashes if you're attacked.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16324689-pacific-battle-supervision-well-that-didnt-work-too-well.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0edf1a40-c1f7-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16324683-pacific-battle-supervision-the-computer-calculates-its-moves-thi.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0ea5dfdc-c1f7-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -5287,17 +5287,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Happy, happy title screen!",
+                "caption": "Now eat those dots with... whatever the heck you're controlling here.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16325307-popo-team-supervision-happy-happy-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/39354706-c1f7-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16325229-popo-team-supervision-now-eat-those-dots-with-whatever-the-heck-.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3416f4c2-c1f7-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "You can twist around all over the stage as long as there's space.",
+                "caption": "The stages get more and more convoluted.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16325142-popo-team-supervision-you-can-twist-around-all-over-the-stage-as.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2e6f5258-c1f7-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16325544-popo-team-supervision-the-stages-get-more-and-more-convoluted.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/5727303a-c1f7-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -5308,17 +5308,17 @@
                 "width": 160
             },
             {
-                "caption": "...and don't eat bombs, either!",
+                "caption": "Happy, happy title screen!",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16325145-popo-team-supervision-and-dont-eat-bombs-either.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2e855efe-c1f7-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16325307-popo-team-supervision-happy-happy-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/39354706-c1f7-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "The stages get more and more convoluted.",
+                "caption": "Om nom nom...",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16325544-popo-team-supervision-the-stages-get-more-and-more-convoluted.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/5727303a-c1f7-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16325232-popo-team-supervision-om-nom-nom.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3432a0b4-c1f7-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -5399,31 +5399,31 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Stop splashing!",
+                "caption": "Aw, crap.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16325211-recycle-design-supervision-stop-splashing.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/33849582-c1f7-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16325235-recycle-design-supervision-aw-crap.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3525c8de-c1f7-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "There isn't a whole lot of variation...",
+                "caption": "Link up the pipes before the water spills out!",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16325214-recycle-design-supervision-there-isnt-a-whole-lot-of-variation.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/339e4e64-c1f7-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16325217-recycle-design-supervision-link-up-the-pipes-before-the-water-sp.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/33b6129c-c1f7-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "Game over!",
+                "caption": "Grab the money and push away the rocks.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16325220-recycle-design-supervision-game-over.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/33cda448-c1f7-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16325313-recycle-design-supervision-grab-the-money-and-push-away-the-rock.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/39628f04-c1f7-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "How hard do you want it?",
+                "caption": "Looks like the guy from <moby game=\"Cave Wonders\">Cave Wonders</moby>.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16325310-recycle-design-supervision-how-hard-do-you-want-it.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/394b41be-c1f7-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16325298-recycle-design-supervision-looks-like-the-guy-from-moby-gamecave.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/38ef2848-c1f7-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -5520,17 +5520,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "No! You'll break the... oh, whatever.",
+                "caption": "The first puzzle is pretty simple.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16325250-scaffolder-supervision-no-youll-break-the-oh-whatever.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/359686dc-c1f7-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Skilled mode puts a time limit on the puzzles.",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16325262-scaffolder-supervision-skilled-mode-puts-a-time-limit-on-the-puz.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/35ffd5d8-c1f7-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16325265-scaffolder-supervision-the-first-puzzle-is-pretty-simple.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/361c805c-c1f7-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -5541,17 +5534,24 @@
                 "width": 160
             },
             {
-                "caption": "Almost there...",
+                "caption": "What a cool dude! This game is rad!",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16325244-scaffolder-supervision-almost-there.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/356850fa-c1f7-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16325256-scaffolder-supervision-what-a-cool-dude-this-game-is-rad.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/35ca1d58-c1f7-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "You can restart if you get stuck.",
+                "caption": "Smell ya' later!",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16325355-scaffolder-supervision-you-can-restart-if-you-get-stuck.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3c1533fa-c1f7-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16325259-scaffolder-supervision-smell-ya-later.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/35e44b74-c1f7-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Simple, simple! Haha!",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16325247-scaffolder-supervision-simple-simple-haha.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/35814c90-c1f7-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -5619,17 +5619,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Fined for running a red light.",
+                "caption": "Ouch, you start on level zero!",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16325397-sonny-xpress-supervision-fined-for-running-a-red-light.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3ec878c8-c1f7-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16325394-sonny-xpress-supervision-ouch-you-start-on-level-zero.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3eb1ddc0-c1f7-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "You'll be seeing this spot a lot.",
+                "caption": "The map tells you where things are around town.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16325400-sonny-xpress-supervision-youll-be-seeing-this-spot-a-lot.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3edcd03e-c1f7-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16325391-sonny-xpress-supervision-the-map-tells-you-where-things-are-arou.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3e9dba98-c1f7-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -5640,17 +5640,17 @@
                 "width": 160
             },
             {
-                "caption": "Hey there, Sonny!",
+                "caption": "Game over, but Sonny doesn't seem particularly displeased.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16325268-sonny-xpress-supervision-hey-there-sonny.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/363e03f8-c1f7-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16325409-sonny-xpress-supervision-game-over-but-sonny-doesnt-seem-particu.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3f30f15a-c1f7-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "There's the bank! It's full of money!",
+                "caption": "Fined for running a red light.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16325406-sonny-xpress-supervision-theres-the-bank-its-full-of-money.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3f19810a-c1f7-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16325397-sonny-xpress-supervision-fined-for-running-a-red-light.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3ec878c8-c1f7-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -5796,17 +5796,10 @@
                 "width": 160
             },
             {
-                "caption": "...ouch.",
+                "caption": "Ouch! Watch where you're aiming that thing!",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16327608-space-fighter-supervision-ouch.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/27636cf0-c1f8-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Visit the base to switch robots and refill energy. All three robots share an energy meter for some reason.",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16327509-space-fighter-supervision-visit-the-base-to-switch-robots-and-re.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/222a9240-c1f8-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16327512-space-fighter-supervision-ouch-watch-where-youre-aiming-that-thi.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2243f9ce-c1f8-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -5814,6 +5807,13 @@
                 "height": 160,
                 "image_url": "https://cdn.mobygames.com/screenshots/16328337-space-fighter-supervision-title-screen-featuring-a-poorly-disgui.png",
                 "thumbnail_image_url": "https://cdn.mobygames.com/5216d9dc-c1f8-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Countering an ambush.",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16327611-space-fighter-supervision-countering-an-ambush.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2778a930-c1f8-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -5892,20 +5892,6 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Yay!",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16327500-super-pang-supervision-yay.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/21e30510-c1f8-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Got a powerup.",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16327476-super-pang-supervision-got-a-powerup.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/20d5fb0a-c1f8-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
                 "caption": "Continue...?",
                 "height": 160,
                 "image_url": "https://cdn.mobygames.com/screenshots/16327503-super-pang-supervision-continue.png",
@@ -5920,10 +5906,24 @@
                 "width": 160
             },
             {
-                "caption": "Shoot the balloons!",
+                "caption": "Title screen.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16327494-super-pang-supervision-shoot-the-balloons.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/21b42768-c1f8-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16327506-super-pang-supervision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/22133de8-c1f8-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "GO!",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16327488-super-pang-supervision-go.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/21827a7e-c1f8-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Yay!",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16327500-super-pang-supervision-yay.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/21e30510-c1f8-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -6004,24 +6004,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Danger, danger!",
+                "caption": "Title screen. That logo looks a little <moby game=\"Thunder Spirits\">familiar...</moby>",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16327683-thunder-shooting-supervision-danger-danger.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2b8afb54-c1f8-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16327707-thunder-shooting-supervision-title-screen-that-logo-looks-a-litt.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2cffad90-c1f8-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "Overwhelmed and destroyed.",
+                "caption": "The first boss.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16327698-thunder-shooting-supervision-overwhelmed-and-destroyed.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2cbaefd4-c1f8-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "The intro tells the nonsensical story.",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16327680-thunder-shooting-supervision-the-intro-tells-the-nonsensical-sto.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2b74dd60-c1f8-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16328010-thunder-shooting-supervision-the-first-boss.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3e770ab4-c1f8-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -6032,10 +6025,17 @@
                 "width": 160
             },
             {
-                "caption": "Title screen. That logo looks a little <moby game=\"Thunder Spirits\">familiar...</moby>",
+                "caption": "The intro tells the nonsensical story.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16327707-thunder-shooting-supervision-title-screen-that-logo-looks-a-litt.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2cffad90-c1f8-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16327680-thunder-shooting-supervision-the-intro-tells-the-nonsensical-sto.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2b74dd60-c1f8-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "A different stage. Looks pretty much the same.",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16327686-thunder-shooting-supervision-a-different-stage-looks-pretty-much.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2ba14774-c1f8-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -6107,24 +6107,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Wooooorms!",
+                "caption": "What... is THAT!?",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16327866-untouchable-supervision-wooooorms.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/372de516-c1f8-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Down in flames...",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16328004-untouchable-supervision-down-in-flames.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/3e4756ac-c1f8-11ed-ab6b-02420a000194.webp",
-                "width": 160
-            },
-            {
-                "caption": "Creepy...",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16327860-untouchable-supervision-creepy.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/36fe33e8-c1f8-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16328007-untouchable-supervision-what-is-that.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/3e5f7f3e-c1f8-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -6135,10 +6121,24 @@
                 "width": 160
             },
             {
-                "caption": "Fighting socks in a hallway. Makes perfect sense.",
+                "caption": "Wooooorms!",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16327863-untouchable-supervision-fighting-socks-in-a-hallway-makes-perfec.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/37178406-c1f8-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16327866-untouchable-supervision-wooooorms.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/372de516-c1f8-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "Well then...",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16327713-untouchable-supervision-well-then.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2d28a696-c1f8-11ed-ab6b-02420a000194.webp",
+                "width": 160
+            },
+            {
+                "caption": "This guy looks none too pleased.",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/16327857-untouchable-supervision-this-guy-looks-none-too-pleased.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/36e9b0d0-c1f8-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -6210,17 +6210,17 @@
         },
         "sample_screenshots": [
             {
-                "caption": "Look at all those cats!",
+                "caption": "Mmm... delicious points.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16328160-witty-cat-supervision-look-at-all-those-cats.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/46ffe7f0-c1f8-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16328103-witty-cat-supervision-mmm-delicious-points.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/434d86f8-c1f8-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "Each stage has a different layout.",
+                "caption": "Pause the game to check your progress.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16328169-witty-cat-supervision-each-stage-has-a-different-layout.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4740b8f2-c1f8-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16328100-witty-cat-supervision-pause-the-game-to-check-your-progress.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/4339a08e-c1f8-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -6231,17 +6231,17 @@
                 "width": 160
             },
             {
-                "caption": "Stage 1!",
+                "caption": "Look at all those cats!",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16328199-witty-cat-supervision-stage-1.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/494b41b2-c1f8-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16328160-witty-cat-supervision-look-at-all-those-cats.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/46ffe7f0-c1f8-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
-                "caption": "Pause the game to check your progress.",
+                "caption": "...isn't that a little... big... for you to eat?",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16328100-witty-cat-supervision-pause-the-game-to-check-your-progress.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/4339a08e-c1f8-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16328163-witty-cat-supervision-isnt-that-a-little-big-for-you-to-eat.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/471552de-c1f8-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -6322,10 +6322,10 @@
         },
         "sample_screenshots": [
             {
-                "caption": "In game screenshot.",
+                "caption": "Title screen",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16582453-assembloids-limited-edition-supervision-in-game-screenshot.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/200ed8b4-c247-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16582582-assembloids-limited-edition-supervision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/2fdddd12-c247-11ed-ab6b-02420a000194.webp",
                 "width": 160
             },
             {
@@ -6336,10 +6336,10 @@
                 "width": 160
             },
             {
-                "caption": "Title screen",
+                "caption": "In game screenshot.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/16582582-assembloids-limited-edition-supervision-title-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/2fdddd12-c247-11ed-ab6b-02420a000194.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/16582453-assembloids-limited-edition-supervision-in-game-screenshot.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/200ed8b4-c247-11ed-ab6b-02420a000194.webp",
                 "width": 160
             }
         ],
@@ -6429,17 +6429,24 @@
         },
         "sample_screenshots": [
             {
-                "caption": "The English is a bit clumsy.",
+                "caption": "The monkey king cometh.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/9714658-journey-to-the-west-supervision-the-english-is-a-bit-clumsy.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6b1932d6-ac09-11ed-a599-02420a000132.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/9725117-journey-to-the-west-supervision-the-monkey-king-cometh.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8231bd30-ac09-11ed-9f52-02420a000130.webp",
                 "width": 160
             },
             {
-                "caption": "Pig at sea.",
+                "caption": "Shutting down the serpent.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/9722824-journey-to-the-west-supervision-pig-at-sea.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/7fc81bd4-ac09-11ed-81c5-02420a00012f.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/9677366-journey-to-the-west-supervision-shutting-down-the-serpent.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/0fba3ac0-ac09-11ed-b351-02420a00012e.webp",
+                "width": 160
+            },
+            {
+                "caption": "Title screen.",
+                "height": 160,
+                "image_url": "https://cdn.mobygames.com/screenshots/9725120-journey-to-the-west-supervision-title-screen.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/8274c04e-ac09-11ed-9f52-02420a000130.webp",
                 "width": 160
             },
             {
@@ -6450,17 +6457,10 @@
                 "width": 160
             },
             {
-                "caption": "Map screen.",
+                "caption": "The English is a bit clumsy.",
                 "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/9714661-journey-to-the-west-supervision-map-screen.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/6b400bb8-ac09-11ed-a599-02420a000132.webp",
-                "width": 160
-            },
-            {
-                "caption": "Shutting down the serpent.",
-                "height": 160,
-                "image_url": "https://cdn.mobygames.com/screenshots/9677366-journey-to-the-west-supervision-shutting-down-the-serpent.png",
-                "thumbnail_image_url": "https://cdn.mobygames.com/0fba3ac0-ac09-11ed-b351-02420a00012e.webp",
+                "image_url": "https://cdn.mobygames.com/screenshots/9714658-journey-to-the-west-supervision-the-english-is-a-bit-clumsy.png",
+                "thumbnail_image_url": "https://cdn.mobygames.com/6b1932d6-ac09-11ed-a599-02420a000132.webp",
                 "width": 160
             }
         ],

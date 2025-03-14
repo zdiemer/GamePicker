@@ -1686,5 +1686,69 @@
         "sample_cover": null,
         "sample_screenshots": [],
         "title": "Virtual Cameraman 2"
+    },
+    {
+        "alternate_titles": [
+            {
+                "description": "Japanese title",
+                "title": "\u30b6\u30c3\u30d4\u30f3\u30b0"
+            }
+        ],
+        "description": "<p><em>Zapping Satsui</em> is LD-ROM\u00b2 version of a detective/crime thriller story originally broadcasted in German television. The idea was to show the same story from the perspectives of two characters, Christine and Stefan. The movie was aired simultaneously on two different channels and viewers could decide how the story may go by switching from one channel to another. The same approach was used on LD-ROM\u00b2.</p><p></p>\n<p>If it is about the story, Stefan is an artist who travels to a different city in search of work. He finds out that he was tricked into transporting a bag of drugs for Christine. After that he decides to stay in the city to which he arrived. Christine's boss - Octave, decides to frame Stefan for other crimes...</p>",
+        "genres": [
+            {
+                "category": {
+                    "id": 1,
+                    "name": "Basic Genres"
+                },
+                "description": null,
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "category": {
+                    "id": 13,
+                    "name": "Art Style"
+                },
+                "description": null,
+                "id": 60,
+                "name": "Full Motion Video (FMV)"
+            },
+            {
+                "category": {
+                    "id": 4,
+                    "name": "Gameplay"
+                },
+                "description": null,
+                "id": 164,
+                "name": "Japanese-style adventure"
+            },
+            {
+                "category": {
+                    "id": 8,
+                    "name": "Narrative Theme/Topic"
+                },
+                "description": null,
+                "id": 55,
+                "name": "Detective / mystery"
+            }
+        ],
+        "id": 233359,
+        "moby_score": null,
+        "moby_url": "https://www.mobygames.com/game/233359/zapping-satsui/",
+        "num_votes": 0,
+        "official_url": null,
+        "platforms": [
+            [
+                {
+                    "id": 163,
+                    "name": "LaserActive"
+                },
+                "1994-06-10"
+            ]
+        ],
+        "sample_cover": null,
+        "sample_screenshots": [],
+        "title": "Zapping Satsui"
     }
 ]

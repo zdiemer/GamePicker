@@ -1,3 +1,5 @@
+import datetime
+
 from data_provider import DataProvider
 from excel_filter import ExcelFilter
 from game_grouping import GameGrouping
@@ -25,11 +27,18 @@ def get_now_playing_selector(
         include_in_picks=False,
         include_platform=False,
         run_on_modes=set([PickerMode.ALL]),
+        custom_prefix=lambda g: (
+            f"{g.date_started.strftime('%m/%d/%Y')}: "
+            if g.date_started is not None
+            else ""
+        ),
         custom_suffix=lambda g: (
             f" - {g.playing_progress:.0%} complete"
             if g.playing_progress is not None
             else ""
         ),
-        sort=lambda pg: pg.game.playing_progress or 0,
-        reverse_sort=True,
+        sort=lambda pg: (
+            pg.game.date_started or datetime.datetime.min,
+            pg.game.normal_title,
+        ),
     )

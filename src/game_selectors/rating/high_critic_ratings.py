@@ -1,4 +1,5 @@
 from game_selector import GameSelector
+from picker_enums import PickerMode
 
 HIGH_CRITIC_RATINGS = GameSelector(
     _filter=lambda g: g.metacritic_rating is not None
@@ -7,4 +8,5 @@ HIGH_CRITIC_RATINGS = GameSelector(
     name="High Critic Ratings",
     sort=lambda g: g.game.combined_rating,
     reverse_sort=True,
+    run_on_modes=set([PickerMode.ALL]),
 )

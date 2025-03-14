@@ -45,7 +45,7 @@ def get_purchase_to_completion_gaps_selector(
         reverse_sort=True,
         custom_suffix=get_custom_suffix,
         grouping=GameGrouping(
-            lambda _: "Time Between Purchase", take=100, should_rank=False
+            lambda _: "Time Between Purchase", group_size=100, should_rank=False
         ),
         run_on_modes=set([PickerMode.ALL]),
         include_in_picks=False,
