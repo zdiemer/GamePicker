@@ -4,7 +4,13 @@ import datetime
 import re
 import statistics
 
-from excel_game import ExcelGame, ExcelOwnedFormat, ExcelPlatform, ExcelRegion
+from excel_game import (
+    ExcelGame,
+    ExcelOwnedCondition,
+    ExcelOwnedFormat,
+    ExcelPlatform,
+    ExcelRegion,
+)
 from data_provider import DataProvider
 from game_grouping import GameGrouping
 from game_selector import GameSelector
@@ -45,7 +51,12 @@ def sheet_validations(
             invalid_games.append(g_copy)
 
         # Wishlisted and Owned
-        if game.owned and game.wishlisted:
+        if (
+            game.owned
+            and game.owned_condition
+            not in (ExcelOwnedCondition.CASE_ONLY, ExcelOwnedCondition.MANUAL_ONLY)
+            and game.wishlisted
+        ):
             g_copy = copy.copy(game)
             g_copy.group_metadata = "Wishlisted and Owned"
             invalid_games.append(g_copy)

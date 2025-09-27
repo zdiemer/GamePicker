@@ -5,3 +5,9 @@ BIRTHDAY_GAMES = GameSelector(
     name="Birthday Games",
     custom_suffix=lambda g: f" [{g.release_year}]",
 )
+
+LUKE_BIRTHDAY_GAMES = GameSelector(
+    _filter=lambda g: g.release_date.month == 8 and g.release_date.day == 16,
+    name="Luke Birthday Games",
+    custom_suffix=lambda g: f" [{g.release_year}]",
+)

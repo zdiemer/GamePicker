@@ -12,6 +12,7 @@ def get_most_played_selector(
     grouping: Callable[[ExcelGame], Any],
     name: str,
     _filter: Optional[Callable[[ExcelGame], bool]] = None,
+    include_platform: bool = True,
 ) -> GameSelector:
     return GameSelector(
         _filter=_filter,
@@ -32,4 +33,5 @@ def get_most_played_selector(
         ),
         sort=lambda pg: pg.game.completion_time or 0,
         reverse_sort=True,
+        include_platform=include_platform,
     )

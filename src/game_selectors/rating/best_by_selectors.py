@@ -1,4 +1,4 @@
-from typing import Any, Callable, Optional
+from typing import Any, Callable, Optional, List
 
 from excel_game import ExcelGame
 from game_grouping import GameGrouping
@@ -9,6 +9,7 @@ def get_best_by_selector(
     grouping: Optional[Callable[[ExcelGame], Any]],
     name: str,
     reverse_grouping_sort: bool = False,
+    games: Optional[List[ExcelGame]] = None,
 ) -> GameSelector:
     return GameSelector(
         custom_suffix=lambda g: f" - {g.combined_rating:.0%}",
@@ -17,4 +18,5 @@ def get_best_by_selector(
         name=name,
         grouping=GameGrouping(grouping, reverse=reverse_grouping_sort, group_size=10),
         include_platform=grouping is not None,
+        games=games,
     )

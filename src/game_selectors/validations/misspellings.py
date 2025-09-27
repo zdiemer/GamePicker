@@ -1,5 +1,6 @@
 from typing import List, Set
 import re
+import unidecode
 
 from spellchecker import SpellChecker
 
@@ -19,13 +20,15 @@ def misspellings(games: List[ExcelGame]) -> List[ExcelGame]:
         output_words = set()
 
         for word in words:
-            word = re.sub(r"[^A-Za-z0-9\s]", "", word).strip()
+            if word.endswith("'s"):
+                word = word[:-2]
+            word = re.sub(r"[^A-Za-z0-9\s]", "", unidecode.unidecode(word)).strip()
             compound = re.findall(r"[A-Z][^A-Z]*", word)
 
             if any(compound):
                 if not any(checker.unknown([word])):
                     continue
-                output_words = output_words.union(set(compound))
+                output_words = output_words.union(set(c.strip() for c in compound))
                 continue
 
             output_words.add(word)

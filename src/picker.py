@@ -144,7 +144,7 @@ def main(
 
     selectors = list(sel.lower() for sel in selector)
 
-    gp = GamesPicker(mode, no_cache)
+    gp = GamesPicker(mode, no_cache, load_sources=out or update_all)
 
     if completion:
         gp.completion(completion_owned)

@@ -14,4 +14,5 @@ HIGHEST_PRIORITY_PLATFORMS = GameSelector(
     ),
     include_in_picks=False,
     run_on_modes=set([PickerMode.ALL]),
+    include_platform=False,
 )

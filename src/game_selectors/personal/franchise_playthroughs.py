@@ -180,4 +180,5 @@ FRANCHISE_CONTENDERS = (
     "Killzone",
     "Chibi-Robo",
     "Grand Theft Auto",
+    "Doom",
 )

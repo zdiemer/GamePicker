@@ -1,4 +1,4 @@
-from typing import Any, Dict, List, Set
+from typing import Any, Dict, List
 import datetime
 import math
 
@@ -13,6 +13,7 @@ from data_provider import DataProvider
 from game_grouping import GameGrouping
 from game_selector import GameSelector
 import game_selectors as gs
+from output_parser import OutputParser
 from picked_game import PickedGame
 from picker_enums import PickerMode
 
@@ -53,17 +54,33 @@ class SelectorLibrary:
             gs.Selector.ALTERNATE_EDITIONS: gs.get_alternate_editions_selector(
                 self._data_provider
             ),
+            gs.Selector.AVERAGE_PLAYTIME_PER_DAY: gs.get_average_playtime_per_day_selector(
+                self._data_provider
+            ),
             gs.Selector.BACKLOGGD_TOP: gs.get_backloggd_top_selector(
                 self._data_provider
             ),
             gs.Selector.BEAT_EM_UPS: gs.get_genre_selector(
                 ExcelGenre.BEAT_EM_UP, gs.Selector.BEAT_EM_UPS.value
             ),
+            gs.Selector.BEST_BY_DATA_SOURCE: gs.BEST_BY_DATA_SOURCE_SELECTOR,
             gs.Selector.BEST_BY_GENRE: gs.get_best_by_selector(
                 lambda g: g.genre, gs.Selector.BEST_BY_GENRE.value
             ),
             gs.Selector.BEST_BY_PLATFORM: gs.get_best_by_selector(
                 None, gs.Selector.BEST_BY_PLATFORM.value
+            ),
+            gs.Selector.BEST_BY_PLATFORM_EXTERNAL: gs.get_best_by_selector(
+                None,
+                gs.Selector.BEST_BY_PLATFORM_EXTERNAL.value,
+                games=[
+                    game.compute_properties()
+                    for game in OutputParser.get_modified_critic_ratings(
+                        OutputParser.get_modified_user_ratings(
+                            self._data_provider.get_unplayed_candidates()
+                        )
+                    )
+                ],
             ),
             gs.Selector.BEST_BY_YEAR: gs.get_best_by_selector(
                 lambda g: g.release_year,
@@ -86,6 +103,7 @@ class SelectorLibrary:
             ),
             gs.Selector.BIG_GAMES: gs.BIG_GAMES,
             gs.Selector.BIRTHDAY_GAMES: gs.BIRTHDAY_GAMES,
+            gs.Selector.LUKE_BIRTHDAY_GAMES: gs.LUKE_BIRTHDAY_GAMES,
             gs.Selector.BOOMER_SHOOTERS: gs.get_multi_genre_selector(
                 [
                     ExcelGenre.FIRST_PERSON_ACTION,
@@ -100,6 +118,7 @@ class SelectorLibrary:
                 [ExcelGenre.COMPILATION, ExcelGenre.MINIGAME_COLLECTION],
                 gs.Selector.COLLECTIONS.value,
             ),
+            gs.Selector.COLOR: gs.get_color_selector(self._data_provider),
             gs.Selector.COMPLETED_GAMES_ORDERING: gs.get_completed_ordering_selector(
                 self._data_provider
             ),
@@ -115,6 +134,9 @@ class SelectorLibrary:
             gs.Selector.DAD_GAMES: gs.DAD_GAMES,
             gs.Selector.DELISTED_GAMES: gs.DELISTED_GAMES,
             gs.Selector.DLCS: gs.DLCS,
+            gs.Selector.EASY_GAMES: gs.get_difficulty_selector(
+                [1, 2], gs.Selector.EASY_GAMES.value
+            ),
             gs.Selector.FAN_TRANSLATIONS: gs.FAN_TRANSLATIONS,
             gs.Selector.FAVORITES: gs.get_favorites_selector(self._data_provider),
             gs.Selector.FIGHTING_GAMES: gs.get_genre_selector(
@@ -141,10 +163,16 @@ class SelectorLibrary:
             gs.Selector.HACK_AND_SLASH: gs.get_genre_selector(
                 ExcelGenre.HACK_AND_SLASH, gs.Selector.HACK_AND_SLASH.value
             ),
+            gs.Selector.HARD_GAMES: gs.get_difficulty_selector(
+                [4], gs.Selector.HARD_GAMES.value
+            ),
             gs.Selector.HIGHEST_PRIORITY_PLATFORMS: gs.HIGHEST_PRIORITY_PLATFORMS,
             gs.Selector.HIGH_CRITIC_RATINGS: gs.HIGH_CRITIC_RATINGS,
             gs.Selector.HIGH_PRIORITY_RATINGS: gs.HIGH_PRIORITY_RATINGS,
             gs.Selector.HIGH_USER_RATINGS: gs.HIGH_USER_RATINGS,
+            gs.Selector.HLTB_MISMATCH: gs.get_hltb_mismatch_selector(
+                self._data_provider
+            ),
             gs.Selector.HORROR_GAMES: gs.get_horror_games_selector(
                 self._data_provider,
             ),
@@ -166,6 +194,9 @@ class SelectorLibrary:
                     ExcelGenre.MMORPG,
                 ],
                 gs.Selector.JRPG.value,
+            ),
+            gs.Selector.LARGEST_PLAYTIME_DIFFERENCES: gs.get_largest_playtime_differences_selector(
+                self._data_provider
             ),
             gs.Selector.LARGEST_RATING_DIFFERENCES: gs.get_largest_rating_differences_selector(
                 self._data_provider
@@ -210,17 +241,27 @@ class SelectorLibrary:
                 self._data_provider,
                 lambda g: g.platform,
                 gs.Selector.MOST_PLAYED_PLATFORMS.value,
+                include_platform=False,
             ),
             gs.Selector.MOST_PLAYED_YEARS: gs.get_most_played_selector(
                 self._data_provider,
                 lambda g: g.release_year,
                 gs.Selector.MOST_PLAYED_YEARS.value,
             ),
+            gs.Selector.NEXT_PER_FRANCHISE: gs.get_next_per_franchise_selector(
+                self._data_provider
+            ),
             gs.Selector.NO_ESTIMATED_PLAYTIME: gs.NO_ESTIMATED_PLAYTIME,
+            gs.Selector.NO_OUTPUT_MATCHES: gs.get_no_output_matches_selector(
+                self._data_provider
+            ),
             gs.Selector.NON_DOWNLOADED_GAMES: gs.get_non_downloaded_games_selector(
                 self._data_provider
             ),
             gs.Selector.NON_STEAM: gs.NON_STEAM,
+            gs.Selector.NORMAL_DIFFICULTY: gs.get_difficulty_selector(
+                [3], gs.Selector.NORMAL_DIFFICULTY.value
+            ),
             gs.Selector.NOW_PLAYING: gs.get_now_playing_selector(
                 self._data_provider, self._mode
             ),
@@ -264,6 +305,8 @@ class SelectorLibrary:
                 custom_grouping_sort=lambda kvp: kvp[1][-1].game.date_added
                 or datetime.datetime.max,
                 custom_grouping_sort_reverse=True,
+                challenge_start=datetime.datetime(2025, 4, 18),
+                times_completed=1,
             ),
             gs.Selector.ONE_PER_ADDED_DATE_CHALLENGE_COMPLETIONS: gs.get_one_per_criteria_challenge_selector(
                 "Added Date",
@@ -283,6 +326,7 @@ class SelectorLibrary:
                 or datetime.datetime.max,
                 custom_grouping_sort_reverse=True,
                 completions=True,
+                challenge_start=datetime.datetime(2025, 4, 18),
             ),
             gs.Selector.ONE_PER_ALPHABET_CHALLENGE: gs.get_one_per_criteria_challenge_selector(
                 "Letter", self._data_provider, gs.get_alphabetical_first_letter
@@ -377,7 +421,6 @@ class SelectorLibrary:
                 ),
                 completions=True,
             ),
-            # Completed 2 times
             gs.Selector.ONE_PER_PERCENTILE_CHALLENGE: gs.get_one_per_criteria_challenge_selector(
                 "Percentile",
                 self._data_provider,
@@ -387,6 +430,7 @@ class SelectorLibrary:
                     kvp[1][-1].game
                 ).value,
                 custom_grouping_sort_reverse=True,
+                times_completed=2,
             ),
             gs.Selector.ONE_PER_PERCENTILE_CHALLENGE_COMPLETIONS: gs.get_one_per_criteria_challenge_selector(
                 "Percentile",
@@ -514,12 +558,12 @@ class SelectorLibrary:
                 custom_grouping_sort=lambda kvp: int(kvp[1][0].game.purchase_price),
                 completions=True,
             ),
-            # Completed 1 time
             gs.Selector.ONE_PER_RATING_CHALLENGE: gs.get_one_per_criteria_challenge_selector(
                 "Rating",
                 self._data_provider,
                 lambda g: f"{math.floor(g.combined_rating * 10) * 10}%",
                 challenge_start=datetime.datetime(2025, 2, 8),
+                times_completed=1,
             ),
             gs.Selector.ONE_PER_RATING_CHALLENGE_COMPLETIONS: gs.get_one_per_criteria_challenge_selector(
                 "Rating",
@@ -588,6 +632,9 @@ class SelectorLibrary:
                 games_override=self._data_provider.get_played_games(),
                 completions=True,
             ),
+            gs.Selector.OUTPUT_MATCH_RATE: gs.get_output_match_rate_selector(
+                self._data_provider
+            ),
             gs.Selector.PALINDROMES: gs.PALINDROME_GAMES,
             gs.Selector.PERCENTILES: gs.get_percentiles_selector(self._data_provider),
             gs.Selector.PHYSICAL_GAMES: gs.PHYSICAL_GAMES,
@@ -607,6 +654,9 @@ class SelectorLibrary:
                 gs.Selector.POINT_AND_CLICK_GAMES.value,
             ),
             gs.Selector.POTENTIAL_DUPLICATES: gs.POTENTIAL_DUPLICATES,
+            gs.Selector.PRICE_DIFFERENCE: gs.get_price_difference_selector(
+                self._data_provider
+            ),
             gs.Selector.PURCHASE_TO_COMPLETION_GAPS: gs.get_purchase_to_completion_gaps_selector(
                 self._data_provider
             ),
@@ -744,6 +794,9 @@ class SelectorLibrary:
                 gs.Selector.VEHICLE_BASED_GAMES.value,
             ),
             gs.Selector.VERY_BAD_GAMES: gs.VERY_BAD_GAMES,
+            gs.Selector.VERY_HARD_GAMES: gs.get_difficulty_selector(
+                [5], gs.Selector.VERY_HARD_GAMES.value
+            ),
             gs.Selector.VERY_POSITIVE_GAMES: gs.VERY_POSITIVE_GAMES,
             gs.Selector.VIRTUAL_CONSOLE: gs.VIRTUAL_CONSOLE,
             gs.Selector.VISUAL_NOVELS: gs.VISUAL_NOVELS,
@@ -766,51 +819,19 @@ class SelectorLibrary:
         self._library[gs.Selector.SELECTORS_BY_PLATFORM] = (
             self.__get_selectors_by_condition(gs.Selector.SELECTORS_BY_PLATFORM.value)
         )
+        # self._library[gs.Selector.MOST_COMMONLY_SELECTED] = (
+        #     self.__get_most_commonly_selected()
+        # )
 
     def __get_top_by_selector(self) -> GameSelector:
-        except_selectors: Set[gs.Selector] = set(
-            [
-                gs.Selector.COMPLETED_VALUES,
-                gs.Selector.GAMES_ON_ORDER,
-                gs.Selector.LARGEST_RATING_DIFFERENCES,
-                gs.Selector.MISSPELLINGS,
-                gs.Selector.MOST_PLAYED_FRANCHISES,
-                gs.Selector.MOST_PLAYED_GENRES,
-                gs.Selector.NOW_PLAYING,
-                gs.Selector.ONE_PER_ALPHABET_CHALLENGE,
-                gs.Selector.ONE_PER_ALPHABET_CHALLENGE_COMPLETIONS,
-                gs.Selector.ONE_PER_FAN_TRANSLATION_CHALLENGE,
-                gs.Selector.ONE_PER_FAN_TRANSLATION_CHALLENGE_COMPLETIONS,
-                gs.Selector.ONE_PER_FRANCHISE_CONTENDER_CHALLENGE,
-                gs.Selector.ONE_PER_FRANCHISE_CONTENDER_CHALLENGE_COMPLETIONS,
-                gs.Selector.ONE_PER_GENRE_CHALLENGE,
-                gs.Selector.ONE_PER_GENRE_CHALLENGE_COMPLETIONS,
-                gs.Selector.ONE_PER_PERCENTILE_CHALLENGE,
-                gs.Selector.ONE_PER_PERCENTILE_CHALLENGE_COMPLETIONS,
-                gs.Selector.ONE_PER_PLATFORM_CHALLENGE,
-                gs.Selector.ONE_PER_PLATFORM_CHALLENGE_COMPLETIONS,
-                gs.Selector.ONE_PER_PLATFORM_CHALLENGE_UNPLAYABLE,
-                gs.Selector.ONE_PER_PLAYTIME_CHALLENGE,
-                gs.Selector.ONE_PER_PLAYTIME_CHALLENGE_COMPLETIONS,
-                gs.Selector.ONE_PER_RATING_CHALLENGE,
-                gs.Selector.ONE_PER_RATING_CHALLENGE_COMPLETIONS,
-                gs.Selector.ONE_PER_REGION_CHALLENGE,
-                gs.Selector.ONE_PER_REGION_CHALLENGE_COMPLETIONS,
-                gs.Selector.ONE_PER_YEAR_CHALLENGE,
-                gs.Selector.ONE_PER_YEAR_CHALLENGE_COMPLETIONS,
-                gs.Selector.PLAYED_PURCHASES,
-                gs.Selector.POTENTIAL_DUPLICATES,
-                gs.Selector.PURCHASE_TO_COMPLETION_GAPS,
-                gs.Selector.QUARTERLY_SPEND,
-            ]
-        )
-
         def get_selections(games: List[ExcelGame]) -> List[ExcelGame]:
             returned_games: List[ExcelGame] = []
             for selector_type, selector in self._library.items():
-                if selector.skip_unless_specified or selector_type in except_selectors:
+                if selector.skip_unless_specified or selector.run_on_modes == set(
+                    [PickerMode.ALL]
+                ):
                     continue
-                selection = selector.select(games)
+                selection = selector.select_groups(games).flatten()
                 returned_games.extend(
                     _g.get_copy_with_metadata(selector_type.value)
                     for _g in sorted(
@@ -826,7 +847,6 @@ class SelectorLibrary:
             grouping=GameGrouping(lambda g: g.group_metadata),
             sort=lambda pg: (pg.game.combined_rating or 0),
             reverse_sort=True,
-            skip_unless_specified=True,
             run_on_modes=set([PickerMode.ALL]),
         )
 
@@ -893,6 +913,40 @@ class SelectorLibrary:
             run_on_modes=set([PickerMode.ALL]),
             grouping=_grouping,
             include_platform=include_platform,
+        )
+
+    def __get_most_commonly_selected(self) -> GameSelector:
+        def get_selections(games: List[ExcelGame]) -> List[ExcelGame]:
+            selected_counts: Dict[ExcelGame, int] = {}
+            for selector in self._library.values():
+                if selector.skip_unless_specified or selector.name in set(
+                    [
+                        gs.Selector.MOST_COMMONLY_SELECTED.value,
+                        gs.Selector.SELECTORS_BY_GENRE.value,
+                        gs.Selector.SELECTORS_BY_PLATFORM.value,
+                    ]
+                ):
+                    continue
+                selection = selector.select_groups(games).flatten()
+
+                for game in selection:
+                    selected_counts[game] = selected_counts.get(game, 0) + 1
+
+            return [
+                g.get_copy_with_metadata(selected_counts[g])
+                for g in sorted(
+                    selected_counts, key=lambda g: selected_counts[g], reverse=True
+                )
+            ]
+
+        return GameSelector(
+            get_selections,
+            name=gs.Selector.MOST_COMMONLY_SELECTED.value,
+            grouping=GameGrouping(lambda _: "Most Commonly Selected", group_size=100),
+            sort=lambda pg: pg.game.group_metadata,
+            reverse_sort=True,
+            run_on_modes=set([PickerMode.ALL]),
+            custom_suffix=lambda g: f" ({g.group_metadata} times)",
         )
 
     def update_mode(self, mode: PickerMode):

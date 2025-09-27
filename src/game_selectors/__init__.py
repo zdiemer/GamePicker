@@ -16,6 +16,8 @@ from .characteristics.subscriptions import SUBSCRIPTIONS
 from .characteristics.untranslated_games import get_untranslated_games_selector
 from .characteristics.virtual_console import VIRTUAL_CONSOLE
 from .characteristics.vr import VR
+from .characteristics.color import get_color_selector
+from .characteristics.difficulty import get_difficulty_selector
 
 # Companies
 from .companies.aaa_games import AAA_GAMES
@@ -34,7 +36,7 @@ from .genre.genre_selectors import get_genre_selector, get_multi_genre_selector
 from .genre.visual_novels import VISUAL_NOVELS
 
 # Personal
-from .personal.birthday_games import BIRTHDAY_GAMES
+from .personal.birthday_games import BIRTHDAY_GAMES, LUKE_BIRTHDAY_GAMES
 from .personal.dad_games import DAD_GAMES
 from .personal.favorites import get_favorites_selector
 from .personal.franchise_playthroughs import (
@@ -76,6 +78,7 @@ from .progress.platform_progress import get_platform_progress_selector
 from .progress.unplayed_purchases import UNPLAYED_PURCHASES
 from .progress.unplayed_wishlisted import get_unplayed_wishlisted_selector
 from .progress.zero_percent import get_zero_percent_selector
+from .progress.next_per_franchise import get_next_per_franchise_selector
 
 # Rating
 from .rating.best_by_selectors import get_best_by_selector
@@ -90,9 +93,10 @@ from .rating.top_games import TOP_GAMES
 from .rating.underprioritized import UNDERPRIORITIZED
 from .rating.very_bad_games import VERY_BAD_GAMES
 from .rating.very_positive_games import VERY_POSITIVE_GAMES
+from .rating.best_by_data_source import BEST_BY_DATA_SOURCE_SELECTOR
 
 # Statistics
-from .statistics.completed_values import get_completed_values_selector
+from .statistics.completed_values import get_completed_values_selector, get_priced_games
 from .statistics.games_on_order import get_games_on_order_selector
 from .statistics.largest_rating_differences import (
     get_largest_rating_differences_selector,
@@ -113,6 +117,14 @@ from .statistics.most_concurrent_playthroughs import (
     get_most_concurrent_playthroughs_selector,
 )
 from .statistics.longest_playthroughs import get_longest_playthroughs_selector
+from .statistics.hltb_mismatch import get_hltb_mismatch_selector
+from .statistics.no_output_matches import get_no_output_matches_selector
+from .statistics.output_match_rate import get_output_match_rate_selector
+from .statistics.price_difference import get_price_difference_selector
+from .statistics.largest_playtime_differences import (
+    get_largest_playtime_differences_selector,
+)
+from .statistics.average_playtime_per_day import get_average_playtime_per_day_selector
 
 # Validations
 from .validations.completed_ordering import get_completed_ordering_selector

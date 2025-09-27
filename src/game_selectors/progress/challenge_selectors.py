@@ -39,11 +39,14 @@ def get_platform_completion_id(game: ExcelGame) -> str:
         return f"{game.platform.value} (Non-MAME)"
 
     # Famicom / NES
-    if game.platform == ExcelPlatform.NES:
-        if game.release_region == ExcelRegion.JAPAN:
-            return f"{game.platform.value} (Famicom)"
-        if game.notes == "Bootleg":
-            return f"{game.platform.value} (Bootleg)"
+    if game.platform == ExcelPlatform.NES and game.release_region == ExcelRegion.JAPAN:
+        return f"{game.platform.value} (Famicom)"
+
+    if (
+        game.platform in (ExcelPlatform.NES, ExcelPlatform.GAME_BOY_COLOR)
+        and game.notes == "Bootleg"
+    ):
+        return f"{game.platform.value} (Bootleg)"
 
     # Super Famicom / SNES / Nintendo Power
     if (
@@ -56,6 +59,14 @@ def get_platform_completion_id(game: ExcelGame) -> str:
     if game.subscription_service is not None:
         vr_str = " (VR)" if game.vr else ""
         return f"{game.platform.value}{vr_str} ({game.subscription_service})"
+
+    # Digital / Retail Xbox
+    if game.platform == ExcelPlatform.XBOX:
+        if game.owned_format in (ExcelOwnedFormat.BOTH, ExcelOwnedFormat.PHYSICAL):
+            return f"{game.platform.value} ({game.release_region.value} Retail)"
+        if game.owned_format == ExcelOwnedFormat.DIGITAL:
+            return f"{game.platform.value} (Digital)"
+        return f"{game.platform.value} (Emulation)"
 
     # Digital / Retail Xbox 360 / XBLIG
     if game.platform == ExcelPlatform.XBOX_360:
@@ -145,7 +156,10 @@ def get_platform_completion_id(game: ExcelGame) -> str:
         return f"{game.platform.value} (Emulation)"
 
     # Digital / Retail Switch
-    if game.platform == ExcelPlatform.NINTENDO_SWITCH:
+    if game.platform in (
+        ExcelPlatform.NINTENDO_SWITCH,
+        ExcelPlatform.NINTENDO_SWITCH_2,
+    ):
         if game.owned_format in (ExcelOwnedFormat.BOTH, ExcelOwnedFormat.PHYSICAL):
             return f"{game.platform.value} ({game.release_region.value} Retail)"
         if game.owned_format == ExcelOwnedFormat.DIGITAL:
@@ -253,6 +267,7 @@ def get_one_per_criteria_challenge_selector(
         Callable[[Tuple[Any, List[PickedGame]]], Any]
     ] = None,
     custom_grouping_sort_reverse: bool = False,
+    times_completed: int = 0,
 ) -> GameSelector:
     name = f"One Per {criteria_name.title()} Challenge"
 
@@ -279,17 +294,41 @@ def get_one_per_criteria_challenge_selector(
 
         return selected
 
-    def get_description(groups: GameGroups, completions: bool) -> str:
-        rem_or_completed = "Remaining to Complete" if not completions else "Completed"
+    def get_description(
+        groups: GameGroups, _completions: bool, _times_completed: int
+    ) -> str:
+        rem_or_completed = "Remaining to Complete" if not _completions else "Completed"
         pick_one = (
             f"\nPick one game per {criteria_name.lower()}, five options shown."
-            if not completions
+            if not _completions
+            else ""
+        )
+
+        completed_times = (
+            f"\n\nCompleted one per {criteria_name.lower()} challenge {_times_completed} time{'s' if _times_completed != 1 else ''}!"
+            if _times_completed > 0
+            else ""
+        )
+
+        completed_count = len(
+            list(
+                filter(
+                    lambda g: g.date_completed is not None
+                    and g.date_completed.date() > challenge_start.date(),
+                    data_provider.get_played_games(),
+                )
+            )
+        )
+
+        completed_since_start = (
+            f"\n\n{completed_count} game{'s' if completed_count != 1 else ''} completed since the challenge started!"
+            if not _completions
             else ""
         )
 
         return (
             f"**{len(groups)} {criteria_name.title()}{'s' if len(groups) != 1 else ''}"
-            f" {rem_or_completed}**{pick_one}"
+            f" {rem_or_completed}**{pick_one}{completed_times}{completed_since_start}"
         )
 
     return GameSelector(
@@ -304,7 +343,9 @@ def get_one_per_criteria_challenge_selector(
             reverse=custom_grouping_sort_reverse,
         ),
         include_platform=criteria_name != "Platform",
-        get_description=lambda groups: get_description(groups, completions),
+        get_description=lambda groups: get_description(
+            groups, completions, times_completed
+        ),
         sort=lambda g: (
             g.game.combined_rating if not completions else g.game.date_completed
         ),

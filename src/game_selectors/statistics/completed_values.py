@@ -11,10 +11,12 @@ CONDIITON_MAPPING = {
     ExcelOwnedCondition.COMPLETE: "CIB",
     ExcelOwnedCondition.GAME_ONLY: "Loose",
     ExcelOwnedCondition.GAME_AND_BOX_ONLY: "Loose",
+    ExcelOwnedCondition.CASE_ONLY: "Box",
+    ExcelOwnedCondition.MANUAL_ONLY: "Manual",
 }
 
 
-def completed_values(games: List[ExcelGame]) -> List[ExcelGame]:
+def get_priced_games(games: List[ExcelGame]) -> List[ExcelGame]:
     gameeye_output = OutputParser.get_source_output(DataSource.GAMEYE)
     priced_games: List[ExcelGame] = []
 
@@ -28,8 +30,8 @@ def completed_values(games: List[ExcelGame]) -> List[ExcelGame]:
         ):
             continue
 
-        game.group_metadata = float(
-            gameeye_output[game.hash_id].match_info["price"][owned_type]
+        game = game.get_copy_with_metadata(
+            float(gameeye_output[game.hash_id].match_info["price"][owned_type])
         )
         priced_games.append(game)
 
@@ -38,7 +40,8 @@ def completed_values(games: List[ExcelGame]) -> List[ExcelGame]:
 
 def get_completed_values_selector(data_provider: DataProvider) -> GameSelector:
     return GameSelector(
-        completed_values,
+        get_priced_games,
+        name="Completed Values",
         run_on_modes=set([PickerMode.ALL]),
         games=list(
             filter(

@@ -90,7 +90,7 @@ MOBY_NAME_TO_SHEET_NAME: Dict[str, Set[ExcelPlatform] | ExcelPlatform] = {
     "laseractive": ExcelPlatform.PIONEER_LASERACTIVE,
     "lynx": ExcelPlatform.ATARI_LYNX,
     "macintosh": ExcelPlatform.MAC_OS,
-    "mainframe": ExcelPlatform.PDP_10,
+    "mainframe": ExcelPlatform.MAINFRAME,
     "mattel aquarius": ExcelPlatform.MATTEL_AQUARIUS,
     "microvision": ExcelPlatform.MICROVISION,
     "mophun": ExcelPlatform.MOPHUN,

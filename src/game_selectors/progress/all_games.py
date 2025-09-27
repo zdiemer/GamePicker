@@ -23,4 +23,5 @@ ALL_GAMES = GameSelector(
         reverse=True,
     ),
     run_on_modes=set([PickerMode.ALL]),
+    include_in_picks=False,
 )

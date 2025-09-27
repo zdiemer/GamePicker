@@ -207,6 +207,12 @@ class GameGrouping:
             g2.combined_rating or 0
         ) and g1.normal_title > g2.normal_title:
             return g1
+        if (
+            (g1.combined_rating or 0) == (g2.combined_rating or 0)
+            and g1.normal_title == g2.normal_title
+            and g1.platform.value > g2.platform.value
+        ):
+            return g1
 
         return g2
 

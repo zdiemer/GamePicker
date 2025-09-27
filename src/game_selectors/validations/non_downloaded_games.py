@@ -297,8 +297,8 @@ def non_downloaded_games(
             folders.append("E:\\Emulation\\Other\\Palm OS")
         if platform == ExcelPlatform.PC_FX:
             folders.append("E:\\Emulation\\Other\\PC-FX")
-        if platform == ExcelPlatform.PDP_10:
-            folders.append("E:\\Emulation\\Other\\PDP-10")
+        if platform == ExcelPlatform.MAINFRAME:
+            folders.append("E:\\Emulation\\Other\\Mainframe")
         if platform == ExcelPlatform.PHILIPS_CD_I:
             folders.append("E:\\Emulation\\Other\\Philips CD-i")
         if platform == ExcelPlatform.SHARP_X1:

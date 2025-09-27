@@ -30,10 +30,15 @@ class GamesPicker:
     __BASE_OUTPUT_PATH = "picker_out"
     __BASE_DROPBOX_FOLDER = "C:\\Users\\zachd\\Dropbox\\Video Game Lists"
 
-    def __init__(self, mode: PickerMode = PickerMode.ALL, no_cache: bool = False):
+    def __init__(
+        self,
+        mode: PickerMode = PickerMode.ALL,
+        no_cache: bool = False,
+        load_sources: bool = True,
+    ):
         self._mode = mode
         self._no_cache = no_cache
-        self._data_provider = DataProvider(self._no_cache)
+        self._data_provider = DataProvider(self._no_cache, load_sources)
         self._library = SelectorLibrary(self._data_provider, self._mode)
 
     def __cleanup(self):
@@ -197,9 +202,9 @@ class GamesPicker:
                             continue
 
                         if line.startswith("-"):
-                            print(LoggingDecorator.as_color(line, LoggingColor.RED))
+                            print(LoggingDecorator.color(line, LoggingColor.RED))
                         elif line.startswith("+"):
-                            print(LoggingDecorator.as_color(line, LoggingColor.GREEN))
+                            print(LoggingDecorator.color(line, LoggingColor.GREEN))
         elif not any(output) and write_output and os.path.isfile(file_name):
             os.remove(file_name)
             print(f"Completed {file_name}!")
@@ -312,7 +317,7 @@ class GamesPicker:
             (
                 str(i)
                 if p + 1 != i
-                else LoggingDecorator.as_color(str(i), LoggingColor.GREEN)
+                else LoggingDecorator.color(str(i), LoggingColor.GREEN)
             )
             for i in range(1, min(6, pages + 1))
         )
@@ -325,13 +330,13 @@ class GamesPicker:
                 (
                     str(i)
                     if p + 1 != i
-                    else LoggingDecorator.as_color(str(i), LoggingColor.GREEN)
+                    else LoggingDecorator.color(str(i), LoggingColor.GREEN)
                 )
                 for i in range(max(6, p - 1), min(74, p + 4))
             )
             highlighted_slice = f"{leading_elip}{slice_port}{trailing_elip}"
         if pages > 5:
-            last_pages = f"{' '.join(str(i) if p + 1 != i else LoggingDecorator.as_color(str(i), LoggingColor.GREEN) for i in range(max(6, pages - 5), pages + 1))}"
+            last_pages = f"{' '.join(str(i) if p + 1 != i else LoggingDecorator.color(str(i), LoggingColor.GREEN) for i in range(max(6, pages - 5), pages + 1))}"
         if not any(first_pages):
             first_pages = "No Results"
         print(f"<{first_pages}{highlighted_slice}{last_pages}>")

@@ -13,10 +13,12 @@ from clients import (
 )
 from excel_game import ExcelGame
 from excel_loader import ExcelLoader
+from game_match import DataSource
 from match_validator import MatchValidator
 
 from excel_backed_cache import ExcelBackedCache
 from excel_filter import ExcelFilter
+from output_parser import OutputParser
 
 
 class Percentile(Enum):
@@ -54,7 +56,7 @@ class DataProvider:
     __MOBY_GAMES_CACHE_FILE_NAME = "mbcache.pkl"
     __GIANT_BOMB_CACHE_FILE_NAME = "gbcache.pkl"
 
-    def __init__(self, no_cache: bool = False):
+    def __init__(self, no_cache: bool = False, load_sources: bool = True):
         self._cache = ExcelBackedCache()
         self._validator = MatchValidator()
         self._bcclient = BackloggdClient(self._validator)
@@ -136,11 +138,131 @@ class DataProvider:
             Percentile.P99: p99,
         }
 
-        for g in self._games:
-            if g.game_platform_hash_id in self._name_collisions:
-                self._name_collisions[g.game_platform_hash_id] += 1
-            else:
-                self._name_collisions[g.game_platform_hash_id] = 1
+        if load_sources:
+            print("Loading Data Sources")
+            gamefaqs_output = OutputParser.get_source_output(DataSource.GAME_FAQS)
+            hltb_output = OutputParser.get_source_output(DataSource.HLTB)
+            metacritic_output = OutputParser.get_source_output(DataSource.METACRITIC)
+            mobygames_output = OutputParser.get_source_output(DataSource.MOBY_GAMES)
+            vg_chartz_output = OutputParser.get_source_output(DataSource.VG_CHARTZ)
+            vndb_output = OutputParser.get_source_output(DataSource.VNDB)
+            steam_output = OutputParser.get_source_output(DataSource.STEAM)
+
+            for g in self._games:
+                if g.game_platform_hash_id in self._name_collisions:
+                    self._name_collisions[g.game_platform_hash_id] += 1
+                else:
+                    self._name_collisions[g.game_platform_hash_id] = 1
+
+                if g.gamefaqs_rating is None:
+                    if g.hash_id in gamefaqs_output:
+                        g_score = gamefaqs_output[g.hash_id].match_info.user_rating
+
+                        if g_score is not None and g_score > 0:
+                            g.gamefaqs_rating = g_score / 5
+                    elif g.hash_id in steam_output:
+                        query_summary = (
+                            steam_output[g.hash_id]
+                            .match_info["app_reviews"]
+                            .get("query_summary")
+                        )
+
+                        if (
+                            query_summary is not None
+                            and "total_positive" in query_summary
+                            and "total_reviews" in query_summary
+                            and query_summary["total_reviews"] > 0
+                        ):
+                            g.gamefaqs_rating = (
+                                query_summary["total_positive"]
+                                / query_summary["total_reviews"]
+                            )
+                    elif g.hash_id in metacritic_output:
+                        mu_score = (
+                            metacritic_output[g.hash_id]
+                            .match_info.get("users", {})
+                            .get("score")
+                        )
+
+                        if mu_score is not None and mu_score > 0:
+                            g.gamefaqs_rating = mu_score / 100
+                    elif g.hash_id in mobygames_output:
+                        mo_score = mobygames_output[g.hash_id].match_info.moby_score
+
+                        if mo_score is not None and mo_score > 0:
+                            g.gamefaqs_rating = mo_score / 10
+                    elif g.hash_id in vg_chartz_output:
+                        vg_score = vg_chartz_output[g.hash_id].match_info.get(
+                            "user_score"
+                        )
+
+                        if vg_score is not None and vg_score > 0:
+                            g.gamefaqs_rating = vg_score / 10
+                    elif g.hash_id in vndb_output:
+                        vn_score = vndb_output[g.hash_id].match_info.get("rating")
+
+                        if vn_score is not None and vn_score > 0:
+                            g.gamefaqs_rating = vn_score / 100
+
+                if g.metacritic_rating is None:
+                    if g.hash_id in metacritic_output:
+                        m_score = (
+                            metacritic_output[g.hash_id]
+                            .match_info.get("users", {})
+                            .get("score")
+                        )
+
+                        if m_score is not None and m_score > 0:
+                            g.metacritic_rating = m_score / 100
+                    elif g.hash_id in steam_output:
+                        sc_score = (
+                            steam_output[g.hash_id]
+                            .match_info["app_details"]
+                            .get("data", {})
+                            .get("metacritic", {})
+                            .get("score")
+                        )
+
+                        if sc_score is not None and sc_score > 0:
+                            g.metacritic_rating = sc_score / 100
+
+                if not g.completed and g.estimated_playtime is None:
+                    if g.hash_id in hltb_output:
+                        playtime_min = (
+                            hltb_output[g.hash_id].match_info.playtime_main_seconds
+                            // 60
+                        )
+
+                        if playtime_min > 60:
+                            rem = playtime_min % 60
+                            playtime_min -= rem
+                            playtime_min += 30 * round(rem / 30)
+
+                        if playtime_min is not None and playtime_min > 0:
+                            g.estimated_playtime = playtime_min / 60
+                    elif g.hash_id in gamefaqs_output:
+                        playtime_hours = gamefaqs_output[
+                            g.hash_id
+                        ].match_info.user_length_hours
+
+                        if playtime_hours is not None and playtime_hours > 0:
+                            playtime_hours = playtime_hours - (playtime_hours % 0.5)
+                            g.estimated_playtime = playtime_hours
+                    elif g.hash_id in vndb_output:
+                        playtime_min = vndb_output[g.hash_id].match_info.get(
+                            "length_minutes"
+                        )
+
+                        if playtime_min is not None and playtime_min > 0:
+                            playtime_min = playtime_min // 60
+
+                            if playtime_min > 60:
+                                rem = playtime_min % 60
+                                playtime_min -= rem
+                                playtime_min += 30 * round(rem / 30)
+
+                            if playtime_min > 0:
+                                g.estimated_playtime = playtime_min / 60
 
         self._played_games = list(
             filter(

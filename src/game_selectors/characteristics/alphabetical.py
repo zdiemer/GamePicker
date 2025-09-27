@@ -16,4 +16,5 @@ ALPHABETICAL = GameSelector(
         )
     ),
     run_on_modes=set([PickerMode.ALL]),
+    include_in_picks=False,
 )
