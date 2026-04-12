@@ -1,5 +1,6 @@
-from picker_constants import PLATFORM_SHORT_NAMES
 from excel_game import ExcelGame
+
+from picker_constants import PLATFORM_SHORT_NAMES
 
 
 class PickedGame:

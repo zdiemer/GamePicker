@@ -1,9 +1,9 @@
-from .selector_enums import Selector
-
 # Characteristics
 from .characteristics.alphabetical import ALPHABETICAL
+from .characteristics.color import get_color_selector
 from .characteristics.coop_games import COOP_GAMES
 from .characteristics.delisted_games import DELISTED_GAMES
+from .characteristics.difficulty import get_difficulty_selector
 from .characteristics.dlcs import DLCS
 from .characteristics.fan_translations import FAN_TRANSLATIONS
 from .characteristics.freeware import FREEWARE
@@ -16,8 +16,6 @@ from .characteristics.subscriptions import SUBSCRIPTIONS
 from .characteristics.untranslated_games import get_untranslated_games_selector
 from .characteristics.virtual_console import VIRTUAL_CONSOLE
 from .characteristics.vr import VR
-from .characteristics.color import get_color_selector
-from .characteristics.difficulty import get_difficulty_selector
 
 # Companies
 from .companies.aaa_games import AAA_GAMES
@@ -45,20 +43,22 @@ from .personal.franchise_playthroughs import (
 )
 from .personal.max_priority import MAX_PRIORITY
 from .personal.physical_games import PHYSICAL_GAMES
+from .personal.purchase_backlog import get_purchase_backlog_selector
+from .personal.replay_candidates import get_replay_candidates_selector
 from .personal.zach_games import ZACH_GAMES
 
 # Playtime
 from .playtime.longest_games import LONGEST_GAMES
 from .playtime.playtime_selectors import (
-    get_playtime_selector,
     NO_ESTIMATED_PLAYTIME,
     PlaytimeBounds,
+    get_playtime_selector,
 )
 from .playtime.shortest_games import (
-    get_shortest_by_selector,
     SHORTEST_GAMES,
     SHORTEST_OVERALL,
     SHORTEST_OVERALL_UNCOMMON_GENRE,
+    get_shortest_by_selector,
 )
 from .playtime.under_1_hour_uncommon_genre import UNDER_1_HOUR_UNCOMMON_GENRE
 
@@ -70,39 +70,54 @@ from .progress.challenge_selectors import (
     get_platform_completion_id,
     get_playtime,
     get_top_developers,
+    group_by_data_source,
 )
 from .progress.incomplete_collections import get_incomplete_collections_selector
+from .progress.next_per_franchise import get_next_per_franchise_selector
 from .progress.now_playing import get_now_playing_selector
 from .progress.percentiles import get_percentiles_selector, group_by_percentile
 from .progress.platform_progress import get_platform_progress_selector
 from .progress.unplayed_purchases import UNPLAYED_PURCHASES
 from .progress.unplayed_wishlisted import get_unplayed_wishlisted_selector
 from .progress.zero_percent import get_zero_percent_selector
-from .progress.next_per_franchise import get_next_per_franchise_selector
+from .rating.best_by_data_source import BEST_BY_DATA_SOURCE_SELECTOR
 
 # Rating
 from .rating.best_by_selectors import get_best_by_selector
 from .rating.best_companies_by_metacritic import BEST_COMPANIES_BY_METACRITIC
 from .rating.best_years_by_metacritic import BEST_YEARS_BY_METACRITIC
 from .rating.big_games import BIG_GAMES
-from .rating.highest_priority_platforms import HIGHEST_PRIORITY_PLATFORMS
 from .rating.high_critic_ratings import HIGH_CRITIC_RATINGS
 from .rating.high_priority_ratings import HIGH_PRIORITY_RATINGS
 from .rating.high_user_ratings import HIGH_USER_RATINGS
+from .rating.highest_priority_platforms import HIGHEST_PRIORITY_PLATFORMS
 from .rating.top_games import TOP_GAMES
+from .rating.top_ten_by_year import get_top_ten_by_year_selector
 from .rating.underprioritized import UNDERPRIORITIZED
 from .rating.very_bad_games import VERY_BAD_GAMES
 from .rating.very_positive_games import VERY_POSITIVE_GAMES
-from .rating.best_by_data_source import BEST_BY_DATA_SOURCE_SELECTOR
+from .selector_enums import Selector
+from .statistics.average_playtime_per_day import get_average_playtime_per_day_selector
 
 # Statistics
 from .statistics.completed_values import get_completed_values_selector, get_priced_games
 from .statistics.games_on_order import get_games_on_order_selector
+from .statistics.hltb_mismatch import get_hltb_mismatch_selector
+from .statistics.largest_playtime_differences import (
+    get_largest_playtime_differences_selector,
+)
 from .statistics.largest_rating_differences import (
     get_largest_rating_differences_selector,
 )
+from .statistics.longest_playthroughs import get_longest_playthroughs_selector
+from .statistics.most_concurrent_playthroughs import (
+    get_most_concurrent_playthroughs_selector,
+)
 from .statistics.most_played_selectors import get_most_played_selector
+from .statistics.no_output_matches import get_no_output_matches_selector
+from .statistics.output_match_rate import get_output_match_rate_selector
 from .statistics.played_purchases import get_played_purchases_selector
+from .statistics.price_difference import get_price_difference_selector
 from .statistics.purchase_to_completion_gaps import (
     get_purchase_to_completion_gaps_selector,
 )
@@ -113,18 +128,6 @@ from .statistics.unowned_pc_games import get_unowned_pc_games_selector
 from .statistics.unplayable_high_priority import get_unplayable_high_priority_selector
 from .statistics.unplayable_low_priority import get_unplayable_low_priority_selector
 from .statistics.will_not_play import get_will_not_play_selector
-from .statistics.most_concurrent_playthroughs import (
-    get_most_concurrent_playthroughs_selector,
-)
-from .statistics.longest_playthroughs import get_longest_playthroughs_selector
-from .statistics.hltb_mismatch import get_hltb_mismatch_selector
-from .statistics.no_output_matches import get_no_output_matches_selector
-from .statistics.output_match_rate import get_output_match_rate_selector
-from .statistics.price_difference import get_price_difference_selector
-from .statistics.largest_playtime_differences import (
-    get_largest_playtime_differences_selector,
-)
-from .statistics.average_playtime_per_day import get_average_playtime_per_day_selector
 
 # Validations
 from .validations.completed_ordering import get_completed_ordering_selector

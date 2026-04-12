@@ -19,7 +19,6 @@ from clients import (
     RateLimit,
     Screenshot,
 )
-
 from excel_game import ExcelPlatform
 from excel_loader import ExcelLoader
 from match_validator import MatchValidator

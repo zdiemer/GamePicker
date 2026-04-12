@@ -1,4 +1,5 @@
 from game_match import DataSource
+
 from game_selector import GameSelector
 from output_parser import OutputParser
 
@@ -11,5 +12,5 @@ AAA_GAMES = GameSelector(
     name="AAA Games",
     sort=lambda g: g.game.group_metadata["total_shipped"],
     reverse_sort=True,
-    custom_suffix=lambda g: f' - {int(g.group_metadata["total_shipped"]):,} units',
+    custom_suffix=lambda g: f" - {int(g.group_metadata['total_shipped']):,} units",
 )

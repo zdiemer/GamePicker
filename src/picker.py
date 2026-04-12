@@ -1,12 +1,11 @@
 import datetime
 import warnings
-
 from typing import List
 
 import click
 
-from picker_enums import PickerMode
 from game_picker import GamesPicker
+from picker_enums import PickerMode
 
 
 @click.command()
@@ -160,10 +159,9 @@ def main(
         return
 
     if update_all:
-        for p in list(PickerMode):
-            gp.with_mode(p).pick_game(
-                selectors, True, no_diff, force=force, markdown=not no_markdown
-            )
+        gp.with_mode(PickerMode.ALL).pick_game(
+            selectors, True, no_diff, force=force, markdown=not no_markdown
+        )
 
         print(f"Took {datetime.datetime.now() - start} to update all outputs.")
         return

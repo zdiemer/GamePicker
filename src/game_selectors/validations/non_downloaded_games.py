@@ -435,11 +435,9 @@ def non_downloaded_games(
 
             for game in p_games:
                 should_check = (
-                    (
-                        game.game.platform == ExcelPlatform.PC
-                        and game.game.digital_platform
-                        in ("Freeware", "DRM Free", "itch.io")
-                    )
+                    game.game.platform == ExcelPlatform.PC
+                    and game.game.digital_platform
+                    in ("Freeware", "DRM Free", "itch.io")
                 ) or game.game.digital_platform == "itch.io"
                 if game.game.owned and not should_check:
                     continue

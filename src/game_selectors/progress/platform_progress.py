@@ -32,7 +32,7 @@ def get_platform_progress_selector(data_provider: DataProvider) -> GameSelector:
     total_platform: Dict[ExcelPlatform | str, int] = {}
 
     def get_progress(
-        kvp: Tuple[ExcelPlatform | str, List[PickedGame]]
+        kvp: Tuple[ExcelPlatform | str, List[PickedGame]],
     ) -> Tuple[float, float]:
         platform, _ = kvp
         played_games = data_provider.get_played_games()
@@ -52,7 +52,7 @@ def get_platform_progress_selector(data_provider: DataProvider) -> GameSelector:
         )
 
     def get_progress_sort(
-        kvp: Tuple[ExcelPlatform, List[PickedGame]]
+        kvp: Tuple[ExcelPlatform, List[PickedGame]],
     ) -> Tuple[float, int, str]:
         num, dem = get_progress(kvp)
         return (num / dem, -(dem - num), str.casefold(str(kvp[0])))

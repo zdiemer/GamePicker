@@ -74,7 +74,7 @@ def get_zero_percent_selector(data_provider: DataProvider) -> GameSelector:
     return GameSelector(
         lambda games: zero_percent(games, data_provider),
         grouping=GameGrouping(
-            lambda g: f'{g.group_metadata.split(":")[0]}s',
+            lambda g: f"{g.group_metadata.split(':')[0]}s",
             subgroupings=[
                 GameGrouping(lambda g: g.group_metadata.split(":")[1].strip())
             ],

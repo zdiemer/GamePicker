@@ -1,6 +1,6 @@
-from typing import Any, Dict, List
 import datetime
 import math
+from typing import Any, Dict, List
 
 from excel_game import (
     ExcelGame,
@@ -9,10 +9,10 @@ from excel_game import (
     TranslationStatus,
 )
 
+import game_selectors as gs
 from data_provider import DataProvider
 from game_grouping import GameGrouping
 from game_selector import GameSelector
-import game_selectors as gs
 from output_parser import OutputParser
 from picked_game import PickedGame
 from picker_enums import PickerMode
@@ -338,6 +338,20 @@ class SelectorLibrary:
                 games_override=self._data_provider.get_played_games(),
                 completions=True,
             ),
+            gs.Selector.ONE_PER_DATA_SOURCE_CHALLENGE: gs.get_one_per_criteria_challenge_selector(
+                "Data Source",
+                self._data_provider,
+                gs.group_by_data_source,
+                skip_unless_specified=True,
+            ),
+            gs.Selector.ONE_PER_DATA_SOURCE_CHALLENGE_COMPLETIONS: gs.get_one_per_criteria_challenge_selector(
+                "Data Source",
+                self._data_provider,
+                gs.group_by_data_source,
+                games_override=self._data_provider.get_played_games(),
+                completions=True,
+                skip_unless_specified=True,
+            ),
             gs.Selector.ONE_PER_FAN_TRANSLATION_CHALLENGE: gs.get_one_per_criteria_challenge_selector(
                 "Fan Translation",
                 self._data_provider,
@@ -425,12 +439,12 @@ class SelectorLibrary:
                 "Percentile",
                 self._data_provider,
                 lambda g: gs.group_by_percentile(g, self._data_provider),
-                challenge_start=datetime.datetime(2025, 2, 5),
+                challenge_start=datetime.datetime(2025, 12, 16),
                 custom_grouping_sort=lambda kvp: self._data_provider.get_percentile_ranking_for_game(
                     kvp[1][-1].game
                 ).value,
                 custom_grouping_sort_reverse=True,
-                times_completed=2,
+                times_completed=3,
             ),
             gs.Selector.ONE_PER_PERCENTILE_CHALLENGE_COMPLETIONS: gs.get_one_per_criteria_challenge_selector(
                 "Percentile",
@@ -438,7 +452,7 @@ class SelectorLibrary:
                 lambda g: gs.group_by_percentile(g, self._data_provider),
                 games_override=self._data_provider.get_played_games(),
                 completions=True,
-                challenge_start=datetime.datetime(2025, 2, 5),
+                challenge_start=datetime.datetime(2025, 12, 16),
                 custom_grouping_sort=lambda kvp: self._data_provider.get_percentile_ranking_for_game(
                     kvp[1][-1].game
                 ).value,
@@ -562,8 +576,8 @@ class SelectorLibrary:
                 "Rating",
                 self._data_provider,
                 lambda g: f"{math.floor(g.combined_rating * 10) * 10}%",
-                challenge_start=datetime.datetime(2025, 2, 8),
-                times_completed=1,
+                challenge_start=datetime.datetime(2026, 1, 9),
+                times_completed=2,
             ),
             gs.Selector.ONE_PER_RATING_CHALLENGE_COMPLETIONS: gs.get_one_per_criteria_challenge_selector(
                 "Rating",
@@ -571,7 +585,7 @@ class SelectorLibrary:
                 lambda g: f"{math.floor(g.combined_rating * 10) * 10}%",
                 games_override=self._data_provider.get_played_games(),
                 completions=True,
-                challenge_start=datetime.datetime(2025, 2, 8),
+                challenge_start=datetime.datetime(2026, 1, 9),
             ),
             gs.Selector.ONE_PER_REGION_CHALLENGE: gs.get_one_per_criteria_challenge_selector(
                 "Region",
@@ -657,6 +671,9 @@ class SelectorLibrary:
             gs.Selector.PRICE_DIFFERENCE: gs.get_price_difference_selector(
                 self._data_provider
             ),
+            gs.Selector.PURCHASE_BACKLOG: gs.get_purchase_backlog_selector(
+                self._data_provider
+            ),
             gs.Selector.PURCHASE_TO_COMPLETION_GAPS: gs.get_purchase_to_completion_gaps_selector(
                 self._data_provider
             ),
@@ -673,6 +690,9 @@ class SelectorLibrary:
             ),
             gs.Selector.RAIL_SHOOTERS: gs.get_genre_selector(
                 ExcelGenre.RAIL_SHOOTER, gs.Selector.RAIL_SHOOTERS.value
+            ),
+            gs.Selector.REPLAY_CANDIDATES: gs.get_replay_candidates_selector(
+                self._data_provider
             ),
             gs.Selector.RUN_AND_GUN: gs.get_genre_selector(
                 ExcelGenre.RUN_AND_GUN, gs.Selector.RUN_AND_GUN.value
@@ -741,6 +761,9 @@ class SelectorLibrary:
                 moby_games_group_ids=[18173],
             ),
             gs.Selector.TOP_GAMES: gs.TOP_GAMES,
+            gs.Selector.TOP_TEN_BY_YEAR: gs.get_top_ten_by_year_selector(
+                self._data_provider
+            ),
             gs.Selector.TOP_TEN_JRPGS: GameSelector(
                 _filter=lambda g: g.genre
                 in set(

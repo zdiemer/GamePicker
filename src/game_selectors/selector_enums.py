@@ -114,6 +114,10 @@ class Selector(Enum):
     ONE_PER_PLATFORM_CHALLENGE_UNPLAYABLE = "One Per Platform Challenge Unplayable"
     ONE_PER_PLAYTIME_CHALLENGE = "One Per Playtime Challenge"
     ONE_PER_PLAYTIME_CHALLENGE_COMPLETIONS = "One Per Playtime Challenge Completions"
+    ONE_PER_DATA_SOURCE_CHALLENGE = "One Per Data Source Challenge"
+    ONE_PER_DATA_SOURCE_CHALLENGE_COMPLETIONS = (
+        "One Per Data Source Challenge Completions"
+    )
     ONE_PER_PURCHASE_DATE_CHALLENGE = "One Per Purchase Date Challenge"
     ONE_PER_PURCHASE_DATE_CHALLENGE_COMPLETIONS = (
         "One Per Purchase Date Challenge Completions"
@@ -146,10 +150,12 @@ class Selector(Enum):
     POINT_AND_CLICK_GAMES = "Point and Click Games"
     POTENTIAL_DUPLICATES = "Potential Duplicates"
     PRICE_DIFFERENCE = "Price Difference"
+    PURCHASE_BACKLOG = "Purchase Backlog"
     PURCHASE_TO_COMPLETION_GAPS = "Purchase to Completion Gaps"
     PUZZLE_GAMES = "Puzzle Games"
     QUARTERLY_SPEND = "Quarterly Spend"
     RAIL_SHOOTERS = "Rail Shooters"
+    REPLAY_CANDIDATES = "Replay Candidates"
     RUN_AND_GUN = "Run and Gun"
     S_GAMES = "S Games"
     SAN_FRANCISCO_GAMES = "San Francisco Games"
@@ -169,6 +175,7 @@ class Selector(Enum):
     TOP_BY_SELECTOR = "Top By Selector"
     TOP_GAMES = "Top Games"
     TOP_TEN_JRPGS = "Top 10 JRPGs"
+    TOP_TEN_BY_YEAR = "Top Ten by Year"
     UNDER_1_HOUR = "Under 1 Hour"
     UNDER_1_HOUR_UNCOMMON_GENRE = "Under 1 Hour - Uncommon Genre"
     UNDERPRIORITIZED = "Underprioritized"

@@ -1,13 +1,15 @@
+import os
+import statistics
+from concurrent.futures import ProcessPoolExecutor
 from typing import Callable, Dict, List, Set, Tuple
 
 # import csv
 import jsonpickle
-import os
-import statistics
+from excel_game import ExcelGame, ExcelGenre
 
 # from data_provider import DataProvider
 from game_match import DataSource, GameMatch
-from excel_game import ExcelGame, ExcelGenre
+
 from output_constants import GENRE_MAPPINGS
 
 
@@ -16,26 +18,51 @@ class OutputParser:
     game_genres_cache: Dict[ExcelGame, Set[ExcelGenre]] = {}
 
     @staticmethod
+    def load_single_file(file_path: str) -> dict:
+        try:
+            with open(file_path, "r", encoding="utf-8") as f:
+                # Decode returns the dictionary chunk from this file
+                return jsonpickle.decode(f.read())
+        except Exception as e:
+            print(f"Error loading {file_path}: {e}")
+            raise e
+
+    @staticmethod
+    def parallel_load(source_folder):
+        game_match_dict = {}
+
+        # 1. Gather all file paths first (memory efficient)
+        file_paths = []
+        for root, _, files in os.walk(source_folder):
+            for file in files:
+                if file.startswith("matches-"):
+                    file_paths.append(os.path.join(root, file))
+
+        # 2. Use ProcessPoolExecutor for CPU-bound decoding tasks
+        # max_workers defaults to the number of processors on the machine
+        with ProcessPoolExecutor() as executor:
+            # map() handles the distribution of files to processes
+            results = executor.map(OutputParser.load_single_file, file_paths)
+
+            # 3. Update the main dictionary as results come in
+            for partial_dict in results:
+                game_match_dict.update(partial_dict)
+
+        return game_match_dict
+
+    @staticmethod
     def get_source_output(source: DataSource) -> Dict[str, GameMatch]:
         if source in OutputParser.output_cache:
             return OutputParser.output_cache[source]
 
-        output_root = "D:\\Code\\GameMaster\\output"
+        output_root = "E:\\Code\\GameMaster\\output"
         source_folder = f"{output_root}\\{source.name.lower()}"
 
-        game_match_dict: Dict[str, GameMatch] = {}
+        jsonpickle.set_preferred_backend("ujson")
 
-        for root, _, files in os.walk(source_folder):
-            for file in files:
-                if not file.startswith("matches-"):
-                    continue
+        OutputParser.output_cache[source] = OutputParser.parallel_load(source_folder)
 
-                with open(f"{root}/{file}", "r", encoding="utf-8") as f:
-                    game_match_dict.update(jsonpickle.decode(f.read()))
-
-        OutputParser.output_cache[source] = game_match_dict
-
-        return game_match_dict
+        return OutputParser.output_cache[source]
 
     @staticmethod
     def get_source_output_filtered(

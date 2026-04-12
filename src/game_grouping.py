@@ -4,6 +4,7 @@ from collections import OrderedDict
 from typing import Any, Callable, Dict, List, Optional, Tuple
 
 from excel_game import ExcelGame, ExcelPlatform
+
 from picked_game import PickedGame
 
 
@@ -78,6 +79,18 @@ class GameGroups:
         return (
             len(self._grouping) if self._aggregation is None else len(self._aggregation)
         )
+
+    def __iter__(self):
+        self._iteridx = 1
+        return self
+
+    def __next__(self):
+        if len(self) < self._iteridx:
+            item = self[self._iteridx]
+            self._iteridx += 1
+            return item
+        else:
+            raise StopIteration
 
 
 class GameGrouping:
@@ -184,7 +197,7 @@ class GameGrouping:
                     else (
                         f"{total_playtime:,.2f}"
                         if total_playtime >= 1
-                        else f"{int(total_playtime*60)}"
+                        else f"{int(total_playtime * 60)}"
                     )
                 )
                 + f"{'hr' if total_playtime >= 1 else 'min'}]"

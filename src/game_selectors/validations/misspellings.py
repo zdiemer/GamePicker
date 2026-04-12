@@ -57,4 +57,5 @@ MISSPELLINGS = GameSelector(
     include_in_picks=False,
     include_platform=False,
     grouping=GameGrouping(should_rank=False),
+    enabled=False,
 )

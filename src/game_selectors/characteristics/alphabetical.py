@@ -12,7 +12,9 @@ ALPHABETICAL = GameSelector(
         lambda g: (
             g.normal_title[0].capitalize()
             if g.normal_title[0].isalpha()
-            else "#" if g.normal_title[0].isdigit() else "?"
+            else "#"
+            if g.normal_title[0].isdigit()
+            else "?"
         )
     ),
     run_on_modes=set([PickerMode.ALL]),

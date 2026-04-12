@@ -72,7 +72,7 @@ def get_favorites_selector(data_provider: DataProvider):
     return GameSelector(
         lambda games: favorites(games, data_provider),
         grouping=GameGrouping(
-            lambda g: f'{g.group_metadata.split(":")[0]}s',
+            lambda g: f"{g.group_metadata.split(':')[0]}s",
             subgroupings=[
                 GameGrouping(lambda g: g.group_metadata.split(":")[1].strip())
             ],

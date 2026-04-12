@@ -1,9 +1,11 @@
 from __future__ import annotations
 
+import datetime
 import os
 from typing import Any, Callable, List, Optional, Set
 
 from excel_game import ExcelGame
+
 from excel_backed_cache import ExcelBackedCache
 from game_grouping import GameGrouping, GameGroups
 from picked_game import PickedGame
@@ -93,8 +95,8 @@ class GameSelector:
         def default_sort(g: PickedGame):
             sort_by_values = (
                 g.game.normal_title,
-                g.game.release_date,
-                g.game.combined_rating,
+                g.game.release_date or datetime.datetime.min,
+                g.game.combined_rating or 0.0,
             )
 
             if self._internal_sort is not None:
@@ -161,7 +163,7 @@ class GameSelector:
         return groups
 
     def __get_file_name_base(self) -> str:
-        return f'{self.name.lower().replace(" ", "_")}'
+        return f"{self.name.lower().replace(' ', '_')}"
 
     def get_output_file_name(self) -> str:
         return f"{self.__get_file_name_base()}.txt"

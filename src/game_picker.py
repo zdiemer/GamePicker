@@ -4,13 +4,12 @@ import datetime
 import math
 import os
 import random
+from concurrent.futures import ThreadPoolExecutor
 from difflib import SequenceMatcher, unified_diff
 from typing import List, Optional, Set, Tuple
 
 from excel_game import ExcelGame
-
 from logging_decorator import LoggingColor, LoggingDecorator
-
 
 import picker_output
 from data_provider import DataProvider
@@ -249,32 +248,51 @@ class GamesPicker:
 
         valid_selectors = []
 
-        for selector in selectors:
-            should_skip = selector.skip_unless_specified
+        def _run_selector_internal(
+            s: GameSelector, u: List[ExcelGame], w: bool, n: bool, m: bool
+        ) -> List[PickedGame]:
+            should_skip = s.skip_unless_specified
 
             if platform:
-                selector.no_cache = True
+                s.no_cache = True
 
             start = datetime.datetime.now()
 
-            if force and not selector.no_force:
+            if force and not s.no_force:
                 should_skip = False
 
             if ((not selector_names or not any(selector_names)) and should_skip) or (
-                not selector.include_in_picks and not write_output
+                not s.include_in_picks and not write_output
             ):
-                continue
+                return []
 
-            valid_selectors.append(selector)
+            print(f"Running selector: {s.name}")
 
-            picks = picks.union(
-                self.run_selector(
-                    selector, unplayed, write_output, no_diff, markdown=markdown
+            valid_selectors.append(s)
+
+            try:
+                picks = self.run_selector(s, u, w, n, markdown=m)
+
+                if s.skip_unless_specified and force and not s.no_force:
+                    print(f"Forcing {s.name} took {datetime.datetime.now() - start}")
+
+                return picks
+            except Exception as e:
+                print(f"Exception while running {s.name}, skipping: {e}")
+                return []
+
+        picks = set()
+
+        with ThreadPoolExecutor() as executor:
+            futures = [
+                executor.submit(
+                    _run_selector_internal, s, unplayed, write_output, no_diff, markdown
                 )
-            )
+                for s in selectors
+            ]
 
-            if selector.skip_unless_specified and force and not selector.no_force:
-                print(f"Forcing {selector.name} took {datetime.datetime.now() - start}")
+            for future in futures:
+                picks = picks.union(future.result())
 
         if write_output:
             self.__cleanup()
@@ -365,5 +383,5 @@ class GamesPicker:
         hr_so_far = sum(g.completion_time or 0 for g in complete_games)
 
         print(
-            f"{complete:.02%} ({len(complete_games)}/{len(complete_games)+len(incomplete_games)}) complete ({int(hr_so_far):,}hr). {int(hr_rem):,}hr (or {int(hr_rem / daily_hr):,} days, {int(hr_rem / daily_hr / 7):,} weeks, {int(hr_rem / daily_hr / 7 / 52)} years @ {daily_hr}hr/day) remaining."
+            f"{complete:.02%} ({len(complete_games)}/{len(complete_games) + len(incomplete_games)}) complete ({int(hr_so_far):,}hr). {int(hr_rem):,}hr (or {int(hr_rem / daily_hr):,} days, {int(hr_rem / daily_hr / 7):,} weeks, {int(hr_rem / daily_hr / 7 / 52)} years @ {daily_hr}hr/day) remaining."
         )

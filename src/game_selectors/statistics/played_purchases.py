@@ -16,7 +16,7 @@ def get_group_name(kvp: Tuple[Any, List[PickedGame]]) -> str:
 
     total_purchase_price = sum(g.game.purchase_price for g in games)
 
-    return f'{purchase_date.strftime("%b, %Y")} (${total_purchase_price:.2f})'
+    return f"{purchase_date.strftime('%b, %Y')} (${total_purchase_price:.2f})"
 
 
 def get_played_purchases_selector(data_provider: DataProvider) -> GameSelector:

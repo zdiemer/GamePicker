@@ -1,4 +1,5 @@
 from typing import Dict, Optional, Set
+
 from excel_game import ExcelPlatform
 
 PLATFORM_SHORT_NAMES: Dict[Optional[ExcelPlatform], str] = {

@@ -1,9 +1,8 @@
+import asyncio
 from enum import Enum
 from typing import Dict, List, Set
 
-import asyncio
 import numpy as np
-
 from clients import (
     BackloggdClient,
     DatePart,

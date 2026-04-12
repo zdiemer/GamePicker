@@ -1,10 +1,13 @@
-from typing import Any, Callable, List, Optional, Set, Tuple
 import datetime
+from typing import Any, Callable, List, Optional, Set, Tuple
 
 from excel_game import ExcelGame, ExcelOwnedFormat, ExcelPlatform, ExcelRegion
+from game_match import DataSource
+
 from data_provider import DataProvider
 from game_grouping import GameGrouping, GameGroups
 from game_selector import GameSelector
+from output_parser import OutputParser
 from picked_game import PickedGame
 from picker_enums import PickerMode
 
@@ -24,16 +27,8 @@ def get_platform_completion_id(game: ExcelGame) -> str:
 
     # MAME and Non-Mame
     if game.platform == ExcelPlatform.ARCADE:
-        if game.physical_media_format == "LaserDisc":
-            return f"{game.platform.value} (LaserDisc)"
-        if game.notes in ("Atomiswave", "Naomi"):
-            return f"{game.platform.value} (Naomi)"
-        if game.notes == "Triforce":
-            return f"{game.platform.value} (Triforce)"
-        if game.notes == "Chihiro":
-            return f"{game.platform.value} (Chihiro)"
-        if game.notes == "System 573":
-            return f"{game.platform.value} (System 573)"
+        if game.notes is not None and any(game.notes):
+            return f"{game.platform.value} ({game.notes})"
         if game.mame_romset is not None:
             return f"{game.platform.value} (MAME)"
         return f"{game.platform.value} (Non-MAME)"
@@ -191,7 +186,9 @@ def get_alphabetical_first_letter(game: ExcelGame) -> str:
     return (
         game.normal_title[0].capitalize()
         if game.normal_title[0].isalpha()
-        else "#" if game.normal_title[0].isdigit() else "?"
+        else "#"
+        if game.normal_title[0].isdigit()
+        else "?"
     )
 
 
@@ -227,6 +224,23 @@ def get_top_developers(games: List[ExcelGame], n: int = 50) -> Set[str]:
             )
         )[:n]
     )
+
+
+def group_by_data_source(game: ExcelGame) -> Optional[str]:
+    for cur_source in list(DataSource):
+        if cur_source not in OutputParser.output_cache:
+            continue
+
+        cur_set = set(OutputParser.output_cache[cur_source].keys())
+        for source, values in OutputParser.output_cache.items():
+            if source == cur_source:
+                continue
+            cur_set -= set(values.keys())
+
+        if game.hash_id in cur_set:
+            return cur_source.value
+
+    return None
 
 
 def one_per_criteria_challenge(
@@ -268,6 +282,7 @@ def get_one_per_criteria_challenge_selector(
     ] = None,
     custom_grouping_sort_reverse: bool = False,
     times_completed: int = 0,
+    skip_unless_specified: bool = False,
 ) -> GameSelector:
     name = f"One Per {criteria_name.title()} Challenge"
 
@@ -352,4 +367,5 @@ def get_one_per_criteria_challenge_selector(
         reverse_sort=not completions,
         name=name,
         games=games_override,
+        skip_unless_specified=skip_unless_specified,
     )
