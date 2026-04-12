@@ -1,6 +1,5 @@
 from data_provider import DataProvider
 from game_selector import GameSelector
-from picker_enums import PickerMode
 
 
 def get_alternate_editions_selector(data_provider: DataProvider) -> GameSelector:

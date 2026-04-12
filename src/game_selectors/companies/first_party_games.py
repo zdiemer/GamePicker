@@ -3,7 +3,6 @@ from typing import Dict, List, Optional, Tuple
 from excel_game import ExcelPlatform
 from game_grouping import GameGrouping
 from game_selector import GameSelector
-from picker_enums import PickerMode
 
 COMPANY_PLATFORMS: Dict[str, List[ExcelPlatform]] = {
     "Panasonic": [ExcelPlatform._3DO],

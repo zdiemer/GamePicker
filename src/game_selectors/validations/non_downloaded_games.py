@@ -1,11 +1,10 @@
-from typing import Dict, List
+from typing import List
 import os
 import re
 
 from pathlib import Path
 
 from excel_game import ExcelGame, ExcelPlatform
-from game_match import GameMatch
 
 from data_provider import DataProvider
 from game_grouping import GameGrouping

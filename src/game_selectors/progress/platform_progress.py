@@ -5,7 +5,6 @@ from data_provider import DataProvider
 from game_grouping import GameGrouping
 from game_selector import GameSelector
 from picked_game import PickedGame
-from picker_enums import PickerMode
 
 
 def get_or_set(
