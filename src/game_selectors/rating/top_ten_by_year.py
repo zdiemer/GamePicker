@@ -18,22 +18,26 @@ def get_top_ten_by_year_selector(
 
     for games in completed_games_by_year.values():
         year_games_by_rating = GameGrouping(lambda g: g.rating).get_groups(
-            [g.game for g in games]
+            [g.game for g in games if g.game.rating is not None]
         )
 
-        for rating_games in sorted(
-            year_games_by_rating, key=lambda kvp: kvp[0], reverse=True
+        for _rating, rating_games in sorted(
+            year_games_by_rating.items(), key=lambda kvp: kvp[0], reverse=True
         )[:10]:
             if len(rating_games) == 1:
-                completed_games_with_ties.extend(rating_games[1][0].game)
+                completed_games_with_ties.append(rating_games[0].game)
             else:
-                tied_game = rating_games[1][0].get_copy_with_metadata(
-                    " + ".join([g.game.full_name for g in rating_games[1][:1]])
+                tied_game = rating_games[0].game.get_copy_with_metadata(
+                    " + ".join([g.game.full_name for g in rating_games])
                 )
                 completed_games_with_ties.append(tied_game)
 
     return GameSelector(
-        custom_suffix=lambda g: f"{g.group_metadata} - {g.rating:.0%}",
+        custom_suffix=lambda g: (
+            f"{g.group_metadata} - {g.rating:.0%}"
+            if g.group_metadata is not None
+            else f" - {g.rating:.0%}"
+        ),
         sort=lambda g: g.game.rating or 0.0,
         reverse_sort=True,
         name="Top Ten by Year",
